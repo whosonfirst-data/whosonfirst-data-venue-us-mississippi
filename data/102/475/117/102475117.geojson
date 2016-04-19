@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-88.207042,34.488918,-88.207042,34.488918",
+    "geom:latitude":34.488918,
+    "geom:longitude":-88.207042,
+    "iso:country":"US",
+    "sg:address":"200 2nd St",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 454 3474",
+    "sg:postcode":"38827",
+    "sg:province":"AL",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85969929,
+        85633793,
+        85688579,
+        102081021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CdJ58mdFdlAzb8R1mMtP3_34.488918_-88.207042@1293731398"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80db93a9529c4119704b57bf3aed498e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081021,
+            "locality_id":85969929,
+            "region_id":85688579,
+            "venue_id":102475117
+        }
+    ],
+    "wof:id":102475117,
+    "wof:lastmodified":1449068770,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-88.207042,34.488918,-88.207042,34.488918],
+  "geometry": {"coordinates":[-88.207042,34.488918],"type":"Point"}
+}
