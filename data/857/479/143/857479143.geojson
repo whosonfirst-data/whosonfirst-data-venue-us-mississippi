@@ -1,0 +1,71 @@
+{
+  "id": 857479143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554039,34.190528,-90.554039,34.190528",
+    "geom:latitude":34.190528,
+    "geom:longitude":-90.554039,
+    "iso:country":"US",
+    "sg:address":"1120 Ritchie Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 1447",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s0hpxgddcQJSLeAyHDIaf_34.190459_-90.553998@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130355,
+    "wof:geomhash":"74a103df79db3ce29b6d4065a32840e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857479143
+        }
+    ],
+    "wof:id":857479143,
+    "wof:lastmodified":1464130355,
+    "wof:name":"Trinity Rehabilitation Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -90.554039,
+    34.190528,
+    -90.554039,
+    34.190528
+],
+  "geometry": {"coordinates":[-90.554039,34.190528],"type":"Point"}
+}

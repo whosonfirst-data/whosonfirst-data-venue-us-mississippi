@@ -1,0 +1,71 @@
+{
+  "id": 857457961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509474,34.362393,-89.509474,34.362393",
+    "geom:latitude":34.362393,
+    "geom:longitude":-89.509474,
+    "iso:country":"US",
+    "sg:address":"1904 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7988",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p0hdhMtbjZx7vY96u3w6G_34.362393_-89.509474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129916,
+    "wof:geomhash":"2128315d42abeda982f22a7917cf9e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857457961
+        }
+    ],
+    "wof:id":857457961,
+    "wof:lastmodified":1464129916,
+    "wof:name":"University Cleaners",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.509474,
+    34.362393,
+    -89.509474,
+    34.362393
+],
+  "geometry": {"coordinates":[-89.509474,34.362393],"type":"Point"}
+}

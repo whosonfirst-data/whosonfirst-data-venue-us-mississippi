@@ -1,0 +1,71 @@
+{
+  "id": 857354827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562156,34.20169,-90.562156,34.20169",
+    "geom:latitude":34.20169,
+    "geom:longitude":-90.562156,
+    "iso:country":"US",
+    "sg:address":"1014 4th St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3875",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RVNCeio1fHUnZbJX5hUFX_34.201690_-90.562156@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127590,
+    "wof:geomhash":"a168da4457bd78a893124ae68e5d2479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857354827
+        }
+    ],
+    "wof:id":857354827,
+    "wof:lastmodified":1464127590,
+    "wof:name":"Dawson Beauty Shop",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.562156,
+    34.20169,
+    -90.562156,
+    34.20169
+],
+  "geometry": {"coordinates":[-90.562156,34.20169],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857486315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536582,30.372009,-88.536582,30.372009",
+    "geom:latitude":30.372009,
+    "geom:longitude":-88.536582,
+    "iso:country":"US",
+    "sg:address":"2310 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/76314-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 9700",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vm98WK303u8utoRDi2BMH_30.371774_-88.537072@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130491,
+    "wof:geomhash":"493cfa86716d1e6d4129ead8b7b1f56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857486315
+        }
+    ],
+    "wof:id":857486315,
+    "wof:lastmodified":1464130491,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.536582,
+    30.372009,
+    -88.536582,
+    30.372009
+],
+  "geometry": {"coordinates":[-88.536582,30.372009],"type":"Point"}
+}

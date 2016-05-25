@@ -1,0 +1,71 @@
+{
+  "id": 857201225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541657,30.352723,-88.541657,30.352723",
+    "geom:latitude":30.352723,
+    "geom:longitude":-88.541657,
+    "iso:country":"US",
+    "sg:address":"2102 Cleveland Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 218 4487",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sXE99n5WtsOU4GbskSKmQ_30.352723_-88.541657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124198,
+    "wof:geomhash":"a27a09bad9dfedda8ba776cb68c5556b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857201225
+        }
+    ],
+    "wof:id":857201225,
+    "wof:lastmodified":1464124198,
+    "wof:name":"Debras Candles",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -88.541657,
+    30.352723,
+    -88.541657,
+    30.352723
+],
+  "geometry": {"coordinates":[-88.541657,30.352723],"type":"Point"}
+}

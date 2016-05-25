@@ -1,0 +1,71 @@
+{
+  "id": 857221545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567014,34.189071,-90.567014,34.189071",
+    "geom:latitude":34.189071,
+    "geom:longitude":-90.567014,
+    "iso:country":"US",
+    "sg:address":"28 14th St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 9084",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EACWyu2cNBc4B3vqeyXgh_34.189071_-90.567014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124647,
+    "wof:geomhash":"6b35e621253bc4109ac7f23d1c1bb322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857221545
+        }
+    ],
+    "wof:id":857221545,
+    "wof:lastmodified":1464124647,
+    "wof:name":"Small Wonders",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.567014,
+    34.189071,
+    -90.567014,
+    34.189071
+],
+  "geometry": {"coordinates":[-90.567014,34.189071],"type":"Point"}
+}

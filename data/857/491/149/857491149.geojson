@@ -1,0 +1,73 @@
+{
+  "id": 857491149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.668667,32.467008,-88.668667,32.467008",
+    "geom:latitude":32.467008,
+    "geom:longitude":-88.668667,
+    "iso:country":"US",
+    "sg:address":"220 Oakmont Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 9741",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dtpc3zQTpGQKD2FMvroN5_32.467008_-88.668667@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130624,
+    "wof:geomhash":"e77d3ff4cfacbda9e48dbfcc82979179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491149
+        }
+    ],
+    "wof:id":857491149,
+    "wof:lastmodified":1464130624,
+    "wof:name":"Marlow Foods",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.668667,
+    32.467008,
+    -88.668667,
+    32.467008
+],
+  "geometry": {"coordinates":[-88.668667,32.467008],"type":"Point"}
+}

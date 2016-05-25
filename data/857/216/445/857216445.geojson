@@ -1,0 +1,77 @@
+{
+  "id": 857216445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.039492,34.570701,-89.039492,34.570701",
+    "geom:latitude":34.570701,
+    "geom:longitude":-89.039492,
+    "iso:country":"US",
+    "sg:address":"803 Co Rd 75",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 8770",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "salvage",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d7V86IV3JCMbXIx1RPeeX_34.570701_-89.039492@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124541,
+    "wof:geomhash":"3e125267fcd7f6cd4a716fa267dc576c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857216445
+        }
+    ],
+    "wof:id":857216445,
+    "wof:lastmodified":1464124541,
+    "wof:name":"Smith Gene & Sons Auto Repair",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "salvage",
+        "towing"
+    ]
+},
+  "bbox": [
+    -89.039492,
+    34.570701,
+    -89.039492,
+    34.570701
+],
+  "geometry": {"coordinates":[-89.039492,34.570701],"type":"Point"}
+}

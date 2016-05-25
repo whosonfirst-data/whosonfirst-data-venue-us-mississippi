@@ -1,0 +1,74 @@
+{
+  "id": 857278163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133938,32.421275,-90.133938,32.421275",
+    "geom:latitude":32.421275,
+    "geom:longitude":-90.133938,
+    "iso:country":"US",
+    "sg:address":"115 W School St",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 2014",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ridgelandms.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LKvcKA6eZWyKP3MaI3GAv_32.421275_-90.133938@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125872,
+    "wof:geomhash":"9a6bc2182b9a6bf4e38879bfb3e90dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857278163
+        }
+    ],
+    "wof:id":857278163,
+    "wof:lastmodified":1464125872,
+    "wof:name":"Ridgeland Chief Of Police",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.133938,
+    32.421275,
+    -90.133938,
+    32.421275
+],
+  "geometry": {"coordinates":[-90.133938,32.421275],"type":"Point"}
+}

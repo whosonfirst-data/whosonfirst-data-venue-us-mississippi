@@ -1,0 +1,73 @@
+{
+  "id": 857229967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.504368,30.38648,-88.504368,30.38648",
+    "geom:latitude":30.38648,
+    "geom:longitude":-88.504368,
+    "iso:country":"US",
+    "sg:address":"5502 Industrial Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3953",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rg6y4KQvwdcc7D3QrAgq0_30.386480_-88.504368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124807,
+    "wof:geomhash":"c937958579b40dda8aa0c8b4b4dbefa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857229967
+        }
+    ],
+    "wof:id":857229967,
+    "wof:lastmodified":1464124807,
+    "wof:name":"Acme Repair Service",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.504368,
+    30.38648,
+    -88.504368,
+    30.38648
+],
+  "geometry": {"coordinates":[-88.504368,30.38648],"type":"Point"}
+}

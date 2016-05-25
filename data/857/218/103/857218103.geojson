@@ -1,0 +1,75 @@
+{
+  "id": 857218103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.738611,34.892018,-89.738611,34.892018",
+    "geom:latitude":34.892018,
+    "geom:longitude":-89.738611,
+    "iso:country":"US",
+    "sg:address":"8125 US Hwy 78",
+    "sg:city":"Byhalia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 838 4367",
+    "sg:postcode":"38611",
+    "sg:province":"MS",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z46buA0vgD596LMyHXpu2_34.892018_-89.738611@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124576,
+    "wof:geomhash":"d7048d8a706de3142b6521771dd40b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857218103
+        }
+    ],
+    "wof:id":857218103,
+    "wof:lastmodified":1464124576,
+    "wof:name":"Youth Solutions",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -89.738611,
+    34.892018,
+    -89.738611,
+    34.892018
+],
+  "geometry": {"coordinates":[-89.73861100000001,34.892018],"type":"Point"}
+}

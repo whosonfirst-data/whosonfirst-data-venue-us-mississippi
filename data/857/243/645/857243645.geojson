@@ -1,0 +1,71 @@
+{
+  "id": 857243645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.558014,30.365157,-88.558014,30.365157",
+    "geom:latitude":30.365157,
+    "geom:longitude":-88.558014,
+    "iso:country":"US",
+    "sg:address":"600 Convent Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 3403",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nm5XqOvNNYg1ucexAHuXZ_30.365157_-88.558014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125097,
+    "wof:geomhash":"28a27706e74273846b7d22ceb11818d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857243645
+        }
+    ],
+    "wof:id":857243645,
+    "wof:lastmodified":1464125097,
+    "wof:name":"Jackson County Board Supervsrs",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -88.558014,
+    30.365157,
+    -88.558014,
+    30.365157
+],
+  "geometry": {"coordinates":[-88.558014,30.365157],"type":"Point"}
+}

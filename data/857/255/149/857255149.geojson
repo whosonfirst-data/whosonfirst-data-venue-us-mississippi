@@ -1,0 +1,75 @@
+{
+  "id": 857255149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830576,34.990874,-89.830576,34.990874",
+    "geom:latitude":34.990874,
+    "geom:longitude":-89.830576,
+    "iso:country":"US",
+    "sg:address":"9034 Germantown Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 2800",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vRNrWAF4ZFdLAnC5rs2hi_34.990874_-89.830576@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125379,
+    "wof:geomhash":"abc58c2596347082cff3cb6ab14ba8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857255149
+        }
+    ],
+    "wof:id":857255149,
+    "wof:lastmodified":1464125379,
+    "wof:name":"First Tennessee Bank",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -89.830576,
+    34.990874,
+    -89.830576,
+    34.990874
+],
+  "geometry": {"coordinates":[-89.83057599999999,34.990874],"type":"Point"}
+}

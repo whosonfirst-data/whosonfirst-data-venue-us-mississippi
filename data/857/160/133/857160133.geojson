@@ -1,0 +1,73 @@
+{
+  "id": 857160133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.54432,30.367267,-88.54432,30.367267",
+    "geom:latitude":30.367267,
+    "geom:longitude":-88.54432,
+    "iso:country":"US",
+    "sg:address":"1707 Prospect Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9468",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ll2uuUHiUzEbY45HhLEVk_30.367267_-88.544320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123347,
+    "wof:geomhash":"5ab7351d0612ed6572b314cbb47e30af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857160133
+        }
+    ],
+    "wof:id":857160133,
+    "wof:lastmodified":1464123347,
+    "wof:name":"Mc Gregor's Warehouse",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -88.54432,
+    30.367267,
+    -88.54432,
+    30.367267
+],
+  "geometry": {"coordinates":[-88.54432,30.367267],"type":"Point"}
+}

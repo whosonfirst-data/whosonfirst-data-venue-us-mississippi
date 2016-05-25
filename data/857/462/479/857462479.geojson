@@ -1,0 +1,73 @@
+{
+  "id": 857462479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.751142,34.254112,-88.751142,34.254112",
+    "geom:latitude":34.254112,
+    "geom:longitude":-88.751142,
+    "iso:country":"US",
+    "sg:address":"2800 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6096",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ieUOtva8m7ukzcoLyLjgN_34.254112_-88.751142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129998,
+    "wof:geomhash":"5e1cbf90dc653cc5507228e0d551bcfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857462479
+        }
+    ],
+    "wof:id":857462479,
+    "wof:lastmodified":1464129998,
+    "wof:name":"Fusibles",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -88.751142,
+    34.254112,
+    -88.751142,
+    34.254112
+],
+  "geometry": {"coordinates":[-88.751142,34.254112],"type":"Point"}
+}

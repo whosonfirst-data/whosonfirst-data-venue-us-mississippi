@@ -1,0 +1,74 @@
+{
+  "id": 857415941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.687243,32.366221,-88.687243,32.366221",
+    "geom:latitude":32.366221,
+    "geom:longitude":-88.687243,
+    "iso:country":"US",
+    "sg:address":"1019 B St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 7117",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "sg:website":"www.mcelroy.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I5UncaBnWUNv8o82W6ZH6_32.366221_-88.687243@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129006,
+    "wof:geomhash":"7367fcd8c5ade609b645dc5f5ca2f472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857415941
+        }
+    ],
+    "wof:id":857415941,
+    "wof:lastmodified":1464129006,
+    "wof:name":"Mc Elroy Plumbing & Heating",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.687243,
+    32.366221,
+    -88.687243,
+    32.366221
+],
+  "geometry": {"coordinates":[-88.687243,32.366221],"type":"Point"}
+}

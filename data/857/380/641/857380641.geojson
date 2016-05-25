@@ -1,0 +1,71 @@
+{
+  "id": 857380641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518737,34.366699,-89.518737,34.366699",
+    "geom:latitude":34.366699,
+    "geom:longitude":-89.518737,
+    "iso:country":"US",
+    "sg:address":"116 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6722",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kxZTRRaszVuXV3Qq7Pm66_34.366699_-89.518737@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128138,
+    "wof:geomhash":"0ad8964fdce58112bb4d33082bdc810e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857380641
+        }
+    ],
+    "wof:id":857380641,
+    "wof:lastmodified":1464128138,
+    "wof:name":"Kaleidoscope",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -89.518737,
+    34.366699,
+    -89.518737,
+    34.366699
+],
+  "geometry": {"coordinates":[-89.518737,34.366699],"type":"Point"}
+}

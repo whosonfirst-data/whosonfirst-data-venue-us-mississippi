@@ -1,0 +1,73 @@
+{
+  "id": 857366603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659909,33.60704,-88.659909,33.60704",
+    "geom:latitude":33.60704,
+    "geom:longitude":-88.659909,
+    "iso:country":"US",
+    "sg:address":"3152 State Hwy 50",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 4939",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vuo9h8YINEyFIfGm0xM1g_33.607040_-88.659909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127837,
+    "wof:geomhash":"36a3cda38cb58f3b9d187cccd2adc194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857366603
+        }
+    ],
+    "wof:id":857366603,
+    "wof:lastmodified":1464127837,
+    "wof:name":"Golden Triangle Marine Svc",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -88.659909,
+    33.60704,
+    -88.659909,
+    33.60704
+],
+  "geometry": {"coordinates":[-88.659909,33.60704],"type":"Point"}
+}

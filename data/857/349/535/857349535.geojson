@@ -1,0 +1,73 @@
+{
+  "id": 857349535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.517939,34.353145,-89.517939,34.353145",
+    "geom:latitude":34.353145,
+    "geom:longitude":-89.517939,
+    "iso:country":"US",
+    "sg:address":"1300 Access Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 862 5666",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fpTAbaRRf9Q8oHvJGeF3G_34.353145_-89.517939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127476,
+    "wof:geomhash":"1c0bece08b34ae11b93d835cb3a3583e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857349535
+        }
+    ],
+    "wof:id":857349535,
+    "wof:lastmodified":1464127476,
+    "wof:name":"J & J Construction",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.517939,
+    34.353145,
+    -89.517939,
+    34.353145
+],
+  "geometry": {"coordinates":[-89.517939,34.353145],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857240673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.661121,32.366248,-88.661121,32.366248",
+    "geom:latitude":32.366248,
+    "geom:longitude":-88.661121,
+    "iso:country":"US",
+    "sg:address":"801 Oak Grove Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2508",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FEkvsW0oj99aT2uzuq1y8_32.366248_-88.661121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125022,
+    "wof:geomhash":"2ce8d5e33e15cb8ea6c3ae32619112df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857240673
+        }
+    ],
+    "wof:id":857240673,
+    "wof:lastmodified":1464125022,
+    "wof:name":"Oak Grove Sthern Baptst Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.661121,
+    32.366248,
+    -88.661121,
+    32.366248
+],
+  "geometry": {"coordinates":[-88.66112099999999,32.366248],"type":"Point"}
+}

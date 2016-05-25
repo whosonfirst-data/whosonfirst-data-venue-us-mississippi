@@ -1,0 +1,71 @@
+{
+  "id": 857434483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55329,30.365714,-88.55329,30.365714",
+    "geom:latitude":30.365714,
+    "geom:longitude":-88.55329,
+    "iso:country":"US",
+    "sg:address":"1225 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0033",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WoIIxn1KMEVBMD1zY8r2T_30.365714_-88.553290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129455,
+    "wof:geomhash":"fdccb349a1cb471e86e0c1156c049fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857434483
+        }
+    ],
+    "wof:id":857434483,
+    "wof:lastmodified":1464129455,
+    "wof:name":"Mississippi Press Register",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.55329,
+    30.365714,
+    -88.55329,
+    30.365714
+],
+  "geometry": {"coordinates":[-88.55329,30.365714],"type":"Point"}
+}

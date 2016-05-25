@@ -1,0 +1,73 @@
+{
+  "id": 857320945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.124174,32.399536,-90.124174,32.399536",
+    "geom:latitude":32.399536,
+    "geom:longitude":-90.124174,
+    "iso:country":"US",
+    "sg:address":"1530 E County Line Rd",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 2932",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fa540DkGqb9gj0VyDyUvr_32.399536_-90.124174@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126868,
+    "wof:geomhash":"fcea48a0d6fc3811fc69dd14fffe3270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857320945
+        }
+    ],
+    "wof:id":857320945,
+    "wof:lastmodified":1464126868,
+    "wof:name":"Northeast Animal Hospital",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.124174,
+    32.399536,
+    -90.124174,
+    32.399536
+],
+  "geometry": {"coordinates":[-90.124174,32.399536],"type":"Point"}
+}

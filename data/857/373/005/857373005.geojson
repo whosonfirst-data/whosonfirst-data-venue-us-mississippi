@@ -1,0 +1,71 @@
+{
+  "id": 857373005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.779289,33.465158,-88.779289,33.465158",
+    "geom:latitude":33.465158,
+    "geom:longitude":-88.779289,
+    "iso:country":"US",
+    "sg:address":"1107 E Lee Blvd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 9535",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27nIYr2pG4uYdtHTnK360L_33.465158_-88.779289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127969,
+    "wof:geomhash":"5ca98331cc7821bf3917d81cc88cf0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857373005
+        }
+    ],
+    "wof:id":857373005,
+    "wof:lastmodified":1464127969,
+    "wof:name":"University Christian Student",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.779289,
+    33.465158,
+    -88.779289,
+    33.465158
+],
+  "geometry": {"coordinates":[-88.77928900000001,33.465158],"type":"Point"}
+}

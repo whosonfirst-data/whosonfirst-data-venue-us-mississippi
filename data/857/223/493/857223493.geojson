@@ -1,0 +1,75 @@
+{
+  "id": 857223493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.972618,30.402368,-88.972618,30.402368",
+    "geom:latitude":30.402368,
+    "geom:longitude":-88.972618,
+    "iso:country":"US",
+    "sg:address":"2336 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 1928",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71fT4maTK3erOSkO8cJIjL_30.402368_-88.972618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124683,
+    "wof:geomhash":"7d578ef776700e272eefd00ef42220b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857223493
+        }
+    ],
+    "wof:id":857223493,
+    "wof:lastmodified":1464124683,
+    "wof:name":"ABC Key Shop",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -88.972618,
+    30.402368,
+    -88.972618,
+    30.402368
+],
+  "geometry": {"coordinates":[-88.972618,30.402368],"type":"Point"}
+}

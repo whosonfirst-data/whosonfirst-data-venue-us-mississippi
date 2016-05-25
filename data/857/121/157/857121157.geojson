@@ -1,0 +1,68 @@
+{
+  "id": 857121157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.972828,30.402262,-88.972828,30.402262",
+    "geom:latitude":30.402262,
+    "geom:longitude":-88.972828,
+    "iso:country":"US",
+    "sg:address":"2355 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 1120",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mFntaSO4yb1AOx9vYxdYD_30.402262_-88.972828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122476,
+    "wof:geomhash":"d811374232d9664225285be8562420b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857121157
+        }
+    ],
+    "wof:id":857121157,
+    "wof:lastmodified":1464122476,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.972828,
+    30.402262,
+    -88.972828,
+    30.402262
+],
+  "geometry": {"coordinates":[-88.97282800000001,30.402262],"type":"Point"}
+}

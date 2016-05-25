@@ -1,0 +1,73 @@
+{
+  "id": 857388923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539687,30.376856,-88.539687,30.376856",
+    "geom:latitude":30.376856,
+    "geom:longitude":-88.539687,
+    "iso:country":"US",
+    "sg:address":"4100 14th St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3726",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EnfEJpwrw2ftC9MSgDCe5_30.376856_-88.539687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128406,
+    "wof:geomhash":"5b480183dfa971504470b21a998ad184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857388923
+        }
+    ],
+    "wof:id":857388923,
+    "wof:lastmodified":1464128406,
+    "wof:name":"Unemployment Insurance",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -88.539687,
+    30.376856,
+    -88.539687,
+    30.376856
+],
+  "geometry": {"coordinates":[-88.539687,30.376856],"type":"Point"}
+}

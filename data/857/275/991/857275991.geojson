@@ -1,0 +1,71 @@
+{
+  "id": 857275991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.454443,33.682375,-88.454443,33.682375",
+    "geom:latitude":33.682375,
+    "geom:longitude":-88.454443,
+    "iso:country":"US",
+    "sg:address":"40056 Gravel Pit Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 5787",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WsYnKqydlWwAZihwOAeiz_33.682375_-88.454443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125810,
+    "wof:geomhash":"27f920f83e004a16148716f033bc1029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857275991
+        }
+    ],
+    "wof:id":857275991,
+    "wof:lastmodified":1464125810,
+    "wof:name":"Camp Construction",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.454443,
+    33.682375,
+    -88.454443,
+    33.682375
+],
+  "geometry": {"coordinates":[-88.454443,33.682375],"type":"Point"}
+}

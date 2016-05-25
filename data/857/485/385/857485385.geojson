@@ -1,0 +1,72 @@
+{
+  "id": 857485385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435184,33.518631,-88.435184,33.518631",
+    "geom:latitude":33.518631,
+    "geom:longitude":-88.435184,
+    "iso:country":"US",
+    "sg:address":"1927 Highway 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/columbus/157914-grill-at-jackson-square/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2310",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UoI8NVBAawYNz7CMBi8Ad_33.518631_-88.435184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130474,
+    "wof:geomhash":"749a41b6c5f6070baf8859aa467d227b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857485385
+        }
+    ],
+    "wof:id":857485385,
+    "wof:lastmodified":1464130474,
+    "wof:name":"Grill at Jackson Square",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.435184,
+    33.518631,
+    -88.435184,
+    33.518631
+],
+  "geometry": {"coordinates":[-88.43518400000001,33.518631],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857112069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.881701,32.346495,-90.881701,32.346495",
+    "geom:latitude":32.346495,
+    "geom:longitude":-90.881701,
+    "iso:country":"US",
+    "sg:address":"1630 Walnut St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 4566",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ncXwhOmUfvg2x5N9KL1VU_32.346495_-90.881701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122235,
+    "wof:geomhash":"75f3b5648db58992f7a4e054e112d687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857112069
+        }
+    ],
+    "wof:id":857112069,
+    "wof:lastmodified":1464122235,
+    "wof:name":"Vicksburg Fire Department",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.881701,
+    32.346495,
+    -90.881701,
+    32.346495
+],
+  "geometry": {"coordinates":[-90.88170100000001,32.346495],"type":"Point"}
+}

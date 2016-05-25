@@ -1,0 +1,79 @@
+{
+  "id": 857143717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.291192,31.32631,-89.291192,31.32631",
+    "geom:latitude":31.32631,
+    "geom:longitude":-89.291192,
+    "iso:country":"US",
+    "sg:address":"200 Forrest St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 554 1000",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city",
+        "establishment"
+    ],
+    "sg:website":"www.hattiesburgms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oyuRI71xFPBC1O61qnv7h_31.326310_-89.291192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122988,
+    "wof:geomhash":"c31c2d85b333ec6ce4d5b70ce9781d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857143717
+        }
+    ],
+    "wof:id":857143717,
+    "wof:lastmodified":1464122988,
+    "wof:name":"Hattiesburg City Mayor",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -89.291192,
+    31.32631,
+    -89.291192,
+    31.32631
+],
+  "geometry": {"coordinates":[-89.291192,31.32631],"type":"Point"}
+}

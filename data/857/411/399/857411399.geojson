@@ -1,0 +1,75 @@
+{
+  "id": 857411399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.360665,31.319046,-89.360665,31.319046",
+    "geom:latitude":31.319046,
+    "geom:longitude":-89.360665,
+    "iso:country":"US",
+    "sg:address":"2122 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 7085",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970275,
+        102083775,
+        85851769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_376WS5YoeEgaA62krmPHiY_31.319046_-89.360665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128885,
+    "wof:geomhash":"c487586afcd71dcb2236638527d62c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85970275,
+            "neighbourhood_id":85851769,
+            "region_id":85688579,
+            "venue_id":857411399
+        }
+    ],
+    "wof:id":857411399,
+    "wof:lastmodified":1464128885,
+    "wof:name":"Jazz Medical Inc",
+    "wof:parent_id":85851769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.360665,
+    31.319046,
+    -89.360665,
+    31.319046
+],
+  "geometry": {"coordinates":[-89.360665,31.319046],"type":"Point"}
+}

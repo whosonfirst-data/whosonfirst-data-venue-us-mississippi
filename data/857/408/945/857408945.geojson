@@ -1,0 +1,71 @@
+{
+  "id": 857408945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.741835,34.95869,-89.741835,34.95869",
+    "geom:latitude":34.95869,
+    "geom:longitude":-89.741835,
+    "iso:country":"US",
+    "sg:address":"6740 Center Hill Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 2546",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLKnjBbXvqRsOkRUy9XJi_34.958690_-89.741835@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128811,
+    "wof:geomhash":"74a3d7eebf8b97db76035c50883edfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857408945
+        }
+    ],
+    "wof:id":857408945,
+    "wof:lastmodified":1464128811,
+    "wof:name":"Akin Equine Veterinary Svc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.741835,
+    34.95869,
+    -89.741835,
+    34.95869
+],
+  "geometry": {"coordinates":[-89.74183499999999,34.95869],"type":"Point"}
+}

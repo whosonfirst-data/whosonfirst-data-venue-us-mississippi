@@ -1,0 +1,71 @@
+{
+  "id": 857410009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.366145,33.438482,-88.366145,33.438482",
+    "geom:latitude":33.438482,
+    "geom:longitude":-88.366145,
+    "iso:country":"US",
+    "sg:address":"479 Hughes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2480",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DXTVIa3v5ikUBkheOQSz0_33.438482_-88.366145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128837,
+    "wof:geomhash":"c83ea52be8cf9eccc2c22ebadb65b2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857410009
+        }
+    ],
+    "wof:id":857410009,
+    "wof:lastmodified":1464128837,
+    "wof:name":"Today's Woman Beauty Salon",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.366145,
+    33.438482,
+    -88.366145,
+    33.438482
+],
+  "geometry": {"coordinates":[-88.366145,33.438482],"type":"Point"}
+}

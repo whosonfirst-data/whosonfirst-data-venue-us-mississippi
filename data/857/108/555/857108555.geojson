@@ -1,0 +1,75 @@
+{
+  "id": 857108555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701548,32.366029,-88.701548,32.366029",
+    "geom:latitude":32.366029,
+    "geom:longitude":-88.701548,
+    "iso:country":"US",
+    "sg:address":"2306 9th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6881",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YEtrNW9eqHX4PeU4SbRbn_32.366029_-88.701548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122104,
+    "wof:geomhash":"45241f4e025c105d0e667cc9a79ff35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857108555
+        }
+    ],
+    "wof:id":857108555,
+    "wof:lastmodified":1464122104,
+    "wof:name":"Jones Cleaners Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -88.701548,
+    32.366029,
+    -88.701548,
+    32.366029
+],
+  "geometry": {"coordinates":[-88.701548,32.366029],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857122817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.886322,30.396175,-88.886322,30.396175",
+    "geom:latitude":30.396175,
+    "geom:longitude":-88.886322,
+    "iso:country":"US",
+    "sg:address":"727 Howard Ave",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 432 9216",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSbOiBbDB5ns51jGRGikk_30.396175_-88.886322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122524,
+    "wof:geomhash":"773c45c1b75d443b303c0429eb47d1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857122817
+        }
+    ],
+    "wof:id":857122817,
+    "wof:lastmodified":1464122524,
+    "wof:name":"Advanced Computer Svc",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -88.886322,
+    30.396175,
+    -88.886322,
+    30.396175
+],
+  "geometry": {"coordinates":[-88.88632200000001,30.396175],"type":"Point"}
+}

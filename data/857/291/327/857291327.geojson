@@ -1,0 +1,71 @@
+{
+  "id": 857291327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651829,33.607106,-88.651829,33.607106",
+    "geom:latitude":33.607106,
+    "geom:longitude":-88.651829,
+    "iso:country":"US",
+    "sg:address":"221 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 4340",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZuCXKzQZCekNSPeKF2Cg4_33.607106_-88.651829@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126178,
+    "wof:geomhash":"cf8bb090906653aee978b54f6acadfc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857291327
+        }
+    ],
+    "wof:id":857291327,
+    "wof:lastmodified":1464126178,
+    "wof:name":"Barkley Law Firm",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.651829,
+    33.607106,
+    -88.651829,
+    33.607106
+],
+  "geometry": {"coordinates":[-88.65182900000001,33.607106],"type":"Point"}
+}

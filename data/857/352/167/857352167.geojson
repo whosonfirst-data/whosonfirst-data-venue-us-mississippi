@@ -1,0 +1,71 @@
+{
+  "id": 857352167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827701,30.414997,-88.827701,30.414997",
+    "geom:latitude":30.414997,
+    "geom:longitude":-88.827701,
+    "iso:country":"US",
+    "sg:address":"902 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 3333",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PE6CWIAuW0DuJISymPI5n_30.414997_-88.827701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127533,
+    "wof:geomhash":"c65cd071cf791b6079e9cc926d8b12d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857352167
+        }
+    ],
+    "wof:id":857352167,
+    "wof:lastmodified":1464127533,
+    "wof:name":"Washington Avenue Marketplace",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.827701,
+    30.414997,
+    -88.827701,
+    30.414997
+],
+  "geometry": {"coordinates":[-88.827701,30.414997],"type":"Point"}
+}

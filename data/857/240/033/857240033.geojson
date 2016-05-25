@@ -1,0 +1,71 @@
+{
+  "id": 857240033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299255,31.325598,-89.299255,31.325598",
+    "geom:latitude":31.325598,
+    "geom:longitude":-89.299255,
+    "iso:country":"US",
+    "sg:address":"166 Saint Paul St",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 736 7611",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ggsjp2a1OgleHrq9Oe8ri_31.325598_-89.299255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125010,
+    "wof:geomhash":"1e2d995e6a694df5991b453df1a6ebc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857240033
+        }
+    ],
+    "wof:id":857240033,
+    "wof:lastmodified":1464125010,
+    "wof:name":"South Mississippi Taxidermy",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -89.299255,
+    31.325598,
+    -89.299255,
+    31.325598
+],
+  "geometry": {"coordinates":[-89.299255,31.325598],"type":"Point"}
+}

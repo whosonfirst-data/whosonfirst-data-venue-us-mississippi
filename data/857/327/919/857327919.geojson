@@ -1,0 +1,71 @@
+{
+  "id": 857327919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.630735,30.455812,-88.630735,30.455812",
+    "geom:latitude":30.455812,
+    "geom:longitude":-88.630735,
+    "iso:country":"US",
+    "sg:address":"1213 Cotita Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 6236",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3721zIYmQmqAxfyZJt3sTN_30.455812_-88.630735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127011,
+    "wof:geomhash":"9f472a515c20a2024ff20a43572e0056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857327919
+        }
+    ],
+    "wof:id":857327919,
+    "wof:lastmodified":1464127011,
+    "wof:name":"Harold & Shelby Lawrence",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -88.630735,
+    30.455812,
+    -88.630735,
+    30.455812
+],
+  "geometry": {"coordinates":[-88.630735,30.455812],"type":"Point"}
+}

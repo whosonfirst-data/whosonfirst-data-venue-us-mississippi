@@ -1,0 +1,71 @@
+{
+  "id": 857429173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55043,30.51745,-88.55043,30.51745",
+    "geom:latitude":30.51745,
+    "geom:longitude":-88.55043,
+    "iso:country":"US",
+    "sg:address":"12002 State Hwy 613",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 8135",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TbtNFwV1SrxfpN8eTIZeO_30.517450_-88.550430@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129321,
+    "wof:geomhash":"5a06fe3f665511ab51be8b0b5b0e2196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857429173
+        }
+    ],
+    "wof:id":857429173,
+    "wof:lastmodified":1464129321,
+    "wof:name":"J & A Country Store",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.55043,
+    30.51745,
+    -88.55043,
+    30.51745
+],
+  "geometry": {"coordinates":[-88.55043000000001,30.51745],"type":"Point"}
+}

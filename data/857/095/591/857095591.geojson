@@ -1,0 +1,73 @@
+{
+  "id": 857095591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.411175,32.863356,-90.411175,32.863356",
+    "geom:latitude":32.863356,
+    "geom:longitude":-90.411175,
+    "iso:country":"US",
+    "sg:address":"1010 Dr Martin Luther King Jr Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3010",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01gg1Mj61uYyJGpotu806N_32.863356_-90.411175@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121803,
+    "wof:geomhash":"45df2af74b4ffb2ae6d3b618c79a37f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857095591
+        }
+    ],
+    "wof:id":857095591,
+    "wof:lastmodified":1464121803,
+    "wof:name":"911 Hair Design",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -90.411175,
+    32.863356,
+    -90.411175,
+    32.863356
+],
+  "geometry": {"coordinates":[-90.411175,32.863356],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857420195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57621,34.22651,-90.57621,34.22651",
+    "geom:latitude":34.22651,
+    "geom:longitude":-90.57621,
+    "iso:country":"US",
+    "sg:address":"296 Westover Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4006",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CAiogtvRcqTOyprp7QQpY_34.226510_-90.576210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129101,
+    "wof:geomhash":"2eb2d477bb63724f95651f2b32c2db90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857420195
+        }
+    ],
+    "wof:id":857420195,
+    "wof:lastmodified":1464129101,
+    "wof:name":"T & G Farms Partnership",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.57621,
+    34.22651,
+    -90.57621,
+    34.22651
+],
+  "geometry": {"coordinates":[-90.57621,34.22651],"type":"Point"}
+}

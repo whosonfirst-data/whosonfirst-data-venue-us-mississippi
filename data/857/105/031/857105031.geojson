@@ -1,0 +1,75 @@
+{
+  "id": 857105031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.563215,33.46501,-88.563215,33.46501",
+    "geom:latitude":33.46501,
+    "geom:longitude":-88.563215,
+    "iso:country":"US",
+    "sg:address":"2691 Motley Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 5988",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NkV2eBYRk1wBKYUGyX4iI_33.465010_-88.563215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122026,
+    "wof:geomhash":"51e83027f57d8bb2346361ffbe324519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857105031
+        }
+    ],
+    "wof:id":857105031,
+    "wof:lastmodified":1464122026,
+    "wof:name":"Furbabies",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -88.563215,
+    33.46501,
+    -88.563215,
+    33.46501
+],
+  "geometry": {"coordinates":[-88.563215,33.46501],"type":"Point"}
+}

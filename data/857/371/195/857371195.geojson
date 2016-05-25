@@ -1,0 +1,71 @@
+{
+  "id": 857371195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.520217,30.401727,-88.520217,30.401727",
+    "geom:latitude":30.401727,
+    "geom:longitude":-88.520217,
+    "iso:country":"US",
+    "sg:address":"4125 Carroll St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 8461",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sLyXgBkuDHIahXab5FkEy_30.401727_-88.520217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127928,
+    "wof:geomhash":"7ca8aadb6d5bff68d28997b753e6eb00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857371195
+        }
+    ],
+    "wof:id":857371195,
+    "wof:lastmodified":1464127928,
+    "wof:name":"Kreole Supermarket",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.520217,
+    30.401727,
+    -88.520217,
+    30.401727
+],
+  "geometry": {"coordinates":[-88.520217,30.401727],"type":"Point"}
+}

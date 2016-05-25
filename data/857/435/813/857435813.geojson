@@ -1,0 +1,67 @@
+{
+  "id": 857435813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690455,30.520294,-88.690455,30.520294",
+    "geom:latitude":30.520294,
+    "geom:longitude":-88.690455,
+    "iso:country":"US",
+    "sg:address":"12210 Col Vickrey Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1757",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:website":"www.jcsd.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67CrDYW7hN1ciQrvXqVeWF_30.520294_-88.690455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129483,
+    "wof:geomhash":"3ceb32eb907143743f54f57a01bf532d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857435813
+        }
+    ],
+    "wof:id":857435813,
+    "wof:lastmodified":1464129483,
+    "wof:name":"Jackson County Schools Adm Ofc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.690455,
+    30.520294,
+    -88.690455,
+    30.520294
+],
+  "geometry": {"coordinates":[-88.690455,30.520294],"type":"Point"}
+}

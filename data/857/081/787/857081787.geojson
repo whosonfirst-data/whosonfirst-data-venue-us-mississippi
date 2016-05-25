@@ -1,0 +1,87 @@
+{
+  "id": 857081787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158729,32.384106,-90.158729,32.384106",
+    "geom:latitude":32.384106,
+    "geom:longitude":-90.158729,
+    "iso:country":"US",
+    "sg:address":"5830 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 957 5830",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "communication",
+        "system",
+        "contractor"
+    ],
+    "sg:website":"www.soundandcom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85822959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z3CgRpynzg1lJkC3EKNRy_32.384106_-90.158729@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121445,
+    "wof:geomhash":"dc6a7c2118d30f31d7634da00278a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85822959,
+            "region_id":85688579,
+            "venue_id":857081787
+        }
+    ],
+    "wof:id":857081787,
+    "wof:lastmodified":1464121445,
+    "wof:name":"Sound & Communications Inc",
+    "wof:parent_id":85822959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "communication",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.158729,
+    32.384106,
+    -90.158729,
+    32.384106
+],
+  "geometry": {"coordinates":[-90.15872899999999,32.384106],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857454701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.333337,31.335713,-89.333337,31.335713",
+    "geom:latitude":31.335713,
+    "geom:longitude":-89.333337,
+    "iso:country":"US",
+    "sg:address":"2900 W 7th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 1830",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fl0voF3eLXaOA6taM4zpk_31.335713_-89.333337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129850,
+    "wof:geomhash":"7115bb8a194a2ab7bad6c78c2a8c5b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857454701
+        }
+    ],
+    "wof:id":857454701,
+    "wof:lastmodified":1464129850,
+    "wof:name":"Fowler Co",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -89.333337,
+    31.335713,
+    -89.333337,
+    31.335713
+],
+  "geometry": {"coordinates":[-89.333337,31.335713],"type":"Point"}
+}

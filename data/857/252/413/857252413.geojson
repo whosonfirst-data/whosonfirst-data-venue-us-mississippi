@@ -1,0 +1,75 @@
+{
+  "id": 857252413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.047629,30.415983,-89.047629,30.415983",
+    "geom:latitude":30.415983,
+    "geom:longitude":-89.047629,
+    "iso:country":"US",
+    "sg:address":"5005 Kendall Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8939",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dExqHX2YXkZs55qcux9a7_30.415983_-89.047629@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125305,
+    "wof:geomhash":"a8e623d16f0f78bb479c1951cf03994f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857252413
+        }
+    ],
+    "wof:id":857252413,
+    "wof:lastmodified":1464125305,
+    "wof:name":"Steve Parker's House Washing",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "washing"
+    ]
+},
+  "bbox": [
+    -89.047629,
+    30.415983,
+    -89.047629,
+    30.415983
+],
+  "geometry": {"coordinates":[-89.047629,30.415983],"type":"Point"}
+}

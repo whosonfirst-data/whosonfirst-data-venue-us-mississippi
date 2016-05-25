@@ -1,0 +1,73 @@
+{
+  "id": 857311771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528405,33.387182,-88.528405,33.387182",
+    "geom:latitude":33.387182,
+    "geom:longitude":-88.528405,
+    "iso:country":"US",
+    "sg:address":"358 Malvern Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 1434",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahWQcxFAkDGFyDVU159rW_33.387182_-88.528405@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126656,
+    "wof:geomhash":"8b8817bd3ab9f54239d24e5139bdde22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857311771
+        }
+    ],
+    "wof:id":857311771,
+    "wof:lastmodified":1464126656,
+    "wof:name":"Kesler Farms",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.528405,
+    33.387182,
+    -88.528405,
+    33.387182
+],
+  "geometry": {"coordinates":[-88.52840500000001,33.387182],"type":"Point"}
+}

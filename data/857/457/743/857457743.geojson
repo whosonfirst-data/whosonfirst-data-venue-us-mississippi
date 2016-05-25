@@ -1,0 +1,75 @@
+{
+  "id": 857457743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42349,33.50009,-88.42349,33.50009",
+    "geom:latitude":33.50009,
+    "geom:longitude":-88.42349,
+    "iso:country":"US",
+    "sg:address":"900 5th Ave N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4732",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dl0JtuX0F8KkR4Kjq6mmM_33.500090_-88.423490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129910,
+    "wof:geomhash":"887f7b76ed12a6127543c8b2a3e13d6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857457743
+        }
+    ],
+    "wof:id":857457743,
+    "wof:lastmodified":1464129910,
+    "wof:name":"Hunt's Home Improvements Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.42349,
+    33.50009,
+    -88.42349,
+    33.50009
+],
+  "geometry": {"coordinates":[-88.42349,33.50009],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857156475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.284236,31.21064,-89.284236,31.21064",
+    "geom:latitude":31.21064,
+    "geom:longitude":-89.284236,
+    "iso:country":"US",
+    "sg:address":"89 Rogers Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2900",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q7ik1x06i6GDvd8L18ALC_31.210640_-89.284236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123275,
+    "wof:geomhash":"de6bbdfaf5a984a24d7d708f67d11278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857156475
+        }
+    ],
+    "wof:id":857156475,
+    "wof:lastmodified":1464123275,
+    "wof:name":"PPC Protective Products Co",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.284236,
+    31.21064,
+    -89.284236,
+    31.21064
+],
+  "geometry": {"coordinates":[-89.28423600000001,31.21064],"type":"Point"}
+}

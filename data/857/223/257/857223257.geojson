@@ -1,0 +1,71 @@
+{
+  "id": 857223257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158094,32.25325,-90.158094,32.25325",
+    "geom:latitude":32.25325,
+    "geom:longitude":-90.158094,
+    "iso:country":"US",
+    "sg:address":"109 Interstate Dr",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 9424",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MpevgpdHKy84wkTgJKW9O_32.253250_-90.158094@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124679,
+    "wof:geomhash":"afb506b5446ce6e35dccb5f745d57eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857223257
+        }
+    ],
+    "wof:id":857223257,
+    "wof:lastmodified":1464124679,
+    "wof:name":"Mc Gufie Painting",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.158094,
+    32.25325,
+    -90.158094,
+    32.25325
+],
+  "geometry": {"coordinates":[-90.15809400000001,32.25325],"type":"Point"}
+}

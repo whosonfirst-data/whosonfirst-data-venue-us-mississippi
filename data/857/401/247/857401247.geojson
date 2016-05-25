@@ -1,0 +1,73 @@
+{
+  "id": 857401247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588955,34.200823,-90.588955,34.200823",
+    "geom:latitude":34.200823,
+    "geom:longitude":-90.588955,
+    "iso:country":"US",
+    "sg:address":"607 W 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5902",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vmc4bSXovBgZJHOpDx4mE_34.200823_-90.588955@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128649,
+    "wof:geomhash":"cbfa884d3d32ae7748d472170852a01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857401247
+        }
+    ],
+    "wof:id":857401247,
+    "wof:lastmodified":1464128649,
+    "wof:name":"Specialty Air Charter",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.588955,
+    34.200823,
+    -90.588955,
+    34.200823
+],
+  "geometry": {"coordinates":[-90.588955,34.200823],"type":"Point"}
+}

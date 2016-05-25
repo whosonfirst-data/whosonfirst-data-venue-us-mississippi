@@ -1,0 +1,73 @@
+{
+  "id": 857417825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.526993,30.377619,-88.526993,30.377619",
+    "geom:latitude":30.377619,
+    "geom:longitude":-88.526993,
+    "iso:country":"US",
+    "sg:address":"5404 US Hwy 90",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2992",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gc44M7e3LgE4MTQ7eN9YI_30.377619_-88.526993@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129056,
+    "wof:geomhash":"1ec0190ba45ef2240a684b7fb5d98ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857417825
+        }
+    ],
+    "wof:id":857417825,
+    "wof:lastmodified":1464129056,
+    "wof:name":"CSX Transportation Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -88.526993,
+    30.377619,
+    -88.526993,
+    30.377619
+],
+  "geometry": {"coordinates":[-88.526993,30.377619],"type":"Point"}
+}

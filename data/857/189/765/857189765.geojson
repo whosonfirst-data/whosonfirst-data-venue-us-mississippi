@@ -1,0 +1,75 @@
+{
+  "id": 857189765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.54415,33.688989,-88.54415,33.688989",
+    "geom:latitude":33.688989,
+    "geom:longitude":-88.54415,
+    "iso:country":"US",
+    "sg:address":"10092 Lakeview Dr",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6720",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01SYVCrEe5ToamkQU7bAVE_33.688989_-88.544150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123986,
+    "wof:geomhash":"f77e0c9820cd29a95250183a4d6cbcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857189765
+        }
+    ],
+    "wof:id":857189765,
+    "wof:lastmodified":1464123986,
+    "wof:name":"Lakeview Plantation",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -88.54415,
+    33.688989,
+    -88.54415,
+    33.688989
+],
+  "geometry": {"coordinates":[-88.54415,33.688989],"type":"Point"}
+}

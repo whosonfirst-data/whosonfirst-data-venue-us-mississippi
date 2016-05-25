@@ -1,0 +1,73 @@
+{
+  "id": 857269481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.551481,34.366243,-89.551481,34.366243",
+    "geom:latitude":34.366243,
+    "geom:longitude":-89.551481,
+    "iso:country":"US",
+    "sg:address":"1615 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 0508",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KyqofOneidBJD4PtqSdnc_34.366243_-89.551481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125676,
+    "wof:geomhash":"4c2e2389738e05f9eaadbc4630d3da34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857269481
+        }
+    ],
+    "wof:id":857269481,
+    "wof:lastmodified":1464125676,
+    "wof:name":"Elrac Inc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.551481,
+    34.366243,
+    -89.551481,
+    34.366243
+],
+  "geometry": {"coordinates":[-89.551481,34.366243],"type":"Point"}
+}

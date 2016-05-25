@@ -1,0 +1,71 @@
+{
+  "id": 857091847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43239,33.49057,-88.43239,33.49057",
+    "geom:latitude":33.49057,
+    "geom:longitude":-88.43239,
+    "iso:country":"US",
+    "sg:address":"501 1st St S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2231",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60zpjJnY3AXhjj2e0roWw6_33.490570_-88.432390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121729,
+    "wof:geomhash":"5374853125479ae935ea80d670e170c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857091847
+        }
+    ],
+    "wof:id":857091847,
+    "wof:lastmodified":1464121729,
+    "wof:name":"Burdine Richard Law Office",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.43239,
+    33.49057,
+    -88.43239,
+    33.49057
+],
+  "geometry": {"coordinates":[-88.43239,33.49057],"type":"Point"}
+}

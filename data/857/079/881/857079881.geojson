@@ -1,0 +1,71 @@
+{
+  "id": 857079881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795216,34.965293,-89.795216,34.965293",
+    "geom:latitude":34.965293,
+    "geom:longitude":-89.795216,
+    "iso:country":"US",
+    "sg:address":"7235 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 7878",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EM8kClUm08QgtdPkNxoTI_34.965293_-89.795216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121400,
+    "wof:geomhash":"2cdce2f211782b486c7f7e8570d6acd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857079881
+        }
+    ],
+    "wof:id":857079881,
+    "wof:lastmodified":1464121400,
+    "wof:name":"Desoto Family Medical Center",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.795216,
+    34.965293,
+    -89.795216,
+    34.965293
+],
+  "geometry": {"coordinates":[-89.795216,34.965293],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857333469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.880345,32.342037,-90.880345,32.342037",
+    "geom:latitude":32.342037,
+    "geom:longitude":-90.880345,
+    "iso:country":"US",
+    "sg:address":"1910 Drummond St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 0150",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JjYGdFmsShPtlb0kxZZ1h_32.342037_-90.880345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127133,
+    "wof:geomhash":"d701105ab6135d1dbcc620039b526e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857333469
+        }
+    ],
+    "wof:id":857333469,
+    "wof:lastmodified":1464127133,
+    "wof:name":"IBM",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.880345,
+    32.342037,
+    -90.880345,
+    32.342037
+],
+  "geometry": {"coordinates":[-90.88034500000001,32.342037],"type":"Point"}
+}

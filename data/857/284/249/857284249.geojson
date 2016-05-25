@@ -1,0 +1,73 @@
+{
+  "id": 857284249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43387,33.521369,-88.43387,33.521369",
+    "geom:latitude":33.521369,
+    "geom:longitude":-88.43387,
+    "iso:country":"US",
+    "sg:address":"2003 Old Aberdeen Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2476",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nOKyb32zfhiTRjfSfbtm_33.521369_-88.433870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126006,
+    "wof:geomhash":"c060fd6d25d885da8d24e7b081beeff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857284249
+        }
+    ],
+    "wof:id":857284249,
+    "wof:lastmodified":1464126006,
+    "wof:name":"Golden Triangle Radiology Assn",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.43387,
+    33.521369,
+    -88.43387,
+    33.521369
+],
+  "geometry": {"coordinates":[-88.43387,33.521369],"type":"Point"}
+}

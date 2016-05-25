@@ -1,0 +1,73 @@
+{
+  "id": 857476105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562831,34.195317,-90.562831,34.195317",
+    "geom:latitude":34.195317,
+    "geom:longitude":-90.562831,
+    "iso:country":"US",
+    "sg:address":"906 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9977",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gopc8fgnlOLRF2OGtp7sW_34.195358_-90.562312@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130298,
+    "wof:geomhash":"22bd6653d8179e0f7dd08dcd1945df0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857476105
+        }
+    ],
+    "wof:id":857476105,
+    "wof:lastmodified":1464130298,
+    "wof:name":"Quality Seafood II",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -90.562831,
+    34.195317,
+    -90.562831,
+    34.195317
+],
+  "geometry": {"coordinates":[-90.562831,34.195317],"type":"Point"}
+}

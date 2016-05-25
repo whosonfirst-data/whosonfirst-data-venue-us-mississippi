@@ -1,0 +1,73 @@
+{
+  "id": 857368603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430324,33.528402,-88.430324,33.528402",
+    "geom:latitude":33.528402,
+    "geom:longitude":-88.430324,
+    "iso:country":"US",
+    "sg:address":"634 N 31st Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1161",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RPoMbAlLV7Tm2X1KVX6Xr_33.528402_-88.430324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127875,
+    "wof:geomhash":"71725f9bc0cc0e17f8c43df3f81c5259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857368603
+        }
+    ],
+    "wof:id":857368603,
+    "wof:lastmodified":1464127875,
+    "wof:name":"Foxrun",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.430324,
+    33.528402,
+    -88.430324,
+    33.528402
+],
+  "geometry": {"coordinates":[-88.430324,33.528402],"type":"Point"}
+}

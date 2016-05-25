@@ -1,0 +1,85 @@
+{
+  "id": 857433733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.141738,32.331815,-90.141738,32.331815",
+    "geom:latitude":32.331815,
+    "geom:longitude":-90.141738,
+    "iso:country":"US",
+    "sg:address":"2630 Ridgewood Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 8232",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dj5M5p8lK7pYmUWuDih2w_32.331815_-90.141738@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129442,
+    "wof:geomhash":"1d12abb7e9162b15013c09b7cb2d11d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857433733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857433733
+        }
+    ],
+    "wof:id":857433733,
+    "wof:lastmodified":1464129442,
+    "wof:name":"Diet Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -90.141738,
+    32.331815,
+    -90.141738,
+    32.331815
+],
+  "geometry": {"coordinates":[-90.141738,32.331815],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857362857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.587915,34.285947,-89.587915,34.285947",
+    "geom:latitude":34.285947,
+    "geom:longitude":-89.587915,
+    "iso:country":"US",
+    "sg:address":"732 Co Rd 303",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1060",
+    "sg:postcode":"38673",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Da2wKNZ4twxB0cuFUobFe_34.285947_-89.587915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127759,
+    "wof:geomhash":"bc629d921cca22fc67b90a870a0ad281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857362857
+        }
+    ],
+    "wof:id":857362857,
+    "wof:lastmodified":1464127759,
+    "wof:name":"Taylor Baptist Church",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.587915,
+    34.285947,
+    -89.587915,
+    34.285947
+],
+  "geometry": {"coordinates":[-89.587915,34.285947],"type":"Point"}
+}

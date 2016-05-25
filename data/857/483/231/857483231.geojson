@@ -1,0 +1,74 @@
+{
+  "id": 857483231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683999,32.358229,-88.683999,32.358229",
+    "geom:latitude":32.358229,
+    "geom:longitude":-88.683999,
+    "iso:country":"US",
+    "sg:address":"1400 N Frontage Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/158732-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3121",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LcOlbnQVgQJ9SQ55ioC6k_32.358229_-88.683999@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130432,
+    "wof:geomhash":"baaa38e1f8ac1befcfbab3150d889d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483231
+        }
+    ],
+    "wof:id":857483231,
+    "wof:lastmodified":1464130432,
+    "wof:name":"Arby's",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.683999,
+    32.358229,
+    -88.683999,
+    32.358229
+],
+  "geometry": {"coordinates":[-88.683999,32.358229],"type":"Point"}
+}

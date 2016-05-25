@@ -1,0 +1,71 @@
+{
+  "id": 857113223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.349314,33.674366,-88.349314,33.674366",
+    "geom:latitude":33.674366,
+    "geom:longitude":-88.349314,
+    "iso:country":"US",
+    "sg:address":"1157 Dale Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 9120",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kJl0DYhHJVz1cXB3Gfc70_33.674366_-88.349314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122261,
+    "wof:geomhash":"b1fd4e46ad5ef120e5b632ccda844b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857113223
+        }
+    ],
+    "wof:id":857113223,
+    "wof:lastmodified":1464122261,
+    "wof:name":"Tennessee Gas",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -88.349314,
+    33.674366,
+    -88.349314,
+    33.674366
+],
+  "geometry": {"coordinates":[-88.34931400000001,33.674366],"type":"Point"}
+}

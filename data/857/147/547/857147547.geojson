@@ -1,0 +1,71 @@
+{
+  "id": 857147547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.787016,30.4106,-88.787016,30.4106",
+    "geom:latitude":30.4106,
+    "geom:longitude":-88.787016,
+    "iso:country":"US",
+    "sg:address":"2900 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8144",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24jPQr0oO5t0FramirIYAV_30.410600_-88.787016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123089,
+    "wof:geomhash":"a89ebcd91139026c59f9572b5ae6122d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857147547
+        }
+    ],
+    "wof:id":857147547,
+    "wof:lastmodified":1464123089,
+    "wof:name":"Mississippi Press Register",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.787016,
+    30.4106,
+    -88.787016,
+    30.4106
+],
+  "geometry": {"coordinates":[-88.78701599999999,30.4106],"type":"Point"}
+}

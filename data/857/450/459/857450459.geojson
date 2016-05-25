@@ -1,0 +1,71 @@
+{
+  "id": 857450459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.319207,33.529915,-88.319207,33.529915",
+    "geom:latitude":33.529915,
+    "geom:longitude":-88.319207,
+    "iso:country":"US",
+    "sg:address":"5860 Hwy 50 E",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2580",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hz1ObonWkJkeVmaOtg5SS_33.529915_-88.319207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129768,
+    "wof:geomhash":"71b23537f488e493169db484e5ecf38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857450459
+        }
+    ],
+    "wof:id":857450459,
+    "wof:lastmodified":1464129768,
+    "wof:name":"Hudco Superette",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.319207,
+    33.529915,
+    -88.319207,
+    33.529915
+],
+  "geometry": {"coordinates":[-88.31920700000001,33.529915],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857443645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.296868,32.324874,-90.296868,32.324874",
+    "geom:latitude":32.324874,
+    "geom:longitude":-90.296868,
+    "iso:country":"US",
+    "sg:address":"950 Hwy 80 E",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 926 1936",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gOja5lKrVuY8Mk3IX2FSU_32.324874_-90.296868@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129633,
+    "wof:geomhash":"2c6ddc371156debf9be9ca2a5d28285a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857443645
+        }
+    ],
+    "wof:id":857443645,
+    "wof:lastmodified":1464129633,
+    "wof:name":"Alltel Communication",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.296868,
+    32.324874,
+    -90.296868,
+    32.324874
+],
+  "geometry": {"coordinates":[-90.296868,32.324874],"type":"Point"}
+}

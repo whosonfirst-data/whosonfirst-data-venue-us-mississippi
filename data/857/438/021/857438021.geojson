@@ -1,0 +1,81 @@
+{
+  "id": 857438021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.282768,33.491128,-88.282768,33.491128",
+    "geom:latitude":33.491128,
+    "geom:longitude":-88.282768,
+    "iso:country":"US",
+    "sg:address":"8516 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3124",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "convenience",
+        "brake",
+        "muffler",
+        "tanning",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ulmR8HqkJfrOFVPKSJJRX_33.491128_-88.282768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129529,
+    "wof:geomhash":"4d95f7956f3f06a23fa54b9fa93ca576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857438021
+        }
+    ],
+    "wof:id":857438021,
+    "wof:lastmodified":1464129529,
+    "wof:name":"Country Village Tackle Shop",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "convenience",
+        "brake",
+        "muffler",
+        "tanning",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.282768,
+    33.491128,
+    -88.282768,
+    33.491128
+],
+  "geometry": {"coordinates":[-88.282768,33.491128],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857475015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66644,34.329978,-88.66644,34.329978",
+    "geom:latitude":34.329978,
+    "geom:longitude":-88.66644,
+    "iso:country":"US",
+    "sg:address":"327 Co Rd 831",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5615",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Fc3WX3seCCf5MsqHCHlO_34.329978_-88.666440@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130277,
+    "wof:geomhash":"845e447149d70ebf1f06f8e825c7a1e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857475015
+        }
+    ],
+    "wof:id":857475015,
+    "wof:lastmodified":1464130277,
+    "wof:name":"Mize Electrical Service",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.66644,
+    34.329978,
+    -88.66644,
+    34.329978
+],
+  "geometry": {"coordinates":[-88.66643999999999,34.329978],"type":"Point"}
+}

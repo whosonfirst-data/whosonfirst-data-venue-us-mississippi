@@ -1,0 +1,71 @@
+{
+  "id": 857329655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.546453,34.386619,-89.546453,34.386619",
+    "geom:latitude":34.386619,
+    "geom:longitude":-89.546453,
+    "iso:country":"US",
+    "sg:address":"111 Rd 1082",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 5133",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IF754vHOtnPuHb3vpUhwo_34.386619_-89.546453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127047,
+    "wof:geomhash":"ecd3e25aa3552a601d9b98b8972d4a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857329655
+        }
+    ],
+    "wof:id":857329655,
+    "wof:lastmodified":1464127047,
+    "wof:name":"Golf Club Condominiums",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.546453,
+    34.386619,
+    -89.546453,
+    34.386619
+],
+  "geometry": {"coordinates":[-89.546453,34.386619],"type":"Point"}
+}

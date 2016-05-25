@@ -1,0 +1,71 @@
+{
+  "id": 857469833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.714734,34.234564,-88.714734,34.234564",
+    "geom:latitude":34.234564,
+    "geom:longitude":-88.714734,
+    "iso:country":"US",
+    "sg:address":"1 Medical Park Cir",
+    "sg:city":"Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 862 5200",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315XFjF3iPd7lXzDRE9Dig_34.234564_-88.714734@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130168,
+    "wof:geomhash":"a487d1292e9bc2b33a65582c4cc4e0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857469833
+        }
+    ],
+    "wof:id":857469833,
+    "wof:lastmodified":1464130168,
+    "wof:name":"Fulton Family Medical Clinic",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.714734,
+    34.234564,
+    -88.714734,
+    34.234564
+],
+  "geometry": {"coordinates":[-88.71473400000001,34.234564],"type":"Point"}
+}

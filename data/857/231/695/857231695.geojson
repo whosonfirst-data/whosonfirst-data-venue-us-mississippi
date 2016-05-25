@@ -1,0 +1,75 @@
+{
+  "id": 857231695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696232,32.366185,-88.696232,32.366185",
+    "geom:latitude":32.366185,
+    "geom:longitude":-88.696232,
+    "iso:country":"US",
+    "sg:address":"1800 5th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 8383",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "linen",
+        "coin",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604N7q62KZXHUe1l6gHw1T_32.366185_-88.696232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124837,
+    "wof:geomhash":"837e59d6521e4b1a0bdf7474547dd6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857231695
+        }
+    ],
+    "wof:id":857231695,
+    "wof:lastmodified":1464124837,
+    "wof:name":"Aramark",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "coin",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.696232,
+    32.366185,
+    -88.696232,
+    32.366185
+],
+  "geometry": {"coordinates":[-88.69623199999999,32.366185],"type":"Point"}
+}

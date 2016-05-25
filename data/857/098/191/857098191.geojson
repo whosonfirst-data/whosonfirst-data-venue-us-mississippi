@@ -1,0 +1,73 @@
+{
+  "id": 857098191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.166524,32.481507,-90.166524,32.481507",
+    "geom:latitude":32.481507,
+    "geom:longitude":-90.166524,
+    "iso:country":"US",
+    "sg:address":"150 Stratford Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 2708",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cI9vjI21Ax0BG1LxibR30_32.481507_-90.166524@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121862,
+    "wof:geomhash":"58c0e31220d93b2cadb525bde54c8670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857098191
+        }
+    ],
+    "wof:id":857098191,
+    "wof:lastmodified":1464121862,
+    "wof:name":"William Wicker Builder",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.166524,
+    32.481507,
+    -90.166524,
+    32.481507
+],
+  "geometry": {"coordinates":[-90.166524,32.481507],"type":"Point"}
+}

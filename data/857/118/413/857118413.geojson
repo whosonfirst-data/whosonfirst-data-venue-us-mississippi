@@ -1,0 +1,75 @@
+{
+  "id": 857118413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.976918,34.458047,-88.976918,34.458047",
+    "geom:latitude":34.458047,
+    "geom:longitude":-88.976918,
+    "iso:country":"US",
+    "sg:address":"1290 Hwy 178 E",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 9561",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WIUSA7MnxmGJ2S59RA1bo_34.458047_-88.976918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122419,
+    "wof:geomhash":"a4f3b2adfd6f12d961bf49f3c563234e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857118413
+        }
+    ],
+    "wof:id":857118413,
+    "wof:lastmodified":1464122419,
+    "wof:name":"Greg Richeys Body Shop",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -88.976918,
+    34.458047,
+    -88.976918,
+    34.458047
+],
+  "geometry": {"coordinates":[-88.976918,34.458047],"type":"Point"}
+}

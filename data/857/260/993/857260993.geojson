@@ -1,0 +1,73 @@
+{
+  "id": 857260993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658918,33.61828,-88.658918,33.61828",
+    "geom:latitude":33.61828,
+    "geom:longitude":-88.658918,
+    "iso:country":"US",
+    "sg:address":"826 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9009",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIGwyslQUTIVa9kq2S8VQ_33.618280_-88.658918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125510,
+    "wof:geomhash":"194c5268bff76ea28d8183bb0f7b4562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857260993
+        }
+    ],
+    "wof:id":857260993,
+    "wof:lastmodified":1464125510,
+    "wof:name":"Gilberts Home Health",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.658918,
+    33.61828,
+    -88.658918,
+    33.61828
+],
+  "geometry": {"coordinates":[-88.658918,33.61828],"type":"Point"}
+}

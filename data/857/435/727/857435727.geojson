@@ -1,0 +1,71 @@
+{
+  "id": 857435727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.299379,33.526645,-88.299379,33.526645",
+    "geom:latitude":33.526645,
+    "geom:longitude":-88.299379,
+    "iso:country":"US",
+    "sg:address":"104 McCool Dr",
+    "sg:city":"Mississippi State",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 325 1886",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K4ngRdbhQBhmB0olDKvWk_33.526645_-88.299379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129481,
+    "wof:geomhash":"d5177c65677fd122f5484acfb8f34631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857435727
+        }
+    ],
+    "wof:id":857435727,
+    "wof:lastmodified":1464129481,
+    "wof:name":"College Business and Industry",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -88.299379,
+    33.526645,
+    -88.299379,
+    33.526645
+],
+  "geometry": {"coordinates":[-88.299379,33.526645],"type":"Point"}
+}

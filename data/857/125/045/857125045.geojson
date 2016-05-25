@@ -1,0 +1,75 @@
+{
+  "id": 857125045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.933053,30.468446,-88.933053,30.468446",
+    "geom:latitude":30.468446,
+    "geom:longitude":-88.933053,
+    "iso:country":"US",
+    "sg:address":"11850 Old Hwy 67",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 0015",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6icTijMXY2Ylhyliv4uT8X_30.468446_-88.933053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122571,
+    "wof:geomhash":"7b583b7d8aa92a68fbff1fb00a8a0807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857125045
+        }
+    ],
+    "wof:id":857125045,
+    "wof:lastmodified":1464122571,
+    "wof:name":"Jason Strayham Plumbing",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.933053,
+    30.468446,
+    -88.933053,
+    30.468446
+],
+  "geometry": {"coordinates":[-88.933053,30.468446],"type":"Point"}
+}

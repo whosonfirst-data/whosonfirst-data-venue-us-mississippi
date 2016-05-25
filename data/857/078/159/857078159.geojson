@@ -1,0 +1,71 @@
+{
+  "id": 857078159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646971,30.379462,-88.646971,30.379462",
+    "geom:latitude":30.379462,
+    "geom:longitude":-88.646971,
+    "iso:country":"US",
+    "sg:address":"2617 Ladnier Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 8829",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BuH5TE0xsFJOy3Rugqp15_30.379462_-88.646971@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121356,
+    "wof:geomhash":"d6f06dadd8fc8d5a50a4af9b9a8dc957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857078159
+        }
+    ],
+    "wof:id":857078159,
+    "wof:lastmodified":1464121356,
+    "wof:name":"College Park Elementary School",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.646971,
+    30.379462,
+    -88.646971,
+    30.379462
+],
+  "geometry": {"coordinates":[-88.64697099999999,30.379462],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857430725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.101879,30.46429,-89.101879,30.46429",
+    "geom:latitude":30.46429,
+    "geom:longitude":-89.101879,
+    "iso:country":"US",
+    "sg:address":"12275 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 9644",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zb5sthFRIzLindhqGgpH8_30.464290_-89.101879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129358,
+    "wof:geomhash":"0d355a29a9cfda1ade9ef0ab04ccd4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857430725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857430725
+        }
+    ],
+    "wof:id":857430725,
+    "wof:lastmodified":1464129358,
+    "wof:name":"Taco Sombrero Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.101879,
+    30.46429,
+    -89.101879,
+    30.46429
+],
+  "geometry": {"coordinates":[-89.101879,30.46429],"type":"Point"}
+}

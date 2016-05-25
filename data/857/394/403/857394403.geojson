@@ -1,0 +1,73 @@
+{
+  "id": 857394403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.934607,30.399413,-88.934607,30.399413",
+    "geom:latitude":30.399413,
+    "geom:longitude":-88.934607,
+    "iso:country":"US",
+    "sg:address":"269 Iberville Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 374 4755",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MLL4oaslBWyuOTm2VIg0Q_30.399413_-88.934607@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128512,
+    "wof:geomhash":"0a2700a5a7f8f72962e72deb6c7503e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857394403
+        }
+    ],
+    "wof:id":857394403,
+    "wof:lastmodified":1464128512,
+    "wof:name":"Appliance Repair Ctr",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.934607,
+    30.399413,
+    -88.934607,
+    30.399413
+],
+  "geometry": {"coordinates":[-88.934607,30.399413],"type":"Point"}
+}

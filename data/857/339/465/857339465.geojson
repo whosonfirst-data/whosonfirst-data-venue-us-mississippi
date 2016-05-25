@@ -1,0 +1,75 @@
+{
+  "id": 857339465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.215652,30.35992,-89.215652,30.35992",
+    "geom:latitude":30.35992,
+    "geom:longitude":-89.215652,
+    "iso:country":"US",
+    "sg:address":"22405 Pineville Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9106",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QhmkrEHKoDkwqowy1sIhI_30.359920_-89.215652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127260,
+    "wof:geomhash":"5a223f371e9bc05dcba58c2a9a8f6cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857339465
+        }
+    ],
+    "wof:id":857339465,
+    "wof:lastmodified":1464127260,
+    "wof:name":"Taylor Made Lawn Care",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -89.215652,
+    30.35992,
+    -89.215652,
+    30.35992
+],
+  "geometry": {"coordinates":[-89.21565200000001,30.35992],"type":"Point"}
+}

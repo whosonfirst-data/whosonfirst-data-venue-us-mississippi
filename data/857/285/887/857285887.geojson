@@ -1,0 +1,68 @@
+{
+  "id": 857285887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.1252,30.368069,-89.1252,30.368069",
+    "geom:latitude":30.368069,
+    "geom:longitude":-89.1252,
+    "iso:country":"US",
+    "sg:address":"1445 Genevieve Dr",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 0460",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XQ2yTU8HePN8sqRqutQfM_30.368069_-89.125200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126043,
+    "wof:geomhash":"5da2270d32ad45f8b4be8af40bf79860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857285887
+        }
+    ],
+    "wof:id":857285887,
+    "wof:lastmodified":1464126043,
+    "wof:name":"Betty's House Of Style",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1252,
+    30.368069,
+    -89.1252,
+    30.368069
+],
+  "geometry": {"coordinates":[-89.12520000000001,30.368069],"type":"Point"}
+}

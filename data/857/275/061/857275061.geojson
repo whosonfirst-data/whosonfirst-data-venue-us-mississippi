@@ -1,0 +1,73 @@
+{
+  "id": 857275061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568424,33.836355,-88.568424,33.836355",
+    "geom:latitude":33.836355,
+    "geom:longitude":-88.568424,
+    "iso:country":"US",
+    "sg:address":"302 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7201",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_593TYyaOCz6SsEEIooCWWh_33.836355_-88.568424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125791,
+    "wof:geomhash":"0a34f6907f770e4445b531597f49474b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857275061
+        }
+    ],
+    "wof:id":857275061,
+    "wof:lastmodified":1464125791,
+    "wof:name":"National Bank of Commerce",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.568424,
+    33.836355,
+    -88.568424,
+    33.836355
+],
+  "geometry": {"coordinates":[-88.56842399999999,33.836355],"type":"Point"}
+}

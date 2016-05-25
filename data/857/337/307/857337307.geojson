@@ -1,0 +1,73 @@
+{
+  "id": 857337307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.000151,30.492547,-89.000151,30.492547",
+    "geom:latitude":30.492547,
+    "geom:longitude":-89.000151,
+    "iso:country":"US",
+    "sg:address":"14231 Woodland Hills Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 5571",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tn8s06CSOpjp8hiJQh1Zg_30.492547_-89.000151@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127218,
+    "wof:geomhash":"6249c2e5d199445a291fcebe6daec768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857337307
+        }
+    ],
+    "wof:id":857337307,
+    "wof:lastmodified":1464127218,
+    "wof:name":"A&M Appliance Repair",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -89.000151,
+    30.492547,
+    -89.000151,
+    30.492547
+],
+  "geometry": {"coordinates":[-89.000151,30.492547],"type":"Point"}
+}

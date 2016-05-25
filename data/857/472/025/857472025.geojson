@@ -1,0 +1,68 @@
+{
+  "id": 857472025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.823636,35.039904,-89.823636,35.039904",
+    "geom:latitude":35.039904,
+    "geom:longitude":-89.823636,
+    "iso:country":"US",
+    "sg:address":"3971 German Leaf Cove",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 566 0670",
+    "sg:postcode":"38125",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18OCSKamLjGGjl9tPRVNjZ_35.039904_-89.823636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130216,
+    "wof:geomhash":"1d759cf06d611d0f85e5140154a8a8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":857472025
+        }
+    ],
+    "wof:id":857472025,
+    "wof:lastmodified":1464130216,
+    "wof:name":"TNT Moving",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.823636,
+    35.039904,
+    -89.823636,
+    35.039904
+],
+  "geometry": {"coordinates":[-89.82363599999999,35.039904],"type":"Point"}
+}

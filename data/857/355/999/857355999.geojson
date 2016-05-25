@@ -1,0 +1,71 @@
+{
+  "id": 857355999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695217,32.37811,-88.695217,32.37811",
+    "geom:latitude":32.37811,
+    "geom:longitude":-88.695217,
+    "iso:country":"US",
+    "sg:address":"1611 20th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3255",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58uJLAIniTJcU4JIa6awd9_32.378110_-88.695217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127616,
+    "wof:geomhash":"3677ea8db27541a0422d35e14ef1320e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857355999
+        }
+    ],
+    "wof:id":857355999,
+    "wof:lastmodified":1464127616,
+    "wof:name":"S & C Tree Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -88.695217,
+    32.37811,
+    -88.695217,
+    32.37811
+],
+  "geometry": {"coordinates":[-88.695217,32.37811],"type":"Point"}
+}

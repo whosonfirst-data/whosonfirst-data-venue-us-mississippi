@@ -1,0 +1,74 @@
+{
+  "id": 857485023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536014,30.372618,-88.536014,30.372618",
+    "geom:latitude":30.372618,
+    "geom:longitude":-88.536014,
+    "iso:country":"US",
+    "sg:address":"2523 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/190966-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2524",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X0zyc9yGAnUPG2wmxEeks_30.372618_-88.536014@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130468,
+    "wof:geomhash":"5b7117cce81fcd82caa9333dd4c503f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857485023
+        }
+    ],
+    "wof:id":857485023,
+    "wof:lastmodified":1464130468,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.536014,
+    30.372618,
+    -88.536014,
+    30.372618
+],
+  "geometry": {"coordinates":[-88.53601399999999,30.372618],"type":"Point"}
+}

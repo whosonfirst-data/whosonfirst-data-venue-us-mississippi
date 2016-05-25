@@ -1,0 +1,69 @@
+{
+  "id": 857117621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.833504,32.252861,-90.833504,32.252861",
+    "geom:latitude":32.252861,
+    "geom:longitude":-90.833504,
+    "iso:country":"US",
+    "sg:address":"5151 Nailor Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 1098",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ueVICgZisRMGbk7pqmFLX_32.252861_-90.833504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122401,
+    "wof:geomhash":"50e3c10487e87ee05af99554ad9f1506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857117621
+        }
+    ],
+    "wof:id":857117621,
+    "wof:lastmodified":1464122401,
+    "wof:name":"Fisher Ferry Water District",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.833504,
+    32.252861,
+    -90.833504,
+    32.252861
+],
+  "geometry": {"coordinates":[-90.833504,32.252861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857228617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.037913,30.436217,-89.037913,30.436217",
+    "geom:latitude":30.436217,
+    "geom:longitude":-89.037913,
+    "iso:country":"US",
+    "sg:address":"10415 Express Dr",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 1687",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxklGwOuwavKr4gz0aj0A_30.436217_-89.037913@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124783,
+    "wof:geomhash":"aedb06cc81f552aaa3f37fbb2dbe7dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857228617
+        }
+    ],
+    "wof:id":857228617,
+    "wof:lastmodified":1464124783,
+    "wof:name":"Sysco Food Svc Of New Orleans",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -89.037913,
+    30.436217,
+    -89.037913,
+    30.436217
+],
+  "geometry": {"coordinates":[-89.037913,30.436217],"type":"Point"}
+}

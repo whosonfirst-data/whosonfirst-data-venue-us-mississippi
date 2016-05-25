@@ -1,0 +1,71 @@
+{
+  "id": 857401239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.740391,30.700778,-88.740391,30.700778",
+    "geom:latitude":30.700778,
+    "geom:longitude":-88.740391,
+    "iso:country":"US",
+    "sg:address":"24601 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 5179",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Yzab2U8x6e2VKgqyoaez_30.700778_-88.740391@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128648,
+    "wof:geomhash":"24cc2667a08ba019835b45c7375c096f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857401239
+        }
+    ],
+    "wof:id":857401239,
+    "wof:lastmodified":1464128648,
+    "wof:name":"Woody's Outpost",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.740391,
+    30.700778,
+    -88.740391,
+    30.700778
+],
+  "geometry": {"coordinates":[-88.740391,30.700778],"type":"Point"}
+}

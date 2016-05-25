@@ -1,0 +1,71 @@
+{
+  "id": 857097817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.754247,34.206056,-88.754247,34.206056",
+    "geom:latitude":34.206056,
+    "geom:longitude":-88.754247,
+    "iso:country":"US",
+    "sg:address":"129 W Garrison Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 1211",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54HD2Yhv2RAYRdUt9L8pwg_34.206056_-88.754247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121853,
+    "wof:geomhash":"8f56969a5a0d8d55de378754b9a25c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857097817
+        }
+    ],
+    "wof:id":857097817,
+    "wof:lastmodified":1464121853,
+    "wof:name":"Colemans Appliance Repair",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.754247,
+    34.206056,
+    -88.754247,
+    34.206056
+],
+  "geometry": {"coordinates":[-88.75424700000001,34.206056],"type":"Point"}
+}

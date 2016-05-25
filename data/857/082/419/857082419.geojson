@@ -1,0 +1,69 @@
+{
+  "id": 857082419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.406004,31.33961,-89.406004,31.33961",
+    "geom:latitude":31.33961,
+    "geom:longitude":-89.406004,
+    "iso:country":"US",
+    "sg:address":"5472 W 4th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 6271",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UQKBTq6VS5du9ArNfPEZM_31.339610_-89.406004@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121464,
+    "wof:geomhash":"92fba7a8b487b6a74ffe39ecacbcda0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857082419
+        }
+    ],
+    "wof:id":857082419,
+    "wof:lastmodified":1464121464,
+    "wof:name":"Tommys Body Shop",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -89.406004,
+    31.33961,
+    -89.406004,
+    31.33961
+],
+  "geometry": {"coordinates":[-89.406004,31.33961],"type":"Point"}
+}

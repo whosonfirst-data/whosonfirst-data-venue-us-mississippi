@@ -1,0 +1,75 @@
+{
+  "id": 857443879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.725758,34.241572,-88.725758,34.241572",
+    "geom:latitude":34.241572,
+    "geom:longitude":-88.725758,
+    "iso:country":"US",
+    "sg:address":"1013 Buchanan St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9567",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vGds8BffDo3FcoMYCMpGQ_34.241572_-88.725758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129637,
+    "wof:geomhash":"6b44db9fb3875a5c0b44a396fc9ace4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857443879
+        }
+    ],
+    "wof:id":857443879,
+    "wof:lastmodified":1464129637,
+    "wof:name":"Rere Inc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.725758,
+    34.241572,
+    -88.725758,
+    34.241572
+],
+  "geometry": {"coordinates":[-88.725758,34.241572],"type":"Point"}
+}

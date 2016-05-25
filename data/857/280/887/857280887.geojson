@@ -1,0 +1,71 @@
+{
+  "id": 857280887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.523248,34.350339,-89.523248,34.350339",
+    "geom:latitude":34.350339,
+    "geom:longitude":-89.523248,
+    "iso:country":"US",
+    "sg:address":"1121 Mimosa Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2211",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xVZTw51MY4M6e1iomIxgG_34.350339_-89.523248@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125938,
+    "wof:geomhash":"e88228a2fe55da588166c46a7e2b28f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857280887
+        }
+    ],
+    "wof:id":857280887,
+    "wof:lastmodified":1464125938,
+    "wof:name":"Gleason Catherine MD",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.523248,
+    34.350339,
+    -89.523248,
+    34.350339
+],
+  "geometry": {"coordinates":[-89.523248,34.350339],"type":"Point"}
+}

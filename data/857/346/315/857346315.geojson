@@ -1,0 +1,73 @@
+{
+  "id": 857346315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.26756,31.346761,-89.26756,31.346761",
+    "geom:latitude":31.346761,
+    "geom:longitude":-89.26756,
+    "iso:country":"US",
+    "sg:address":"124 W Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7545",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33Xjog9qWeTFRmRXNmNT9N_31.346761_-89.267560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127401,
+    "wof:geomhash":"54c638810b203bb258d6b9f3db154121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857346315
+        }
+    ],
+    "wof:id":857346315,
+    "wof:lastmodified":1464127401,
+    "wof:name":"Fairchild Motors-Petal",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -89.26756,
+    31.346761,
+    -89.26756,
+    31.346761
+],
+  "geometry": {"coordinates":[-89.26756,31.346761],"type":"Point"}
+}

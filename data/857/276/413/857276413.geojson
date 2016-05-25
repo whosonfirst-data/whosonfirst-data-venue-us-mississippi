@@ -1,0 +1,73 @@
+{
+  "id": 857276413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659133,33.599845,-88.659133,33.599845",
+    "geom:latitude":33.599845,
+    "geom:longitude":-88.659133,
+    "iso:country":"US",
+    "sg:address":"639 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 7605",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4alqBwyiPWTGkArqf9YUm4_33.599845_-88.659133@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125824,
+    "wof:geomhash":"129671bc00bdb93b15b85b531dccc978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857276413
+        }
+    ],
+    "wof:id":857276413,
+    "wof:lastmodified":1464125824,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.659133,
+    33.599845,
+    -88.659133,
+    33.599845
+],
+  "geometry": {"coordinates":[-88.659133,33.599845],"type":"Point"}
+}

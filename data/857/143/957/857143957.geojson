@@ -1,0 +1,73 @@
+{
+  "id": 857143957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.861716,32.326988,-90.861716,32.326988",
+    "geom:latitude":32.326988,
+    "geom:longitude":-90.861716,
+    "iso:country":"US",
+    "sg:address":"2566 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 1515",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04koGeNhv2cxFdEVwVRn6O_32.326988_-90.861716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122998,
+    "wof:geomhash":"6d0fe40025868a35fcfd156ba095bdf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857143957
+        }
+    ],
+    "wof:id":857143957,
+    "wof:lastmodified":1464122998,
+    "wof:name":"Regions Mortgage Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -90.861716,
+    32.326988,
+    -90.861716,
+    32.326988
+],
+  "geometry": {"coordinates":[-90.861716,32.326988],"type":"Point"}
+}

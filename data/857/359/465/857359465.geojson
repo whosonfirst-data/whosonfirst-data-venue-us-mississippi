@@ -1,0 +1,73 @@
+{
+  "id": 857359465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.4373,33.531093,-88.4373,33.531093",
+    "geom:latitude":33.531093,
+    "geom:longitude":-88.4373,
+    "iso:country":"US",
+    "sg:address":"1928 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9004",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SruL0muVugionlGTh9GEQ_33.531093_-88.437300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127687,
+    "wof:geomhash":"7296f7537e938b665855bbefd9eadb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857359465
+        }
+    ],
+    "wof:id":857359465,
+    "wof:lastmodified":1464127687,
+    "wof:name":"Sun Struck",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -88.4373,
+    33.531093,
+    -88.4373,
+    33.531093
+],
+  "geometry": {"coordinates":[-88.43729999999999,33.531093],"type":"Point"}
+}

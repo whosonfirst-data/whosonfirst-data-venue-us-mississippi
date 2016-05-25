@@ -1,0 +1,76 @@
+{
+  "id": 857482397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.387043,32.840714,-90.387043,32.840714",
+    "geom:latitude":32.840714,
+    "geom:longitude":-90.387043,
+    "iso:country":"US",
+    "sg:address":"232 N Jerry Clower Blvd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/midway/182291-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2242",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EL6uBv7VdUmlZ8e0UwL8S_32.840714_-90.387043@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130416,
+    "wof:geomhash":"e82a1dd644f1f89eedf0091279e090a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857482397
+        }
+    ],
+    "wof:id":857482397,
+    "wof:lastmodified":1464130416,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.387043,
+    32.840714,
+    -90.387043,
+    32.840714
+],
+  "geometry": {"coordinates":[-90.38704300000001,32.840714],"type":"Point"}
+}

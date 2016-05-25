@@ -1,0 +1,77 @@
+{
+  "id": 857221429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.841537,32.320754,-90.841537,32.320754",
+    "geom:latitude":32.320754,
+    "geom:longitude":-90.841537,
+    "iso:country":"US",
+    "sg:address":"417 Elmwood St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 0828",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "research",
+        "center",
+        "dev",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ws04BIVxvJXLc6GemgX3V_32.320754_-90.841537@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124645,
+    "wof:geomhash":"9f7f4c9689d56cf6341f275a7d9adbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857221429
+        }
+    ],
+    "wof:id":857221429,
+    "wof:lastmodified":1464124645,
+    "wof:name":"Daniel Horner",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "research",
+        "center",
+        "dev",
+        "for"
+    ]
+},
+  "bbox": [
+    -90.841537,
+    32.320754,
+    -90.841537,
+    32.320754
+],
+  "geometry": {"coordinates":[-90.841537,32.320754],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857380175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.992902,31.934739,-90.992902,31.934739",
+    "geom:latitude":31.934739,
+    "geom:longitude":-90.992902,
+    "iso:country":"US",
+    "sg:address":"2446 US Hwy 61",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 6808",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85825969,
+        102081891,
+        85822851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PnIS6VGZNUaKx7UdRzPV2_31.934739_-90.992902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128125,
+    "wof:geomhash":"1e9d5acbb18d694d8f648a72307f27be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85825969,
+            "region_id":85688579,
+            "venue_id":857380175
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857380175
+        }
+    ],
+    "wof:id":857380175,
+    "wof:lastmodified":1464128125,
+    "wof:name":"Millcreek Of Port Gibson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.992902,
+    31.934739,
+    -90.992902,
+    31.934739
+],
+  "geometry": {"coordinates":[-90.992902,31.934739],"type":"Point"}
+}

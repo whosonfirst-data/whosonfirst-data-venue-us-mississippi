@@ -1,0 +1,73 @@
+{
+  "id": 857153645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.720824,34.349323,-89.720824,34.349323",
+    "geom:latitude":34.349323,
+    "geom:longitude":-89.720824,
+    "iso:country":"US",
+    "sg:address":"1150 Hwy 6 W",
+    "sg:city":"Batesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 563 1275",
+    "sg:postcode":"38606",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lWdzUmpBun4bceaKkoYGC_34.349323_-89.720824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123219,
+    "wof:geomhash":"1933c8682df424bc1c4043181838d8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857153645
+        }
+    ],
+    "wof:id":857153645,
+    "wof:lastmodified":1464123219,
+    "wof:name":"Dixie Nursing Care",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -89.720824,
+    34.349323,
+    -89.720824,
+    34.349323
+],
+  "geometry": {"coordinates":[-89.72082399999999,34.349323],"type":"Point"}
+}

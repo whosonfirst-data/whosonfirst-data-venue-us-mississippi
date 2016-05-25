@@ -1,0 +1,69 @@
+{
+  "id": 857349691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.843553,32.234926,-90.843553,32.234926",
+    "geom:latitude":32.234926,
+    "geom:longitude":-90.843553,
+    "iso:country":"US",
+    "sg:address":"5620 Fisher Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 661 7004",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o5z9NRlUzzUCFOtxUXBvf_32.234926_-90.843553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127479,
+    "wof:geomhash":"2604de787b81cb25e3cfc69551fdb1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857349691
+        }
+    ],
+    "wof:id":857349691,
+    "wof:lastmodified":1464127479,
+    "wof:name":"Moore's Meat Processing",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -90.843553,
+    32.234926,
+    -90.843553,
+    32.234926
+],
+  "geometry": {"coordinates":[-90.843553,32.234926],"type":"Point"}
+}

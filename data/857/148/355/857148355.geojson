@@ -1,0 +1,66 @@
+{
+  "id": 857148355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.532085,30.36843,-88.532085,30.36843",
+    "geom:latitude":30.36843,
+    "geom:longitude":-88.532085,
+    "iso:country":"US",
+    "sg:address":"3008 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7420",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kHfyjyOWJCsG8Avu3fNiI_30.368430_-88.532085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123108,
+    "wof:geomhash":"a831612aa4d8f1c25b99f894ae1b75f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857148355
+        }
+    ],
+    "wof:id":857148355,
+    "wof:lastmodified":1464123108,
+    "wof:name":"Circle K Store",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.532085,
+    30.36843,
+    -88.532085,
+    30.36843
+],
+  "geometry": {"coordinates":[-88.532085,30.36843],"type":"Point"}
+}

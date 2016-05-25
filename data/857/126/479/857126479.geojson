@@ -1,0 +1,71 @@
+{
+  "id": 857126479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.816545,34.94712,-89.816545,34.94712",
+    "geom:latitude":34.94712,
+    "geom:longitude":-89.816545,
+    "iso:country":"US",
+    "sg:address":"5950 Southridge Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 4339",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DGVq5kPiP2N7OXDwI5IJt_34.947120_-89.816545@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122597,
+    "wof:geomhash":"f323fbb85bef14f79dab842571d187c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857126479
+        }
+    ],
+    "wof:id":857126479,
+    "wof:lastmodified":1464122597,
+    "wof:name":"Pampered Pooch Pet Sitters",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    -89.816545,
+    34.94712,
+    -89.816545,
+    34.94712
+],
+  "geometry": {"coordinates":[-89.816545,34.94712],"type":"Point"}
+}

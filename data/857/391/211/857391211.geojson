@@ -1,0 +1,71 @@
+{
+  "id": 857391211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.624249,30.386302,-88.624249,30.386302",
+    "geom:latitude":30.386302,
+    "geom:longitude":-88.624249,
+    "iso:country":"US",
+    "sg:address":"1009 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1706",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CSKEqf2t6zrUQi7BJmnkh_30.386302_-88.624249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128453,
+    "wof:geomhash":"0fa10b4bf73fccb5ceeec9d87e2ba109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857391211
+        }
+    ],
+    "wof:id":857391211,
+    "wof:lastmodified":1464128453,
+    "wof:name":"Gautier Presbyterian Church",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.624249,
+    30.386302,
+    -88.624249,
+    30.386302
+],
+  "geometry": {"coordinates":[-88.62424900000001,30.386302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857375053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.334185,31.347731,-89.334185,31.347731",
+    "geom:latitude":31.347731,
+    "geom:longitude":-89.334185,
+    "iso:country":"US",
+    "sg:address":"5205 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 4692",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uz90W9QAkqRUoFuqGOcv6_31.347731_-89.334185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128010,
+    "wof:geomhash":"ac6ea77de02a8a6957aa765b13bdd211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857375053
+        }
+    ],
+    "wof:id":857375053,
+    "wof:lastmodified":1464128010,
+    "wof:name":"National Freight Inc",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.334185,
+    31.347731,
+    -89.334185,
+    31.347731
+],
+  "geometry": {"coordinates":[-89.33418500000001,31.347731],"type":"Point"}
+}

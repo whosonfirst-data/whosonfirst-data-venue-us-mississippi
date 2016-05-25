@@ -1,0 +1,74 @@
+{
+  "id": 857481951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.132798,32.469679,-90.132798,32.469679",
+    "geom:latitude":32.469679,
+    "geom:longitude":-90.132798,
+    "iso:country":"US",
+    "sg:address":"1888 Main St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/madison/158004-abners-famous-chicken-tenders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 499 6001",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DwtRXssd4qUHok35Sh8UY_32.469679_-90.132798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130406,
+    "wof:geomhash":"0374f48013a15ff11f17314d51316638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857481951
+        }
+    ],
+    "wof:id":857481951,
+    "wof:lastmodified":1464130406,
+    "wof:name":"Abner's Famous Chicken Tenders",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.132798,
+    32.469679,
+    -90.132798,
+    32.469679
+],
+  "geometry": {"coordinates":[-90.13279799999999,32.469679],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857082295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.551951,30.374669,-88.551951,30.374669",
+    "geom:latitude":30.374669,
+    "geom:longitude":-88.551951,
+    "iso:country":"US",
+    "sg:address":"1015 Kell Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 1692",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.rmhtc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XCfIi5D7EbDl6NOEpNsQ9_30.374669_-88.551951@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121457,
+    "wof:geomhash":"26040cd59d4dd6a41b3338926fd3f3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857082295
+        }
+    ],
+    "wof:id":857082295,
+    "wof:lastmodified":1464121457,
+    "wof:name":"RMH Enterprise",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -88.551951,
+    30.374669,
+    -88.551951,
+    30.374669
+],
+  "geometry": {"coordinates":[-88.551951,30.374669],"type":"Point"}
+}

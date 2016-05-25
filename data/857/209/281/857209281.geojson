@@ -1,0 +1,73 @@
+{
+  "id": 857209281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.072689,30.392503,-89.072689,30.392503",
+    "geom:latitude":30.392503,
+    "geom:longitude":-89.072689,
+    "iso:country":"US",
+    "sg:address":"1030 35th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 867 9848",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p8WuZGiu2gizptrPbaL8E_30.392503_-89.072689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124374,
+    "wof:geomhash":"1214bfc08a49343b2d7951b085c34177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857209281
+        }
+    ],
+    "wof:id":857209281,
+    "wof:lastmodified":1464124374,
+    "wof:name":"Candlewood Apartments",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.072689,
+    30.392503,
+    -89.072689,
+    30.392503
+],
+  "geometry": {"coordinates":[-89.072689,30.392503],"type":"Point"}
+}

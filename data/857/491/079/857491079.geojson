@@ -1,0 +1,94 @@
+{
+  "id": 857491079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.678894,32.412816,-88.678894,32.412816",
+    "geom:latitude":32.412816,
+    "geom:longitude":-88.678894,
+    "iso:country":"US",
+    "sg:address":"5100 Highway 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 0808",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "delicatessen",
+        "super"
+    ],
+    "sg:website":"http://www.winn-dixie.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dYthJbhBvmxTnKRn3fDA5_32.412816_-88.678894@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130621,
+    "wof:geomhash":"ef0b8aca6211b59c644701ed84d830ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491079
+        }
+    ],
+    "wof:id":857491079,
+    "wof:lastmodified":1464130621,
+    "wof:name":"Winn-Dixie",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "super"
+    ]
+},
+  "bbox": [
+    -88.678894,
+    32.412816,
+    -88.678894,
+    32.412816
+],
+  "geometry": {"coordinates":[-88.678894,32.412816],"type":"Point"}
+}

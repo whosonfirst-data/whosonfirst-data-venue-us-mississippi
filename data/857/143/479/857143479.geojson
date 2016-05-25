@@ -1,0 +1,71 @@
+{
+  "id": 857143479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.559115,34.365716,-89.559115,34.365716",
+    "geom:latitude":34.365716,
+    "geom:longitude":-89.559115,
+    "iso:country":"US",
+    "sg:address":"307 Heritage Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1400",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NBlhDPMnoKfztGR1T4FV7_34.365716_-89.559115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122979,
+    "wof:geomhash":"bd45f1de288fd5f94175eaac3599d7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857143479
+        }
+    ],
+    "wof:id":857143479,
+    "wof:lastmodified":1464122979,
+    "wof:name":"Rayburn Coghlan Law Firm",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.559115,
+    34.365716,
+    -89.559115,
+    34.365716
+],
+  "geometry": {"coordinates":[-89.55911500000001,34.365716],"type":"Point"}
+}

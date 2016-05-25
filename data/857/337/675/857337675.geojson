@@ -1,0 +1,75 @@
+{
+  "id": 857337675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.292453,31.328129,-89.292453,31.328129",
+    "geom:latitude":31.328129,
+    "geom:longitude":-89.292453,
+    "iso:country":"US",
+    "sg:address":"701 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7881",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c6fiu7Kn4QV4RFs8rvZh0_31.328129_-89.292453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127225,
+    "wof:geomhash":"c6a174dc09d0c6266ebb205c80144871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857337675
+        }
+    ],
+    "wof:id":857337675,
+    "wof:lastmodified":1464127225,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -89.292453,
+    31.328129,
+    -89.292453,
+    31.328129
+],
+  "geometry": {"coordinates":[-89.29245299999999,31.328129],"type":"Point"}
+}

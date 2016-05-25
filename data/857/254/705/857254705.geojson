@@ -1,0 +1,71 @@
+{
+  "id": 857254705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405389,32.855003,-90.405389,32.855003",
+    "geom:latitude":32.855003,
+    "geom:longitude":-90.405389,
+    "iso:country":"US",
+    "sg:address":"522 Grand Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9068",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70aEMjhhPM71CZOh2w31TV_32.855003_-90.405389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125370,
+    "wof:geomhash":"dbf44011a03c9c19c48fc7c1514cb001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857254705
+        }
+    ],
+    "wof:id":857254705,
+    "wof:lastmodified":1464125370,
+    "wof:name":"Mid-Delta Home Health Agency",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -90.405389,
+    32.855003,
+    -90.405389,
+    32.855003
+],
+  "geometry": {"coordinates":[-90.405389,32.855003],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857457199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.059985,30.452966,-89.059985,30.452966",
+    "geom:latitude":30.452966,
+    "geom:longitude":-89.059985,
+    "iso:country":"US",
+    "sg:address":"1005 W Birch Dr",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 6025",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VNcJyeb1lQ1u7yZ28YE0r_30.452966_-89.059985@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129893,
+    "wof:geomhash":"5fcd4aac0d30ad26dc98bab0de9a32b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857457199
+        }
+    ],
+    "wof:id":857457199,
+    "wof:lastmodified":1464129893,
+    "wof:name":"Magnolia State Apartments",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.059985,
+    30.452966,
+    -89.059985,
+    30.452966
+],
+  "geometry": {"coordinates":[-89.059985,30.452966],"type":"Point"}
+}

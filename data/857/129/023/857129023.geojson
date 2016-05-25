@@ -1,0 +1,73 @@
+{
+  "id": 857129023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.89132,30.433975,-88.89132,30.433975",
+    "geom:latitude":30.433975,
+    "geom:longitude":-88.89132,
+    "iso:country":"US",
+    "sg:address":"10177 Central Ave",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 6810",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_680OdaDJlAgLxkKqLxEqc9_30.433975_-88.891320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122648,
+    "wof:geomhash":"7e3ad8610dc7002fc3ec55800aa369f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857129023
+        }
+    ],
+    "wof:id":857129023,
+    "wof:lastmodified":1464122648,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.89132,
+    30.433975,
+    -88.89132,
+    30.433975
+],
+  "geometry": {"coordinates":[-88.89131999999999,30.433975],"type":"Point"}
+}

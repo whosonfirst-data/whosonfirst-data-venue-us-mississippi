@@ -1,0 +1,71 @@
+{
+  "id": 857323157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.555007,30.364685,-88.555007,30.364685",
+    "geom:latitude":30.364685,
+    "geom:longitude":-88.555007,
+    "iso:country":"US",
+    "sg:address":"912 Convent Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9355",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XnKXz7LUJveY7MT74EThE_30.364685_-88.555007@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126914,
+    "wof:geomhash":"340e307c4596475484998104d1674df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857323157
+        }
+    ],
+    "wof:id":857323157,
+    "wof:lastmodified":1464126914,
+    "wof:name":"Quality Home Health Care",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.555007,
+    30.364685,
+    -88.555007,
+    30.364685
+],
+  "geometry": {"coordinates":[-88.555007,30.364685],"type":"Point"}
+}

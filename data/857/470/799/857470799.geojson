@@ -1,0 +1,71 @@
+{
+  "id": 857470799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.811311,30.415954,-88.811311,30.415954",
+    "geom:latitude":30.415954,
+    "geom:longitude":-88.811311,
+    "iso:country":"US",
+    "sg:address":"1820 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0400",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77SCCw57ZrfUvDqeg72UfP_30.415954_-88.811311@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130186,
+    "wof:geomhash":"3d6690d567eb43eee9353379f0cc413b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857470799
+        }
+    ],
+    "wof:id":857470799,
+    "wof:lastmodified":1464130186,
+    "wof:name":"Discount Jersey Jean Joint",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.811311,
+    30.415954,
+    -88.811311,
+    30.415954
+],
+  "geometry": {"coordinates":[-88.811311,30.415954],"type":"Point"}
+}

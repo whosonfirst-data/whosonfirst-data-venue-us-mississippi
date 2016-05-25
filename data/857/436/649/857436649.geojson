@@ -1,0 +1,73 @@
+{
+  "id": 857436649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.840473,32.351547,-90.840473,32.351547",
+    "geom:latitude":32.351547,
+    "geom:longitude":-90.840473,
+    "iso:country":"US",
+    "sg:address":"191 Honeysuckle Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 529 0898",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43MfIQd45c7JrelHYfy8u2_32.351547_-90.840473@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129505,
+    "wof:geomhash":"d5976cc8256bd59b1bb5738f68091121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857436649
+        }
+    ],
+    "wof:id":857436649,
+    "wof:lastmodified":1464129505,
+    "wof:name":"Vicksburg Locksmith Co",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.840473,
+    32.351547,
+    -90.840473,
+    32.351547
+],
+  "geometry": {"coordinates":[-90.840473,32.351547],"type":"Point"}
+}

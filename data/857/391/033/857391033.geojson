@@ -1,0 +1,73 @@
+{
+  "id": 857391033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.349295,33.672979,-88.349295,33.672979",
+    "geom:latitude":33.672979,
+    "geom:longitude":-88.349295,
+    "iso:country":"US",
+    "sg:address":"1615 Dale Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6258",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12iBpNn6VtXko8GDmQ4U8f_33.672979_-88.349295@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128450,
+    "wof:geomhash":"d64e625d370a0206b04cbce1c2d1f41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857391033
+        }
+    ],
+    "wof:id":857391033,
+    "wof:lastmodified":1464128450,
+    "wof:name":"Pounders Painting",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.349295,
+    33.672979,
+    -88.349295,
+    33.672979
+],
+  "geometry": {"coordinates":[-88.349295,33.672979],"type":"Point"}
+}

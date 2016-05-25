@@ -1,0 +1,71 @@
+{
+  "id": 857097951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.269754,31.346764,-89.269754,31.346764",
+    "geom:latitude":31.346764,
+    "geom:longitude":-89.269754,
+    "iso:country":"US",
+    "sg:address":"208 W Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2277",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WipbE8IGzJzXriy1mf3V6_31.346764_-89.269754@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121856,
+    "wof:geomhash":"4af4543e5bc89821a13cba6c69f4540a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857097951
+        }
+    ],
+    "wof:id":857097951,
+    "wof:lastmodified":1464121856,
+    "wof:name":"Fantasy Nail Salon",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.269754,
+    31.346764,
+    -89.269754,
+    31.346764
+],
+  "geometry": {"coordinates":[-89.26975400000001,31.346764],"type":"Point"}
+}

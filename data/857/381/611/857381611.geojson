@@ -1,0 +1,73 @@
+{
+  "id": 857381611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.91745,32.227874,-90.91745,32.227874",
+    "geom:latitude":32.227874,
+    "geom:longitude":-90.91745,
+    "iso:country":"US",
+    "sg:address":"146 Meadowbrook Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 9789",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ETTNTSM20jWuBbjGkaGlS_32.227874_-90.917450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128167,
+    "wof:geomhash":"be63e67e3982ebec336fb7c73b5015e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857381611
+        }
+    ],
+    "wof:id":857381611,
+    "wof:lastmodified":1464128167,
+    "wof:name":"Meadowbrook Properties",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "community"
+    ]
+},
+  "bbox": [
+    -90.91745,
+    32.227874,
+    -90.91745,
+    32.227874
+],
+  "geometry": {"coordinates":[-90.91745,32.227874],"type":"Point"}
+}

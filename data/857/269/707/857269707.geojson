@@ -1,0 +1,71 @@
+{
+  "id": 857269707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.799005,34.250871,-88.799005,34.250871",
+    "geom:latitude":34.250871,
+    "geom:longitude":-88.799005,
+    "iso:country":"US",
+    "sg:address":"715 McPherson Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5737",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OTcL1W8TJiwcN7KBGa84z_34.250871_-88.799005@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125680,
+    "wof:geomhash":"1b8f87f6a8a5f1637f850afc4a0f5ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857269707
+        }
+    ],
+    "wof:id":857269707,
+    "wof:lastmodified":1464125680,
+    "wof:name":"D & L Plumbing",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.799005,
+    34.250871,
+    -88.799005,
+    34.250871
+],
+  "geometry": {"coordinates":[-88.79900499999999,34.250871],"type":"Point"}
+}

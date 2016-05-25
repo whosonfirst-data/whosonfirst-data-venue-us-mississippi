@@ -1,0 +1,73 @@
+{
+  "id": 857264547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.743,32.340243,-90.743,32.340243",
+    "geom:latitude":32.340243,
+    "geom:longitude":-90.743,
+    "iso:country":"US",
+    "sg:address":"4270 Dogwood Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 0150",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMc8ReCIa8X584X709f4c_32.340243_-90.743000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125585,
+    "wof:geomhash":"03543084b68664fb4bd2df447fb2da85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857264547
+        }
+    ],
+    "wof:id":857264547,
+    "wof:lastmodified":1464125585,
+    "wof:name":"Sanders Excavation Services",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.743,
+    32.340243,
+    -90.743,
+    32.340243
+],
+  "geometry": {"coordinates":[-90.74299999999999,32.340243],"type":"Point"}
+}

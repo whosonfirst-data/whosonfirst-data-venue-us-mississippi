@@ -1,0 +1,71 @@
+{
+  "id": 857454365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655559,30.40955,-88.655559,30.40955",
+    "geom:latitude":30.40955,
+    "geom:longitude":-88.655559,
+    "iso:country":"US",
+    "sg:address":"4605 Gautier Vancleave Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 4460",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uMgNYuvIvRTkcoUccyzei_30.409550_-88.655559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129844,
+    "wof:geomhash":"eb5c3a4c8c9762be60b225db835e0a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857454365
+        }
+    ],
+    "wof:id":857454365,
+    "wof:lastmodified":1464129844,
+    "wof:name":"Gautier Church Of Christ",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.655559,
+    30.40955,
+    -88.655559,
+    30.40955
+],
+  "geometry": {"coordinates":[-88.655559,30.40955],"type":"Point"}
+}

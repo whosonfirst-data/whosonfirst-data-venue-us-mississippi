@@ -1,0 +1,71 @@
+{
+  "id": 857473847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.744909,34.245011,-88.744909,34.245011",
+    "geom:latitude":34.245011,
+    "geom:longitude":-88.744909,
+    "iso:country":"US",
+    "sg:address":"2403 Crestwood Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 9177",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kC1xrfabQJnOuk8UFYcII_34.245011_-88.744909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130252,
+    "wof:geomhash":"b479e453962532390743b0af67d98c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857473847
+        }
+    ],
+    "wof:id":857473847,
+    "wof:lastmodified":1464130252,
+    "wof:name":"Universal Cheerleading",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -88.744909,
+    34.245011,
+    -88.744909,
+    34.245011
+],
+  "geometry": {"coordinates":[-88.74490900000001,34.245011],"type":"Point"}
+}

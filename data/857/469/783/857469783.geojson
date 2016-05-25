@@ -1,0 +1,71 @@
+{
+  "id": 857469783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.594008,34.295529,-89.594008,34.295529",
+    "geom:latitude":34.295529,
+    "geom:longitude":-89.594008,
+    "iso:country":"US",
+    "sg:address":"82 Co Rd 398",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 4225",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VpEkOizVS8XE8FgnKUnKp_34.295529_-89.594008@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130168,
+    "wof:geomhash":"061399df29d67f4df3751428407b1f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857469783
+        }
+    ],
+    "wof:id":857469783,
+    "wof:lastmodified":1464130168,
+    "wof:name":"Premier Painting",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -89.594008,
+    34.295529,
+    -89.594008,
+    34.295529
+],
+  "geometry": {"coordinates":[-89.594008,34.295529],"type":"Point"}
+}

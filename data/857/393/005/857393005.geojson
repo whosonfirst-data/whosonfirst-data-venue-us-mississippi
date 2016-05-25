@@ -1,0 +1,73 @@
+{
+  "id": 857393005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557389,30.419248,-88.557389,30.419248",
+    "geom:latitude":30.419248,
+    "geom:longitude":-88.557389,
+    "iso:country":"US",
+    "sg:address":"5212 Lakeview Dr",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7788",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51eN2NWmywoMgEAmUdiLvC_30.419248_-88.557389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128483,
+    "wof:geomhash":"58af77d81001b8d2881dfb49043b51fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857393005
+        }
+    ],
+    "wof:id":857393005,
+    "wof:lastmodified":1464128483,
+    "wof:name":"Clifton Seymour Painting",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.557389,
+    30.419248,
+    -88.557389,
+    30.419248
+],
+  "geometry": {"coordinates":[-88.557389,30.419248],"type":"Point"}
+}

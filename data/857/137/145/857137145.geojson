@@ -1,0 +1,71 @@
+{
+  "id": 857137145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520635,34.351233,-89.520635,34.351233",
+    "geom:latitude":34.351233,
+    "geom:longitude":-89.520635,
+    "iso:country":"US",
+    "sg:address":"2173 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3610",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Txx8MnxyuCYEmos9Z0sZG_34.351233_-89.520635@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122832,
+    "wof:geomhash":"dcd9ffac8d561365012225be27546d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857137145
+        }
+    ],
+    "wof:id":857137145,
+    "wof:lastmodified":1464122832,
+    "wof:name":"Klepzig Family Pharmacy",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food"
+    ]
+},
+  "bbox": [
+    -89.520635,
+    34.351233,
+    -89.520635,
+    34.351233
+],
+  "geometry": {"coordinates":[-89.520635,34.351233],"type":"Point"}
+}

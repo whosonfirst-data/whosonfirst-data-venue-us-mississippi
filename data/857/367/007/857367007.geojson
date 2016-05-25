@@ -1,0 +1,73 @@
+{
+  "id": 857367007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653423,33.604893,-88.653423,33.604893",
+    "geom:latitude":33.604893,
+    "geom:longitude":-88.653423,
+    "iso:country":"US",
+    "sg:address":"315 W Broad St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 0074",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ms0WfVgP99nzmpXi66zU_33.604893_-88.653423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127845,
+    "wof:geomhash":"6b583452c933aaeac53fa823ae570d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857367007
+        }
+    ],
+    "wof:id":857367007,
+    "wof:lastmodified":1464127845,
+    "wof:name":"Waverly Care Home",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.653423,
+    33.604893,
+    -88.653423,
+    33.604893
+],
+  "geometry": {"coordinates":[-88.653423,33.604893],"type":"Point"}
+}

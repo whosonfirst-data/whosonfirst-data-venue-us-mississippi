@@ -1,0 +1,73 @@
+{
+  "id": 857395243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.807626,34.893792,-89.807626,34.893792",
+    "geom:latitude":34.893792,
+    "geom:longitude":-89.807626,
+    "iso:country":"US",
+    "sg:address":"2268 Shadow Main",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 4868",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w2Z9gOkfV3SJtXhYBovok_34.893792_-89.807626@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128530,
+    "wof:geomhash":"9225709a7b2ae03ce3a247f617f29e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857395243
+        }
+    ],
+    "wof:id":857395243,
+    "wof:lastmodified":1464128530,
+    "wof:name":"Southern Outdoors",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -89.807626,
+    34.893792,
+    -89.807626,
+    34.893792
+],
+  "geometry": {"coordinates":[-89.807626,34.893792],"type":"Point"}
+}

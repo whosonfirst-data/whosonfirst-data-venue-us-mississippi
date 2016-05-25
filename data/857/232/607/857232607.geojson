@@ -1,0 +1,71 @@
+{
+  "id": 857232607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.558341,34.191751,-88.558341,34.191751",
+    "geom:latitude":34.191751,
+    "geom:longitude":-88.558341,
+    "iso:country":"US",
+    "sg:address":"146 Co Rd 810",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0563",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OtUWywBKaUVLGDcpExxGk_34.191751_-88.558341@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124853,
+    "wof:geomhash":"b3b82e6fdb877f28d7acbb6267c77ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857232607
+        }
+    ],
+    "wof:id":857232607,
+    "wof:lastmodified":1464124853,
+    "wof:name":"S & H Country Market",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.558341,
+    34.191751,
+    -88.558341,
+    34.191751
+],
+  "geometry": {"coordinates":[-88.558341,34.191751],"type":"Point"}
+}

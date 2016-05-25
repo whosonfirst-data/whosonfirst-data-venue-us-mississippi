@@ -1,0 +1,73 @@
+{
+  "id": 857079559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.317277,31.304026,-89.317277,31.304026",
+    "geom:latitude":31.304026,
+    "geom:longitude":-89.317277,
+    "iso:country":"US",
+    "sg:address":"1846 Lincoln Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 9501",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3df6FLEzcSgA3mSJtrboTm_31.304026_-89.317277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121391,
+    "wof:geomhash":"347723820f4be94576b60ba5cdbfc9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857079559
+        }
+    ],
+    "wof:id":857079559,
+    "wof:lastmodified":1464121391,
+    "wof:name":"Brian's Pawn & Gun Inc",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -89.317277,
+    31.304026,
+    -89.317277,
+    31.304026
+],
+  "geometry": {"coordinates":[-89.317277,31.304026],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857457775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536519,30.363113,-88.536519,30.363113",
+    "geom:latitude":30.363113,
+    "geom:longitude":-88.536519,
+    "iso:country":"US",
+    "sg:address":"2707 Larchmont St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9515",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v4tuBwnPLgO9qZMpzMCtt_30.363113_-88.536519@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129911,
+    "wof:geomhash":"77086fcb29127fdb0c78ef600955b091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857457775
+        }
+    ],
+    "wof:id":857457775,
+    "wof:lastmodified":1464129911,
+    "wof:name":"Reed Club Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -88.536519,
+    30.363113,
+    -88.536519,
+    30.363113
+],
+  "geometry": {"coordinates":[-88.536519,30.363113],"type":"Point"}
+}

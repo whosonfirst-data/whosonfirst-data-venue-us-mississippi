@@ -1,0 +1,73 @@
+{
+  "id": 857461537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830325,34.963944,-89.830325,34.963944",
+    "geom:latitude":34.963944,
+    "geom:longitude":-89.830325,
+    "iso:country":"US",
+    "sg:address":"7014 Hwy 305 N",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 2546",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05cASHgLi9Fw2rFkGUwsA2_34.963944_-89.830325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129983,
+    "wof:geomhash":"eb78cbf205ff06500a38dec645a40b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857461537
+        }
+    ],
+    "wof:id":857461537,
+    "wof:lastmodified":1464129983,
+    "wof:name":"B & G Cleaners",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.830325,
+    34.963944,
+    -89.830325,
+    34.963944
+],
+  "geometry": {"coordinates":[-89.830325,34.963944],"type":"Point"}
+}

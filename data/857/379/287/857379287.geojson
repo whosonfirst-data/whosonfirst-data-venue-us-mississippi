@@ -1,0 +1,71 @@
+{
+  "id": 857379287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.727271,34.801517,-89.727271,34.801517",
+    "geom:latitude":34.801517,
+    "geom:longitude":-89.727271,
+    "iso:country":"US",
+    "sg:address":"14521 Denman Rd",
+    "sg:city":"Byhalia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 838 4676",
+    "sg:postcode":"38611",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n2fbqTcf7HrGdMw8j0EBs_34.801517_-89.727271@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128100,
+    "wof:geomhash":"1d05fcba234e9bf63ed59a4155d072ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857379287
+        }
+    ],
+    "wof:id":857379287,
+    "wof:lastmodified":1464128100,
+    "wof:name":"Atrom Inc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.727271,
+    34.801517,
+    -89.727271,
+    34.801517
+],
+  "geometry": {"coordinates":[-89.727271,34.801517],"type":"Point"}
+}

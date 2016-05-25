@@ -1,0 +1,73 @@
+{
+  "id": 857095525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.337177,32.230644,-90.337177,32.230644",
+    "geom:latitude":32.230644,
+    "geom:longitude":-90.337177,
+    "iso:country":"US",
+    "sg:address":"133 Windy Hill Cove",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 346 5754",
+    "sg:postcode":"39154",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wPRyUGWLwyIxXgTfCTsds_32.230644_-90.337177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121799,
+    "wof:geomhash":"e52a734af23e75e029d1b72d3f230523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857095525
+        }
+    ],
+    "wof:id":857095525,
+    "wof:lastmodified":1464121799,
+    "wof:name":"Hamlin Properties LLC",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.337177,
+    32.230644,
+    -90.337177,
+    32.230644
+],
+  "geometry": {"coordinates":[-90.337177,32.230644],"type":"Point"}
+}

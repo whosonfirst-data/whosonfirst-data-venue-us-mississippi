@@ -1,0 +1,73 @@
+{
+  "id": 857287049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67826,32.37993,-88.67826,32.37993",
+    "geom:latitude":32.37993,
+    "geom:longitude":-88.67826,
+    "iso:country":"US",
+    "sg:address":"100 21st Ct",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2288",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TK0ZYDVcOe2HpNMwvh0bW_32.379930_-88.678260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126066,
+    "wof:geomhash":"c97a4ed217b2fd56db5945f5ad589fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857287049
+        }
+    ],
+    "wof:id":857287049,
+    "wof:lastmodified":1464126066,
+    "wof:name":"Winstead Dental Laboratory",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -88.67826,
+    32.37993,
+    -88.67826,
+    32.37993
+],
+  "geometry": {"coordinates":[-88.67825999999999,32.37993],"type":"Point"}
+}

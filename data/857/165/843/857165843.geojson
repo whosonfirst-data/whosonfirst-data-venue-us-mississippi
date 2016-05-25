@@ -1,0 +1,73 @@
+{
+  "id": 857165843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.863786,32.316174,-90.863786,32.316174",
+    "geom:latitude":32.316174,
+    "geom:longitude":-90.863786,
+    "iso:country":"US",
+    "sg:address":"3418 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7500",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jzWCYQATsJDhnzkvMSK1U_32.316174_-90.863786@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123484,
+    "wof:geomhash":"3761e0f1e51d8d9e57accab20fb0ac79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857165843
+        }
+    ],
+    "wof:id":857165843,
+    "wof:lastmodified":1464123484,
+    "wof:name":"Joe Gay Electrical Contractors",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.863786,
+    32.316174,
+    -90.863786,
+    32.316174
+],
+  "geometry": {"coordinates":[-90.863786,32.316174],"type":"Point"}
+}

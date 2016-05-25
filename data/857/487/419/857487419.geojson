@@ -1,0 +1,78 @@
+{
+  "id": 857487419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571887,34.206603,-90.571887,34.206603",
+    "geom:latitude":34.206603,
+    "geom:longitude":-90.571887,
+    "iso:country":"US",
+    "sg:address":"381 Clark St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2343",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "major",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tDyMXJ76fELaqsDHW4GLQ_34.206603_-90.571887@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130515,
+    "wof:geomhash":"62f0008744b82502590738684d97e7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487419
+        }
+    ],
+    "wof:id":857487419,
+    "wof:lastmodified":1464130515,
+    "wof:name":"Jacob Levene Furniture",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.571887,
+    34.206603,
+    -90.571887,
+    34.206603
+],
+  "geometry": {"coordinates":[-90.571887,34.206603],"type":"Point"}
+}

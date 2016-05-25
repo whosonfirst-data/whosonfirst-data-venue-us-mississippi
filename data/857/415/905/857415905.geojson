@@ -1,0 +1,73 @@
+{
+  "id": 857415905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.764249,34.233915,-88.764249,34.233915",
+    "geom:latitude":34.233915,
+    "geom:longitude":-88.764249,
+    "iso:country":"US",
+    "sg:address":"1973 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 8888",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "auto",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xo2hxo9R1Z4DpEJMGhTRF_34.233915_-88.764249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129005,
+    "wof:geomhash":"a6142e3818a821727b2244f2883b1be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857415905
+        }
+    ],
+    "wof:id":857415905,
+    "wof:lastmodified":1464129005,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "rental"
+    ]
+},
+  "bbox": [
+    -88.764249,
+    34.233915,
+    -88.764249,
+    34.233915
+],
+  "geometry": {"coordinates":[-88.76424900000001,34.233915],"type":"Point"}
+}

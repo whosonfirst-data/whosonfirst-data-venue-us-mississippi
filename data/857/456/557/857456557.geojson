@@ -1,0 +1,73 @@
+{
+  "id": 857456557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.100438,32.458374,-90.100438,32.458374",
+    "geom:latitude":32.458374,
+    "geom:longitude":-90.100438,
+    "iso:country":"US",
+    "sg:address":"228 Timbermill Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 0078",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KBwbioMZgN9yVe62XxEQ1_32.458374_-90.100438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129883,
+    "wof:geomhash":"710612ad7722f6faf611f1a58381bebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857456557
+        }
+    ],
+    "wof:id":857456557,
+    "wof:lastmodified":1464129883,
+    "wof:name":"Johnny Rowland",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.100438,
+    32.458374,
+    -90.100438,
+    32.458374
+],
+  "geometry": {"coordinates":[-90.100438,32.458374],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857217979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.162799,32.21396,-90.162799,32.21396",
+    "geom:latitude":32.21396,
+    "geom:longitude":-90.162799,
+    "iso:country":"US",
+    "sg:address":"380 Scarbrough St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 1600",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x1uwR9S7cA5kqh0BY0lyw_32.213960_-90.162799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124574,
+    "wof:geomhash":"c8d471511be82d2e50b940ef35262078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857217979
+        }
+    ],
+    "wof:id":857217979,
+    "wof:lastmodified":1464124574,
+    "wof:name":"Richland Public Works Dept",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -90.162799,
+    32.21396,
+    -90.162799,
+    32.21396
+],
+  "geometry": {"coordinates":[-90.16279900000001,32.21396],"type":"Point"}
+}

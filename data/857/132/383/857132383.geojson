@@ -1,0 +1,72 @@
+{
+  "id": 857132383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514653,34.36331,-89.514653,34.36331",
+    "geom:latitude":34.36331,
+    "geom:longitude":-89.514653,
+    "iso:country":"US",
+    "sg:address":"1550 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 5360",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.oubol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2570ytnqcsgWZmbSAOoFqY_34.363310_-89.514653@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122726,
+    "wof:geomhash":"63d20123dce4d88af3763355812cb19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857132383
+        }
+    ],
+    "wof:id":857132383,
+    "wof:lastmodified":1464122726,
+    "wof:name":"Oxford University Bank",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -89.514653,
+    34.36331,
+    -89.514653,
+    34.36331
+],
+  "geometry": {"coordinates":[-89.514653,34.36331],"type":"Point"}
+}

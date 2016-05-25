@@ -1,0 +1,73 @@
+{
+  "id": 857195701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.709113,32.409209,-88.709113,32.409209",
+    "geom:latitude":32.409209,
+    "geom:longitude":-88.709113,
+    "iso:country":"US",
+    "sg:address":"2800 Old N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2206",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director",
+        "mortuary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_250mR1ZIz2cL7ZwIScaAeM_32.409209_-88.709113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124092,
+    "wof:geomhash":"3612f8208bedcf0d0d0cfaf3007851a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857195701
+        }
+    ],
+    "wof:id":857195701,
+    "wof:lastmodified":1464124092,
+    "wof:name":"Stephens Funeral Home Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "mortuary"
+    ]
+},
+  "bbox": [
+    -88.709113,
+    32.409209,
+    -88.709113,
+    32.409209
+],
+  "geometry": {"coordinates":[-88.709113,32.409209],"type":"Point"}
+}

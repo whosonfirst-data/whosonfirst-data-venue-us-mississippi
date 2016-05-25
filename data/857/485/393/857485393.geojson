@@ -1,0 +1,72 @@
+{
+  "id": 857485393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435111,33.51823,-88.435111,33.51823",
+    "geom:latitude":33.51823,
+    "geom:longitude":-88.435111,
+    "iso:country":"US",
+    "sg:address":"1913 Highway 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/columbus/91947-back-yard-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9199",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HSWr1WPIB5LBXudNVpH1y_33.518230_-88.435111@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130474,
+    "wof:geomhash":"a9bdcd28e0666d4c9a94c5426b0a935b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857485393
+        }
+    ],
+    "wof:id":857485393,
+    "wof:lastmodified":1464130474,
+    "wof:name":"Back Yard Burgers",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.435111,
+    33.51823,
+    -88.435111,
+    33.51823
+],
+  "geometry": {"coordinates":[-88.43511100000001,33.51823],"type":"Point"}
+}

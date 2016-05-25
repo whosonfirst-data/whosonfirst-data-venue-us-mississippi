@@ -1,0 +1,66 @@
+{
+  "id": 857367501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.667066,34.246587,-88.667066,34.246587",
+    "geom:latitude":34.246587,
+    "geom:longitude":-88.667066,
+    "iso:country":"US",
+    "sg:address":"1501 Wilson St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 4628",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57WcqAI9KPjQmuoULqal8J_34.246587_-88.667066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127854,
+    "wof:geomhash":"83332e7c103c4235f40a2e22270a7b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857367501
+        }
+    ],
+    "wof:id":857367501,
+    "wof:lastmodified":1464127854,
+    "wof:name":"Dennis Carlock Hobby Shop",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.667066,
+    34.246587,
+    -88.667066,
+    34.246587
+],
+  "geometry": {"coordinates":[-88.66706600000001,34.246587],"type":"Point"}
+}

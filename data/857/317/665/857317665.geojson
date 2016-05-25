@@ -1,0 +1,80 @@
+{
+  "id": 857317665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.665186,34.257717,-88.665186,34.257717",
+    "geom:latitude":34.257717,
+    "geom:longitude":-88.665186,
+    "iso:country":"US",
+    "sg:address":"1820 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 7357",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "radio",
+        "television",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_422wIxj0k53bMpI5WnivAy_34.257717_-88.665186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126787,
+    "wof:geomhash":"210c7d94b4f98256c3c81dc36ddf4d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857317665
+        }
+    ],
+    "wof:id":857317665,
+    "wof:lastmodified":1464126787,
+    "wof:name":"Rite-Way T V & Appliances",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.665186,
+    34.257717,
+    -88.665186,
+    34.257717
+],
+  "geometry": {"coordinates":[-88.66518600000001,34.257717],"type":"Point"}
+}

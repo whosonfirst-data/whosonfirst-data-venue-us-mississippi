@@ -1,0 +1,73 @@
+{
+  "id": 857424553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.336643,33.436533,-88.336643,33.436533",
+    "geom:latitude":33.436533,
+    "geom:longitude":-88.336643,
+    "iso:country":"US",
+    "sg:address":"10 Spring Lake Rd",
+    "sg:city":"Mathiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 5715",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "road",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ns9mcyfRP6TVi9kJc7sb_33.436533_-88.336643@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129212,
+    "wof:geomhash":"79df9a34274710cd5d102a8e16ccd978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857424553
+        }
+    ],
+    "wof:id":857424553,
+    "wof:lastmodified":1464129212,
+    "wof:name":"Carden Construction",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.336643,
+    33.436533,
+    -88.336643,
+    33.436533
+],
+  "geometry": {"coordinates":[-88.336643,33.436533],"type":"Point"}
+}

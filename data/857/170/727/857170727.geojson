@@ -1,0 +1,71 @@
+{
+  "id": 857170727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675291,34.239981,-88.675291,34.239981",
+    "geom:latitude":34.239981,
+    "geom:longitude":-88.675291,
+    "iso:country":"US",
+    "sg:address":"1927 Briar Ridge Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 0587",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YFybUDty65VKa43ZywVyy_34.239981_-88.675291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123599,
+    "wof:geomhash":"990d0d5d85bf9282d04e065dca3d2258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857170727
+        }
+    ],
+    "wof:id":857170727,
+    "wof:lastmodified":1464123599,
+    "wof:name":"Community Group Home Reha",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.675291,
+    34.239981,
+    -88.675291,
+    34.239981
+],
+  "geometry": {"coordinates":[-88.675291,34.239981],"type":"Point"}
+}

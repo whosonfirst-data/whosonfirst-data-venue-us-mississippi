@@ -1,0 +1,71 @@
+{
+  "id": 857116201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704412,32.363329,-88.704412,32.363329",
+    "geom:latitude":32.363329,
+    "geom:longitude":-88.704412,
+    "iso:country":"US",
+    "sg:address":"2614 Davis St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 8951",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_250L8NqtJXCfNKc1EVuSif_32.363329_-88.704412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122352,
+    "wof:geomhash":"abf00de84be2bae743c2cee3c9232b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857116201
+        }
+    ],
+    "wof:id":857116201,
+    "wof:lastmodified":1464122352,
+    "wof:name":"St Patrick Family Life",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -88.704412,
+    32.363329,
+    -88.704412,
+    32.363329
+],
+  "geometry": {"coordinates":[-88.704412,32.363329],"type":"Point"}
+}

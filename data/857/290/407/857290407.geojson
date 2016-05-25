@@ -1,0 +1,71 @@
+{
+  "id": 857290407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.544281,30.365038,-88.544281,30.365038",
+    "geom:latitude":30.365038,
+    "geom:longitude":-88.544281,
+    "iso:country":"US",
+    "sg:address":"1707 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3066",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aAF6l6Y5SzyEat4LsZQBB_30.365038_-88.544281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126156,
+    "wof:geomhash":"63ab42f69e8a1886a6853acdbcac6fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857290407
+        }
+    ],
+    "wof:id":857290407,
+    "wof:lastmodified":1464126156,
+    "wof:name":"City Of Pascagoula Fire Dept",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.544281,
+    30.365038,
+    -88.544281,
+    30.365038
+],
+  "geometry": {"coordinates":[-88.544281,30.365038],"type":"Point"}
+}

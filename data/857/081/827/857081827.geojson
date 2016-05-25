@@ -1,0 +1,71 @@
+{
+  "id": 857081827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.347019,33.433375,-88.347019,33.433375",
+    "geom:latitude":33.433375,
+    "geom:longitude":-88.347019,
+    "iso:country":"US",
+    "sg:address":"5881 Hwy 69 S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2413",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CZxJcEtbMyM9hEJ5ZgnEr_33.433375_-88.347019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121446,
+    "wof:geomhash":"1d40e867a21a4ec60069f604a9269554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857081827
+        }
+    ],
+    "wof:id":857081827,
+    "wof:lastmodified":1464121446,
+    "wof:name":"Caldwell Construction",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.347019,
+    33.433375,
+    -88.347019,
+    33.433375
+],
+  "geometry": {"coordinates":[-88.347019,33.433375],"type":"Point"}
+}

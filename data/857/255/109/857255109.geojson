@@ -1,0 +1,75 @@
+{
+  "id": 857255109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.682525,32.381409,-88.682525,32.381409",
+    "geom:latitude":32.381409,
+    "geom:longitude":-88.682525,
+    "iso:country":"US",
+    "sg:address":"2201 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1513",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HXvfcLEpnSudhiqMyb8h_32.381409_-88.682525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125378,
+    "wof:geomhash":"b9bdafa0620d987e20cf39467cab8687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857255109
+        }
+    ],
+    "wof:id":857255109,
+    "wof:lastmodified":1464125378,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -88.682525,
+    32.381409,
+    -88.682525,
+    32.381409
+],
+  "geometry": {"coordinates":[-88.682525,32.381409],"type":"Point"}
+}

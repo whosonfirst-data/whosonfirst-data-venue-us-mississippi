@@ -1,0 +1,73 @@
+{
+  "id": 857415649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.19611,31.045962,-89.19611,31.045962",
+    "geom:latitude":31.045962,
+    "geom:longitude":-89.19611,
+    "iso:country":"US",
+    "sg:address":"2095 Old Hwy 49",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7555",
+    "sg:postcode":"39425",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xQqJNN7ystpnmfd0iSXLu_31.045962_-89.196110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128992,
+    "wof:geomhash":"53e41a2f0c3c8347c2f4c37572e7e299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857415649
+        }
+    ],
+    "wof:id":857415649,
+    "wof:lastmodified":1464128992,
+    "wof:name":"Brooklyn Motor Stop",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.19611,
+    31.045962,
+    -89.19611,
+    31.045962
+],
+  "geometry": {"coordinates":[-89.19611,31.045962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857191261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.322469,31.331877,-89.322469,31.331877",
+    "geom:latitude":31.331877,
+    "geom:longitude":-89.322469,
+    "iso:country":"US",
+    "sg:address":"2108 W 4th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0228",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V6icdbKWcwDQbE99Go6FR_31.331877_-89.322469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124011,
+    "wof:geomhash":"d5af9dbf9972793dc0a2c5b213bf612e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857191261
+        }
+    ],
+    "wof:id":857191261,
+    "wof:lastmodified":1464124011,
+    "wof:name":"Dye & Gunn Plumbing & Heating",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.322469,
+    31.331877,
+    -89.322469,
+    31.331877
+],
+  "geometry": {"coordinates":[-89.322469,31.331877],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857132603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.190754,32.302651,-90.190754,32.302651",
+    "geom:latitude":32.302651,
+    "geom:longitude":-90.190754,
+    "iso:country":"US",
+    "sg:address":"218 N Mill St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 949 9628",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LCuRnpkrp0Jbi8stFIwTy_32.302651_-90.190754@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122730,
+    "wof:geomhash":"d3425d0ad236c82ea0d5ab0a69665851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878407,
+            "region_id":85688579,
+            "venue_id":857132603
+        }
+    ],
+    "wof:id":857132603,
+    "wof:lastmodified":1464122730,
+    "wof:name":"Auto Inn",
+    "wof:parent_id":85878407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.190754,
+    32.302651,
+    -90.190754,
+    32.302651
+],
+  "geometry": {"coordinates":[-90.190754,32.302651],"type":"Point"}
+}

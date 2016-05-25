@@ -1,0 +1,73 @@
+{
+  "id": 857119709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534006,30.380388,-88.534006,30.380388",
+    "geom:latitude":30.380388,
+    "geom:longitude":-88.534006,
+    "iso:country":"US",
+    "sg:address":"2802 Shortcut Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7501",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OZtzjGjeagziUZlI5uhbn_30.380388_-88.534006@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122443,
+    "wof:geomhash":"c28c8bc09694beac32f9f71fe5464aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857119709
+        }
+    ],
+    "wof:id":857119709,
+    "wof:lastmodified":1464122443,
+    "wof:name":"National Guard",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "guard"
+    ]
+},
+  "bbox": [
+    -88.534006,
+    30.380388,
+    -88.534006,
+    30.380388
+],
+  "geometry": {"coordinates":[-88.53400600000001,30.380388],"type":"Point"}
+}

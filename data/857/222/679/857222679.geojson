@@ -1,0 +1,73 @@
+{
+  "id": 857222679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.897761,32.316454,-90.897761,32.316454",
+    "geom:latitude":32.316454,
+    "geom:longitude":-90.897761,
+    "iso:country":"US",
+    "sg:address":"4119 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 6004",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85851213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aaRx65RR77TJRdYZPvWTz_32.316454_-90.897761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124669,
+    "wof:geomhash":"75e05b97f2264ebb5370ca88f66dc2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85851213,
+            "region_id":85688579,
+            "venue_id":857222679
+        }
+    ],
+    "wof:id":857222679,
+    "wof:lastmodified":1464124669,
+    "wof:name":"USA Pawn & Jewelry",
+    "wof:parent_id":85851213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -90.897761,
+    32.316454,
+    -90.897761,
+    32.316454
+],
+  "geometry": {"coordinates":[-90.897761,32.316454],"type":"Point"}
+}

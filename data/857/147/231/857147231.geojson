@@ -1,0 +1,71 @@
+{
+  "id": 857147231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.410314,33.573765,-88.410314,33.573765",
+    "geom:latitude":33.573765,
+    "geom:longitude":-88.410314,
+    "iso:country":"US",
+    "sg:address":"100 Fulgham Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2326",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dmZsomUy8MctgDfFJDbjQ_33.573765_-88.410314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123083,
+    "wof:geomhash":"d9e3cff734fb7abc9086eba068d5b254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857147231
+        }
+    ],
+    "wof:id":857147231,
+    "wof:lastmodified":1464123083,
+    "wof:name":"Hobart Sales & Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.410314,
+    33.573765,
+    -88.410314,
+    33.573765
+],
+  "geometry": {"coordinates":[-88.410314,33.573765],"type":"Point"}
+}

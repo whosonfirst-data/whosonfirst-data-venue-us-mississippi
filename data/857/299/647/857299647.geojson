@@ -1,0 +1,71 @@
+{
+  "id": 857299647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.650351,33.607474,-88.650351,33.607474",
+    "geom:latitude":33.607474,
+    "geom:longitude":-88.650351,
+    "iso:country":"US",
+    "sg:address":"120 N Division St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 5922",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fySuwzEk2uAq95k4tTdFD_33.607474_-88.650351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126403,
+    "wof:geomhash":"480935372a3620721d116c2f76df3ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857299647
+        }
+    ],
+    "wof:id":857299647,
+    "wof:lastmodified":1464126403,
+    "wof:name":"Atmos Energy Mississippi",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -88.650351,
+    33.607474,
+    -88.650351,
+    33.607474
+],
+  "geometry": {"coordinates":[-88.650351,33.607474],"type":"Point"}
+}

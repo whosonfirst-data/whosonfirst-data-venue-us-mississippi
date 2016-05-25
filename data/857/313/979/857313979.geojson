@@ -1,0 +1,66 @@
+{
+  "id": 857313979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.754076,30.390271,-88.754076,30.390271",
+    "geom:latitude":30.390271,
+    "geom:longitude":-88.754076,
+    "iso:country":"US",
+    "sg:address":"8600 Blueberry Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 1962",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VPAclLV0my8LmQgznGolu_30.390271_-88.754076@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126704,
+    "wof:geomhash":"866407b5161d1d127b1ae09068b4f2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857313979
+        }
+    ],
+    "wof:id":857313979,
+    "wof:lastmodified":1464126704,
+    "wof:name":"Ocean Springs Airport",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.754076,
+    30.390271,
+    -88.754076,
+    30.390271
+],
+  "geometry": {"coordinates":[-88.754076,30.390271],"type":"Point"}
+}

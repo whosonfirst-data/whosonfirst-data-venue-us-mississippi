@@ -1,0 +1,75 @@
+{
+  "id": 857325553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.96594,34.835608,-89.96594,34.835608",
+    "geom:latitude":34.835608,
+    "geom:longitude":-89.96594,
+    "iso:country":"US",
+    "sg:address":"1365 Milam Ln",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 3738",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J0vOKx75YZr3qIQBWoYBc_34.835608_-89.965940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126961,
+    "wof:geomhash":"9f86070f3d29b02975ce25d811277a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857325553
+        }
+    ],
+    "wof:id":857325553,
+    "wof:lastmodified":1464126961,
+    "wof:name":"Desoto County Plumbing",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.96594,
+    34.835608,
+    -89.96594,
+    34.835608
+],
+  "geometry": {"coordinates":[-89.96594,34.835608],"type":"Point"}
+}

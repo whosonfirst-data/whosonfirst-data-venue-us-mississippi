@@ -1,0 +1,71 @@
+{
+  "id": 857465731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418939,33.505809,-88.418939,33.505809",
+    "geom:latitude":33.505809,
+    "geom:longitude":-88.418939,
+    "iso:country":"US",
+    "sg:address":"1312 N 10th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4599",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NeaJ0rDfE25FLiTOb8FrD_33.505809_-88.418939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130083,
+    "wof:geomhash":"8dbf574402c6a49de524ac8e3fc371a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857465731
+        }
+    ],
+    "wof:id":857465731,
+    "wof:lastmodified":1464130083,
+    "wof:name":"Up & At It Beauty Salon",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.418939,
+    33.505809,
+    -88.418939,
+    33.505809
+],
+  "geometry": {"coordinates":[-88.41893899999999,33.505809],"type":"Point"}
+}

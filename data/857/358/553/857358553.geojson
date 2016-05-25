@@ -1,0 +1,71 @@
+{
+  "id": 857358553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.828978,30.423705,-88.828978,30.423705",
+    "geom:latitude":30.423705,
+    "geom:longitude":-88.828978,
+    "iso:country":"US",
+    "sg:address":"5600 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 2887",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ocW12Pn33nN0ry66zvEDB_30.423705_-88.828978@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127670,
+    "wof:geomhash":"69eb31413b23ec70e8cb745ee6e97d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857358553
+        }
+    ],
+    "wof:id":857358553,
+    "wof:lastmodified":1464127670,
+    "wof:name":"Hurricane Cove",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.828978,
+    30.423705,
+    -88.828978,
+    30.423705
+],
+  "geometry": {"coordinates":[-88.82897800000001,30.423705],"type":"Point"}
+}

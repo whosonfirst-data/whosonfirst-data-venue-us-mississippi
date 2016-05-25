@@ -1,0 +1,71 @@
+{
+  "id": 857430989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533541,30.382421,-88.533541,30.382421",
+    "geom:latitude":30.382421,
+    "geom:longitude":-88.533541,
+    "iso:country":"US",
+    "sg:address":"3011 Andrew Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2511",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accident"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sIEUz9T0hL9vT0FJ3ufOY_30.382421_-88.533541@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129364,
+    "wof:geomhash":"400bef5b12ea29473af9a11e791ca1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857430989
+        }
+    ],
+    "wof:id":857430989,
+    "wof:lastmodified":1464129364,
+    "wof:name":"Group Insurance Consultants",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accident"
+    ]
+},
+  "bbox": [
+    -88.533541,
+    30.382421,
+    -88.533541,
+    30.382421
+],
+  "geometry": {"coordinates":[-88.533541,30.382421],"type":"Point"}
+}

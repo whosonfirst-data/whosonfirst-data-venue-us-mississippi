@@ -1,0 +1,73 @@
+{
+  "id": 857168403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.889971,30.445218,-88.889971,30.445218",
+    "geom:latitude":30.445218,
+    "geom:longitude":-88.889971,
+    "iso:country":"US",
+    "sg:address":"11045 Kevin Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 0825",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MZLr7b2sC91Pj9V4xvLK3_30.445218_-88.889971@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123544,
+    "wof:geomhash":"f7e66dac86dec698041d0726c1e41914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857168403
+        }
+    ],
+    "wof:id":857168403,
+    "wof:lastmodified":1464123544,
+    "wof:name":"Bobbys Transmissions Eng Repr",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -88.889971,
+    30.445218,
+    -88.889971,
+    30.445218
+],
+  "geometry": {"coordinates":[-88.889971,30.445218],"type":"Point"}
+}

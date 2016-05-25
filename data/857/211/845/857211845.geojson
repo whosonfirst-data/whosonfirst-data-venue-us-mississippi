@@ -1,0 +1,78 @@
+{
+  "id": 857211845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.013544,30.453014,-89.013544,30.453014",
+    "geom:latitude":30.453014,
+    "geom:longitude":-89.013544,
+    "iso:country":"US",
+    "sg:address":"12097 Lorraine Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 9970",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795,
+        85831413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ffYaRWVAC1hmLUZOVnPBe_30.453014_-89.013544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124436,
+    "wof:geomhash":"20840a87ac9f3326aaa31b48df593218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857211845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85831413,
+            "region_id":85688579,
+            "venue_id":857211845
+        }
+    ],
+    "wof:id":857211845,
+    "wof:lastmodified":1464124436,
+    "wof:name":"Jigs Fish Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.013544,
+    30.453014,
+    -89.013544,
+    30.453014
+],
+  "geometry": {"coordinates":[-89.013544,30.453014],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857232679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.165707,31.354993,-89.165707,31.354993",
+    "geom:latitude":31.354993,
+    "geom:longitude":-89.165707,
+    "iso:country":"US",
+    "sg:address":"1632 Hwy 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8060",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t0HhDHqaThGyRuTIy7bP5_31.354993_-89.165707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124855,
+    "wof:geomhash":"9b3721135dd1823c0de916a91e1d6a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857232679
+        }
+    ],
+    "wof:id":857232679,
+    "wof:lastmodified":1464124855,
+    "wof:name":"Hilltop Food Mart",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.165707,
+    31.354993,
+    -89.165707,
+    31.354993
+],
+  "geometry": {"coordinates":[-89.165707,31.354993],"type":"Point"}
+}

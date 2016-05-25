@@ -1,0 +1,73 @@
+{
+  "id": 857242623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.206238,31.414561,-89.206238,31.414561",
+    "geom:latitude":31.414561,
+    "geom:longitude":-89.206238,
+    "iso:country":"US",
+    "sg:address":"147 Eastabuchie Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 8097",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aOE1LFl66tOMMKI5490mM_31.414561_-89.206238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125075,
+    "wof:geomhash":"bbda42c36e04add7815be90eebbc87b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857242623
+        }
+    ],
+    "wof:id":857242623,
+    "wof:lastmodified":1464125075,
+    "wof:name":"Adam Shows Painting",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.206238,
+    31.414561,
+    -89.206238,
+    31.414561
+],
+  "geometry": {"coordinates":[-89.206238,31.414561],"type":"Point"}
+}

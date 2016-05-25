@@ -1,0 +1,71 @@
+{
+  "id": 857328251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.299762,33.51571,-88.299762,33.51571",
+    "geom:latitude":33.51571,
+    "geom:longitude":-88.299762,
+    "iso:country":"US",
+    "sg:address":"2432 Tabernacle Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8189",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "gen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7adZaLIB4WTDLI41KAiFTP_33.515710_-88.299762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127017,
+    "wof:geomhash":"9ad370a2669cc886741ac3d200bc9873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857328251
+        }
+    ],
+    "wof:id":857328251,
+    "wof:lastmodified":1464127017,
+    "wof:name":"Doyles Trading Post",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gen"
+    ]
+},
+  "bbox": [
+    -88.299762,
+    33.51571,
+    -88.299762,
+    33.51571
+],
+  "geometry": {"coordinates":[-88.299762,33.51571],"type":"Point"}
+}

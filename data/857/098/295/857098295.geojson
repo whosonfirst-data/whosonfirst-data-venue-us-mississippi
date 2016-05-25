@@ -1,0 +1,71 @@
+{
+  "id": 857098295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435475,33.520875,-88.435475,33.520875",
+    "geom:latitude":33.520875,
+    "geom:longitude":-88.435475,
+    "iso:country":"US",
+    "sg:address":"800 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8048",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q9NnuXdM8z4YNLb2ltrkJ_33.520875_-88.435475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121864,
+    "wof:geomhash":"0674f688b8b815b86ab121975b064fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857098295
+        }
+    ],
+    "wof:id":857098295,
+    "wof:lastmodified":1464121864,
+    "wof:name":"Bead Place The",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.435475,
+    33.520875,
+    -88.435475,
+    33.520875
+],
+  "geometry": {"coordinates":[-88.435475,33.520875],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857369149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.124756,32.155043,-90.124756,32.155043",
+    "geom:latitude":32.155043,
+    "geom:longitude":-90.124756,
+    "iso:country":"US",
+    "sg:address":"2289 Hwy 49 S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 0710",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N16JfSZIkhVHZmt9Ia3oF_32.155043_-90.124756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127885,
+    "wof:geomhash":"39771017cd5281ef87329f7781f9834c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857369149
+        }
+    ],
+    "wof:id":857369149,
+    "wof:lastmodified":1464127885,
+    "wof:name":"Danny's Auto Sales",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.124756,
+    32.155043,
+    -90.124756,
+    32.155043
+],
+  "geometry": {"coordinates":[-90.124756,32.155043],"type":"Point"}
+}

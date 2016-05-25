@@ -1,0 +1,71 @@
+{
+  "id": 857234653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845289,33.445418,-88.845289,33.445418",
+    "geom:latitude":33.445418,
+    "geom:longitude":-88.845289,
+    "iso:country":"US",
+    "sg:address":"103 Airport Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 6600",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52xa7olQgK17sw0B16ZzO1_33.445418_-88.845289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124895,
+    "wof:geomhash":"1920a2b33babe5059a81e456b6e0bbc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857234653
+        }
+    ],
+    "wof:id":857234653,
+    "wof:lastmodified":1464124895,
+    "wof:name":"Southwire Co",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable"
+    ]
+},
+  "bbox": [
+    -88.845289,
+    33.445418,
+    -88.845289,
+    33.445418
+],
+  "geometry": {"coordinates":[-88.84528899999999,33.445418],"type":"Point"}
+}

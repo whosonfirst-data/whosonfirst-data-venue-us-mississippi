@@ -1,0 +1,75 @@
+{
+  "id": 857324995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482748,32.876508,-90.482748,32.876508",
+    "geom:latitude":32.876508,
+    "geom:longitude":-90.482748,
+    "iso:country":"US",
+    "sg:address":"4361 Hwy 49 W",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 8250",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GUme3GIMaX9jqM0zNoYVC_32.876508_-90.482748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126950,
+    "wof:geomhash":"09c0476bd2dea62dfe7d242043b984a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857324995
+        }
+    ],
+    "wof:id":857324995,
+    "wof:lastmodified":1464126950,
+    "wof:name":"Paul's Body Shop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.482748,
+    32.876508,
+    -90.482748,
+    32.876508
+],
+  "geometry": {"coordinates":[-90.482748,32.876508],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 857486669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574219,34.191094,-90.574219,34.191094",
+    "geom:latitude":34.191094,
+    "geom:longitude":-90.574219,
+    "iso:country":"US",
+    "sg:address":"460 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1139",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HoUZlhasd4YjM1n8FRtvk_34.191094_-90.574219@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130497,
+    "wof:geomhash":"c74d7defd4cb95f65820a1ac666d025f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486669
+        }
+    ],
+    "wof:id":857486669,
+    "wof:lastmodified":1464130497,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.574219,
+    34.191094,
+    -90.574219,
+    34.191094
+],
+  "geometry": {"coordinates":[-90.574219,34.191094],"type":"Point"}
+}

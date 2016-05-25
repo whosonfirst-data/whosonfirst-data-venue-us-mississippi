@@ -1,0 +1,67 @@
+{
+  "id": 857255037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.325184,33.44775,-88.325184,33.44775",
+    "geom:latitude":33.44775,
+    "geom:longitude":-88.325184,
+    "iso:country":"US",
+    "sg:address":"3419 New Hope Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 4700",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:website":"www.newhopetrojans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Q5Gja7YfEJrKkPDqvMKi_33.447750_-88.325184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125377,
+    "wof:geomhash":"f20a83adba752eacd44d9e7f94a95249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857255037
+        }
+    ],
+    "wof:id":857255037,
+    "wof:lastmodified":1464125377,
+    "wof:name":"Lowndes County Sch New Hope",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.325184,
+    33.44775,
+    -88.325184,
+    33.44775
+],
+  "geometry": {"coordinates":[-88.32518399999999,33.44775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857120785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.52572,30.370337,-88.52572,30.370337",
+    "geom:latitude":30.370337,
+    "geom:longitude":-88.52572,
+    "iso:country":"US",
+    "sg:address":"3500 Chicot St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 761 2002",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "naval",
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sxwt3b043u4cSSySfTtxw_30.370337_-88.525720@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122465,
+    "wof:geomhash":"8b881a5fb7a28dee6adb6a7c5d4c4f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857120785
+        }
+    ],
+    "wof:id":857120785,
+    "wof:lastmodified":1464122465,
+    "wof:name":"Navy Exchange Service Command",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "naval",
+        "exchange"
+    ]
+},
+  "bbox": [
+    -88.52572,
+    30.370337,
+    -88.52572,
+    30.370337
+],
+  "geometry": {"coordinates":[-88.52572000000001,30.370337],"type":"Point"}
+}

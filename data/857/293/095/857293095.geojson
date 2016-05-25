@@ -1,0 +1,71 @@
+{
+  "id": 857293095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.631284,30.419622,-88.631284,30.419622",
+    "geom:latitude":30.419622,
+    "geom:longitude":-88.631284,
+    "iso:country":"US",
+    "sg:address":"5404 Woodridge Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 0035",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62KSX7eiWnOvNJpNLJv3eE_30.419622_-88.631284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126223,
+    "wof:geomhash":"fd8405fb3376bd579aa241587411f878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857293095
+        }
+    ],
+    "wof:id":857293095,
+    "wof:lastmodified":1464126223,
+    "wof:name":"Clean Rite Blind Svc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -88.631284,
+    30.419622,
+    -88.631284,
+    30.419622
+],
+  "geometry": {"coordinates":[-88.63128399999999,30.419622],"type":"Point"}
+}

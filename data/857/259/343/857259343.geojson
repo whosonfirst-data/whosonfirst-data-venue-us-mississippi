@@ -1,0 +1,73 @@
+{
+  "id": 857259343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.891169,30.440488,-88.891169,30.440488",
+    "geom:latitude":30.440488,
+    "geom:longitude":-88.891169,
+    "iso:country":"US",
+    "sg:address":"10374 Lamey Bridge Rd",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 1300",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cyDJ3jdR40eVOCdYtLL4b_30.440488_-88.891169@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125479,
+    "wof:geomhash":"8a4163c74be5d99aebcfcbe545068aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857259343
+        }
+    ],
+    "wof:id":857259343,
+    "wof:lastmodified":1464125479,
+    "wof:name":"South Ms Kidney Ctr",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.891169,
+    30.440488,
+    -88.891169,
+    30.440488
+],
+  "geometry": {"coordinates":[-88.891169,30.440488],"type":"Point"}
+}

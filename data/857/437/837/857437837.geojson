@@ -1,0 +1,73 @@
+{
+  "id": 857437837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.257212,31.410895,-89.257212,31.410895",
+    "geom:latitude":31.410895,
+    "geom:longitude":-89.257212,
+    "iso:country":"US",
+    "sg:address":"100 Summerwood Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2528",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MD59m1JOVGFeRIWHyvQrg_31.410895_-89.257212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129526,
+    "wof:geomhash":"5acd8472d6a18b2b00137ad23cd2d674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857437837
+        }
+    ],
+    "wof:id":857437837,
+    "wof:lastmodified":1464129526,
+    "wof:name":"Roberts Tile Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.257212,
+    31.410895,
+    -89.257212,
+    31.410895
+],
+  "geometry": {"coordinates":[-89.257212,31.410895],"type":"Point"}
+}

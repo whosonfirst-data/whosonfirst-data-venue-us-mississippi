@@ -1,0 +1,79 @@
+{
+  "id": 857202739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.362733,31.286952,-89.362733,31.286952",
+    "geom:latitude":31.286952,
+    "geom:longitude":-89.362733,
+    "iso:country":"US",
+    "sg:address":"115 Sandy Run Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 261 0782",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85820027,
+        102083775,
+        85969939,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D9IQEOIfFW4CIkuxaIIbM_31.286952_-89.362733@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124225,
+    "wof:geomhash":"34fd844541837242520933dd95d4f9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85820027,
+            "region_id":85688579,
+            "venue_id":857202739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857202739
+        }
+    ],
+    "wof:id":857202739,
+    "wof:lastmodified":1464124225,
+    "wof:name":"Kangaroo Pals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -89.362733,
+    31.286952,
+    -89.362733,
+    31.286952
+],
+  "geometry": {"coordinates":[-89.36273300000001,31.286952],"type":"Point"}
+}

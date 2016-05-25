@@ -1,0 +1,71 @@
+{
+  "id": 857212669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.823811,34.923726,-89.823811,34.923726",
+    "geom:latitude":34.923726,
+    "geom:longitude":-89.823811,
+    "iso:country":"US",
+    "sg:address":"9350 Quail Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3204",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pV1XmPEeQpZkMgs1cj9Wv_34.923726_-89.823811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124458,
+    "wof:geomhash":"fd5e96c50f2fbc5effa19f9c9de1289c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857212669
+        }
+    ],
+    "wof:id":857212669,
+    "wof:lastmodified":1464124458,
+    "wof:name":"Southern Cross Builders Inc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.823811,
+    34.923726,
+    -89.823811,
+    34.923726
+],
+  "geometry": {"coordinates":[-89.82381100000001,34.923726],"type":"Point"}
+}

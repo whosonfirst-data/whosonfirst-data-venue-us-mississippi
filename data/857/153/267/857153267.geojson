@@ -1,0 +1,71 @@
+{
+  "id": 857153267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719966,34.209729,-88.719966,34.209729",
+    "geom:latitude":34.209729,
+    "geom:longitude":-88.719966,
+    "iso:country":"US",
+    "sg:address":"2512 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7648",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rdyjzJVxKgPgZVZmNvyum_34.209729_-88.719966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123212,
+    "wof:geomhash":"36f90d77427e523d3db70435fae8860c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857153267
+        }
+    ],
+    "wof:id":857153267,
+    "wof:lastmodified":1464123212,
+    "wof:name":"Region III Mental Health Ctr",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.719966,
+    34.209729,
+    -88.719966,
+    34.209729
+],
+  "geometry": {"coordinates":[-88.719966,34.209729],"type":"Point"}
+}

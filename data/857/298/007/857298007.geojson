@@ -1,0 +1,66 @@
+{
+  "id": 857298007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.677229,32.571714,-88.677229,32.571714",
+    "geom:latitude":32.571714,
+    "geom:longitude":-88.677229,
+    "iso:country":"US",
+    "sg:address":"11032 Hwy 39 N",
+    "sg:city":"Daleville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 8282",
+    "sg:postcode":"39326",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jsPBNrHmur9SXoYgnIzOh_32.571714_-88.677229@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126364,
+    "wof:geomhash":"aa080225f6cecfa57beda56cae8c60e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857298007
+        }
+    ],
+    "wof:id":857298007,
+    "wof:lastmodified":1464126364,
+    "wof:name":"Daleville Grocery",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.677229,
+    32.571714,
+    -88.677229,
+    32.571714
+],
+  "geometry": {"coordinates":[-88.677229,32.571714],"type":"Point"}
+}

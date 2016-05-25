@@ -1,0 +1,71 @@
+{
+  "id": 857139667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.413698,31.098659,-89.413698,31.098659",
+    "geom:latitude":31.098659,
+    "geom:longitude":-89.413698,
+    "iso:country":"US",
+    "sg:address":"6433 US Hwy 11",
+    "sg:city":"Lumberton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 8561",
+    "sg:postcode":"39455",
+    "sg:province":"MS",
+    "sg:tags":[
+        "private",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BYxer63m5gM9uqE9bMrQG_31.098659_-89.413698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122885,
+    "wof:geomhash":"61b13ba7689304593012862589f0eb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857139667
+        }
+    ],
+    "wof:id":857139667,
+    "wof:lastmodified":1464122885,
+    "wof:name":"Bass Memorial Academy",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -89.413698,
+    31.098659,
+    -89.413698,
+    31.098659
+],
+  "geometry": {"coordinates":[-89.413698,31.098659],"type":"Point"}
+}

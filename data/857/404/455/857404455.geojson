@@ -1,0 +1,71 @@
+{
+  "id": 857404455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.564764,31.292126,-89.564764,31.292126",
+    "geom:latitude":31.292126,
+    "geom:longitude":-89.564764,
+    "iso:country":"US",
+    "sg:address":"8300 US Hwy 98",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 9523",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kwYZJezTlEY0kI04v60lr_31.292126_-89.564764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128717,
+    "wof:geomhash":"42131a59a6a353b1ccc210eed0e97111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857404455
+        }
+    ],
+    "wof:id":857404455,
+    "wof:lastmodified":1464128717,
+    "wof:name":"Bond Trucking",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.564764,
+    31.292126,
+    -89.564764,
+    31.292126
+],
+  "geometry": {"coordinates":[-89.564764,31.292126],"type":"Point"}
+}

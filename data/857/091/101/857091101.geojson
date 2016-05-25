@@ -1,0 +1,75 @@
+{
+  "id": 857091101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.873111,32.321283,-90.873111,32.321283",
+    "geom:latitude":32.321283,
+    "geom:longitude":-90.873111,
+    "iso:country":"US",
+    "sg:address":"1661 N Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 630 0222",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qxgE1mTvOCHgh76MCQ4iK_32.321283_-90.873111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121715,
+    "wof:geomhash":"3d2b61e4793bf02c6aef1b8fe71c0a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857091101
+        }
+    ],
+    "wof:id":857091101,
+    "wof:lastmodified":1464121715,
+    "wof:name":"Reliable Motors",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.873111,
+    32.321283,
+    -90.873111,
+    32.321283
+],
+  "geometry": {"coordinates":[-90.87311099999999,32.321283],"type":"Point"}
+}

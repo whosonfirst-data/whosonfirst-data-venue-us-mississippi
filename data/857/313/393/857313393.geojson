@@ -1,0 +1,72 @@
+{
+  "id": 857313393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648187,33.605922,-88.648187,33.605922",
+    "geom:latitude":33.605922,
+    "geom:longitude":-88.648187,
+    "iso:country":"US",
+    "sg:address":"204 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2573",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.wpms.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69quImdXXnNLhZJr7N0o6E_33.605922_-88.648187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126690,
+    "wof:geomhash":"5f1153349eab7acc7e495203b84d5844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857313393
+        }
+    ],
+    "wof:id":857313393,
+    "wof:lastmodified":1464126690,
+    "wof:name":"West Point City Hall",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -88.648187,
+    33.605922,
+    -88.648187,
+    33.605922
+],
+  "geometry": {"coordinates":[-88.64818699999999,33.605922],"type":"Point"}
+}

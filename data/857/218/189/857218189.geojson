@@ -1,0 +1,73 @@
+{
+  "id": 857218189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.113684,32.149055,-90.113684,32.149055",
+    "geom:latitude":32.149055,
+    "geom:longitude":-90.113684,
+    "iso:country":"US",
+    "sg:address":"1167 Hwy 49 S",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 664 0120",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bakery",
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CQRK9vB6M8e3AjDyfuggq_32.149055_-90.113684@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124577,
+    "wof:geomhash":"266555cb34c4066a326cf6fb3ce85466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857218189
+        }
+    ],
+    "wof:id":857218189,
+    "wof:lastmodified":1464124577,
+    "wof:name":"Kroger",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.113684,
+    32.149055,
+    -90.113684,
+    32.149055
+],
+  "geometry": {"coordinates":[-90.11368400000001,32.149055],"type":"Point"}
+}

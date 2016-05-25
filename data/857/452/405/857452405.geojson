@@ -1,0 +1,73 @@
+{
+  "id": 857452405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.083602,33.55222,-89.083602,33.55222",
+    "geom:latitude":33.55222,
+    "geom:longitude":-89.083602,
+    "iso:country":"US",
+    "sg:address":"2473 Maben Starkville Rd",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 5806",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "delivery",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gpbfCJ2T3wjKjhYS11VP4_33.552220_-89.083602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129806,
+    "wof:geomhash":"88bc6149c2753f9389a650299bf98f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857452405
+        }
+    ],
+    "wof:id":857452405,
+    "wof:lastmodified":1464129806,
+    "wof:name":"Brown Transpo Incorporated SE",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.083602,
+    33.55222,
+    -89.083602,
+    33.55222
+],
+  "geometry": {"coordinates":[-89.083602,33.55222],"type":"Point"}
+}

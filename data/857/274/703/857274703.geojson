@@ -1,0 +1,77 @@
+{
+  "id": 857274703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.12399,32.329065,-90.12399,32.329065",
+    "geom:latitude":32.329065,
+    "geom:longitude":-90.12399,
+    "iso:country":"US",
+    "sg:address":"3003 Lakeland Cove",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 7442",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JOz03k3571VZo8tQ1zWlM_32.329065_-90.123990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125785,
+    "wof:geomhash":"c4ea2e288949a419e192d0e483f2dd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857274703
+        }
+    ],
+    "wof:id":857274703,
+    "wof:lastmodified":1464125785,
+    "wof:name":"Healthscreen Inc",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -90.12399,
+    32.329065,
+    -90.12399,
+    32.329065
+],
+  "geometry": {"coordinates":[-90.12399000000001,32.329065],"type":"Point"}
+}

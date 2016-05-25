@@ -1,0 +1,75 @@
+{
+  "id": 857102311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.001335,30.390047,-89.001335,30.390047",
+    "geom:latitude":30.390047,
+    "geom:longitude":-89.001335,
+    "iso:country":"US",
+    "sg:address":"133 Debuys Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 4172",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O0EmeODq8MIN0ZSEAQiul_30.390047_-89.001335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121967,
+    "wof:geomhash":"f1bf11df51e07e28966d371f84836a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857102311
+        }
+    ],
+    "wof:id":857102311,
+    "wof:lastmodified":1464121967,
+    "wof:name":"Courtyard Apartments",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -89.001335,
+    30.390047,
+    -89.001335,
+    30.390047
+],
+  "geometry": {"coordinates":[-89.001335,30.390047],"type":"Point"}
+}

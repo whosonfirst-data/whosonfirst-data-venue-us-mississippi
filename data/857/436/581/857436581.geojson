@@ -1,0 +1,71 @@
+{
+  "id": 857436581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.366763,31.312187,-89.366763,31.312187",
+    "geom:latitude":31.312187,
+    "geom:longitude":-89.366763,
+    "iso:country":"US",
+    "sg:address":"121 Tanglewood Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 0581",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102083775,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OiNpgUeCZsj3vwpx8L9uT_31.312187_-89.366763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129503,
+    "wof:geomhash":"bc63122ef17b326638d5078b9b297a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857436581
+        }
+    ],
+    "wof:id":857436581,
+    "wof:lastmodified":1464129503,
+    "wof:name":"ServiceMaster",
+    "wof:parent_id":85855793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.366763,
+    31.312187,
+    -89.366763,
+    31.312187
+],
+  "geometry": {"coordinates":[-89.36676300000001,31.312187],"type":"Point"}
+}

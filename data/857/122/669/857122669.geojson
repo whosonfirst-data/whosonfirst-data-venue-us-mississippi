@@ -1,0 +1,68 @@
+{
+  "id": 857122669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.042901,30.386277,-89.042901,30.386277",
+    "geom:latitude":30.386277,
+    "geom:longitude":-89.042901,
+    "iso:country":"US",
+    "sg:address":"422 Security Sq",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 6616",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40IAOL2Qq8D63zdtjsq0xd_30.386277_-89.042901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122518,
+    "wof:geomhash":"920c1bcf88d47a93c501906c8fcc162c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857122669
+        }
+    ],
+    "wof:id":857122669,
+    "wof:lastmodified":1464122518,
+    "wof:name":"Arthur Tripp Dr",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.042901,
+    30.386277,
+    -89.042901,
+    30.386277
+],
+  "geometry": {"coordinates":[-89.042901,30.386277],"type":"Point"}
+}

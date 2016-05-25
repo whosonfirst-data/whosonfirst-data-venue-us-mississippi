@@ -1,0 +1,71 @@
+{
+  "id": 857241317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569418,34.19285,-90.569418,34.19285",
+    "geom:latitude":34.19285,
+    "geom:longitude":-90.569418,
+    "iso:country":"US",
+    "sg:address":"12 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6581",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19noLebR8N1ekUro6LCrQ3_34.192850_-90.569418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125039,
+    "wof:geomhash":"f3c6aeb10be3314782dd518f20c5d4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857241317
+        }
+    ],
+    "wof:id":857241317,
+    "wof:lastmodified":1464125039,
+    "wof:name":"D & T Super Market",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.569418,
+    34.19285,
+    -90.569418,
+    34.19285
+],
+  "geometry": {"coordinates":[-90.569418,34.19285],"type":"Point"}
+}

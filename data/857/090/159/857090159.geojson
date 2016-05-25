@@ -1,0 +1,75 @@
+{
+  "id": 857090159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.815123,33.462541,-88.815123,33.462541",
+    "geom:latitude":33.462541,
+    "geom:longitude":-88.815123,
+    "iso:country":"US",
+    "sg:address":"211 S Lafayette St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 7764",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85823781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QXZojLB4fUVrFDFQnec2r_33.462541_-88.815123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121683,
+    "wof:geomhash":"1fcf1bc03a327c51f06946952b3aebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85823781,
+            "region_id":85688579,
+            "venue_id":857090159
+        }
+    ],
+    "wof:id":857090159,
+    "wof:lastmodified":1464121683,
+    "wof:name":"Starkville Auto Parts Inc",
+    "wof:parent_id":85823781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -88.815123,
+    33.462541,
+    -88.815123,
+    33.462541
+],
+  "geometry": {"coordinates":[-88.815123,33.462541],"type":"Point"}
+}

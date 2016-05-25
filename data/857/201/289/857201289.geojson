@@ -1,0 +1,71 @@
+{
+  "id": 857201289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.912946,31.904,-90.912946,31.904",
+    "geom:latitude":31.904,
+    "geom:longitude":-90.912946,
+    "iso:country":"US",
+    "sg:address":"8014 State Hwy 547",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 4752",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gwC9uEy3OP0JoDIUtIdQJ_31.904000_-90.912946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124199,
+    "wof:geomhash":"4ef8f6e2462cb7f509900c42d5044c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857201289
+        }
+    ],
+    "wof:id":857201289,
+    "wof:lastmodified":1464124199,
+    "wof:name":"John Seldon",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.912946,
+    31.904,
+    -90.912946,
+    31.904
+],
+  "geometry": {"coordinates":[-90.91294600000001,31.904],"type":"Point"}
+}

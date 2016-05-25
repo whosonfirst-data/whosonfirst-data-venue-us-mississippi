@@ -1,0 +1,71 @@
+{
+  "id": 857358025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.73084,34.286245,-88.73084,34.286245",
+    "geom:latitude":34.286245,
+    "geom:longitude":-88.73084,
+    "iso:country":"US",
+    "sg:address":"2335 Clayton Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5129",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_038ZSmRpKIoRISTDYAtW6Z_34.286245_-88.730840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127660,
+    "wof:geomhash":"2161e37d045ca2b8195a3a2beb44bf65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857358025
+        }
+    ],
+    "wof:id":857358025,
+    "wof:lastmodified":1464127660,
+    "wof:name":"Mt Pleasant MB Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.73084,
+    34.286245,
+    -88.73084,
+    34.286245
+],
+  "geometry": {"coordinates":[-88.73084,34.286245],"type":"Point"}
+}

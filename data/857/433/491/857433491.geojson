@@ -1,0 +1,71 @@
+{
+  "id": 857433491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807223,30.415212,-88.807223,30.415212",
+    "geom:latitude":30.415212,
+    "geom:longitude":-88.807223,
+    "iso:country":"US",
+    "sg:address":"1048 Thorn St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 990 4118",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oTkimTg9j0DkdtLELeksp_30.415212_-88.807223@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129438,
+    "wof:geomhash":"393657f90090e5b61d29bbb49b924fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857433491
+        }
+    ],
+    "wof:id":857433491,
+    "wof:lastmodified":1464129438,
+    "wof:name":"Kvs Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.807223,
+    30.415212,
+    -88.807223,
+    30.415212
+],
+  "geometry": {"coordinates":[-88.80722299999999,30.415212],"type":"Point"}
+}

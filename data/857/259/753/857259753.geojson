@@ -1,0 +1,71 @@
+{
+  "id": 857259753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.92191,32.23426,-90.92191,32.23426",
+    "geom:latitude":32.23426,
+    "geom:longitude":-90.92191,
+    "iso:country":"US",
+    "sg:address":"149 Redbone Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 3405",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D9AJWgis3etIel8gj9ocx_32.234260_-90.921910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125486,
+    "wof:geomhash":"efe0c19f7b345fb0536151cb45788fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857259753
+        }
+    ],
+    "wof:id":857259753,
+    "wof:lastmodified":1464125486,
+    "wof:name":"Mississippi River Gymnastics",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -90.92191,
+    32.23426,
+    -90.92191,
+    32.23426
+],
+  "geometry": {"coordinates":[-90.92191,32.23426],"type":"Point"}
+}

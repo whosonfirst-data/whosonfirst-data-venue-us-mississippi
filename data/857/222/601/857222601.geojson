@@ -1,0 +1,66 @@
+{
+  "id": 857222601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415412,32.844684,-90.415412,32.844684",
+    "geom:latitude":32.844684,
+    "geom:longitude":-90.415412,
+    "iso:country":"US",
+    "sg:address":"310 S Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 0601",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TuxoLACjRvG5rarCR7bY0_32.844684_-90.415412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124667,
+    "wof:geomhash":"9ac9e71f54f5d2c6da456b5ce7368b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857222601
+        }
+    ],
+    "wof:id":857222601,
+    "wof:lastmodified":1464124667,
+    "wof:name":"Q's Bar & Grill",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.415412,
+    32.844684,
+    -90.415412,
+    32.844684
+],
+  "geometry": {"coordinates":[-90.415412,32.844684],"type":"Point"}
+}

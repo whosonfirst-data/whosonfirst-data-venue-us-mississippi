@@ -1,0 +1,71 @@
+{
+  "id": 857403177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.422654,33.495991,-88.422654,33.495991",
+    "geom:latitude":33.495991,
+    "geom:longitude":-88.422654,
+    "iso:country":"US",
+    "sg:address":"1011 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0682",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uwpqf4NJSGxlyfVEwIkjs_33.495991_-88.422654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128686,
+    "wof:geomhash":"fad8e7dc792ed12b14b54420da205823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857403177
+        }
+    ],
+    "wof:id":857403177,
+    "wof:lastmodified":1464128686,
+    "wof:name":"Drug & Alcohol Abuse Center",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.422654,
+    33.495991,
+    -88.422654,
+    33.495991
+],
+  "geometry": {"coordinates":[-88.42265399999999,33.495991],"type":"Point"}
+}

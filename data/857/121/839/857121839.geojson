@@ -1,0 +1,71 @@
+{
+  "id": 857121839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.846266,30.477059,-88.846266,30.477059",
+    "geom:latitude":30.477059,
+    "geom:longitude":-88.846266,
+    "iso:country":"US",
+    "sg:address":"9412 Martin Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 4449",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24FIw5YfWbWEB21T1A2BmR_30.477059_-88.846266@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122492,
+    "wof:geomhash":"a0f58abc560ebfa3d8dc488ca692363c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857121839
+        }
+    ],
+    "wof:id":857121839,
+    "wof:lastmodified":1464122492,
+    "wof:name":"Gulf Coast Septic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.846266,
+    30.477059,
+    -88.846266,
+    30.477059
+],
+  "geometry": {"coordinates":[-88.846266,30.477059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857455689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.537388,30.413703,-88.537388,30.413703",
+    "geom:latitude":30.413703,
+    "geom:longitude":-88.537388,
+    "iso:country":"US",
+    "sg:address":"4400 Denny St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7887",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45KAegtom81qZ3l3l6uBSZ_30.413703_-88.537388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129867,
+    "wof:geomhash":"e41ac1d4e4cf72f45a7f1c03e511c20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857455689
+        }
+    ],
+    "wof:id":857455689,
+    "wof:lastmodified":1464129867,
+    "wof:name":"Moss Point Recreation Dept",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -88.537388,
+    30.413703,
+    -88.537388,
+    30.413703
+],
+  "geometry": {"coordinates":[-88.53738800000001,30.413703],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857177573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701442,32.369766,-88.701442,32.369766",
+    "geom:latitude":32.369766,
+    "geom:longitude":-88.701442,
+    "iso:country":"US",
+    "sg:address":"1210 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1604",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05aCho2hfLV92Dhsy5uVoJ_32.369766_-88.701442@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123743,
+    "wof:geomhash":"e2f8fcc3b8f3e50379f66dc9942af135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857177573
+        }
+    ],
+    "wof:id":857177573,
+    "wof:lastmodified":1464123743,
+    "wof:name":"James W Hover General Dntistry",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.701442,
+    32.369766,
+    -88.701442,
+    32.369766
+],
+  "geometry": {"coordinates":[-88.701442,32.369766],"type":"Point"}
+}

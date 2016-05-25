@@ -1,0 +1,72 @@
+{
+  "id": 857241613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539975,33.823294,-88.539975,33.823294",
+    "geom:latitude":33.823294,
+    "geom:longitude":-88.539975,
+    "iso:country":"US",
+    "sg:address":"200 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8944",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "sg:website":"www.continentalengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DdnteBICu5n1mQ3RMK8EC_33.823294_-88.539975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125048,
+    "wof:geomhash":"b60c31d8f6e641cac7cd3b63a8314a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857241613
+        }
+    ],
+    "wof:id":857241613,
+    "wof:lastmodified":1464125048,
+    "wof:name":"Continental Engineering Svc",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -88.539975,
+    33.823294,
+    -88.539975,
+    33.823294
+],
+  "geometry": {"coordinates":[-88.539975,33.823294],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857386301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512286,34.376287,-89.512286,34.376287",
+    "geom:latitude":34.376287,
+    "geom:longitude":-89.512286,
+    "iso:country":"US",
+    "sg:address":"1126 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 5359",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hKOudBCmzFC2lXYBrDUs4_34.376287_-89.512286@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128337,
+    "wof:geomhash":"1fbc82737628a3962348331a2e4cadc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857386301
+        }
+    ],
+    "wof:id":857386301,
+    "wof:lastmodified":1464128337,
+    "wof:name":"Le Fleur Market",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -89.512286,
+    34.376287,
+    -89.512286,
+    34.376287
+],
+  "geometry": {"coordinates":[-89.512286,34.376287],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857449559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.157047,32.363873,-90.157047,32.363873",
+    "geom:latitude":32.363873,
+    "geom:longitude":-90.157047,
+    "iso:country":"US",
+    "sg:address":"375 Edgewood Terrace Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 918 2427",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RnjoYbQICutS0brc9DSuD_32.363873_-90.157047@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129747,
+    "wof:geomhash":"25e41e18b4636ddd2e70400a0dd5c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857449559
+        }
+    ],
+    "wof:id":857449559,
+    "wof:lastmodified":1464129747,
+    "wof:name":"Ms Trans Inc",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -90.157047,
+    32.363873,
+    -90.157047,
+    32.363873
+],
+  "geometry": {"coordinates":[-90.15704700000001,32.363873],"type":"Point"}
+}

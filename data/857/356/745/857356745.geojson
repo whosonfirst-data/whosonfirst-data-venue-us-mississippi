@@ -1,0 +1,71 @@
+{
+  "id": 857356745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.05392,33.342969,-89.05392,33.342969",
+    "geom:latitude":33.342969,
+    "geom:longitude":-89.05392,
+    "iso:country":"US",
+    "sg:address":"3907 Hwy 12 W",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 465 8624",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bfW09UUmqpmZqgf7Wq3Jk_33.342969_-89.053920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127630,
+    "wof:geomhash":"d6611478144d29a675f521e2af7307aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857356745
+        }
+    ],
+    "wof:id":857356745,
+    "wof:lastmodified":1464127630,
+    "wof:name":"Henry's Tire Ctr",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -89.05392,
+    33.342969,
+    -89.05392,
+    33.342969
+],
+  "geometry": {"coordinates":[-89.05392000000001,33.342969],"type":"Point"}
+}

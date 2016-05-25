@@ -1,0 +1,71 @@
+{
+  "id": 857242119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.255695,31.350463,-89.255695,31.350463",
+    "geom:latitude":31.350463,
+    "geom:longitude":-89.255695,
+    "iso:country":"US",
+    "sg:address":"430 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 8283",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nohmx7sI9SwYpNovMK5XF_31.350463_-89.255695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125062,
+    "wof:geomhash":"3b47f42ce3751e6f5b1a7e72c27e815b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857242119
+        }
+    ],
+    "wof:id":857242119,
+    "wof:lastmodified":1464125062,
+    "wof:name":"Pittman Engineers Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.255695,
+    31.350463,
+    -89.255695,
+    31.350463
+],
+  "geometry": {"coordinates":[-89.255695,31.350463],"type":"Point"}
+}

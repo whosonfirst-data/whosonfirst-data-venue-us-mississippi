@@ -1,0 +1,73 @@
+{
+  "id": 857199471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.296893,31.332493,-89.296893,31.332493",
+    "geom:latitude":31.332493,
+    "geom:longitude":-89.296893,
+    "iso:country":"US",
+    "sg:address":"1000 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3335",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nfo9aS6KXM6Tgk0vyzpd2_31.332493_-89.296893@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124165,
+    "wof:geomhash":"68821070c7abba483243fe054a5bd6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857199471
+        }
+    ],
+    "wof:id":857199471,
+    "wof:lastmodified":1464124165,
+    "wof:name":"Jr Food Market",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.296893,
+    31.332493,
+    -89.296893,
+    31.332493
+],
+  "geometry": {"coordinates":[-89.296893,31.332493],"type":"Point"}
+}

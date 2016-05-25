@@ -1,0 +1,71 @@
+{
+  "id": 857089011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425265,33.505782,-88.425265,33.505782",
+    "geom:latitude":33.505782,
+    "geom:longitude":-88.425265,
+    "iso:country":"US",
+    "sg:address":"810 Highland Cir",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5577",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09nq5gCUG0UVKIpXpcGz9c_33.505782_-88.425265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121643,
+    "wof:geomhash":"38448984637462ac484d2724c397abab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857089011
+        }
+    ],
+    "wof:id":857089011,
+    "wof:lastmodified":1464121643,
+    "wof:name":"Highland House Bed & Breakfast",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.425265,
+    33.505782,
+    -88.425265,
+    33.505782
+],
+  "geometry": {"coordinates":[-88.425265,33.505782],"type":"Point"}
+}

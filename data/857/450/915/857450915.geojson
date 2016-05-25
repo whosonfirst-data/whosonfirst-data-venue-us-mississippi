@@ -1,0 +1,75 @@
+{
+  "id": 857450915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.76986,30.420321,-88.76986,30.420321",
+    "geom:latitude":30.420321,
+    "geom:longitude":-88.76986,
+    "iso:country":"US",
+    "sg:address":"10017 Iroquois Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 8234",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "dental",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uURZCEQwXCSj93u78JRFC_30.420321_-88.769860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129782,
+    "wof:geomhash":"da174776ccaf6f409be1da2325ebab1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857450915
+        }
+    ],
+    "wof:id":857450915,
+    "wof:lastmodified":1464129782,
+    "wof:name":"Diversified Dental Svc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dental",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -88.76986,
+    30.420321,
+    -88.76986,
+    30.420321
+],
+  "geometry": {"coordinates":[-88.76985999999999,30.420321],"type":"Point"}
+}

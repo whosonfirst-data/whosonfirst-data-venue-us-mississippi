@@ -1,0 +1,71 @@
+{
+  "id": 857108323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.526835,34.368147,-89.526835,34.368147",
+    "geom:latitude":34.368147,
+    "geom:longitude":-89.526835,
+    "iso:country":"US",
+    "sg:address":"323 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8181",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GP2x6TxRSNeLKkkTC46B9_34.368147_-89.526835@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122095,
+    "wof:geomhash":"569b66d6292ac77fe0eeaed0fdc794f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857108323
+        }
+    ],
+    "wof:id":857108323,
+    "wof:lastmodified":1464122095,
+    "wof:name":"Uptown Tanz",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -89.526835,
+    34.368147,
+    -89.526835,
+    34.368147
+],
+  "geometry": {"coordinates":[-89.52683500000001,34.368147],"type":"Point"}
+}

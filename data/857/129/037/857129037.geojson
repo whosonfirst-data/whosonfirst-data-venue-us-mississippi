@@ -1,0 +1,75 @@
+{
+  "id": 857129037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.374743,31.364766,-89.374743,31.364766",
+    "geom:latitude":31.364766,
+    "geom:longitude":-89.374743,
+    "iso:country":"US",
+    "sg:address":"401 Rawls Springs Loop Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 8356",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uf5W4givGoMYDUKrpHo8H_31.364766_-89.374743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122648,
+    "wof:geomhash":"9b8ccd28d5246bd58d69c23840490fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857129037
+        }
+    ],
+    "wof:id":857129037,
+    "wof:lastmodified":1464122648,
+    "wof:name":"Timber Price",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ]
+},
+  "bbox": [
+    -89.374743,
+    31.364766,
+    -89.374743,
+    31.364766
+],
+  "geometry": {"coordinates":[-89.374743,31.364766],"type":"Point"}
+}

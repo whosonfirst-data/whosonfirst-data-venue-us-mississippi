@@ -1,0 +1,73 @@
+{
+  "id": 857464519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.713547,34.238587,-88.713547,34.238587",
+    "geom:latitude":34.238587,
+    "geom:longitude":-88.713547,
+    "iso:country":"US",
+    "sg:address":"589 Garfield St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 5565",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cKrE7H4IZNFbHHUjztNKI_34.238587_-88.713547@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130050,
+    "wof:geomhash":"5bd27e9430c8072ab0b0b49936859364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857464519
+        }
+    ],
+    "wof:id":857464519,
+    "wof:lastmodified":1464130050,
+    "wof:name":"Digestive Health Specialists",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.713547,
+    34.238587,
+    -88.713547,
+    34.238587
+],
+  "geometry": {"coordinates":[-88.71354700000001,34.238587],"type":"Point"}
+}

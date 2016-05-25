@@ -1,0 +1,71 @@
+{
+  "id": 857295863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68569,32.375611,-88.68569,32.375611",
+    "geom:latitude":32.375611,
+    "geom:longitude":-88.68569,
+    "iso:country":"US",
+    "sg:address":"718 18th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 581 4604",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWA2MzJnKt8yO4y3QrT60_32.375611_-88.685690@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126322,
+    "wof:geomhash":"752d5040fcdbea63553be509aac13e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857295863
+        }
+    ],
+    "wof:id":857295863,
+    "wof:lastmodified":1464126322,
+    "wof:name":"Evins Enterprise & Bldg Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.68569,
+    32.375611,
+    -88.68569,
+    32.375611
+],
+  "geometry": {"coordinates":[-88.68568999999999,32.375611],"type":"Point"}
+}

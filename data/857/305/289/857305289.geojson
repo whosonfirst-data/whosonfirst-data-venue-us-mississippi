@@ -1,0 +1,73 @@
+{
+  "id": 857305289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.932487,34.884106,-89.932487,34.884106",
+    "geom:latitude":34.884106,
+    "geom:longitude":-89.932487,
+    "iso:country":"US",
+    "sg:address":"3268 Pleasant Hill Rd",
+    "sg:city":"Nesbit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 429 5074",
+    "sg:postcode":"38651",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ajNCCkx7vKSmZy2oBmoTl_34.884106_-89.932487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126525,
+    "wof:geomhash":"ac6aded477aaa963902f669ac96cf2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857305289
+        }
+    ],
+    "wof:id":857305289,
+    "wof:lastmodified":1464126525,
+    "wof:name":"Camp Truck Svc",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.932487,
+    34.884106,
+    -89.932487,
+    34.884106
+],
+  "geometry": {"coordinates":[-89.93248699999999,34.884106],"type":"Point"}
+}

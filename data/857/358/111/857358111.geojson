@@ -1,0 +1,71 @@
+{
+  "id": 857358111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558912,34.193383,-90.558912,34.193383",
+    "geom:latitude":34.193383,
+    "geom:longitude":-90.558912,
+    "iso:country":"US",
+    "sg:address":"937 Florida Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2578",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25akGdTaYOzw2d4zu0s9Tm_34.193383_-90.558912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127661,
+    "wof:geomhash":"fe258d725ab060b4f8263947f7025143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857358111
+        }
+    ],
+    "wof:id":857358111,
+    "wof:lastmodified":1464127661,
+    "wof:name":"K & B House Cleaning",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.558912,
+    34.193383,
+    -90.558912,
+    34.193383
+],
+  "geometry": {"coordinates":[-90.55891200000001,34.193383],"type":"Point"}
+}

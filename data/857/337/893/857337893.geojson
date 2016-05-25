@@ -1,0 +1,71 @@
+{
+  "id": 857337893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527803,33.835418,-88.527803,33.835418",
+    "geom:latitude":33.835418,
+    "geom:longitude":-88.527803,
+    "iso:country":"US",
+    "sg:address":"20163 Lock and Dam Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7966",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Tt0xu6R5pnCiNwGJCZmh_33.835418_-88.527803@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127229,
+    "wof:geomhash":"52c8c1f5ddfb1890f9d9bc92ca9b84d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857337893
+        }
+    ],
+    "wof:id":857337893,
+    "wof:lastmodified":1464127229,
+    "wof:name":"US Army Corps Of Engineers",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -88.527803,
+    33.835418,
+    -88.527803,
+    33.835418
+],
+  "geometry": {"coordinates":[-88.52780300000001,33.835418],"type":"Point"}
+}

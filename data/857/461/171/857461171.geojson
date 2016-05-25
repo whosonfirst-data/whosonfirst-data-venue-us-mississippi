@@ -1,0 +1,73 @@
+{
+  "id": 857461171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.786219,30.394636,-88.786219,30.394636",
+    "geom:latitude":30.394636,
+    "geom:longitude":-88.786219,
+    "iso:country":"US",
+    "sg:address":"3727 Quave Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0954",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "environmental",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09dxsGV5jr39GSKqRT9Xbc_30.394636_-88.786219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129976,
+    "wof:geomhash":"415cd7da7b28a425841c064b3e636b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857461171
+        }
+    ],
+    "wof:id":857461171,
+    "wof:lastmodified":1464129976,
+    "wof:name":"Joe Gill Consultant",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -88.786219,
+    30.394636,
+    -88.786219,
+    30.394636
+],
+  "geometry": {"coordinates":[-88.786219,30.394636],"type":"Point"}
+}

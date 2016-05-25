@@ -1,0 +1,77 @@
+{
+  "id": 857371107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.89052,30.404091,-88.89052,30.404091",
+    "geom:latitude":30.404091,
+    "geom:longitude":-88.89052,
+    "iso:country":"US",
+    "sg:address":"325 Reynoir St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 374 5007",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "medical",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71IPmNrfVx6JyTcNfVYIj3_30.404091_-88.890520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127927,
+    "wof:geomhash":"ee9caadf322d609e6cea174fbfe377fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857371107
+        }
+    ],
+    "wof:id":857371107,
+    "wof:lastmodified":1464127927,
+    "wof:name":"Team Adaptive Inc",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "medical",
+        "sales"
+    ]
+},
+  "bbox": [
+    -88.89052,
+    30.404091,
+    -88.89052,
+    30.404091
+],
+  "geometry": {"coordinates":[-88.89052,30.404091],"type":"Point"}
+}

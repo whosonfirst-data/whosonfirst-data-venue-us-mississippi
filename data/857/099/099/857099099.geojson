@@ -1,0 +1,73 @@
+{
+  "id": 857099099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.757284,30.3799,-88.757284,30.3799",
+    "geom:latitude":30.3799,
+    "geom:longitude":-88.757284,
+    "iso:country":"US",
+    "sg:address":"2700 N 8th St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 1727",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rental",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JQBTN78IpoGPugksx3nPI_30.379900_-88.757284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121883,
+    "wof:geomhash":"11e26f11bb2df5f4bd57f6f05e5380d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857099099
+        }
+    ],
+    "wof:id":857099099,
+    "wof:lastmodified":1464121883,
+    "wof:name":"Resch Construction",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.757284,
+    30.3799,
+    -88.757284,
+    30.3799
+],
+  "geometry": {"coordinates":[-88.757284,30.3799],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857361093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.067351,32.117854,-90.067351,32.117854",
+    "geom:latitude":32.117854,
+    "geom:longitude":-90.067351,
+    "iso:country":"US",
+    "sg:address":"3090 Hwy 49 S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 8483",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:website":"www.wafflehouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Y9tg3xod1cvkFaBSIV0G_32.117854_-90.067351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127724,
+    "wof:geomhash":"1bbe3fbb791262c39d0db7b92255ddd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857361093
+        }
+    ],
+    "wof:id":857361093,
+    "wof:lastmodified":1464127724,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.067351,
+    32.117854,
+    -90.067351,
+    32.117854
+],
+  "geometry": {"coordinates":[-90.067351,32.117854],"type":"Point"}
+}

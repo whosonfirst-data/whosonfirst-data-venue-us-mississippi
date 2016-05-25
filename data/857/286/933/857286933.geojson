@@ -1,0 +1,71 @@
+{
+  "id": 857286933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.297941,32.325494,-90.297941,32.325494",
+    "geom:latitude":32.325494,
+    "geom:longitude":-90.297941,
+    "iso:country":"US",
+    "sg:address":"1501 Hwy 80 E",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 4176",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I51b3QjmUV5OglwwnmM6N_32.325494_-90.297941@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126063,
+    "wof:geomhash":"33298b391819a805e89c0f2a5107a3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857286933
+        }
+    ],
+    "wof:id":857286933,
+    "wof:lastmodified":1464126063,
+    "wof:name":"Ridge View Apartments",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.297941,
+    32.325494,
+    -90.297941,
+    32.325494
+],
+  "geometry": {"coordinates":[-90.29794099999999,32.325494],"type":"Point"}
+}

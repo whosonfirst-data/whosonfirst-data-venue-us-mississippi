@@ -1,0 +1,71 @@
+{
+  "id": 857205995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.397386,32.842153,-90.397386,32.842153",
+    "geom:latitude":32.842153,
+    "geom:longitude":-90.397386,
+    "iso:country":"US",
+    "sg:address":"1307 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 0093",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pSHIS4aXZHw6iblmSrQcE_32.842153_-90.397386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124313,
+    "wof:geomhash":"391c0442e8bf13af212eec7d31847cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857205995
+        }
+    ],
+    "wof:id":857205995,
+    "wof:lastmodified":1464124313,
+    "wof:name":"Wmgo 93 1 FM Radio",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -90.397386,
+    32.842153,
+    -90.397386,
+    32.842153
+],
+  "geometry": {"coordinates":[-90.397386,32.842153],"type":"Point"}
+}

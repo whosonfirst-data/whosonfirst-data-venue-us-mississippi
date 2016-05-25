@@ -1,0 +1,71 @@
+{
+  "id": 857382365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.728811,34.221297,-88.728811,34.221297",
+    "geom:latitude":34.221297,
+    "geom:longitude":-88.728811,
+    "iso:country":"US",
+    "sg:address":"2620 Lawndale Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6635",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jOaEXEPfga0vbner9pNQq_34.221297_-88.728811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128194,
+    "wof:geomhash":"7fdb68dba0e45a596d32dfd110ca70d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857382365
+        }
+    ],
+    "wof:id":857382365,
+    "wof:lastmodified":1464128194,
+    "wof:name":"Belk",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.728811,
+    34.221297,
+    -88.728811,
+    34.221297
+],
+  "geometry": {"coordinates":[-88.72881099999999,34.221297],"type":"Point"}
+}

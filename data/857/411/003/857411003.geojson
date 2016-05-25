@@ -1,0 +1,76 @@
+{
+  "id": 857411003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.149221,32.371715,-90.149221,32.371715",
+    "geom:latitude":32.371715,
+    "geom:longitude":-90.149221,
+    "iso:country":"US",
+    "sg:address":"5355 I- 55 N",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 4446",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TE9CT7P6pb8W3pzmrJsdW_32.371715_-90.149221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128875,
+    "wof:geomhash":"95bdf651d020d3a8cccda75bbca6fd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857411003
+        }
+    ],
+    "wof:id":857411003,
+    "wof:lastmodified":1464128875,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.149221,
+    32.371715,
+    -90.149221,
+    32.371715
+],
+  "geometry": {"coordinates":[-90.149221,32.371715],"type":"Point"}
+}

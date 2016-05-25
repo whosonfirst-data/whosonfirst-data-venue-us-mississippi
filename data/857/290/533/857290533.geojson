@@ -1,0 +1,75 @@
+{
+  "id": 857290533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720012,33.813209,-88.720012,33.813209",
+    "geom:latitude":33.813209,
+    "geom:longitude":-88.720012,
+    "iso:country":"US",
+    "sg:address":"20192 County Line Rd",
+    "sg:city":"Okolona",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7165",
+    "sg:postcode":"38860",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fOdcTJx4DiieKZUtRVEjy_33.813209_-88.720012@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126158,
+    "wof:geomhash":"cfac6c64aac487fff25a83b7dcead433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857290533
+        }
+    ],
+    "wof:id":857290533,
+    "wof:lastmodified":1464126158,
+    "wof:name":"G&V Trucking",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.720012,
+    33.813209,
+    -88.720012,
+    33.813209
+],
+  "geometry": {"coordinates":[-88.720012,33.813209],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857157479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.860864,32.345105,-90.860864,32.345105",
+    "geom:latitude":32.345105,
+    "geom:longitude":-90.860864,
+    "iso:country":"US",
+    "sg:address":"1918 Baldwin Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8112",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SBKwplwLFIZJpCzfkj7IN_32.345105_-90.860864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123293,
+    "wof:geomhash":"f5cfaf3d9c3f51a628d12252fd3571e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857157479
+        }
+    ],
+    "wof:id":857157479,
+    "wof:lastmodified":1464123293,
+    "wof:name":"Vicksburg Animal Hospital PA",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.860864,
+    32.345105,
+    -90.860864,
+    32.345105
+],
+  "geometry": {"coordinates":[-90.86086400000001,32.345105],"type":"Point"}
+}

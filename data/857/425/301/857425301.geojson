@@ -1,0 +1,77 @@
+{
+  "id": 857425301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187787,32.294724,-90.187787,32.294724",
+    "geom:latitude":32.294724,
+    "geom:longitude":-90.187787,
+    "iso:country":"US",
+    "sg:address":"113 E South St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 3626",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M3ZiJt5ZotvDE5gcN5lrq_32.294724_-90.187787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129234,
+    "wof:geomhash":"bb857dde8bbbcc0684b99e07a3d0095c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878403,
+            "region_id":85688579,
+            "venue_id":857425301
+        }
+    ],
+    "wof:id":857425301,
+    "wof:lastmodified":1464129234,
+    "wof:name":"Capital Automotive Machine",
+    "wof:parent_id":85878403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.187787,
+    32.294724,
+    -90.187787,
+    32.294724
+],
+  "geometry": {"coordinates":[-90.187787,32.294724],"type":"Point"}
+}

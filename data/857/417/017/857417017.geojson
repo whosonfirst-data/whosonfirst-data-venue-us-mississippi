@@ -1,0 +1,71 @@
+{
+  "id": 857417017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.350922,33.397814,-88.350922,33.397814",
+    "geom:latitude":33.397814,
+    "geom:longitude":-88.350922,
+    "iso:country":"US",
+    "sg:address":"1213 Concord Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3356",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVxrZG3YMJE8gCrjs9s0y_33.397814_-88.350922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129033,
+    "wof:geomhash":"930d1c67448cb6905ce68f68313cc8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857417017
+        }
+    ],
+    "wof:id":857417017,
+    "wof:lastmodified":1464129033,
+    "wof:name":"Concord Methodist Episcopal",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.350922,
+    33.397814,
+    -88.350922,
+    33.397814
+],
+  "geometry": {"coordinates":[-88.350922,33.397814],"type":"Point"}
+}

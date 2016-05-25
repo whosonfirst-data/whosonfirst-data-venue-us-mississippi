@@ -1,0 +1,77 @@
+{
+  "id": 857334697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.875455,32.353291,-90.875455,32.353291",
+    "geom:latitude":32.353291,
+    "geom:longitude":-90.875455,
+    "iso:country":"US",
+    "sg:address":"1204 Main St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 6110",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDanqICogfkPDc2AzpqYc_32.353291_-90.875455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127161,
+    "wof:geomhash":"a73e3424e3952f60825a83d49dc90dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857334697
+        }
+    ],
+    "wof:id":857334697,
+    "wof:lastmodified":1464127161,
+    "wof:name":"Vicksburg Art Assn",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.875455,
+    32.353291,
+    -90.875455,
+    32.353291
+],
+  "geometry": {"coordinates":[-90.875455,32.353291],"type":"Point"}
+}

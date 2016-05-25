@@ -1,0 +1,68 @@
+{
+  "id": 857245013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.95204,30.403128,-88.95204,30.403128",
+    "geom:latitude":30.403128,
+    "geom:longitude":-88.95204,
+    "iso:country":"US",
+    "sg:address":"1944 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 5558",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28USy1I0nMxJC0Fl2tcwoh_30.403128_-88.952040@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125132,
+    "wof:geomhash":"f6289779569e900a936870753cf6c7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857245013
+        }
+    ],
+    "wof:id":857245013,
+    "wof:lastmodified":1464125132,
+    "wof:name":"Watch Me Grow Child Dev",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95204,
+    30.403128,
+    -88.95204,
+    30.403128
+],
+  "geometry": {"coordinates":[-88.95204,30.403128],"type":"Point"}
+}

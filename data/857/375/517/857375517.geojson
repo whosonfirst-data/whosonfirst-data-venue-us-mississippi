@@ -1,0 +1,78 @@
+{
+  "id": 857375517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864826,32.276978,-90.864826,32.276978",
+    "geom:latitude":32.276978,
+    "geom:longitude":-90.864826,
+    "iso:country":"US",
+    "sg:address":"1178 Fisher Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 5199",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eqGgfbjtnh8bp5uSrrdxX_32.276978_-90.864826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128018,
+    "wof:geomhash":"c1f468cff38a7ee0e638ebc77da50a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857375517
+        }
+    ],
+    "wof:id":857375517,
+    "wof:lastmodified":1464128018,
+    "wof:name":"Philip Jones Electric Co",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.864826,
+    32.276978,
+    -90.864826,
+    32.276978
+],
+  "geometry": {"coordinates":[-90.86482599999999,32.276978],"type":"Point"}
+}

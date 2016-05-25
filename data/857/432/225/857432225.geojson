@@ -1,0 +1,71 @@
+{
+  "id": 857432225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.545803,32.671278,-90.545803,32.671278",
+    "geom:latitude":32.671278,
+    "geom:longitude":-90.545803,
+    "iso:country":"US",
+    "sg:address":"304 Plum St",
+    "sg:city":"Satartia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9113",
+    "sg:postcode":"39162",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_774jvbAjUWktGxyWNdmp8l_32.671278_-90.545803@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129398,
+    "wof:geomhash":"cf726d2d9a9bd881ce67fb5c411e38f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857432225
+        }
+    ],
+    "wof:id":857432225,
+    "wof:lastmodified":1464129398,
+    "wof:name":"Davis Grocery",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.545803,
+    32.671278,
+    -90.545803,
+    32.671278
+],
+  "geometry": {"coordinates":[-90.54580300000001,32.671278],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857131477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.585791,33.851791,-88.585791,33.851791",
+    "geom:latitude":33.851791,
+    "geom:longitude":-88.585791,
+    "iso:country":"US",
+    "sg:address":"809 Hwy 145 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2931",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rqxfPXIk6SFGuX63gDeIC_33.851791_-88.585791@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122710,
+    "wof:geomhash":"a0c24870143ab4c992cd422882a532da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857131477
+        }
+    ],
+    "wof:id":857131477,
+    "wof:lastmodified":1464122710,
+    "wof:name":"National Guard Recruiter",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -88.585791,
+    33.851791,
+    -88.585791,
+    33.851791
+],
+  "geometry": {"coordinates":[-88.585791,33.851791],"type":"Point"}
+}

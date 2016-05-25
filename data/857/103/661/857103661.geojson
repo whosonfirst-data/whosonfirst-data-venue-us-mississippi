@@ -1,0 +1,71 @@
+{
+  "id": 857103661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845429,33.45515,-88.845429,33.45515",
+    "geom:latitude":33.45515,
+    "geom:longitude":-88.845429,
+    "iso:country":"US",
+    "sg:address":"1109 Stark Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 0771",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UPZwEiKTKav7Wt91MM79A_33.455150_-88.845429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121996,
+    "wof:geomhash":"851a0783e300323dfa6c45eb9804c949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857103661
+        }
+    ],
+    "wof:id":857103661,
+    "wof:lastmodified":1464121996,
+    "wof:name":"Loyd & Co",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.845429,
+    33.45515,
+    -88.845429,
+    33.45515
+],
+  "geometry": {"coordinates":[-88.845429,33.45515],"type":"Point"}
+}

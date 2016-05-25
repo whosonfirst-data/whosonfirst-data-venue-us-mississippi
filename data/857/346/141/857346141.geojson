@@ -1,0 +1,72 @@
+{
+  "id": 857346141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698568,32.371968,-88.698568,32.371968",
+    "geom:latitude":32.371968,
+    "geom:longitude":-88.698568,
+    "iso:country":"US",
+    "sg:address":"1400 20th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0216",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.maac.yourmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W4N70AvnMEi9R1nc3KkO9_32.371968_-88.698568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127398,
+    "wof:geomhash":"fe833ce72f867a00f698217d90ca4de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857346141
+        }
+    ],
+    "wof:id":857346141,
+    "wof:lastmodified":1464127398,
+    "wof:name":"Mississippi Asthma & Allergy",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.698568,
+    32.371968,
+    -88.698568,
+    32.371968
+],
+  "geometry": {"coordinates":[-88.69856799999999,32.371968],"type":"Point"}
+}

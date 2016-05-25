@@ -1,0 +1,73 @@
+{
+  "id": 857210169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.418954,32.845464,-90.418954,32.845464",
+    "geom:latitude":32.845464,
+    "geom:longitude":-90.418954,
+    "iso:country":"US",
+    "sg:address":"419 W Bridge St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9966",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NKQhxq1XsFIFd1jSW5Nd8_32.845464_-90.418954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124393,
+    "wof:geomhash":"7008e08a7a4f951caf90c601b620bb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857210169
+        }
+    ],
+    "wof:id":857210169,
+    "wof:lastmodified":1464124393,
+    "wof:name":"Miltons Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "repair"
+    ]
+},
+  "bbox": [
+    -90.418954,
+    32.845464,
+    -90.418954,
+    32.845464
+],
+  "geometry": {"coordinates":[-90.418954,32.845464],"type":"Point"}
+}

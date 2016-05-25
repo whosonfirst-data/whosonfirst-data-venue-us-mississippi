@@ -1,0 +1,73 @@
+{
+  "id": 857279247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66681,34.24633,-88.66681,34.24633",
+    "geom:latitude":34.24633,
+    "geom:longitude":-88.66681,
+    "iso:country":"US",
+    "sg:address":"1510 Wilson St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5538",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hdxEiJ1P0LgSrc5N6oNzt_34.246330_-88.666810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125903,
+    "wof:geomhash":"cc22fa08ae092126a9359a85cb8ed94a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857279247
+        }
+    ],
+    "wof:id":857279247,
+    "wof:lastmodified":1464125903,
+    "wof:name":"North Mississippi Mortgage Co",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -88.66681,
+    34.24633,
+    -88.66681,
+    34.24633
+],
+  "geometry": {"coordinates":[-88.66681,34.24633],"type":"Point"}
+}

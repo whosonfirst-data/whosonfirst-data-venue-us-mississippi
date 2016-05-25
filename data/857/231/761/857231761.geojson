@@ -1,0 +1,73 @@
+{
+  "id": 857231761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.29284,31.327154,-89.29284,31.327154",
+    "geom:latitude":31.327154,
+    "geom:longitude":-89.29284,
+    "iso:country":"US",
+    "sg:address":"100 Brunie St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6600",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AZxu99g9rnKoCtFXotqsD_31.327154_-89.292840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124838,
+    "wof:geomhash":"8be7c30c151f34fe819c486f25a117cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857231761
+        }
+    ],
+    "wof:id":857231761,
+    "wof:lastmodified":1464124838,
+    "wof:name":"Capitol Builders & Remodelers",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -89.29284,
+    31.327154,
+    -89.29284,
+    31.327154
+],
+  "geometry": {"coordinates":[-89.29284,31.327154],"type":"Point"}
+}

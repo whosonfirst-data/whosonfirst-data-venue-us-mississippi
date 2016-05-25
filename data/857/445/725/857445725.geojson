@@ -1,0 +1,71 @@
+{
+  "id": 857445725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274731,31.352617,-89.274731,31.352617",
+    "geom:latitude":31.352617,
+    "geom:longitude":-89.274731,
+    "iso:country":"US",
+    "sg:address":"65 City Barn Loop",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0690",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d1kESPb7moA78wLVsNrsq_31.352617_-89.274731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129676,
+    "wof:geomhash":"4c3d1d5e148a8efa0b37c1749af418f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857445725
+        }
+    ],
+    "wof:id":857445725,
+    "wof:lastmodified":1464129676,
+    "wof:name":"Max's Towing Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.274731,
+    31.352617,
+    -89.274731,
+    31.352617
+],
+  "geometry": {"coordinates":[-89.274731,31.352617],"type":"Point"}
+}

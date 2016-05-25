@@ -1,0 +1,73 @@
+{
+  "id": 857130019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.155936,32.213878,-90.155936,32.213878",
+    "geom:latitude":32.213878,
+    "geom:longitude":-90.155936,
+    "iso:country":"US",
+    "sg:address":"180 Scarbrough St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 0758",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85842145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MWrEZ6cbfCqTTwrzZZumh_32.213878_-90.155936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122682,
+    "wof:geomhash":"3e5db44bfe8fa3ea21c4a6e08fcdbf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85842145,
+            "region_id":85688579,
+            "venue_id":857130019
+        }
+    ],
+    "wof:id":857130019,
+    "wof:lastmodified":1464122682,
+    "wof:name":"Kart Services",
+    "wof:parent_id":85842145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -90.155936,
+    32.213878,
+    -90.155936,
+    32.213878
+],
+  "geometry": {"coordinates":[-90.155936,32.213878],"type":"Point"}
+}

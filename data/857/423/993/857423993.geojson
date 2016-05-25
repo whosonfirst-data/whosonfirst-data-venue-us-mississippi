@@ -1,0 +1,73 @@
+{
+  "id": 857423993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.799608,30.403273,-88.799608,30.403273",
+    "geom:latitude":30.403273,
+    "geom:longitude":-88.799608,
+    "iso:country":"US",
+    "sg:address":"303 Halstead Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4050",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z4IV9hcsXPm5eqOwritZU_30.403273_-88.799608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129194,
+    "wof:geomhash":"a034dbb88cbd827d7245180af35d4151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857423993
+        }
+    ],
+    "wof:id":857423993,
+    "wof:lastmodified":1464129194,
+    "wof:name":"Graggs Rentals",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -88.799608,
+    30.403273,
+    -88.799608,
+    30.403273
+],
+  "geometry": {"coordinates":[-88.79960800000001,30.403273],"type":"Point"}
+}

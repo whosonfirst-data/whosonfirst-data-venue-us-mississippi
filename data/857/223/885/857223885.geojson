@@ -1,0 +1,73 @@
+{
+  "id": 857223885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658982,33.605455,-88.658982,33.605455",
+    "geom:latitude":33.605455,
+    "geom:longitude":-88.658982,
+    "iso:country":"US",
+    "sg:address":"212 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9191",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15QokOmFQaaEB3VzTSsdsa_33.605455_-88.658982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124690,
+    "wof:geomhash":"e1057921c2f924ebde8e5d54da633715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857223885
+        }
+    ],
+    "wof:id":857223885,
+    "wof:lastmodified":1464124690,
+    "wof:name":"Cellular One",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.658982,
+    33.605455,
+    -88.658982,
+    33.605455
+],
+  "geometry": {"coordinates":[-88.65898199999999,33.605455],"type":"Point"}
+}

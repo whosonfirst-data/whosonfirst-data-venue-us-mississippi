@@ -1,0 +1,73 @@
+{
+  "id": 857442037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773401,30.411505,-88.773401,30.411505",
+    "geom:latitude":30.411505,
+    "geom:longitude":-88.773401,
+    "iso:country":"US",
+    "sg:address":"3537 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 5399",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14kQvlG6hCHsChsh7tVIQV_30.411505_-88.773401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129606,
+    "wof:geomhash":"c5f0db719ed8c9ce3af2e6324b265c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857442037
+        }
+    ],
+    "wof:id":857442037,
+    "wof:lastmodified":1464129606,
+    "wof:name":"Steve Nall Tile & Installation",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.773401,
+    30.411505,
+    -88.773401,
+    30.411505
+],
+  "geometry": {"coordinates":[-88.77340100000001,30.411505],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857480063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.570175,34.19296,-90.570175,34.19296",
+    "geom:latitude":34.19296,
+    "geom:longitude":-90.570175,
+    "iso:country":"US",
+    "sg:address":"947 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/5/122262-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 1005",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bji7dUmdFKbZcEcdx2I03_34.192960_-90.570175@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130371,
+    "wof:geomhash":"0b4789bf8dbf929ae5dd0bf39f181058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857480063
+        }
+    ],
+    "wof:id":857480063,
+    "wof:lastmodified":1464130371,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.570175,
+    34.19296,
+    -90.570175,
+    34.19296
+],
+  "geometry": {"coordinates":[-90.57017500000001,34.19296],"type":"Point"}
+}

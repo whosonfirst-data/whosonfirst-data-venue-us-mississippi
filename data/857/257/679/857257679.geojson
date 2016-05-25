@@ -1,0 +1,75 @@
+{
+  "id": 857257679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.175723,32.327451,-90.175723,32.327451",
+    "geom:latitude":32.327451,
+    "geom:longitude":-90.175723,
+    "iso:country":"US",
+    "sg:address":"2423 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 576 7411",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "registry",
+        "cancer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n0hCqI6uC4XmgHm9h0ZgM_32.327451_-90.175723@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125443,
+    "wof:geomhash":"ca7c32b67c64966440a3c8db006e0165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878395,
+            "region_id":85688579,
+            "venue_id":857257679
+        }
+    ],
+    "wof:id":857257679,
+    "wof:lastmodified":1464125443,
+    "wof:name":"Cancer Registry",
+    "wof:parent_id":85878395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "registry",
+        "cancer"
+    ]
+},
+  "bbox": [
+    -90.175723,
+    32.327451,
+    -90.175723,
+    32.327451
+],
+  "geometry": {"coordinates":[-90.175723,32.327451],"type":"Point"}
+}

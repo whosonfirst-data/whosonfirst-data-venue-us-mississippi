@@ -1,0 +1,73 @@
+{
+  "id": 857149109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51879,34.366411,-89.51879,34.366411",
+    "geom:latitude":34.366411,
+    "geom:longitude":-89.51879,
+    "iso:country":"US",
+    "sg:address":"152 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 8080",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UJGg9DBafGAkh4Cj6c6Vd_34.366411_-89.518790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123125,
+    "wof:geomhash":"fd2a5417b7616f6cccea50f354fde096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857149109
+        }
+    ],
+    "wof:id":857149109,
+    "wof:lastmodified":1464123125,
+    "wof:name":"City Grocery",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.51879,
+    34.366411,
+    -89.51879,
+    34.366411
+],
+  "geometry": {"coordinates":[-89.51879,34.366411],"type":"Point"}
+}

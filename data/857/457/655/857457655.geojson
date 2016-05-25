@@ -1,0 +1,71 @@
+{
+  "id": 857457655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.238703,31.348604,-89.238703,31.348604",
+    "geom:latitude":31.348604,
+    "geom:longitude":-89.238703,
+    "iso:country":"US",
+    "sg:address":"743 Hwy 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3290",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DsNcUs1H2MOS57pu5M8Hq_31.348604_-89.238703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129901,
+    "wof:geomhash":"b85651c13d301a5bed54ecb1c6ea053e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857457655
+        }
+    ],
+    "wof:id":857457655,
+    "wof:lastmodified":1464129901,
+    "wof:name":"Panther Pet Hospital Pllc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.238703,
+    31.348604,
+    -89.238703,
+    31.348604
+],
+  "geometry": {"coordinates":[-89.238703,31.348604],"type":"Point"}
+}

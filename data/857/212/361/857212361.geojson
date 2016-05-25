@@ -1,0 +1,71 @@
+{
+  "id": 857212361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.79048,30.411109,-88.79048,30.411109",
+    "geom:latitude":30.411109,
+    "geom:longitude":-88.79048,
+    "iso:country":"US",
+    "sg:address":"2810 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 3333",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GfQjR50cjr6UJmcBtYQ2s_30.411109_-88.790480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124446,
+    "wof:geomhash":"97b61a0a2dcbbca02959c51c98116b28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857212361
+        }
+    ],
+    "wof:id":857212361,
+    "wof:lastmodified":1464124446,
+    "wof:name":"Smith Dental Clinic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.79048,
+    30.411109,
+    -88.79048,
+    30.411109
+],
+  "geometry": {"coordinates":[-88.79048,30.411109],"type":"Point"}
+}

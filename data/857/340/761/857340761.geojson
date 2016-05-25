@@ -1,0 +1,66 @@
+{
+  "id": 857340761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.494602,30.411433,-88.494602,30.411433",
+    "geom:latitude":30.411433,
+    "geom:longitude":-88.494602,
+    "iso:country":"US",
+    "sg:address":"4913 Kreole Ave",
+    "sg:city":"Kreole",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 000 1111",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R70Me9TlBP81bR8OwR0hx_30.411433_-88.494602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127293,
+    "wof:geomhash":"08c777656a0da45ddf1e4eb4996bd3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857340761
+        }
+    ],
+    "wof:id":857340761,
+    "wof:lastmodified":1464127293,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.494602,
+    30.411433,
+    -88.494602,
+    30.411433
+],
+  "geometry": {"coordinates":[-88.494602,30.411433],"type":"Point"}
+}

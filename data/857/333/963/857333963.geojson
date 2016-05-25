@@ -1,0 +1,71 @@
+{
+  "id": 857333963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.880699,33.347502,-88.880699,33.347502",
+    "geom:latitude":33.347502,
+    "geom:longitude":-88.880699,
+    "iso:country":"US",
+    "sg:address":"2249 Hwy 25 S",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 2931",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OxOT26RhULaMY2vGv1NN3_33.347502_-88.880699@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127147,
+    "wof:geomhash":"40994eccb4ad1356942374d86c516612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857333963
+        }
+    ],
+    "wof:id":857333963,
+    "wof:lastmodified":1464127147,
+    "wof:name":"Tech Shop",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -88.880699,
+    33.347502,
+    -88.880699,
+    33.347502
+],
+  "geometry": {"coordinates":[-88.88069900000001,33.347502],"type":"Point"}
+}

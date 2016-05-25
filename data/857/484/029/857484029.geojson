@@ -1,0 +1,74 @@
+{
+  "id": 857484029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.262743,31.346837,-89.262743,31.346837",
+    "geom:latitude":31.346837,
+    "geom:longitude":-89.262743,
+    "iso:country":"US",
+    "sg:address":"103 Highway 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/petal/211873-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6524",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46nnD71xBV1bw1tdmo13AF_31.346837_-89.262743@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130446,
+    "wof:geomhash":"faeb6ac62cbdd83fe9e7985c925ca7fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857484029
+        }
+    ],
+    "wof:id":857484029,
+    "wof:lastmodified":1464130446,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.262743,
+    31.346837,
+    -89.262743,
+    31.346837
+],
+  "geometry": {"coordinates":[-89.262743,31.346837],"type":"Point"}
+}

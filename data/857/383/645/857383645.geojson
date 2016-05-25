@@ -1,0 +1,71 @@
+{
+  "id": 857383645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547709,30.365072,-88.547709,30.365072",
+    "geom:latitude":30.365072,
+    "geom:longitude":-88.547709,
+    "iso:country":"US",
+    "sg:address":"1641 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4518",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ymbsDNpcvlGYVH7X1FzLP_30.365072_-88.547709@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128233,
+    "wof:geomhash":"5f2005983001a07e9d6c4f5baa63119a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857383645
+        }
+    ],
+    "wof:id":857383645,
+    "wof:lastmodified":1464128233,
+    "wof:name":"Seymour & Tolleson",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.547709,
+    30.365072,
+    -88.547709,
+    30.365072
+],
+  "geometry": {"coordinates":[-88.547709,30.365072],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857326269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.733513,30.539539,-88.733513,30.539539",
+    "geom:latitude":30.539539,
+    "geom:longitude":-88.733513,
+    "iso:country":"US",
+    "sg:address":"13717 Still Branch Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 2050",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mGukFJjXKG2yBfnMjLh0g_30.539539_-88.733513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126974,
+    "wof:geomhash":"7f5250ea04c238e9c6d0dfc8a23e801b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857326269
+        }
+    ],
+    "wof:id":857326269,
+    "wof:lastmodified":1464126974,
+    "wof:name":"Mechanical Resources Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.733513,
+    30.539539,
+    -88.733513,
+    30.539539
+],
+  "geometry": {"coordinates":[-88.733513,30.539539],"type":"Point"}
+}

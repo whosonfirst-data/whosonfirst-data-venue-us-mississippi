@@ -1,0 +1,68 @@
+{
+  "id": 857160065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.330212,31.322914,-89.330212,31.322914",
+    "geom:latitude":31.322914,
+    "geom:longitude":-89.330212,
+    "iso:country":"US",
+    "sg:address":"117 S 27th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 7966",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48cxjIHWb6NjrwFuhEWsKq_31.322914_-89.330212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123345,
+    "wof:geomhash":"859b7d21e4e29b1da0eaea8fb1999697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857160065
+        }
+    ],
+    "wof:id":857160065,
+    "wof:lastmodified":1464123345,
+    "wof:name":"Hair Tropics",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.330212,
+    31.322914,
+    -89.330212,
+    31.322914
+],
+  "geometry": {"coordinates":[-89.330212,31.322914],"type":"Point"}
+}

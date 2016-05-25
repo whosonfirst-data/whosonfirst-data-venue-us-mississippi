@@ -1,0 +1,71 @@
+{
+  "id": 857409523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.837431,33.436377,-88.837431,33.436377",
+    "geom:latitude":33.436377,
+    "geom:longitude":-88.837431,
+    "iso:country":"US",
+    "sg:address":"100 Miley Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 2205",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BnXc666YPaPaVS8ALhQI8_33.436377_-88.837431@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128821,
+    "wof:geomhash":"5fbdf8746397e8a80e727422c5b3f6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857409523
+        }
+    ],
+    "wof:id":857409523,
+    "wof:lastmodified":1464128821,
+    "wof:name":"Pritchard Engineering",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.837431,
+    33.436377,
+    -88.837431,
+    33.436377
+],
+  "geometry": {"coordinates":[-88.837431,33.436377],"type":"Point"}
+}

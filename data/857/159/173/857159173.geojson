@@ -1,0 +1,73 @@
+{
+  "id": 857159173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.505527,30.391825,-88.505527,30.391825",
+    "geom:latitude":30.391825,
+    "geom:longitude":-88.505527,
+    "iso:country":"US",
+    "sg:address":"6331 US Hwy 90",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 2434",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jusCRRiSvMzqT30pCevhA_30.391825_-88.505527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123330,
+    "wof:geomhash":"7d5715092eff1c49a71931c9cc1e2fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857159173
+        }
+    ],
+    "wof:id":857159173,
+    "wof:lastmodified":1464123330,
+    "wof:name":"Masse Contracting",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.505527,
+    30.391825,
+    -88.505527,
+    30.391825
+],
+  "geometry": {"coordinates":[-88.505527,30.391825],"type":"Point"}
+}

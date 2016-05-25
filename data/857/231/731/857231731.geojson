@@ -1,0 +1,71 @@
+{
+  "id": 857231731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.666046,34.239581,-88.666046,34.239581",
+    "geom:latitude":34.239581,
+    "geom:longitude":-88.666046,
+    "iso:country":"US",
+    "sg:address":"2434 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 1717",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H4UiZiqLB8lmxvvS1Pl1h_34.239581_-88.666046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124837,
+    "wof:geomhash":"546232484bbcd1eeb4d4f47e08f9521b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857231731
+        }
+    ],
+    "wof:id":857231731,
+    "wof:lastmodified":1464124837,
+    "wof:name":"Region III Mental Health Ctr",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -88.666046,
+    34.239581,
+    -88.666046,
+    34.239581
+],
+  "geometry": {"coordinates":[-88.66604599999999,34.239581],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857255479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.1701,32.303443,-90.1701,32.303443",
+    "geom:latitude":32.303443,
+    "geom:longitude":-90.1701,
+    "iso:country":"US",
+    "sg:address":"1264 High St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 2248",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bAwoUxLH1qMikzs2lsROo_32.303443_-90.170100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125385,
+    "wof:geomhash":"85cdc0c27fc83527cd6391835a74fb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857255479
+        }
+    ],
+    "wof:id":857255479,
+    "wof:lastmodified":1464125385,
+    "wof:name":"Texaco Interstate Station",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.1701,
+    32.303443,
+    -90.1701,
+    32.303443
+],
+  "geometry": {"coordinates":[-90.17010000000001,32.303443],"type":"Point"}
+}

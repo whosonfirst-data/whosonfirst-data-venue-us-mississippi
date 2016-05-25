@@ -1,0 +1,78 @@
+{
+  "id": 857239303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.318799,31.298492,-89.318799,31.298492",
+    "geom:latitude":31.298492,
+    "geom:longitude":-89.318799,
+    "iso:country":"US",
+    "sg:address":"2003 Mc Innis Loop",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 9495",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pkntoef3uQ8VbX4SM56kv_31.298492_-89.318799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124987,
+    "wof:geomhash":"2def89f2da231c8072c4352c7de87560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857239303
+        }
+    ],
+    "wof:id":857239303,
+    "wof:lastmodified":1464124987,
+    "wof:name":"Thaggard Fence",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.318799,
+    31.298492,
+    -89.318799,
+    31.298492
+],
+  "geometry": {"coordinates":[-89.318799,31.298492],"type":"Point"}
+}

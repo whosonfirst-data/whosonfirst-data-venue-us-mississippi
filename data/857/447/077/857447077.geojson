@@ -1,0 +1,71 @@
+{
+  "id": 857447077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.562033,34.362406,-89.562033,34.362406",
+    "geom:latitude":34.362406,
+    "geom:longitude":-89.562033,
+    "iso:country":"US",
+    "sg:address":"2214 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5687",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jq1VaKnMXDIaFT2Oc8FZI_34.362406_-89.562033@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129703,
+    "wof:geomhash":"ead70144369e04eac47b8d426556ad8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857447077
+        }
+    ],
+    "wof:id":857447077,
+    "wof:lastmodified":1464129703,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -89.562033,
+    34.362406,
+    -89.562033,
+    34.362406
+],
+  "geometry": {"coordinates":[-89.562033,34.362406],"type":"Point"}
+}

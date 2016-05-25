@@ -1,0 +1,75 @@
+{
+  "id": 857420729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.174357,30.374873,-89.174357,30.374873",
+    "geom:latitude":30.374873,
+    "geom:longitude":-89.174357,
+    "iso:country":"US",
+    "sg:address":"6104 Daugherty Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 617 4999",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mr5BfxmCrHT3LG0vLjoLH_30.374873_-89.174357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129118,
+    "wof:geomhash":"307188b033ac0090029a9af4f1a68025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857420729
+        }
+    ],
+    "wof:id":857420729,
+    "wof:lastmodified":1464129118,
+    "wof:name":"Slp Construction",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -89.174357,
+    30.374873,
+    -89.174357,
+    30.374873
+],
+  "geometry": {"coordinates":[-89.174357,30.374873],"type":"Point"}
+}

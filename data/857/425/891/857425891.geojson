@@ -1,0 +1,71 @@
+{
+  "id": 857425891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63632,34.50819,-88.63632,34.50819",
+    "geom:latitude":34.50819,
+    "geom:longitude":-88.63632,
+    "iso:country":"US",
+    "sg:address":"222 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8507",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_545cR7vxWch7hsLIrvRXdN_34.508190_-88.636320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129252,
+    "wof:geomhash":"442d2f83046166e5f68e432994117c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857425891
+        }
+    ],
+    "wof:id":857425891,
+    "wof:lastmodified":1464129252,
+    "wof:name":"Mc Creary Tire Svc",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.63632,
+    34.50819,
+    -88.63632,
+    34.50819
+],
+  "geometry": {"coordinates":[-88.63632,34.50819],"type":"Point"}
+}

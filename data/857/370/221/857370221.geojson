@@ -1,0 +1,76 @@
+{
+  "id": 857370221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.333582,31.347394,-89.333582,31.347394",
+    "geom:latitude":31.347394,
+    "geom:longitude":-89.333582,
+    "iso:country":"US",
+    "sg:address":"5066 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8918",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VO7X24KtytxguJedEoC4m_31.347394_-89.333582@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127910,
+    "wof:geomhash":"a65c6bd057c265475aee2e42dc5dd457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857370221
+        }
+    ],
+    "wof:id":857370221,
+    "wof:lastmodified":1464127910,
+    "wof:name":"Hornsby's Auto Parts",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.333582,
+    31.347394,
+    -89.333582,
+    31.347394
+],
+  "geometry": {"coordinates":[-89.33358200000001,31.347394],"type":"Point"}
+}

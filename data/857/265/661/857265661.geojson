@@ -1,0 +1,71 @@
+{
+  "id": 857265661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.262201,31.346795,-89.262201,31.346795",
+    "geom:latitude":31.346795,
+    "geom:longitude":-89.262201,
+    "iso:country":"US",
+    "sg:address":"4 Professional Pkwy",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 543 0881",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tJJtsTjS5rjw0LtY9LkRH_31.346795_-89.262201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125604,
+    "wof:geomhash":"5a4cb1312c18378f9ec6f20854987c83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857265661
+        }
+    ],
+    "wof:id":857265661,
+    "wof:lastmodified":1464125604,
+    "wof:name":"Salon Del Sol",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -89.262201,
+    31.346795,
+    -89.262201,
+    31.346795
+],
+  "geometry": {"coordinates":[-89.262201,31.346795],"type":"Point"}
+}

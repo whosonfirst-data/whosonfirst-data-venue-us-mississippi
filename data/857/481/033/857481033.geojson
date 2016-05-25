@@ -1,0 +1,72 @@
+{
+  "id": 857481033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693173,34.315558,-88.693173,34.315558",
+    "geom:latitude":34.315558,
+    "geom:longitude":-88.693173,
+    "iso:country":"US",
+    "sg:address":"1001 Barnes Crossing Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/103735-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3383",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VWnfxPxOwHMYnFEJzk9Hr_34.315558_-88.693173@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130388,
+    "wof:geomhash":"69137946a49f731ee4952373a78606a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857481033
+        }
+    ],
+    "wof:id":857481033,
+    "wof:lastmodified":1464130388,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.693173,
+    34.315558,
+    -88.693173,
+    34.315558
+],
+  "geometry": {"coordinates":[-88.693173,34.315558],"type":"Point"}
+}

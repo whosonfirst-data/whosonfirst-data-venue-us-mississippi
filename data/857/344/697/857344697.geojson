@@ -1,0 +1,73 @@
+{
+  "id": 857344697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.430197,32.640457,-90.430197,32.640457",
+    "geom:latitude":32.640457,
+    "geom:longitude":-90.430197,
+    "iso:country":"US",
+    "sg:address":"85 Scott Rd",
+    "sg:city":"Carthage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 267 3494",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VvCHvDE9HGDxjcWUaGCda_32.640457_-90.430197@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127365,
+    "wof:geomhash":"d54a2ac694eb15e9032699359b1ed287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857344697
+        }
+    ],
+    "wof:id":857344697,
+    "wof:lastmodified":1464127365,
+    "wof:name":"Reformation Volunteer Fire Dep",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -90.430197,
+    32.640457,
+    -90.430197,
+    32.640457
+],
+  "geometry": {"coordinates":[-90.43019700000001,32.640457],"type":"Point"}
+}

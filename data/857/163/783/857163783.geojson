@@ -1,0 +1,69 @@
+{
+  "id": 857163783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.835088,32.239864,-90.835088,32.239864",
+    "geom:latitude":32.239864,
+    "geom:longitude":-90.835088,
+    "iso:country":"US",
+    "sg:address":"6002 Queens Pt",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 631 0100",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i84NSn1IHQb74sgnG7Ksa_32.239864_-90.835088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123439,
+    "wof:geomhash":"a7dd33421d238ef3f6b67ac7a7a6ae0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857163783
+        }
+    ],
+    "wof:id":857163783,
+    "wof:lastmodified":1464123439,
+    "wof:name":"K & P Sawmill Co",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -90.835088,
+    32.239864,
+    -90.835088,
+    32.239864
+],
+  "geometry": {"coordinates":[-90.835088,32.239864],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857220547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.736682,32.36705,-88.736682,32.36705",
+    "geom:latitude":32.36705,
+    "geom:longitude":-88.736682,
+    "iso:country":"US",
+    "sg:address":"1000 Hwy 19 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 0400",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jmh0iBRl5tRne8OSDU6fv_32.367050_-88.736682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124623,
+    "wof:geomhash":"d624e63f118786ed91e2389823d8d523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857220547
+        }
+    ],
+    "wof:id":857220547,
+    "wof:lastmodified":1464124623,
+    "wof:name":"University-Southern Miss Nrsng",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.736682,
+    32.36705,
+    -88.736682,
+    32.36705
+],
+  "geometry": {"coordinates":[-88.736682,32.36705],"type":"Point"}
+}

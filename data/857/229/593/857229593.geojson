@@ -1,0 +1,68 @@
+{
+  "id": 857229593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.020488,30.400869,-89.020488,30.400869",
+    "geom:latitude":30.400869,
+    "geom:longitude":-89.020488,
+    "iso:country":"US",
+    "sg:address":"1077 Pine St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 4100",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LO0k2ceorVRt9ioRdAbzc_30.400869_-89.020488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124800,
+    "wof:geomhash":"9284830d42c6e8edaeef30345d654ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857229593
+        }
+    ],
+    "wof:id":857229593,
+    "wof:lastmodified":1464124800,
+    "wof:name":"Twin Oaks Child Development",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.020488,
+    30.400869,
+    -89.020488,
+    30.400869
+],
+  "geometry": {"coordinates":[-89.020488,30.400869],"type":"Point"}
+}

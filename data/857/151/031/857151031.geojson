@@ -1,0 +1,73 @@
+{
+  "id": 857151031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772224,34.24451,-88.772224,34.24451",
+    "geom:latitude":34.24451,
+    "geom:longitude":-88.772224,
+    "iso:country":"US",
+    "sg:address":"3900 Westgate Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5255",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KntmbR7Mka3QhlaPL1Kqn_34.244510_-88.772224@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123169,
+    "wof:geomhash":"fc004b074cbb2bcbeec9f194f3db4677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857151031
+        }
+    ],
+    "wof:id":857151031,
+    "wof:lastmodified":1464123169,
+    "wof:name":"Elite Roofing Svc Of Tupelo",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.772224,
+    34.24451,
+    -88.772224,
+    34.24451
+],
+  "geometry": {"coordinates":[-88.77222399999999,34.24451],"type":"Point"}
+}

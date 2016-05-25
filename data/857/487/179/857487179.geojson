@@ -1,0 +1,66 @@
+{
+  "id": 857487179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.552046,34.203569,-90.552046,34.203569",
+    "geom:latitude":34.203569,
+    "geom:longitude":-90.552046,
+    "iso:country":"US",
+    "sg:address":"413 Cunningham Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9256",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lmzx8fpwK3Nxx61J0NEbj_34.203569_-90.552046@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130508,
+    "wof:geomhash":"d1eb1716815df51ddb0eba5ba50d6688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487179
+        }
+    ],
+    "wof:id":857487179,
+    "wof:lastmodified":1464130508,
+    "wof:name":"Jolly Cab",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.552046,
+    34.203569,
+    -90.552046,
+    34.203569
+],
+  "geometry": {"coordinates":[-90.552046,34.203569],"type":"Point"}
+}

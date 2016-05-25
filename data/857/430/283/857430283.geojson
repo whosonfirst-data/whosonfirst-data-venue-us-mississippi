@@ -1,0 +1,71 @@
+{
+  "id": 857430283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.808825,33.431352,-88.808825,33.431352",
+    "geom:latitude":33.431352,
+    "geom:longitude":-88.808825,
+    "iso:country":"US",
+    "sg:address":"203 Greenbriar St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6861",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HfHpPv7e1aADHyqvz8rPE_33.431352_-88.808825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129351,
+    "wof:geomhash":"d397dc197de3ad52c4b68431a6f89ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857430283
+        }
+    ],
+    "wof:id":857430283,
+    "wof:lastmodified":1464129351,
+    "wof:name":"Mary Dorough",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.808825,
+    33.431352,
+    -88.808825,
+    33.431352
+],
+  "geometry": {"coordinates":[-88.808825,33.431352],"type":"Point"}
+}

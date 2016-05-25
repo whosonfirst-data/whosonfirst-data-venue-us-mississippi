@@ -1,0 +1,85 @@
+{
+  "id": 857488253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9759,34.962692,-89.9759,34.962692",
+    "geom:latitude":34.962692,
+    "geom:longitude":-89.9759,
+    "iso:country":"US",
+    "sg:address":"775 Goodman Rd E Ste 27",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 3144",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "annuity",
+        "retirement",
+        "insurance",
+        "plan"
+    ],
+    "sg:website":"http://www.edwardjones.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOqzQa3BmwFHhoEIxx7sq_34.962692_-89.975900@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130542,
+    "wof:geomhash":"9ce1cc55d3e420f188f37a047ee7bac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857488253
+        }
+    ],
+    "wof:id":857488253,
+    "wof:lastmodified":1464130542,
+    "wof:name":"Edward Jones 01543",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "annuity",
+        "retirement",
+        "insurance",
+        "plan"
+    ]
+},
+  "bbox": [
+    -89.9759,
+    34.962692,
+    -89.9759,
+    34.962692
+],
+  "geometry": {"coordinates":[-89.9759,34.962692],"type":"Point"}
+}

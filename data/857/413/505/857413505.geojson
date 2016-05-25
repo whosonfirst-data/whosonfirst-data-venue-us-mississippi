@@ -1,0 +1,75 @@
+{
+  "id": 857413505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.289887,31.326532,-89.289887,31.326532",
+    "geom:latitude":31.326532,
+    "geom:longitude":-89.289887,
+    "iso:country":"US",
+    "sg:address":"512 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 6785",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iRY8QtNAbh2eZohui0GAO_31.326532_-89.289887@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128933,
+    "wof:geomhash":"27e5e68977e4885dd5f019b96f620feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857413505
+        }
+    ],
+    "wof:id":857413505,
+    "wof:lastmodified":1464128933,
+    "wof:name":"A Gallery",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.289887,
+    31.326532,
+    -89.289887,
+    31.326532
+],
+  "geometry": {"coordinates":[-89.28988699999999,31.326532],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857291827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.550491,33.814922,-88.550491,33.814922",
+    "geom:latitude":33.814922,
+    "geom:longitude":-88.550491,
+    "iso:country":"US",
+    "sg:address":"609 Hwy 25 S",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 9179",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZXI8LkL0EDUdAgQnjqNKG_33.814922_-88.550491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126193,
+    "wof:geomhash":"2a1114076ea81d5469c84f52f7cb2aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857291827
+        }
+    ],
+    "wof:id":857291827,
+    "wof:lastmodified":1464126193,
+    "wof:name":"Smokey's",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.550491,
+    33.814922,
+    -88.550491,
+    33.814922
+],
+  "geometry": {"coordinates":[-88.55049099999999,33.814922],"type":"Point"}
+}

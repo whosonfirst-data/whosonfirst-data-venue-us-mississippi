@@ -1,0 +1,72 @@
+{
+  "id": 857201381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.503913,30.395389,-88.503913,30.395389",
+    "geom:latitude":30.395389,
+    "geom:longitude":-88.503913,
+    "iso:country":"US",
+    "sg:address":"6430 Shortcut Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 1414",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crane"
+    ],
+    "sg:website":"www.industrialcraneservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xtcCtRGVpmzZ2ZYmEtJ3u_30.395389_-88.503913@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124200,
+    "wof:geomhash":"8e1432650c347c39b596e9cdb127518f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857201381
+        }
+    ],
+    "wof:id":857201381,
+    "wof:lastmodified":1464124200,
+    "wof:name":"Industrial Crane Svc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -88.503913,
+    30.395389,
+    -88.503913,
+    30.395389
+],
+  "geometry": {"coordinates":[-88.503913,30.395389],"type":"Point"}
+}

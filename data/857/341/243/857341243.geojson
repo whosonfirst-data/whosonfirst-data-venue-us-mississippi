@@ -1,0 +1,80 @@
+{
+  "id": 857341243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.510232,30.398798,-88.510232,30.398798",
+    "geom:latitude":30.398798,
+    "geom:longitude":-88.510232,
+    "iso:country":"US",
+    "sg:address":"4413 Mc Innis Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 9941",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "feed",
+        "fertilizer",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EfqMDmU0EkTgh7Dablic6_30.398798_-88.510232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127302,
+    "wof:geomhash":"dd976de232f47786e1895dd6d8f7a894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857341243
+        }
+    ],
+    "wof:id":857341243,
+    "wof:lastmodified":1464127302,
+    "wof:name":"M & E Feed and Seed",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "fertilizer",
+        "seed"
+    ]
+},
+  "bbox": [
+    -88.510232,
+    30.398798,
+    -88.510232,
+    30.398798
+],
+  "geometry": {"coordinates":[-88.510232,30.398798],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857210941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.771435,34.338705,-88.771435,34.338705",
+    "geom:latitude":34.338705,
+    "geom:longitude":-88.771435,
+    "iso:country":"US",
+    "sg:address":"578 Mount Vernon Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3554",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engine",
+        "automotive",
+        "industrial",
+        "diesel",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n4nRgwBOAn0ix4OPxaYZN_34.338705_-88.771435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124413,
+    "wof:geomhash":"07aabddbe5fc925187e61c800a215824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857210941
+        }
+    ],
+    "wof:id":857210941,
+    "wof:lastmodified":1464124413,
+    "wof:name":"Bobs Performance",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "automotive",
+        "industrial",
+        "diesel",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -88.771435,
+    34.338705,
+    -88.771435,
+    34.338705
+],
+  "geometry": {"coordinates":[-88.771435,34.338705],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857447553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.34737,33.458279,-88.34737,33.458279",
+    "geom:latitude":33.458279,
+    "geom:longitude":-88.34737,
+    "iso:country":"US",
+    "sg:address":"179 Drake Cir",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 5986",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i1j1pbPciTRwHksjdKRRH_33.458279_-88.347370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129713,
+    "wof:geomhash":"ff22df0e9c0521286bd3b3961c250880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857447553
+        }
+    ],
+    "wof:id":857447553,
+    "wof:lastmodified":1464129713,
+    "wof:name":"Next Point",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -88.34737,
+    33.458279,
+    -88.34737,
+    33.458279
+],
+  "geometry": {"coordinates":[-88.34737,33.458279],"type":"Point"}
+}

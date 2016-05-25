@@ -1,0 +1,71 @@
+{
+  "id": 857296931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.50608,33.856381,-88.50608,33.856381",
+    "geom:latitude":33.856381,
+    "geom:longitude":-88.50608,
+    "iso:country":"US",
+    "sg:address":"50030 Windrush Trl",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7063",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SPZLEaaeHg2sHYKX9O0yj_33.856381_-88.506080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126343,
+    "wof:geomhash":"0756fc2cadbc56607b35f1bdb33550a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857296931
+        }
+    ],
+    "wof:id":857296931,
+    "wof:lastmodified":1464126343,
+    "wof:name":"Hightower Repair Service",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.50608,
+    33.856381,
+    -88.50608,
+    33.856381
+],
+  "geometry": {"coordinates":[-88.50608,33.856381],"type":"Point"}
+}

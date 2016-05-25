@@ -1,0 +1,75 @@
+{
+  "id": 857488647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9721,34.965649,-89.9721,34.965649",
+    "geom:latitude":34.965649,
+    "geom:longitude":-89.9721,
+    "iso:country":"US",
+    "sg:address":"7185 Swinnea Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 2300",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "food",
+        "products-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70iYkQSG75iH3bjtu4AiR6_34.965649_-89.972100@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130550,
+    "wof:geomhash":"2905107ad1534d2f978b0d7c646a560d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857488647
+        }
+    ],
+    "wof:id":857488647,
+    "wof:lastmodified":1464130550,
+    "wof:name":"Food Service Brokers",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "products-wholesale"
+    ]
+},
+  "bbox": [
+    -89.9721,
+    34.965649,
+    -89.9721,
+    34.965649
+],
+  "geometry": {"coordinates":[-89.9721,34.965649],"type":"Point"}
+}

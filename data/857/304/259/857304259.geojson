@@ -1,0 +1,74 @@
+{
+  "id": 857304259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547239,30.370739,-88.547239,30.370739",
+    "geom:latitude":30.370739,
+    "geom:longitude":-88.547239,
+    "iso:country":"US",
+    "sg:address":"1715 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2368",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "sg:website":"www.classychassiscarwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZXfMOfksL6lmoWHuWJmKj_30.370739_-88.547239@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126502,
+    "wof:geomhash":"4163161bb2a0036c9c4de286b15754eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857304259
+        }
+    ],
+    "wof:id":857304259,
+    "wof:lastmodified":1464126502,
+    "wof:name":"Classy Chassis Car Wash",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.547239,
+    30.370739,
+    -88.547239,
+    30.370739
+],
+  "geometry": {"coordinates":[-88.547239,30.370739],"type":"Point"}
+}

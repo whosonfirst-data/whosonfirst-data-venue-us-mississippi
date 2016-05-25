@@ -1,0 +1,73 @@
+{
+  "id": 857221513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428973,33.518115,-88.428973,33.518115",
+    "geom:latitude":33.518115,
+    "geom:longitude":-88.428973,
+    "iso:country":"US",
+    "sg:address":"2207 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2190",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUEyBomSRteFT0BartCd6_33.518115_-88.428973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124647,
+    "wof:geomhash":"b015e54e293bbb5bc2d664ff0c6a5fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857221513
+        }
+    ],
+    "wof:id":857221513,
+    "wof:lastmodified":1464124647,
+    "wof:name":"Mississippi Medicaid Reg Ofce",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -88.428973,
+    33.518115,
+    -88.428973,
+    33.518115
+],
+  "geometry": {"coordinates":[-88.428973,33.518115],"type":"Point"}
+}

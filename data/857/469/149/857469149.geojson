@@ -1,0 +1,75 @@
+{
+  "id": 857469149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.286906,31.329752,-89.286906,31.329752",
+    "geom:latitude":31.329752,
+    "geom:longitude":-89.286906,
+    "iso:country":"US",
+    "sg:address":"413 E Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 8001",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T4BbVRxHLjFBGtcbMxdTd_31.329752_-89.286906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130154,
+    "wof:geomhash":"43b854e2f88ff9d03902f28fff3afb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857469149
+        }
+    ],
+    "wof:id":857469149,
+    "wof:lastmodified":1464130154,
+    "wof:name":"Hubert's Trim Shop",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -89.286906,
+    31.329752,
+    -89.286906,
+    31.329752
+],
+  "geometry": {"coordinates":[-89.286906,31.329752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857365561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437663,33.533614,-88.437663,33.533614",
+    "geom:latitude":33.533614,
+    "geom:longitude":-88.437663,
+    "iso:country":"US",
+    "sg:address":"2411 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1143",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sqwae1veB8QqmF8qsDgS8_33.533614_-88.437663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127816,
+    "wof:geomhash":"d1f1efa3f2e5b0541c65bbc50fc96876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857365561
+        }
+    ],
+    "wof:id":857365561,
+    "wof:lastmodified":1464127816,
+    "wof:name":"Clark Engineers & Surveyors",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.437663,
+    33.533614,
+    -88.437663,
+    33.533614
+],
+  "geometry": {"coordinates":[-88.437663,33.533614],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857093243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416775,32.843173,-90.416775,32.843173",
+    "geom:latitude":32.843173,
+    "geom:longitude":-90.416775,
+    "iso:country":"US",
+    "sg:address":"129 S Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8777",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PvaHD9mkugNoWcdX4CJwn_32.843173_-90.416775@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121755,
+    "wof:geomhash":"be5a73b411d40e0f104231643b539e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857093243
+        }
+    ],
+    "wof:id":857093243,
+    "wof:lastmodified":1464121755,
+    "wof:name":"Midtown Family Clinic",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.416775,
+    32.843173,
+    -90.416775,
+    32.843173
+],
+  "geometry": {"coordinates":[-90.416775,32.843173],"type":"Point"}
+}

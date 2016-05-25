@@ -1,0 +1,71 @@
+{
+  "id": 857396517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.54607,33.825498,-88.54607,33.825498",
+    "geom:latitude":33.825498,
+    "geom:longitude":-88.54607,
+    "iso:country":"US",
+    "sg:address":"210 W Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4531",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ojHHQDFzLIi7T3DVvQUSi_33.825498_-88.546070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128559,
+    "wof:geomhash":"78c7b8839687a90926b951ade68fea22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857396517
+        }
+    ],
+    "wof:id":857396517,
+    "wof:lastmodified":1464128559,
+    "wof:name":"Tombigbee Inn",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.54607,
+    33.825498,
+    -88.54607,
+    33.825498
+],
+  "geometry": {"coordinates":[-88.54607,33.825498],"type":"Point"}
+}

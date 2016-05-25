@@ -1,0 +1,73 @@
+{
+  "id": 857240039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.550813,30.354082,-88.550813,30.354082",
+    "geom:latitude":30.354082,
+    "geom:longitude":-88.550813,
+    "iso:country":"US",
+    "sg:address":"1709 Buena Vista St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0428",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RVNfJFH68KO1k1QgwfiO3_30.354082_-88.550813@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125010,
+    "wof:geomhash":"b53c22773bfa263a8d02454ec27b8098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857240039
+        }
+    ],
+    "wof:id":857240039,
+    "wof:lastmodified":1464125010,
+    "wof:name":"Jimbo's Plumbing & Heating",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.550813,
+    30.354082,
+    -88.550813,
+    30.354082
+],
+  "geometry": {"coordinates":[-88.55081300000001,30.354082],"type":"Point"}
+}

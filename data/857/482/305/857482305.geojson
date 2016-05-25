@@ -1,0 +1,76 @@
+{
+  "id": 857482305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.882938,32.312477,-90.882938,32.312477",
+    "geom:latitude":32.312477,
+    "geom:longitude":-90.882938,
+    "iso:country":"US",
+    "sg:address":"3505 Pemberton Square Blvd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/vicksburg/224354-garfields/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 0006",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85805475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ECVCQbtHpfA0JkwwxEISj_32.312477_-90.882938@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130414,
+    "wof:geomhash":"4ed6274505ecf6447a2c9c8d88fc74b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85805475,
+            "region_id":85688579,
+            "venue_id":857482305
+        }
+    ],
+    "wof:id":857482305,
+    "wof:lastmodified":1464130414,
+    "wof:name":"Garfield's",
+    "wof:parent_id":85805475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -90.882938,
+    32.312477,
+    -90.882938,
+    32.312477
+],
+  "geometry": {"coordinates":[-90.882938,32.312477],"type":"Point"}
+}

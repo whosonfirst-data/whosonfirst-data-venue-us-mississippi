@@ -1,0 +1,75 @@
+{
+  "id": 857406905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.654544,33.610904,-88.654544,33.610904",
+    "geom:latitude":33.610904,
+    "geom:longitude":-88.654544,
+    "iso:country":"US",
+    "sg:address":"413 N Forest St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1450",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broadcast",
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fWhC2GlCtAdHMOHkzopvJ_33.610904_-88.654544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128767,
+    "wof:geomhash":"6148874a67d699d7f6b1546898c42820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857406905
+        }
+    ],
+    "wof:id":857406905,
+    "wof:lastmodified":1464128767,
+    "wof:name":"WKBB FM Broadcasting Station",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -88.654544,
+    33.610904,
+    -88.654544,
+    33.610904
+],
+  "geometry": {"coordinates":[-88.654544,33.610904],"type":"Point"}
+}

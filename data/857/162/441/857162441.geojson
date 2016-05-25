@@ -1,0 +1,71 @@
+{
+  "id": 857162441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.592045,34.19249,-90.592045,34.19249",
+    "geom:latitude":34.19249,
+    "geom:longitude":-90.592045,
+    "iso:country":"US",
+    "sg:address":"320 Anderson Blvd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 5419",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xmafLENBIiVDs4AwQp9gE_34.192490_-90.592045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123413,
+    "wof:geomhash":"f4fafe0fc5cf610c58ed3a9352372b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857162441
+        }
+    ],
+    "wof:id":857162441,
+    "wof:lastmodified":1464123413,
+    "wof:name":"Delta Pride Laundry Linens",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.592045,
+    34.19249,
+    -90.592045,
+    34.19249
+],
+  "geometry": {"coordinates":[-90.592045,34.19249],"type":"Point"}
+}

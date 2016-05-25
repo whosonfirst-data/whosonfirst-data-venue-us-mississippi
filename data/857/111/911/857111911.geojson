@@ -1,0 +1,71 @@
+{
+  "id": 857111911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.323943,31.366505,-89.323943,31.366505",
+    "geom:latitude":31.366505,
+    "geom:longitude":-89.323943,
+    "iso:country":"US",
+    "sg:address":"222 River Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1392",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WoamCTEa1rSpomnJDored_31.366505_-89.323943@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122232,
+    "wof:geomhash":"0b677c1f13188b112fa65b76a8fd07ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857111911
+        }
+    ],
+    "wof:id":857111911,
+    "wof:lastmodified":1464122232,
+    "wof:name":"Askew Heating A C",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.323943,
+    31.366505,
+    -89.323943,
+    31.366505
+],
+  "geometry": {"coordinates":[-89.323943,31.366505],"type":"Point"}
+}

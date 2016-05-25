@@ -1,0 +1,77 @@
+{
+  "id": 857298199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68397,32.391793,-88.68397,32.391793",
+    "geom:latitude":32.391793,
+    "geom:longitude":-88.68397,
+    "iso:country":"US",
+    "sg:address":"815 33rd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8628",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "organization",
+        "membership",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YxvslYIGSoDgmnjGk8kSz_32.391793_-88.683970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126370,
+    "wof:geomhash":"8ea8f52d1b32a1a6c7dcc899332017b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857298199
+        }
+    ],
+    "wof:id":857298199,
+    "wof:lastmodified":1464126370,
+    "wof:name":"Meridian Manor Apartments",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "organization",
+        "membership",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.68397,
+    32.391793,
+    -88.68397,
+    32.391793
+],
+  "geometry": {"coordinates":[-88.68397,32.391793],"type":"Point"}
+}

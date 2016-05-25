@@ -1,0 +1,73 @@
+{
+  "id": 857245301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.33519,31.342595,-89.33519,31.342595",
+    "geom:latitude":31.342595,
+    "geom:longitude":-89.33519,
+    "iso:country":"US",
+    "sg:address":"2933 Glen Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 0386",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DorAseaOpHlHYihQeBFpC_31.342595_-89.335190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125144,
+    "wof:geomhash":"d54286f377e0a1ac6211dc95e21b2a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857245301
+        }
+    ],
+    "wof:id":857245301,
+    "wof:lastmodified":1464125144,
+    "wof:name":"Grand Manor",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.33519,
+    31.342595,
+    -89.33519,
+    31.342595
+],
+  "geometry": {"coordinates":[-89.33519,31.342595],"type":"Point"}
+}

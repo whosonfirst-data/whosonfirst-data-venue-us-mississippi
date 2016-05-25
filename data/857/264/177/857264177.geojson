@@ -1,0 +1,73 @@
+{
+  "id": 857264177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542003,33.824937,-88.542003,33.824937",
+    "geom:latitude":33.824937,
+    "geom:longitude":-88.542003,
+    "iso:country":"US",
+    "sg:address":"200 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 3009",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rElycjKpvHNPi0vX3jxKQ_33.824937_-88.542003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125577,
+    "wof:geomhash":"ac6cece434d456d0f492ebec725c6f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857264177
+        }
+    ],
+    "wof:id":857264177,
+    "wof:lastmodified":1464125577,
+    "wof:name":"Family Medical Clinic",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.542003,
+    33.824937,
+    -88.542003,
+    33.824937
+],
+  "geometry": {"coordinates":[-88.54200299999999,33.824937],"type":"Point"}
+}

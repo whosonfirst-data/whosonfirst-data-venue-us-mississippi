@@ -1,0 +1,74 @@
+{
+  "id": 857482165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.092768,32.421264,-90.092768,32.421264",
+    "geom:latitude":32.421264,
+    "geom:longitude":-90.092768,
+    "iso:country":"US",
+    "sg:address":"721 Rice Rd",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/madison/183261-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 0880",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TFl4QzzFSKt6aPXeSsF1A_32.421264_-90.092768@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130412,
+    "wof:geomhash":"fba3fecc6b774b307f62872b25475023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857482165
+        }
+    ],
+    "wof:id":857482165,
+    "wof:lastmodified":1464130412,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.092768,
+    32.421264,
+    -90.092768,
+    32.421264
+],
+  "geometry": {"coordinates":[-90.09276800000001,32.421264],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857208759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.572455,34.199107,-90.572455,34.199107",
+    "geom:latitude":34.199107,
+    "geom:longitude":-90.572455,
+    "iso:country":"US",
+    "sg:address":"361 Yazoo Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6650",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GyZRWeT0qzqzfXIe8z1QN_34.199107_-90.572455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124365,
+    "wof:geomhash":"05240f976aa7a842d3990b33f4220c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857208759
+        }
+    ],
+    "wof:id":857208759,
+    "wof:lastmodified":1464124365,
+    "wof:name":"Melissa Garden Apartments",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.572455,
+    34.199107,
+    -90.572455,
+    34.199107
+],
+  "geometry": {"coordinates":[-90.57245500000001,34.199107],"type":"Point"}
+}

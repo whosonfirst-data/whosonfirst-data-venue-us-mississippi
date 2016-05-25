@@ -1,0 +1,71 @@
+{
+  "id": 857426413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.560319,34.367041,-89.560319,34.367041",
+    "geom:latitude":34.367041,
+    "geom:longitude":-89.560319,
+    "iso:country":"US",
+    "sg:address":"505 Heritage Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4568",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iSguW7m5yGjRmXYmybICE_34.367041_-89.560319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129266,
+    "wof:geomhash":"98655fc43e014b1156193765902a5bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857426413
+        }
+    ],
+    "wof:id":857426413,
+    "wof:lastmodified":1464129266,
+    "wof:name":"Lift Community Svc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -89.560319,
+    34.367041,
+    -89.560319,
+    34.367041
+],
+  "geometry": {"coordinates":[-89.56031900000001,34.367041],"type":"Point"}
+}

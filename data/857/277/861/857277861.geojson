@@ -1,0 +1,71 @@
+{
+  "id": 857277861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.760388,32.376321,-89.760388,32.376321",
+    "geom:latitude":32.376321,
+    "geom:longitude":-89.760388,
+    "iso:country":"US",
+    "sg:address":"377 Barefoot Springs Rd",
+    "sg:city":"Pelahatchie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 854 8469",
+    "sg:postcode":"39145",
+    "sg:province":"MS",
+    "sg:tags":[
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pCn9OMfQbJI73vVdOqDN1_32.376321_-89.760388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125866,
+    "wof:geomhash":"00188c9b32c0aaefd622cd7e27bb4087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857277861
+        }
+    ],
+    "wof:id":857277861,
+    "wof:lastmodified":1464125866,
+    "wof:name":"Neal's Meter Repair",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [
+    -89.760388,
+    32.376321,
+    -89.760388,
+    32.376321
+],
+  "geometry": {"coordinates":[-89.76038800000001,32.376321],"type":"Point"}
+}

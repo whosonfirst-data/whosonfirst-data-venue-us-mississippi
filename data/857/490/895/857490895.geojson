@@ -1,0 +1,103 @@
+{
+  "id": 857490895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.140905,32.360067,-90.140905,32.360067",
+    "geom:latitude":32.360067,
+    "geom:longitude":-90.140905,
+    "iso:country":"US",
+    "sg:address":"1608 Winchester St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 0398",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "supply",
+        "tubs-repair",
+        "equipment",
+        "hot",
+        "spa"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LJKX2gSpK6TQZqdwmSWW7_32.360067_-90.140905@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130615,
+    "wof:geomhash":"a353ca705964dd026792414fc1e08d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857490895
+        }
+    ],
+    "wof:id":857490895,
+    "wof:lastmodified":1464130615,
+    "wof:name":"Chunns Swimming Pool Service",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "supply",
+        "tubs-repair",
+        "equipment",
+        "hot",
+        "spa"
+    ]
+},
+  "bbox": [
+    -90.140905,
+    32.360067,
+    -90.140905,
+    32.360067
+],
+  "geometry": {"coordinates":[-90.140905,32.360067],"type":"Point"}
+}

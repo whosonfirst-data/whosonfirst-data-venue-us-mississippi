@@ -1,0 +1,73 @@
+{
+  "id": 857136265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827525,30.43515,-88.827525,30.43515",
+    "geom:latitude":30.43515,
+    "geom:longitude":-88.827525,
+    "iso:country":"US",
+    "sg:address":"6576 Cortez Cir",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 3337",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_362SnqaDyCB5IIuVCIf5Xz_30.435150_-88.827525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122814,
+    "wof:geomhash":"3ac3768977c4a42f40432a4f4f62a606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857136265
+        }
+    ],
+    "wof:id":857136265,
+    "wof:lastmodified":1464122814,
+    "wof:name":"M and C Concrete Services",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.827525,
+    30.43515,
+    -88.827525,
+    30.43515
+],
+  "geometry": {"coordinates":[-88.82752499999999,30.43515],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857278303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.665368,32.381973,-88.665368,32.381973",
+    "geom:latitude":32.381973,
+    "geom:longitude":-88.665368,
+    "iso:country":"US",
+    "sg:address":"321 Hawkins Crossing Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 553 2901",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XCf52egGtZm5k0KI3w8XK_32.381973_-88.665368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125875,
+    "wof:geomhash":"6292225735cce76d64d074c16961b395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857278303
+        }
+    ],
+    "wof:id":857278303,
+    "wof:lastmodified":1464125875,
+    "wof:name":"H & H Residential  Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.665368,
+    32.381973,
+    -88.665368,
+    32.381973
+],
+  "geometry": {"coordinates":[-88.665368,32.381973],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857418871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533306,30.397724,-88.533306,30.397724",
+    "geom:latitude":30.397724,
+    "geom:longitude":-88.533306,
+    "iso:country":"US",
+    "sg:address":"4600 Community St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 2081",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance",
+        "ground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cG5w0ToH828oZRRIbmsbz_30.397724_-88.533306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129075,
+    "wof:geomhash":"96435fbef8404b4afc82230a3a2974bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857418871
+        }
+    ],
+    "wof:id":857418871,
+    "wof:lastmodified":1464129075,
+    "wof:name":"Biggs Ground Maintenance",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "ground"
+    ]
+},
+  "bbox": [
+    -88.533306,
+    30.397724,
+    -88.533306,
+    30.397724
+],
+  "geometry": {"coordinates":[-88.533306,30.397724],"type":"Point"}
+}

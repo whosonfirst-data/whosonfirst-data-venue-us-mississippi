@@ -1,0 +1,71 @@
+{
+  "id": 857350183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.7181,33.463804,-88.7181,33.463804",
+    "geom:latitude":33.463804,
+    "geom:longitude":-88.7181,
+    "iso:country":"US",
+    "sg:address":"1683 Lilac St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5533",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OGsRWo9rrkFdqkJbC5iPZ_33.463804_-88.718100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127488,
+    "wof:geomhash":"c7014af6d9c9f1596b7a776c7ffbc302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857350183
+        }
+    ],
+    "wof:id":857350183,
+    "wof:lastmodified":1464127488,
+    "wof:name":"Pro Tech Home Inspections",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -88.7181,
+    33.463804,
+    -88.7181,
+    33.463804
+],
+  "geometry": {"coordinates":[-88.71810000000001,33.463804],"type":"Point"}
+}

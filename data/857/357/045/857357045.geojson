@@ -1,0 +1,75 @@
+{
+  "id": 857357045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.203452,32.308794,-90.203452,32.308794",
+    "geom:latitude":32.308794,
+    "geom:longitude":-90.203452,
+    "iso:country":"US",
+    "sg:address":"1204 W Capitol St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 4238",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00xMY5qBt0hi23DGz28J1v_32.308794_-90.203452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127636,
+    "wof:geomhash":"037a35cd9bfee912768722689e897cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857357045
+        }
+    ],
+    "wof:id":857357045,
+    "wof:lastmodified":1464127636,
+    "wof:name":"Jackson Cash & Cash",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -90.203452,
+    32.308794,
+    -90.203452,
+    32.308794
+],
+  "geometry": {"coordinates":[-90.203452,32.308794],"type":"Point"}
+}

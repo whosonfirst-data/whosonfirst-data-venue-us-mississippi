@@ -1,0 +1,69 @@
+{
+  "id": 857122615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854959,32.262769,-90.854959,32.262769",
+    "geom:latitude":32.262769,
+    "geom:longitude":-90.854959,
+    "iso:country":"US",
+    "sg:address":"100 Wedgewood Cir",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9399",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w5poh6ru5NddeWNDK88jF_32.262769_-90.854959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122516,
+    "wof:geomhash":"d77ba466274d60111919bce7abded607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857122615
+        }
+    ],
+    "wof:id":857122615,
+    "wof:lastmodified":1464122516,
+    "wof:name":"Home Electronics",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.854959,
+    32.262769,
+    -90.854959,
+    32.262769
+],
+  "geometry": {"coordinates":[-90.85495899999999,32.262769],"type":"Point"}
+}

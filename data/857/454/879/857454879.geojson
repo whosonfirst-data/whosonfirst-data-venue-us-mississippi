@@ -1,0 +1,78 @@
+{
+  "id": 857454879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.101582,30.462374,-89.101582,30.462374",
+    "geom:latitude":30.462374,
+    "geom:longitude":-89.101582,
+    "iso:country":"US",
+    "sg:address":"12199 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 1832",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rTjK5d4VC3HmQScuWZtLS_30.462374_-89.101582@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129853,
+    "wof:geomhash":"3f912a96019a9538f901c19c9524f92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857454879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857454879
+        }
+    ],
+    "wof:id":857454879,
+    "wof:lastmodified":1464129853,
+    "wof:name":"Belk Eye Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.101582,
+    30.462374,
+    -89.101582,
+    30.462374
+],
+  "geometry": {"coordinates":[-89.10158199999999,30.462374],"type":"Point"}
+}

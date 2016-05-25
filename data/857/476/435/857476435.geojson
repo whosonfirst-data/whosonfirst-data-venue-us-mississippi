@@ -1,0 +1,76 @@
+{
+  "id": 857476435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.551825,34.197135,-90.551825,34.197135",
+    "geom:latitude":34.197135,
+    "geom:longitude":-90.551825,
+    "iso:country":"US",
+    "sg:address":"1970 Hospital Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 3410",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "specialty"
+    ],
+    "sg:website":"http://www.hma-corp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10P8qf1Vg3JhXrLQpgJrnV_34.197076_-90.552048@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130304,
+    "wof:geomhash":"a2ae33b865ad29e0ccc914b17b51d44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857476435
+        }
+    ],
+    "wof:id":857476435,
+    "wof:lastmodified":1464130304,
+    "wof:name":"Clarksdale Hma, Inc.",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.551825,
+    34.197135,
+    -90.551825,
+    34.197135
+],
+  "geometry": {"coordinates":[-90.55182499999999,34.197135],"type":"Point"}
+}

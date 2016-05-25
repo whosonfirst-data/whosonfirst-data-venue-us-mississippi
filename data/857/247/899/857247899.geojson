@@ -1,0 +1,73 @@
+{
+  "id": 857247899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.18699,30.354484,-89.18699,30.354484",
+    "geom:latitude":30.354484,
+    "geom:longitude":-89.18699,
+    "iso:country":"US",
+    "sg:address":"4401 Beatline Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 822 1000",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36oUhyHPzxj3nnSCA0h2dQ_30.354484_-89.186990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125197,
+    "wof:geomhash":"16ed26544ea4b65cc3e67515e6112fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857247899
+        }
+    ],
+    "wof:id":857247899,
+    "wof:lastmodified":1464125197,
+    "wof:name":"Hampton House Apartments",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.18699,
+    30.354484,
+    -89.18699,
+    30.354484
+],
+  "geometry": {"coordinates":[-89.18698999999999,30.354484],"type":"Point"}
+}

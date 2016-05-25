@@ -1,0 +1,71 @@
+{
+  "id": 857240789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.412506,32.84668,-90.412506,32.84668",
+    "geom:latitude":32.84668,
+    "geom:longitude":-90.412506,
+    "iso:country":"US",
+    "sg:address":"212 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6121",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GsHNZbbYljTCfSc4zuqHH_32.846680_-90.412506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125023,
+    "wof:geomhash":"d8c35f939982749e937315764751fb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857240789
+        }
+    ],
+    "wof:id":857240789,
+    "wof:lastmodified":1464125023,
+    "wof:name":"Forestry Dept",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -90.412506,
+    32.84668,
+    -90.412506,
+    32.84668
+],
+  "geometry": {"coordinates":[-90.41250599999999,32.84668],"type":"Point"}
+}

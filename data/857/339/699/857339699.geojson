@@ -1,0 +1,71 @@
+{
+  "id": 857339699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.019998,33.439055,-89.019998,33.439055",
+    "geom:latitude":33.439055,
+    "geom:longitude":-89.019998,
+    "iso:country":"US",
+    "sg:address":"1251 Sturgis West Point Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 9069",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pxLlIZeFCPWKCpwpHHKwS_33.439055_-89.019998@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127267,
+    "wof:geomhash":"0baad87a1aa6b5506af38be67650ea2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857339699
+        }
+    ],
+    "wof:id":857339699,
+    "wof:lastmodified":1464127267,
+    "wof:name":"Robinson and Son Cnstr Co",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.019998,
+    33.439055,
+    -89.019998,
+    33.439055
+],
+  "geometry": {"coordinates":[-89.019998,33.439055],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 857217289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.069184,30.471423,-89.069184,30.471423",
+    "geom:latitude":30.471423,
+    "geom:longitude":-89.069184,
+    "iso:country":"US",
+    "sg:address":"13465 Oneal Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 3286",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "steel",
+        "filtering",
+        "supply",
+        "material",
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L1mrdjswUhBY0ZmT3BwdT_30.471423_-89.069184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124559,
+    "wof:geomhash":"a22645cb71fb03b00fcb5527215c57b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857217289
+        }
+    ],
+    "wof:id":857217289,
+    "wof:lastmodified":1464124559,
+    "wof:name":"B-Line Fabrication Co Ltd",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "filtering",
+        "supply",
+        "material",
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -89.069184,
+    30.471423,
+    -89.069184,
+    30.471423
+],
+  "geometry": {"coordinates":[-89.06918400000001,30.471423],"type":"Point"}
+}

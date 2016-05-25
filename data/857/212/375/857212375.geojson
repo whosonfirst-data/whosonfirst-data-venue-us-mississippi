@@ -1,0 +1,72 @@
+{
+  "id": 857212375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518587,34.366692,-89.518587,34.366692",
+    "geom:latitude":34.366692,
+    "geom:longitude":-89.518587,
+    "iso:country":"US",
+    "sg:address":"115 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7444",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "architectural"
+    ],
+    "sg:website":"www.howortharch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OaHg3TRaNanY4KEI7e5IG_34.366692_-89.518587@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124447,
+    "wof:geomhash":"e07aa8f89dc35be7febcd96b5c80611e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857212375
+        }
+    ],
+    "wof:id":857212375,
+    "wof:lastmodified":1464124447,
+    "wof:name":"Howorth & Assoc Architects",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -89.518587,
+    34.366692,
+    -89.518587,
+    34.366692
+],
+  "geometry": {"coordinates":[-89.518587,34.366692],"type":"Point"}
+}

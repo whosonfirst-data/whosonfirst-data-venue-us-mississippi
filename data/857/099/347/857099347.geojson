@@ -1,0 +1,66 @@
+{
+  "id": 857099347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.129594,32.141605,-90.129594,32.141605",
+    "geom:latitude":32.141605,
+    "geom:longitude":-90.129594,
+    "iso:country":"US",
+    "sg:address":"200 S Church St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 1347",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Aqe7xAhdbSJ3J7IIPEAaQ_32.141605_-90.129594@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121888,
+    "wof:geomhash":"afac3f9dde8f36f68b65f2fb8dad8dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857099347
+        }
+    ],
+    "wof:id":857099347,
+    "wof:lastmodified":1464121888,
+    "wof:name":"Sam's Grill",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.129594,
+    32.141605,
+    -90.129594,
+    32.141605
+],
+  "geometry": {"coordinates":[-90.129594,32.141605],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857117383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.439423,33.479292,-88.439423,33.479292",
+    "geom:latitude":33.479292,
+    "geom:longitude":-88.439423,
+    "iso:country":"US",
+    "sg:address":"1864 Port Access Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3263",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "terminal",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nu93EmecDfygc3JNSBpZs_33.479292_-88.439423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122397,
+    "wof:geomhash":"4db8269f86eb013980c3a856ce8ddcc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857117383
+        }
+    ],
+    "wof:id":857117383,
+    "wof:lastmodified":1464122397,
+    "wof:name":"Logistic Services Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "marine"
+    ]
+},
+  "bbox": [
+    -88.439423,
+    33.479292,
+    -88.439423,
+    33.479292
+],
+  "geometry": {"coordinates":[-88.43942300000001,33.479292],"type":"Point"}
+}

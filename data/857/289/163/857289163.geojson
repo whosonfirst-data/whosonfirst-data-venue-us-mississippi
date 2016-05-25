@@ -1,0 +1,71 @@
+{
+  "id": 857289163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86149,32.327485,-90.86149,32.327485",
+    "geom:latitude":32.327485,
+    "geom:longitude":-90.86149,
+    "iso:country":"US",
+    "sg:address":"2524 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 629 6607",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fGkLhIqAWBMw0tHnO2tLU_32.327485_-90.861490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126118,
+    "wof:geomhash":"9f957c6a8cbca034b5d58b956c938693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857289163
+        }
+    ],
+    "wof:id":857289163,
+    "wof:lastmodified":1464126118,
+    "wof:name":"US Fish & Wildlife Svc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -90.86149,
+    32.327485,
+    -90.86149,
+    32.327485
+],
+  "geometry": {"coordinates":[-90.86149,32.327485],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857185907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.967051,30.394161,-88.967051,30.394161",
+    "geom:latitude":30.394161,
+    "geom:longitude":-88.967051,
+    "iso:country":"US",
+    "sg:address":"190 Brady Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 594 2096",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K4FVrG03mmAEvW7RVovaz_30.394161_-88.967051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123913,
+    "wof:geomhash":"5005bda35df212c0b7fb25bfb9301f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857185907
+        }
+    ],
+    "wof:id":857185907,
+    "wof:lastmodified":1464123913,
+    "wof:name":"Advanced Septic & Sewer Clng",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.967051,
+    30.394161,
+    -88.967051,
+    30.394161
+],
+  "geometry": {"coordinates":[-88.967051,30.394161],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857136723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.177525,31.273784,-89.177525,31.273784",
+    "geom:latitude":31.273784,
+    "geom:longitude":-89.177525,
+    "iso:country":"US",
+    "sg:address":"131 Sheeplo Loop",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 543 0900",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjsqvO20cktaCwlDR9IAn_31.273784_-89.177525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122824,
+    "wof:geomhash":"6ff8404affff549200a4da96556509ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857136723
+        }
+    ],
+    "wof:id":857136723,
+    "wof:lastmodified":1464122824,
+    "wof:name":"Indian Springs Farmers Mktng",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -89.177525,
+    31.273784,
+    -89.177525,
+    31.273784
+],
+  "geometry": {"coordinates":[-89.177525,31.273784],"type":"Point"}
+}

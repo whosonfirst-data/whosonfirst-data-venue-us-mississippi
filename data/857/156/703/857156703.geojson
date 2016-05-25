@@ -1,0 +1,73 @@
+{
+  "id": 857156703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.316498,33.484926,-88.316498,33.484926",
+    "geom:latitude":33.484926,
+    "geom:longitude":-88.316498,
+    "iso:country":"US",
+    "sg:address":"1173 Mount Vernon Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3952",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IYvWg3H8aJUkSPH6JQrhT_33.484926_-88.316498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123279,
+    "wof:geomhash":"0db3ae4463c3abc429dec5d15a0ea3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857156703
+        }
+    ],
+    "wof:id":857156703,
+    "wof:lastmodified":1464123279,
+    "wof:name":"Hanson Small Engines",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -88.316498,
+    33.484926,
+    -88.316498,
+    33.484926
+],
+  "geometry": {"coordinates":[-88.316498,33.484926],"type":"Point"}
+}

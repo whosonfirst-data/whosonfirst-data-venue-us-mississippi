@@ -1,0 +1,73 @@
+{
+  "id": 857332065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698547,32.370538,-88.698547,32.370538",
+    "geom:latitude":32.370538,
+    "geom:longitude":-88.698547,
+    "iso:country":"US",
+    "sg:address":"1302 20th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1055",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UxgZ8eL0gi62ZLR8Wff2H_32.370538_-88.698547@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127102,
+    "wof:geomhash":"5636fd0b343834e61aad63e55614dc6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857332065
+        }
+    ],
+    "wof:id":857332065,
+    "wof:lastmodified":1464127102,
+    "wof:name":"Urology Clinic Of Meridian",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.698547,
+    32.370538,
+    -88.698547,
+    32.370538
+],
+  "geometry": {"coordinates":[-88.698547,32.370538],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857107457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701443,32.378807,-88.701443,32.378807",
+    "geom:latitude":32.378807,
+    "geom:longitude":-88.701443,
+    "iso:country":"US",
+    "sg:address":"2023 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 2530",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yfR5F5oLo9hZI1oW4k371_32.378807_-88.701443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122077,
+    "wof:geomhash":"fd7863ab59357452a81c225e62f8abb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857107457
+        }
+    ],
+    "wof:id":857107457,
+    "wof:lastmodified":1464122077,
+    "wof:name":"DOT Trucking",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.701443,
+    32.378807,
+    -88.701443,
+    32.378807
+],
+  "geometry": {"coordinates":[-88.701443,32.378807],"type":"Point"}
+}

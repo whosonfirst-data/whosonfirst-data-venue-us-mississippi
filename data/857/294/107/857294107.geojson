@@ -1,0 +1,73 @@
+{
+  "id": 857294107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.38005,33.54688,-88.38005,33.54688",
+    "geom:latitude":33.54688,
+    "geom:longitude":-88.38005,
+    "iso:country":"US",
+    "sg:address":"925 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 1146",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VL6AXcX8VPcF7cqJjDKdh_33.546880_-88.380050@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126253,
+    "wof:geomhash":"bb0cc1bafcb883ff4b41e8492cbd889d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857294107
+        }
+    ],
+    "wof:id":857294107,
+    "wof:lastmodified":1464126253,
+    "wof:name":"Lloyd's Service Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -88.38005,
+    33.54688,
+    -88.38005,
+    33.54688
+],
+  "geometry": {"coordinates":[-88.38005,33.54688],"type":"Point"}
+}

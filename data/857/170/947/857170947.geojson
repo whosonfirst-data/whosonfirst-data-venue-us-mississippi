@@ -1,0 +1,71 @@
+{
+  "id": 857170947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.157782,32.151899,-90.157782,32.151899",
+    "geom:latitude":32.151899,
+    "geom:longitude":-90.157782,
+    "iso:country":"US",
+    "sg:address":"125 Mullican Pl",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 201 6465",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WqeVd0Y5EprnGFHBjPjPV_32.151899_-90.157782@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123606,
+    "wof:geomhash":"a2ccb3a2bbbc49b8b2c3ac297cf17adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857170947
+        }
+    ],
+    "wof:id":857170947,
+    "wof:lastmodified":1464123606,
+    "wof:name":"K & K Painting Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.157782,
+    32.151899,
+    -90.157782,
+    32.151899
+],
+  "geometry": {"coordinates":[-90.157782,32.151899],"type":"Point"}
+}

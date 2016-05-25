@@ -1,0 +1,71 @@
+{
+  "id": 857110879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795209,34.963691,-89.795209,34.963691",
+    "geom:latitude":34.963691,
+    "geom:longitude":-89.795209,
+    "iso:country":"US",
+    "sg:address":"7115 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 1824",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00yD5VAWBWcHYrJatmDkrX_34.963691_-89.795209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122196,
+    "wof:geomhash":"f8f8765040996c00a8f56d529c0e1afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857110879
+        }
+    ],
+    "wof:id":857110879,
+    "wof:lastmodified":1464122196,
+    "wof:name":"A Ok Cleaners III",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.795209,
+    34.963691,
+    -89.795209,
+    34.963691
+],
+  "geometry": {"coordinates":[-89.795209,34.963691],"type":"Point"}
+}

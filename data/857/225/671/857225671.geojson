@@ -1,0 +1,71 @@
+{
+  "id": 857225671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.371563,32.850403,-90.371563,32.850403",
+    "geom:latitude":32.850403,
+    "geom:longitude":-90.371563,
+    "iso:country":"US",
+    "sg:address":"597 Honeycutt Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7353",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qsCU9wDhnTGeXwWvkdr80_32.850403_-90.371563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124724,
+    "wof:geomhash":"1148556a07f113f70d1b7cf1721fc9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857225671
+        }
+    ],
+    "wof:id":857225671,
+    "wof:lastmodified":1464124724,
+    "wof:name":"Delta Baptist Church",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.371563,
+    32.850403,
+    -90.371563,
+    32.850403
+],
+  "geometry": {"coordinates":[-90.37156299999999,32.850403],"type":"Point"}
+}

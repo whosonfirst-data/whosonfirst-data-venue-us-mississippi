@@ -1,0 +1,71 @@
+{
+  "id": 857431961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.569991,34.361727,-89.569991,34.361727",
+    "geom:latitude":34.361727,
+    "geom:longitude":-89.569991,
+    "iso:country":"US",
+    "sg:address":"2621 W Oxford Loop",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0766",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B04BurklGyvNYmr4t3w3n_34.361727_-89.569991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129389,
+    "wof:geomhash":"6d17330a8b5ddf12bbeb5d296bac3a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857431961
+        }
+    ],
+    "wof:id":857431961,
+    "wof:lastmodified":1464129389,
+    "wof:name":"Ronald W Lewis",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.569991,
+    34.361727,
+    -89.569991,
+    34.361727
+],
+  "geometry": {"coordinates":[-89.569991,34.361727],"type":"Point"}
+}

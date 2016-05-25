@@ -1,0 +1,71 @@
+{
+  "id": 857175063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.306845,31.317365,-89.306845,31.317365",
+    "geom:latitude":31.317365,
+    "geom:longitude":-89.306845,
+    "iso:country":"US",
+    "sg:address":"1403 Adeline St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2578",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JENldU5NnfamqmeAc2Xcd_31.317365_-89.306845@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123695,
+    "wof:geomhash":"5755ce8b5d2b85a3cb5b141d335b99b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857175063
+        }
+    ],
+    "wof:id":857175063,
+    "wof:lastmodified":1464123695,
+    "wof:name":"Tom Rhea Phillips Jr DDS",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.306845,
+    31.317365,
+    -89.306845,
+    31.317365
+],
+  "geometry": {"coordinates":[-89.306845,31.317365],"type":"Point"}
+}

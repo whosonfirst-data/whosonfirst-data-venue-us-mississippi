@@ -1,0 +1,72 @@
+{
+  "id": 857480457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.557015,34.363891,-89.557015,34.363891",
+    "geom:latitude":34.363891,
+    "geom:longitude":-89.557015,
+    "iso:country":"US",
+    "sg:address":"1927 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/158008-abners-famous-chicken-tenders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3080",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3egKbnHsWGCbqRE70W7RTK_34.363891_-89.557015@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130377,
+    "wof:geomhash":"a761262ddd86eeeffcce31c186f45b9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480457
+        }
+    ],
+    "wof:id":857480457,
+    "wof:lastmodified":1464130377,
+    "wof:name":"Abner's Famous Chicken Tenders",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.557015,
+    34.363891,
+    -89.557015,
+    34.363891
+],
+  "geometry": {"coordinates":[-89.55701500000001,34.363891],"type":"Point"}
+}

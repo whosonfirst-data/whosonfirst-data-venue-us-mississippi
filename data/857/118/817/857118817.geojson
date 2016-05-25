@@ -1,0 +1,71 @@
+{
+  "id": 857118817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.33144,33.61149,-88.33144,33.61149",
+    "geom:latitude":33.61149,
+    "geom:longitude":-88.33144,
+    "iso:country":"US",
+    "sg:address":"24 Pebble Creek Dr",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 0777",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P1caOFbwESHDzY0oChPDZ_33.611490_-88.331440@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122426,
+    "wof:geomhash":"3a2fd1de4a4bd3f3ccc5ed5c4c8db743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857118817
+        }
+    ],
+    "wof:id":857118817,
+    "wof:lastmodified":1464122426,
+    "wof:name":"Christophers Photography",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -88.33144,
+    33.61149,
+    -88.33144,
+    33.61149
+],
+  "geometry": {"coordinates":[-88.33144,33.61149],"type":"Point"}
+}

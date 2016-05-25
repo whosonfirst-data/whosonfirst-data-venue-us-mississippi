@@ -1,0 +1,67 @@
+{
+  "id": 857304289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547522,30.410505,-88.547522,30.410505",
+    "geom:latitude":30.410505,
+    "geom:longitude":-88.547522,
+    "iso:country":"US",
+    "sg:address":"4630 Magnolia St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 1429",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:website":"www.mp.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JQgokvqckFruSJMFCiRoz_30.410505_-88.547522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126502,
+    "wof:geomhash":"2da6a8f98b00b79b87c5679dfd2e5e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857304289
+        }
+    ],
+    "wof:id":857304289,
+    "wof:lastmodified":1464126502,
+    "wof:name":"Magnolia Junior High School",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.547522,
+    30.410505,
+    -88.547522,
+    30.410505
+],
+  "geometry": {"coordinates":[-88.547522,30.410505],"type":"Point"}
+}

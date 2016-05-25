@@ -1,0 +1,71 @@
+{
+  "id": 857307437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.426727,33.494196,-88.426727,33.494196",
+    "geom:latitude":33.494196,
+    "geom:longitude":-88.426727,
+    "iso:country":"US",
+    "sg:address":"505 S 2nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 5844",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lkaf5E7KmgtmzZdR1jAP0_33.494196_-88.426727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126567,
+    "wof:geomhash":"d3f0527e293b534c1b7b9399a27fb23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857307437
+        }
+    ],
+    "wof:id":857307437,
+    "wof:lastmodified":1464126567,
+    "wof:name":"Lowndes County Chancery Court",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -88.426727,
+    33.494196,
+    -88.426727,
+    33.494196
+],
+  "geometry": {"coordinates":[-88.426727,33.494196],"type":"Point"}
+}

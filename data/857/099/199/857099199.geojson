@@ -1,0 +1,71 @@
+{
+  "id": 857099199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676143,33.840458,-88.676143,33.840458",
+    "geom:latitude":33.840458,
+    "geom:longitude":-88.676143,
+    "iso:country":"US",
+    "sg:address":"20257 Hwy 8 W",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6137",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sKTxTCgjNLh7FgWWkHWLP_33.840458_-88.676143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121885,
+    "wof:geomhash":"46038f1ac4116bcb587a755e461918af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857099199
+        }
+    ],
+    "wof:id":857099199,
+    "wof:lastmodified":1464121885,
+    "wof:name":"Ebernezer MB Church",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.676143,
+    33.840458,
+    -88.676143,
+    33.840458
+],
+  "geometry": {"coordinates":[-88.676143,33.840458],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857200569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.911028,30.398884,-88.911028,30.398884",
+    "geom:latitude":30.398884,
+    "geom:longitude":-88.911028,
+    "iso:country":"US",
+    "sg:address":"211 Larcher Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 436 4006",
+    "sg:postcode":"39534",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HHJZ1ci4AWH9qcwo0mKKX_30.398884_-88.911028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124186,
+    "wof:geomhash":"8640f0c7b551076b3073dcc9b8f741f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857200569
+        }
+    ],
+    "wof:id":857200569,
+    "wof:lastmodified":1464124186,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.911028,
+    30.398884,
+    -88.911028,
+    30.398884
+],
+  "geometry": {"coordinates":[-88.911028,30.398884],"type":"Point"}
+}

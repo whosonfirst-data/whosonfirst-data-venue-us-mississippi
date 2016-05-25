@@ -1,0 +1,75 @@
+{
+  "id": 857139851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.846958,32.435479,-90.846958,32.435479",
+    "geom:latitude":32.435479,
+    "geom:longitude":-90.846958,
+    "iso:country":"US",
+    "sg:address":"2000 Thompson Lake Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 630 0342",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "farm",
+        "garden",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OUreaKfFOafzjtCe3yMRi_32.435479_-90.846958@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122889,
+    "wof:geomhash":"5a46fb8ce4d7c745917c7282a2237745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857139851
+        }
+    ],
+    "wof:id":857139851,
+    "wof:lastmodified":1464122889,
+    "wof:name":"Northside Farm & Garden",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "garden",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.846958,
+    32.435479,
+    -90.846958,
+    32.435479
+],
+  "geometry": {"coordinates":[-90.846958,32.435479],"type":"Point"}
+}

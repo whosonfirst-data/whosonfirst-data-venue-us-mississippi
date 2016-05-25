@@ -1,0 +1,71 @@
+{
+  "id": 857263913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.597565,31.422848,-89.597565,31.422848",
+    "geom:latitude":31.422848,
+    "geom:longitude":-89.597565,
+    "iso:country":"US",
+    "sg:address":"33 McMahan Cutoff Rd",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 3800",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OMpKY8Xk6toccVF6zuhc3_31.422848_-89.597565@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125572,
+    "wof:geomhash":"1f6a0b9b88c387a0d0ca6b7fafb6dd61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857263913
+        }
+    ],
+    "wof:id":857263913,
+    "wof:lastmodified":1464125572,
+    "wof:name":"B W Norman Construction",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -89.597565,
+    31.422848,
+    -89.597565,
+    31.422848
+],
+  "geometry": {"coordinates":[-89.597565,31.422848],"type":"Point"}
+}

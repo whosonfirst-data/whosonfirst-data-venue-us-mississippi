@@ -1,0 +1,75 @@
+{
+  "id": 857235085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.86428,30.397859,-88.86428,30.397859",
+    "geom:latitude":30.397859,
+    "geom:longitude":-88.86428,
+    "iso:country":"US",
+    "sg:address":"201 Tchula St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 834 0721",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZoGMozsGZXGwQkjTvEE1_30.397859_-88.864280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124904,
+    "wof:geomhash":"5b3d47b6c361f78fe96486d2237138ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857235085
+        }
+    ],
+    "wof:id":857235085,
+    "wof:lastmodified":1464124904,
+    "wof:name":"Winston Speech Svc",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -88.86428,
+    30.397859,
+    -88.86428,
+    30.397859
+],
+  "geometry": {"coordinates":[-88.86427999999999,30.397859],"type":"Point"}
+}

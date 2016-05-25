@@ -1,0 +1,83 @@
+{
+  "id": 857244649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.008593,34.494075,-89.008593,34.494075",
+    "geom:latitude":34.494075,
+    "geom:longitude":-89.008593,
+    "iso:country":"US",
+    "sg:address":"141 W Bankhead St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 5203",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tour",
+        "rental",
+        "conductor"
+    ],
+    "sg:website":"www.barkleytravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G5pD8MVen2z2pby5kVDIm_34.494075_-89.008593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125126,
+    "wof:geomhash":"fa0ad8478d386623947eae7f154bf3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857244649
+        }
+    ],
+    "wof:id":857244649,
+    "wof:lastmodified":1464125126,
+    "wof:name":"Barkley Travel Service Inc",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "rental",
+        "conductor"
+    ]
+},
+  "bbox": [
+    -89.008593,
+    34.494075,
+    -89.008593,
+    34.494075
+],
+  "geometry": {"coordinates":[-89.008593,34.494075],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857200361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158204,32.341811,-90.158204,32.341811",
+    "geom:latitude":32.341811,
+    "geom:longitude":-90.158204,
+    "iso:country":"US",
+    "sg:address":"3828 I- 55 N",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 7311",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JGakRQj2MGCdGanTaM9Hb_32.341811_-90.158204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124182,
+    "wof:geomhash":"85b364113dcbbc5c85a2d3660f1210b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857200361
+        }
+    ],
+    "wof:id":857200361,
+    "wof:lastmodified":1464124182,
+    "wof:name":"Oxford Healthcare",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -90.158204,
+    32.341811,
+    -90.158204,
+    32.341811
+],
+  "geometry": {"coordinates":[-90.158204,32.341811],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857141193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.641484,33.779224,-88.641484,33.779224",
+    "geom:latitude":33.779224,
+    "geom:longitude":-88.641484,
+    "iso:country":"US",
+    "sg:address":"10175 Homestead Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7456",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M44jV09mfAedlMY9xXdRe_33.779224_-88.641484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122919,
+    "wof:geomhash":"db0662a0f37fffa166b367c4fcc18a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857141193
+        }
+    ],
+    "wof:id":857141193,
+    "wof:lastmodified":1464122919,
+    "wof:name":"Clay Brothers Trucking",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.641484,
+    33.779224,
+    -88.641484,
+    33.779224
+],
+  "geometry": {"coordinates":[-88.64148400000001,33.779224],"type":"Point"}
+}

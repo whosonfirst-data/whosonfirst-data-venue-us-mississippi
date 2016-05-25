@@ -1,0 +1,71 @@
+{
+  "id": 857249789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.349702,31.361479,-89.349702,31.361479",
+    "geom:latitude":31.361479,
+    "geom:longitude":-89.349702,
+    "iso:country":"US",
+    "sg:address":"20 Rawls Springs Loop Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2903",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553E9IJnKlobOCCiIJmvSP_31.361479_-89.349702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125237,
+    "wof:geomhash":"88b04e30170eb1f084e08499db4fcd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857249789
+        }
+    ],
+    "wof:id":857249789,
+    "wof:lastmodified":1464125237,
+    "wof:name":"Medical Systems Inc",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -89.349702,
+    31.361479,
+    -89.349702,
+    31.361479
+],
+  "geometry": {"coordinates":[-89.34970199999999,31.361479],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857293289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.182619,30.351103,-89.182619,30.351103",
+    "geom:latitude":30.351103,
+    "geom:longitude":-89.182619,
+    "iso:country":"US",
+    "sg:address":"20543 Johnson Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 1087",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_102JHbvXLD6w4LHwYF9Mxx_30.351103_-89.182619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126227,
+    "wof:geomhash":"ab2ffeacc993c45f4149249ee8e30825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857293289
+        }
+    ],
+    "wof:id":857293289,
+    "wof:lastmodified":1464126227,
+    "wof:name":"Blue Mule Ceramics",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -89.182619,
+    30.351103,
+    -89.182619,
+    30.351103
+],
+  "geometry": {"coordinates":[-89.182619,30.351103],"type":"Point"}
+}

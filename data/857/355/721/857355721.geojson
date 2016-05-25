@@ -1,0 +1,73 @@
+{
+  "id": 857355721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.837497,30.442002,-88.837497,30.442002",
+    "geom:latitude":30.442002,
+    "geom:longitude":-88.837497,
+    "iso:country":"US",
+    "sg:address":"6900 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4545",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "construction",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62t2KHv97kd9zjJZ67bIyO_30.442002_-88.837497@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127610,
+    "wof:geomhash":"2087887d926be848fe7f0080e858eaca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857355721
+        }
+    ],
+    "wof:id":857355721,
+    "wof:lastmodified":1464127610,
+    "wof:name":"Jackson County Road Dept",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.837497,
+    30.442002,
+    -88.837497,
+    30.442002
+],
+  "geometry": {"coordinates":[-88.837497,30.442002],"type":"Point"}
+}

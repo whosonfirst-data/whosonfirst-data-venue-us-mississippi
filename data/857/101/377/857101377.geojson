@@ -1,0 +1,71 @@
+{
+  "id": 857101377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.406653,31.416449,-89.406653,31.416449",
+    "geom:latitude":31.416449,
+    "geom:longitude":-89.406653,
+    "iso:country":"US",
+    "sg:address":"7760 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 3300",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wZISx3BVwGPx5pEKEb6Hh_31.416449_-89.406653@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121949,
+    "wof:geomhash":"3c4b1708e814ed989671fa7520e010ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857101377
+        }
+    ],
+    "wof:id":857101377,
+    "wof:lastmodified":1464121949,
+    "wof:name":"Apple Barn Fruit Stand",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -89.406653,
+    31.416449,
+    -89.406653,
+    31.416449
+],
+  "geometry": {"coordinates":[-89.40665300000001,31.416449],"type":"Point"}
+}

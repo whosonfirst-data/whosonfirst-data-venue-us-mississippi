@@ -1,0 +1,78 @@
+{
+  "id": 857486989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.572131,34.201824,-90.572131,34.201824",
+    "geom:latitude":34.201824,
+    "geom:longitude":-90.572131,
+    "iso:country":"US",
+    "sg:address":"222 Issaquena Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 6250",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nMJcNi7JiStt2d4lKwdBW_34.201824_-90.572131@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130502,
+    "wof:geomhash":"13511e8f718ee2f2b43e1b7555adf8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486989
+        }
+    ],
+    "wof:id":857486989,
+    "wof:lastmodified":1464130502,
+    "wof:name":"Magdovitz Agency",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.572131,
+    34.201824,
+    -90.572131,
+    34.201824
+],
+  "geometry": {"coordinates":[-90.572131,34.201824],"type":"Point"}
+}

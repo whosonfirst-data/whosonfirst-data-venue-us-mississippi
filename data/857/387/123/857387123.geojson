@@ -1,0 +1,75 @@
+{
+  "id": 857387123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.330507,32.340283,-90.330507,32.340283",
+    "geom:latitude":32.340283,
+    "geom:longitude":-90.330507,
+    "iso:country":"US",
+    "sg:address":"106 W Leake St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 926 1181",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75isxielNOafM6lasWAx8q_32.340283_-90.330507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128364,
+    "wof:geomhash":"e228c34bb4acc5e72da51dc7c91daf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857387123
+        }
+    ],
+    "wof:id":857387123,
+    "wof:lastmodified":1464128364,
+    "wof:name":"Home Instead Senior Care",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.330507,
+    32.340283,
+    -90.330507,
+    32.340283
+],
+  "geometry": {"coordinates":[-90.330507,32.340283],"type":"Point"}
+}

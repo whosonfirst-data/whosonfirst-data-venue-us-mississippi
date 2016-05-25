@@ -1,0 +1,71 @@
+{
+  "id": 857200861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.325819,32.32621,-90.325819,32.32621",
+    "geom:latitude":32.32621,
+    "geom:longitude":-90.325819,
+    "iso:country":"US",
+    "sg:address":"509 Springridge Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 9779",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D8NFCph2T02OlpW9xfKIP_32.326210_-90.325819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124191,
+    "wof:geomhash":"b677446f05056a9e45e40a889cc337a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857200861
+        }
+    ],
+    "wof:id":857200861,
+    "wof:lastmodified":1464124191,
+    "wof:name":"Transitions",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.325819,
+    32.32621,
+    -90.325819,
+    32.32621
+],
+  "geometry": {"coordinates":[-90.325819,32.32621],"type":"Point"}
+}

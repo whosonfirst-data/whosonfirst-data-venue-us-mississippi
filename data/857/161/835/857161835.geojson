@@ -1,0 +1,71 @@
+{
+  "id": 857161835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680894,32.393891,-88.680894,32.393891",
+    "geom:latitude":32.393891,
+    "geom:longitude":-88.680894,
+    "iso:country":"US",
+    "sg:address":"3500 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 553 0555",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vYvaPlCqpdfUix4JDCrr0_32.393891_-88.680894@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123400,
+    "wof:geomhash":"3ead53f508472d7d7564e8a04c0a44a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857161835
+        }
+    ],
+    "wof:id":857161835,
+    "wof:lastmodified":1464123400,
+    "wof:name":"Graham Enterprises Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -88.680894,
+    32.393891,
+    -88.680894,
+    32.393891
+],
+  "geometry": {"coordinates":[-88.680894,32.393891],"type":"Point"}
+}

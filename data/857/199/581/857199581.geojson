@@ -1,0 +1,76 @@
+{
+  "id": 857199581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.162347,32.400172,-90.162347,32.400172",
+    "geom:latitude":32.400172,
+    "geom:longitude":-90.162347,
+    "iso:country":"US",
+    "sg:address":"1001 W County Line Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 991 9733",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "sales"
+    ],
+    "sg:website":"www.cars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85837513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TT6UubEDjMq1ewkQO6Pg4_32.400172_-90.162347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124167,
+    "wof:geomhash":"572f808bfdc4a72d019adfc2fc753911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85837513,
+            "region_id":85688579,
+            "venue_id":857199581
+        }
+    ],
+    "wof:id":857199581,
+    "wof:lastmodified":1464124167,
+    "wof:name":"Direct Rental Car Sales LLC",
+    "wof:parent_id":85837513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "sales"
+    ]
+},
+  "bbox": [
+    -90.162347,
+    32.400172,
+    -90.162347,
+    32.400172
+],
+  "geometry": {"coordinates":[-90.162347,32.400172],"type":"Point"}
+}

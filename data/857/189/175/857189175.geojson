@@ -1,0 +1,71 @@
+{
+  "id": 857189175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.251829,30.323665,-89.251829,30.323665",
+    "geom:latitude":30.323665,
+    "geom:longitude":-89.251829,
+    "iso:country":"US",
+    "sg:address":"322 Clark Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 7105",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aymrItv2obyvXRHDJ1XGZ_30.323665_-89.251829@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123973,
+    "wof:geomhash":"23d345038a225cc3e4f5d74fc3a17b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857189175
+        }
+    ],
+    "wof:id":857189175,
+    "wof:lastmodified":1464123973,
+    "wof:name":"St Paul United Methodist Chr",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.251829,
+    30.323665,
+    -89.251829,
+    30.323665
+],
+  "geometry": {"coordinates":[-89.251829,30.323665],"type":"Point"}
+}

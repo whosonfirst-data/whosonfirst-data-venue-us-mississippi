@@ -1,0 +1,71 @@
+{
+  "id": 857386627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.290553,31.325636,-89.290553,31.325636",
+    "geom:latitude":31.325636,
+    "geom:longitude":-89.290553,
+    "iso:country":"US",
+    "sg:address":"100 W Front St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 9782",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Oy7F6lUoWinUBDP6kYFFF_31.325636_-89.290553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128348,
+    "wof:geomhash":"09d3973a235d5b286fa8146f4e4c3947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857386627
+        }
+    ],
+    "wof:id":857386627,
+    "wof:lastmodified":1464128348,
+    "wof:name":"Hattiesburg Family Health Ctr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.290553,
+    31.325636,
+    -89.290553,
+    31.325636
+],
+  "geometry": {"coordinates":[-89.290553,31.325636],"type":"Point"}
+}

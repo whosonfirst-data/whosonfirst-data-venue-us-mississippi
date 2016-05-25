@@ -1,0 +1,72 @@
+{
+  "id": 857131325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.790721,34.991599,-89.790721,34.991599",
+    "geom:latitude":34.991599,
+    "geom:longitude":-89.790721,
+    "iso:country":"US",
+    "sg:address":"11200 Wildwood Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4055",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mfg"
+    ],
+    "sg:website":"www.americanplastictoys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IBQf5Dj4sYC0VQeOEGzzY_34.991599_-89.790721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122707,
+    "wof:geomhash":"d2dd4775966733314457928ac6775b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857131325
+        }
+    ],
+    "wof:id":857131325,
+    "wof:lastmodified":1464122707,
+    "wof:name":"American Plastic Toys Inc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.790721,
+    34.991599,
+    -89.790721,
+    34.991599
+],
+  "geometry": {"coordinates":[-89.790721,34.991599],"type":"Point"}
+}

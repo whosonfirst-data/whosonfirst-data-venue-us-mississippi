@@ -1,0 +1,73 @@
+{
+  "id": 857262175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56373,34.185568,-90.56373,34.185568",
+    "geom:latitude":34.185568,
+    "geom:longitude":-90.56373,
+    "iso:country":"US",
+    "sg:address":"1900 W Tallahatchie St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8425",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604VroyxRasy1EZLV0751A_34.185568_-90.563730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125539,
+    "wof:geomhash":"c2b1c837243b8cda27b5943a94dc8f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857262175
+        }
+    ],
+    "wof:id":857262175,
+    "wof:lastmodified":1464125539,
+    "wof:name":"Public Utilities Distribution",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -90.56373,
+    34.185568,
+    -90.56373,
+    34.185568
+],
+  "geometry": {"coordinates":[-90.56373000000001,34.185568],"type":"Point"}
+}

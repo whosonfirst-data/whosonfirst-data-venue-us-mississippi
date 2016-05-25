@@ -1,0 +1,71 @@
+{
+  "id": 857294735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.506674,34.412236,-89.506674,34.412236",
+    "geom:latitude":34.412236,
+    "geom:longitude":-89.506674,
+    "iso:country":"US",
+    "sg:address":"123 Co Rd 181",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 6231",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RI3p1OA2vp1zQmxLtR1gx_34.412236_-89.506674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126282,
+    "wof:geomhash":"d40f513c0332647a9823347230fb3483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857294735
+        }
+    ],
+    "wof:id":857294735,
+    "wof:lastmodified":1464126282,
+    "wof:name":"Garner Landscaping LLC",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.506674,
+    34.412236,
+    -89.506674,
+    34.412236
+],
+  "geometry": {"coordinates":[-89.506674,34.412236],"type":"Point"}
+}

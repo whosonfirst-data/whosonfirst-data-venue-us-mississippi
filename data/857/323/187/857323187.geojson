@@ -1,0 +1,76 @@
+{
+  "id": 857323187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684957,34.252867,-88.684957,34.252867",
+    "geom:latitude":34.252867,
+    "geom:longitude":-88.684957,
+    "iso:country":"US",
+    "sg:address":"252 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 3008",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JzvjEHe0AF8kVxV0sjKFO_34.252867_-88.684957@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126916,
+    "wof:geomhash":"fb42aeaae8c217c3d7d313abfc6c002a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857323187
+        }
+    ],
+    "wof:id":857323187,
+    "wof:lastmodified":1464126916,
+    "wof:name":"Youth Villages",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -88.684957,
+    34.252867,
+    -88.684957,
+    34.252867
+],
+  "geometry": {"coordinates":[-88.684957,34.252867],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857120143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807378,30.416185,-88.807378,30.416185",
+    "geom:latitude":30.416185,
+    "geom:longitude":-88.807378,
+    "iso:country":"US",
+    "sg:address":"1005 Thorn St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 9984",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oVY2sWJDNKdj7eu26Hp0k_30.416185_-88.807378@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122452,
+    "wof:geomhash":"85ba3c509a5cfaf9c729e31937d5f4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857120143
+        }
+    ],
+    "wof:id":857120143,
+    "wof:lastmodified":1464122452,
+    "wof:name":"Lynchburg Landing",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.807378,
+    30.416185,
+    -88.807378,
+    30.416185
+],
+  "geometry": {"coordinates":[-88.807378,30.416185],"type":"Point"}
+}

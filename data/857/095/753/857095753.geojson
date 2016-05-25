@@ -1,0 +1,77 @@
+{
+  "id": 857095753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.143301,32.224274,-90.143301,32.224274",
+    "geom:latitude":32.224274,
+    "geom:longitude":-90.143301,
+    "iso:country":"US",
+    "sg:address":"151 Helm St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 2710",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "mobile",
+        "trucking",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TqdjRRWSQ2uLn1JgWolPm_32.224274_-90.143301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121807,
+    "wof:geomhash":"6d22e07d5130ed57a94c39dc8491c5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857095753
+        }
+    ],
+    "wof:id":857095753,
+    "wof:lastmodified":1464121807,
+    "wof:name":"Hearn Mobile Home Transporters",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "mobile",
+        "trucking",
+        "home"
+    ]
+},
+  "bbox": [
+    -90.143301,
+    32.224274,
+    -90.143301,
+    32.224274
+],
+  "geometry": {"coordinates":[-90.14330099999999,32.224274],"type":"Point"}
+}

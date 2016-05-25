@@ -1,0 +1,73 @@
+{
+  "id": 857241781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.68899,34.230648,-89.68899,34.230648",
+    "geom:latitude":34.230648,
+    "geom:longitude":-89.68899,
+    "iso:country":"US",
+    "sg:address":"1107 State Hwy 328",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3427",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16mfccxXieYCwi6WiVRGjA_34.230648_-89.688990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125053,
+    "wof:geomhash":"125f0648952b3b8872b89ab9fcfd2ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857241781
+        }
+    ],
+    "wof:id":857241781,
+    "wof:lastmodified":1464125053,
+    "wof:name":"Goolsbys Mobile Home Service",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.68899,
+    34.230648,
+    -89.68899,
+    34.230648
+],
+  "geometry": {"coordinates":[-89.68899,34.230648],"type":"Point"}
+}

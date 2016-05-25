@@ -1,0 +1,75 @@
+{
+  "id": 857470403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.161332,30.359827,-89.161332,30.359827",
+    "geom:latitude":30.359827,
+    "geom:longitude":-89.161332,
+    "iso:country":"US",
+    "sg:address":"19142 Pineville Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 0085",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7klZ6ul6UEyqpAjO7TyaOP_30.359827_-89.161332@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130178,
+    "wof:geomhash":"e81ffbd49a7af23dc6c8b14dfcfe1db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857470403
+        }
+    ],
+    "wof:id":857470403,
+    "wof:lastmodified":1464130178,
+    "wof:name":"Gulf Coast Plumbing Heating",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.161332,
+    30.359827,
+    -89.161332,
+    30.359827
+],
+  "geometry": {"coordinates":[-89.161332,30.359827],"type":"Point"}
+}

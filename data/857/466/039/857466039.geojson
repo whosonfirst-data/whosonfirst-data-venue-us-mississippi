@@ -1,0 +1,71 @@
+{
+  "id": 857466039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.121577,32.187328,-90.121577,32.187328",
+    "geom:latitude":32.187328,
+    "geom:longitude":-90.121577,
+    "iso:country":"US",
+    "sg:address":"180 Dogwood Ln S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 3912",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TqLrkQL0r9gvToQSR0lbJ_32.187328_-90.121577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130089,
+    "wof:geomhash":"94471a99b10f465650803eb6f075a7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857466039
+        }
+    ],
+    "wof:id":857466039,
+    "wof:lastmodified":1464130089,
+    "wof:name":"Clark Plumbing Service Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.121577,
+    32.187328,
+    -90.121577,
+    32.187328
+],
+  "geometry": {"coordinates":[-90.121577,32.187328],"type":"Point"}
+}

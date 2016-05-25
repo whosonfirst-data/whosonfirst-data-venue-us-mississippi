@@ -1,0 +1,75 @@
+{
+  "id": 857235713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.512049,30.469442,-88.512049,30.469442",
+    "geom:latitude":30.469442,
+    "geom:longitude":-88.512049,
+    "iso:country":"US",
+    "sg:address":"6109 Kings Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 4413",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ID95XZLpSSOQAvbYNFgN_30.469442_-88.512049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124917,
+    "wof:geomhash":"d518fa163dca76dd5e5abfb430daabca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857235713
+        }
+    ],
+    "wof:id":857235713,
+    "wof:lastmodified":1464124917,
+    "wof:name":"Jordan 's Body Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.512049,
+    30.469442,
+    -88.512049,
+    30.469442
+],
+  "geometry": {"coordinates":[-88.512049,30.469442],"type":"Point"}
+}

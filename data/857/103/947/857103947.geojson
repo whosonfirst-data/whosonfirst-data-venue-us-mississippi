@@ -1,0 +1,74 @@
+{
+  "id": 857103947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.803778,33.458197,-88.803778,33.458197",
+    "geom:latitude":33.458197,
+    "geom:longitude":-88.803778,
+    "iso:country":"US",
+    "sg:address":"105 Mill St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 325 2545",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.property.msstate.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wCNKNoUdtvzRlH4U2mo5c_33.458197_-88.803778@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122005,
+    "wof:geomhash":"3c304ba42174dc1c4ee1fc3baff87f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857103947
+        }
+    ],
+    "wof:id":857103947,
+    "wof:lastmodified":1464122005,
+    "wof:name":"Ms State University",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.803778,
+    33.458197,
+    -88.803778,
+    33.458197
+],
+  "geometry": {"coordinates":[-88.80377799999999,33.458197],"type":"Point"}
+}

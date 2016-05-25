@@ -1,0 +1,75 @@
+{
+  "id": 857114093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.088814,32.339324,-90.088814,32.339324",
+    "geom:latitude":32.339324,
+    "geom:longitude":-90.088814,
+    "iso:country":"US",
+    "sg:address":"4290 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 0083",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85831643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IXlxJcuNQHG7eNAK60BdS_32.339324_-90.088814@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122291,
+    "wof:geomhash":"5106393b0753e5e347a9940f7621792a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85831643,
+            "region_id":85688579,
+            "venue_id":857114093
+        }
+    ],
+    "wof:id":857114093,
+    "wof:lastmodified":1464122291,
+    "wof:name":"Family Medical Clinic-Jackson",
+    "wof:parent_id":85831643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.088814,
+    32.339324,
+    -90.088814,
+    32.339324
+],
+  "geometry": {"coordinates":[-90.088814,32.339324],"type":"Point"}
+}

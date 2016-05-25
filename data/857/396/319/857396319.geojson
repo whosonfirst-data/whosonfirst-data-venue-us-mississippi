@@ -1,0 +1,71 @@
+{
+  "id": 857396319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536021,30.391491,-88.536021,30.391491",
+    "geom:latitude":30.391491,
+    "geom:longitude":-88.536021,
+    "iso:country":"US",
+    "sg:address":"3501 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 6111",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Eam7ab67Z1cbFKQA2sN8B_30.391491_-88.536021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128554,
+    "wof:geomhash":"8cd685e1c88f7eea9a8553c8b39e8b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857396319
+        }
+    ],
+    "wof:id":857396319,
+    "wof:lastmodified":1464128554,
+    "wof:name":"Miles Janice L Do",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.536021,
+    30.391491,
+    -88.536021,
+    30.391491
+],
+  "geometry": {"coordinates":[-88.53602100000001,30.391491],"type":"Point"}
+}

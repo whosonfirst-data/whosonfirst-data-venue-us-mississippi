@@ -1,0 +1,71 @@
+{
+  "id": 857209197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42907,33.5267,-88.42907,33.5267",
+    "geom:latitude":33.5267,
+    "geom:longitude":-88.42907,
+    "iso:country":"US",
+    "sg:address":"2520 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 4673",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0htdtuojMFueR3X2uA0C5a_33.526700_-88.429070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124373,
+    "wof:geomhash":"0733bdc2641d019b8ad3a3726e324e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857209197
+        }
+    ],
+    "wof:id":857209197,
+    "wof:lastmodified":1464124373,
+    "wof:name":"Robert H Jones Jr M D",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.42907,
+    33.5267,
+    -88.42907,
+    33.5267
+],
+  "geometry": {"coordinates":[-88.42907,33.5267],"type":"Point"}
+}

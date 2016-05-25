@@ -1,0 +1,68 @@
+{
+  "id": 857315443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.228517,32.305492,-90.228517,32.305492",
+    "geom:latitude":32.305492,
+    "geom:longitude":-90.228517,
+    "iso:country":"US",
+    "sg:address":"2540 Robinson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 4014",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_310E3QfPn3H3a6qW9FNDfj_32.305492_-90.228517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126731,
+    "wof:geomhash":"3d865fcb09d1d9782341f16801e4247f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857315443
+        }
+    ],
+    "wof:id":857315443,
+    "wof:lastmodified":1464126731,
+    "wof:name":"Super D Drugs",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.228517,
+    32.305492,
+    -90.228517,
+    32.305492
+],
+  "geometry": {"coordinates":[-90.228517,32.305492],"type":"Point"}
+}

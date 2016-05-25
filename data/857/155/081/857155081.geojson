@@ -1,0 +1,71 @@
+{
+  "id": 857155081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.768,32.39374,-90.768,32.39374",
+    "geom:latitude":32.39374,
+    "geom:longitude":-90.768,
+    "iso:country":"US",
+    "sg:address":"501 Fairways Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 629 6300",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EMOKimV7hVkk8UmxCXIMF_32.393740_-90.768000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123249,
+    "wof:geomhash":"57e7275de4b1907eec00976286c8528b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857155081
+        }
+    ],
+    "wof:id":857155081,
+    "wof:lastmodified":1464123249,
+    "wof:name":"Landings At Openwood",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.768,
+    32.39374,
+    -90.768,
+    32.39374
+],
+  "geometry": {"coordinates":[-90.768,32.39374],"type":"Point"}
+}

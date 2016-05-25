@@ -1,0 +1,71 @@
+{
+  "id": 857112707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695736,32.370635,-88.695736,32.370635",
+    "geom:latitude":32.370635,
+    "geom:longitude":-88.695736,
+    "iso:country":"US",
+    "sg:address":"1600 14th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 2355",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DbarLv3HBaDorF8NkKNY9_32.370635_-88.695736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122246,
+    "wof:geomhash":"909dc02e05229124ed188b92b27f6496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857112707
+        }
+    ],
+    "wof:id":857112707,
+    "wof:lastmodified":1464122246,
+    "wof:name":"CenturyTel",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -88.695736,
+    32.370635,
+    -88.695736,
+    32.370635
+],
+  "geometry": {"coordinates":[-88.695736,32.370635],"type":"Point"}
+}

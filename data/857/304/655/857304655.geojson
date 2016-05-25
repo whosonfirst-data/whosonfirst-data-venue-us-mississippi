@@ -1,0 +1,73 @@
+{
+  "id": 857304655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.813463,34.115217,-88.813463,34.115217",
+    "geom:latitude":34.115217,
+    "geom:longitude":-88.813463,
+    "iso:country":"US",
+    "sg:address":"124 Dr 61",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 3664",
+    "sg:postcode":"38860",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QQqxEvEHR2aBpcpgNcaEi_34.115217_-88.813463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126510,
+    "wof:geomhash":"106fc4ca9c9f41a9c4ba9d655ee8f940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857304655
+        }
+    ],
+    "wof:id":857304655,
+    "wof:lastmodified":1464126510,
+    "wof:name":"Dean Perrin",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.813463,
+    34.115217,
+    -88.813463,
+    34.115217
+],
+  "geometry": {"coordinates":[-88.813463,34.115217],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857339277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553998,34.190459,-90.553998,34.190459",
+    "geom:latitude":34.190459,
+    "geom:longitude":-90.553998,
+    "iso:country":"US",
+    "sg:address":"1120 Ritchie Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 1493",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o76vRs4BI1S6wnLQmamNO_34.190459_-90.553998@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127256,
+    "wof:geomhash":"1097d1ff3af96c5c212b3e994e571ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857339277
+        }
+    ],
+    "wof:id":857339277,
+    "wof:lastmodified":1464127256,
+    "wof:name":"Keenum & Keenum",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.553998,
+    34.190459,
+    -90.553998,
+    34.190459
+],
+  "geometry": {"coordinates":[-90.55399800000001,34.190459],"type":"Point"}
+}

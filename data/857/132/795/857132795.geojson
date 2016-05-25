@@ -1,0 +1,77 @@
+{
+  "id": 857132795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.5203,30.364654,-88.5203,30.364654",
+    "geom:latitude":30.364654,
+    "geom:longitude":-88.5203,
+    "iso:country":"US",
+    "sg:address":"3011 Doby St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3498",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64bsFS9M02iMfC6wc594v2_30.364654_-88.520300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122737,
+    "wof:geomhash":"1a72d7c78c073dc0089b123de1ffea4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857132795
+        }
+    ],
+    "wof:id":857132795,
+    "wof:lastmodified":1464122737,
+    "wof:name":"Rufus E Hill",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.5203,
+    30.364654,
+    -88.5203,
+    30.364654
+],
+  "geometry": {"coordinates":[-88.52030000000001,30.364654],"type":"Point"}
+}

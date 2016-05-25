@@ -1,0 +1,71 @@
+{
+  "id": 857309277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512612,34.363153,-89.512612,34.363153",
+    "geom:latitude":34.363153,
+    "geom:longitude":-89.512612,
+    "iso:country":"US",
+    "sg:address":"1731 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1723",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mGaG6Tzu9ONMebghCA7ir_34.363153_-89.512612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126605,
+    "wof:geomhash":"e1ff20b8e36ad811e25ff920e7d61d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857309277
+        }
+    ],
+    "wof:id":857309277,
+    "wof:lastmodified":1464126605,
+    "wof:name":"Don & Dale's Barber Shop",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.512612,
+    34.363153,
+    -89.512612,
+    34.363153
+],
+  "geometry": {"coordinates":[-89.512612,34.363153],"type":"Point"}
+}

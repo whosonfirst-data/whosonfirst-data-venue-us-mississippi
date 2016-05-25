@@ -1,0 +1,71 @@
+{
+  "id": 857450785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.129639,32.209662,-90.129639,32.209662",
+    "geom:latitude":32.209662,
+    "geom:longitude":-90.129639,
+    "iso:country":"US",
+    "sg:address":"1164 Old Pearson Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 1265",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kAJxby3ml2DKhKStTj4Wj_32.209662_-90.129639@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129779,
+    "wof:geomhash":"22570387959407f382cb4d8bd758a7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857450785
+        }
+    ],
+    "wof:id":857450785,
+    "wof:lastmodified":1464129779,
+    "wof:name":"Hicks Towing Service",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.129639,
+    32.209662,
+    -90.129639,
+    32.209662
+],
+  "geometry": {"coordinates":[-90.129639,32.209662],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857438527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.777006,30.401019,-88.777006,30.401019",
+    "geom:latitude":30.401019,
+    "geom:longitude":-88.777006,
+    "iso:country":"US",
+    "sg:address":"903 Magnolia Bayou Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5479",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F68DYBeYPlr2Qm2wJZ4dQ_30.401019_-88.777006@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129537,
+    "wof:geomhash":"053cca5d9f1b64f70f4bbf4aa4b54b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857438527
+        }
+    ],
+    "wof:id":857438527,
+    "wof:lastmodified":1464129537,
+    "wof:name":"Colonial Builders",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.777006,
+    30.401019,
+    -88.777006,
+    30.401019
+],
+  "geometry": {"coordinates":[-88.777006,30.401019],"type":"Point"}
+}

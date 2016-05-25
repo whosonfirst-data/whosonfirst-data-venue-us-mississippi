@@ -1,0 +1,71 @@
+{
+  "id": 857152465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.277714,31.263201,-89.277714,31.263201",
+    "geom:latitude":31.263201,
+    "geom:longitude":-89.277714,
+    "iso:country":"US",
+    "sg:address":"52 S Hills Dr",
+    "sg:city":"Collins",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 765 1006",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yK0Z6C7H2yLuY7DcsUHp7_31.263201_-89.277714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123194,
+    "wof:geomhash":"034fe8ab2ee7da8814f3963ce00b66dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857152465
+        }
+    ],
+    "wof:id":857152465,
+    "wof:lastmodified":1464123194,
+    "wof:name":"Sims Trucking",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.277714,
+    31.263201,
+    -89.277714,
+    31.263201
+],
+  "geometry": {"coordinates":[-89.277714,31.263201],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857346323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830322,34.961927,-89.830322,34.961927",
+    "geom:latitude":34.961927,
+    "geom:longitude":-89.830322,
+    "iso:country":"US",
+    "sg:address":"9176 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 9676",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77xOcOhSbsdPPZXh5plz4p_34.961927_-89.830322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127402,
+    "wof:geomhash":"0c6c28a84391d1cac201cb037a6a8bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857346323
+        }
+    ],
+    "wof:id":857346323,
+    "wof:lastmodified":1464127402,
+    "wof:name":"Precision Transmissions",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.830322,
+    34.961927,
+    -89.830322,
+    34.961927
+],
+  "geometry": {"coordinates":[-89.830322,34.961927],"type":"Point"}
+}

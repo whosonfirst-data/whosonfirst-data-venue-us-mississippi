@@ -1,0 +1,75 @@
+{
+  "id": 857462197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437172,33.531248,-88.437172,33.531248",
+    "geom:latitude":33.531248,
+    "geom:longitude":-88.437172,
+    "iso:country":"US",
+    "sg:address":"1909 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 245 0452",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29749mYiVcPifGpJ4Ic0JW_33.531248_-88.437172@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129993,
+    "wof:geomhash":"355650e8e6b26c1240d8b5d9280e0629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857462197
+        }
+    ],
+    "wof:id":857462197,
+    "wof:lastmodified":1464129993,
+    "wof:name":"Sassy Pups",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.437172,
+    33.531248,
+    -88.437172,
+    33.531248
+],
+  "geometry": {"coordinates":[-88.437172,33.531248],"type":"Point"}
+}

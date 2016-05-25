@@ -1,0 +1,72 @@
+{
+  "id": 857290237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.545392,30.34904,-88.545392,30.34904",
+    "geom:latitude":30.34904,
+    "geom:longitude":-88.545392,
+    "iso:country":"US",
+    "sg:address":"1823 Parsley Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0411",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.mitchellcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CE18XTpH1QDJFA1fkAX2K_30.349040_-88.545392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126153,
+    "wof:geomhash":"593a152a20b3dbdbceb299e75e9918ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857290237
+        }
+    ],
+    "wof:id":857290237,
+    "wof:lastmodified":1464126153,
+    "wof:name":"Colonial Manor Apartments",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.545392,
+    30.34904,
+    -88.545392,
+    30.34904
+],
+  "geometry": {"coordinates":[-88.54539200000001,30.34904],"type":"Point"}
+}

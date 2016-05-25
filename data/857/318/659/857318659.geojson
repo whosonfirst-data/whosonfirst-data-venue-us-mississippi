@@ -1,0 +1,75 @@
+{
+  "id": 857318659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.955889,30.400734,-88.955889,30.400734",
+    "geom:latitude":30.400734,
+    "geom:longitude":-88.955889,
+    "iso:country":"US",
+    "sg:address":"2020 Lawrence Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 7829",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NNDDrW4z9dcgsgX5Cm9xq_30.400734_-88.955889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126824,
+    "wof:geomhash":"112b26d8f38d5de09d0ee94f84f7803b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857318659
+        }
+    ],
+    "wof:id":857318659,
+    "wof:lastmodified":1464126824,
+    "wof:name":"Elmwood Apartments",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.955889,
+    30.400734,
+    -88.955889,
+    30.400734
+],
+  "geometry": {"coordinates":[-88.955889,30.400734],"type":"Point"}
+}

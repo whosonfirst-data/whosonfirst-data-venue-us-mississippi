@@ -1,0 +1,71 @@
+{
+  "id": 857127531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.718449,34.217797,-88.718449,34.217797",
+    "geom:latitude":34.217797,
+    "geom:longitude":-88.718449,
+    "iso:country":"US",
+    "sg:address":"751 Rex Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 9710",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DTFInGAq5slV9maz49WJ_34.217797_-88.718449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122618,
+    "wof:geomhash":"beda40b8e44b2081411e0aacb6b1e3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857127531
+        }
+    ],
+    "wof:id":857127531,
+    "wof:lastmodified":1464122618,
+    "wof:name":"Qore",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.718449,
+    34.217797,
+    -88.718449,
+    34.217797
+],
+  "geometry": {"coordinates":[-88.71844900000001,34.217797],"type":"Point"}
+}

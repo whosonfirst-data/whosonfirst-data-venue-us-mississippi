@@ -1,0 +1,75 @@
+{
+  "id": 857270885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.674478,30.500914,-88.674478,30.500914",
+    "geom:latitude":30.500914,
+    "geom:longitude":-88.674478,
+    "iso:country":"US",
+    "sg:address":"4240 Twisted Run Ln",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 3060",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mhjh65x0afoqMZwIY047t_30.500914_-88.674478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125703,
+    "wof:geomhash":"0d8d167859ebb02fc9fd8ceab7030273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857270885
+        }
+    ],
+    "wof:id":857270885,
+    "wof:lastmodified":1464125703,
+    "wof:name":"Dream Clean",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -88.674478,
+    30.500914,
+    -88.674478,
+    30.500914
+],
+  "geometry": {"coordinates":[-88.67447799999999,30.500914],"type":"Point"}
+}

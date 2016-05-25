@@ -1,0 +1,77 @@
+{
+  "id": 857438617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.717501,30.443849,-88.717501,30.443849",
+    "geom:latitude":30.443849,
+    "geom:longitude":-88.717501,
+    "iso:country":"US",
+    "sg:address":"7900 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5426",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocery",
+        "drink",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OfPQsF36OKrKmonS6mo3z_30.443849_-88.717501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129540,
+    "wof:geomhash":"a828da20b95b53fd17f2362263e9c4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857438617
+        }
+    ],
+    "wof:id":857438617,
+    "wof:lastmodified":1464129540,
+    "wof:name":"Coca-Cola",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "drink",
+        "soft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.717501,
+    30.443849,
+    -88.717501,
+    30.443849
+],
+  "geometry": {"coordinates":[-88.717501,30.443849],"type":"Point"}
+}

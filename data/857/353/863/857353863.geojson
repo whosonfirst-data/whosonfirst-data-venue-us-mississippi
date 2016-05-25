@@ -1,0 +1,71 @@
+{
+  "id": 857353863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.687272,34.403883,-88.687272,34.403883",
+    "geom:latitude":34.403883,
+    "geom:longitude":-88.687272,
+    "iso:country":"US",
+    "sg:address":"114 Hill Dr",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 5410",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73r4rOtLQbP2Rmr326S5CL_34.403883_-88.687272@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127571,
+    "wof:geomhash":"909ac859d751c07613ad58c15c3cb84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857353863
+        }
+    ],
+    "wof:id":857353863,
+    "wof:lastmodified":1464127571,
+    "wof:name":"Roberts Welding",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.687272,
+    34.403883,
+    -88.687272,
+    34.403883
+],
+  "geometry": {"coordinates":[-88.68727199999999,34.403883],"type":"Point"}
+}

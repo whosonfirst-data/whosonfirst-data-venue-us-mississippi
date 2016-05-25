@@ -1,0 +1,66 @@
+{
+  "id": 857468613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302987,31.321862,-89.302987,31.321862",
+    "geom:latitude":31.321862,
+    "geom:longitude":-89.302987,
+    "iso:country":"US",
+    "sg:address":"301 Mamie St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 6283",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R2tYKPxZ3FRjg8Ok2ZQkK_31.321862_-89.302987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130140,
+    "wof:geomhash":"43d6ad937c6399c9e0e30903b9f9742e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857468613
+        }
+    ],
+    "wof:id":857468613,
+    "wof:lastmodified":1464130140,
+    "wof:name":"Hattiesburg Public School Dist",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.302987,
+    31.321862,
+    -89.302987,
+    31.321862
+],
+  "geometry": {"coordinates":[-89.302987,31.321862],"type":"Point"}
+}

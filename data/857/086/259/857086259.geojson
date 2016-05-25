@@ -1,0 +1,71 @@
+{
+  "id": 857086259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.332691,33.492625,-88.332691,33.492625",
+    "geom:latitude":33.492625,
+    "geom:longitude":-88.332691,
+    "iso:country":"US",
+    "sg:address":"5754 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 240 1919",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bJtS4ERpIwnYApiCl0uEG_33.492625_-88.332691@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121567,
+    "wof:geomhash":"5b7ed0fa213dbfe7fdff933bdff93739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857086259
+        }
+    ],
+    "wof:id":857086259,
+    "wof:lastmodified":1464121567,
+    "wof:name":"Wild Rose Hair Design & Gifts",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.332691,
+    33.492625,
+    -88.332691,
+    33.492625
+],
+  "geometry": {"coordinates":[-88.332691,33.492625],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857350817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299522,31.31165,-89.299522,31.31165",
+    "geom:latitude":31.31165,
+    "geom:longitude":-89.299522,
+    "iso:country":"US",
+    "sg:address":"407 Martin Luther King Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9752",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "eating",
+        "grocer",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UKz4shQC7EiTskHspz1IZ_31.311650_-89.299522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127503,
+    "wof:geomhash":"682e974138c2f97330dcaef3162316e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857350817
+        }
+    ],
+    "wof:id":857350817,
+    "wof:lastmodified":1464127503,
+    "wof:name":"Victoria's Grocery & Seafood",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "eating",
+        "grocer",
+        "market"
+    ]
+},
+  "bbox": [
+    -89.299522,
+    31.31165,
+    -89.299522,
+    31.31165
+],
+  "geometry": {"coordinates":[-89.299522,31.31165],"type":"Point"}
+}

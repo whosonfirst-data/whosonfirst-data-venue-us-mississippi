@@ -1,0 +1,72 @@
+{
+  "id": 857153613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428751,33.495153,-88.428751,33.495153",
+    "geom:latitude":33.495153,
+    "geom:longitude":-88.428751,
+    "iso:country":"US",
+    "sg:address":"701 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2523",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.mainstreetpres.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cSxZa7IlX0t2Hmqj9ZKn1_33.495153_-88.428751@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123218,
+    "wof:geomhash":"9490714f3eb65b0b8925fa2c2e9523f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857153613
+        }
+    ],
+    "wof:id":857153613,
+    "wof:lastmodified":1464123218,
+    "wof:name":"Main Street Presbyterian",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.428751,
+    33.495153,
+    -88.428751,
+    33.495153
+],
+  "geometry": {"coordinates":[-88.42875100000001,33.495153],"type":"Point"}
+}

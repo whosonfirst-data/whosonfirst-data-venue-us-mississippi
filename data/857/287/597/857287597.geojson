@@ -1,0 +1,71 @@
+{
+  "id": 857287597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71387,34.237985,-88.71387,34.237985",
+    "geom:latitude":34.237985,
+    "geom:longitude":-88.71387,
+    "iso:country":"US",
+    "sg:address":"1043 S Madison St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8200",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65vKxo0pWRvOrqwWxLR91L_34.237985_-88.713870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126077,
+    "wof:geomhash":"91ae56b20644803d8ce2606c6b267f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857287597
+        }
+    ],
+    "wof:id":857287597,
+    "wof:lastmodified":1464126077,
+    "wof:name":"North Ms Oral Surgery",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.71387,
+    34.237985,
+    -88.71387,
+    34.237985
+],
+  "geometry": {"coordinates":[-88.71387,34.237985],"type":"Point"}
+}

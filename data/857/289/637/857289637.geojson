@@ -1,0 +1,67 @@
+{
+  "id": 857289637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.436131,33.525502,-88.436131,33.525502",
+    "geom:latitude":33.525502,
+    "geom:longitude":-88.436131,
+    "iso:country":"US",
+    "sg:address":"1133 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4545",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:website":"www.daysinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WlnioRt08f20n8sqdqRDr_33.525502_-88.436131@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126138,
+    "wof:geomhash":"64b4cd53a2ce999612791e2d70769683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857289637
+        }
+    ],
+    "wof:id":857289637,
+    "wof:lastmodified":1464126138,
+    "wof:name":"Days Inn",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.436131,
+    33.525502,
+    -88.436131,
+    33.525502
+],
+  "geometry": {"coordinates":[-88.436131,33.525502],"type":"Point"}
+}

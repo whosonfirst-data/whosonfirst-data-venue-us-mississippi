@@ -1,0 +1,71 @@
+{
+  "id": 857344641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659139,33.606719,-88.659139,33.606719",
+    "geom:latitude":33.606719,
+    "geom:longitude":-88.659139,
+    "iso:country":"US",
+    "sg:address":"127 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9720",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCcDd0HRfcwB1fE9SRkTn_33.606719_-88.659139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127364,
+    "wof:geomhash":"79ee0f84da780c9417271c0f7a3ed392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857344641
+        }
+    ],
+    "wof:id":857344641,
+    "wof:lastmodified":1464127364,
+    "wof:name":"Cheung's Garden",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.659139,
+    33.606719,
+    -88.659139,
+    33.606719
+],
+  "geometry": {"coordinates":[-88.659139,33.606719],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857453509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659389,33.782038,-88.659389,33.782038",
+    "geom:latitude":33.782038,
+    "geom:longitude":-88.659389,
+    "iso:country":"US",
+    "sg:address":"10062 Homestead Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 5771",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "housing",
+        "low",
+        "income"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zm8kBXtJs4sPQNH5duBxG_33.782038_-88.659389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129827,
+    "wof:geomhash":"e8059a1ed31b415768b43541223f75a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857453509
+        }
+    ],
+    "wof:id":857453509,
+    "wof:lastmodified":1464129827,
+    "wof:name":"Taylor Housing Service",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "low",
+        "income"
+    ]
+},
+  "bbox": [
+    -88.659389,
+    33.782038,
+    -88.659389,
+    33.782038
+],
+  "geometry": {"coordinates":[-88.659389,33.782038],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857139877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.294889,31.115166,-89.294889,31.115166",
+    "geom:latitude":31.115166,
+    "geom:longitude":-89.294889,
+    "iso:country":"US",
+    "sg:address":"700 Churchwell Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1121",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fl22ASz0y6ymVgVYIEnEo_31.115166_-89.294889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122890,
+    "wof:geomhash":"1b73c341a8a42c7dcb34287209396c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857139877
+        }
+    ],
+    "wof:id":857139877,
+    "wof:lastmodified":1464122890,
+    "wof:name":"Mc Laurin Volunteer Fire Dept",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.294889,
+    31.115166,
+    -89.294889,
+    31.115166
+],
+  "geometry": {"coordinates":[-89.294889,31.115166],"type":"Point"}
+}

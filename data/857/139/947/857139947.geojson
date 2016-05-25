@@ -1,0 +1,71 @@
+{
+  "id": 857139947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.3251,33.457705,-88.3251,33.457705",
+    "geom:latitude":33.457705,
+    "geom:longitude":-88.3251,
+    "iso:country":"US",
+    "sg:address":"2503 New Hope Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3555",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YxbL4bOoeNANTZsnKWmBy_33.457705_-88.325100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122895,
+    "wof:geomhash":"d0114fdf054114e778310486750d4f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857139947
+        }
+    ],
+    "wof:id":857139947,
+    "wof:lastmodified":1464122895,
+    "wof:name":"New Hope United Methodist Chr",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.3251,
+    33.457705,
+    -88.3251,
+    33.457705
+],
+  "geometry": {"coordinates":[-88.32510000000001,33.457705],"type":"Point"}
+}

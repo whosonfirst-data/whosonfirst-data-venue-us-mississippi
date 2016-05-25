@@ -1,0 +1,73 @@
+{
+  "id": 857290781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064558,32.487868,-90.064558,32.487868",
+    "geom:latitude":32.487868,
+    "geom:longitude":-90.064558,
+    "iso:country":"US",
+    "sg:address":"683 N Old Canton Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 4116",
+    "sg:postcode":"39046",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U1mwWVBXXBNaTGY5Xqueh_32.487868_-90.064558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126163,
+    "wof:geomhash":"071eedbb4ad3f96fe7f12585da69d9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857290781
+        }
+    ],
+    "wof:id":857290781,
+    "wof:lastmodified":1464126163,
+    "wof:name":"Slone Electric",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.064558,
+    32.487868,
+    -90.064558,
+    32.487868
+],
+  "geometry": {"coordinates":[-90.06455800000001,32.487868],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857457525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.728593,32.36313,-88.728593,32.36313",
+    "geom:latitude":32.36313,
+    "geom:longitude":-88.728593,
+    "iso:country":"US",
+    "sg:address":"720 Hwy 19 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2261",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ckxp7FlZfrUcXl7lAatO_32.363130_-88.728593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129899,
+    "wof:geomhash":"16954007ef5c0e707993d8f6976ddf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857457525
+        }
+    ],
+    "wof:id":857457525,
+    "wof:lastmodified":1464129899,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.728593,
+    32.36313,
+    -88.728593,
+    32.36313
+],
+  "geometry": {"coordinates":[-88.728593,32.36313],"type":"Point"}
+}

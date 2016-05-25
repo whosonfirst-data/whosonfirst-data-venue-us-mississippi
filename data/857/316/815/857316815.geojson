@@ -1,0 +1,73 @@
+{
+  "id": 857316815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433066,33.508624,-88.433066,33.508624",
+    "geom:latitude":33.508624,
+    "geom:longitude":-88.433066,
+    "iso:country":"US",
+    "sg:address":"578 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 6585",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "special",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W1mBfROGCIIn28phMevaV_33.508624_-88.433066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126761,
+    "wof:geomhash":"dfcfbf0625419dbfe6b4f19ddca8ef23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857316815
+        }
+    ],
+    "wof:id":857316815,
+    "wof:lastmodified":1464126761,
+    "wof:name":"Tweetys Mini Storage",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.433066,
+    33.508624,
+    -88.433066,
+    33.508624
+],
+  "geometry": {"coordinates":[-88.433066,33.508624],"type":"Point"}
+}

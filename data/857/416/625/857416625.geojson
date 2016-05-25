@@ -1,0 +1,73 @@
+{
+  "id": 857416625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575289,34.190608,-90.575289,34.190608",
+    "geom:latitude":34.190608,
+    "geom:longitude":-90.575289,
+    "iso:country":"US",
+    "sg:address":"450 State Hwy 322",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4010",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUSL88VHLJ6bxgB5mXMSk_34.190608_-90.575289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129025,
+    "wof:geomhash":"441f4f98a3d20d22017f1b4cb00c8d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857416625
+        }
+    ],
+    "wof:id":857416625,
+    "wof:lastmodified":1464129025,
+    "wof:name":"Bridget's Mini Storage",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.575289,
+    34.190608,
+    -90.575289,
+    34.190608
+],
+  "geometry": {"coordinates":[-90.575289,34.190608],"type":"Point"}
+}

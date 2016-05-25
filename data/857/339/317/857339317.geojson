@@ -1,0 +1,71 @@
+{
+  "id": 857339317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574656,34.201647,-90.574656,34.201647",
+    "geom:latitude":34.201647,
+    "geom:longitude":-90.574656,
+    "iso:country":"US",
+    "sg:address":"250 Delta Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6061",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62GCRxnOIWjt77EF7BGMjK_34.201647_-90.574656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127257,
+    "wof:geomhash":"9c9b69e22a0a3be9b5473cd58d2f24a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857339317
+        }
+    ],
+    "wof:id":857339317,
+    "wof:lastmodified":1464127257,
+    "wof:name":"Nellie May's",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.574656,
+    34.201647,
+    -90.574656,
+    34.201647
+],
+  "geometry": {"coordinates":[-90.574656,34.201647],"type":"Point"}
+}

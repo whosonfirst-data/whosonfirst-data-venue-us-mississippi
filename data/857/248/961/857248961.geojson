@@ -1,0 +1,73 @@
+{
+  "id": 857248961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.261868,31.272189,-89.261868,31.272189",
+    "geom:latitude":31.272189,
+    "geom:longitude":-89.261868,
+    "iso:country":"US",
+    "sg:address":"35 J M Tatum Industrial Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 3529",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iMJL7K9w7CeQdQBOZvuIb_31.272189_-89.261868@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125222,
+    "wof:geomhash":"05b07881ee834bc7c9ce1d3901a212af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857248961
+        }
+    ],
+    "wof:id":857248961,
+    "wof:lastmodified":1464125222,
+    "wof:name":"Highway Safety Patrol",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -89.261868,
+    31.272189,
+    -89.261868,
+    31.272189
+],
+  "geometry": {"coordinates":[-89.26186800000001,31.272189],"type":"Point"}
+}

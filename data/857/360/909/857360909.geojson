@@ -1,0 +1,71 @@
+{
+  "id": 857360909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.664323,32.368613,-88.664323,32.368613",
+    "geom:latitude":32.368613,
+    "geom:longitude":-88.664323,
+    "iso:country":"US",
+    "sg:address":"524 Bonita Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3315",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BvKLr2US0M8eJG3j19U48_32.368613_-88.664323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127721,
+    "wof:geomhash":"c92de4fb89987686c83502199c3f5bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857360909
+        }
+    ],
+    "wof:id":857360909,
+    "wof:lastmodified":1464127721,
+    "wof:name":"Kitchin Hospitality LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.664323,
+    32.368613,
+    -88.664323,
+    32.368613
+],
+  "geometry": {"coordinates":[-88.664323,32.368613],"type":"Point"}
+}

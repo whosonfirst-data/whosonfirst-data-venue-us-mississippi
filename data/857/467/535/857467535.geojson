@@ -1,0 +1,71 @@
+{
+  "id": 857467535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.61801,32.402839,-88.61801,32.402839",
+    "geom:latitude":32.402839,
+    "geom:longitude":-88.61801,
+    "iso:country":"US",
+    "sg:address":"4519 Russell Manor Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 8554",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RPb7750OlK1YPyjbeXatW_32.402839_-88.618010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130116,
+    "wof:geomhash":"d9886448ced8acf5ad901b02a0ec8023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857467535
+        }
+    ],
+    "wof:id":857467535,
+    "wof:lastmodified":1464130116,
+    "wof:name":"Belks Boat Repair",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -88.61801,
+    32.402839,
+    -88.61801,
+    32.402839
+],
+  "geometry": {"coordinates":[-88.61801,32.402839],"type":"Point"}
+}

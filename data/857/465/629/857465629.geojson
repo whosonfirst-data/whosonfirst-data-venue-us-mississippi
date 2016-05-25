@@ -1,0 +1,75 @@
+{
+  "id": 857465629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.326037,32.318539,-90.326037,32.318539",
+    "geom:latitude":32.318539,
+    "geom:longitude":-90.326037,
+    "iso:country":"US",
+    "sg:address":"608 Springridge Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 0315",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QiKN2RH1CwBLvf13HrlYU_32.318539_-90.326037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130081,
+    "wof:geomhash":"55b2463d7e936abf59cebea3ac473561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857465629
+        }
+    ],
+    "wof:id":857465629,
+    "wof:lastmodified":1464130081,
+    "wof:name":"Potter's House Learning Ctr",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -90.326037,
+    32.318539,
+    -90.326037,
+    32.318539
+],
+  "geometry": {"coordinates":[-90.326037,32.318539],"type":"Point"}
+}

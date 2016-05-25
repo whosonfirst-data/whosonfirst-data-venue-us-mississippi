@@ -1,0 +1,75 @@
+{
+  "id": 857082939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.283634,31.190345,-89.283634,31.190345",
+    "geom:latitude":31.190345,
+    "geom:longitude":-89.283634,
+    "iso:country":"US",
+    "sg:address":"62 Camp Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8787",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q2JxkSGWxXHp6O0OTYdi1_31.190345_-89.283634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121483,
+    "wof:geomhash":"91d7e1bb423d602ad9d7a148b0a4c6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857082939
+        }
+    ],
+    "wof:id":857082939,
+    "wof:lastmodified":1464121483,
+    "wof:name":"Pampered Pet Sitting Svcs LLC",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -89.283634,
+    31.190345,
+    -89.283634,
+    31.190345
+],
+  "geometry": {"coordinates":[-89.28363400000001,31.190345],"type":"Point"}
+}

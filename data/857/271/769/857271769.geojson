@@ -1,0 +1,73 @@
+{
+  "id": 857271769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418017,33.506941,-88.418017,33.506941",
+    "geom:latitude":33.506941,
+    "geom:longitude":-88.418017,
+    "iso:country":"US",
+    "sg:address":"1402 Schoolhouse Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3141",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44UQvYbtNPWmeXHkSY25jM_33.506941_-88.418017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125721,
+    "wof:geomhash":"9edc57c963a1ce65fde063996e252de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857271769
+        }
+    ],
+    "wof:id":857271769,
+    "wof:lastmodified":1464125721,
+    "wof:name":"T K Sneed Construction Co",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.418017,
+    33.506941,
+    -88.418017,
+    33.506941
+],
+  "geometry": {"coordinates":[-88.41801700000001,33.506941],"type":"Point"}
+}

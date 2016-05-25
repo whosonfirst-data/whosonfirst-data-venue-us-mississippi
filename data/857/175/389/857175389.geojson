@@ -1,0 +1,71 @@
+{
+  "id": 857175389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.413391,32.84752,-90.413391,32.84752",
+    "geom:latitude":32.84752,
+    "geom:longitude":-90.413391,
+    "iso:country":"US",
+    "sg:address":"111 N Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3614",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cvwLE5KlorF6UJJ5gPk8a_32.847520_-90.413391@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123700,
+    "wof:geomhash":"68a1f2a0165bf179cd3d13f559b11790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857175389
+        }
+    ],
+    "wof:id":857175389,
+    "wof:lastmodified":1464123700,
+    "wof:name":"Gregory Funeral Home",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -90.413391,
+    32.84752,
+    -90.413391,
+    32.84752
+],
+  "geometry": {"coordinates":[-90.413391,32.84752],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857341811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.804381,32.312457,-89.804381,32.312457",
+    "geom:latitude":32.312457,
+    "geom:longitude":-89.804381,
+    "iso:country":"US",
+    "sg:address":"519 2nd St",
+    "sg:city":"Pelahatchie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 854 5775",
+    "sg:postcode":"39145",
+    "sg:province":"MS",
+    "sg:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VaiLPShCQRJi5uCA7WXGO_32.312457_-89.804381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127312,
+    "wof:geomhash":"127758bf2694fa1c2a3021b864d124cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857341811
+        }
+    ],
+    "wof:id":857341811,
+    "wof:lastmodified":1464127312,
+    "wof:name":"Lackey Memorial Outpatient",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ]
+},
+  "bbox": [
+    -89.804381,
+    32.312457,
+    -89.804381,
+    32.312457
+],
+  "geometry": {"coordinates":[-89.80438100000001,32.312457],"type":"Point"}
+}

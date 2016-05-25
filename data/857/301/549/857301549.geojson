@@ -1,0 +1,75 @@
+{
+  "id": 857301549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.730118,32.395918,-90.730118,32.395918",
+    "geom:latitude":32.395918,
+    "geom:longitude":-90.730118,
+    "iso:country":"US",
+    "sg:address":"4940 Freetown Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 3448",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cYRkQlL5AQmNL34HTTseW_32.395918_-90.730118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126445,
+    "wof:geomhash":"8389c131ebabd8a1ffd51828d66320ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857301549
+        }
+    ],
+    "wof:id":857301549,
+    "wof:lastmodified":1464126445,
+    "wof:name":"Petro-HUNT LLC",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -90.730118,
+    32.395918,
+    -90.730118,
+    32.395918
+],
+  "geometry": {"coordinates":[-90.730118,32.395918],"type":"Point"}
+}

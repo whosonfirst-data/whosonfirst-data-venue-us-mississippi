@@ -1,0 +1,71 @@
+{
+  "id": 857455917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568052,30.652156,-88.568052,30.652156",
+    "geom:latitude":30.652156,
+    "geom:longitude":-88.568052,
+    "iso:country":"US",
+    "sg:address":"21313 Clifford Johnson Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 588 3403",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aVar5NEOy8UoTAc2iQCCU_30.652156_-88.568052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129871,
+    "wof:geomhash":"521a24401ae0f4efe37758a94dbde72d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857455917
+        }
+    ],
+    "wof:id":857455917,
+    "wof:lastmodified":1464129871,
+    "wof:name":"Johnson Transportation",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.568052,
+    30.652156,
+    -88.568052,
+    30.652156
+],
+  "geometry": {"coordinates":[-88.56805199999999,30.652156],"type":"Point"}
+}

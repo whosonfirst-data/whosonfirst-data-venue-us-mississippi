@@ -1,0 +1,68 @@
+{
+  "id": 857096493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.010346,30.401109,-89.010346,30.401109",
+    "geom:latitude":30.401109,
+    "geom:longitude":-89.010346,
+    "iso:country":"US",
+    "sg:address":"2090 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 5046",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DGcJgts3K2FOokSiT3exh_30.401109_-89.010346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121823,
+    "wof:geomhash":"54aed262843b5020ed264a58d5b6878d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857096493
+        }
+    ],
+    "wof:id":857096493,
+    "wof:lastmodified":1464121823,
+    "wof:name":"J L Expressmart",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.010346,
+    30.401109,
+    -89.010346,
+    30.401109
+],
+  "geometry": {"coordinates":[-89.010346,30.401109],"type":"Point"}
+}

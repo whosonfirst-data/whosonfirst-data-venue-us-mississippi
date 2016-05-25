@@ -1,0 +1,75 @@
+{
+  "id": 857162459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.287161,31.33699,-89.287161,31.33699",
+    "geom:latitude":31.33699,
+    "geom:longitude":-89.287161,
+    "iso:country":"US",
+    "sg:address":"709 Bouie St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7024",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TDQ3XmRFjqWqqRxTjjTKp_31.336990_-89.287161@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123413,
+    "wof:geomhash":"c00a706b035fe514484f12397f32b17b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857162459
+        }
+    ],
+    "wof:id":857162459,
+    "wof:lastmodified":1464123413,
+    "wof:name":"Booth Auto",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.287161,
+    31.33699,
+    -89.287161,
+    31.33699
+],
+  "geometry": {"coordinates":[-89.287161,31.33699],"type":"Point"}
+}

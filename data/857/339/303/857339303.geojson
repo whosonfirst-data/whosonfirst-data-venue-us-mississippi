@@ -1,0 +1,73 @@
+{
+  "id": 857339303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.166799,32.385477,-90.166799,32.385477",
+    "geom:latitude":32.385477,
+    "geom:longitude":-90.166799,
+    "iso:country":"US",
+    "sg:address":"343 Beasley Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 7510",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85837513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tyqjxZK7LyMNMAfhJJWkS_32.385477_-90.166799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127257,
+    "wof:geomhash":"9302f5c4e085c7ac9ac59f1357ba0032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85837513,
+            "region_id":85688579,
+            "venue_id":857339303
+        }
+    ],
+    "wof:id":857339303,
+    "wof:lastmodified":1464127257,
+    "wof:name":"Pro-Oil Plus",
+    "wof:parent_id":85837513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.166799,
+    32.385477,
+    -90.166799,
+    32.385477
+],
+  "geometry": {"coordinates":[-90.166799,32.385477],"type":"Point"}
+}

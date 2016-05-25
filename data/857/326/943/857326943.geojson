@@ -1,0 +1,67 @@
+{
+  "id": 857326943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.810267,33.424979,-88.810267,33.424979",
+    "geom:latitude":33.424979,
+    "geom:longitude":-88.810267,
+    "iso:country":"US",
+    "sg:address":"1804 S Montgomery St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 9333",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:website":"www.faithstarkville.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YR9TrNwLTmuNp1Pf2KCrc_33.424979_-88.810267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126989,
+    "wof:geomhash":"759b7ee574ee8e04d15ca25669d368d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857326943
+        }
+    ],
+    "wof:id":857326943,
+    "wof:lastmodified":1464126989,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.810267,
+    33.424979,
+    -88.810267,
+    33.424979
+],
+  "geometry": {"coordinates":[-88.810267,33.424979],"type":"Point"}
+}

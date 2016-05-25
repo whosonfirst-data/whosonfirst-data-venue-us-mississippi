@@ -1,0 +1,71 @@
+{
+  "id": 857147655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430779,33.495787,-88.430779,33.495787",
+    "geom:latitude":33.495787,
+    "geom:longitude":-88.430779,
+    "iso:country":"US",
+    "sg:address":"116 N 3rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3660",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KhrIsWUAm1uL7FWqegKLb_33.495787_-88.430779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123092,
+    "wof:geomhash":"39990561ce8ae7804acf51ac8dad0156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857147655
+        }
+    ],
+    "wof:id":857147655,
+    "wof:lastmodified":1464123092,
+    "wof:name":"Home & Garden Market",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.430779,
+    33.495787,
+    -88.430779,
+    33.495787
+],
+  "geometry": {"coordinates":[-88.430779,33.495787],"type":"Point"}
+}

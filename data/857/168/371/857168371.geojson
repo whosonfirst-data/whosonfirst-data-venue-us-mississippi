@@ -1,0 +1,74 @@
+{
+  "id": 857168371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719825,34.214468,-88.719825,34.214468",
+    "geom:latitude":34.214468,
+    "geom:longitude":-88.719825,
+    "iso:country":"US",
+    "sg:address":"2103 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6175",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dog",
+        "cat"
+    ],
+    "sg:website":"www.sunshinemills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eyjJE2wOn2S2nMEOgdRua_34.214468_-88.719825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123544,
+    "wof:geomhash":"db29487bea5265b5d869bc70070f4286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857168371
+        }
+    ],
+    "wof:id":857168371,
+    "wof:lastmodified":1464123544,
+    "wof:name":"Sunshine Mills Inc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -88.719825,
+    34.214468,
+    -88.719825,
+    34.214468
+],
+  "geometry": {"coordinates":[-88.719825,34.214468],"type":"Point"}
+}

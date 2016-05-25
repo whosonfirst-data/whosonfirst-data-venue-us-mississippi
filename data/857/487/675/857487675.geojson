@@ -1,0 +1,82 @@
+{
+  "id": 857487675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.942995,34.840189,-89.942995,34.840189",
+    "geom:latitude":34.840189,
+    "geom:longitude":-89.942995,
+    "iso:country":"US",
+    "sg:address":"2641 Garden Gate Dr",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 449 0078",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TbZY7RtcZLq2X3Gw3pQq9_34.840189_-89.942995@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130527,
+    "wof:geomhash":"c8bfa82997f72ec8c40749a0f3ee36b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857487675
+        }
+    ],
+    "wof:id":857487675,
+    "wof:lastmodified":1464130527,
+    "wof:name":"Delta Products",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -89.942995,
+    34.840189,
+    -89.942995,
+    34.840189
+],
+  "geometry": {"coordinates":[-89.942995,34.840189],"type":"Point"}
+}

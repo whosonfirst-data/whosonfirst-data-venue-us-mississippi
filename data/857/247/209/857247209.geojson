@@ -1,0 +1,73 @@
+{
+  "id": 857247209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701441,32.378993,-88.701441,32.378993",
+    "geom:latitude":32.378993,
+    "geom:longitude":-88.701441,
+    "iso:country":"US",
+    "sg:address":"2003 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1211",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b7OX7dB9vVpOyrsmrBHGv_32.378993_-88.701441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125181,
+    "wof:geomhash":"437a2c2902e5534b3fbbf2b50356ffb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857247209
+        }
+    ],
+    "wof:id":857247209,
+    "wof:lastmodified":1464125181,
+    "wof:name":"First Call For Help",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.701441,
+    32.378993,
+    -88.701441,
+    32.378993
+],
+  "geometry": {"coordinates":[-88.701441,32.378993],"type":"Point"}
+}

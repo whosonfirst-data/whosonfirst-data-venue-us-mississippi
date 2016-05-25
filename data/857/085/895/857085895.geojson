@@ -1,0 +1,71 @@
+{
+  "id": 857085895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563708,34.19511,-90.563708,34.19511",
+    "geom:latitude":34.19511,
+    "geom:longitude":-90.563708,
+    "iso:country":"US",
+    "sg:address":"617 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3844",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52R3zE4kbuqRxti4pXCBb8_34.195110_-90.563708@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121561,
+    "wof:geomhash":"758a2bdd25ca085767244ac4cca69b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857085895
+        }
+    ],
+    "wof:id":857085895,
+    "wof:lastmodified":1464121561,
+    "wof:name":"KFC",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.563708,
+    34.19511,
+    -90.563708,
+    34.19511
+],
+  "geometry": {"coordinates":[-90.56370800000001,34.19511],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857317693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.572842,34.356773,-89.572842,34.356773",
+    "geom:latitude":34.356773,
+    "geom:longitude":-89.572842,
+    "iso:country":"US",
+    "sg:address":"753 Shady Oaks Cir",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 801 9018",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hS33SpiUDzIOLoo4zHFl9_34.356773_-89.572842@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126788,
+    "wof:geomhash":"4156503a89beacffb380585d7a20bac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857317693
+        }
+    ],
+    "wof:id":857317693,
+    "wof:lastmodified":1464126788,
+    "wof:name":"Oxford Events",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event"
+    ]
+},
+  "bbox": [
+    -89.572842,
+    34.356773,
+    -89.572842,
+    34.356773
+],
+  "geometry": {"coordinates":[-89.57284199999999,34.356773],"type":"Point"}
+}

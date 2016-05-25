@@ -1,0 +1,71 @@
+{
+  "id": 857387179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.093818,32.436762,-90.093818,32.436762",
+    "geom:latitude":32.436762,
+    "geom:longitude":-90.093818,
+    "iso:country":"US",
+    "sg:address":"66 Sandalwood Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 9598",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGCxvEeXkkExHETk3xjgi_32.436762_-90.093818@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128366,
+    "wof:geomhash":"b6f580e4b0e207db5cea9885a224e92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857387179
+        }
+    ],
+    "wof:id":857387179,
+    "wof:lastmodified":1464128366,
+    "wof:name":"Greg Ainsworth",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -90.093818,
+    32.436762,
+    -90.093818,
+    32.436762
+],
+  "geometry": {"coordinates":[-90.093818,32.436762],"type":"Point"}
+}

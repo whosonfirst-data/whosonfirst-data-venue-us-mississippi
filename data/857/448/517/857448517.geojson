@@ -1,0 +1,75 @@
+{
+  "id": 857448517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.370873,31.383976,-89.370873,31.383976",
+    "geom:latitude":31.383976,
+    "geom:longitude":-89.370873,
+    "iso:country":"US",
+    "sg:address":"7132 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 2836",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DZWaTBng64G85dhmyeGVV_31.383976_-89.370873@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129729,
+    "wof:geomhash":"edf8d486c843244b6ab244a68aa7969c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857448517
+        }
+    ],
+    "wof:id":857448517,
+    "wof:lastmodified":1464129729,
+    "wof:name":"Shippers Express Inc",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.370873,
+    31.383976,
+    -89.370873,
+    31.383976
+],
+  "geometry": {"coordinates":[-89.370873,31.383976],"type":"Point"}
+}

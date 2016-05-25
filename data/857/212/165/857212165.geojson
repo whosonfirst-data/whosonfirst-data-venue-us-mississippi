@@ -1,0 +1,73 @@
+{
+  "id": 857212165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.554121,34.364949,-89.554121,34.364949",
+    "geom:latitude":34.364949,
+    "geom:longitude":-89.554121,
+    "iso:country":"US",
+    "sg:address":"1700 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 0051",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QS1Qmfuvxgr1TemXYX0SE_34.364949_-89.554121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124442,
+    "wof:geomhash":"67ac941c35e33e259460a1b84949b2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857212165
+        }
+    ],
+    "wof:id":857212165,
+    "wof:lastmodified":1464124442,
+    "wof:name":"Oxford's Pre-Owned Supercenter",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.554121,
+    34.364949,
+    -89.554121,
+    34.364949
+],
+  "geometry": {"coordinates":[-89.55412099999999,34.364949],"type":"Point"}
+}

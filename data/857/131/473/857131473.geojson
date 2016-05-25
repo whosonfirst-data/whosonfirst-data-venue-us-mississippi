@@ -1,0 +1,71 @@
+{
+  "id": 857131473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.708446,32.821394,-90.708446,32.821394",
+    "geom:latitude":32.821394,
+    "geom:longitude":-90.708446,
+    "iso:country":"US",
+    "sg:address":"932 Hwy 16 W",
+    "sg:city":"Holly Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 828 3241",
+    "sg:postcode":"39088",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QzTHEVMBzvEhyghyWSOLc_32.821394_-90.708446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122710,
+    "wof:geomhash":"ac08e91e8ec13c5a6620e84c9a09d9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857131473
+        }
+    ],
+    "wof:id":857131473,
+    "wof:lastmodified":1464122710,
+    "wof:name":"Baptist Church",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.708446,
+    32.821394,
+    -90.708446,
+    32.821394
+],
+  "geometry": {"coordinates":[-90.708446,32.821394],"type":"Point"}
+}

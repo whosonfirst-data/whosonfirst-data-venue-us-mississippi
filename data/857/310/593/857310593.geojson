@@ -1,0 +1,75 @@
+{
+  "id": 857310593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.151748,30.350828,-89.151748,30.350828",
+    "geom:latitude":30.350828,
+    "geom:longitude":-89.151748,
+    "iso:country":"US",
+    "sg:address":"198 W Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 822 0198",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Y16VT6rduDT01jJM7N0A_30.350828_-89.151748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126633,
+    "wof:geomhash":"074bc9e395ee905346a2aeb312d57721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857310593
+        }
+    ],
+    "wof:id":857310593,
+    "wof:lastmodified":1464126633,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -89.151748,
+    30.350828,
+    -89.151748,
+    30.350828
+],
+  "geometry": {"coordinates":[-89.151748,30.350828],"type":"Point"}
+}

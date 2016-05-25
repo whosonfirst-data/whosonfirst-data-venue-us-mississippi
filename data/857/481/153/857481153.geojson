@@ -1,0 +1,72 @@
+{
+  "id": 857481153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693173,34.315558,-88.693173,34.315558",
+    "geom:latitude":34.315558,
+    "geom:longitude":-88.693173,
+    "iso:country":"US",
+    "sg:address":"1001 Barnes Crossing Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/230519-great-american-cookies/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4453",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33SGMGzE8LAH3azyI3cBwi_34.315558_-88.693173@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130391,
+    "wof:geomhash":"69137946a49f731ee4952373a78606a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857481153
+        }
+    ],
+    "wof:id":857481153,
+    "wof:lastmodified":1464130391,
+    "wof:name":"Great American Cookies",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -88.693173,
+    34.315558,
+    -88.693173,
+    34.315558
+],
+  "geometry": {"coordinates":[-88.693173,34.315558],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857483483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.345025,31.335204,-89.345025,31.335204",
+    "geom:latitude":31.335204,
+    "geom:longitude":-89.345025,
+    "iso:country":"US",
+    "sg:address":"3803 W 4th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/246992-mugshots-grill--bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 2299",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KWgnVHLF1x7kqsCf83Qp5_31.335204_-89.345025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130436,
+    "wof:geomhash":"366389e691def61f40801c75bdcd3399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857483483
+        }
+    ],
+    "wof:id":857483483,
+    "wof:lastmodified":1464130436,
+    "wof:name":"Mugshots Grill & Bar",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.345025,
+    31.335204,
+    -89.345025,
+    31.335204
+],
+  "geometry": {"coordinates":[-89.34502500000001,31.335204],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857208261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.79703,33.466903,-88.79703,33.466903",
+    "geom:latitude":33.466903,
+    "geom:longitude":-88.79703,
+    "iso:country":"US",
+    "sg:address":"402 Martin Luther King Jr Dr E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 1556",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W7gEYafoVnm1Z59UGgpCT_33.466903_-88.797030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124355,
+    "wof:geomhash":"dfac888e1174b4fa6bf75e60be6b9a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857208261
+        }
+    ],
+    "wof:id":857208261,
+    "wof:lastmodified":1464124355,
+    "wof:name":"Handyman Rental & Party Place",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.79703,
+    33.466903,
+    -88.79703,
+    33.466903
+],
+  "geometry": {"coordinates":[-88.79703000000001,33.466903],"type":"Point"}
+}

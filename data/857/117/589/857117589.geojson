@@ -1,0 +1,75 @@
+{
+  "id": 857117589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.861321,34.858589,-89.861321,34.858589",
+    "geom:latitude":34.858589,
+    "geom:longitude":-89.861321,
+    "iso:country":"US",
+    "sg:address":"164 Craft Rd S",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 6784",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lvP2viddSVaR7tEo8l53L_34.858589_-89.861321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122401,
+    "wof:geomhash":"73eae6f34b7671c2db7b0d9943e3b57c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857117589
+        }
+    ],
+    "wof:id":857117589,
+    "wof:lastmodified":1464122401,
+    "wof:name":"Shinpoch Trucking",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.861321,
+    34.858589,
+    -89.861321,
+    34.858589
+],
+  "geometry": {"coordinates":[-89.861321,34.858589],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857348661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.815907,34.962105,-89.815907,34.962105",
+    "geom:latitude":34.962105,
+    "geom:longitude":-89.815907,
+    "iso:country":"US",
+    "sg:address":"9811 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3288",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nvgEGT6BF0D5a1CLrjqod_34.962105_-89.815907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127456,
+    "wof:geomhash":"d50b4f54c7753fed66b709d80eb031fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857348661
+        }
+    ],
+    "wof:id":857348661,
+    "wof:lastmodified":1464127456,
+    "wof:name":"Tobacco Outlet 2",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.815907,
+    34.962105,
+    -89.815907,
+    34.962105
+],
+  "geometry": {"coordinates":[-89.815907,34.962105],"type":"Point"}
+}

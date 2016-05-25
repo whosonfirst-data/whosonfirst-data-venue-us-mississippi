@@ -1,0 +1,73 @@
+{
+  "id": 857464105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531613,30.370162,-88.531613,30.370162",
+    "geom:latitude":30.370162,
+    "geom:longitude":-88.531613,
+    "iso:country":"US",
+    "sg:address":"4807 Tupelo Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 249 1002",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gntBt2GwsDVpjwSu3lXJQ_30.370162_-88.531613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130038,
+    "wof:geomhash":"4d5d80de1c2b502eb35cf5cf1166596f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857464105
+        }
+    ],
+    "wof:id":857464105,
+    "wof:lastmodified":1464130038,
+    "wof:name":"State Wide Helping Hand",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.531613,
+    30.370162,
+    -88.531613,
+    30.370162
+],
+  "geometry": {"coordinates":[-88.53161299999999,30.370162],"type":"Point"}
+}

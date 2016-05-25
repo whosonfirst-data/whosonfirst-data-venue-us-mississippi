@@ -1,0 +1,73 @@
+{
+  "id": 857360491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528306,30.377454,-88.528306,30.377454",
+    "geom:latitude":30.377454,
+    "geom:longitude":-88.528306,
+    "iso:country":"US",
+    "sg:address":"3708 US Hwy 90",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 0363",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "piping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z56lvZjLfopGM3Pcuf9Cr_30.377454_-88.528306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127711,
+    "wof:geomhash":"6a54b4f9eba40e045fc5828bedc9e927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857360491
+        }
+    ],
+    "wof:id":857360491,
+    "wof:lastmodified":1464127711,
+    "wof:name":"S J & L Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.528306,
+    30.377454,
+    -88.528306,
+    30.377454
+],
+  "geometry": {"coordinates":[-88.528306,30.377454],"type":"Point"}
+}

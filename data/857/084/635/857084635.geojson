@@ -1,0 +1,77 @@
+{
+  "id": 857084635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.168088,32.305114,-90.168088,32.305114",
+    "geom:latitude":32.305114,
+    "geom:longitude":-90.168088,
+    "iso:country":"US",
+    "sg:address":"1350 Vine St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 353 0501",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47UU42pO0uwGEKmCpoJfne_32.305114_-90.168088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121522,
+    "wof:geomhash":"61aa41c430ad9c2435d46a71baf6856f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857084635
+        }
+    ],
+    "wof:id":857084635,
+    "wof:lastmodified":1464121522,
+    "wof:name":"Capital City Convention",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.168088,
+    32.305114,
+    -90.168088,
+    32.305114
+],
+  "geometry": {"coordinates":[-90.168088,32.305114],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857463661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.106752,32.470633,-90.106752,32.470633",
+    "geom:latitude":32.470633,
+    "geom:longitude":-90.106752,
+    "iso:country":"US",
+    "sg:address":"1106 US Hwy 51",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 5554",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nurseryman",
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PAcELq6Vy82RriT3KwkQ5_32.470633_-90.106752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130021,
+    "wof:geomhash":"d2a72f5f988145e34c9d1155aaa32e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857463661
+        }
+    ],
+    "wof:id":857463661,
+    "wof:lastmodified":1464130021,
+    "wof:name":"Madison Garden Center Inc",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman",
+        "lawn"
+    ]
+},
+  "bbox": [
+    -90.106752,
+    32.470633,
+    -90.106752,
+    32.470633
+],
+  "geometry": {"coordinates":[-90.106752,32.470633],"type":"Point"}
+}

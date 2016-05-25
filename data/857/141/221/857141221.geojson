@@ -1,0 +1,75 @@
+{
+  "id": 857141221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514158,34.363381,-89.514158,34.363381",
+    "geom:latitude":34.363381,
+    "geom:longitude":-89.514158,
+    "iso:country":"US",
+    "sg:address":"1613 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 4646",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kXXJDJ9ifDQL0248yTO6C_34.363381_-89.514158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122919,
+    "wof:geomhash":"7b14079c6a5647190ba542da407b1fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857141221
+        }
+    ],
+    "wof:id":857141221,
+    "wof:lastmodified":1464122919,
+    "wof:name":"Oxford Auto Sales Inc",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.514158,
+    34.363381,
+    -89.514158,
+    34.363381
+],
+  "geometry": {"coordinates":[-89.51415799999999,34.363381],"type":"Point"}
+}

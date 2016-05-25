@@ -1,0 +1,71 @@
+{
+  "id": 857275293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.565477,34.361976,-89.565477,34.361976",
+    "geom:latitude":34.361976,
+    "geom:longitude":-89.565477,
+    "iso:country":"US",
+    "sg:address":"2580 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9997",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzPp5PfmsmoIel4OlemyQ_34.361976_-89.565477@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125796,
+    "wof:geomhash":"b6b698815eafe3483f97c02aba2aea9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857275293
+        }
+    ],
+    "wof:id":857275293,
+    "wof:lastmodified":1464125796,
+    "wof:name":"Ultra Tan",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -89.565477,
+    34.361976,
+    -89.565477,
+    34.361976
+],
+  "geometry": {"coordinates":[-89.565477,34.361976],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857342679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838992,33.448984,-88.838992,33.448984",
+    "geom:latitude":33.448984,
+    "geom:longitude":-88.838992,
+    "iso:country":"US",
+    "sg:address":"826 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 8032",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77lUm6iFKzJ7NphmrPFsx7_33.448984_-88.838992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127328,
+    "wof:geomhash":"55a0505a1400e5e95950286f911ac682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857342679
+        }
+    ],
+    "wof:id":857342679,
+    "wof:lastmodified":1464127328,
+    "wof:name":"Kroger Food Stores",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.838992,
+    33.448984,
+    -88.838992,
+    33.448984
+],
+  "geometry": {"coordinates":[-88.838992,33.448984],"type":"Point"}
+}

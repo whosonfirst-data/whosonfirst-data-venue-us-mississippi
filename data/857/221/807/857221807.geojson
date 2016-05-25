@@ -1,0 +1,73 @@
+{
+  "id": 857221807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651854,32.39256,-88.651854,32.39256",
+    "geom:latitude":32.39256,
+    "geom:longitude":-88.651854,
+    "iso:country":"US",
+    "sg:address":"646 Hwy 11 and 80",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6525",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eEJcVzl1FpW11WsR9EjsU_32.392560_-88.651854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124652,
+    "wof:geomhash":"28c98559263ba26b33432c5bd3eed4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857221807
+        }
+    ],
+    "wof:id":857221807,
+    "wof:lastmodified":1464124652,
+    "wof:name":"Charlie's Wrecker & Repair Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.651854,
+    32.39256,
+    -88.651854,
+    32.39256
+],
+  "geometry": {"coordinates":[-88.651854,32.39256],"type":"Point"}
+}

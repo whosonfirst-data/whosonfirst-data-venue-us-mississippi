@@ -1,0 +1,78 @@
+{
+  "id": 857217391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.393812,31.357334,-89.393812,31.357334",
+    "geom:latitude":31.357334,
+    "geom:longitude":-89.393812,
+    "iso:country":"US",
+    "sg:address":"114 Lakeshore Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 1189",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5esPOlq0PT84EclKKZkHlr_31.357334_-89.393812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124561,
+    "wof:geomhash":"d73a48663266d30415db6f353aef4d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857217391
+        }
+    ],
+    "wof:id":857217391,
+    "wof:lastmodified":1464124561,
+    "wof:name":"Steadman Properties Inc",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.393812,
+    31.357334,
+    -89.393812,
+    31.357334
+],
+  "geometry": {"coordinates":[-89.393812,31.357334],"type":"Point"}
+}

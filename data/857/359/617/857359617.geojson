@@ -1,0 +1,71 @@
+{
+  "id": 857359617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.091901,32.475516,-90.091901,32.475516",
+    "geom:latitude":32.475516,
+    "geom:longitude":-90.091901,
+    "iso:country":"US",
+    "sg:address":"168 Sundown Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 0960",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bag"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ksRFWI6mYeeaDzJd43qg_32.475516_-90.091901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127690,
+    "wof:geomhash":"394bd1c4d1e91f4308504d55d74774ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857359617
+        }
+    ],
+    "wof:id":857359617,
+    "wof:lastmodified":1464127690,
+    "wof:name":"Flex-On",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag"
+    ]
+},
+  "bbox": [
+    -90.091901,
+    32.475516,
+    -90.091901,
+    32.475516
+],
+  "geometry": {"coordinates":[-90.09190099999999,32.475516],"type":"Point"}
+}

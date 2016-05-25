@@ -1,0 +1,74 @@
+{
+  "id": 857079023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675337,34.240104,-88.675337,34.240104",
+    "geom:latitude":34.240104,
+    "geom:longitude":-88.675337,
+    "iso:country":"US",
+    "sg:address":"1918 Briar Ridge Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5622",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.olemiss.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Edzu154nNjRQAcMn0VplD_34.240104_-88.675337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121380,
+    "wof:geomhash":"735ce264373ea5be7658d88fdf5f0fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857079023
+        }
+    ],
+    "wof:id":857079023,
+    "wof:lastmodified":1464121380,
+    "wof:name":"University Of Mississippi",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.675337,
+    34.240104,
+    -88.675337,
+    34.240104
+],
+  "geometry": {"coordinates":[-88.675337,34.240104],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857272593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.175044,32.351732,-90.175044,32.351732",
+    "geom:latitude":32.351732,
+    "geom:longitude":-90.175044,
+    "iso:country":"US",
+    "sg:address":"4444 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 8109",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NDyCl5IDwEn3U2dW03J3D_32.351732_-90.175044@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125736,
+    "wof:geomhash":"30edf3b618d8d9d1a927d38288f4cb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857272593
+        }
+    ],
+    "wof:id":857272593,
+    "wof:lastmodified":1464125736,
+    "wof:name":"A Special Occasion",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.175044,
+    32.351732,
+    -90.175044,
+    32.351732
+],
+  "geometry": {"coordinates":[-90.175044,32.351732],"type":"Point"}
+}

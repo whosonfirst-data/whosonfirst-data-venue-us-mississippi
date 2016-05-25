@@ -1,0 +1,73 @@
+{
+  "id": 857275131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.26297,31.333422,-89.26297,31.333422",
+    "geom:latitude":31.333422,
+    "geom:longitude":-89.26297,
+    "iso:country":"US",
+    "sg:address":"804 S Main St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 450 5226",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W8z5zn53jrErh9zD3S7BV_31.333422_-89.262970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125793,
+    "wof:geomhash":"ddfbceef898e692269ec813dc107b94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857275131
+        }
+    ],
+    "wof:id":857275131,
+    "wof:lastmodified":1464125793,
+    "wof:name":"Southern Espress O",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -89.26297,
+    31.333422,
+    -89.26297,
+    31.333422
+],
+  "geometry": {"coordinates":[-89.26297,31.333422],"type":"Point"}
+}

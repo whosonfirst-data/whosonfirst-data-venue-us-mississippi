@@ -1,0 +1,73 @@
+{
+  "id": 857144101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529782,30.382379,-88.529782,30.382379",
+    "geom:latitude":30.382379,
+    "geom:longitude":-88.529782,
+    "iso:country":"US",
+    "sg:address":"3111 Shortcut Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0772",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K7ojeViUXoedjney3T2OG_30.382379_-88.529782@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123009,
+    "wof:geomhash":"4f5b9df3cc2eadf618332ca33b414ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857144101
+        }
+    ],
+    "wof:id":857144101,
+    "wof:lastmodified":1464123009,
+    "wof:name":"Gulf Coast Eye Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.529782,
+    30.382379,
+    -88.529782,
+    30.382379
+],
+  "geometry": {"coordinates":[-88.529782,30.382379],"type":"Point"}
+}

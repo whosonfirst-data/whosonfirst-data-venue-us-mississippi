@@ -1,0 +1,71 @@
+{
+  "id": 857177939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285148,31.31409,-89.285148,31.31409",
+    "geom:latitude":31.31409,
+    "geom:longitude":-89.285148,
+    "iso:country":"US",
+    "sg:address":"823 Edwards St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2340",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58wgwyhbyusBPWoktNF2Ls_31.314090_-89.285148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123749,
+    "wof:geomhash":"ad593d45284a5bc35d8c6a4ff5032b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857177939
+        }
+    ],
+    "wof:id":857177939,
+    "wof:lastmodified":1464123749,
+    "wof:name":"Luckys Package Liquors Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -89.285148,
+    31.31409,
+    -89.285148,
+    31.31409
+],
+  "geometry": {"coordinates":[-89.28514800000001,31.31409],"type":"Point"}
+}

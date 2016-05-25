@@ -1,0 +1,78 @@
+{
+  "id": 857486569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583105,34.229993,-90.583105,34.229993",
+    "geom:latitude":34.229993,
+    "geom:longitude":-90.583105,
+    "iso:country":"US",
+    "sg:address":"320 Westover Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8786",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VlxjcCpFrXd8bG414CvAr_34.229993_-90.583105@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130495,
+    "wof:geomhash":"f22e017e8dbbd59b3aad358585b3f3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486569
+        }
+    ],
+    "wof:id":857486569,
+    "wof:lastmodified":1464130495,
+    "wof:name":"Double B Farms",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -90.583105,
+    34.229993,
+    -90.583105,
+    34.229993
+],
+  "geometry": {"coordinates":[-90.583105,34.229993],"type":"Point"}
+}

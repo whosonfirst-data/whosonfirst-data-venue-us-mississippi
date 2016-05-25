@@ -1,0 +1,88 @@
+{
+  "id": 857355677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691495,32.363804,-88.691495,32.363804",
+    "geom:latitude":32.363804,
+    "geom:longitude":-88.691495,
+    "iso:country":"US",
+    "sg:address":"1600 B St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6340",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "confectionery",
+        "mfg",
+        "fruit",
+        "sugar",
+        "raw",
+        "cane",
+        "vegetable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0srlSoN7qD2GnMmixAFuIu_32.363804_-88.691495@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127609,
+    "wof:geomhash":"b9be633d244fdd364302a98729e22c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857355677
+        }
+    ],
+    "wof:id":857355677,
+    "wof:lastmodified":1464127609,
+    "wof:name":"Meridian Pecan and Cane Co",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "mfg",
+        "fruit",
+        "sugar",
+        "raw",
+        "cane",
+        "vegetable"
+    ]
+},
+  "bbox": [
+    -88.691495,
+    32.363804,
+    -88.691495,
+    32.363804
+],
+  "geometry": {"coordinates":[-88.691495,32.363804],"type":"Point"}
+}

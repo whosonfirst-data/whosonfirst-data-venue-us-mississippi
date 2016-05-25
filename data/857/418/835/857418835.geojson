@@ -1,0 +1,73 @@
+{
+  "id": 857418835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.395844,32.862566,-90.395844,32.862566",
+    "geom:latitude":32.862566,
+    "geom:longitude":-90.395844,
+    "iso:country":"US",
+    "sg:address":"1401 Kmart Plaza Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5107",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPtMr8lu0l4isSdGcg4ko_32.862566_-90.395844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129074,
+    "wof:geomhash":"c042e5a2a5cfd6dcae5655787f4b818b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857418835
+        }
+    ],
+    "wof:id":857418835,
+    "wof:lastmodified":1464129074,
+    "wof:name":"Yazoo Mini Storage Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.395844,
+    32.862566,
+    -90.395844,
+    32.862566
+],
+  "geometry": {"coordinates":[-90.395844,32.862566],"type":"Point"}
+}

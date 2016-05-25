@@ -1,0 +1,75 @@
+{
+  "id": 857326205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.936823,34.964245,-89.936823,34.964245",
+    "geom:latitude":34.964245,
+    "geom:longitude":-89.936823,
+    "iso:country":"US",
+    "sg:address":"7135 Getwell Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 3380",
+    "sg:postcode":"38672",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FHetBFpW84IUn5wwMFCsN_34.964245_-89.936823@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126972,
+    "wof:geomhash":"e6fcc3005f361099d67f788f54bd9f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857326205
+        }
+    ],
+    "wof:id":857326205,
+    "wof:lastmodified":1464126972,
+    "wof:name":"GMAC Mortgage",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -89.936823,
+    34.964245,
+    -89.936823,
+    34.964245
+],
+  "geometry": {"coordinates":[-89.936823,34.964245],"type":"Point"}
+}

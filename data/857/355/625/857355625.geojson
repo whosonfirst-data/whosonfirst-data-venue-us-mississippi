@@ -1,0 +1,71 @@
+{
+  "id": 857355625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659054,33.605207,-88.659054,33.605207",
+    "geom:latitude":33.605207,
+    "geom:longitude":-88.659054,
+    "iso:country":"US",
+    "sg:address":"230 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4767",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4txVoXr7K7SepGkAi3n814_33.605207_-88.659054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127608,
+    "wof:geomhash":"be8fb54ab152de3089e1d9603137ca86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857355625
+        }
+    ],
+    "wof:id":857355625,
+    "wof:lastmodified":1464127608,
+    "wof:name":"Ellis Steel Inc",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -88.659054,
+    33.605207,
+    -88.659054,
+    33.605207
+],
+  "geometry": {"coordinates":[-88.659054,33.605207],"type":"Point"}
+}

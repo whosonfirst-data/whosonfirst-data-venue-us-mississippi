@@ -1,0 +1,71 @@
+{
+  "id": 857445117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.128544,32.099494,-90.128544,32.099494",
+    "geom:latitude":32.099494,
+    "geom:longitude":-90.128544,
+    "iso:country":"US",
+    "sg:address":"1200 Hwy 469 S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 0637",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CwD2kwEnf2ibUQE4Lm6SS_32.099494_-90.128544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129661,
+    "wof:geomhash":"a331507db6d1b74a323e3cd2485e0346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857445117
+        }
+    ],
+    "wof:id":857445117,
+    "wof:lastmodified":1464129661,
+    "wof:name":"Mountain Creek Volunteer Fire",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.128544,
+    32.099494,
+    -90.128544,
+    32.099494
+],
+  "geometry": {"coordinates":[-90.12854400000001,32.099494],"type":"Point"}
+}

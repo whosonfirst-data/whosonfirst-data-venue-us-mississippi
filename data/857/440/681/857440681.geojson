@@ -1,0 +1,68 @@
+{
+  "id": 857440681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.196016,32.32686,-90.196016,32.32686",
+    "geom:latitude":32.32686,
+    "geom:longitude":-90.196016,
+    "iso:country":"US",
+    "sg:address":"380 W Woodrow Wilson Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 713 1130",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Efyl8PnoglBRTCDsAA2L5_32.326860_-90.196016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129581,
+    "wof:geomhash":"ad56507e3338336fc5f769bd59e142fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857440681
+        }
+    ],
+    "wof:id":857440681,
+    "wof:lastmodified":1464129581,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.196016,
+    32.32686,
+    -90.196016,
+    32.32686
+],
+  "geometry": {"coordinates":[-90.196016,32.32686],"type":"Point"}
+}

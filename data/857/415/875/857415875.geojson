@@ -1,0 +1,71 @@
+{
+  "id": 857415875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.516479,33.883873,-88.516479,33.883873",
+    "geom:latitude":33.883873,
+    "geom:longitude":-88.516479,
+    "iso:country":"US",
+    "sg:address":"50038 Halfway Cir",
+    "sg:city":"Amory",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7451",
+    "sg:postcode":"38821",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bc48p7b3tNadlkHrQXNFf_33.883873_-88.516479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129004,
+    "wof:geomhash":"15eaa2d5492e3eca0f66dcf00097c212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857415875
+        }
+    ],
+    "wof:id":857415875,
+    "wof:lastmodified":1464129004,
+    "wof:name":"Happy Days",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.516479,
+    33.883873,
+    -88.516479,
+    33.883873
+],
+  "geometry": {"coordinates":[-88.516479,33.883873],"type":"Point"}
+}

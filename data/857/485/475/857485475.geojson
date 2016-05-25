@@ -1,0 +1,74 @@
+{
+  "id": 857485475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.800652,33.4556,-88.800652,33.4556",
+    "geom:latitude":33.4556,
+    "geom:longitude":-88.800652,
+    "iso:country":"US",
+    "sg:address":"416 Highway 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/starkville/133054-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6210",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T0Qu8zxDUh51yxhmJEyKP_33.455600_-88.800652@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130476,
+    "wof:geomhash":"64795cbde195568fd1d422ec59822a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857485475
+        }
+    ],
+    "wof:id":857485475,
+    "wof:lastmodified":1464130476,
+    "wof:name":"Subway",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.800652,
+    33.4556,
+    -88.800652,
+    33.4556
+],
+  "geometry": {"coordinates":[-88.800652,33.4556],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857486735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.565584,34.194331,-90.565584,34.194331",
+    "geom:latitude":34.194331,
+    "geom:longitude":-90.565584,
+    "iso:country":"US",
+    "sg:address":"510 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5468",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x6JuKFmBSDkBiWZGME7er_34.194331_-90.565584@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130498,
+    "wof:geomhash":"7887de45a1ac90c854d6240597509f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486735
+        }
+    ],
+    "wof:id":857486735,
+    "wof:lastmodified":1464130498,
+    "wof:name":"Dalton's Furniture",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -90.565584,
+    34.194331,
+    -90.565584,
+    34.194331
+],
+  "geometry": {"coordinates":[-90.565584,34.194331],"type":"Point"}
+}

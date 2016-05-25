@@ -1,0 +1,73 @@
+{
+  "id": 857428311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700739,30.510197,-88.700739,30.510197",
+    "geom:latitude":30.510197,
+    "geom:longitude":-88.700739,
+    "iso:country":"US",
+    "sg:address":"11936 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1155",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kAPy6YmoORo2W4v8YnO4V_30.510197_-88.700739@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129302,
+    "wof:geomhash":"7d922997ae6aa8790ed90f421e2654eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857428311
+        }
+    ],
+    "wof:id":857428311,
+    "wof:lastmodified":1464129302,
+    "wof:name":"Van Cleve Medical Clinic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.700739,
+    30.510197,
+    -88.700739,
+    30.510197
+],
+  "geometry": {"coordinates":[-88.700739,30.510197],"type":"Point"}
+}

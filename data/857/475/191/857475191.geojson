@@ -1,0 +1,73 @@
+{
+  "id": 857475191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.340915,31.351798,-89.340915,31.351798",
+    "geom:latitude":31.351798,
+    "geom:longitude":-89.340915,
+    "iso:country":"US",
+    "sg:address":"6158 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 6881",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "professional",
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rvVWRoTaiqUjFMxpqDN1c_31.351798_-89.340915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130282,
+    "wof:geomhash":"19de63da2c0b0ba7677e5b60acb7ce6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857475191
+        }
+    ],
+    "wof:id":857475191,
+    "wof:lastmodified":1464130282,
+    "wof:name":"Cedar Counseling",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "counselor"
+    ]
+},
+  "bbox": [
+    -89.340915,
+    31.351798,
+    -89.340915,
+    31.351798
+],
+  "geometry": {"coordinates":[-89.340915,31.351798],"type":"Point"}
+}

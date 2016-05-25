@@ -1,0 +1,73 @@
+{
+  "id": 857255591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696558,32.391178,-88.696558,32.391178",
+    "geom:latitude":32.391178,
+    "geom:longitude":-88.696558,
+    "iso:country":"US",
+    "sg:address":"1652 32nd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2623",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDwIHvbwVCRKUvMtgu8XL_32.391178_-88.696558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125388,
+    "wof:geomhash":"14ed4c06f336d0082e04fbf509b4bd84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857255591
+        }
+    ],
+    "wof:id":857255591,
+    "wof:lastmodified":1464125388,
+    "wof:name":"Matlock Court Reporting",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -88.696558,
+    32.391178,
+    -88.696558,
+    32.391178
+],
+  "geometry": {"coordinates":[-88.696558,32.391178],"type":"Point"}
+}

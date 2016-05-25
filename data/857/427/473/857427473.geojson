@@ -1,0 +1,73 @@
+{
+  "id": 857427473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651839,33.605822,-88.651839,33.605822",
+    "geom:latitude":33.605822,
+    "geom:longitude":-88.651839,
+    "iso:country":"US",
+    "sg:address":"202 W Jordan Ave",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 3683",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5i985MKYx1aiV1uMkZ9Z_33.605822_-88.651839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129287,
+    "wof:geomhash":"9b7ac006236b0dcdd31c5fec47fed91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857427473
+        }
+    ],
+    "wof:id":857427473,
+    "wof:lastmodified":1464129287,
+    "wof:name":"National West Point Alumni",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.651839,
+    33.605822,
+    -88.651839,
+    33.605822
+],
+  "geometry": {"coordinates":[-88.651839,33.605822],"type":"Point"}
+}

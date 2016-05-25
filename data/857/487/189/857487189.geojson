@@ -1,0 +1,83 @@
+{
+  "id": 857487189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575665,34.201784,-90.575665,34.201784",
+    "geom:latitude":34.201784,
+    "geom:longitude":-90.575665,
+    "iso:country":"US",
+    "sg:address":"134 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2533",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uBuzYtogl4DPiIpVxgWS9_34.201784_-90.575665@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130508,
+    "wof:geomhash":"e355dc89ac2cfbffd8520dd0fb1f05f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487189
+        }
+    ],
+    "wof:id":857487189,
+    "wof:lastmodified":1464130508,
+    "wof:name":"Harlow Charles & Associates",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -90.575665,
+    34.201784,
+    -90.575665,
+    34.201784
+],
+  "geometry": {"coordinates":[-90.575665,34.201784],"type":"Point"}
+}

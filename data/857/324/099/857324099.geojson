@@ -1,0 +1,71 @@
+{
+  "id": 857324099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658992,33.618618,-88.658992,33.618618",
+    "geom:latitude":33.618618,
+    "geom:longitude":-88.658992,
+    "iso:country":"US",
+    "sg:address":"1001 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 7070",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zFTe9m9WqrC0zTI4ZmYpQ_33.618618_-88.658992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126933,
+    "wof:geomhash":"27a42fbe41de2b8a8e14091a53dd460e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857324099
+        }
+    ],
+    "wof:id":857324099,
+    "wof:lastmodified":1464126933,
+    "wof:name":"Trinity Baptist Church",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.658992,
+    33.618618,
+    -88.658992,
+    33.618618
+],
+  "geometry": {"coordinates":[-88.658992,33.618618],"type":"Point"}
+}

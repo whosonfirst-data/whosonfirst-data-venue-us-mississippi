@@ -1,0 +1,75 @@
+{
+  "id": 857383607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331386,31.324258,-89.331386,31.324258",
+    "geom:latitude":31.324258,
+    "geom:longitude":-89.331386,
+    "iso:country":"US",
+    "sg:address":"105 S 28th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 288 1072",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X705eVVoYN3WOqIQdvr7E_31.324258_-89.331386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128232,
+    "wof:geomhash":"f3688e93b27cea9af8a0f96a0bbcbac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857383607
+        }
+    ],
+    "wof:id":857383607,
+    "wof:lastmodified":1464128232,
+    "wof:name":"Lowery Woodall Outpatient",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.331386,
+    31.324258,
+    -89.331386,
+    31.324258
+],
+  "geometry": {"coordinates":[-89.33138599999999,31.324258],"type":"Point"}
+}

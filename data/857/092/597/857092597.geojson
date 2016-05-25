@@ -1,0 +1,73 @@
+{
+  "id": 857092597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.631103,32.656256,-90.631103,32.656256",
+    "geom:latitude":32.656256,
+    "geom:longitude":-90.631103,
+    "iso:country":"US",
+    "sg:address":"5935 Dixie Farm Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4625",
+    "sg:postcode":"39162",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sw7bWmQDpiSiJlE9HIOwY_32.656256_-90.631103@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121743,
+    "wof:geomhash":"b216177a6ef5e832f966a83055c2bc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857092597
+        }
+    ],
+    "wof:id":857092597,
+    "wof:lastmodified":1464121743,
+    "wof:name":"Bunge Grain",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -90.631103,
+    32.656256,
+    -90.631103,
+    32.656256
+],
+  "geometry": {"coordinates":[-90.631103,32.656256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857380067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697667,32.394587,-88.697667,32.394587",
+    "geom:latitude":32.394587,
+    "geom:longitude":-88.697667,
+    "iso:country":"US",
+    "sg:address":"1824 36th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8561",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SiQah68Rz1cZ5tn0sMk0e_32.394587_-88.697667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128117,
+    "wof:geomhash":"7fec2ef0a0c76d702985b67e1c558851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857380067
+        }
+    ],
+    "wof:id":857380067,
+    "wof:lastmodified":1464128117,
+    "wof:name":"Loans Express Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.697667,
+    32.394587,
+    -88.697667,
+    32.394587
+],
+  "geometry": {"coordinates":[-88.697667,32.394587],"type":"Point"}
+}

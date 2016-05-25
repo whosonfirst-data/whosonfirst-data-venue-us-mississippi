@@ -1,0 +1,71 @@
+{
+  "id": 857439579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.520158,30.380251,-88.520158,30.380251",
+    "geom:latitude":30.380251,
+    "geom:longitude":-88.520158,
+    "iso:country":"US",
+    "sg:address":"3928 Nathan Hale Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 6612",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fdQIK1qNzWQtL4BeAhheL_30.380251_-88.520158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129563,
+    "wof:geomhash":"ea001c811b30acc5c512562255e250bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857439579
+        }
+    ],
+    "wof:id":857439579,
+    "wof:lastmodified":1464129563,
+    "wof:name":"Scranton Nature Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -88.520158,
+    30.380251,
+    -88.520158,
+    30.380251
+],
+  "geometry": {"coordinates":[-88.520158,30.380251],"type":"Point"}
+}

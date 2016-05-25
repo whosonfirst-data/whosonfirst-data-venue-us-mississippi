@@ -1,0 +1,71 @@
+{
+  "id": 857449283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.897321,33.417299,-88.897321,33.417299",
+    "geom:latitude":33.417299,
+    "geom:longitude":-88.897321,
+    "iso:country":"US",
+    "sg:address":"1877 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 3272",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Is3aUpMheFzf99gghmNrH_33.417299_-88.897321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129742,
+    "wof:geomhash":"8c684a8231466f650fdb000007650316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857449283
+        }
+    ],
+    "wof:id":857449283,
+    "wof:lastmodified":1464129742,
+    "wof:name":"Michael S Mazzola",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -88.897321,
+    33.417299,
+    -88.897321,
+    33.417299
+],
+  "geometry": {"coordinates":[-88.89732100000001,33.417299],"type":"Point"}
+}

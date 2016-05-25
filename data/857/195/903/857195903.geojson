@@ -1,0 +1,71 @@
+{
+  "id": 857195903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838045,33.449585,-88.838045,33.449585",
+    "geom:latitude":33.449585,
+    "geom:longitude":-88.838045,
+    "iso:country":"US",
+    "sg:address":"818 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 4275",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TDDF8WsHJ7dWlKqAc0wUT_33.449585_-88.838045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124098,
+    "wof:geomhash":"70f339aa47379d804f3c6cb5adacbb57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857195903
+        }
+    ],
+    "wof:id":857195903,
+    "wof:lastmodified":1464124098,
+    "wof:name":"National Bank Of Commerce",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -88.838045,
+    33.449585,
+    -88.838045,
+    33.449585
+],
+  "geometry": {"coordinates":[-88.83804499999999,33.449585],"type":"Point"}
+}

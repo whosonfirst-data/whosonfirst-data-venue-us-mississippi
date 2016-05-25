@@ -1,0 +1,71 @@
+{
+  "id": 857413175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.34999,31.360349,-89.34999,31.360349",
+    "geom:latitude":31.360349,
+    "geom:longitude":-89.34999,
+    "iso:country":"US",
+    "sg:address":"6762 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 2264",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CM8hjbEyRFi33VXPxtkFy_31.360349_-89.349990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128927,
+    "wof:geomhash":"8465ba8009e2e66744fc166f475e9152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857413175
+        }
+    ],
+    "wof:id":857413175,
+    "wof:lastmodified":1464128927,
+    "wof:name":"Shell/Finish Line",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -89.34999,
+    31.360349,
+    -89.34999,
+    31.360349
+],
+  "geometry": {"coordinates":[-89.34999000000001,31.360349],"type":"Point"}
+}

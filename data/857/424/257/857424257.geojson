@@ -1,0 +1,67 @@
+{
+  "id": 857424257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528661,30.377192,-88.528661,30.377192",
+    "geom:latitude":30.377192,
+    "geom:longitude":-88.528661,
+    "iso:country":"US",
+    "sg:address":"3437 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3440",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:website":"www.officedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACfzNXs1G1fagclVPy2fO_30.377192_-88.528661@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129200,
+    "wof:geomhash":"53ddbb6f59331a3ab9550adcc95c23d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857424257
+        }
+    ],
+    "wof:id":857424257,
+    "wof:lastmodified":1464129200,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.528661,
+    30.377192,
+    -88.528661,
+    30.377192
+],
+  "geometry": {"coordinates":[-88.528661,30.377192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857277847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.560947,30.367793,-88.560947,30.367793",
+    "geom:latitude":30.367793,
+    "geom:longitude":-88.560947,
+    "iso:country":"US",
+    "sg:address":"3309 Frederic St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1151",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h9yQSr0QbNuYQADq9lmnd_30.367793_-88.560947@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125866,
+    "wof:geomhash":"263a53406e8a3251d28fc791078225c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857277847
+        }
+    ],
+    "wof:id":857277847,
+    "wof:lastmodified":1464125866,
+    "wof:name":"Pascagoula Bar Pilot Assn",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pilot"
+    ]
+},
+  "bbox": [
+    -88.560947,
+    30.367793,
+    -88.560947,
+    30.367793
+],
+  "geometry": {"coordinates":[-88.560947,30.367793],"type":"Point"}
+}

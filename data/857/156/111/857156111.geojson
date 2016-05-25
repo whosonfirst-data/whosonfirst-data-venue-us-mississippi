@@ -1,0 +1,71 @@
+{
+  "id": 857156111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519862,34.351706,-89.519862,34.351706",
+    "geom:latitude":34.351706,
+    "geom:longitude":-89.519862,
+    "iso:country":"US",
+    "sg:address":"2204 Jefferson Davis Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6850",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73ZvKWGaEaAQ6T2p7AKuFu_34.351706_-89.519862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123269,
+    "wof:geomhash":"dec80d7437f80dd948fc0a8bc4bbe58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857156111
+        }
+    ],
+    "wof:id":857156111,
+    "wof:lastmodified":1464123269,
+    "wof:name":"Philip R Loria Jr M D",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.519862,
+    34.351706,
+    -89.519862,
+    34.351706
+],
+  "geometry": {"coordinates":[-89.519862,34.351706],"type":"Point"}
+}

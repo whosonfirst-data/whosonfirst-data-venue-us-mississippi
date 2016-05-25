@@ -1,0 +1,71 @@
+{
+  "id": 857352279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.628088,34.461283,-89.628088,34.461283",
+    "geom:latitude":34.461283,
+    "geom:longitude":-89.628088,
+    "iso:country":"US",
+    "sg:address":"17 Co Rd 187",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8755",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nuhg3xe9hPtjwhw3kOgWb_34.461283_-89.628088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127536,
+    "wof:geomhash":"e4d8ec63f7904128d0d7e91bbbf8ed20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857352279
+        }
+    ],
+    "wof:id":857352279,
+    "wof:lastmodified":1464127536,
+    "wof:name":"Portraits Plus Photography",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -89.628088,
+    34.461283,
+    -89.628088,
+    34.461283
+],
+  "geometry": {"coordinates":[-89.62808800000001,34.461283],"type":"Point"}
+}

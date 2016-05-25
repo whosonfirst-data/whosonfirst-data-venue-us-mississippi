@@ -1,0 +1,71 @@
+{
+  "id": 857406473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746384,34.251975,-88.746384,34.251975",
+    "geom:latitude":34.251975,
+    "geom:longitude":-88.746384,
+    "iso:country":"US",
+    "sg:address":"301 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 4506",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72MKnxmAXzFUgm5WZsgRvx_34.251975_-88.746384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128760,
+    "wof:geomhash":"4e2a6144dcc0a0c9ed523a08c667ad97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857406473
+        }
+    ],
+    "wof:id":857406473,
+    "wof:lastmodified":1464128760,
+    "wof:name":"Strand The",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.746384,
+    34.251975,
+    -88.746384,
+    34.251975
+],
+  "geometry": {"coordinates":[-88.74638400000001,34.251975],"type":"Point"}
+}

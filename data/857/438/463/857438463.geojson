@@ -1,0 +1,73 @@
+{
+  "id": 857438463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.632481,30.388222,-88.632481,30.388222",
+    "geom:latitude":30.388222,
+    "geom:longitude":-88.632481,
+    "iso:country":"US",
+    "sg:address":"1425 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 5011",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kWTRD3LHxZLOg2kCkSAGR_30.388222_-88.632481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129536,
+    "wof:geomhash":"93981d49079e08a604cc77730ed4ce9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857438463
+        }
+    ],
+    "wof:id":857438463,
+    "wof:lastmodified":1464129536,
+    "wof:name":"Port City Barber Beauty",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -88.632481,
+    30.388222,
+    -88.632481,
+    30.388222
+],
+  "geometry": {"coordinates":[-88.632481,30.388222],"type":"Point"}
+}

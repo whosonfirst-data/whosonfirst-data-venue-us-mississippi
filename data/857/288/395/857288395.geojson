@@ -1,0 +1,75 @@
+{
+  "id": 857288395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756426,30.493412,-88.756426,30.493412",
+    "geom:latitude":30.493412,
+    "geom:longitude":-88.756426,
+    "iso:country":"US",
+    "sg:address":"10332 Antioch Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 5436",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bjk5sIC3hFxImO4gQXICE_30.493412_-88.756426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126091,
+    "wof:geomhash":"685dc51e35f3ff1a073312e4c7f43f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857288395
+        }
+    ],
+    "wof:id":857288395,
+    "wof:lastmodified":1464126091,
+    "wof:name":"Kuntry Farms",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.756426,
+    30.493412,
+    -88.756426,
+    30.493412
+],
+  "geometry": {"coordinates":[-88.756426,30.493412],"type":"Point"}
+}

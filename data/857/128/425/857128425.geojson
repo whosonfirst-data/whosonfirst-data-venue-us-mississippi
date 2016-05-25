@@ -1,0 +1,73 @@
+{
+  "id": 857128425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.493126,30.413409,-88.493126,30.413409",
+    "geom:latitude":30.413409,
+    "geom:longitude":-88.493126,
+    "iso:country":"US",
+    "sg:address":"7032 Grierson St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 2933",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3et5EM0WZ5xPSkVmLYPC9F_30.413409_-88.493126@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122635,
+    "wof:geomhash":"bb7854a48b80247d3d1eafada49c6404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857128425
+        }
+    ],
+    "wof:id":857128425,
+    "wof:lastmodified":1464122635,
+    "wof:name":"Kreole Gas Plus",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.493126,
+    30.413409,
+    -88.493126,
+    30.413409
+],
+  "geometry": {"coordinates":[-88.493126,30.413409],"type":"Point"}
+}

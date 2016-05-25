@@ -1,0 +1,71 @@
+{
+  "id": 857211989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71011,34.223421,-88.71011,34.223421",
+    "geom:latitude":34.223421,
+    "geom:longitude":-88.71011,
+    "iso:country":"US",
+    "sg:address":"669 Westmoreland Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 333 2030",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcDZaRFBIMQ2PZKLElcNZ_34.223421_-88.710110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124439,
+    "wof:geomhash":"55cd959be58b1a26e661eb8544cb45e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857211989
+        }
+    ],
+    "wof:id":857211989,
+    "wof:lastmodified":1464124439,
+    "wof:name":"GE Capital Corp",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -88.71011,
+    34.223421,
+    -88.71011,
+    34.223421
+],
+  "geometry": {"coordinates":[-88.71011,34.223421],"type":"Point"}
+}

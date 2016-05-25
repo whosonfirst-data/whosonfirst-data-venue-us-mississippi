@@ -1,0 +1,71 @@
+{
+  "id": 857358863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.297896,33.527768,-88.297896,33.527768",
+    "geom:latitude":33.527768,
+    "geom:longitude":-88.297896,
+    "iso:country":"US",
+    "sg:address":"900 Pleasant Hill Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8099",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_005pDw8yJvMS7dwxbC3TLq_33.527768_-88.297896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127676,
+    "wof:geomhash":"68975f0c2844cb9ec53074a0bf40793d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857358863
+        }
+    ],
+    "wof:id":857358863,
+    "wof:lastmodified":1464127676,
+    "wof:name":"Conn Building & Remodeling",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.297896,
+    33.527768,
+    -88.297896,
+    33.527768
+],
+  "geometry": {"coordinates":[-88.29789599999999,33.527768],"type":"Point"}
+}

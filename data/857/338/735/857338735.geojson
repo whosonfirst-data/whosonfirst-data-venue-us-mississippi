@@ -1,0 +1,73 @@
+{
+  "id": 857338735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.420707,33.509051,-88.420707,33.509051",
+    "geom:latitude":33.509051,
+    "geom:longitude":-88.420707,
+    "iso:country":"US",
+    "sg:address":"1126 Park Cir",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5877",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hearing",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wE3aJqhhvqSffKOoklHp5_33.509051_-88.420707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127247,
+    "wof:geomhash":"c1faefba2cce14e9aee2a54f107e4143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857338735
+        }
+    ],
+    "wof:id":857338735,
+    "wof:lastmodified":1464127247,
+    "wof:name":"Faye Tabor",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -88.420707,
+    33.509051,
+    -88.420707,
+    33.509051
+],
+  "geometry": {"coordinates":[-88.42070699999999,33.509051],"type":"Point"}
+}

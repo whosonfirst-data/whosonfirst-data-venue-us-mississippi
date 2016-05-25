@@ -1,0 +1,70 @@
+{
+  "id": 857483705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.421174,31.317559,-89.421174,31.317559",
+    "geom:latitude":31.317559,
+    "geom:longitude":-89.421174,
+    "iso:country":"US",
+    "sg:address":"6555 U S Highway 98",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/oloh/246994-seasons-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 450 4090",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gyxUDH4G1vFOhk3fDSwFk_31.317559_-89.421174@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130440,
+    "wof:geomhash":"774913ecb24308523cadf7c9073cfd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857483705
+        }
+    ],
+    "wof:id":857483705,
+    "wof:lastmodified":1464130440,
+    "wof:name":"Seasons Restaurant",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.421174,
+    31.317559,
+    -89.421174,
+    31.317559
+],
+  "geometry": {"coordinates":[-89.42117399999999,31.317559],"type":"Point"}
+}

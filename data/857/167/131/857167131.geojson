@@ -1,0 +1,75 @@
+{
+  "id": 857167131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.084517,33.554694,-89.084517,33.554694",
+    "geom:latitude":33.554694,
+    "geom:longitude":-89.084517,
+    "iso:country":"US",
+    "sg:address":"2548 Maben Starkville Rd",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 4545",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qm0jdd6MY3CNeJU5Zx8Bw_33.554694_-89.084517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123514,
+    "wof:geomhash":"ee195ab1aea5f58042f45e858bcf6759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857167131
+        }
+    ],
+    "wof:id":857167131,
+    "wof:lastmodified":1464123514,
+    "wof:name":"Jamie's Body Shop",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.084517,
+    33.554694,
+    -89.084517,
+    33.554694
+],
+  "geometry": {"coordinates":[-89.08451700000001,33.554694],"type":"Point"}
+}

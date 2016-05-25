@@ -1,0 +1,71 @@
+{
+  "id": 857290511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.689168,32.357785,-88.689168,32.357785",
+    "geom:latitude":32.357785,
+    "geom:longitude":-88.689168,
+    "iso:country":"US",
+    "sg:address":"818 18th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0423",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYz6GB9zUZqjqx031o7yH_32.357785_-88.689168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126158,
+    "wof:geomhash":"9349783c82fb00a88016792afb9f43c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857290511
+        }
+    ],
+    "wof:id":857290511,
+    "wof:lastmodified":1464126158,
+    "wof:name":"Rodgers Bbq",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.689168,
+    32.357785,
+    -88.689168,
+    32.357785
+],
+  "geometry": {"coordinates":[-88.689168,32.357785],"type":"Point"}
+}

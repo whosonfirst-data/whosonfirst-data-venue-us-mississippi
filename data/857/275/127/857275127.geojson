@@ -1,0 +1,71 @@
+{
+  "id": 857275127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.63781,31.287576,-89.63781,31.287576",
+    "geom:latitude":31.287576,
+    "geom:longitude":-89.63781,
+    "iso:country":"US",
+    "sg:address":"9147 US Hwy 98",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 7088",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B9EpO7ZyyOBNcScrZ8mEi_31.287576_-89.637810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125793,
+    "wof:geomhash":"0f129c52802cc9e10cb0660d1aa750f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857275127
+        }
+    ],
+    "wof:id":857275127,
+    "wof:lastmodified":1464125793,
+    "wof:name":"Royality Music Group LLC",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.63781,
+    31.287576,
+    -89.63781,
+    31.287576
+],
+  "geometry": {"coordinates":[-89.63781,31.287576],"type":"Point"}
+}

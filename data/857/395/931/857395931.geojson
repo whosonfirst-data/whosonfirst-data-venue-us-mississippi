@@ -1,0 +1,73 @@
+{
+  "id": 857395931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089031,32.432255,-90.089031,32.432255",
+    "geom:latitude":32.432255,
+    "geom:longitude":-90.089031,
+    "iso:country":"US",
+    "sg:address":"134 Highwoods Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 833 5092",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "railroad",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jveEmpcSxYxscBsg5cWv2_32.432255_-90.089031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128545,
+    "wof:geomhash":"62b3fef32e18555490380b5d905f871d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857395931
+        }
+    ],
+    "wof:id":857395931,
+    "wof:lastmodified":1464128545,
+    "wof:name":"Smith Railway Svc Inc",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.089031,
+    32.432255,
+    -90.089031,
+    32.432255
+],
+  "geometry": {"coordinates":[-90.08903100000001,32.432255],"type":"Point"}
+}

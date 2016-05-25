@@ -1,0 +1,71 @@
+{
+  "id": 857272629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.078673,33.356792,-89.078673,33.356792",
+    "geom:latitude":33.356792,
+    "geom:longitude":-89.078673,
+    "iso:country":"US",
+    "sg:address":"3958 Shaw Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 418 9776",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YrujYszC39qGzxZbr2tLH_33.356792_-89.078673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125737,
+    "wof:geomhash":"f68efc8b80670d3836c926133be17323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857272629
+        }
+    ],
+    "wof:id":857272629,
+    "wof:lastmodified":1464125737,
+    "wof:name":"RR Construction",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -89.078673,
+    33.356792,
+    -89.078673,
+    33.356792
+],
+  "geometry": {"coordinates":[-89.07867299999999,33.356792],"type":"Point"}
+}

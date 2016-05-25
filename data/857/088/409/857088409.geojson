@@ -1,0 +1,71 @@
+{
+  "id": 857088409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.506074,34.388533,-89.506074,34.388533",
+    "geom:latitude":34.388533,
+    "geom:longitude":-89.506074,
+    "iso:country":"US",
+    "sg:address":"15 Co Rd 178",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5094",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cp9JGbna53Zpq4os9Tg7n_34.388533_-89.506074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121624,
+    "wof:geomhash":"3c63f5fe47e08235f3f9f2efb6f82f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857088409
+        }
+    ],
+    "wof:id":857088409,
+    "wof:lastmodified":1464121624,
+    "wof:name":"Simmons Plumbing & Electric",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.506074,
+    34.388533,
+    -89.506074,
+    34.388533
+],
+  "geometry": {"coordinates":[-89.506074,34.388533],"type":"Point"}
+}

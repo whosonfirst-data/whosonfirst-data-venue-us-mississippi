@@ -1,0 +1,71 @@
+{
+  "id": 857126761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.864995,34.88943,-89.864995,34.88943",
+    "geom:latitude":34.88943,
+    "geom:longitude":-89.864995,
+    "iso:country":"US",
+    "sg:address":"7047 Bethel Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 5647",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UQVmTMjrgR8UerbVypmJR_34.889430_-89.864995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122602,
+    "wof:geomhash":"091bf5f86e1e5d30a83add4bccad6756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857126761
+        }
+    ],
+    "wof:id":857126761,
+    "wof:lastmodified":1464122602,
+    "wof:name":"Oakridge Homes",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.864995,
+    34.88943,
+    -89.864995,
+    34.88943
+],
+  "geometry": {"coordinates":[-89.86499499999999,34.88943],"type":"Point"}
+}

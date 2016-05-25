@@ -1,0 +1,71 @@
+{
+  "id": 857312945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864767,32.275588,-90.864767,32.275588",
+    "geom:latitude":32.275588,
+    "geom:longitude":-90.864767,
+    "iso:country":"US",
+    "sg:address":"143 Shady Grove Cir",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8841",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PnKsiL5XyYv5hDq9enhHH_32.275588_-90.864767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126680,
+    "wof:geomhash":"2346676a3f0efdf034ae8cd4ccfae1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857312945
+        }
+    ],
+    "wof:id":857312945,
+    "wof:lastmodified":1464126680,
+    "wof:name":"Piazza Plumbing Co Inc",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.864767,
+    32.275588,
+    -90.864767,
+    32.275588
+],
+  "geometry": {"coordinates":[-90.864767,32.275588],"type":"Point"}
+}

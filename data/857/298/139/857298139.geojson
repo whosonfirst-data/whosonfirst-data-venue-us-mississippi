@@ -1,0 +1,74 @@
+{
+  "id": 857298139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.755817,34.264652,-88.755817,34.264652",
+    "geom:latitude":34.264652,
+    "geom:longitude":-88.755817,
+    "iso:country":"US",
+    "sg:address":"2213 W Jackson St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 7800",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.contractcomputer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aNGmlnhjosmHWNClNoYmy_34.264652_-88.755817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126368,
+    "wof:geomhash":"c377f635a8e843d5d4be1c2104e7bf81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857298139
+        }
+    ],
+    "wof:id":857298139,
+    "wof:lastmodified":1464126368,
+    "wof:name":"Contract Computer Svc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.755817,
+    34.264652,
+    -88.755817,
+    34.264652
+],
+  "geometry": {"coordinates":[-88.75581699999999,34.264652],"type":"Point"}
+}

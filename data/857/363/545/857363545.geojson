@@ -1,0 +1,69 @@
+{
+  "id": 857363545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.417936,31.143346,-89.417936,31.143346",
+    "geom:latitude":31.143346,
+    "geom:longitude":-89.417936,
+    "iso:country":"US",
+    "sg:address":"100 Shelby Speights Dr",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 8634",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06DasgNuxKNxx43RRgMAhO_31.143346_-89.417936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127776,
+    "wof:geomhash":"0acfa98f792e8a459c7f403b480b2f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857363545
+        }
+    ],
+    "wof:id":857363545,
+    "wof:lastmodified":1464127776,
+    "wof:name":"Myatt's Food Store",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.417936,
+    31.143346,
+    -89.417936,
+    31.143346
+],
+  "geometry": {"coordinates":[-89.417936,31.143346],"type":"Point"}
+}

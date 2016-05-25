@@ -1,0 +1,73 @@
+{
+  "id": 857470483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.518496,32.486629,-88.518496,32.486629",
+    "geom:latitude":32.486629,
+    "geom:longitude":-88.518496,
+    "iso:country":"US",
+    "sg:address":"3631 Church Ln",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 8324",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BjtT6I5YTDBX6AzPn0WfS_32.486629_-88.518496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130180,
+    "wof:geomhash":"0386c3d15e34d56ac2eef1d796639448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857470483
+        }
+    ],
+    "wof:id":857470483,
+    "wof:lastmodified":1464130180,
+    "wof:name":"Enviro-Tech",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.518496,
+    32.486629,
+    -88.518496,
+    32.486629
+],
+  "geometry": {"coordinates":[-88.518496,32.486629],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857368113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.329648,33.582487,-88.329648,33.582487",
+    "geom:latitude":33.582487,
+    "geom:longitude":-88.329648,
+    "iso:country":"US",
+    "sg:address":"1124 Steens Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0913",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h840JHZUNXTiw9ZsR2wdt_33.582487_-88.329648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127865,
+    "wof:geomhash":"73f1744dff08fe3a5cee7a91b4e01579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857368113
+        }
+    ],
+    "wof:id":857368113,
+    "wof:lastmodified":1464127865,
+    "wof:name":"Hall Plumbing & Repair",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.329648,
+    33.582487,
+    -88.329648,
+    33.582487
+],
+  "geometry": {"coordinates":[-88.32964800000001,33.582487],"type":"Point"}
+}

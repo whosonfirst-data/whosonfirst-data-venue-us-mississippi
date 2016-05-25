@@ -1,0 +1,71 @@
+{
+  "id": 857422211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542034,33.824842,-88.542034,33.824842",
+    "geom:latitude":33.824842,
+    "geom:longitude":-88.542034,
+    "iso:country":"US",
+    "sg:address":"108 S Maple St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2212",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n41rZHS4HOC7G3OjClA4c_33.824842_-88.542034@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129154,
+    "wof:geomhash":"221f098296ecd917ef6b4c502be063ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857422211
+        }
+    ],
+    "wof:id":857422211,
+    "wof:lastmodified":1464129154,
+    "wof:name":"Vaughn's Beauty College",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -88.542034,
+    33.824842,
+    -88.542034,
+    33.824842
+],
+  "geometry": {"coordinates":[-88.542034,33.824842],"type":"Point"}
+}

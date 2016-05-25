@@ -1,0 +1,71 @@
+{
+  "id": 857275017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405563,32.863728,-90.405563,32.863728",
+    "geom:latitude":32.863728,
+    "geom:longitude":-90.405563,
+    "iso:country":"US",
+    "sg:address":"1107 Lamar Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1128",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jKJH6ZxkYnXbpRqm4ev6B_32.863728_-90.405563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125791,
+    "wof:geomhash":"e593e55a40553bd6c796786d00ab8be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857275017
+        }
+    ],
+    "wof:id":857275017,
+    "wof:lastmodified":1464125791,
+    "wof:name":"Lamar Red Barn",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.405563,
+    32.863728,
+    -90.405563,
+    32.863728
+],
+  "geometry": {"coordinates":[-90.405563,32.863728],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 857279497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.138382,32.33164,-90.138382,32.33164",
+    "geom:latitude":32.33164,
+    "geom:longitude":-90.138382,
+    "iso:country":"US",
+    "sg:address":"1801 Crane Ridge Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 1469",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DxSBThEGXShrzOQnyFtbY_32.331640_-90.138382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125910,
+    "wof:geomhash":"1cd24a783765a8d79dd5f82542857b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857279497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857279497
+        }
+    ],
+    "wof:id":857279497,
+    "wof:lastmodified":1464125910,
+    "wof:name":"Pathways Counseling Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -90.138382,
+    32.33164,
+    -90.138382,
+    32.33164
+],
+  "geometry": {"coordinates":[-90.13838199999999,32.33164],"type":"Point"}
+}

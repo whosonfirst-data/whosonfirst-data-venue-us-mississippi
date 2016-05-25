@@ -1,0 +1,71 @@
+{
+  "id": 857419683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.517581,34.363896,-89.517581,34.363896",
+    "geom:latitude":34.363896,
+    "geom:longitude":-89.517581,
+    "iso:country":"US",
+    "sg:address":"1309 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 5303",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X6iUMDFUjuO0GUSUnCVvC_34.363896_-89.517581@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129088,
+    "wof:geomhash":"ed236175b85404c7beb5be1b7ff0b57c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857419683
+        }
+    ],
+    "wof:id":857419683,
+    "wof:lastmodified":1464129088,
+    "wof:name":"Newks Express Cafe",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.517581,
+    34.363896,
+    -89.517581,
+    34.363896
+],
+  "geometry": {"coordinates":[-89.51758100000001,34.363896],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857336615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.270511,31.266641,-89.270511,31.266641",
+    "geom:latitude":31.266641,
+    "geom:longitude":-89.270511,
+    "iso:country":"US",
+    "sg:address":"457 J M Tatum Industrial Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2690",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gagdKCt1H9FSlETBbIAeF_31.266641_-89.270511@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127199,
+    "wof:geomhash":"220e2f29cc621791754106ac1edd2352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857336615
+        }
+    ],
+    "wof:id":857336615,
+    "wof:lastmodified":1464127199,
+    "wof:name":"USA Yeast",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -89.270511,
+    31.266641,
+    -89.270511,
+    31.266641
+],
+  "geometry": {"coordinates":[-89.270511,31.266641],"type":"Point"}
+}

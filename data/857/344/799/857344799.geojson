@@ -1,0 +1,73 @@
+{
+  "id": 857344799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706773,34.314085,-88.706773,34.314085",
+    "geom:latitude":34.314085,
+    "geom:longitude":-88.706773,
+    "iso:country":"US",
+    "sg:address":"3930 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2900",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32eCrwlyBwGcI5znIJDxDO_34.314085_-88.706773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127367,
+    "wof:geomhash":"3e29e4c53eceec2ae3b1a204ea198667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857344799
+        }
+    ],
+    "wof:id":857344799,
+    "wof:lastmodified":1464127367,
+    "wof:name":"Cellular South",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.706773,
+    34.314085,
+    -88.706773,
+    34.314085
+],
+  "geometry": {"coordinates":[-88.706773,34.314085],"type":"Point"}
+}

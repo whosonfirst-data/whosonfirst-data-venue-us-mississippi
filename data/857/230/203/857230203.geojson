@@ -1,0 +1,73 @@
+{
+  "id": 857230203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.34312,33.455618,-88.34312,33.455618",
+    "geom:latitude":33.455618,
+    "geom:longitude":-88.34312,
+    "iso:country":"US",
+    "sg:address":"422 Jones Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5037",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parlor",
+        "shoe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uz5h2DY1fhOJMOays93zo_33.455618_-88.343120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124811,
+    "wof:geomhash":"e5b06c770df96e90009e1faf1dde2b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857230203
+        }
+    ],
+    "wof:id":857230203,
+    "wof:lastmodified":1464124811,
+    "wof:name":"Grand Shoe Shop",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "shoe"
+    ]
+},
+  "bbox": [
+    -88.34312,
+    33.455618,
+    -88.34312,
+    33.455618
+],
+  "geometry": {"coordinates":[-88.34312,33.455618],"type":"Point"}
+}

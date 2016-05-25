@@ -1,0 +1,71 @@
+{
+  "id": 857277113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845128,33.445132,-88.845128,33.445132",
+    "geom:latitude":33.445132,
+    "geom:longitude":-88.845128,
+    "iso:country":"US",
+    "sg:address":"112 Airport Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 325 7205",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "administration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bYeqG5H1K4cEJ6AEfkWET_33.445132_-88.845128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125847,
+    "wof:geomhash":"877e89973befad7c24f74b2115a54328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857277113
+        }
+    ],
+    "wof:id":857277113,
+    "wof:lastmodified":1464125847,
+    "wof:name":"Starkvll-Ktbbeha Cnty Arprt Bd",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration"
+    ]
+},
+  "bbox": [
+    -88.845128,
+    33.445132,
+    -88.845128,
+    33.445132
+],
+  "geometry": {"coordinates":[-88.845128,33.445132],"type":"Point"}
+}

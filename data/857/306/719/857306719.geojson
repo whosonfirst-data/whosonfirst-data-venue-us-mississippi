@@ -1,0 +1,67 @@
+{
+  "id": 857306719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.660653,34.204115,-88.660653,34.204115",
+    "geom:latitude":34.204115,
+    "geom:longitude":-88.660653,
+    "iso:country":"US",
+    "sg:address":"2657 Main St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4690",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:website":"www.lcs.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Or7qpsshv5oI01Q9lIwn_34.204115_-88.660653@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126552,
+    "wof:geomhash":"d09e9df9525a86b9dc9e3ec2585b2df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857306719
+        }
+    ],
+    "wof:id":857306719,
+    "wof:lastmodified":1464126552,
+    "wof:name":"Plantersville School",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.660653,
+    34.204115,
+    -88.660653,
+    34.204115
+],
+  "geometry": {"coordinates":[-88.660653,34.204115],"type":"Point"}
+}

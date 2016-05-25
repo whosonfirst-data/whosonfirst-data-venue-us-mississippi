@@ -1,0 +1,71 @@
+{
+  "id": 857486831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.578796,34.201806,-90.578796,34.201806",
+    "geom:latitude":34.201806,
+    "geom:longitude":-90.578796,
+    "iso:country":"US",
+    "sg:address":"125 W 2nd St Apt 212",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2902",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WFOCILGBERBy19KoC4JYs_34.201806_-90.578796@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130500,
+    "wof:geomhash":"237f54fb88b639ea6f7e6a1e9287c99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486831
+        }
+    ],
+    "wof:id":857486831,
+    "wof:lastmodified":1464130500,
+    "wof:name":"Kincade Apartments",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.578796,
+    34.201806,
+    -90.578796,
+    34.201806
+],
+  "geometry": {"coordinates":[-90.578796,34.201806],"type":"Point"}
+}

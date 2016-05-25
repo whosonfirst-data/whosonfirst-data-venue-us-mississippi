@@ -1,0 +1,73 @@
+{
+  "id": 857243141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.83098,34.858747,-89.83098,34.858747",
+    "geom:latitude":34.858747,
+    "geom:longitude":-89.83098,
+    "iso:country":"US",
+    "sg:address":"350 Hwy 305 S",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3098",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "inn",
+        "retreat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S9hTErCrXPDxijsWyD0Co_34.858747_-89.830980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125085,
+    "wof:geomhash":"c4ce76c9cdf7501706cf5bd4077c886b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857243141
+        }
+    ],
+    "wof:id":857243141,
+    "wof:lastmodified":1464125085,
+    "wof:name":"Brigadoon Farm Retreat",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "retreat"
+    ]
+},
+  "bbox": [
+    -89.83098,
+    34.858747,
+    -89.83098,
+    34.858747
+],
+  "geometry": {"coordinates":[-89.83098,34.858747],"type":"Point"}
+}

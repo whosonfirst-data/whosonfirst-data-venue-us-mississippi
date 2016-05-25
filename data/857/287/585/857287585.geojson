@@ -1,0 +1,71 @@
+{
+  "id": 857287585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.550778,30.350205,-88.550778,30.350205",
+    "geom:latitude":30.350205,
+    "geom:longitude":-88.550778,
+    "iso:country":"US",
+    "sg:address":"1007 Buena Vista St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 5092",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RC8nHQEWzZeQzqkIK8NA9_30.350205_-88.550778@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126076,
+    "wof:geomhash":"45f2e8e69abf246e0a983f2313604c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857287585
+        }
+    ],
+    "wof:id":857287585,
+    "wof:lastmodified":1464126076,
+    "wof:name":"Cada",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.550778,
+    30.350205,
+    -88.550778,
+    30.350205
+],
+  "geometry": {"coordinates":[-88.55077799999999,30.350205],"type":"Point"}
+}

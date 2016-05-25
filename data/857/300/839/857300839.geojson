@@ -1,0 +1,71 @@
+{
+  "id": 857300839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.515728,32.515676,-88.515728,32.515676",
+    "geom:latitude":32.515676,
+    "geom:longitude":-88.515728,
+    "iso:country":"US",
+    "sg:address":"3632 Lauderdale Rd",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 8806",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vxx0YWvujam0V3Z33bPJw_32.515676_-88.515728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126430,
+    "wof:geomhash":"cceaaaaab393cb3b9d4bdb81d92fe914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857300839
+        }
+    ],
+    "wof:id":857300839,
+    "wof:lastmodified":1464126430,
+    "wof:name":"Lauderdale United Meth Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.515728,
+    32.515676,
+    -88.515728,
+    32.515676
+],
+  "geometry": {"coordinates":[-88.515728,32.515676],"type":"Point"}
+}

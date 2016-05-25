@@ -1,0 +1,77 @@
+{
+  "id": 857352137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.186536,32.287352,-90.186536,32.287352",
+    "geom:latitude":32.287352,
+    "geom:longitude":-90.186536,
+    "iso:country":"US",
+    "sg:address":"980 S West St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 2868",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Kn1fjnQvewZQJbpEujVZ_32.287352_-90.186536@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127532,
+    "wof:geomhash":"7dbcc2092b715ec1267b30f6cfc839ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857352137
+        }
+    ],
+    "wof:id":857352137,
+    "wof:lastmodified":1464127532,
+    "wof:name":"Jackson Automotive Body Shop",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.186536,
+    32.287352,
+    -90.186536,
+    32.287352
+],
+  "geometry": {"coordinates":[-90.186536,32.287352],"type":"Point"}
+}

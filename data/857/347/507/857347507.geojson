@@ -1,0 +1,73 @@
+{
+  "id": 857347507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.559198,30.374163,-88.559198,30.374163",
+    "geom:latitude":30.374163,
+    "geom:longitude":-88.559198,
+    "iso:country":"US",
+    "sg:address":"4101 Cedar St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7490",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19IEI1e6Q34Z7Y14F5ZEKs_30.374163_-88.559198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127429,
+    "wof:geomhash":"8ff0ba128a89bfb61857f337c3ff9257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857347507
+        }
+    ],
+    "wof:id":857347507,
+    "wof:lastmodified":1464127429,
+    "wof:name":"Lynn's Machine Works",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.559198,
+    30.374163,
+    -88.559198,
+    30.374163
+],
+  "geometry": {"coordinates":[-88.55919799999999,30.374163],"type":"Point"}
+}

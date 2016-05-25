@@ -1,0 +1,71 @@
+{
+  "id": 857471275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.783145,30.399887,-88.783145,30.399887",
+    "geom:latitude":30.399887,
+    "geom:longitude":-88.783145,
+    "iso:country":"US",
+    "sg:address":"105 Shady Oaks Ln",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 6988",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VtOjJCtFrewypwfd3s502_30.399887_-88.783145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130200,
+    "wof:geomhash":"835f1910b11db76220dac87a4e19a92f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857471275
+        }
+    ],
+    "wof:id":857471275,
+    "wof:lastmodified":1464130200,
+    "wof:name":"GWL Advertising",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -88.783145,
+    30.399887,
+    -88.783145,
+    30.399887
+],
+  "geometry": {"coordinates":[-88.783145,30.399887],"type":"Point"}
+}

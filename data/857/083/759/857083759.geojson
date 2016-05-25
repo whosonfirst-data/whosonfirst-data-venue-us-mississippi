@@ -1,0 +1,73 @@
+{
+  "id": 857083759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.891245,33.44958,-88.891245,33.44958",
+    "geom:latitude":33.44958,
+    "geom:longitude":-88.891245,
+    "iso:country":"US",
+    "sg:address":"1321 Yeates Subdivision Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8182",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7buXmQSp10jSlFQHJKUNhz_33.449580_-88.891245@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121506,
+    "wof:geomhash":"acf34c5ebe68bf6ff458c6db6474f6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857083759
+        }
+    ],
+    "wof:id":857083759,
+    "wof:lastmodified":1464121506,
+    "wof:name":"D & L Enterprises",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.891245,
+    33.44958,
+    -88.891245,
+    33.44958
+],
+  "geometry": {"coordinates":[-88.891245,33.44958],"type":"Point"}
+}

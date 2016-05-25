@@ -1,0 +1,73 @@
+{
+  "id": 857277023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.224735,32.260312,-90.224735,32.260312",
+    "geom:latitude":32.260312,
+    "geom:longitude":-90.224735,
+    "iso:country":"US",
+    "sg:address":"153 W Santa Clair St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 371 2731",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25DkUP3yFuI6Ot2P4hKaVX_32.260312_-90.224735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125845,
+    "wof:geomhash":"2e6ec5ee43da24e7f8811068f9df650c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857277023
+        }
+    ],
+    "wof:id":857277023,
+    "wof:lastmodified":1464125845,
+    "wof:name":"Old Fashion Svc",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.224735,
+    32.260312,
+    -90.224735,
+    32.260312
+],
+  "geometry": {"coordinates":[-90.224735,32.260312],"type":"Point"}
+}

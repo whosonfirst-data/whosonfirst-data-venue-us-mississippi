@@ -1,0 +1,73 @@
+{
+  "id": 857135125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.14157,32.470693,-90.14157,32.470693",
+    "geom:latitude":32.470693,
+    "geom:longitude":-90.14157,
+    "iso:country":"US",
+    "sg:address":"220 Key Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 7474",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sqpiZ8KBDS1ISy3lNJBjl_32.470693_-90.141570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122785,
+    "wof:geomhash":"872991814be96436d01d6c03eb1873e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857135125
+        }
+    ],
+    "wof:id":857135125,
+    "wof:lastmodified":1464122785,
+    "wof:name":"Olde Towne Cleaners",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.14157,
+    32.470693,
+    -90.14157,
+    32.470693
+],
+  "geometry": {"coordinates":[-90.14157,32.470693],"type":"Point"}
+}

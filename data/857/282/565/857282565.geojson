@@ -1,0 +1,75 @@
+{
+  "id": 857282565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.656502,34.255738,-88.656502,34.255738",
+    "geom:latitude":34.255738,
+    "geom:longitude":-88.656502,
+    "iso:country":"US",
+    "sg:address":"4579 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 377 3161",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BMiT74ItwKkFlEOswgMth_34.255738_-88.656502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125973,
+    "wof:geomhash":"dac252a3520a1a08dcd87dae7a491d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857282565
+        }
+    ],
+    "wof:id":857282565,
+    "wof:lastmodified":1464125973,
+    "wof:name":"Nmmc Behavioral Health Ctr",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -88.656502,
+    34.255738,
+    -88.656502,
+    34.255738
+],
+  "geometry": {"coordinates":[-88.656502,34.255738],"type":"Point"}
+}

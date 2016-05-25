@@ -1,0 +1,69 @@
+{
+  "id": 857145385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.84741,32.29162,-90.84741,32.29162",
+    "geom:latitude":32.29162,
+    "geom:longitude":-90.84741,
+    "iso:country":"US",
+    "sg:address":"4828 Gibson Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 629 9760",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oS22TFAv4zzNxGOdAF5V3_32.291620_-90.847410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123049,
+    "wof:geomhash":"1d800f6efd2e23fa76d7087b23cbebbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857145385
+        }
+    ],
+    "wof:id":857145385,
+    "wof:lastmodified":1464123049,
+    "wof:name":"Morgans Taxidermy",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -90.84741,
+    32.29162,
+    -90.84741,
+    32.29162
+],
+  "geometry": {"coordinates":[-90.84741,32.29162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857201083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.828908,34.947329,-89.828908,34.947329",
+    "geom:latitude":34.947329,
+    "geom:longitude":-89.828908,
+    "iso:country":"US",
+    "sg:address":"9065 E Sandidge Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 7400",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:website":"www.medicineshoppe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ehfH8igD7ZVOj2Jw1afr7_34.947329_-89.828908@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124195,
+    "wof:geomhash":"38fbcf3ff0a1a6a4c0a1486e26369f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857201083
+        }
+    ],
+    "wof:id":857201083,
+    "wof:lastmodified":1464124195,
+    "wof:name":"Medicine Shoppe Pharmacy",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.828908,
+    34.947329,
+    -89.828908,
+    34.947329
+],
+  "geometry": {"coordinates":[-89.828908,34.947329],"type":"Point"}
+}

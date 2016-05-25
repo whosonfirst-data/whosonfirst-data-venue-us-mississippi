@@ -1,0 +1,71 @@
+{
+  "id": 857295769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707536,34.302032,-88.707536,34.302032",
+    "geom:latitude":34.302032,
+    "geom:longitude":-88.707536,
+    "iso:country":"US",
+    "sg:address":"3353 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 407 0334",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ophthalmologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ieYjUq0J1s4N1XeTe62M4_34.302032_-88.707536@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126318,
+    "wof:geomhash":"65f5167b74fdfc271fa170d43e0d4064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857295769
+        }
+    ],
+    "wof:id":857295769,
+    "wof:lastmodified":1464126318,
+    "wof:name":"Tupelo Surgery Center LLC",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist"
+    ]
+},
+  "bbox": [
+    -88.707536,
+    34.302032,
+    -88.707536,
+    34.302032
+],
+  "geometry": {"coordinates":[-88.707536,34.302032],"type":"Point"}
+}

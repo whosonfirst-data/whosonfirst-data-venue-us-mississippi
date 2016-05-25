@@ -1,0 +1,71 @@
+{
+  "id": 857389903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.663721,34.198838,-88.663721,34.198838",
+    "geom:latitude":34.198838,
+    "geom:longitude":-88.663721,
+    "iso:country":"US",
+    "sg:address":"131 Cedar St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6363",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l8AXxJrTEu7741j6BxK7q_34.198838_-88.663721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128429,
+    "wof:geomhash":"3e4ab45b8d33c42af0a8caec9f647d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857389903
+        }
+    ],
+    "wof:id":857389903,
+    "wof:lastmodified":1464128429,
+    "wof:name":"Rolling T LLC",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.663721,
+    34.198838,
+    -88.663721,
+    34.198838
+],
+  "geometry": {"coordinates":[-88.663721,34.198838],"type":"Point"}
+}

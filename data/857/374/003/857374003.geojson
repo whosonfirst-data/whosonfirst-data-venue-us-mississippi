@@ -1,0 +1,71 @@
+{
+  "id": 857374003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.517288,30.35002,-88.517288,30.35002",
+    "geom:latitude":30.35002,
+    "geom:longitude":-88.517288,
+    "iso:country":"US",
+    "sg:address":"1411 Pawnee St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2357",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T8qv65xW73H0FvzQgNSAA_30.350020_-88.517288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127989,
+    "wof:geomhash":"71ed61486f4e5ebe122cfef1e7d45768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857374003
+        }
+    ],
+    "wof:id":857374003,
+    "wof:lastmodified":1464127989,
+    "wof:name":"Southern Builders",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.517288,
+    30.35002,
+    -88.517288,
+    30.35002
+],
+  "geometry": {"coordinates":[-88.51728799999999,30.35002],"type":"Point"}
+}

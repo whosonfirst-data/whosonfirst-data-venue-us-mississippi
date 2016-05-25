@@ -1,0 +1,71 @@
+{
+  "id": 857113251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.28553,31.331059,-89.28553,31.331059",
+    "geom:latitude":31.331059,
+    "geom:longitude":-89.28553,
+    "iso:country":"US",
+    "sg:address":"601 E Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 450 4145",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gHTwDLsrzYrBaXGe4veTE_31.331059_-89.285530@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122262,
+    "wof:geomhash":"b936a513b5e38743d7d856630aef3a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857113251
+        }
+    ],
+    "wof:id":857113251,
+    "wof:lastmodified":1464122262,
+    "wof:name":"Vineyard Ministries",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.28553,
+    31.331059,
+    -89.28553,
+    31.331059
+],
+  "geometry": {"coordinates":[-89.28552999999999,31.331059],"type":"Point"}
+}

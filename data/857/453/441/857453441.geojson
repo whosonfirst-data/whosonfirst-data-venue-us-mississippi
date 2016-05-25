@@ -1,0 +1,73 @@
+{
+  "id": 857453441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123142,32.246814,-90.123142,32.246814",
+    "geom:latitude":32.246814,
+    "geom:longitude":-90.123142,
+    "iso:country":"US",
+    "sg:address":"2630 Court House Cir",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 3577",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ji3kVB5JbxPN4lbGWtCK3_32.246814_-90.123142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129825,
+    "wof:geomhash":"f33762021f671f8b24d61bbbb57480a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857453441
+        }
+    ],
+    "wof:id":857453441,
+    "wof:lastmodified":1464129825,
+    "wof:name":"Countrywide Home Loans",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -90.123142,
+    32.246814,
+    -90.123142,
+    32.246814
+],
+  "geometry": {"coordinates":[-90.123142,32.246814],"type":"Point"}
+}

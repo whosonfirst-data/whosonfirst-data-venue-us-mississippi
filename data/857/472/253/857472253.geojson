@@ -1,0 +1,71 @@
+{
+  "id": 857472253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437705,33.533376,-88.437705,33.533376",
+    "geom:latitude":33.533376,
+    "geom:longitude":-88.437705,
+    "iso:country":"US",
+    "sg:address":"2316 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7777",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ggPxO4oJNfGrNyUWvm41_33.533376_-88.437705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130223,
+    "wof:geomhash":"f3d8c36d746d65a03da9a7afafb870b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857472253
+        }
+    ],
+    "wof:id":857472253,
+    "wof:lastmodified":1464130223,
+    "wof:name":"Uniform Corner",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniform"
+    ]
+},
+  "bbox": [
+    -88.437705,
+    33.533376,
+    -88.437705,
+    33.533376
+],
+  "geometry": {"coordinates":[-88.43770499999999,33.533376],"type":"Point"}
+}

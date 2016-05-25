@@ -1,0 +1,71 @@
+{
+  "id": 857446221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099198,32.485089,-90.099198,32.485089",
+    "geom:latitude":32.485089,
+    "geom:longitude":-90.099198,
+    "iso:country":"US",
+    "sg:address":"1308 US Hwy 51",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 4343",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m1GddSwpzGn9k2OwnvlZC_32.485089_-90.099198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129686,
+    "wof:geomhash":"497c31ea8f94202be4c1bc229083ad6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857446221
+        }
+    ],
+    "wof:id":857446221,
+    "wof:lastmodified":1464129686,
+    "wof:name":"Nichols Center",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.099198,
+    32.485089,
+    -90.099198,
+    32.485089
+],
+  "geometry": {"coordinates":[-90.099198,32.485089],"type":"Point"}
+}

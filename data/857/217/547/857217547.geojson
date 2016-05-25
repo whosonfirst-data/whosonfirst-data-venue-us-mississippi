@@ -1,0 +1,73 @@
+{
+  "id": 857217547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42518,33.505899,-88.42518,33.505899",
+    "geom:latitude":33.505899,
+    "geom:longitude":-88.42518,
+    "iso:country":"US",
+    "sg:address":"904 N 9th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5060",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BqnvPik4hJvL7IK0nxx4s_33.505899_-88.425180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124565,
+    "wof:geomhash":"a93aef12172a39501605964dde1ffbb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857217547
+        }
+    ],
+    "wof:id":857217547,
+    "wof:lastmodified":1464124565,
+    "wof:name":"Redwood Roofing",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.42518,
+    33.505899,
+    -88.42518,
+    33.505899
+],
+  "geometry": {"coordinates":[-88.42518,33.505899],"type":"Point"}
+}

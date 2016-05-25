@@ -1,0 +1,76 @@
+{
+  "id": 857265389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437168,33.491489,-88.437168,33.491489",
+    "geom:latitude":33.491489,
+    "geom:longitude":-88.437168,
+    "iso:country":"US",
+    "sg:address":"383 Island Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6040",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fuel",
+        "equipment",
+        "injection"
+    ],
+    "sg:website":"www.msdiesel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24APsH6TCso2eNa6qkHQkB_33.491489_-88.437168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125599,
+    "wof:geomhash":"8d7a38861601f72bebc8d03ad343ae7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857265389
+        }
+    ],
+    "wof:id":857265389,
+    "wof:lastmodified":1464125599,
+    "wof:name":"Columbus Diesel Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel",
+        "equipment",
+        "injection"
+    ]
+},
+  "bbox": [
+    -88.437168,
+    33.491489,
+    -88.437168,
+    33.491489
+],
+  "geometry": {"coordinates":[-88.437168,33.491489],"type":"Point"}
+}

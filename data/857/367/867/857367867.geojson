@@ -1,0 +1,75 @@
+{
+  "id": 857367867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.897799,32.31655,-90.897799,32.31655",
+    "geom:latitude":32.31655,
+    "geom:longitude":-90.897799,
+    "iso:country":"US",
+    "sg:address":"4117 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 4441",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85851213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QewlLRi49GhtoBAeX2vGN_32.316550_-90.897799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127861,
+    "wof:geomhash":"6d753615bba8b7c8b4e4dd2cf6b101b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85851213,
+            "region_id":85688579,
+            "venue_id":857367867
+        }
+    ],
+    "wof:id":857367867,
+    "wof:lastmodified":1464127861,
+    "wof:name":"Automatic Transmission Service",
+    "wof:parent_id":85851213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.897799,
+    32.31655,
+    -90.897799,
+    32.31655
+],
+  "geometry": {"coordinates":[-90.89779900000001,32.31655],"type":"Point"}
+}

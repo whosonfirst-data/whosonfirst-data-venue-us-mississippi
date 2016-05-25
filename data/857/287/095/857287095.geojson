@@ -1,0 +1,71 @@
+{
+  "id": 857287095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671342,34.257556,-88.671342,34.257556",
+    "geom:latitude":34.257556,
+    "geom:longitude":-88.671342,
+    "iso:country":"US",
+    "sg:address":"1504 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4575",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_100gLVprrT9BmZRZLz461g_34.257556_-88.671342@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126067,
+    "wof:geomhash":"d0a10ecb3ebb53d0abb631e409a933ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857287095
+        }
+    ],
+    "wof:id":857287095,
+    "wof:lastmodified":1464126067,
+    "wof:name":"E-Z Carwash & Laundry",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -88.671342,
+    34.257556,
+    -88.671342,
+    34.257556
+],
+  "geometry": {"coordinates":[-88.671342,34.257556],"type":"Point"}
+}

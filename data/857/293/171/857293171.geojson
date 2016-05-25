@@ -1,0 +1,66 @@
+{
+  "id": 857293171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539186,30.367661,-88.539186,30.367661",
+    "geom:latitude":30.367661,
+    "geom:longitude":-88.539186,
+    "iso:country":"US",
+    "sg:address":"3219 14th St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 6481",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hrqzf4DrDOVsDD01hYXVz_30.367661_-88.539186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126225,
+    "wof:geomhash":"95f6d004fcbfcf08486e84c7a56a054a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857293171
+        }
+    ],
+    "wof:id":857293171,
+    "wof:lastmodified":1464126225,
+    "wof:name":"T & T Convenience Store",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.539186,
+    30.367661,
+    -88.539186,
+    30.367661
+],
+  "geometry": {"coordinates":[-88.539186,30.367661],"type":"Point"}
+}

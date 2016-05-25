@@ -1,0 +1,73 @@
+{
+  "id": 857249221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.068671,32.471661,-90.068671,32.471661",
+    "geom:latitude":32.471661,
+    "geom:longitude":-90.068671,
+    "iso:country":"US",
+    "sg:address":"125 Oak Ridge Cir",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 0034",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P5pGjxiMKxGKUnkH8N0Qt_32.471661_-90.068671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125226,
+    "wof:geomhash":"eb9d6a095d8278977289ebeb3e194730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857249221
+        }
+    ],
+    "wof:id":857249221,
+    "wof:lastmodified":1464125226,
+    "wof:name":"A & V Painting",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.068671,
+    32.471661,
+    -90.068671,
+    32.471661
+],
+  "geometry": {"coordinates":[-90.06867099999999,32.471661],"type":"Point"}
+}

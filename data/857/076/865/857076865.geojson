@@ -1,0 +1,71 @@
+{
+  "id": 857076865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509299,34.387162,-89.509299,34.387162",
+    "geom:latitude":34.387162,
+    "geom:longitude":-89.509299,
+    "iso:country":"US",
+    "sg:address":"1555 Chickasaw Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 1441",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XkAgyzN6x25GNpQEvzedh_34.387162_-89.509299@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121330,
+    "wof:geomhash":"e6f59244c1e2166d93abdc4f1cb6fcf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857076865
+        }
+    ],
+    "wof:id":857076865,
+    "wof:lastmodified":1464121330,
+    "wof:name":"M S I Properties LLC",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.509299,
+    34.387162,
+    -89.509299,
+    34.387162
+],
+  "geometry": {"coordinates":[-89.509299,34.387162],"type":"Point"}
+}

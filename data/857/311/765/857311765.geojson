@@ -1,0 +1,73 @@
+{
+  "id": 857311765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.258731,31.34788,-89.258731,31.34788",
+    "geom:latitude":31.34788,
+    "geom:longitude":-89.258731,
+    "iso:country":"US",
+    "sg:address":"201 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3141",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GyEd8LWsXm2A50y9mfLXB_31.347880_-89.258731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126656,
+    "wof:geomhash":"9ec25913e93642bd024e05416ffeb056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857311765
+        }
+    ],
+    "wof:id":857311765,
+    "wof:lastmodified":1464126656,
+    "wof:name":"Petal Drug Co Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.258731,
+    31.34788,
+    -89.258731,
+    31.34788
+],
+  "geometry": {"coordinates":[-89.258731,31.34788],"type":"Point"}
+}

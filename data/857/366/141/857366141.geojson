@@ -1,0 +1,73 @@
+{
+  "id": 857366141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40397,32.86046,-90.40397,32.86046",
+    "geom:latitude":32.86046,
+    "geom:longitude":-90.40397,
+    "iso:country":"US",
+    "sg:address":"925 Calhoun Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6651",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vGBQBx2bMEsgpamgMBBOL_32.860460_-90.403970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127827,
+    "wof:geomhash":"12c944b680fa1d0d343b0409b5f4bc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857366141
+        }
+    ],
+    "wof:id":857366141,
+    "wof:lastmodified":1464127827,
+    "wof:name":"Yazoo City Health & Rehab Ctr",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.40397,
+    32.86046,
+    -90.40397,
+    32.86046
+],
+  "geometry": {"coordinates":[-90.40397,32.86046],"type":"Point"}
+}

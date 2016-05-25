@@ -1,0 +1,69 @@
+{
+  "id": 857295159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.594654,34.35133,-88.594654,34.35133",
+    "geom:latitude":34.35133,
+    "geom:longitude":-88.594654,
+    "iso:country":"US",
+    "sg:address":"145 Rd 1325",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3838",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64JH6PlwPYE3qntd5uA570_34.351330_-88.594654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126296,
+    "wof:geomhash":"c6be2dc16f0d65da843795e6dfd58ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857295159
+        }
+    ],
+    "wof:id":857295159,
+    "wof:lastmodified":1464126296,
+    "wof:name":"Christie's Magik Maid",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -88.594654,
+    34.35133,
+    -88.594654,
+    34.35133
+],
+  "geometry": {"coordinates":[-88.59465400000001,34.35133],"type":"Point"}
+}

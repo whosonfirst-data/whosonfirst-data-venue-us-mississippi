@@ -1,0 +1,71 @@
+{
+  "id": 857435383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.281705,31.258706,-89.281705,31.258706",
+    "geom:latitude":31.258706,
+    "geom:longitude":-89.281705,
+    "iso:country":"US",
+    "sg:address":"4908 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3522",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41IsGecEvXs0P0dcLGXcnM_31.258706_-89.281705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129474,
+    "wof:geomhash":"1296a117b85ddfa99e99785e8d1a0f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857435383
+        }
+    ],
+    "wof:id":857435383,
+    "wof:lastmodified":1464129474,
+    "wof:name":"Bean Moving & Storage Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -89.281705,
+    31.258706,
+    -89.281705,
+    31.258706
+],
+  "geometry": {"coordinates":[-89.281705,31.258706],"type":"Point"}
+}

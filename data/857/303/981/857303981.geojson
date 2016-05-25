@@ -1,0 +1,66 @@
+{
+  "id": 857303981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71228,34.194051,-88.71228,34.194051",
+    "geom:latitude":34.194051,
+    "geom:longitude":-88.71228,
+    "iso:country":"US",
+    "sg:address":"222 Main St",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 4040",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CljkclE8bon96UFWgxg8u_34.194051_-88.712280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126496,
+    "wof:geomhash":"e7b26c9f184dc80b245af3caa7e13722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857303981
+        }
+    ],
+    "wof:id":857303981,
+    "wof:lastmodified":1464126496,
+    "wof:name":"Main Street Liquor & Wine",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.71228,
+    34.194051,
+    -88.71228,
+    34.194051
+],
+  "geometry": {"coordinates":[-88.71228000000001,34.194051],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857331083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676979,34.155222,-88.676979,34.155222",
+    "geom:latitude":34.155222,
+    "geom:longitude":-88.676979,
+    "iso:country":"US",
+    "sg:address":"409 Co Rd 520",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 3366",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltsVV0Py6Ykxj1bdHzDHp_34.155222_-88.676979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127075,
+    "wof:geomhash":"8aba2cb4622044097a2c6b9d46745d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857331083
+        }
+    ],
+    "wof:id":857331083,
+    "wof:lastmodified":1464127075,
+    "wof:name":"Mask Wayne Barber Shop",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.676979,
+    34.155222,
+    -88.676979,
+    34.155222
+],
+  "geometry": {"coordinates":[-88.676979,34.155222],"type":"Point"}
+}

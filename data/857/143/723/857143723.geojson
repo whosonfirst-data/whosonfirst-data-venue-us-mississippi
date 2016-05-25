@@ -1,0 +1,71 @@
+{
+  "id": 857143723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.73288,33.477075,-88.73288,33.477075",
+    "geom:latitude":33.477075,
+    "geom:longitude":-88.73288,
+    "iso:country":"US",
+    "sg:address":"1587 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5876",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FJontqicn8I8GY7nq68G0_33.477075_-88.732880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122988,
+    "wof:geomhash":"474e155cda60bfcec7c0f06ddb94a97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857143723
+        }
+    ],
+    "wof:id":857143723,
+    "wof:lastmodified":1464122988,
+    "wof:name":"O'Brian's Personal Care",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "home"
+    ]
+},
+  "bbox": [
+    -88.73288,
+    33.477075,
+    -88.73288,
+    33.477075
+],
+  "geometry": {"coordinates":[-88.73287999999999,33.477075],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857179001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.408058,31.124682,-89.408058,31.124682",
+    "geom:latitude":31.124682,
+    "geom:longitude":-89.408058,
+    "iso:country":"US",
+    "sg:address":"16 Schneider Ave",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 2992",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "heating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MwB6I6wdtLsRyhQhIfUIo_31.124682_-89.408058@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123775,
+    "wof:geomhash":"ebbaa9bf55fe2b06f170b1b8ac9a9182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857179001
+        }
+    ],
+    "wof:id":857179001,
+    "wof:lastmodified":1464123775,
+    "wof:name":"Noon-Air Heating & Air Cond",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "heating",
+        "system"
+    ]
+},
+  "bbox": [
+    -89.408058,
+    31.124682,
+    -89.408058,
+    31.124682
+],
+  "geometry": {"coordinates":[-89.408058,31.124682],"type":"Point"}
+}

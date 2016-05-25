@@ -1,0 +1,73 @@
+{
+  "id": 857171057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.876763,32.256228,-90.876763,32.256228",
+    "geom:latitude":32.256228,
+    "geom:longitude":-90.876763,
+    "iso:country":"US",
+    "sg:address":"3130 Grange Hall Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 2380",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18PwERqablLpHhk5TsUjLr_32.256228_-90.876763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123608,
+    "wof:geomhash":"69e10b602a1208503cab89683719befb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857171057
+        }
+    ],
+    "wof:id":857171057,
+    "wof:lastmodified":1464123608,
+    "wof:name":"Tom Mc Lane Construction",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.876763,
+    32.256228,
+    -90.876763,
+    32.256228
+],
+  "geometry": {"coordinates":[-90.876763,32.256228],"type":"Point"}
+}

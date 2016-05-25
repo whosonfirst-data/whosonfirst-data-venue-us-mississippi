@@ -1,0 +1,71 @@
+{
+  "id": 857220055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702616,32.37909,-88.702616,32.37909",
+    "geom:latitude":32.37909,
+    "geom:longitude":-88.702616,
+    "iso:country":"US",
+    "sg:address":"2010 24th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 5602",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_726SicSNTqMgKJR0fz84AU_32.379090_-88.702616@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124614,
+    "wof:geomhash":"ecbc9399647675b4ab0b2820ade433dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857220055
+        }
+    ],
+    "wof:id":857220055,
+    "wof:lastmodified":1464124614,
+    "wof:name":"D & S Custom Upholstery",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -88.702616,
+    32.37909,
+    -88.702616,
+    32.37909
+],
+  "geometry": {"coordinates":[-88.70261600000001,32.37909],"type":"Point"}
+}

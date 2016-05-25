@@ -1,0 +1,84 @@
+{
+  "id": 857195441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182834,32.50188,-90.182834,32.50188",
+    "geom:latitude":32.50188,
+    "geom:longitude":-90.182834,
+    "iso:country":"US",
+    "sg:address":"172 Annandale Pkwy E",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 0072",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1obxjEt4mUrrqfCuo42Lwh_32.501880_-90.182834@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124088,
+    "wof:geomhash":"dc30ad34d2c072256168dc95379a5a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857195441
+        }
+    ],
+    "wof:id":857195441,
+    "wof:lastmodified":1464124088,
+    "wof:name":"Anne Cook Interior Design",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -90.182834,
+    32.50188,
+    -90.182834,
+    32.50188
+],
+  "geometry": {"coordinates":[-90.182834,32.50188],"type":"Point"}
+}

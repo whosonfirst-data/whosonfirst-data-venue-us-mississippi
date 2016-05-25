@@ -1,0 +1,71 @@
+{
+  "id": 857290123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425494,33.494366,-88.425494,33.494366",
+    "geom:latitude":33.494366,
+    "geom:longitude":-88.425494,
+    "iso:country":"US",
+    "sg:address":"605 S 2nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 8466",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "union"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B2FhKllm7jmaoQ2gVFgDf_33.494366_-88.425494@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126151,
+    "wof:geomhash":"1dbc2e71558833e8f77c805bebeebaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857290123
+        }
+    ],
+    "wof:id":857290123,
+    "wof:lastmodified":1464126151,
+    "wof:name":"Uswa",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "union"
+    ]
+},
+  "bbox": [
+    -88.425494,
+    33.494366,
+    -88.425494,
+    33.494366
+],
+  "geometry": {"coordinates":[-88.425494,33.494366],"type":"Point"}
+}

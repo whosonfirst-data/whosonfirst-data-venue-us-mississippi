@@ -1,0 +1,75 @@
+{
+  "id": 857198555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63138,33.598519,-88.63138,33.598519",
+    "geom:latitude":33.598519,
+    "geom:longitude":-88.63138,
+    "iso:country":"US",
+    "sg:address":"1304 Torbert Dr",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4226",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WR9LotpEV9Pdf4T8P0PXI_33.598519_-88.631380@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124150,
+    "wof:geomhash":"04ddca77f97b70170201bda387b2128d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857198555
+        }
+    ],
+    "wof:id":857198555,
+    "wof:lastmodified":1464124150,
+    "wof:name":"Brame Avenue Storage",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.63138,
+    33.598519,
+    -88.63138,
+    33.598519
+],
+  "geometry": {"coordinates":[-88.63137999999999,33.598519],"type":"Point"}
+}

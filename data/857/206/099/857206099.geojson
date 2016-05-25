@@ -1,0 +1,71 @@
+{
+  "id": 857206099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697134,32.377857,-88.697134,32.377857",
+    "geom:latitude":32.377857,
+    "geom:longitude":-88.697134,
+    "iso:country":"US",
+    "sg:address":"1914 18th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5349",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09UN57tfY9hdr0Mqe4scCH_32.377857_-88.697134@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124314,
+    "wof:geomhash":"d8eb225bdd442fa25b8827c0a9a1f1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857206099
+        }
+    ],
+    "wof:id":857206099,
+    "wof:lastmodified":1464124314,
+    "wof:name":"St Joseph's Catholic Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.697134,
+    32.377857,
+    -88.697134,
+    32.377857
+],
+  "geometry": {"coordinates":[-88.69713400000001,32.377857],"type":"Point"}
+}

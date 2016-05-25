@@ -1,0 +1,71 @@
+{
+  "id": 857093933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51874,34.366683,-89.51874,34.366683",
+    "geom:latitude":34.366683,
+    "geom:longitude":-89.51874,
+    "iso:country":"US",
+    "sg:address":"118 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 8880",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ohtv2gFIpi89f4m1hwfHu_34.366683_-89.518740@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121769,
+    "wof:geomhash":"70aa148009321709ea590c86ac8d7092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857093933
+        }
+    ],
+    "wof:id":857093933,
+    "wof:lastmodified":1464121769,
+    "wof:name":"Ajax Diner",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.51874,
+    34.366683,
+    -89.51874,
+    34.366683
+],
+  "geometry": {"coordinates":[-89.51873999999999,34.366683],"type":"Point"}
+}

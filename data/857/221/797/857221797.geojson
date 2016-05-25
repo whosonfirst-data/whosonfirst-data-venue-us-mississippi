@@ -1,0 +1,73 @@
+{
+  "id": 857221797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.174675,32.353671,-90.174675,32.353671",
+    "geom:latitude":32.353671,
+    "geom:longitude":-90.174675,
+    "iso:country":"US",
+    "sg:address":"4545 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 4663",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01iJNeVXkot1mFcmYfIKcX_32.353671_-90.174675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124651,
+    "wof:geomhash":"97b712dd7497209fc96fefbdc3cd014e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857221797
+        }
+    ],
+    "wof:id":857221797,
+    "wof:lastmodified":1464124651,
+    "wof:name":"Golden State Restaurant",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.174675,
+    32.353671,
+    -90.174675,
+    32.353671
+],
+  "geometry": {"coordinates":[-90.17467499999999,32.353671],"type":"Point"}
+}

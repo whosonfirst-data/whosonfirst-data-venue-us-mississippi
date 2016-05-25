@@ -1,0 +1,73 @@
+{
+  "id": 857445401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548611,30.36564,-88.548611,30.36564",
+    "geom:latitude":30.36564,
+    "geom:longitude":-88.548611,
+    "iso:country":"US",
+    "sg:address":"3221 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7034",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IEfHWFezP4dCc6yDelBWi_30.365640_-88.548611@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129671,
+    "wof:geomhash":"ed4d61ce320627d0f64050709d95183d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857445401
+        }
+    ],
+    "wof:id":857445401,
+    "wof:lastmodified":1464129671,
+    "wof:name":"Magnolia Music",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.548611,
+    30.36564,
+    -88.548611,
+    30.36564
+],
+  "geometry": {"coordinates":[-88.54861099999999,30.36564],"type":"Point"}
+}

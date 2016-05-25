@@ -1,0 +1,73 @@
+{
+  "id": 857277947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534771,30.373308,-88.534771,30.373308",
+    "geom:latitude":30.373308,
+    "geom:longitude":-88.534771,
+    "iso:country":"US",
+    "sg:address":"4211 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 0020",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11c05X6G60QlKaP89DqhYd_30.373308_-88.534771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125868,
+    "wof:geomhash":"81fd4c839297a627413afd5111ad0934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857277947
+        }
+    ],
+    "wof:id":857277947,
+    "wof:lastmodified":1464125868,
+    "wof:name":"Unicare Home Health",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled"
+    ]
+},
+  "bbox": [
+    -88.534771,
+    30.373308,
+    -88.534771,
+    30.373308
+],
+  "geometry": {"coordinates":[-88.53477100000001,30.373308],"type":"Point"}
+}

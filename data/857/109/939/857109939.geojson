@@ -1,0 +1,71 @@
+{
+  "id": 857109939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.614309,30.384435,-88.614309,30.384435",
+    "geom:latitude":30.384435,
+    "geom:longitude":-88.614309,
+    "iso:country":"US",
+    "sg:address":"400 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 3333",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E3pQeSiZTv7hMsC0zjUuQ_30.384435_-88.614309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122161,
+    "wof:geomhash":"5f6e0ba0e6730cfafbb63d235a0b3d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857109939
+        }
+    ],
+    "wof:id":857109939,
+    "wof:lastmodified":1464122161,
+    "wof:name":"Magnolia Wine & Spirits",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -88.614309,
+    30.384435,
+    -88.614309,
+    30.384435
+],
+  "geometry": {"coordinates":[-88.61430900000001,30.384435],"type":"Point"}
+}

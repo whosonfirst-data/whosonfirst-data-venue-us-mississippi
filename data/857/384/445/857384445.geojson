@@ -1,0 +1,71 @@
+{
+  "id": 857384445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.52736,30.368541,-88.52736,30.368541",
+    "geom:latitude":30.368541,
+    "geom:longitude":-88.52736,
+    "iso:country":"US",
+    "sg:address":"3431 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4493",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hu47n3WjL6fRpIWnqloNZ_30.368541_-88.527360@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128253,
+    "wof:geomhash":"ef0e871ac30a1756aaaa42c31903837f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857384445
+        }
+    ],
+    "wof:id":857384445,
+    "wof:lastmodified":1464128253,
+    "wof:name":"Charlie's Place",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.52736,
+    30.368541,
+    -88.52736,
+    30.368541
+],
+  "geometry": {"coordinates":[-88.52736,30.368541],"type":"Point"}
+}

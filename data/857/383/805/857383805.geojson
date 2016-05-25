@@ -1,0 +1,73 @@
+{
+  "id": 857383805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567069,34.193698,-90.567069,34.193698",
+    "geom:latitude":34.193698,
+    "geom:longitude":-90.567069,
+    "iso:country":"US",
+    "sg:address":"350 State Hwy 322",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 5170",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tu6WVZdFRR7X3FHWYvltV_34.193698_-90.567069@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128236,
+    "wof:geomhash":"7873f198ad18fabfe0de80e0a81e979a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857383805
+        }
+    ],
+    "wof:id":857383805,
+    "wof:lastmodified":1464128236,
+    "wof:name":"Southern Training & Edctnl",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "training"
+    ]
+},
+  "bbox": [
+    -90.567069,
+    34.193698,
+    -90.567069,
+    34.193698
+],
+  "geometry": {"coordinates":[-90.567069,34.193698],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857455739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111069,32.480596,-90.111069,32.480596",
+    "geom:latitude":32.480596,
+    "geom:longitude":-90.111069,
+    "iso:country":"US",
+    "sg:address":"121 Audrie Ln",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 0878",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kCRvpI3GCG5XWoYteej8B_32.480596_-90.111069@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129868,
+    "wof:geomhash":"0da96856169dd85204ab2e1fb89eb190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857455739
+        }
+    ],
+    "wof:id":857455739,
+    "wof:lastmodified":1464129868,
+    "wof:name":"Bob Land Industries",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.111069,
+    32.480596,
+    -90.111069,
+    32.480596
+],
+  "geometry": {"coordinates":[-90.111069,32.480596],"type":"Point"}
+}

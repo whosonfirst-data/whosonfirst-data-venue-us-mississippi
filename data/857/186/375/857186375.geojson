@@ -1,0 +1,73 @@
+{
+  "id": 857186375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772776,34.250654,-88.772776,34.250654",
+    "geom:latitude":34.250654,
+    "geom:longitude":-88.772776,
+    "iso:country":"US",
+    "sg:address":"125 S Coley Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6831",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "distribution",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NWVT6bx5W5bzyGRntavm9_34.250654_-88.772776@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123922,
+    "wof:geomhash":"153c56e1e69b2356e4406b4cb7af43f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857186375
+        }
+    ],
+    "wof:id":857186375,
+    "wof:lastmodified":1464123922,
+    "wof:name":"Plumrose USA Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.772776,
+    34.250654,
+    -88.772776,
+    34.250654
+],
+  "geometry": {"coordinates":[-88.77277599999999,34.250654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857434355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.924975,33.407109,-88.924975,33.407109",
+    "geom:latitude":33.407109,
+    "geom:longitude":-88.924975,
+    "iso:country":"US",
+    "sg:address":"2156 Buckner St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 7255",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zrew3PcV6lM0V3tPHpddG_33.407109_-88.924975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129453,
+    "wof:geomhash":"2d7ae76ac8802824625b54db17a524f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857434355
+        }
+    ],
+    "wof:id":857434355,
+    "wof:lastmodified":1464129453,
+    "wof:name":"Thompsons Bargan Store",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -88.924975,
+    33.407109,
+    -88.924975,
+    33.407109
+],
+  "geometry": {"coordinates":[-88.924975,33.407109],"type":"Point"}
+}

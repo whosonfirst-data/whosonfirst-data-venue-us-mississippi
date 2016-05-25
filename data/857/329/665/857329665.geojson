@@ -1,0 +1,73 @@
+{
+  "id": 857329665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707714,34.36645,-88.707714,34.36645",
+    "geom:latitude":34.36645,
+    "geom:longitude":-88.707714,
+    "iso:country":"US",
+    "sg:address":"187 McComb Ave",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 1284",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TEldIUa4YUHhoKdIWxH40_34.366450_-88.707714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127048,
+    "wof:geomhash":"88377721d34fe4c71b9be927b4f67e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857329665
+        }
+    ],
+    "wof:id":857329665,
+    "wof:lastmodified":1464127048,
+    "wof:name":"S & S Plumbing Construction",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.707714,
+    34.36645,
+    -88.707714,
+    34.36645
+],
+  "geometry": {"coordinates":[-88.707714,34.36645],"type":"Point"}
+}

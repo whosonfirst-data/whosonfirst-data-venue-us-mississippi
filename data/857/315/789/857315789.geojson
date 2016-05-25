@@ -1,0 +1,73 @@
+{
+  "id": 857315789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437261,33.531735,-88.437261,33.531735",
+    "geom:latitude":33.531735,
+    "geom:longitude":-88.437261,
+    "iso:country":"US",
+    "sg:address":"1835 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6006",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eZpI6j0K3qDmRlaxuGS6c_33.531735_-88.437261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126737,
+    "wof:geomhash":"e517bbeba501283acccb886c306e8c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857315789
+        }
+    ],
+    "wof:id":857315789,
+    "wof:lastmodified":1464126737,
+    "wof:name":"UPS Store",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -88.437261,
+    33.531735,
+    -88.437261,
+    33.531735
+],
+  "geometry": {"coordinates":[-88.43726100000001,33.531735],"type":"Point"}
+}

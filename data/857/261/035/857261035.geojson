@@ -1,0 +1,73 @@
+{
+  "id": 857261035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.019596,33.507683,-89.019596,33.507683",
+    "geom:latitude":33.507683,
+    "geom:longitude":-89.019596,
+    "iso:country":"US",
+    "sg:address":"3240 Hwy 82 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 338 1977",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IM8gwUpAaFYENCuRrr7OH_33.507683_-89.019596@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125511,
+    "wof:geomhash":"d37b67a1a6db07959eac72a8edd64cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857261035
+        }
+    ],
+    "wof:id":857261035,
+    "wof:lastmodified":1464125511,
+    "wof:name":"Fulghan Service Ctr",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.019596,
+    33.507683,
+    -89.019596,
+    33.507683
+],
+  "geometry": {"coordinates":[-89.01959600000001,33.507683],"type":"Point"}
+}

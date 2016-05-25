@@ -1,0 +1,73 @@
+{
+  "id": 857192595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.638412,34.493481,-88.638412,34.493481",
+    "geom:latitude":34.493481,
+    "geom:longitude":-88.638412,
+    "iso:country":"US",
+    "sg:address":"1038 Burress St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 9000",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "barbecue",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zTUsDpOdlUiwAujcB7fq6_34.493481_-88.638412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124035,
+    "wof:geomhash":"41424188015d291f878c6a49ef9c4113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857192595
+        }
+    ],
+    "wof:id":857192595,
+    "wof:lastmodified":1464124035,
+    "wof:name":"Lamar's Bar B Que & Catering",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.638412,
+    34.493481,
+    -88.638412,
+    34.493481
+],
+  "geometry": {"coordinates":[-88.638412,34.493481],"type":"Point"}
+}

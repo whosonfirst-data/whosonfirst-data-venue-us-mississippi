@@ -1,0 +1,75 @@
+{
+  "id": 857375539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.396838,33.318764,-88.396838,33.318764",
+    "geom:latitude":33.318764,
+    "geom:longitude":-88.396838,
+    "iso:country":"US",
+    "sg:address":"2013 W Minnie Vaughn Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4041",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0daH8DHz7nnoyNIXy5d99o_33.318764_-88.396838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128019,
+    "wof:geomhash":"9513ef2d5f4ff9045336c600515c3399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857375539
+        }
+    ],
+    "wof:id":857375539,
+    "wof:lastmodified":1464128019,
+    "wof:name":"Sunrise Farm",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.396838,
+    33.318764,
+    -88.396838,
+    33.318764
+],
+  "geometry": {"coordinates":[-88.396838,33.318764],"type":"Point"}
+}

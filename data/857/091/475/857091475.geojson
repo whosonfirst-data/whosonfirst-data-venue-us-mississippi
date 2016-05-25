@@ -1,0 +1,75 @@
+{
+  "id": 857091475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529696,33.821047,-88.529696,33.821047",
+    "geom:latitude":33.821047,
+    "geom:longitude":-88.529696,
+    "iso:country":"US",
+    "sg:address":"801 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4343",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MGbrWPkJGwXKfgS12JRHS_33.821047_-88.529696@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121722,
+    "wof:geomhash":"f20b6877e69db76bd7d23f11d3bdacc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857091475
+        }
+    ],
+    "wof:id":857091475,
+    "wof:lastmodified":1464121722,
+    "wof:name":"Best Western",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.529696,
+    33.821047,
+    -88.529696,
+    33.821047
+],
+  "geometry": {"coordinates":[-88.529696,33.821047],"type":"Point"}
+}

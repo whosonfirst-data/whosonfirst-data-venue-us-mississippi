@@ -1,0 +1,68 @@
+{
+  "id": 857448735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.18698,32.500222,-90.18698,32.500222",
+    "geom:latitude":32.500222,
+    "geom:longitude":-90.18698,
+    "iso:country":"US",
+    "sg:address":"134 Whisper Lake Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 906 8400",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nOMDxaOcTg3ktmiVCgxyw_32.500222_-90.186980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129733,
+    "wof:geomhash":"8bef81569d83fe22bc45b2fe68518de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857448735
+        }
+    ],
+    "wof:id":857448735,
+    "wof:lastmodified":1464129733,
+    "wof:name":"Dream Street Properties",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.18698,
+    32.500222,
+    -90.18698,
+    32.500222
+],
+  "geometry": {"coordinates":[-90.18698000000001,32.500222],"type":"Point"}
+}

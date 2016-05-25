@@ -1,0 +1,69 @@
+{
+  "id": 857392783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864227,32.271298,-90.864227,32.271298",
+    "geom:latitude":32.271298,
+    "geom:longitude":-90.864227,
+    "iso:country":"US",
+    "sg:address":"1632 Fisher Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 1030",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "townhouses"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qNZVHLxEEKBati55iXTxF_32.271298_-90.864227@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128479,
+    "wof:geomhash":"71bfd759a3329a25463ebe204f7a0e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857392783
+        }
+    ],
+    "wof:id":857392783,
+    "wof:lastmodified":1464128479,
+    "wof:name":"South Haven Townhomes",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "townhouses"
+    ]
+},
+  "bbox": [
+    -90.864227,
+    32.271298,
+    -90.864227,
+    32.271298
+],
+  "geometry": {"coordinates":[-90.864227,32.271298],"type":"Point"}
+}

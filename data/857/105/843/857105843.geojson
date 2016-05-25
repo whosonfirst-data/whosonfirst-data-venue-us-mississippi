@@ -1,0 +1,71 @@
+{
+  "id": 857105843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.52697,34.375185,-89.52697,34.375185",
+    "geom:latitude":34.375185,
+    "geom:longitude":-89.52697,
+    "iso:country":"US",
+    "sg:address":"717 Molly Barr Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2359",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xAK1y02ymIq6MYFatlzLc_34.375185_-89.526970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122044,
+    "wof:geomhash":"b1ec614aaa9dc170f628f5ebba7d29a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857105843
+        }
+    ],
+    "wof:id":857105843,
+    "wof:lastmodified":1464122044,
+    "wof:name":"Sewage Treatment Plant",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.52697,
+    34.375185,
+    -89.52697,
+    34.375185
+],
+  "geometry": {"coordinates":[-89.52697000000001,34.375185],"type":"Point"}
+}

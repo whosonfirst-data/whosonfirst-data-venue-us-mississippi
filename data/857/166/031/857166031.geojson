@@ -1,0 +1,73 @@
+{
+  "id": 857166031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.291449,31.327679,-89.291449,31.327679",
+    "geom:latitude":31.327679,
+    "geom:longitude":-89.291449,
+    "iso:country":"US",
+    "sg:address":"630 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 4521",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "affairs",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ez34T4B7vI3xTgQQhOud2_31.327679_-89.291449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123486,
+    "wof:geomhash":"e3db008e00cce6da2722d81377a28758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857166031
+        }
+    ],
+    "wof:id":857166031,
+    "wof:lastmodified":1464123486,
+    "wof:name":"Forrest County Veterans Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "affairs",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -89.291449,
+    31.327679,
+    -89.291449,
+    31.327679
+],
+  "geometry": {"coordinates":[-89.291449,31.327679],"type":"Point"}
+}

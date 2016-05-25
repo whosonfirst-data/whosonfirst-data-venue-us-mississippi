@@ -1,0 +1,71 @@
+{
+  "id": 857085247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.356629,32.734158,-90.356629,32.734158",
+    "geom:latitude":32.734158,
+    "geom:longitude":-90.356629,
+    "iso:country":"US",
+    "sg:address":"2136 Kirk Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7752",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0As3nHEjmrjYWrTKwL6lx0_32.734158_-90.356629@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121537,
+    "wof:geomhash":"883e75bf60855b392ea55a56c77917d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857085247
+        }
+    ],
+    "wof:id":857085247,
+    "wof:lastmodified":1464121537,
+    "wof:name":"Jerry Dunn Building",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.356629,
+    32.734158,
+    -90.356629,
+    32.734158
+],
+  "geometry": {"coordinates":[-90.356629,32.734158],"type":"Point"}
+}

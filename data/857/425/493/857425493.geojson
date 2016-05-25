@@ -1,0 +1,68 @@
+{
+  "id": 857425493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.971413,30.402503,-88.971413,30.402503",
+    "geom:latitude":30.402503,
+    "geom:longitude":-88.971413,
+    "iso:country":"US",
+    "sg:address":"2306 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 1212",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09edlqwanLKtBEJaVRIprp_30.402503_-88.971413@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129238,
+    "wof:geomhash":"38c1cf80a10a4d2d5458a97bd73ec29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857425493
+        }
+    ],
+    "wof:id":857425493,
+    "wof:lastmodified":1464129238,
+    "wof:name":"Unemployment Insurance",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.971413,
+    30.402503,
+    -88.971413,
+    30.402503
+],
+  "geometry": {"coordinates":[-88.971413,30.402503],"type":"Point"}
+}

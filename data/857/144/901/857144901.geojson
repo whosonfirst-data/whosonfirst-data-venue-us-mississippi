@@ -1,0 +1,73 @@
+{
+  "id": 857144901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.215996,32.325699,-90.215996,32.325699",
+    "geom:latitude":32.325699,
+    "geom:longitude":-90.215996,
+    "iso:country":"US",
+    "sg:address":"1635 Airport Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 353 1020",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85838363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gos8isj3G6O5wEGAISbGC_32.325699_-90.215996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123032,
+    "wof:geomhash":"05d70df0ecc966945de1d3edcd66f830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85838363,
+            "region_id":85688579,
+            "venue_id":857144901
+        }
+    ],
+    "wof:id":857144901,
+    "wof:lastmodified":1464123032,
+    "wof:name":"Mississippi Civil Air Patrol",
+    "wof:parent_id":85838363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.215996,
+    32.325699,
+    -90.215996,
+    32.325699
+],
+  "geometry": {"coordinates":[-90.215996,32.325699],"type":"Point"}
+}

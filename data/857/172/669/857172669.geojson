@@ -1,0 +1,72 @@
+{
+  "id": 857172669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.442181,31.281856,-89.442181,31.281856",
+    "geom:latitude":31.281856,
+    "geom:longitude":-89.442181,
+    "iso:country":"US",
+    "sg:address":"40 Franklin Pl",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 3405",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.drtalbot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_622Zize3ElosuHCy4QQuGo_31.281856_-89.442181@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123647,
+    "wof:geomhash":"8a61f1ebff0cb3b0ee276b83e40c741f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857172669
+        }
+    ],
+    "wof:id":857172669,
+    "wof:lastmodified":1464123647,
+    "wof:name":"Plastic Surgery Ctr",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.442181,
+    31.281856,
+    -89.442181,
+    31.281856
+],
+  "geometry": {"coordinates":[-89.44218100000001,31.281856],"type":"Point"}
+}

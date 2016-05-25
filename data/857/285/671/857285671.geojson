@@ -1,0 +1,71 @@
+{
+  "id": 857285671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437828,33.497909,-88.437828,33.497909",
+    "geom:latitude":33.497909,
+    "geom:longitude":-88.437828,
+    "iso:country":"US",
+    "sg:address":"777 Moores Creek Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5054",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4lnOcjk8LMwPUV4leZpN_33.497909_-88.437828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126038,
+    "wof:geomhash":"0e66b98e85de8724f0af04d85db373cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857285671
+        }
+    ],
+    "wof:id":857285671,
+    "wof:lastmodified":1464126038,
+    "wof:name":"Newells Plumbing",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.437828,
+    33.497909,
+    -88.437828,
+    33.497909
+],
+  "geometry": {"coordinates":[-88.437828,33.497909],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857112353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554122,34.203752,-90.554122,34.203752",
+    "geom:latitude":34.203752,
+    "geom:longitude":-90.554122,
+    "iso:country":"US",
+    "sg:address":"1611 Peacock Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6709",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3093hQCmrifyFmx7Ayly1U_34.203752_-90.554122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122240,
+    "wof:geomhash":"3ffb5faa5a45b4bb25a2f863f0c07f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857112353
+        }
+    ],
+    "wof:id":857112353,
+    "wof:lastmodified":1464122240,
+    "wof:name":"Austin Jones",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.554122,
+    34.203752,
+    -90.554122,
+    34.203752
+],
+  "geometry": {"coordinates":[-90.55412200000001,34.203752],"type":"Point"}
+}

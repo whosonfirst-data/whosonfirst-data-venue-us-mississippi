@@ -1,0 +1,71 @@
+{
+  "id": 857336813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645242,34.268719,-88.645242,34.268719",
+    "geom:latitude":34.268719,
+    "geom:longitude":-88.645242,
+    "iso:country":"US",
+    "sg:address":"1010 N Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 6475",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27lEEEskWczpcE542gB4wP_34.268719_-88.645242@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127204,
+    "wof:geomhash":"0256cec73bfa7ab15eeeb169a51f899f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857336813
+        }
+    ],
+    "wof:id":857336813,
+    "wof:lastmodified":1464127204,
+    "wof:name":"Acupuncture Alternative",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.645242,
+    34.268719,
+    -88.645242,
+    34.268719
+],
+  "geometry": {"coordinates":[-88.645242,34.268719],"type":"Point"}
+}

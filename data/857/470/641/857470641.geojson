@@ -1,0 +1,71 @@
+{
+  "id": 857470641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645995,34.481351,-88.645995,34.481351",
+    "geom:latitude":34.481351,
+    "geom:longitude":-88.645995,
+    "iso:country":"US",
+    "sg:address":"1735 Sandhill Ave",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8107",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51SQ8LkQUeO1wvw5A2lGUD_34.481351_-88.645995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130183,
+    "wof:geomhash":"f377397c2823d82c0d8ee126db60c192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857470641
+        }
+    ],
+    "wof:id":857470641,
+    "wof:lastmodified":1464130183,
+    "wof:name":"Zinn Enterprise",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer"
+    ]
+},
+  "bbox": [
+    -88.645995,
+    34.481351,
+    -88.645995,
+    34.481351
+],
+  "geometry": {"coordinates":[-88.645995,34.481351],"type":"Point"}
+}

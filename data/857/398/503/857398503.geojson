@@ -1,0 +1,71 @@
+{
+  "id": 857398503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86331,32.316001,-90.86331,32.316001",
+    "geom:latitude":32.316001,
+    "geom:longitude":-90.86331,
+    "iso:country":"US",
+    "sg:address":"113 Fleur de Lis Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7120",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fg6tcvY2QQCAx97zoSRxb_32.316001_-90.863310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128597,
+    "wof:geomhash":"849284d373ef57dde3f444eafafeef7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857398503
+        }
+    ],
+    "wof:id":857398503,
+    "wof:lastmodified":1464128597,
+    "wof:name":"Subway 01817",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.86331,
+    32.316001,
+    -90.86331,
+    32.316001
+],
+  "geometry": {"coordinates":[-90.86331,32.316001],"type":"Point"}
+}

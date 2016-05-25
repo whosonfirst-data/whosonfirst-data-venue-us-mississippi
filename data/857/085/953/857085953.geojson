@@ -1,0 +1,71 @@
+{
+  "id": 857085953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.754171,34.220879,-88.754171,34.220879",
+    "geom:latitude":34.220879,
+    "geom:longitude":-88.754171,
+    "iso:country":"US",
+    "sg:address":"3545 Mitchell Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 7806",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a8VW3cV6QK8QRav9JK77D_34.220879_-88.754171@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121562,
+    "wof:geomhash":"63aaa6cba9c77f3026588a1f8bf53275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857085953
+        }
+    ],
+    "wof:id":857085953,
+    "wof:lastmodified":1464121562,
+    "wof:name":"Tupelo Trace Apts",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.754171,
+    34.220879,
+    -88.754171,
+    34.220879
+],
+  "geometry": {"coordinates":[-88.754171,34.220879],"type":"Point"}
+}

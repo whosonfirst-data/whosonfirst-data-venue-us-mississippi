@@ -1,0 +1,73 @@
+{
+  "id": 857083523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.561926,34.362428,-89.561926,34.362428",
+    "geom:latitude":34.362428,
+    "geom:longitude":-89.561926,
+    "iso:country":"US",
+    "sg:address":"2208 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1110",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vp9XUdeUQ4zI8oOesAM1D_34.362428_-89.561926@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121497,
+    "wof:geomhash":"9658f8121a54e70fc3af4e087d9c1767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857083523
+        }
+    ],
+    "wof:id":857083523,
+    "wof:lastmodified":1464121497,
+    "wof:name":"CELLULARONE",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -89.561926,
+    34.362428,
+    -89.561926,
+    34.362428
+],
+  "geometry": {"coordinates":[-89.561926,34.362428],"type":"Point"}
+}

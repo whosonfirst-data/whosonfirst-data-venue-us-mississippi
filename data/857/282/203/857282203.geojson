@@ -1,0 +1,82 @@
+{
+  "id": 857282203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415666,32.845775,-90.415666,32.845775",
+    "geom:latitude":32.845775,
+    "geom:longitude":-90.415666,
+    "iso:country":"US",
+    "sg:address":"342 S Mound St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7171",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "straw",
+        "cheese",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mWbCVoZMNuHdUd6qXuFNd_32.845775_-90.415666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125967,
+    "wof:geomhash":"5a94143e10c6282bd02d2c8b9a3b8517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857282203
+        }
+    ],
+    "wof:id":857282203,
+    "wof:lastmodified":1464125967,
+    "wof:name":"Mississippi Cheese Straw Fctry",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "straw",
+        "cheese",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.415666,
+    32.845775,
+    -90.415666,
+    32.845775
+],
+  "geometry": {"coordinates":[-90.415666,32.845775],"type":"Point"}
+}

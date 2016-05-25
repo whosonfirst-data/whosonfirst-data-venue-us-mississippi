@@ -1,0 +1,73 @@
+{
+  "id": 857230471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.955627,32.399481,-89.955627,32.399481",
+    "geom:latitude":32.399481,
+    "geom:longitude":-89.955627,
+    "iso:country":"US",
+    "sg:address":"542 Holly Bush Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 829 2814",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M4J3CuTGCjDot2hQCkUpM_32.399481_-89.955627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124816,
+    "wof:geomhash":"13fd28de1759bd92f2a89cf12ccadcaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857230471
+        }
+    ],
+    "wof:id":857230471,
+    "wof:lastmodified":1464124816,
+    "wof:name":"Cummins Construction Inc",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -89.955627,
+    32.399481,
+    -89.955627,
+    32.399481
+],
+  "geometry": {"coordinates":[-89.95562700000001,32.399481],"type":"Point"}
+}

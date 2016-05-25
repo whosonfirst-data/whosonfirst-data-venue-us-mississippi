@@ -1,0 +1,71 @@
+{
+  "id": 857115051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548613,30.366371,-88.548613,30.366371",
+    "geom:latitude":30.366371,
+    "geom:longitude":-88.548613,
+    "iso:country":"US",
+    "sg:address":"3125 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1455",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79P62rMxtcSSSHE73bqdc5_30.366371_-88.548613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122314,
+    "wof:geomhash":"54729684c10d30b838177d361bda8b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857115051
+        }
+    ],
+    "wof:id":857115051,
+    "wof:lastmodified":1464122314,
+    "wof:name":"Coast Veterinary Hospital",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.548613,
+    30.366371,
+    -88.548613,
+    30.366371
+],
+  "geometry": {"coordinates":[-88.548613,30.366371],"type":"Point"}
+}

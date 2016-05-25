@@ -1,0 +1,73 @@
+{
+  "id": 857338647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720031,34.194052,-88.720031,34.194052",
+    "geom:latitude":34.194052,
+    "geom:longitude":-88.720031,
+    "iso:country":"US",
+    "sg:address":"5017 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 4626",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CvqF25HuLPLeCLrWVHk15_34.194052_-88.720031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127245,
+    "wof:geomhash":"2f5f7df4268ae90e2e89189b54258d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857338647
+        }
+    ],
+    "wof:id":857338647,
+    "wof:lastmodified":1464127245,
+    "wof:name":"Ray Miller Plumbing",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.720031,
+    34.194052,
+    -88.720031,
+    34.194052
+],
+  "geometry": {"coordinates":[-88.72003100000001,34.194052],"type":"Point"}
+}

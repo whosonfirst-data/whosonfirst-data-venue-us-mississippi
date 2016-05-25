@@ -1,0 +1,76 @@
+{
+  "id": 857484499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.991588,30.389241,-88.991588,30.389241",
+    "geom:latitude":30.389241,
+    "geom:longitude":-88.991588,
+    "iso:country":"US",
+    "sg:address":"2600 Beach Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/gulfport/12398-bonefish-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 0009",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I7crX4zPLFWx1pDFJGaEt_30.389241_-88.991588@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130454,
+    "wof:geomhash":"cde7dd227e82cef4d560d73a2e3a3ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857484499
+        }
+    ],
+    "wof:id":857484499,
+    "wof:lastmodified":1464130454,
+    "wof:name":"Bonefish Grill",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.991588,
+    30.389241,
+    -88.991588,
+    30.389241
+],
+  "geometry": {"coordinates":[-88.99158799999999,30.389241],"type":"Point"}
+}

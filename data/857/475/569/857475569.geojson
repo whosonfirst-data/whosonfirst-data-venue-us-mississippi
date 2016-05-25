@@ -1,0 +1,73 @@
+{
+  "id": 857475569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.324279,30.41166,-89.324279,30.41166",
+    "geom:latitude":30.41166,
+    "geom:longitude":-89.324279,
+    "iso:country":"US",
+    "sg:address":"8549 Cleo Smith Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 255 5309",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YcfUDV2dAXRhPswpqyOTi_30.411660_-89.324279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130289,
+    "wof:geomhash":"6a8c3044b05b3d90a936df7a15024a81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857475569
+        }
+    ],
+    "wof:id":857475569,
+    "wof:lastmodified":1464130289,
+    "wof:name":"Torres Concrete Finisher",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.324279,
+    30.41166,
+    -89.324279,
+    30.41166
+],
+  "geometry": {"coordinates":[-89.324279,30.41166],"type":"Point"}
+}

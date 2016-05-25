@@ -1,0 +1,72 @@
+{
+  "id": 857266075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.432336,33.524987,-88.432336,33.524987",
+    "geom:latitude":33.524987,
+    "geom:longitude":-88.432336,
+    "iso:country":"US",
+    "sg:address":"306 Hospital Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0861",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.labcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rTYkPcCQjcL1peJ2IXatt_33.524987_-88.432336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125612,
+    "wof:geomhash":"fd39a026844982452f9521ee99861922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857266075
+        }
+    ],
+    "wof:id":857266075,
+    "wof:lastmodified":1464125612,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.432336,
+    33.524987,
+    -88.432336,
+    33.524987
+],
+  "geometry": {"coordinates":[-88.43233600000001,33.524987],"type":"Point"}
+}

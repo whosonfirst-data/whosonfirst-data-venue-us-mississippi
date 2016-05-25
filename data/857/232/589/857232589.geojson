@@ -1,0 +1,73 @@
+{
+  "id": 857232589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.30561,31.363491,-89.30561,31.363491",
+    "geom:latitude":31.363491,
+    "geom:longitude":-89.30561,
+    "iso:country":"US",
+    "sg:address":"2501 Glendale Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9300",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "prod",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P3ngAcOk7XEQAymhNm17v_31.363491_-89.305610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124853,
+    "wof:geomhash":"ea0cc555b56059387c4309f2b57c7eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857232589
+        }
+    ],
+    "wof:id":857232589,
+    "wof:lastmodified":1464124853,
+    "wof:name":"Enslin & Son Packing Co",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prod",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -89.30561,
+    31.363491,
+    -89.30561,
+    31.363491
+],
+  "geometry": {"coordinates":[-89.30561,31.363491],"type":"Point"}
+}

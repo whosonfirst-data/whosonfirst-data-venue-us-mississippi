@@ -1,0 +1,73 @@
+{
+  "id": 857285323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.605344,33.3421,-88.605344,33.3421",
+    "geom:latitude":33.3421,
+    "geom:longitude":-88.605344,
+    "iso:country":"US",
+    "sg:address":"6388 Hardy Billups Rd",
+    "sg:city":"Crawford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 272 5280",
+    "sg:postcode":"39743",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02CWFC2FIrEvKvMjQnRNSr_33.342100_-88.605344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126030,
+    "wof:geomhash":"5c98cb7d6327938283d524a062a010a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857285323
+        }
+    ],
+    "wof:id":857285323,
+    "wof:lastmodified":1464126030,
+    "wof:name":"Jake Propst",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.605344,
+    33.3421,
+    -88.605344,
+    33.3421
+],
+  "geometry": {"coordinates":[-88.605344,33.3421],"type":"Point"}
+}

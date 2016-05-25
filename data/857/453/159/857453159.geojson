@@ -1,0 +1,73 @@
+{
+  "id": 857453159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.318472,31.298251,-89.318472,31.298251",
+    "geom:latitude":31.298251,
+    "geom:longitude":-89.318472,
+    "iso:country":"US",
+    "sg:address":"2020 Mc Innis Loop",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2220",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dILUDPrzzDLFXfpw4NlX1_31.298251_-89.318472@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129819,
+    "wof:geomhash":"1306b9aee0a5a7fc1ed4285d44d4d4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857453159
+        }
+    ],
+    "wof:id":857453159,
+    "wof:lastmodified":1464129819,
+    "wof:name":"Roseberry's Mini Storage",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.318472,
+    31.298251,
+    -89.318472,
+    31.298251
+],
+  "geometry": {"coordinates":[-89.318472,31.298251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857426651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.79602,34.966985,-89.79602,34.966985",
+    "geom:latitude":34.966985,
+    "geom:longitude":-89.79602,
+    "iso:country":"US",
+    "sg:address":"10956 Nichols Blvd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 3711",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "patent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18fL676C2GnpA9pQr5btMu_34.966985_-89.796020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129270,
+    "wof:geomhash":"993329d491fa17f98574c8c831b7510f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857426651
+        }
+    ],
+    "wof:id":857426651,
+    "wof:lastmodified":1464129270,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patent"
+    ]
+},
+  "bbox": [
+    -89.79602,
+    34.966985,
+    -89.79602,
+    34.966985
+],
+  "geometry": {"coordinates":[-89.79602,34.966985],"type":"Point"}
+}

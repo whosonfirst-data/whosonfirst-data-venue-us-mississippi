@@ -1,0 +1,72 @@
+{
+  "id": 857223313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.56165,34.362625,-89.56165,34.362625",
+    "geom:latitude":34.362625,
+    "geom:longitude":-89.56165,
+    "iso:country":"US",
+    "sg:address":"2197 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6152",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.gateway-tire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RTxsOUasaCIb6Xkx4OxKS_34.362625_-89.561650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124680,
+    "wof:geomhash":"9ae06cf95391a9812575a4c89f6e0749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857223313
+        }
+    ],
+    "wof:id":857223313,
+    "wof:lastmodified":1464124680,
+    "wof:name":"Gateway Tire Svc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -89.56165,
+    34.362625,
+    -89.56165,
+    34.362625
+],
+  "geometry": {"coordinates":[-89.56165,34.362625],"type":"Point"}
+}

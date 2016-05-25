@@ -1,0 +1,71 @@
+{
+  "id": 857236435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.434972,33.54556,-88.434972,33.54556",
+    "geom:latitude":33.54556,
+    "geom:longitude":-88.434972,
+    "iso:country":"US",
+    "sg:address":"8543 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 0250",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45c652ns3gT6EBOwRvtyz4_33.545560_-88.434972@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124935,
+    "wof:geomhash":"6e437faf26a4d588cf5af46f8c1835c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857236435
+        }
+    ],
+    "wof:id":857236435,
+    "wof:lastmodified":1464124935,
+    "wof:name":"A1 Body Shop",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.434972,
+    33.54556,
+    -88.434972,
+    33.54556
+],
+  "geometry": {"coordinates":[-88.434972,33.54556],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857228567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.935927,34.962512,-89.935927,34.962512",
+    "geom:latitude":34.962512,
+    "geom:longitude":-89.935927,
+    "iso:country":"US",
+    "sg:address":"3024 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 7150",
+    "sg:postcode":"38672",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y7754bW4Krfc6drgof697_34.962512_-89.935927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124782,
+    "wof:geomhash":"7f80ae054a509ad88b5e3426f72cd54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857228567
+        }
+    ],
+    "wof:id":857228567,
+    "wof:lastmodified":1464124782,
+    "wof:name":"Pharm-Care Inc",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.935927,
+    34.962512,
+    -89.935927,
+    34.962512
+],
+  "geometry": {"coordinates":[-89.93592700000001,34.962512],"type":"Point"}
+}

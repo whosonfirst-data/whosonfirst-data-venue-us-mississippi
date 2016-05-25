@@ -1,0 +1,75 @@
+{
+  "id": 857271801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.569869,34.36182,-89.569869,34.36182",
+    "geom:latitude":34.36182,
+    "geom:longitude":-89.569869,
+    "iso:country":"US",
+    "sg:address":"2614 W Oxford Loop",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2700",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DTU4bGjXLeBrSCwrAiRgR_34.361820_-89.569869@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125722,
+    "wof:geomhash":"3868d50a5407d3e5baf44d096f86f3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857271801
+        }
+    ],
+    "wof:id":857271801,
+    "wof:lastmodified":1464125722,
+    "wof:name":"Doc's Bimmer Shop",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.569869,
+    34.36182,
+    -89.569869,
+    34.36182
+],
+  "geometry": {"coordinates":[-89.569869,34.36182],"type":"Point"}
+}

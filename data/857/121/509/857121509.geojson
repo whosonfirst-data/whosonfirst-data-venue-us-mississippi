@@ -1,0 +1,71 @@
+{
+  "id": 857121509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.294152,31.327216,-89.294152,31.327216",
+    "geom:latitude":31.327216,
+    "geom:longitude":-89.294152,
+    "iso:country":"US",
+    "sg:address":"108 Mc Leod St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3557",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JxCU6yG72Sxny1AO0A4QR_31.327216_-89.294152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122486,
+    "wof:geomhash":"1be130c4f7ea12a3d2bf0c76489f15ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857121509
+        }
+    ],
+    "wof:id":857121509,
+    "wof:lastmodified":1464122486,
+    "wof:name":"Styles Elegant",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.294152,
+    31.327216,
+    -89.294152,
+    31.327216
+],
+  "geometry": {"coordinates":[-89.294152,31.327216],"type":"Point"}
+}

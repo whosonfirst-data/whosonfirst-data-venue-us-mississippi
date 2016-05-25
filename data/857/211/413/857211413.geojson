@@ -1,0 +1,71 @@
+{
+  "id": 857211413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575695,34.190619,-90.575695,34.190619",
+    "geom:latitude":34.190619,
+    "geom:longitude":-90.575695,
+    "iso:country":"US",
+    "sg:address":"495 State Hwy 322",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9096",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nJCirhJ7ZzvNpc2gJwndp_34.190619_-90.575695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124426,
+    "wof:geomhash":"bdf1e846c789a85c16cc8e01f3d574d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857211413
+        }
+    ],
+    "wof:id":857211413,
+    "wof:lastmodified":1464124426,
+    "wof:name":"David Lake Johnson",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.575695,
+    34.190619,
+    -90.575695,
+    34.190619
+],
+  "geometry": {"coordinates":[-90.575695,34.190619],"type":"Point"}
+}

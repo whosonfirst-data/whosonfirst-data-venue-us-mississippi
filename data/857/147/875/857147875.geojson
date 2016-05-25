@@ -1,0 +1,71 @@
+{
+  "id": 857147875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.544715,33.825317,-88.544715,33.825317",
+    "geom:latitude":33.825317,
+    "geom:longitude":-88.544715,
+    "iso:country":"US",
+    "sg:address":"125 W Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8066",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0atWIbTY8FAIhsSnoxI5ob_33.825317_-88.544715@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123095,
+    "wof:geomhash":"16690ded1cdb25c67744c3076a62d2a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857147875
+        }
+    ],
+    "wof:id":857147875,
+    "wof:lastmodified":1464123095,
+    "wof:name":"City Of Aberdeen Community Ctr",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -88.544715,
+    33.825317,
+    -88.544715,
+    33.825317
+],
+  "geometry": {"coordinates":[-88.544715,33.825317],"type":"Point"}
+}

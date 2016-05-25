@@ -1,0 +1,71 @@
+{
+  "id": 857300001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.666917,34.241213,-88.666917,34.241213",
+    "geom:latitude":34.241213,
+    "geom:longitude":-88.666917,
+    "iso:country":"US",
+    "sg:address":"1534 S Feemster Lake Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 4050",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3weG9kbyscbioQh1g5LsFK_34.241213_-88.666917@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126411,
+    "wof:geomhash":"b897fa9c26f35af93f5b62a768c7a521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857300001
+        }
+    ],
+    "wof:id":857300001,
+    "wof:lastmodified":1464126411,
+    "wof:name":"Feemster Lake Road Apartments",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.666917,
+    34.241213,
+    -88.666917,
+    34.241213
+],
+  "geometry": {"coordinates":[-88.666917,34.241213],"type":"Point"}
+}

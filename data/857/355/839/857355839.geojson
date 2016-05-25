@@ -1,0 +1,73 @@
+{
+  "id": 857355839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.935433,32.166674,-89.935433,32.166674",
+    "geom:latitude":32.166674,
+    "geom:longitude":-89.935433,
+    "iso:country":"US",
+    "sg:address":"151 Sharanne Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 0928",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kwUYHET41SsOJBkFscZpN_32.166674_-89.935433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127614,
+    "wof:geomhash":"44ae6807121f2d5778816369b174873a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857355839
+        }
+    ],
+    "wof:id":857355839,
+    "wof:lastmodified":1464127614,
+    "wof:name":"Burkhalter Salvage & Recycling",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.935433,
+    32.166674,
+    -89.935433,
+    32.166674
+],
+  "geometry": {"coordinates":[-89.935433,32.166674],"type":"Point"}
+}

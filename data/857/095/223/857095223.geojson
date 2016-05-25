@@ -1,0 +1,73 @@
+{
+  "id": 857095223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.87629,34.406172,-88.87629,34.406172",
+    "geom:latitude":34.406172,
+    "geom:longitude":-88.87629,
+    "iso:country":"US",
+    "sg:address":"1740 Co Rd 278",
+    "sg:city":"Blue Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 3458",
+    "sg:postcode":"38828",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFMnpqwBisjJhuMcCmOaP_34.406172_-88.876290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121794,
+    "wof:geomhash":"f6cb2f22a5c7da081c276cf90728d4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857095223
+        }
+    ],
+    "wof:id":857095223,
+    "wof:lastmodified":1464121794,
+    "wof:name":"Blue Springs Auto Sales",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -88.87629,
+    34.406172,
+    -88.87629,
+    34.406172
+],
+  "geometry": {"coordinates":[-88.87629,34.406172],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857082245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701299,32.377694,-88.701299,32.377694",
+    "geom:latitude":32.377694,
+    "geom:longitude":-88.701299,
+    "iso:country":"US",
+    "sg:address":"1926 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 1131",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5clzvdhnx87Yjxh9F6axOB_32.377694_-88.701299@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121455,
+    "wof:geomhash":"35fc819e1eb54eba5f7b757c38e22873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857082245
+        }
+    ],
+    "wof:id":857082245,
+    "wof:lastmodified":1464121455,
+    "wof:name":"East Miss Endoscopic Ctr LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.701299,
+    32.377694,
+    -88.701299,
+    32.377694
+],
+  "geometry": {"coordinates":[-88.70129900000001,32.377694],"type":"Point"}
+}

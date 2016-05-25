@@ -1,0 +1,71 @@
+{
+  "id": 857339009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685908,34.249712,-88.685908,34.249712",
+    "geom:latitude":34.249712,
+    "geom:longitude":-88.685908,
+    "iso:country":"US",
+    "sg:address":"415 S Veterans Blvd",
+    "sg:city":"Booneville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 728 7555",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m3rsqzxJBCRz6WujkqB4t_34.249712_-88.685908@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127252,
+    "wof:geomhash":"01ba4dde83abb969e0b536ef40fb96df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857339009
+        }
+    ],
+    "wof:id":857339009,
+    "wof:lastmodified":1464127252,
+    "wof:name":"D CS Used Cars",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -88.685908,
+    34.249712,
+    -88.685908,
+    34.249712
+],
+  "geometry": {"coordinates":[-88.685908,34.249712],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857086467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.705529,34.314026,-88.705529,34.314026",
+    "geom:latitude":34.314026,
+    "geom:longitude":-88.705529,
+    "iso:country":"US",
+    "sg:address":"897 Harmony Ln",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4403",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0noXhMa7bjS316K1cveTGa_34.314026_-88.705529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121572,
+    "wof:geomhash":"969b7cb4f2eead3d5b5c23ece30c84e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857086467
+        }
+    ],
+    "wof:id":857086467,
+    "wof:lastmodified":1464121572,
+    "wof:name":"Best Western",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.705529,
+    34.314026,
+    -88.705529,
+    34.314026
+],
+  "geometry": {"coordinates":[-88.705529,34.314026],"type":"Point"}
+}

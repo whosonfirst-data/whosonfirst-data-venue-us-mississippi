@@ -1,0 +1,72 @@
+{
+  "id": 857357437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719975,34.214445,-88.719975,34.214445",
+    "geom:latitude":34.214445,
+    "geom:longitude":-88.719975,
+    "iso:country":"US",
+    "sg:address":"2104 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 6501",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.tupelo-leehumane.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h2bBaZv2d0ixNCJtQ53xk_34.214445_-88.719975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127643,
+    "wof:geomhash":"afc8d3ddfc99fbbf32e7b23fd3b3482d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857357437
+        }
+    ],
+    "wof:id":857357437,
+    "wof:lastmodified":1464127643,
+    "wof:name":"Tupelo Humane Society",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -88.719975,
+    34.214445,
+    -88.719975,
+    34.214445
+],
+  "geometry": {"coordinates":[-88.71997500000001,34.214445],"type":"Point"}
+}

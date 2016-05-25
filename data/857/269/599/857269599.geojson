@@ -1,0 +1,73 @@
+{
+  "id": 857269599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.454725,34.321678,-90.454725,34.321678",
+    "geom:latitude":34.321678,
+    "geom:longitude":-90.454725,
+    "iso:country":"US",
+    "sg:address":"219 Mosley St",
+    "sg:city":"Jonestown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 9933",
+    "sg:postcode":"38639",
+    "sg:province":"MS",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OemiX1obRISkaLdEiACq1_34.321678_-90.454725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125678,
+    "wof:geomhash":"edf668d6096049917dac6de469395076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857269599
+        }
+    ],
+    "wof:id":857269599,
+    "wof:lastmodified":1464125678,
+    "wof:name":"Sister Holy Name",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -90.454725,
+    34.321678,
+    -90.454725,
+    34.321678
+],
+  "geometry": {"coordinates":[-90.454725,34.321678],"type":"Point"}
+}

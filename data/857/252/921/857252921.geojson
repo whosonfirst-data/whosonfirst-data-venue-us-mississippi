@@ -1,0 +1,73 @@
+{
+  "id": 857252921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.784138,32.243855,-89.784138,32.243855",
+    "geom:latitude":32.243855,
+    "geom:longitude":-89.784138,
+    "iso:country":"US",
+    "sg:address":"160 Gardenia Dr",
+    "sg:city":"Pelahatchie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 546 2275",
+    "sg:postcode":"39145",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X6EcEwCMHtyM854wi7mth_32.243855_-89.784138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125319,
+    "wof:geomhash":"40b8455dafa4b2851af9c84ca0c6cc74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857252921
+        }
+    ],
+    "wof:id":857252921,
+    "wof:lastmodified":1464125319,
+    "wof:name":"Dermatopathology Associates",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.784138,
+    32.243855,
+    -89.784138,
+    32.243855
+],
+  "geometry": {"coordinates":[-89.784138,32.243855],"type":"Point"}
+}

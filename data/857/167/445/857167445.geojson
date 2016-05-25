@@ -1,0 +1,73 @@
+{
+  "id": 857167445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.560523,34.195119,-90.560523,34.195119",
+    "geom:latitude":34.195119,
+    "geom:longitude":-90.560523,
+    "iso:country":"US",
+    "sg:address":"824 Garfield St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9443",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2POnLiw0YQglan9P8s9NJH_34.195119_-90.560523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123520,
+    "wof:geomhash":"722b83082d74df3843630eed0ea80738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857167445
+        }
+    ],
+    "wof:id":857167445,
+    "wof:lastmodified":1464123520,
+    "wof:name":"Brinkley Plumbing",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.560523,
+    34.195119,
+    -90.560523,
+    34.195119
+],
+  "geometry": {"coordinates":[-90.560523,34.195119],"type":"Point"}
+}

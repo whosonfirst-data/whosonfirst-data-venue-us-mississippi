@@ -1,0 +1,73 @@
+{
+  "id": 857247667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.521246,34.263286,-90.521246,34.263286",
+    "geom:latitude":34.263286,
+    "geom:longitude":-90.521246,
+    "iso:country":"US",
+    "sg:address":"18828 US Hwy 61",
+    "sg:city":"Lyon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9646",
+    "sg:postcode":"38645",
+    "sg:province":"MS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQEbn3ToJZSvRBQTUJqxW_34.263286_-90.521246@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125192,
+    "wof:geomhash":"b913ab4c23e251c598c5243656ca0eab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857247667
+        }
+    ],
+    "wof:id":857247667,
+    "wof:lastmodified":1464125192,
+    "wof:name":"Mid-South Waste Disposal",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.521246,
+    34.263286,
+    -90.521246,
+    34.263286
+],
+  "geometry": {"coordinates":[-90.521246,34.263286],"type":"Point"}
+}

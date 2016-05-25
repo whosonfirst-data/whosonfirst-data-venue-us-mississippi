@@ -1,0 +1,73 @@
+{
+  "id": 857472911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.74737,34.259515,-88.74737,34.259515",
+    "geom:latitude":34.259515,
+    "geom:longitude":-88.74737,
+    "iso:country":"US",
+    "sg:address":"192 Winfield Dr",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 4626",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ZO4rAJDgIprV38E6bZOt_34.259515_-88.747370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130235,
+    "wof:geomhash":"8cca63935bb8beaab402eeef9f2ce1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857472911
+        }
+    ],
+    "wof:id":857472911,
+    "wof:lastmodified":1464130235,
+    "wof:name":"Ray Miller Plumbing",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.74737,
+    34.259515,
+    -88.74737,
+    34.259515
+],
+  "geometry": {"coordinates":[-88.74737,34.259515],"type":"Point"}
+}

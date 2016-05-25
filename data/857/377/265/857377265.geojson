@@ -1,0 +1,71 @@
+{
+  "id": 857377265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645613,30.505895,-88.645613,30.505895",
+    "geom:latitude":30.505895,
+    "geom:longitude":-88.645613,
+    "iso:country":"US",
+    "sg:address":"11000 Johns Bayou Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 466 5760",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58DYZlIC1CJ0FwKfVt12I3_30.505895_-88.645613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128062,
+    "wof:geomhash":"10c840eecac583654a3392b91f5d0e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857377265
+        }
+    ],
+    "wof:id":857377265,
+    "wof:lastmodified":1464128062,
+    "wof:name":"John's Bayou Poa",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -88.645613,
+    30.505895,
+    -88.645613,
+    30.505895
+],
+  "geometry": {"coordinates":[-88.645613,30.505895],"type":"Point"}
+}

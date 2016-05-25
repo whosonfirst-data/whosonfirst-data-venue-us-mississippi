@@ -1,0 +1,73 @@
+{
+  "id": 857397797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.242755,30.317665,-89.242755,30.317665",
+    "geom:latitude":30.317665,
+    "geom:longitude":-89.242755,
+    "iso:country":"US",
+    "sg:address":"243 E 2nd St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 2424",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IuBUmyIk5wB0jJWItrotJ_30.317665_-89.242755@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128584,
+    "wof:geomhash":"ab3b99e5e2b809340b5e5098ad8782e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857397797
+        }
+    ],
+    "wof:id":857397797,
+    "wof:lastmodified":1464128584,
+    "wof:name":"Pass Christian Mini Warehouses",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.242755,
+    30.317665,
+    -89.242755,
+    30.317665
+],
+  "geometry": {"coordinates":[-89.242755,30.317665],"type":"Point"}
+}

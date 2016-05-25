@@ -1,0 +1,71 @@
+{
+  "id": 857299011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698545,32.370723,-88.698545,32.370723",
+    "geom:latitude":32.370723,
+    "geom:longitude":-88.698545,
+    "iso:country":"US",
+    "sg:address":"1911 14th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 0099",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hxyRJSyOT9Xyiyrj2QdLF_32.370723_-88.698545@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126387,
+    "wof:geomhash":"d5b78ce7606e2aabc243bcd08080302b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857299011
+        }
+    ],
+    "wof:id":857299011,
+    "wof:lastmodified":1464126387,
+    "wof:name":"Medical Store",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.698545,
+    32.370723,
+    -88.698545,
+    32.370723
+],
+  "geometry": {"coordinates":[-88.698545,32.370723],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857076893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.507297,30.379298,-88.507297,30.379298",
+    "geom:latitude":30.379298,
+    "geom:longitude":-88.507297,
+    "iso:country":"US",
+    "sg:address":"4900 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7991",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79inQ6Ryi45vkSnCTd0qGp_30.379298_-88.507297@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121331,
+    "wof:geomhash":"ce052620702efcdfddc7be75ef1e26fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857076893
+        }
+    ],
+    "wof:id":857076893,
+    "wof:lastmodified":1464121331,
+    "wof:name":"Greywood Glen Apartments",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.507297,
+    30.379298,
+    -88.507297,
+    30.379298
+],
+  "geometry": {"coordinates":[-88.50729699999999,30.379298],"type":"Point"}
+}

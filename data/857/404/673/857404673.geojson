@@ -1,0 +1,73 @@
+{
+  "id": 857404673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.828096,33.432227,-88.828096,33.432227",
+    "geom:latitude":33.432227,
+    "geom:longitude":-88.828096,
+    "iso:country":"US",
+    "sg:address":"1400 Hwy 25 S",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 7078",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85858519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nFZc4WsERxOexnwr4YIPS_33.432227_-88.828096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128722,
+    "wof:geomhash":"245b87f88e4a19a7685d4ed8d6ff6f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85858519,
+            "region_id":85688579,
+            "venue_id":857404673
+        }
+    ],
+    "wof:id":857404673,
+    "wof:lastmodified":1464128722,
+    "wof:name":"Starkville Veterinary Hospital",
+    "wof:parent_id":85858519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.828096,
+    33.432227,
+    -88.828096,
+    33.432227
+],
+  "geometry": {"coordinates":[-88.828096,33.432227],"type":"Point"}
+}

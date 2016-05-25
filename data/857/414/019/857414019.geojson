@@ -1,0 +1,73 @@
+{
+  "id": 857414019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.426226,33.498638,-88.426226,33.498638",
+    "geom:latitude":33.498638,
+    "geom:longitude":-88.426226,
+    "iso:country":"US",
+    "sg:address":"306 N 7th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4751",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Jb7HoZu6CJfVoVxuZhNl_33.498638_-88.426226@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128944,
+    "wof:geomhash":"e5f85169f1cf0ebd32b8219800f5625d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857414019
+        }
+    ],
+    "wof:id":857414019,
+    "wof:lastmodified":1464128944,
+    "wof:name":"Miller Marine & Outdoor Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -88.426226,
+    33.498638,
+    -88.426226,
+    33.498638
+],
+  "geometry": {"coordinates":[-88.426226,33.498638],"type":"Point"}
+}

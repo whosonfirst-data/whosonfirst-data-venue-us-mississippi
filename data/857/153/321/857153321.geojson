@@ -1,0 +1,73 @@
+{
+  "id": 857153321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700491,32.364876,-88.700491,32.364876",
+    "geom:latitude":32.364876,
+    "geom:longitude":-88.700491,
+    "iso:country":"US",
+    "sg:address":"633 22nd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 5051",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h3k2bra0qBsnghv7T2PtT_32.364876_-88.700491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123213,
+    "wof:geomhash":"15c46972b6c821d20d7f0cc7e2712b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857153321
+        }
+    ],
+    "wof:id":857153321,
+    "wof:lastmodified":1464123213,
+    "wof:name":"Pinnacle House",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -88.700491,
+    32.364876,
+    -88.700491,
+    32.364876
+],
+  "geometry": {"coordinates":[-88.700491,32.364876],"type":"Point"}
+}

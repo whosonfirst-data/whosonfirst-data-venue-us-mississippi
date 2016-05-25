@@ -1,0 +1,75 @@
+{
+  "id": 857464477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.027017,30.398583,-89.027017,30.398583",
+    "geom:latitude":30.398583,
+    "geom:longitude":-89.027017,
+    "iso:country":"US",
+    "sg:address":"1315 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 6911",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7qcrEncc1xVBG0VjbtIe_30.398583_-89.027017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130049,
+    "wof:geomhash":"54a098ce972f2837fdaf39d2f6198925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857464477
+        }
+    ],
+    "wof:id":857464477,
+    "wof:lastmodified":1464130049,
+    "wof:name":"Check Into Cash",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -89.027017,
+    30.398583,
+    -89.027017,
+    30.398583
+],
+  "geometry": {"coordinates":[-89.027017,30.398583],"type":"Point"}
+}

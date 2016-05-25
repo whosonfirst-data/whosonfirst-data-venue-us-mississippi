@@ -1,0 +1,71 @@
+{
+  "id": 857324957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679584,32.379835,-88.679584,32.379835",
+    "geom:latitude":32.379835,
+    "geom:longitude":-88.679584,
+    "iso:country":"US",
+    "sg:address":"2206 Old Hwy 45 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 9851",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b02S9bG0sz4Ur9I1ZXlMl_32.379835_-88.679584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126949,
+    "wof:geomhash":"c2059ed0d19337c65e3e40b53f498b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857324957
+        }
+    ],
+    "wof:id":857324957,
+    "wof:lastmodified":1464126949,
+    "wof:name":"Sho Nuff Clean Car Wash",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.679584,
+    32.379835,
+    -88.679584,
+    32.379835
+],
+  "geometry": {"coordinates":[-88.67958400000001,32.379835],"type":"Point"}
+}

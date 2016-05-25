@@ -1,0 +1,71 @@
+{
+  "id": 857451739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.822484,34.243589,-88.822484,34.243589",
+    "geom:latitude":34.243589,
+    "geom:longitude":-88.822484,
+    "iso:country":"US",
+    "sg:address":"102 Rd 13",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 2295",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5svffEnEHaUpqPFJsVU1Dt_34.243589_-88.822484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129795,
+    "wof:geomhash":"bc8925c52c6f5ba03df6b7a08f4a9dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857451739
+        }
+    ],
+    "wof:id":857451739,
+    "wof:lastmodified":1464129795,
+    "wof:name":"Holliday Land Surveying",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -88.822484,
+    34.243589,
+    -88.822484,
+    34.243589
+],
+  "geometry": {"coordinates":[-88.822484,34.243589],"type":"Point"}
+}

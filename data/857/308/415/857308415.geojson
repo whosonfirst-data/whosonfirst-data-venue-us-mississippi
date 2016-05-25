@@ -1,0 +1,71 @@
+{
+  "id": 857308415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.262806,31.33638,-89.262806,31.33638",
+    "geom:latitude":31.33638,
+    "geom:longitude":-89.262806,
+    "iso:country":"US",
+    "sg:address":"723 S Main St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6701",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_317aaC3idmPH0Q3e2EpCjq_31.336380_-89.262806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126586,
+    "wof:geomhash":"cb126fec13552aca14813f42650daa73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857308415
+        }
+    ],
+    "wof:id":857308415,
+    "wof:lastmodified":1464126586,
+    "wof:name":"Ward's Transmission Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.262806,
+    31.33638,
+    -89.262806,
+    31.33638
+],
+  "geometry": {"coordinates":[-89.262806,31.33638],"type":"Point"}
+}

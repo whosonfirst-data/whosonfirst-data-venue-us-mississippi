@@ -1,0 +1,73 @@
+{
+  "id": 857121449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.637666,33.607176,-88.637666,33.607176",
+    "geom:latitude":33.607176,
+    "geom:longitude":-88.637666,
+    "iso:country":"US",
+    "sg:address":"935 State Hwy 50",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2006",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fLsQA3XkXnNkrpIsCdBz7_33.607176_-88.637666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122485,
+    "wof:geomhash":"663dbd12f2fbbbcbe5ace6489f2134ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857121449
+        }
+    ],
+    "wof:id":857121449,
+    "wof:lastmodified":1464122485,
+    "wof:name":"We Gel",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -88.637666,
+    33.607176,
+    -88.637666,
+    33.607176
+],
+  "geometry": {"coordinates":[-88.637666,33.607176],"type":"Point"}
+}

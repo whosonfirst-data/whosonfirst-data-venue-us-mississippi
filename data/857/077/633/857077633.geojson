@@ -1,0 +1,73 @@
+{
+  "id": 857077633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.168058,32.46806,-90.168058,32.46806",
+    "geom:latitude":32.46806,
+    "geom:longitude":-90.168058,
+    "iso:country":"US",
+    "sg:address":"303 Grayling Blvd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 2351",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K7xqv21WyXRykaNHzglQX_32.468060_-90.168058@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121347,
+    "wof:geomhash":"86df5474610833c136c6051e64225c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857077633
+        }
+    ],
+    "wof:id":857077633,
+    "wof:lastmodified":1464121347,
+    "wof:name":"Lloyd Mercer",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinical"
+    ]
+},
+  "bbox": [
+    -90.168058,
+    32.46806,
+    -90.168058,
+    32.46806
+],
+  "geometry": {"coordinates":[-90.168058,32.46806],"type":"Point"}
+}

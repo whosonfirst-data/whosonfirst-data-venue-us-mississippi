@@ -1,0 +1,75 @@
+{
+  "id": 857454893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.829631,33.458367,-88.829631,33.458367",
+    "geom:latitude":33.458367,
+    "geom:longitude":-88.829631,
+    "iso:country":"US",
+    "sg:address":"9 Middleton Ct",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 4084",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85857241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W3w2P3enCcPbcuNLkhB3o_33.458367_-88.829631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129854,
+    "wof:geomhash":"5bf4c31024e353726b8ffd419e0ba04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85857241,
+            "region_id":85688579,
+            "venue_id":857454893
+        }
+    ],
+    "wof:id":857454893,
+    "wof:lastmodified":1464129854,
+    "wof:name":"Simmons Properties LLP",
+    "wof:parent_id":85857241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.829631,
+    33.458367,
+    -88.829631,
+    33.458367
+],
+  "geometry": {"coordinates":[-88.82963100000001,33.458367],"type":"Point"}
+}

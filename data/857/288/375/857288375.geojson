@@ -1,0 +1,77 @@
+{
+  "id": 857288375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.419463,33.507104,-88.419463,33.507104",
+    "geom:latitude":33.507104,
+    "geom:longitude":-88.419463,
+    "iso:country":"US",
+    "sg:address":"1112 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6091",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BVR8InxmxO8rHupDBHMDK_33.507104_-88.419463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126091,
+    "wof:geomhash":"d76013ca1046a061879576f4eb1114a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857288375
+        }
+    ],
+    "wof:id":857288375,
+    "wof:lastmodified":1464126091,
+    "wof:name":"Lowndes County Health Dept",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -88.419463,
+    33.507104,
+    -88.419463,
+    33.507104
+],
+  "geometry": {"coordinates":[-88.41946299999999,33.507104],"type":"Point"}
+}

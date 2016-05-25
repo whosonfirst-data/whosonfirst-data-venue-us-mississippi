@@ -1,0 +1,71 @@
+{
+  "id": 857185387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529549,30.357974,-88.529549,30.357974",
+    "geom:latitude":30.357974,
+    "geom:longitude":-88.529549,
+    "iso:country":"US",
+    "sg:address":"1911 21st St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0505",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JCPIHpttoQ1fSTBva8lzT_30.357974_-88.529549@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123904,
+    "wof:geomhash":"f0267d465193865ac7d7332aa3405b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857185387
+        }
+    ],
+    "wof:id":857185387,
+    "wof:lastmodified":1464123904,
+    "wof:name":"Eula & Son Upholstery",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -88.529549,
+    30.357974,
+    -88.529549,
+    30.357974
+],
+  "geometry": {"coordinates":[-88.529549,30.357974],"type":"Point"}
+}

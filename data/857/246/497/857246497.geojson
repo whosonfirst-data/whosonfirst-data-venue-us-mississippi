@@ -1,0 +1,71 @@
+{
+  "id": 857246497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.805018,33.475002,-88.805018,33.475002",
+    "geom:latitude":33.475002,
+    "geom:longitude":-88.805018,
+    "iso:country":"US",
+    "sg:address":"210 Edgewood Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8789",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_365x6KTARhVM7dcLy9x9tG_33.475002_-88.805018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125168,
+    "wof:geomhash":"17f30cea8e11b985cab689b2e14a20c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857246497
+        }
+    ],
+    "wof:id":857246497,
+    "wof:lastmodified":1464125168,
+    "wof:name":"Keystone Properties LLC",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.805018,
+    33.475002,
+    -88.805018,
+    33.475002
+],
+  "geometry": {"coordinates":[-88.805018,33.475002],"type":"Point"}
+}

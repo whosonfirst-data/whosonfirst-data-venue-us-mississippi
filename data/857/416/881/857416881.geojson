@@ -1,0 +1,77 @@
+{
+  "id": 857416881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.5212,34.35326,-89.5212,34.35326",
+    "geom:latitude":34.35326,
+    "geom:longitude":-89.5212,
+    "iso:country":"US",
+    "sg:address":"2100 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4313",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YMoEMHFyXw1DmxheqgffN_34.353260_-89.521200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129030,
+    "wof:geomhash":"73bcf4c45f2905d9db1895030ae44aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857416881
+        }
+    ],
+    "wof:id":857416881,
+    "wof:lastmodified":1464129030,
+    "wof:name":"Chevron",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.5212,
+    34.35326,
+    -89.5212,
+    34.35326
+],
+  "geometry": {"coordinates":[-89.52119999999999,34.35326],"type":"Point"}
+}

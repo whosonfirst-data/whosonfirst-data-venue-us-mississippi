@@ -1,0 +1,73 @@
+{
+  "id": 857298997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547351,30.371824,-88.547351,30.371824",
+    "geom:latitude":30.371824,
+    "geom:longitude":-88.547351,
+    "iso:country":"US",
+    "sg:address":"1717 Kenneth Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0255",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SMkgQijlpiXWODr0P5wEz_30.371824_-88.547351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126387,
+    "wof:geomhash":"1282e956c7f61c38c897af846e931405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857298997
+        }
+    ],
+    "wof:id":857298997,
+    "wof:lastmodified":1464126387,
+    "wof:name":"Jackson County CWC",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.547351,
+    30.371824,
+    -88.547351,
+    30.371824
+],
+  "geometry": {"coordinates":[-88.54735100000001,30.371824],"type":"Point"}
+}

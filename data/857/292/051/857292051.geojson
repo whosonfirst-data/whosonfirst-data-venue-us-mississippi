@@ -1,0 +1,71 @@
+{
+  "id": 857292051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435326,33.520896,-88.435326,33.520896",
+    "geom:latitude":33.520896,
+    "geom:longitude":-88.435326,
+    "iso:country":"US",
+    "sg:address":"801 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 8778",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V09bjezKZPrkd75r0Vwd6_33.520896_-88.435326@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126200,
+    "wof:geomhash":"7dacb70f774821eccc284b260c04a791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857292051
+        }
+    ],
+    "wof:id":857292051,
+    "wof:lastmodified":1464126200,
+    "wof:name":"Tacs",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.435326,
+    33.520896,
+    -88.435326,
+    33.520896
+],
+  "geometry": {"coordinates":[-88.435326,33.520896],"type":"Point"}
+}

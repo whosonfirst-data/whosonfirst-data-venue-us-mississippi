@@ -1,0 +1,73 @@
+{
+  "id": 857089093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720035,33.324761,-88.720035,33.324761",
+    "geom:latitude":33.324761,
+    "geom:longitude":-88.720035,
+    "iso:country":"US",
+    "sg:address":"2896 Ridge Rd",
+    "sg:city":"Crawford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 272 8441",
+    "sg:postcode":"39743",
+    "sg:province":"MS",
+    "sg:tags":[
+        "health",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lmq2ODu2zfo5w0AT9zi57_33.324761_-88.720035@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121645,
+    "wof:geomhash":"d9b021e8de16d81235429018babcd41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857089093
+        }
+    ],
+    "wof:id":857089093,
+    "wof:lastmodified":1464121645,
+    "wof:name":"Edwards Health Care Services",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.720035,
+    33.324761,
+    -88.720035,
+    33.324761
+],
+  "geometry": {"coordinates":[-88.720035,33.324761],"type":"Point"}
+}

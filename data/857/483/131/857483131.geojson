@@ -1,0 +1,74 @@
+{
+  "id": 857483131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68304,32.35884,-88.68304,32.35884",
+    "geom:latitude":32.35884,
+    "geom:longitude":-88.68304,
+    "iso:country":"US",
+    "sg:address":"1300 N Frontage Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/72856-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 7401",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_772pkIGF58J65KbrysE8wd_32.358840_-88.683040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130430,
+    "wof:geomhash":"05854f6a56bd3f1d6086ff16d7a82084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483131
+        }
+    ],
+    "wof:id":857483131,
+    "wof:lastmodified":1464130430,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.68304,
+    32.35884,
+    -88.68304,
+    32.35884
+],
+  "geometry": {"coordinates":[-88.68304000000001,32.35884],"type":"Point"}
+}

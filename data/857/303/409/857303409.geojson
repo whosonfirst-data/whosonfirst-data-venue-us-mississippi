@@ -1,0 +1,73 @@
+{
+  "id": 857303409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704814,34.117653,-88.704814,34.117653",
+    "geom:latitude":34.117653,
+    "geom:longitude":-88.704814,
+    "iso:country":"US",
+    "sg:address":"208 Broad St",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 8840",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EYDicuIksYPF5qpjL9aG4_34.117653_-88.704814@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126484,
+    "wof:geomhash":"ae9ae69228cd031f633b838b863d6ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857303409
+        }
+    ],
+    "wof:id":857303409,
+    "wof:lastmodified":1464126484,
+    "wof:name":"Shannon Family Medical Clinic",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.704814,
+    34.117653,
+    -88.704814,
+    34.117653
+],
+  "geometry": {"coordinates":[-88.704814,34.117653],"type":"Point"}
+}

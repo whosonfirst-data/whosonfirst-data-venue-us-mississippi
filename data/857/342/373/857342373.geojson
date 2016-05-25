@@ -1,0 +1,75 @@
+{
+  "id": 857342373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.436068,33.497567,-88.436068,33.497567",
+    "geom:latitude":33.497567,
+    "geom:longitude":-88.436068,
+    "iso:country":"US",
+    "sg:address":"300 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3533",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JX5CEv5hWwamXDYfqQY61_33.497567_-88.436068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127322,
+    "wof:geomhash":"d903d1ae04d41459c9828134b7ee332a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857342373
+        }
+    ],
+    "wof:id":857342373,
+    "wof:lastmodified":1464127322,
+    "wof:name":"Columbus Historic Foundation",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -88.436068,
+    33.497567,
+    -88.436068,
+    33.497567
+],
+  "geometry": {"coordinates":[-88.43606800000001,33.497567],"type":"Point"}
+}

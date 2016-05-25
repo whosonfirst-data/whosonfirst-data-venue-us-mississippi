@@ -1,0 +1,71 @@
+{
+  "id": 857454587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.509656,30.392786,-88.509656,30.392786",
+    "geom:latitude":30.392786,
+    "geom:longitude":-88.509656,
+    "iso:country":"US",
+    "sg:address":"5919 Shortcut Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 5113",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79UyiRdo2Ocpy7VnwDhfyv_30.392786_-88.509656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129849,
+    "wof:geomhash":"d69d332d150909f4e02a7d889e1cbf6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857454587
+        }
+    ],
+    "wof:id":857454587,
+    "wof:lastmodified":1464129849,
+    "wof:name":"Jackson County Wrecker & Auto",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -88.509656,
+    30.392786,
+    -88.509656,
+    30.392786
+],
+  "geometry": {"coordinates":[-88.50965600000001,30.392786],"type":"Point"}
+}

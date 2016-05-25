@@ -1,0 +1,71 @@
+{
+  "id": 857104447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.868421,32.262429,-90.868421,32.262429",
+    "geom:latitude":32.262429,
+    "geom:longitude":-90.868421,
+    "iso:country":"US",
+    "sg:address":"2310 Fisher Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 6707",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BKBp96gcrT7JU16Z3GqiR_32.262429_-90.868421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122015,
+    "wof:geomhash":"1a83f048b3edfaf4de946fc57a96d0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857104447
+        }
+    ],
+    "wof:id":857104447,
+    "wof:lastmodified":1464122015,
+    "wof:name":"Clark Machine Shop",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.868421,
+    32.262429,
+    -90.868421,
+    32.262429
+],
+  "geometry": {"coordinates":[-90.868421,32.262429],"type":"Point"}
+}

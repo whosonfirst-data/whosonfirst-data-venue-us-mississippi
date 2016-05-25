@@ -1,0 +1,74 @@
+{
+  "id": 857485517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659114,33.612253,-88.659114,33.612253",
+    "geom:latitude":33.612253,
+    "geom:longitude":-88.659114,
+    "iso:country":"US",
+    "sg:address":"525 Highway 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/una/183272-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2714",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zdJxgHYnOZ8fV8owiGc9_33.612253_-88.659114@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130477,
+    "wof:geomhash":"8309541b22e92aabef1922752da146c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857485517
+        }
+    ],
+    "wof:id":857485517,
+    "wof:lastmodified":1464130477,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -88.659114,
+    33.612253,
+    -88.659114,
+    33.612253
+],
+  "geometry": {"coordinates":[-88.659114,33.612253],"type":"Point"}
+}

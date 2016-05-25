@@ -1,0 +1,68 @@
+{
+  "id": 857452197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.058974,30.449546,-89.058974,30.449546",
+    "geom:latitude":30.449546,
+    "geom:longitude":-89.058974,
+    "iso:country":"US",
+    "sg:address":"13203 Dedeaux Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 0007",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7htJ4DS7XIZyffibO6OiL7_30.449546_-89.058974@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129802,
+    "wof:geomhash":"bd24d010bdc3566b0d7ca5f4c21462cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857452197
+        }
+    ],
+    "wof:id":857452197,
+    "wof:lastmodified":1464129802,
+    "wof:name":"Creole Cafe",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.058974,
+    30.449546,
+    -89.058974,
+    30.449546
+],
+  "geometry": {"coordinates":[-89.05897400000001,30.449546],"type":"Point"}
+}

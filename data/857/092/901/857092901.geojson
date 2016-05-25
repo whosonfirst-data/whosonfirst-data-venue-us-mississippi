@@ -1,0 +1,73 @@
+{
+  "id": 857092901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.577431,34.194561,-90.577431,34.194561",
+    "geom:latitude":34.194561,
+    "geom:longitude":-90.577431,
+    "iso:country":"US",
+    "sg:address":"126 Jefferson Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5154",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "center",
+        "hour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GgwpCoaGFKavMUOlmnscr_34.194561_-90.577431@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121749,
+    "wof:geomhash":"a6b37fad3c0c89ae526ad82218f1f9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857092901
+        }
+    ],
+    "wof:id":857092901,
+    "wof:lastmodified":1464121749,
+    "wof:name":"Tots For Time",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "hour"
+    ]
+},
+  "bbox": [
+    -90.577431,
+    34.194561,
+    -90.577431,
+    34.194561
+],
+  "geometry": {"coordinates":[-90.577431,34.194561],"type":"Point"}
+}

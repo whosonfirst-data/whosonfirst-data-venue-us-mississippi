@@ -1,0 +1,71 @@
+{
+  "id": 857434107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720016,34.193371,-88.720016,34.193371",
+    "geom:latitude":34.193371,
+    "geom:longitude":-88.720016,
+    "iso:country":"US",
+    "sg:address":"5069 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7001",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yVwmKAAQ5jCXQIU4RWYsy_34.193371_-88.720016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129449,
+    "wof:geomhash":"caeda6ba94efcb0c92518a01f291ba20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857434107
+        }
+    ],
+    "wof:id":857434107,
+    "wof:lastmodified":1464129449,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.720016,
+    34.193371,
+    -88.720016,
+    34.193371
+],
+  "geometry": {"coordinates":[-88.720016,34.193371],"type":"Point"}
+}

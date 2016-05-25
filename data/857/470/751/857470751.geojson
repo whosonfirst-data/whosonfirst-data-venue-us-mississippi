@@ -1,0 +1,67 @@
+{
+  "id": 857470751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543319,33.825322,-88.543319,33.825322",
+    "geom:latitude":33.825322,
+    "geom:longitude":-88.543319,
+    "iso:country":"US",
+    "sg:address":"128 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6461",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:website":"www.nbcbankline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XUE7Sw0RA5bkJkHZsJq35_33.825322_-88.543319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130185,
+    "wof:geomhash":"9c140cf6f01804655442d3a8a5dde656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857470751
+        }
+    ],
+    "wof:id":857470751,
+    "wof:lastmodified":1464130185,
+    "wof:name":"National Bank Of Commerce",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.543319,
+    33.825322,
+    -88.543319,
+    33.825322
+],
+  "geometry": {"coordinates":[-88.543319,33.825322],"type":"Point"}
+}

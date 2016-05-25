@@ -1,0 +1,82 @@
+{
+  "id": 857354185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39927,32.861581,-90.39927,32.861581",
+    "geom:latitude":32.861581,
+    "geom:longitude":-90.39927,
+    "iso:country":"US",
+    "sg:address":"634 E 12th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7453",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "scrap",
+        "material",
+        "product",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hXh9p9D07GRgxJp59QPX5_32.861581_-90.399270@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127577,
+    "wof:geomhash":"3870afe1ee0c027d42944089560ba8ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857354185
+        }
+    ],
+    "wof:id":857354185,
+    "wof:lastmodified":1464127577,
+    "wof:name":"Yazoo Steel Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scrap",
+        "material",
+        "product",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.39927,
+    32.861581,
+    -90.39927,
+    32.861581
+],
+  "geometry": {"coordinates":[-90.39927,32.861581],"type":"Point"}
+}

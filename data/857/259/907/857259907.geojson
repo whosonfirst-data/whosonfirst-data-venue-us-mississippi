@@ -1,0 +1,71 @@
+{
+  "id": 857259907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.995732,32.275068,-89.995732,32.275068",
+    "geom:latitude":32.275068,
+    "geom:longitude":-89.995732,
+    "iso:country":"US",
+    "sg:address":"613 W Government St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 591 1166",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ixQOxtt9xJYglj2Yqs4EZ_32.275068_-89.995732@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125488,
+    "wof:geomhash":"620866678bb15af50c5e107704fa04ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857259907
+        }
+    ],
+    "wof:id":857259907,
+    "wof:lastmodified":1464125488,
+    "wof:name":"Penns To Go",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.995732,
+    32.275068,
+    -89.995732,
+    32.275068
+],
+  "geometry": {"coordinates":[-89.995732,32.275068],"type":"Point"}
+}

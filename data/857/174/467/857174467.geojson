@@ -1,0 +1,68 @@
+{
+  "id": 857174467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.842517,34.960712,-89.842517,34.960712",
+    "geom:latitude":34.960712,
+    "geom:longitude":-89.842517,
+    "iso:country":"US",
+    "sg:address":"8980 College St",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 5000",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J5NXDgRolJag5FAhPy9BU_34.960712_-89.842517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123683,
+    "wof:geomhash":"7977546ad8399bfa88ebdc6a0dc36226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857174467
+        }
+    ],
+    "wof:id":857174467,
+    "wof:lastmodified":1464123683,
+    "wof:name":"Jay's Barber Shop",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.842517,
+    34.960712,
+    -89.842517,
+    34.960712
+],
+  "geometry": {"coordinates":[-89.842517,34.960712],"type":"Point"}
+}

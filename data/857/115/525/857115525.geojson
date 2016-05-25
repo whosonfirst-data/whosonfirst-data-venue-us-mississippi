@@ -1,0 +1,74 @@
+{
+  "id": 857115525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.758117,33.473297,-88.758117,33.473297",
+    "geom:latitude":33.473297,
+    "geom:longitude":-88.758117,
+    "iso:country":"US",
+    "sg:address":"1271 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 1555",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "sg:website":"www.vccms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QGqctOXuFv7wEufgAtY4j_33.473297_-88.758117@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122326,
+    "wof:geomhash":"eeec24dc44e184bf03be3103c75c5199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857115525
+        }
+    ],
+    "wof:id":857115525,
+    "wof:lastmodified":1464122326,
+    "wof:name":"Village Cycle Ctr",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -88.758117,
+    33.473297,
+    -88.758117,
+    33.473297
+],
+  "geometry": {"coordinates":[-88.758117,33.473297],"type":"Point"}
+}

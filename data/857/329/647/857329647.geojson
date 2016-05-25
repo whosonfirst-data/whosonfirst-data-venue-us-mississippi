@@ -1,0 +1,71 @@
+{
+  "id": 857329647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559258,34.195718,-90.559258,34.195718",
+    "geom:latitude":34.195718,
+    "geom:longitude":-90.559258,
+    "iso:country":"US",
+    "sg:address":"1205 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9860",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hsVVwLwZUTJ2ty1n2bnow_34.195718_-90.559258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127047,
+    "wof:geomhash":"bdce857212653df9b2f488f7ca719f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857329647
+        }
+    ],
+    "wof:id":857329647,
+    "wof:lastmodified":1464127047,
+    "wof:name":"Kemp's Number Two",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.559258,
+    34.195718,
+    -90.559258,
+    34.195718
+],
+  "geometry": {"coordinates":[-90.559258,34.195718],"type":"Point"}
+}

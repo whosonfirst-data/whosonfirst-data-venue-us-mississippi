@@ -1,0 +1,66 @@
+{
+  "id": 857077615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720012,34.192932,-88.720012,34.192932",
+    "geom:latitude":34.192932,
+    "geom:longitude":-88.720012,
+    "iso:country":"US",
+    "sg:address":"5107 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 2442",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iEljUCo6Uf2AfJHWj4TwE_34.192932_-88.720012@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121346,
+    "wof:geomhash":"356db13a5b727533a4a3487991d142a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857077615
+        }
+    ],
+    "wof:id":857077615,
+    "wof:lastmodified":1464121346,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.720012,
+    34.192932,
+    -88.720012,
+    34.192932
+],
+  "geometry": {"coordinates":[-88.720012,34.192932],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857286415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.002145,32.279288,-90.002145,32.279288",
+    "geom:latitude":32.279288,
+    "geom:longitude":-90.002145,
+    "iso:country":"US",
+    "sg:address":"1400 W Government St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 0141",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.priorityonebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X7CKYWqTJD0UglaeNyH3x_32.279288_-90.002145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126053,
+    "wof:geomhash":"b045b6a960ef36858819194393b6129b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857286415
+        }
+    ],
+    "wof:id":857286415,
+    "wof:lastmodified":1464126053,
+    "wof:name":"Priority One Bank",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.002145,
+    32.279288,
+    -90.002145,
+    32.279288
+],
+  "geometry": {"coordinates":[-90.002145,32.279288],"type":"Point"}
+}

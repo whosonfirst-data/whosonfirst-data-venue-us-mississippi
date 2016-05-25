@@ -1,0 +1,73 @@
+{
+  "id": 857101243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.5444,34.376414,-89.5444,34.376414",
+    "geom:latitude":34.376414,
+    "geom:longitude":-89.5444,
+    "iso:country":"US",
+    "sg:address":"308 Country Club Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4743",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a26QgqexDpR0TFYnps3cX_34.376414_-89.544400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121945,
+    "wof:geomhash":"d662b5229bfac295db802cb352618a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857101243
+        }
+    ],
+    "wof:id":857101243,
+    "wof:lastmodified":1464121945,
+    "wof:name":"Calvin McElreath",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rental"
+    ]
+},
+  "bbox": [
+    -89.5444,
+    34.376414,
+    -89.5444,
+    34.376414
+],
+  "geometry": {"coordinates":[-89.5444,34.376414],"type":"Point"}
+}

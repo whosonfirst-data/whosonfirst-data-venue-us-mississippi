@@ -1,0 +1,71 @@
+{
+  "id": 857487011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569576,34.202314,-90.569576,34.202314",
+    "geom:latitude":34.202314,
+    "geom:longitude":-90.569576,
+    "iso:country":"US",
+    "sg:address":"505 3rd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8678",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xeoe3v8UhI0KdqdHNDgAZ_34.202314_-90.569576@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130503,
+    "wof:geomhash":"56520d5bb448de045a1a03d1fceb9023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487011
+        }
+    ],
+    "wof:id":857487011,
+    "wof:lastmodified":1464130503,
+    "wof:name":"Towne Square Apartments",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.569576,
+    34.202314,
+    -90.569576,
+    34.202314
+],
+  "geometry": {"coordinates":[-90.569576,34.202314],"type":"Point"}
+}

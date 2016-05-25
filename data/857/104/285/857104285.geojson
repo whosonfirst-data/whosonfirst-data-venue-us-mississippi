@@ -1,0 +1,69 @@
+{
+  "id": 857104285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.467844,31.320645,-89.467844,31.320645",
+    "geom:latitude":31.320645,
+    "geom:longitude":-89.467844,
+    "iso:country":"US",
+    "sg:address":"125 W Cane Brake Blvd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 9750",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oKDAqZ5hwNvaj5hDw9kNN_31.320645_-89.467844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122011,
+    "wof:geomhash":"76d40f61c7d77a73ab8fff49469a3a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857104285
+        }
+    ],
+    "wof:id":857104285,
+    "wof:lastmodified":1464122011,
+    "wof:name":"Cane Construction LLC",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.467844,
+    31.320645,
+    -89.467844,
+    31.320645
+],
+  "geometry": {"coordinates":[-89.467844,31.320645],"type":"Point"}
+}

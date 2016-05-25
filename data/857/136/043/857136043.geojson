@@ -1,0 +1,73 @@
+{
+  "id": 857136043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.699301,32.368799,-88.699301,32.368799",
+    "geom:latitude":32.368799,
+    "geom:longitude":-88.699301,
+    "iso:country":"US",
+    "sg:address":"1102 Constitution Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 3196",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6phLmyiSOgPVgW5uvv51Yc_32.368799_-88.699301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122807,
+    "wof:geomhash":"12c8a45b9501695b13c02b6e97b03a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857136043
+        }
+    ],
+    "wof:id":857136043,
+    "wof:lastmodified":1464122807,
+    "wof:name":"Medical Staff Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.699301,
+    32.368799,
+    -88.699301,
+    32.368799
+],
+  "geometry": {"coordinates":[-88.69930100000001,32.368799],"type":"Point"}
+}

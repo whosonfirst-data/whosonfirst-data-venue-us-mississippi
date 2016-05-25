@@ -1,0 +1,75 @@
+{
+  "id": 857380983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.107422,32.329948,-90.107422,32.329948",
+    "geom:latitude":32.329948,
+    "geom:longitude":-90.107422,
+    "iso:country":"US",
+    "sg:address":"1029 River Oaks Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 1733",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039lJt1panAfbQhL505a0e_32.329948_-90.107422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128149,
+    "wof:geomhash":"5163ac8a025af418b6f824a9f1a4e2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857380983
+        }
+    ],
+    "wof:id":857380983,
+    "wof:lastmodified":1464128149,
+    "wof:name":"Southern Neurosurgery & Spine",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.107422,
+    32.329948,
+    -90.107422,
+    32.329948
+],
+  "geometry": {"coordinates":[-90.107422,32.329948],"type":"Point"}
+}

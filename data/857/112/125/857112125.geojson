@@ -1,0 +1,73 @@
+{
+  "id": 857112125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.327981,31.26864,-89.327981,31.26864",
+    "geom:latitude":31.26864,
+    "geom:longitude":-89.327981,
+    "iso:country":"US",
+    "sg:address":"107 Timberton Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 3052",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W96x07a31ipemZ4AmcusR_31.268640_-89.327981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122235,
+    "wof:geomhash":"22b56c496ee5409fe167ebef9702d736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857112125
+        }
+    ],
+    "wof:id":857112125,
+    "wof:lastmodified":1464122235,
+    "wof:name":"Anita Atkinson",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -89.327981,
+    31.26864,
+    -89.327981,
+    31.26864
+],
+  "geometry": {"coordinates":[-89.32798099999999,31.26864],"type":"Point"}
+}

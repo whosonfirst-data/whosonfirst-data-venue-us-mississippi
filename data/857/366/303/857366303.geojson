@@ -1,0 +1,71 @@
+{
+  "id": 857366303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653426,33.604743,-88.653426,33.604743",
+    "geom:latitude":33.604743,
+    "geom:longitude":-88.653426,
+    "iso:country":"US",
+    "sg:address":"314 W Broad St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 587 5545",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BOVGsRzQbW2OnCRKhVmqK_33.604743_-88.653426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127831,
+    "wof:geomhash":"0a2ea237f47eba4d8dc27d6a1c335cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857366303
+        }
+    ],
+    "wof:id":857366303,
+    "wof:lastmodified":1464127831,
+    "wof:name":"Sassy Nail Spa",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -88.653426,
+    33.604743,
+    -88.653426,
+    33.604743
+],
+  "geometry": {"coordinates":[-88.653426,33.604743],"type":"Point"}
+}

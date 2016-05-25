@@ -1,0 +1,73 @@
+{
+  "id": 857373139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547549,30.370742,-88.547549,30.370742",
+    "geom:latitude":30.370742,
+    "geom:longitude":-88.547549,
+    "iso:country":"US",
+    "sg:address":"1730 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2418",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c70CyzfOWf3pK2wWdCtBP_30.370742_-88.547549@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127972,
+    "wof:geomhash":"413ddb88a90dd4116063542f4cde0efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857373139
+        }
+    ],
+    "wof:id":857373139,
+    "wof:lastmodified":1464127972,
+    "wof:name":"Babers Leasing",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "lease"
+    ]
+},
+  "bbox": [
+    -88.547549,
+    30.370742,
+    -88.547549,
+    30.370742
+],
+  "geometry": {"coordinates":[-88.547549,30.370742],"type":"Point"}
+}

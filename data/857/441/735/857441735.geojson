@@ -1,0 +1,75 @@
+{
+  "id": 857441735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.580324,34.175884,-90.580324,34.175884",
+    "geom:latitude":34.175884,
+    "geom:longitude":-90.580324,
+    "iso:country":"US",
+    "sg:address":"4619 Bramlett-Davenport Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7237",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "irrigation",
+        "installation",
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vXWEYgK2or6LIVNhjjhDA_34.175884_-90.580324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129600,
+    "wof:geomhash":"5ffcfc03cfddc29c2f4c7c41c02f2147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857441735
+        }
+    ],
+    "wof:id":857441735,
+    "wof:lastmodified":1464129600,
+    "wof:name":"Delta Irrigation",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "installation",
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -90.580324,
+    34.175884,
+    -90.580324,
+    34.175884
+],
+  "geometry": {"coordinates":[-90.580324,34.175884],"type":"Point"}
+}

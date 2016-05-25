@@ -1,0 +1,76 @@
+{
+  "id": 857383755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646673,34.490901,-88.646673,34.490901",
+    "geom:latitude":34.490901,
+    "geom:longitude":-88.646673,
+    "iso:country":"US",
+    "sg:address":"913 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 3020",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Da2rvbTGyVAxdkil3jym_34.490901_-88.646673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128235,
+    "wof:geomhash":"0ae085dccd1709149c6a06f3ccc23102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857383755
+        }
+    ],
+    "wof:id":857383755,
+    "wof:lastmodified":1464128235,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.646673,
+    34.490901,
+    -88.646673,
+    34.490901
+],
+  "geometry": {"coordinates":[-88.64667300000001,34.490901],"type":"Point"}
+}

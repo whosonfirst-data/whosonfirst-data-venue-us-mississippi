@@ -1,0 +1,75 @@
+{
+  "id": 857085395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542619,30.403166,-88.542619,30.403166",
+    "geom:latitude":30.403166,
+    "geom:longitude":-88.542619,
+    "iso:country":"US",
+    "sg:address":"4124 Bayou Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 9480",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "water",
+        "waste",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AdgaPMX5XrM6yG0NIlU1i_30.403166_-88.542619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121541,
+    "wof:geomhash":"2f2190e6ef1023939cb91a9151d1dd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857085395
+        }
+    ],
+    "wof:id":857085395,
+    "wof:lastmodified":1464121541,
+    "wof:name":"Mississippi Gulf Coast Rgl Wtr",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "waste",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -88.542619,
+    30.403166,
+    -88.542619,
+    30.403166
+],
+  "geometry": {"coordinates":[-88.542619,30.403166],"type":"Point"}
+}

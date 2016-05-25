@@ -1,0 +1,71 @@
+{
+  "id": 857359105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.69632,32.426078,-88.69632,32.426078",
+    "geom:latitude":32.426078,
+    "geom:longitude":-88.69632,
+    "iso:country":"US",
+    "sg:address":"6221 17th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 1400",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zhA4EklnpDIRsTnj7aHr7_32.426078_-88.696320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127680,
+    "wof:geomhash":"451b7a4f8b51c3a9c9f3f81e9c12b0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857359105
+        }
+    ],
+    "wof:id":857359105,
+    "wof:lastmodified":1464127680,
+    "wof:name":"Price Engineering Pllc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.69632,
+    32.426078,
+    -88.69632,
+    32.426078
+],
+  "geometry": {"coordinates":[-88.69632,32.426078],"type":"Point"}
+}

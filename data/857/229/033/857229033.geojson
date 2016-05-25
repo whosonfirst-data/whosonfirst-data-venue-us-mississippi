@@ -1,0 +1,73 @@
+{
+  "id": 857229033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.555502,34.364363,-89.555502,34.364363",
+    "geom:latitude":34.364363,
+    "geom:longitude":-89.555502,
+    "iso:country":"US",
+    "sg:address":"1802 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 9593",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JF9bnXm9eolBsRnsbzmv5_34.364363_-89.555502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124790,
+    "wof:geomhash":"f75eff8b560b5c073d35486e1982315a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857229033
+        }
+    ],
+    "wof:id":857229033,
+    "wof:lastmodified":1464124790,
+    "wof:name":"Allied Constructions Inc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.555502,
+    34.364363,
+    -89.555502,
+    34.364363
+],
+  "geometry": {"coordinates":[-89.555502,34.364363],"type":"Point"}
+}

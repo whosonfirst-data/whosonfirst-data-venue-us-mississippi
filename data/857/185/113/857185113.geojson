@@ -1,0 +1,71 @@
+{
+  "id": 857185113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746667,34.254109,-88.746667,34.254109",
+    "geom:latitude":34.254109,
+    "geom:longitude":-88.746667,
+    "iso:country":"US",
+    "sg:address":"2609 Traceland Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8477",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4ABCMOjRvi5crGoGzaSK_34.254109_-88.746667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123900,
+    "wof:geomhash":"cb47b7a0b1a19728640ae5b3becaf193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857185113
+        }
+    ],
+    "wof:id":857185113,
+    "wof:lastmodified":1464123900,
+    "wof:name":"Tupelo Methodist District Ofc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.746667,
+    34.254109,
+    -88.746667,
+    34.254109
+],
+  "geometry": {"coordinates":[-88.746667,34.254109],"type":"Point"}
+}

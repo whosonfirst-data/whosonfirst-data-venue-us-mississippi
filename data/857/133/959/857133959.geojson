@@ -1,0 +1,75 @@
+{
+  "id": 857133959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429078,33.523133,-88.429078,33.523133",
+    "geom:latitude":33.523133,
+    "geom:longitude":-88.429078,
+    "iso:country":"US",
+    "sg:address":"2459 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1012",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medicine",
+        "injury",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46R6dPmC3FBd8RizRdfwA1_33.523133_-88.429078@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122763,
+    "wof:geomhash":"3d6cace42a20c69d9dba83903705ab5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857133959
+        }
+    ],
+    "wof:id":857133959,
+    "wof:lastmodified":1464122763,
+    "wof:name":"Columbus Orthopaedic Clinic",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "injury",
+        "sport"
+    ]
+},
+  "bbox": [
+    -88.429078,
+    33.523133,
+    -88.429078,
+    33.523133
+],
+  "geometry": {"coordinates":[-88.429078,33.523133],"type":"Point"}
+}

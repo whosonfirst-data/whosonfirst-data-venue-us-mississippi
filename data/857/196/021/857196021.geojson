@@ -1,0 +1,75 @@
+{
+  "id": 857196021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.91201,34.853205,-89.91201,34.853205",
+    "geom:latitude":34.853205,
+    "geom:longitude":-89.91201,
+    "iso:country":"US",
+    "sg:address":"4251 Lauderdale Rd",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 429 8338",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23AgRyWhkWAthAFStIMb1o_34.853205_-89.912010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124100,
+    "wof:geomhash":"3eec76020c2709a3b97a57b6bfdf734b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857196021
+        }
+    ],
+    "wof:id":857196021,
+    "wof:lastmodified":1464124100,
+    "wof:name":"McKim Equipment Service",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "communication"
+    ]
+},
+  "bbox": [
+    -89.91201,
+    34.853205,
+    -89.91201,
+    34.853205
+],
+  "geometry": {"coordinates":[-89.91201,34.853205],"type":"Point"}
+}

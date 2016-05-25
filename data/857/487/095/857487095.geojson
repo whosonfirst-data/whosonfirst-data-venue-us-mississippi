@@ -1,0 +1,78 @@
+{
+  "id": 857487095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575434,34.204135,-90.575434,34.204135",
+    "geom:latitude":34.204135,
+    "geom:longitude":-90.575434,
+    "iso:country":"US",
+    "sg:address":"89 Delta Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5200",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zZm4xDdL7WeTSlFyWeJBk_34.204135_-90.575434@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130504,
+    "wof:geomhash":"13c2e6d42aa544b3083c0fbe9561538b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487095
+        }
+    ],
+    "wof:id":857487095,
+    "wof:lastmodified":1464130504,
+    "wof:name":"Gooden Realty",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.575434,
+    34.204135,
+    -90.575434,
+    34.204135
+],
+  "geometry": {"coordinates":[-90.575434,34.204135],"type":"Point"}
+}

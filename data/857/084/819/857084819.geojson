@@ -1,0 +1,71 @@
+{
+  "id": 857084819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.689702,32.352587,-88.689702,32.352587",
+    "geom:latitude":32.352587,
+    "geom:longitude":-88.689702,
+    "iso:country":"US",
+    "sg:address":"2101 S Frontage Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 4631",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56TzktdP2XQwFrKE5ytpaX_32.352587_-88.689702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121526,
+    "wof:geomhash":"034e6f07d51ec5b4cb9c448b408ad05d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857084819
+        }
+    ],
+    "wof:id":857084819,
+    "wof:lastmodified":1464121526,
+    "wof:name":"Astro Motel",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.689702,
+    32.352587,
+    -88.689702,
+    32.352587
+],
+  "geometry": {"coordinates":[-88.689702,32.352587],"type":"Point"}
+}

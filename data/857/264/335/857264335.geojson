@@ -1,0 +1,80 @@
+{
+  "id": 857264335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675817,34.257574,-88.675817,34.257574",
+    "geom:latitude":34.257574,
+    "geom:longitude":-88.675817,
+    "iso:country":"US",
+    "sg:address":"1445 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 1390",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "adoption",
+        "agency",
+        "networking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Km0ln8ZSKdWS9lvnO1kHL_34.257574_-88.675817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125581,
+    "wof:geomhash":"89dd15938109230f6f95ce7d8e789334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857264335
+        }
+    ],
+    "wof:id":857264335,
+    "wof:lastmodified":1464125581,
+    "wof:name":"Prime Logic Computer Service",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adoption",
+        "agency",
+        "networking"
+    ]
+},
+  "bbox": [
+    -88.675817,
+    34.257574,
+    -88.675817,
+    34.257574
+],
+  "geometry": {"coordinates":[-88.675817,34.257574],"type":"Point"}
+}

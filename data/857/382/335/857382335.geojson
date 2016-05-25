@@ -1,0 +1,73 @@
+{
+  "id": 857382335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.30391,31.314878,-89.30391,31.314878",
+    "geom:latitude":31.314878,
+    "geom:longitude":-89.30391,
+    "iso:country":"US",
+    "sg:address":"1214 W Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 9551",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78BIGfav6dL3szd0OC4eLm_31.314878_-89.303910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128193,
+    "wof:geomhash":"23538f099a65846127cffb59582ab554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857382335
+        }
+    ],
+    "wof:id":857382335,
+    "wof:lastmodified":1464128193,
+    "wof:name":"United Credit Corp",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.30391,
+    31.314878,
+    -89.30391,
+    31.314878
+],
+  "geometry": {"coordinates":[-89.30391,31.314878],"type":"Point"}
+}

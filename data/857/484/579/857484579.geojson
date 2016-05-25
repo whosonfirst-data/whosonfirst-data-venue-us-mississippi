@@ -1,0 +1,74 @@
+{
+  "id": 857484579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.893002,30.429615,-88.893002,30.429615",
+    "geom:latitude":30.429615,
+    "geom:longitude":-88.893002,
+    "iso:country":"US",
+    "sg:address":"10081 3rd Ave",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/diberville/141725-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 1174",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cWFNwG1TXLXN3ip6VIXOU_30.429615_-88.893002@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130455,
+    "wof:geomhash":"2f4ee108c4fd18452876e7a448b0831f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857484579
+        }
+    ],
+    "wof:id":857484579,
+    "wof:lastmodified":1464130455,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.893002,
+    30.429615,
+    -88.893002,
+    30.429615
+],
+  "geometry": {"coordinates":[-88.893002,30.429615],"type":"Point"}
+}

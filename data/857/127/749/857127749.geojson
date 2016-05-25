@@ -1,0 +1,71 @@
+{
+  "id": 857127749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.216788,30.357273,-89.216788,30.357273",
+    "geom:latitude":30.357273,
+    "geom:longitude":-89.216788,
+    "iso:country":"US",
+    "sg:address":"22338 Fire Station Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 3952",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LETBO0X4qkjaJRGiGGcnF_30.357273_-89.216788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122622,
+    "wof:geomhash":"5bf66b9a6b9d9fd2e41d0e984a5215c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857127749
+        }
+    ],
+    "wof:id":857127749,
+    "wof:lastmodified":1464122622,
+    "wof:name":"Cuevas Volunteer Fire Dept",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.216788,
+    30.357273,
+    -89.216788,
+    30.357273
+],
+  "geometry": {"coordinates":[-89.21678799999999,30.357273],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857076351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285802,31.331879,-89.285802,31.331879",
+    "geom:latitude":31.331879,
+    "geom:longitude":-89.285802,
+    "iso:country":"US",
+    "sg:address":"715 E 2nd St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8844",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xPcx0EskO5z2guMwZvTjI_31.331879_-89.285802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121317,
+    "wof:geomhash":"6e5dd114488725f792335edf3a3330f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857076351
+        }
+    ],
+    "wof:id":857076351,
+    "wof:lastmodified":1464121317,
+    "wof:name":"A & B Electric Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.285802,
+    31.331879,
+    -89.285802,
+    31.331879
+],
+  "geometry": {"coordinates":[-89.285802,31.331879],"type":"Point"}
+}

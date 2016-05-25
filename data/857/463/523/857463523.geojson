@@ -1,0 +1,71 @@
+{
+  "id": 857463523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.223036,31.347296,-89.223036,31.347296",
+    "geom:latitude":31.347296,
+    "geom:longitude":-89.223036,
+    "iso:country":"US",
+    "sg:address":"17 Beech Ln",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 434 6055",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RU8m63eA2s6BXi4gQtnBR_31.347296_-89.223036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130017,
+    "wof:geomhash":"1fa6fd998132a3336767211cacffa7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857463523
+        }
+    ],
+    "wof:id":857463523,
+    "wof:lastmodified":1464130017,
+    "wof:name":"Tyke Anderson Wrecker & Towing",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.223036,
+    31.347296,
+    -89.223036,
+    31.347296
+],
+  "geometry": {"coordinates":[-89.22303599999999,31.347296],"type":"Point"}
+}

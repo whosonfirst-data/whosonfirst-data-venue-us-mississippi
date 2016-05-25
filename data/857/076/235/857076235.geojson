@@ -1,0 +1,73 @@
+{
+  "id": 857076235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.3705,33.445579,-88.3705,33.445579",
+    "geom:latitude":33.445579,
+    "geom:longitude":-88.3705,
+    "iso:country":"US",
+    "sg:address":"325 First Colony Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4060",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KlgArEQ0bR8qj39DBL5Ih_33.445579_-88.370500@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121313,
+    "wof:geomhash":"7b196b56f7856c3211b83e186e0afc16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857076235
+        }
+    ],
+    "wof:id":857076235,
+    "wof:lastmodified":1464121313,
+    "wof:name":"Magnolia Mini Storage",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.3705,
+    33.445579,
+    -88.3705,
+    33.445579
+],
+  "geometry": {"coordinates":[-88.37050000000001,33.445579],"type":"Point"}
+}

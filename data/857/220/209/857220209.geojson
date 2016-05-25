@@ -1,0 +1,73 @@
+{
+  "id": 857220209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772601,34.249622,-88.772601,34.249622",
+    "geom:latitude":34.249622,
+    "geom:longitude":-88.772601,
+    "iso:country":"US",
+    "sg:address":"3098 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 9991",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eyuKQCwn93Y3P6uSsTKWe_34.249622_-88.772601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124617,
+    "wof:geomhash":"02a170517c94871311c1db156694b8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857220209
+        }
+    ],
+    "wof:id":857220209,
+    "wof:lastmodified":1464124617,
+    "wof:name":"US Agricultural Dept",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -88.772601,
+    34.249622,
+    -88.772601,
+    34.249622
+],
+  "geometry": {"coordinates":[-88.77260099999999,34.249622],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857210763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.286257,31.320636,-89.286257,31.320636",
+    "geom:latitude":31.320636,
+    "geom:longitude":-89.286257,
+    "iso:country":"US",
+    "sg:address":"412 Bay St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 5124",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nl4zxcvdYiOwmHtHgesI2_31.320636_-89.286257@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124409,
+    "wof:geomhash":"f69a463ba89e875365682777faffbff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857210763
+        }
+    ],
+    "wof:id":857210763,
+    "wof:lastmodified":1464124409,
+    "wof:name":"Newell C Sullivan Construction",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.286257,
+    31.320636,
+    -89.286257,
+    31.320636
+],
+  "geometry": {"coordinates":[-89.28625700000001,31.320636],"type":"Point"}
+}

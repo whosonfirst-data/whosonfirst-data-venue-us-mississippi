@@ -1,0 +1,73 @@
+{
+  "id": 857340103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.185593,32.323475,-90.185593,32.323475",
+    "geom:latitude":32.323475,
+    "geom:longitude":-90.185593,
+    "iso:country":"US",
+    "sg:address":"125 Keener Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 948 1472",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jJsBKJ2rFZAadbVYPrzKv_32.323475_-90.185593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127280,
+    "wof:geomhash":"1c15a3abb9e5879d42b8d958301bac41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857340103
+        }
+    ],
+    "wof:id":857340103,
+    "wof:lastmodified":1464127280,
+    "wof:name":"Southern Renovations",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.185593,
+    32.323475,
+    -90.185593,
+    32.323475
+],
+  "geometry": {"coordinates":[-90.185593,32.323475],"type":"Point"}
+}

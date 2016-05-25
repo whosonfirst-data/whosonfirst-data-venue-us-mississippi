@@ -1,0 +1,73 @@
+{
+  "id": 857369369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571019,34.233511,-90.571019,34.233511",
+    "geom:latitude":34.233511,
+    "geom:longitude":-90.571019,
+    "iso:country":"US",
+    "sg:address":"500 Westover Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7080",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IOfoxzvyYcukC72JO79KY_34.233511_-90.571019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127888,
+    "wof:geomhash":"f0216517e19f174012e12091b1d31dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857369369
+        }
+    ],
+    "wof:id":857369369,
+    "wof:lastmodified":1464127888,
+    "wof:name":"Lock Doctor",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.571019,
+    34.233511,
+    -90.571019,
+    34.233511
+],
+  "geometry": {"coordinates":[-90.57101900000001,34.233511],"type":"Point"}
+}

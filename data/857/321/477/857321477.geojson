@@ -1,0 +1,72 @@
+{
+  "id": 857321477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.173714,30.3616,-89.173714,30.3616",
+    "geom:latitude":30.3616,
+    "geom:longitude":-89.173714,
+    "iso:country":"US",
+    "sg:address":"20005 Pineville Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 3386",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.animalgeneralhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZOfpGlYVBbgAUaHilBzuZ_30.361600_-89.173714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126879,
+    "wof:geomhash":"d64b01750e07bac904a9fa4042bf1357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857321477
+        }
+    ],
+    "wof:id":857321477,
+    "wof:lastmodified":1464126879,
+    "wof:name":"Animal General Hospital",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.173714,
+    30.3616,
+    -89.173714,
+    30.3616
+],
+  "geometry": {"coordinates":[-89.173714,30.3616],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857342057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.156392,30.356208,-89.156392,30.356208",
+    "geom:latitude":30.356208,
+    "geom:longitude":-89.156392,
+    "iso:country":"US",
+    "sg:address":"19010 Pineville Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 1230",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse",
+        "tobacco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwaKkc3KWQ7wqsX2rj7NC_30.356208_-89.156392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127316,
+    "wof:geomhash":"789ca88a7695bbb9504bf22539956d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857342057
+        }
+    ],
+    "wof:id":857342057,
+    "wof:lastmodified":1464127316,
+    "wof:name":"Tobacco Shack",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "tobacco"
+    ]
+},
+  "bbox": [
+    -89.156392,
+    30.356208,
+    -89.156392,
+    30.356208
+],
+  "geometry": {"coordinates":[-89.156392,30.356208],"type":"Point"}
+}

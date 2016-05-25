@@ -1,0 +1,71 @@
+{
+  "id": 857311805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.814252,34.177922,-88.814252,34.177922",
+    "geom:latitude":34.177922,
+    "geom:longitude":-88.814252,
+    "iso:country":"US",
+    "sg:address":"126 Rd 51",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 1495",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vF7J5jdijjNNgQxcOA1Os_34.177922_-88.814252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126657,
+    "wof:geomhash":"2495e8fa4a0a8fed6ca2ff17026d9aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857311805
+        }
+    ],
+    "wof:id":857311805,
+    "wof:lastmodified":1464126657,
+    "wof:name":"Evans Grocery",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.814252,
+    34.177922,
+    -88.814252,
+    34.177922
+],
+  "geometry": {"coordinates":[-88.814252,34.177922],"type":"Point"}
+}

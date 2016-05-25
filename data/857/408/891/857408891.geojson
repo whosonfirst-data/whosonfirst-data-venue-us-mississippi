@@ -1,0 +1,79 @@
+{
+  "id": 857408891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.359119,31.271328,-89.359119,31.271328",
+    "geom:latitude":31.271328,
+    "geom:longitude":-89.359119,
+    "iso:country":"US",
+    "sg:address":"693 Richburg Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 1352",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85820027,
+        102083775,
+        85969939,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GLVjWUh2NFWF6cb1NOOzD_31.271328_-89.359119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128810,
+    "wof:geomhash":"3c73a58c79f4aa6a2900ab58bd6fd54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85820027,
+            "region_id":85688579,
+            "venue_id":857408891
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857408891
+        }
+    ],
+    "wof:id":857408891,
+    "wof:lastmodified":1464128810,
+    "wof:name":"Richards Construction Dav",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.359119,
+    31.271328,
+    -89.359119,
+    31.271328
+],
+  "geometry": {"coordinates":[-89.35911900000001,31.271328],"type":"Point"}
+}

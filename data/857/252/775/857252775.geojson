@@ -1,0 +1,73 @@
+{
+  "id": 857252775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.36744,33.565704,-88.36744,33.565704",
+    "geom:latitude":33.565704,
+    "geom:longitude":-88.36744,
+    "iso:country":"US",
+    "sg:address":"83 Atkins Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0184",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cFSYb8jBmCMotzdtziXIY_33.565704_-88.367440@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125315,
+    "wof:geomhash":"b0ce880ee22769d4b5685a16d0054216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857252775
+        }
+    ],
+    "wof:id":857252775,
+    "wof:lastmodified":1464125315,
+    "wof:name":"Beavers Electric",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.36744,
+    33.565704,
+    -88.36744,
+    33.565704
+],
+  "geometry": {"coordinates":[-88.36744,33.565704],"type":"Point"}
+}

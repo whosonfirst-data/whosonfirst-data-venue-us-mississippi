@@ -1,0 +1,73 @@
+{
+  "id": 857205337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518632,34.36645,-89.518632,34.36645",
+    "geom:latitude":34.36645,
+    "geom:longitude":-89.518632,
+    "iso:country":"US",
+    "sg:address":"145 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8217",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ready",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8JT5BKmfn7qKt4l0mmlr_34.366450_-89.518632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124300,
+    "wof:geomhash":"8cb6900709db8492d8265c1f143c2621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857205337
+        }
+    ],
+    "wof:id":857205337,
+    "wof:lastmodified":1464124300,
+    "wof:name":"Village Tailor",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -89.518632,
+    34.36645,
+    -89.518632,
+    34.36645
+],
+  "geometry": {"coordinates":[-89.518632,34.36645],"type":"Point"}
+}

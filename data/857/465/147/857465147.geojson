@@ -1,0 +1,88 @@
+{
+  "id": 857465147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.440037,31.125103,-89.440037,31.125103",
+    "geom:latitude":31.125103,
+    "geom:longitude":-89.440037,
+    "iso:country":"US",
+    "sg:address":"35 Yellow Bird Rd",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 8579",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "specializing",
+        "livestock",
+        "pet",
+        "caged",
+        "breeder",
+        "animal",
+        "small",
+        "bird"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lBh0sLRx99xufDkEFKgje_31.125103_-89.440037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130070,
+    "wof:geomhash":"ef69ff87188fd9645ea8b59ccda169a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857465147
+        }
+    ],
+    "wof:id":857465147,
+    "wof:lastmodified":1464130070,
+    "wof:name":"Ybf Pet Distribution",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "livestock",
+        "pet",
+        "caged",
+        "breeder",
+        "animal",
+        "small",
+        "bird"
+    ]
+},
+  "bbox": [
+    -89.440037,
+    31.125103,
+    -89.440037,
+    31.125103
+],
+  "geometry": {"coordinates":[-89.440037,31.125103],"type":"Point"}
+}

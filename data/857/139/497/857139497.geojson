@@ -1,0 +1,71 @@
+{
+  "id": 857139497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.739432,34.301854,-88.739432,34.301854",
+    "geom:latitude":34.301854,
+    "geom:longitude":-88.739432,
+    "iso:country":"US",
+    "sg:address":"2557 Mount Vernon Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6040",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02hSTaxLzJa8kXy5XbSVtg_34.301854_-88.739432@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122877,
+    "wof:geomhash":"42ff3711edad133d84d611e4ff80d05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857139497
+        }
+    ],
+    "wof:id":857139497,
+    "wof:lastmodified":1464122877,
+    "wof:name":"Charles Friedman MD",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.739432,
+    34.301854,
+    -88.739432,
+    34.301854
+],
+  "geometry": {"coordinates":[-88.73943199999999,34.301854],"type":"Point"}
+}

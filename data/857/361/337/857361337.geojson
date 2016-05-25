@@ -1,0 +1,73 @@
+{
+  "id": 857361337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701664,34.259244,-88.701664,34.259244",
+    "geom:latitude":34.259244,
+    "geom:longitude":-88.701664,
+    "iso:country":"US",
+    "sg:address":"510 Commerce St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 9739",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969769,
+        102083171,
+        85840757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HM7ahwLKDbz20fWkGZod2_34.259244_-88.701664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127728,
+    "wof:geomhash":"249e3824175a8363f4b5d8cf6a254970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85840757,
+            "region_id":85688579,
+            "venue_id":857361337
+        }
+    ],
+    "wof:id":857361337,
+    "wof:lastmodified":1464127728,
+    "wof:name":"Tupelo Police Booking",
+    "wof:parent_id":85840757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.701664,
+    34.259244,
+    -88.701664,
+    34.259244
+],
+  "geometry": {"coordinates":[-88.70166399999999,34.259244],"type":"Point"}
+}

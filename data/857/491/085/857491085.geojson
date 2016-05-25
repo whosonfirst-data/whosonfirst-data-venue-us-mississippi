@@ -1,0 +1,76 @@
+{
+  "id": 857491085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.712298,32.378051,-88.712298,32.378051",
+    "geom:latitude":32.378051,
+    "geom:longitude":-88.712298,
+    "iso:country":"US",
+    "sg:address":"3408 20th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 4141",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H6t558MgXWjdw5KLQpxrg_32.378051_-88.712298@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130621,
+    "wof:geomhash":"7ed5089be0ecf438747cf4542fc8f696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491085
+        }
+    ],
+    "wof:id":857491085,
+    "wof:lastmodified":1464130621,
+    "wof:name":"Paradise Food Mart 2",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -88.712298,
+    32.378051,
+    -88.712298,
+    32.378051
+],
+  "geometry": {"coordinates":[-88.712298,32.378051],"type":"Point"}
+}

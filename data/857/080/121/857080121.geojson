@@ -1,0 +1,71 @@
+{
+  "id": 857080121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.592333,34.207749,-90.592333,34.207749",
+    "geom:latitude":34.207749,
+    "geom:longitude":-90.592333,
+    "iso:country":"US",
+    "sg:address":"701 Oakhurst Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3344",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qs6j6vktHp1arflmDrEo9_34.207749_-90.592333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121407,
+    "wof:geomhash":"d3689b067b2fcd38d6df9f11372e5cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857080121
+        }
+    ],
+    "wof:id":857080121,
+    "wof:lastmodified":1464121407,
+    "wof:name":"Oakland Cemeteries",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -90.592333,
+    34.207749,
+    -90.592333,
+    34.207749
+],
+  "geometry": {"coordinates":[-90.592333,34.207749],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857260797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.40095,33.554739,-88.40095,33.554739",
+    "geom:latitude":33.554739,
+    "geom:longitude":-88.40095,
+    "iso:country":"US",
+    "sg:address":"436 Bunkerhill Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 0296",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wHqAJr1OKpcOIOvCq5GGi_33.554739_-88.400950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125505,
+    "wof:geomhash":"e000f76cab9bc9c2f46af141bcb481eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857260797
+        }
+    ],
+    "wof:id":857260797,
+    "wof:lastmodified":1464125505,
+    "wof:name":"Three Star Muffler and Brake",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -88.40095,
+    33.554739,
+    -88.40095,
+    33.554739
+],
+  "geometry": {"coordinates":[-88.40094999999999,33.554739],"type":"Point"}
+}

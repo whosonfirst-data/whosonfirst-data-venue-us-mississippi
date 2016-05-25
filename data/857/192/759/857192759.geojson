@@ -1,0 +1,75 @@
+{
+  "id": 857192759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.728346,34.184074,-88.728346,34.184074",
+    "geom:latitude":34.184074,
+    "geom:longitude":-88.728346,
+    "iso:country":"US",
+    "sg:address":"106 Mattox Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5883",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KzMqxRpzAt72i37tfc46y_34.184074_-88.728346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124037,
+    "wof:geomhash":"6214d2308dc3e7b1c49566dbfe555298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857192759
+        }
+    ],
+    "wof:id":857192759,
+    "wof:lastmodified":1464124037,
+    "wof:name":"Shippers Express Inc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.728346,
+    34.184074,
+    -88.728346,
+    34.184074
+],
+  "geometry": {"coordinates":[-88.728346,34.184074],"type":"Point"}
+}

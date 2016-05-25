@@ -1,0 +1,78 @@
+{
+  "id": 857487297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.643284,34.1327,-90.643284,34.1327",
+    "geom:latitude":34.1327,
+    "geom:longitude":-90.643284,
+    "iso:country":"US",
+    "sg:address":"3580 Bobo New Africa Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3754",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HLr7By15PkdB0S7TMNfrf_34.132700_-90.643284@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130512,
+    "wof:geomhash":"91c7f750b5173ac832c162489c79f1d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487297
+        }
+    ],
+    "wof:id":857487297,
+    "wof:lastmodified":1464130512,
+    "wof:name":"Gables Farms",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -90.643284,
+    34.1327,
+    -90.643284,
+    34.1327
+],
+  "geometry": {"coordinates":[-90.64328399999999,34.1327],"type":"Point"}
+}

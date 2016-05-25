@@ -1,0 +1,86 @@
+{
+  "id": 857151013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.33895,33.524049,-88.33895,33.524049",
+    "geom:latitude":33.524049,
+    "geom:longitude":-88.33895,
+    "iso:country":"US",
+    "sg:address":"4365 Hwy 50 E",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3717",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mfg",
+        "contractor",
+        "architectural",
+        "awning",
+        "canopy",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nPVRjdaMXZQBiOyN7c2uO_33.524049_-88.338950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123169,
+    "wof:geomhash":"50d41e4e76f6e2e817170898ce59a284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857151013
+        }
+    ],
+    "wof:id":857151013,
+    "wof:lastmodified":1464123169,
+    "wof:name":"Columbus Awning & Ornamental",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "contractor",
+        "architectural",
+        "awning",
+        "canopy",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -88.33895,
+    33.524049,
+    -88.33895,
+    33.524049
+],
+  "geometry": {"coordinates":[-88.33895,33.524049],"type":"Point"}
+}

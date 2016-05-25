@@ -1,0 +1,67 @@
+{
+  "id": 857292803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807313,30.413556,-88.807313,30.413556",
+    "geom:latitude":30.413556,
+    "geom:longitude":-88.807313,
+    "iso:country":"US",
+    "sg:address":"2320 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0333",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:website":"www.bluegreypride.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H8qy4PQLwajigyqY4AEQc_30.413556_-88.807313@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126217,
+    "wof:geomhash":"0286092f0caa68e4f79cc6d468f1bc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857292803
+        }
+    ],
+    "wof:id":857292803,
+    "wof:lastmodified":1464126217,
+    "wof:name":"Ocean Springs High School",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.807313,
+    30.413556,
+    -88.807313,
+    30.413556
+],
+  "geometry": {"coordinates":[-88.80731299999999,30.413556],"type":"Point"}
+}

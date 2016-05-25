@@ -1,0 +1,73 @@
+{
+  "id": 857343791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.349664,33.645863,-88.349664,33.645863",
+    "geom:latitude":33.645863,
+    "geom:longitude":-88.349664,
+    "iso:country":"US",
+    "sg:address":"96 Williams Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6596",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zl3JD3KgL6IlpiBzgIOkg_33.645863_-88.349664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127349,
+    "wof:geomhash":"160f100ac7136c453115fb01c93cb1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857343791
+        }
+    ],
+    "wof:id":857343791,
+    "wof:lastmodified":1464127349,
+    "wof:name":"Floyd Concrete",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.349664,
+    33.645863,
+    -88.349664,
+    33.645863
+],
+  "geometry": {"coordinates":[-88.349664,33.645863],"type":"Point"}
+}

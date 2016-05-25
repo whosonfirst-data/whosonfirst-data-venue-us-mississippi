@@ -1,0 +1,71 @@
+{
+  "id": 857126213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543906,33.825205,-88.543906,33.825205",
+    "geom:latitude":33.825205,
+    "geom:longitude":-88.543906,
+    "iso:country":"US",
+    "sg:address":"115 S Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 9411",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXb6AijNcnwc9iDLp1zD3_33.825205_-88.543906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122592,
+    "wof:geomhash":"9e8e6208a4e3b57f6d8cd51988fa9464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857126213
+        }
+    ],
+    "wof:id":857126213,
+    "wof:lastmodified":1464122592,
+    "wof:name":"Hair Visions By Lisa",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.543906,
+    33.825205,
+    -88.543906,
+    33.825205
+],
+  "geometry": {"coordinates":[-88.54390600000001,33.825205],"type":"Point"}
+}

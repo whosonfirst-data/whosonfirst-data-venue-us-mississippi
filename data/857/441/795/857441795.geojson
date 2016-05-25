@@ -1,0 +1,73 @@
+{
+  "id": 857441795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683337,34.376706,-88.683337,34.376706",
+    "geom:latitude":34.376706,
+    "geom:longitude":-88.683337,
+    "iso:country":"US",
+    "sg:address":"363 Mobile St",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 1727",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXPgSq5FVR5ok20z745Ik_34.376706_-88.683337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129601,
+    "wof:geomhash":"17da525bf3b5322e863960b00ce003f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857441795
+        }
+    ],
+    "wof:id":857441795,
+    "wof:lastmodified":1464129601,
+    "wof:name":"Saltillo Service Ctr Inc",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.683337,
+    34.376706,
+    -88.683337,
+    34.376706
+],
+  "geometry": {"coordinates":[-88.68333699999999,34.376706],"type":"Point"}
+}

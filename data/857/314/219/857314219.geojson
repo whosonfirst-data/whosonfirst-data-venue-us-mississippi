@@ -1,0 +1,69 @@
+{
+  "id": 857314219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.408569,31.33918,-89.408569,31.33918",
+    "geom:latitude":31.33918,
+    "geom:longitude":-89.408569,
+    "iso:country":"US",
+    "sg:address":"5502 W 4th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 0510",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cwvv1XokfbNzToTPOgbqw_31.339180_-89.408569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126708,
+    "wof:geomhash":"7dd6cad64b65f7cb3804c4e40906b1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857314219
+        }
+    ],
+    "wof:id":857314219,
+    "wof:lastmodified":1464126708,
+    "wof:name":"Ne Lamar Volunteer Fire Dept",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.408569,
+    31.33918,
+    -89.408569,
+    31.33918
+],
+  "geometry": {"coordinates":[-89.408569,31.33918],"type":"Point"}
+}

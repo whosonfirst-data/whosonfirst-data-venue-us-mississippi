@@ -1,0 +1,66 @@
+{
+  "id": 857346223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133408,32.153629,-90.133408,32.153629",
+    "geom:latitude":32.153629,
+    "geom:longitude":-90.133408,
+    "iso:country":"US",
+    "sg:address":"115 W Main St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 6032",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s32WGlArF3kyaMwE8Ymgl_32.153629_-90.133408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127400,
+    "wof:geomhash":"75999525d2fe20be24256396c1c269f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857346223
+        }
+    ],
+    "wof:id":857346223,
+    "wof:lastmodified":1464127400,
+    "wof:name":"Florence Public Library",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.133408,
+    32.153629,
+    -90.133408,
+    32.153629
+],
+  "geometry": {"coordinates":[-90.133408,32.153629],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857398709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.790651,34.989311,-89.790651,34.989311",
+    "geom:latitude":34.989311,
+    "geom:longitude":-89.790651,
+    "iso:country":"US",
+    "sg:address":"8890 Deerfield Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 3547",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kIK2QzdXQPu987zeJEK0I_34.989311_-89.790651@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128600,
+    "wof:geomhash":"cffc7bde13d6be044738fa5334939a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857398709
+        }
+    ],
+    "wof:id":857398709,
+    "wof:lastmodified":1464128600,
+    "wof:name":"USA Gymnastics & Cheer Ctr",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -89.790651,
+    34.989311,
+    -89.790651,
+    34.989311
+],
+  "geometry": {"coordinates":[-89.790651,34.989311],"type":"Point"}
+}

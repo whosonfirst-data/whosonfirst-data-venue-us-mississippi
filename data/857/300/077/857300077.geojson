@@ -1,0 +1,72 @@
+{
+  "id": 857300077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.530064,34.36495,-89.530064,34.36495",
+    "geom:latitude":34.36495,
+    "geom:longitude":-89.530064,
+    "iso:country":"US",
+    "sg:address":"403 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6073",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stjohnoxford.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVgkhxfHXAXIZv7M5KXnk_34.364950_-89.530064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126415,
+    "wof:geomhash":"b4ffe51d1868c067439dfd8edb7d58e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857300077
+        }
+    ],
+    "wof:id":857300077,
+    "wof:lastmodified":1464126415,
+    "wof:name":"St John's Catholic Church",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.530064,
+    34.36495,
+    -89.530064,
+    34.36495
+],
+  "geometry": {"coordinates":[-89.530064,34.36495],"type":"Point"}
+}

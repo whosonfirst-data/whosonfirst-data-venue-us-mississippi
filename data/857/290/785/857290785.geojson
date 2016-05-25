@@ -1,0 +1,73 @@
+{
+  "id": 857290785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845201,33.445071,-88.845201,33.445071",
+    "geom:latitude":33.445071,
+    "geom:longitude":-88.845201,
+    "iso:country":"US",
+    "sg:address":"114 Airport Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 325 8500",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bz1mqJuD2xRqgEMmmQMnm_33.445071_-88.845201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126163,
+    "wof:geomhash":"3a5dc18d1a3932bd67bc9de86093ba18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857290785
+        }
+    ],
+    "wof:id":857290785,
+    "wof:lastmodified":1464126163,
+    "wof:name":"Mississippi State University",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.845201,
+    33.445071,
+    -88.845201,
+    33.445071
+],
+  "geometry": {"coordinates":[-88.845201,33.445071],"type":"Point"}
+}

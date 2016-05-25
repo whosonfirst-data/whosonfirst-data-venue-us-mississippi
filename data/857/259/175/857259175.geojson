@@ -1,0 +1,71 @@
+{
+  "id": 857259175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700442,32.365978,-88.700442,32.365978",
+    "geom:latitude":32.365978,
+    "geom:longitude":-88.700442,
+    "iso:country":"US",
+    "sg:address":"2100 9th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 2883",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59UxrzOFCjdO37pt2mEth4_32.365978_-88.700442@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125475,
+    "wof:geomhash":"3c3bc7e005738d41230a07af003f9088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857259175
+        }
+    ],
+    "wof:id":857259175,
+    "wof:lastmodified":1464125475,
+    "wof:name":"US District Court Clerk",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -88.700442,
+    32.365978,
+    -88.700442,
+    32.365978
+],
+  "geometry": {"coordinates":[-88.700442,32.365978],"type":"Point"}
+}

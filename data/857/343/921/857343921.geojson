@@ -1,0 +1,73 @@
+{
+  "id": 857343921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648253,33.605702,-88.648253,33.605702",
+    "geom:latitude":33.605702,
+    "geom:longitude":-88.648253,
+    "iso:country":"US",
+    "sg:address":"219 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4862",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E0JOqJt4VyDvoLe4oZyZA_33.605702_-88.648253@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127351,
+    "wof:geomhash":"6161367c12b7feacd92ab25ed5d6cedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857343921
+        }
+    ],
+    "wof:id":857343921,
+    "wof:lastmodified":1464127351,
+    "wof:name":"Community Action Agency",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.648253,
+    33.605702,
+    -88.648253,
+    33.605702
+],
+  "geometry": {"coordinates":[-88.648253,33.605702],"type":"Point"}
+}

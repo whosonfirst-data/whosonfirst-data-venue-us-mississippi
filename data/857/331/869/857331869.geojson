@@ -1,0 +1,73 @@
+{
+  "id": 857331869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.688612,32.371872,-88.688612,32.371872",
+    "geom:latitude":32.371872,
+    "geom:longitude":-88.688612,
+    "iso:country":"US",
+    "sg:address":"1406 10th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 4691",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TPTczjt0Mr1Tc3kQu9cIE_32.371872_-88.688612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127098,
+    "wof:geomhash":"3cb15915e39e196a4f34268ab4ae8b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857331869
+        }
+    ],
+    "wof:id":857331869,
+    "wof:lastmodified":1464127098,
+    "wof:name":"Heritage Building Corp",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.688612,
+    32.371872,
+    -88.688612,
+    32.371872
+],
+  "geometry": {"coordinates":[-88.68861200000001,32.371872],"type":"Point"}
+}

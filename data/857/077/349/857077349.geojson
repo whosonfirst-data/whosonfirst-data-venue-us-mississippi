@@ -1,0 +1,73 @@
+{
+  "id": 857077349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.593356,34.197406,-90.593356,34.197406",
+    "geom:latitude":34.197406,
+    "geom:longitude":-90.593356,
+    "iso:country":"US",
+    "sg:address":"801 Spruce St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5271",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ldjrkqAn87yqleGRXo5QE_34.197406_-90.593356@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121340,
+    "wof:geomhash":"c4b4dd5f93817021408b21847a1e69da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857077349
+        }
+    ],
+    "wof:id":857077349,
+    "wof:lastmodified":1464121340,
+    "wof:name":"United Electric",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.593356,
+    34.197406,
+    -90.593356,
+    34.197406
+],
+  "geometry": {"coordinates":[-90.593356,34.197406],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857194723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.526463,30.378681,-88.526463,30.378681",
+    "geom:latitude":30.378681,
+    "geom:longitude":-88.526463,
+    "iso:country":"US",
+    "sg:address":"4919 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9414",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52lUGSvnG8Y8ibMYLYp6GO_30.378681_-88.526463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124075,
+    "wof:geomhash":"38538f2ac26260afc2031bff20babdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857194723
+        }
+    ],
+    "wof:id":857194723,
+    "wof:lastmodified":1464124075,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.526463,
+    30.378681,
+    -88.526463,
+    30.378681
+],
+  "geometry": {"coordinates":[-88.52646300000001,30.378681],"type":"Point"}
+}

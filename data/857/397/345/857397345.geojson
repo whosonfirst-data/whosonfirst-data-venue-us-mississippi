@@ -1,0 +1,73 @@
+{
+  "id": 857397345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509303,34.362569,-89.509303,34.362569",
+    "geom:latitude":34.362569,
+    "geom:longitude":-89.509303,
+    "iso:country":"US",
+    "sg:address":"1911 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1771",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6un4AGDgfuJl2DLm4yOdv0_34.362569_-89.509303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128575,
+    "wof:geomhash":"71b5e52a9454f390ba755b4504045d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857397345
+        }
+    ],
+    "wof:id":857397345,
+    "wof:lastmodified":1464128575,
+    "wof:name":"Old Town Coffee & Gen Store",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -89.509303,
+    34.362569,
+    -89.509303,
+    34.362569
+],
+  "geometry": {"coordinates":[-89.509303,34.362569],"type":"Point"}
+}

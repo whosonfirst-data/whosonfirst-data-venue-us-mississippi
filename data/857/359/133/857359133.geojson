@@ -1,0 +1,75 @@
+{
+  "id": 857359133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569926,34.203292,-90.569926,34.203292",
+    "geom:latitude":34.203292,
+    "geom:longitude":-90.569926,
+    "iso:country":"US",
+    "sg:address":"227 Leflore Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2389",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VqRuy6ZHUy5OznNiYwPWh_34.203292_-90.569926@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127680,
+    "wof:geomhash":"be302ffe4f4678373bc94583cf6199b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857359133
+        }
+    ],
+    "wof:id":857359133,
+    "wof:lastmodified":1464127680,
+    "wof:name":"Kim's Processing Plant",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ]
+},
+  "bbox": [
+    -90.569926,
+    34.203292,
+    -90.569926,
+    34.203292
+],
+  "geometry": {"coordinates":[-90.569926,34.203292],"type":"Point"}
+}

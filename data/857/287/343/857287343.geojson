@@ -1,0 +1,71 @@
+{
+  "id": 857287343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.72181,30.396786,-88.72181,30.396786",
+    "geom:latitude":30.396786,
+    "geom:longitude":-88.72181,
+    "iso:country":"US",
+    "sg:address":"3917 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 0437",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05izQJWQjmRlgRG6tyyY7d_30.396786_-88.721810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126071,
+    "wof:geomhash":"98c24544cc570983618d6f99765759f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857287343
+        }
+    ],
+    "wof:id":857287343,
+    "wof:lastmodified":1464126071,
+    "wof:name":"Taylor Transportation",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.72181,
+    30.396786,
+    -88.72181,
+    30.396786
+],
+  "geometry": {"coordinates":[-88.72181,30.396786],"type":"Point"}
+}

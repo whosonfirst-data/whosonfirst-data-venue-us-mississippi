@@ -1,0 +1,73 @@
+{
+  "id": 857301827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.81297,34.978068,-89.81297,34.978068",
+    "geom:latitude":34.978068,
+    "geom:longitude":-89.81297,
+    "iso:country":"US",
+    "sg:address":"8145 Alexander Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 7881",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zWuokSyZArds7vspBbnR1_34.978068_-89.812970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126453,
+    "wof:geomhash":"7e5e8afc40bda6d12201bb2aad13ff85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857301827
+        }
+    ],
+    "wof:id":857301827,
+    "wof:lastmodified":1464126453,
+    "wof:name":"Quality Products Inc",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -89.81297,
+    34.978068,
+    -89.81297,
+    34.978068
+],
+  "geometry": {"coordinates":[-89.81297000000001,34.978068],"type":"Point"}
+}

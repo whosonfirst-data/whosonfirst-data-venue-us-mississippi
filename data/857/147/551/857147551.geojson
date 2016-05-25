@@ -1,0 +1,71 @@
+{
+  "id": 857147551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.261115,32.756528,-90.261115,32.756528",
+    "geom:latitude":32.756528,
+    "geom:longitude":-90.261115,
+    "iso:country":"US",
+    "sg:address":"11371 Hwy 433 S",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 673 9235",
+    "sg:postcode":"39039",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CzWtcimS2zmLzEvUQQCO6_32.756528_-90.261115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123090,
+    "wof:geomhash":"00a4bb88da1bf6eca70ddd6e8ebd8b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857147551
+        }
+    ],
+    "wof:id":857147551,
+    "wof:lastmodified":1464123090,
+    "wof:name":"Central Yazoo Water Assn",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.261115,
+    32.756528,
+    -90.261115,
+    32.756528
+],
+  "geometry": {"coordinates":[-90.261115,32.756528],"type":"Point"}
+}

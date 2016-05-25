@@ -1,0 +1,73 @@
+{
+  "id": 857343325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302673,31.367666,-89.302673,31.367666",
+    "geom:latitude":31.367666,
+    "geom:longitude":-89.302673,
+    "iso:country":"US",
+    "sg:address":"85 Scenic Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 3453",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PEEEMfkfOekCFpnN0jbLR_31.367666_-89.302673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127340,
+    "wof:geomhash":"840a4692600c4ef8bd1123838478b719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857343325
+        }
+    ],
+    "wof:id":857343325,
+    "wof:lastmodified":1464127340,
+    "wof:name":"Dillon Plumbing & Heating Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.302673,
+    31.367666,
+    -89.302673,
+    31.367666
+],
+  "geometry": {"coordinates":[-89.302673,31.367666],"type":"Point"}
+}

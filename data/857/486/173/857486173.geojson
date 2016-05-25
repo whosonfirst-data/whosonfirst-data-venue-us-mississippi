@@ -1,0 +1,76 @@
+{
+  "id": 857486173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.09064,30.380321,-89.09064,30.380321",
+    "geom:latitude":30.380321,
+    "geom:longitude":-89.09064,
+    "iso:country":"US",
+    "sg:address":"2321 Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/gulfport/13155-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 3442",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60sFYvGsJxHnrchX1UY2pn_30.380308_-89.090318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130488,
+    "wof:geomhash":"d95f7e7c9cf49ad94196fd33aa5db096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857486173
+        }
+    ],
+    "wof:id":857486173,
+    "wof:lastmodified":1464130488,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -89.09064,
+    30.380321,
+    -89.09064,
+    30.380321
+],
+  "geometry": {"coordinates":[-89.09063999999999,30.380321],"type":"Point"}
+}

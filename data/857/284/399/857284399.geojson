@@ -1,0 +1,73 @@
+{
+  "id": 857284399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636567,30.421971,-88.636567,30.421971",
+    "geom:latitude":30.421971,
+    "geom:longitude":-88.636567,
+    "iso:country":"US",
+    "sg:address":"1704 Victoria Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1777",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Wkjbn7td1JE5jx6UQ8Hm_30.421971_-88.636567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126008,
+    "wof:geomhash":"021fe4387d1151435b833e3760aaadeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857284399
+        }
+    ],
+    "wof:id":857284399,
+    "wof:lastmodified":1464126008,
+    "wof:name":"Ronnie's Locksmith Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -88.636567,
+    30.421971,
+    -88.636567,
+    30.421971
+],
+  "geometry": {"coordinates":[-88.636567,30.421971],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857471089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679253,32.397422,-88.679253,32.397422",
+    "geom:latitude":32.397422,
+    "geom:longitude":-88.679253,
+    "iso:country":"US",
+    "sg:address":"3700 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 2111",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "interior",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TxUkpqktgjPZ9ypiFcKyz_32.397422_-88.679253@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130194,
+    "wof:geomhash":"29cc63b8444ead5c43297f7bedd3fe45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857471089
+        }
+    ],
+    "wof:id":857471089,
+    "wof:lastmodified":1464130194,
+    "wof:name":"Reflections of Modern Gardens",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "interior",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -88.679253,
+    32.397422,
+    -88.679253,
+    32.397422
+],
+  "geometry": {"coordinates":[-88.679253,32.397422],"type":"Point"}
+}

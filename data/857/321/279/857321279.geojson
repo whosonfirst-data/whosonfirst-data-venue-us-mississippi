@@ -1,0 +1,71 @@
+{
+  "id": 857321279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.265008,30.379404,-89.265008,30.379404",
+    "geom:latitude":30.379404,
+    "geom:longitude":-89.265008,
+    "iso:country":"US",
+    "sg:address":"25305 Cuevas Delisle Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 255 6550",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofGPiDyYesElFCOtVRGlr_30.379404_-89.265008@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126875,
+    "wof:geomhash":"d30e70594472d6ac65b09c2008b4a6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857321279
+        }
+    ],
+    "wof:id":857321279,
+    "wof:lastmodified":1464126875,
+    "wof:name":"First Baptist Church-Delisle",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.265008,
+    30.379404,
+    -89.265008,
+    30.379404
+],
+  "geometry": {"coordinates":[-89.26500799999999,30.379404],"type":"Point"}
+}

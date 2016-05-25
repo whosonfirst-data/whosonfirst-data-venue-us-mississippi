@@ -1,0 +1,75 @@
+{
+  "id": 857342991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.389548,32.692065,-90.389548,32.692065",
+    "geom:latitude":32.692065,
+    "geom:longitude":-90.389548,
+    "iso:country":"US",
+    "sg:address":"2555 Old Hwy 49",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 2327",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m6xD0M01VgXW3KtXXEgGn_32.692065_-90.389548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127334,
+    "wof:geomhash":"50e2e0532607100ec5560e81fba86204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857342991
+        }
+    ],
+    "wof:id":857342991,
+    "wof:lastmodified":1464127334,
+    "wof:name":"Eddie Jones Body Shop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.389548,
+    32.692065,
+    -90.389548,
+    32.692065
+],
+  "geometry": {"coordinates":[-90.389548,32.692065],"type":"Point"}
+}

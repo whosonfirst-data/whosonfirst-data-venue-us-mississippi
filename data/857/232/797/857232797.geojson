@@ -1,0 +1,75 @@
+{
+  "id": 857232797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.176328,32.313109,-90.176328,32.313109",
+    "geom:latitude":32.313109,
+    "geom:longitude":-90.176328,
+    "iso:country":"US",
+    "sg:address":"1004 North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 0763",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59gFR7bEnFKTmrPOzntChz_32.313109_-90.176328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124856,
+    "wof:geomhash":"f9463a34eb5304c42ea8f884a28a0e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857232797
+        }
+    ],
+    "wof:id":857232797,
+    "wof:lastmodified":1464124856,
+    "wof:name":"Belhaven Nursing Home",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.176328,
+    32.313109,
+    -90.176328,
+    32.313109
+],
+  "geometry": {"coordinates":[-90.176328,32.313109],"type":"Point"}
+}

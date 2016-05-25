@@ -1,0 +1,76 @@
+{
+  "id": 857111473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548113,30.370746,-88.548113,30.370746",
+    "geom:latitude":30.370746,
+    "geom:longitude":-88.548113,
+    "iso:country":"US",
+    "sg:address":"1620 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6477",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rd5k9BoMhWZpScxhebyEZ_30.370746_-88.548113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122222,
+    "wof:geomhash":"57d64e999eb3918d5ef99dfb0138f813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857111473
+        }
+    ],
+    "wof:id":857111473,
+    "wof:lastmodified":1464122222,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.548113,
+    30.370746,
+    -88.548113,
+    30.370746
+],
+  "geometry": {"coordinates":[-88.548113,30.370746],"type":"Point"}
+}

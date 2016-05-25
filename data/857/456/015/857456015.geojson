@@ -1,0 +1,69 @@
+{
+  "id": 857456015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.729441,33.525403,-88.729441,33.525403",
+    "geom:latitude":33.525403,
+    "geom:longitude":-88.729441,
+    "iso:country":"US",
+    "sg:address":"1590 Adams Ln",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 7000",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bT2FmtbEUtRTbvHWh1QSR_33.525403_-88.729441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129873,
+    "wof:geomhash":"c831836261e1b1799a422d056f7ccfae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857456015
+        }
+    ],
+    "wof:id":857456015,
+    "wof:lastmodified":1464129873,
+    "wof:name":"Triangle Overhead Door",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -88.729441,
+    33.525403,
+    -88.729441,
+    33.525403
+],
+  "geometry": {"coordinates":[-88.72944099999999,33.525403],"type":"Point"}
+}

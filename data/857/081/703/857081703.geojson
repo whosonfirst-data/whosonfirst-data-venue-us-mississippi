@@ -1,0 +1,71 @@
+{
+  "id": 857081703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553979,34.187105,-90.553979,34.187105",
+    "geom:latitude":34.187105,
+    "geom:longitude":-90.553979,
+    "iso:country":"US",
+    "sg:address":"1015 Sasse St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4951",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jYuN9gAJ3tI18HaIUMCip_34.187105_-90.553979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121443,
+    "wof:geomhash":"dead5099b604b2f90c3c17abd95734e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857081703
+        }
+    ],
+    "wof:id":857081703,
+    "wof:lastmodified":1464121443,
+    "wof:name":"Crossroads Estates",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.553979,
+    34.187105,
+    -90.553979,
+    34.187105
+],
+  "geometry": {"coordinates":[-90.553979,34.187105],"type":"Point"}
+}

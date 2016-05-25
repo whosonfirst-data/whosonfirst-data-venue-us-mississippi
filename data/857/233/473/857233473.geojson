@@ -1,0 +1,71 @@
+{
+  "id": 857233473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684923,34.25746,-88.684923,34.25746",
+    "geom:latitude":34.25746,
+    "geom:longitude":-88.684923,
+    "iso:country":"US",
+    "sg:address":"820 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 8040",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3casbgjlSmSNQrA4LpR76U_34.257460_-88.684923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124870,
+    "wof:geomhash":"f1f2dcdcaecd31fd3d0a235762f16330",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857233473
+        }
+    ],
+    "wof:id":857233473,
+    "wof:lastmodified":1464124870,
+    "wof:name":"Vietnam Veterans-America",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -88.684923,
+    34.25746,
+    -88.684923,
+    34.25746
+],
+  "geometry": {"coordinates":[-88.684923,34.25746],"type":"Point"}
+}

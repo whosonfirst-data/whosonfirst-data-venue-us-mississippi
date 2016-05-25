@@ -1,0 +1,73 @@
+{
+  "id": 857210079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.208285,32.162192,-90.208285,32.162192",
+    "geom:latitude":32.162192,
+    "geom:longitude":-90.208285,
+    "iso:country":"US",
+    "sg:address":"122 Hickory Ridge Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 6093",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21L2QqJP8CiXQiGPhFGPql_32.162192_-90.208285@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124391,
+    "wof:geomhash":"480fea13ce3ce4c9f960a0fabbe14ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857210079
+        }
+    ],
+    "wof:id":857210079,
+    "wof:lastmodified":1464124391,
+    "wof:name":"Asphalt Service Co",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.208285,
+    32.162192,
+    -90.208285,
+    32.162192
+],
+  "geometry": {"coordinates":[-90.208285,32.162192],"type":"Point"}
+}

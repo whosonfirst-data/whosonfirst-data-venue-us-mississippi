@@ -1,0 +1,78 @@
+{
+  "id": 857288625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701161,32.355042,-88.701161,32.355042",
+    "geom:latitude":32.355042,
+    "geom:longitude":-88.701161,
+    "iso:country":"US",
+    "sg:address":"921 Grand Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3579",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kDxrh2DjisuxNpKCqVzxf_32.355042_-88.701161@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126101,
+    "wof:geomhash":"ca2195a3f792ef5f8cab612b5d4946c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857288625
+        }
+    ],
+    "wof:id":857288625,
+    "wof:lastmodified":1464126101,
+    "wof:name":"S & S Glass Company",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.701161,
+    32.355042,
+    -88.701161,
+    32.355042
+],
+  "geometry": {"coordinates":[-88.701161,32.355042],"type":"Point"}
+}

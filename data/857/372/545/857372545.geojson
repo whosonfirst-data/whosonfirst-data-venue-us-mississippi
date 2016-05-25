@@ -1,0 +1,73 @@
+{
+  "id": 857372545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548401,30.355171,-88.548401,30.355171",
+    "geom:latitude":30.355171,
+    "geom:longitude":-88.548401,
+    "iso:country":"US",
+    "sg:address":"1902 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0333",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tcr0p5IgzQMtRyLlKU1YD_30.355171_-88.548401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127961,
+    "wof:geomhash":"19815186fbea3c0b50f63258c28efee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857372545
+        }
+    ],
+    "wof:id":857372545,
+    "wof:lastmodified":1464127961,
+    "wof:name":"Zack's Auto Sales",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.548401,
+    30.355171,
+    -88.548401,
+    30.355171
+],
+  "geometry": {"coordinates":[-88.548401,30.355171],"type":"Point"}
+}

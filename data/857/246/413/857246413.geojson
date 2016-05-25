@@ -1,0 +1,76 @@
+{
+  "id": 857246413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.307663,33.439696,-88.307663,33.439696",
+    "geom:latitude":33.439696,
+    "geom:longitude":-88.307663,
+    "iso:country":"US",
+    "sg:address":"3319 Lake Lowndes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2110",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YQP5UgjojcVkCujxF9YyZ_33.439696_-88.307663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125166,
+    "wof:geomhash":"25e379b6ce053e15c2b43565bf66fc6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857246413
+        }
+    ],
+    "wof:id":857246413,
+    "wof:lastmodified":1464125166,
+    "wof:name":"Lake Lowndes State Park",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -88.307663,
+    33.439696,
+    -88.307663,
+    33.439696
+],
+  "geometry": {"coordinates":[-88.30766300000001,33.439696],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857485439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.848712,33.443767,-88.848712,33.443767",
+    "geom:latitude":33.443767,
+    "geom:longitude":-88.848712,
+    "iso:country":"US",
+    "sg:address":"1010 Highway 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/starkville/132909-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3733",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QQp35ifaAPD0Ptunlfs5M_33.443767_-88.848712@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130475,
+    "wof:geomhash":"5ccafb0e7f3761140ccab8149284f183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857485439
+        }
+    ],
+    "wof:id":857485439,
+    "wof:lastmodified":1464130475,
+    "wof:name":"Subway",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.848712,
+    33.443767,
+    -88.848712,
+    33.443767
+],
+  "geometry": {"coordinates":[-88.84871200000001,33.443767],"type":"Point"}
+}

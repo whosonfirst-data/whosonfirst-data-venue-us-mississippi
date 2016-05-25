@@ -1,0 +1,71 @@
+{
+  "id": 857229191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518758,34.366603,-89.518758,34.366603",
+    "geom:latitude":34.366603,
+    "geom:longitude":-89.518758,
+    "iso:country":"US",
+    "sg:address":"128 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 3700",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YmUTho3eu6epro8OvsGAR_34.366603_-89.518758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124793,
+    "wof:geomhash":"4c0cdde2f41a78d346f0b01b20a62370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857229191
+        }
+    ],
+    "wof:id":857229191,
+    "wof:lastmodified":1464124793,
+    "wof:name":"Greer Pipkin & Russell",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.518758,
+    34.366603,
+    -89.518758,
+    34.366603
+],
+  "geometry": {"coordinates":[-89.51875800000001,34.366603],"type":"Point"}
+}

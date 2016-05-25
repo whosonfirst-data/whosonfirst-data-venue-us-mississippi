@@ -1,0 +1,73 @@
+{
+  "id": 857257933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.26646,30.344892,-89.26646,30.344892",
+    "geom:latitude":30.344892,
+    "geom:longitude":-89.26646,
+    "iso:country":"US",
+    "sg:address":"25351 Island Blvd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 1551",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCks2Nn172q9PxukR8U6K_30.344892_-89.266460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125450,
+    "wof:geomhash":"27f8e00eff30de315f3c12c31db900e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857257933
+        }
+    ],
+    "wof:id":857257933,
+    "wof:lastmodified":1464125450,
+    "wof:name":"LPW Management",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -89.26646,
+    30.344892,
+    -89.26646,
+    30.344892
+],
+  "geometry": {"coordinates":[-89.26646,30.344892],"type":"Point"}
+}

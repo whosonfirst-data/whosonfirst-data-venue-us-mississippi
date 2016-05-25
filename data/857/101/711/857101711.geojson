@@ -1,0 +1,71 @@
+{
+  "id": 857101711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.613217,33.571099,-88.613217,33.571099",
+    "geom:latitude":33.571099,
+    "geom:longitude":-88.613217,
+    "iso:country":"US",
+    "sg:address":"1710 Waverly Dr",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 5200",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41QoddfoeA7d5zMCFYwSsK_33.571099_-88.613217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121955,
+    "wof:geomhash":"d892c949356938041502b7b79907c7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857101711
+        }
+    ],
+    "wof:id":857101711,
+    "wof:lastmodified":1464121955,
+    "wof:name":"G Thad Buck",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.613217,
+    33.571099,
+    -88.613217,
+    33.571099
+],
+  "geometry": {"coordinates":[-88.61321700000001,33.571099],"type":"Point"}
+}

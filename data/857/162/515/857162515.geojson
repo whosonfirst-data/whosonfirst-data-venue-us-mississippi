@@ -1,0 +1,75 @@
+{
+  "id": 857162515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.178106,32.313173,-90.178106,32.313173",
+    "geom:latitude":32.313173,
+    "geom:longitude":-90.178106,
+    "iso:country":"US",
+    "sg:address":"1225 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 968 1049",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WTCkH6GwvhwOMP4m52ct6_32.313173_-90.178106@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123414,
+    "wof:geomhash":"899a594e356c6c45b5de62f885806dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857162515
+        }
+    ],
+    "wof:id":857162515,
+    "wof:lastmodified":1464123414,
+    "wof:name":"Baptist Cancer Svc",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.178106,
+    32.313173,
+    -90.178106,
+    32.313173
+],
+  "geometry": {"coordinates":[-90.178106,32.313173],"type":"Point"}
+}

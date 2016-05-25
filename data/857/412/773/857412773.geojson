@@ -1,0 +1,71 @@
+{
+  "id": 857412773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.551833,30.482132,-88.551833,30.482132",
+    "geom:latitude":30.482132,
+    "geom:longitude":-88.551833,
+    "iso:country":"US",
+    "sg:address":"9749 Donchester Cir",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 9918",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N0F5erTp2pIXdXvDgf5at_30.482132_-88.551833@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128917,
+    "wof:geomhash":"eef7e46ca643d8fdf2f7b5f78c52c84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857412773
+        }
+    ],
+    "wof:id":857412773,
+    "wof:lastmodified":1464128917,
+    "wof:name":"New Horizon Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.551833,
+    30.482132,
+    -88.551833,
+    30.482132
+],
+  "geometry": {"coordinates":[-88.551833,30.482132],"type":"Point"}
+}

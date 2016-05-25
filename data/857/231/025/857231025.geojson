@@ -1,0 +1,73 @@
+{
+  "id": 857231025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.647016,33.603421,-88.647016,33.603421",
+    "geom:latitude":33.603421,
+    "geom:longitude":-88.647016,
+    "iso:country":"US",
+    "sg:address":"420 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 3303",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HZwU51FpCxzzWiPfI6KKN_33.603421_-88.647016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124825,
+    "wof:geomhash":"e4064693357c7cc6736f959e35adfae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857231025
+        }
+    ],
+    "wof:id":857231025,
+    "wof:lastmodified":1464124825,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -88.647016,
+    33.603421,
+    -88.647016,
+    33.603421
+],
+  "geometry": {"coordinates":[-88.64701599999999,33.603421],"type":"Point"}
+}

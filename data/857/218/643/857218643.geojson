@@ -1,0 +1,71 @@
+{
+  "id": 857218643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.516168,30.381857,-88.516168,30.381857",
+    "geom:latitude":30.381857,
+    "geom:longitude":-88.516168,
+    "iso:country":"US",
+    "sg:address":"4603 Long Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2681",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpn1V0bRaHgIyPHg33VUS_30.381857_-88.516168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124589,
+    "wof:geomhash":"d759ba917911bc294bb208090da6614e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857218643
+        }
+    ],
+    "wof:id":857218643,
+    "wof:lastmodified":1464124589,
+    "wof:name":"Long Transfer & Storage Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -88.516168,
+    30.381857,
+    -88.516168,
+    30.381857
+],
+  "geometry": {"coordinates":[-88.51616799999999,30.381857],"type":"Point"}
+}

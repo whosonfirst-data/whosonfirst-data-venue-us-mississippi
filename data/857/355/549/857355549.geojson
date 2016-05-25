@@ -1,0 +1,73 @@
+{
+  "id": 857355549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445405,31.581388,-90.445405,31.581388",
+    "geom:latitude":31.581388,
+    "geom:longitude":-90.445405,
+    "iso:country":"US",
+    "sg:address":"130 N Church St",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 833 4912",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MpXGPaMZ7aRApIHXUGm6w_31.581388_-90.445405@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127605,
+    "wof:geomhash":"bbee913c8138056ee9206f3ee97bf3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857355549
+        }
+    ],
+    "wof:id":857355549,
+    "wof:lastmodified":1464127605,
+    "wof:name":"Hugh V Leggett Jr DDS",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.445405,
+    31.581388,
+    -90.445405,
+    31.581388
+],
+  "geometry": {"coordinates":[-90.44540499999999,31.581388],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857336633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520897,34.414425,-89.520897,34.414425",
+    "geom:latitude":34.414425,
+    "geom:longitude":-89.520897,
+    "iso:country":"US",
+    "sg:address":"455 Co Rd 101",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8755",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JHssvlwfI4oNs1Nb3DG7w_34.414425_-89.520897@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127200,
+    "wof:geomhash":"464fb5aec1dfd3f29557a68c4eaa18ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857336633
+        }
+    ],
+    "wof:id":857336633,
+    "wof:lastmodified":1464127200,
+    "wof:name":"Environmental Svc-SOUTH LLC",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -89.520897,
+    34.414425,
+    -89.520897,
+    34.414425
+],
+  "geometry": {"coordinates":[-89.52089700000001,34.414425],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857414107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.025463,30.399054,-89.025463,30.399054",
+    "geom:latitude":30.399054,
+    "geom:longitude":-89.025463,
+    "iso:country":"US",
+    "sg:address":"1422 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 604 0138",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yX3O5FemCqTjjuGT6EMur_30.399054_-89.025463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128946,
+    "wof:geomhash":"be17158fdfa421a0b839a00e47190f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857414107
+        }
+    ],
+    "wof:id":857414107,
+    "wof:lastmodified":1464128946,
+    "wof:name":"CVS Pharmacy",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.025463,
+    30.399054,
+    -89.025463,
+    30.399054
+],
+  "geometry": {"coordinates":[-89.025463,30.399054],"type":"Point"}
+}

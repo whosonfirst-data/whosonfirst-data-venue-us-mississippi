@@ -1,0 +1,68 @@
+{
+  "id": 857343289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.947575,30.393743,-88.947575,30.393743",
+    "geom:latitude":30.393743,
+    "geom:longitude":-88.947575,
+    "iso:country":"US",
+    "sg:address":"1888 Beach Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 4288",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OO6PhxrJ7339eG1KkUQY8_30.393743_-88.947575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127340,
+    "wof:geomhash":"56dc1cacef80cdb2d5ae54daee858f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857343289
+        }
+    ],
+    "wof:id":857343289,
+    "wof:lastmodified":1464127340,
+    "wof:name":"Bay Front Inn",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.947575,
+    30.393743,
+    -88.947575,
+    30.393743
+],
+  "geometry": {"coordinates":[-88.947575,30.393743],"type":"Point"}
+}

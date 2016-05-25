@@ -1,0 +1,71 @@
+{
+  "id": 857207181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.281741,31.313223,-89.281741,31.313223",
+    "geom:latitude":31.313223,
+    "geom:longitude":-89.281741,
+    "iso:country":"US",
+    "sg:address":"1171 James St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 8760",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mmVAdRV86UgQlwGTqKhwL_31.313223_-89.281741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124335,
+    "wof:geomhash":"e9428f4d9daeb2391172cbc34ceacd03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857207181
+        }
+    ],
+    "wof:id":857207181,
+    "wof:lastmodified":1464124335,
+    "wof:name":"True Seekers Church Of God",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.281741,
+    31.313223,
+    -89.281741,
+    31.313223
+],
+  "geometry": {"coordinates":[-89.281741,31.313223],"type":"Point"}
+}

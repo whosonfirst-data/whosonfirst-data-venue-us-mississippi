@@ -1,0 +1,71 @@
+{
+  "id": 857246407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684915,32.368809,-88.684915,32.368809",
+    "geom:latitude":32.368809,
+    "geom:longitude":-88.684915,
+    "iso:country":"US",
+    "sg:address":"103 7th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 2962",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T02KexEAO2owKOGj2rmKQ_32.368809_-88.684915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125166,
+    "wof:geomhash":"a0477541826996cbb64a27d4f521236c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857246407
+        }
+    ],
+    "wof:id":857246407,
+    "wof:lastmodified":1464125166,
+    "wof:name":"Anns Beauty Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.684915,
+    32.368809,
+    -88.684915,
+    32.368809
+],
+  "geometry": {"coordinates":[-88.684915,32.368809],"type":"Point"}
+}

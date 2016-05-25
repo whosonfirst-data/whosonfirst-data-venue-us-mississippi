@@ -1,0 +1,73 @@
+{
+  "id": 857229445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.30676,31.224532,-89.30676,31.224532",
+    "geom:latitude":31.224532,
+    "geom:longitude":-89.30676,
+    "iso:country":"US",
+    "sg:address":"1699 Browns Bridge Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 588 2860",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZsT8il9rHuHZgaTqGUJKq_31.224532_-89.306760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124797,
+    "wof:geomhash":"dca9e782230fe18d45a98ff056cd61a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857229445
+        }
+    ],
+    "wof:id":857229445,
+    "wof:lastmodified":1464124797,
+    "wof:name":"Eagle Support Svc Inc",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -89.30676,
+    31.224532,
+    -89.30676,
+    31.224532
+],
+  "geometry": {"coordinates":[-89.30676,31.224532],"type":"Point"}
+}

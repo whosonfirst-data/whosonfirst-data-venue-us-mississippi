@@ -1,0 +1,67 @@
+{
+  "id": 857338503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702728,34.311643,-88.702728,34.311643",
+    "geom:latitude":34.311643,
+    "geom:longitude":-88.702728,
+    "iso:country":"US",
+    "sg:address":"4398 Mall Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 8011",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:website":"www.officemax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oh58n3rW7nvla0n8H8IEZ_34.311643_-88.702728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127242,
+    "wof:geomhash":"4a29d150ea19df56f242f70721570b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857338503
+        }
+    ],
+    "wof:id":857338503,
+    "wof:lastmodified":1464127242,
+    "wof:name":"Office Max",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.702728,
+    34.311643,
+    -88.702728,
+    34.311643
+],
+  "geometry": {"coordinates":[-88.70272799999999,34.311643],"type":"Point"}
+}

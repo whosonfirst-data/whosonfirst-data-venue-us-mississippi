@@ -1,0 +1,71 @@
+{
+  "id": 857444581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686031,34.257387,-88.686031,34.257387",
+    "geom:latitude":34.257387,
+    "geom:longitude":-88.686031,
+    "iso:country":"US",
+    "sg:address":"794 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 7888",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08XPvWPENoTei1nFUQvEx1_34.257387_-88.686031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129649,
+    "wof:geomhash":"4ce63f4111be0c2dbe4846abc3803afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857444581
+        }
+    ],
+    "wof:id":857444581,
+    "wof:lastmodified":1464129649,
+    "wof:name":"Noahs Ark Daycare & Lrng Ctr",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.686031,
+    34.257387,
+    -88.686031,
+    34.257387
+],
+  "geometry": {"coordinates":[-88.686031,34.257387],"type":"Point"}
+}

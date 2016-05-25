@@ -1,0 +1,71 @@
+{
+  "id": 857215061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.004763,32.279513,-90.004763,32.279513",
+    "geom:latitude":32.279513,
+    "geom:longitude":-90.004763,
+    "iso:country":"US",
+    "sg:address":"613 Marquette Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 8800",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_742yEEWgk5THavDlc6E4XO_32.279513_-90.004763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124515,
+    "wof:geomhash":"66d81d425bc712fffc006c144489b39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857215061
+        }
+    ],
+    "wof:id":857215061,
+    "wof:lastmodified":1464124515,
+    "wof:name":"Region 8 Mental Health Svc",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.004763,
+    32.279513,
+    -90.004763,
+    32.279513
+],
+  "geometry": {"coordinates":[-90.004763,32.279513],"type":"Point"}
+}

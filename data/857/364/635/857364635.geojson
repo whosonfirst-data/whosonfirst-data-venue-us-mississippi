@@ -1,0 +1,83 @@
+{
+  "id": 857364635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.09009,30.454198,-89.09009,30.454198",
+    "geom:latitude":30.454198,
+    "geom:longitude":-89.09009,
+    "iso:country":"US",
+    "sg:address":"15089 Wesley Cir",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 424 5713",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BUDAeJVE67x4XBdXpY3b0_30.454198_-89.090090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127797,
+    "wof:geomhash":"e56baef827b9d24a6e2c283615e48810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857364635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857364635
+        }
+    ],
+    "wof:id":857364635,
+    "wof:lastmodified":1464127797,
+    "wof:name":"Terry A Jones PLS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -89.09009,
+    30.454198,
+    -89.09009,
+    30.454198
+],
+  "geometry": {"coordinates":[-89.09009,30.454198],"type":"Point"}
+}

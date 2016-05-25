@@ -1,0 +1,74 @@
+{
+  "id": 857367269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285017,31.303003,-89.285017,31.303003",
+    "geom:latitude":31.303003,
+    "geom:longitude":-89.285017,
+    "iso:country":"US",
+    "sg:address":"1600 Edwards St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4427",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fabricated",
+        "structural"
+    ],
+    "sg:website":"www.dewsfoundry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h2VJCNh7zYIjDJtKzkhaR_31.303003_-89.285017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127850,
+    "wof:geomhash":"548e9cd21745a3f3275b371d4e2ce1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857367269
+        }
+    ],
+    "wof:id":857367269,
+    "wof:lastmodified":1464127850,
+    "wof:name":"C L Dews & Sons Foundry Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricated",
+        "structural"
+    ]
+},
+  "bbox": [
+    -89.285017,
+    31.303003,
+    -89.285017,
+    31.303003
+],
+  "geometry": {"coordinates":[-89.285017,31.303003],"type":"Point"}
+}

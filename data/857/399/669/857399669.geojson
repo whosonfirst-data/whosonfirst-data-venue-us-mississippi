@@ -1,0 +1,73 @@
+{
+  "id": 857399669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.85945,32.303209,-90.85945,32.303209",
+    "geom:latitude":32.303209,
+    "geom:longitude":-90.85945,
+    "iso:country":"US",
+    "sg:address":"720 Porters Chapel Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 3977",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85805475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62ddTuT6SbyqvWbv6eatll_32.303209_-90.859450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128616,
+    "wof:geomhash":"036960f73a86a333051221382d00618e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85805475,
+            "region_id":85688579,
+            "venue_id":857399669
+        }
+    ],
+    "wof:id":857399669,
+    "wof:lastmodified":1464128616,
+    "wof:name":"Total Environmental Solutions",
+    "wof:parent_id":85805475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.85945,
+    32.303209,
+    -90.85945,
+    32.303209
+],
+  "geometry": {"coordinates":[-90.85945,32.303209],"type":"Point"}
+}

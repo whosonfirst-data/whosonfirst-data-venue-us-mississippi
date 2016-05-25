@@ -1,0 +1,78 @@
+{
+  "id": 857135067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.414846,31.327196,-89.414846,31.327196",
+    "geom:latitude":31.327196,
+    "geom:longitude":-89.414846,
+    "iso:country":"US",
+    "sg:address":"51 Courtland Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 9629",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "advisory",
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qi2ObpU011CvLCpbKjHGE_31.327196_-89.414846@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122784,
+    "wof:geomhash":"bb101ff212495012828032292a6f7133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857135067
+        }
+    ],
+    "wof:id":857135067,
+    "wof:lastmodified":1464122784,
+    "wof:name":"Stanton Financial Service",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -89.414846,
+    31.327196,
+    -89.414846,
+    31.327196
+],
+  "geometry": {"coordinates":[-89.414846,31.327196],"type":"Point"}
+}

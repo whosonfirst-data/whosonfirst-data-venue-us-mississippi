@@ -1,0 +1,73 @@
+{
+  "id": 857150383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.558247,30.354802,-88.558247,30.354802",
+    "geom:latitude":30.354802,
+    "geom:longitude":-88.558247,
+    "iso:country":"US",
+    "sg:address":"609 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 761 2140",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VBdCdELVTw0lfkOCt50Ds_30.354802_-88.558247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123155,
+    "wof:geomhash":"bdc21d3ceb2adf7287371a340df87297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857150383
+        }
+    ],
+    "wof:id":857150383,
+    "wof:lastmodified":1464123155,
+    "wof:name":"US Navy Dept",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -88.558247,
+    30.354802,
+    -88.558247,
+    30.354802
+],
+  "geometry": {"coordinates":[-88.55824699999999,30.354802],"type":"Point"}
+}

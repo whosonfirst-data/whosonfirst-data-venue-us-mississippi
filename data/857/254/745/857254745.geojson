@@ -1,0 +1,75 @@
+{
+  "id": 857254745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.319272,31.305158,-89.319272,31.305158",
+    "geom:latitude":31.305158,
+    "geom:longitude":-89.319272,
+    "iso:country":"US",
+    "sg:address":"1425 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 261 2475",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z4QQho8J7aLGRyB0ScnKF_31.305158_-89.319272@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125371,
+    "wof:geomhash":"7e2a9cbe47f6d682aae12a4bba0926c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857254745
+        }
+    ],
+    "wof:id":857254745,
+    "wof:lastmodified":1464125371,
+    "wof:name":"Custom Cleaners",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -89.319272,
+    31.305158,
+    -89.319272,
+    31.305158
+],
+  "geometry": {"coordinates":[-89.319272,31.305158],"type":"Point"}
+}

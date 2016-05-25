@@ -1,0 +1,71 @@
+{
+  "id": 857402907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.345529,31.333782,-89.345529,31.333782",
+    "geom:latitude":31.333782,
+    "geom:longitude":-89.345529,
+    "iso:country":"US",
+    "sg:address":"510 N 38th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 9456",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSYWEu29CLZ7gTvH3pRp0_31.333782_-89.345529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128682,
+    "wof:geomhash":"ff964e2ed3546df1c298f1c19c6801e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857402907
+        }
+    ],
+    "wof:id":857402907,
+    "wof:lastmodified":1464128682,
+    "wof:name":"Joey Di Fatta",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -89.345529,
+    31.333782,
+    -89.345529,
+    31.333782
+],
+  "geometry": {"coordinates":[-89.345529,31.333782],"type":"Point"}
+}

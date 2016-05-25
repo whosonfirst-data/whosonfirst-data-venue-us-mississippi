@@ -1,0 +1,71 @@
+{
+  "id": 857271815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.681217,34.256508,-88.681217,34.256508",
+    "geom:latitude":34.256508,
+    "geom:longitude":-88.681217,
+    "iso:country":"US",
+    "sg:address":"120 Lake St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 1430",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hKvjMCamYJ8FQpuiwtwdF_34.256508_-88.681217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125722,
+    "wof:geomhash":"303b0d58f893e22eb4a70e33c075bd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857271815
+        }
+    ],
+    "wof:id":857271815,
+    "wof:lastmodified":1464125722,
+    "wof:name":"East Heights Child Nursery",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.681217,
+    34.256508,
+    -88.681217,
+    34.256508
+],
+  "geometry": {"coordinates":[-88.681217,34.256508],"type":"Point"}
+}

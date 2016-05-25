@@ -1,0 +1,71 @@
+{
+  "id": 857188507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.027838,33.474546,-89.027838,33.474546",
+    "geom:latitude":33.474546,
+    "geom:longitude":-89.027838,
+    "iso:country":"US",
+    "sg:address":"1573 J Y Turner Rd",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 4559",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YN9ckcxw9KKf2LeQXtayf_33.474546_-89.027838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123961,
+    "wof:geomhash":"2fe4d137b99cb0a0af73b8b7544f5209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857188507
+        }
+    ],
+    "wof:id":857188507,
+    "wof:lastmodified":1464123961,
+    "wof:name":"Johnson Trucking",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.027838,
+    33.474546,
+    -89.027838,
+    33.474546
+],
+  "geometry": {"coordinates":[-89.027838,33.474546],"type":"Point"}
+}

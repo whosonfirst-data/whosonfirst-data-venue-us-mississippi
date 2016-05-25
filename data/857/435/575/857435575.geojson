@@ -1,0 +1,71 @@
+{
+  "id": 857435575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554002,34.189999,-90.554002,34.189999",
+    "geom:latitude":34.189999,
+    "geom:longitude":-90.554002,
+    "iso:country":"US",
+    "sg:address":"1160 Ritchie Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4850",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dEY1JDCbjgvGxqez5c1aH_34.189999_-90.554002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129479,
+    "wof:geomhash":"8c8e004babf8b4f8982e9cff0c5f7842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857435575
+        }
+    ],
+    "wof:id":857435575,
+    "wof:lastmodified":1464129479,
+    "wof:name":"Federation Towers-Clarksdale",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.554002,
+    34.189999,
+    -90.554002,
+    34.189999
+],
+  "geometry": {"coordinates":[-90.554002,34.189999],"type":"Point"}
+}

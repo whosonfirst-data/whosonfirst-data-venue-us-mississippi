@@ -1,0 +1,73 @@
+{
+  "id": 857449861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653018,32.426054,-88.653018,32.426054",
+    "geom:latitude":32.426054,
+    "geom:longitude":-88.653018,
+    "iso:country":"US",
+    "sg:address":"6289 Confederate Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 4910",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hr9U2d0DQzIxTr2GDY8UF_32.426054_-88.653018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129752,
+    "wof:geomhash":"0ae1ec53d0749e6e6042f9195af45256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857449861
+        }
+    ],
+    "wof:id":857449861,
+    "wof:lastmodified":1464129752,
+    "wof:name":"David Fuller Wreck Rebuilding",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -88.653018,
+    32.426054,
+    -88.653018,
+    32.426054
+],
+  "geometry": {"coordinates":[-88.653018,32.426054],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857300933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.460219,32.730779,-90.460219,32.730779",
+    "geom:latitude":32.730779,
+    "geom:longitude":-90.460219,
+    "iso:country":"US",
+    "sg:address":"3729 Tinsley Rd",
+    "sg:city":"Tinsley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7086",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68A2o8yAwMgXFOqISi8Tj1_32.730779_-90.460219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126431,
+    "wof:geomhash":"436cbb023b7d33b5283d51f7f7101601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857300933
+        }
+    ],
+    "wof:id":857300933,
+    "wof:lastmodified":1464126431,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.460219,
+    32.730779,
+    -90.460219,
+    32.730779
+],
+  "geometry": {"coordinates":[-90.460219,32.730779],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857161003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.331503,33.528881,-88.331503,33.528881",
+    "geom:latitude":33.528881,
+    "geom:longitude":-88.331503,
+    "iso:country":"US",
+    "sg:address":"4853 Hwy 50 E",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 240 1670",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LMqhsbJ9KrEoKyy6594pF_33.528881_-88.331503@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123368,
+    "wof:geomhash":"469ab20956ae1abecf115b192f351a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857161003
+        }
+    ],
+    "wof:id":857161003,
+    "wof:lastmodified":1464123368,
+    "wof:name":"Jans Beauty Shoppe",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.331503,
+    33.528881,
+    -88.331503,
+    33.528881
+],
+  "geometry": {"coordinates":[-88.331503,33.528881],"type":"Point"}
+}

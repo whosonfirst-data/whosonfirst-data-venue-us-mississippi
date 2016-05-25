@@ -1,0 +1,73 @@
+{
+  "id": 857098151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.506259,30.388899,-88.506259,30.388899",
+    "geom:latitude":30.388899,
+    "geom:longitude":-88.506259,
+    "iso:country":"US",
+    "sg:address":"4210 Industrial Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 0905",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OqHHbtKiVU3w5JUbsChWr_30.388899_-88.506259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121860,
+    "wof:geomhash":"7e036777981c805bff560aedd93040c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857098151
+        }
+    ],
+    "wof:id":857098151,
+    "wof:lastmodified":1464121860,
+    "wof:name":"Sunland Construction",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.506259,
+    30.388899,
+    -88.506259,
+    30.388899
+],
+  "geometry": {"coordinates":[-88.506259,30.388899],"type":"Point"}
+}

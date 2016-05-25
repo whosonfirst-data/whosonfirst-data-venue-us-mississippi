@@ -1,0 +1,75 @@
+{
+  "id": 857188235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.656438,34.255593,-88.656438,34.255593",
+    "geom:latitude":34.255593,
+    "geom:longitude":-88.656438,
+    "iso:country":"US",
+    "sg:address":"4326 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8871",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14JSsRxJJbKFEWo9dpggvr_34.255593_-88.656438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123956,
+    "wof:geomhash":"acd25206d6693f4b5ab6adeff3bd6c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857188235
+        }
+    ],
+    "wof:id":857188235,
+    "wof:lastmodified":1464123956,
+    "wof:name":"United Blood Svc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.656438,
+    34.255593,
+    -88.656438,
+    34.255593
+],
+  "geometry": {"coordinates":[-88.65643799999999,34.255593],"type":"Point"}
+}

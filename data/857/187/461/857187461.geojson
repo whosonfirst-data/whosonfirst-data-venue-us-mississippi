@@ -1,0 +1,78 @@
+{
+  "id": 857187461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.460382,33.829316,-88.460382,33.829316",
+    "geom:latitude":33.829316,
+    "geom:longitude":-88.460382,
+    "iso:country":"US",
+    "sg:address":"51667 Hwy 8 E",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8406",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_769G8YVbZB94wu8MOq0kPZ_33.829316_-88.460382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123941,
+    "wof:geomhash":"2922794e752a9d5632b26683575197cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857187461
+        }
+    ],
+    "wof:id":857187461,
+    "wof:lastmodified":1464123941,
+    "wof:name":"Mildred's Restaurant",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.460382,
+    33.829316,
+    -88.460382,
+    33.829316
+],
+  "geometry": {"coordinates":[-88.460382,33.829316],"type":"Point"}
+}

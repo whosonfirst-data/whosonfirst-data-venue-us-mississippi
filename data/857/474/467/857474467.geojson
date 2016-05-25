@@ -1,0 +1,71 @@
+{
+  "id": 857474467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435629,33.497289,-88.435629,33.497289",
+    "geom:latitude":33.497289,
+    "geom:longitude":-88.435629,
+    "iso:country":"US",
+    "sg:address":"404 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9967",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2umWubjopCGNMLgffJR7Qq_33.497289_-88.435629@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130264,
+    "wof:geomhash":"913603135773e9775eb0a843fc69dd7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857474467
+        }
+    ],
+    "wof:id":857474467,
+    "wof:lastmodified":1464130264,
+    "wof:name":"Columbus Private Security",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -88.435629,
+    33.497289,
+    -88.435629,
+    33.497289
+],
+  "geometry": {"coordinates":[-88.43562900000001,33.497289],"type":"Point"}
+}

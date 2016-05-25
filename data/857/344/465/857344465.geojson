@@ -1,0 +1,71 @@
+{
+  "id": 857344465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437206,33.530474,-88.437206,33.530474",
+    "geom:latitude":33.530474,
+    "geom:longitude":-88.437206,
+    "iso:country":"US",
+    "sg:address":"2022 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6865",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FE72Ss0C3DwiipezjcSGy_33.530474_-88.437206@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127362,
+    "wof:geomhash":"f1c1981edb586893bf59b3c85415072f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857344465
+        }
+    ],
+    "wof:id":857344465,
+    "wof:lastmodified":1464127362,
+    "wof:name":"Home-Med Equipment Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.437206,
+    33.530474,
+    -88.437206,
+    33.530474
+],
+  "geometry": {"coordinates":[-88.437206,33.530474],"type":"Point"}
+}

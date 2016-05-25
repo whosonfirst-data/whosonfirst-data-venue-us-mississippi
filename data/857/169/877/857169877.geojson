@@ -1,0 +1,73 @@
+{
+  "id": 857169877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548577,30.359249,-88.548577,30.359249",
+    "geom:latitude":30.359249,
+    "geom:longitude":-88.548577,
+    "iso:country":"US",
+    "sg:address":"2307 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 712 2020",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sKJIYxT0AvDwlnT0XpXRV_30.359249_-88.548577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123577,
+    "wof:geomhash":"bcc32e032f9c5e595f62abfd901176a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857169877
+        }
+    ],
+    "wof:id":857169877,
+    "wof:lastmodified":1464123577,
+    "wof:name":"Ray's Automotive",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.548577,
+    30.359249,
+    -88.548577,
+    30.359249
+],
+  "geometry": {"coordinates":[-88.54857699999999,30.359249],"type":"Point"}
+}

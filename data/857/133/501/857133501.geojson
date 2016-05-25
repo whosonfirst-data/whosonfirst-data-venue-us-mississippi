@@ -1,0 +1,73 @@
+{
+  "id": 857133501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.418936,32.845456,-90.418936,32.845456",
+    "geom:latitude":32.845456,
+    "geom:longitude":-90.418936,
+    "iso:country":"US",
+    "sg:address":"417 W Bridge St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1919",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ANEZe6lw9bupBl8VRvSyT_32.845456_-90.418936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122753,
+    "wof:geomhash":"a4f37f2eec7013610a609b53fa93a544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857133501
+        }
+    ],
+    "wof:id":857133501,
+    "wof:lastmodified":1464122753,
+    "wof:name":"House Dr Lounge",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.418936,
+    32.845456,
+    -90.418936,
+    32.845456
+],
+  "geometry": {"coordinates":[-90.418936,32.845456],"type":"Point"}
+}

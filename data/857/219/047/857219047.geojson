@@ -1,0 +1,73 @@
+{
+  "id": 857219047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.197976,32.301438,-90.197976,32.301438",
+    "geom:latitude":32.301438,
+    "geom:longitude":-90.197976,
+    "iso:country":"US",
+    "sg:address":"230 Lemon St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 7017",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k8JYLwgI4biHxBzg0qAPx_32.301438_-90.197976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124597,
+    "wof:geomhash":"a52e4501d3e17060bcf44e2e2a507fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857219047
+        }
+    ],
+    "wof:id":857219047,
+    "wof:lastmodified":1464124597,
+    "wof:name":"Professional Window Clean",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.197976,
+    32.301438,
+    -90.197976,
+    32.301438
+],
+  "geometry": {"coordinates":[-90.197976,32.301438],"type":"Point"}
+}

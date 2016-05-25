@@ -1,0 +1,73 @@
+{
+  "id": 857381473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.642662,33.616314,-88.642662,33.616314",
+    "geom:latitude":33.616314,
+    "geom:longitude":-88.642662,
+    "iso:country":"US",
+    "sg:address":"731 Center St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 6400",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FpCNRtUzq8zlndlntqkdF_33.616314_-88.642662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128164,
+    "wof:geomhash":"c71751130c8a6fbd3a700b76a3583b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857381473
+        }
+    ],
+    "wof:id":857381473,
+    "wof:lastmodified":1464128164,
+    "wof:name":"William Billington DO",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.642662,
+    33.616314,
+    -88.642662,
+    33.616314
+],
+  "geometry": {"coordinates":[-88.642662,33.616314],"type":"Point"}
+}

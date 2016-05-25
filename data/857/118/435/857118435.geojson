@@ -1,0 +1,71 @@
+{
+  "id": 857118435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514128,34.363199,-89.514128,34.363199",
+    "geom:latitude":34.363199,
+    "geom:longitude":-89.514128,
+    "iso:country":"US",
+    "sg:address":"609 S 16th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 3935",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d4DK6upkDqpCjQCeCxkmc_34.363199_-89.514128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122419,
+    "wof:geomhash":"2e447be4a89e3039cec9c01a6d5ee0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857118435
+        }
+    ],
+    "wof:id":857118435,
+    "wof:lastmodified":1464122419,
+    "wof:name":"D 2 Interactive",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -89.514128,
+    34.363199,
+    -89.514128,
+    34.363199
+],
+  "geometry": {"coordinates":[-89.514128,34.363199],"type":"Point"}
+}

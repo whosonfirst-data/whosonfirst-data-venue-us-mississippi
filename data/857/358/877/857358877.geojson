@@ -1,0 +1,71 @@
+{
+  "id": 857358877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.52065,34.351347,-89.52065,34.351347",
+    "geom:latitude":34.351347,
+    "geom:longitude":-89.52065,
+    "iso:country":"US",
+    "sg:address":"2169 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1530",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JZ6jiZurXzhvMwePUh95U_34.351347_-89.520650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127676,
+    "wof:geomhash":"90aac624e5b4a21ecac48134b6189705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857358877
+        }
+    ],
+    "wof:id":857358877,
+    "wof:lastmodified":1464127676,
+    "wof:name":"Lovelace Michael H MD",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.52065,
+    34.351347,
+    -89.52065,
+    34.351347
+],
+  "geometry": {"coordinates":[-89.52065,34.351347],"type":"Point"}
+}

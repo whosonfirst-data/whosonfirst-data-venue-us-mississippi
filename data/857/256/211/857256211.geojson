@@ -1,0 +1,73 @@
+{
+  "id": 857256211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706928,34.312553,-88.706928,34.312553",
+    "geom:latitude":34.312553,
+    "geom:longitude":-88.706928,
+    "iso:country":"US",
+    "sg:address":"3869 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 5851",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nKvKotaQRvS4wF8xv0jkh_34.312553_-88.706928@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125410,
+    "wof:geomhash":"6d31ac34d39557e1dbedea41168c15e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857256211
+        }
+    ],
+    "wof:id":857256211,
+    "wof:lastmodified":1464125410,
+    "wof:name":"Rex TV & Appliances",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -88.706928,
+    34.312553,
+    -88.706928,
+    34.312553
+],
+  "geometry": {"coordinates":[-88.706928,34.312553],"type":"Point"}
+}

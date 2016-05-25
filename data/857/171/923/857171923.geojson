@@ -1,0 +1,71 @@
+{
+  "id": 857171923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.532655,30.343368,-88.532655,30.343368",
+    "geom:latitude":30.343368,
+    "geom:longitude":-88.532655,
+    "iso:country":"US",
+    "sg:address":"2911 Beach Blvd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1076",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JTW5Ehj15jkoJhj9EMjKN_30.343368_-88.532655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123623,
+    "wof:geomhash":"4efda75b5640703a8f2bdb7f76837423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857171923
+        }
+    ],
+    "wof:id":857171923,
+    "wof:lastmodified":1464123623,
+    "wof:name":"Richard Whitlock Dr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.532655,
+    30.343368,
+    -88.532655,
+    30.343368
+],
+  "geometry": {"coordinates":[-88.53265500000001,30.343368],"type":"Point"}
+}

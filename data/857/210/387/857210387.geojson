@@ -1,0 +1,75 @@
+{
+  "id": 857210387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.440075,33.618581,-88.440075,33.618581",
+    "geom:latitude":33.618581,
+    "geom:longitude":-88.440075,
+    "iso:country":"US",
+    "sg:address":"1057 Land Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 8677",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MjxCWhjiBgfwO2jhn0x9v_33.618581_-88.440075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124396,
+    "wof:geomhash":"6327d329c745e6c453b9ac304166d9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857210387
+        }
+    ],
+    "wof:id":857210387,
+    "wof:lastmodified":1464124396,
+    "wof:name":"Pop & Kid Trucking LLC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.440075,
+    33.618581,
+    -88.440075,
+    33.618581
+],
+  "geometry": {"coordinates":[-88.44007499999999,33.618581],"type":"Point"}
+}

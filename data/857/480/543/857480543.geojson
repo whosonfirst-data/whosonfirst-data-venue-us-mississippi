@@ -1,0 +1,74 @@
+{
+  "id": 857480543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.550986,34.366408,-89.550986,34.366408",
+    "geom:latitude":34.366408,
+    "geom:longitude":-89.550986,
+    "iso:country":"US",
+    "sg:address":"1506 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/oxford/80944-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8648",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ndllll7b0YUpeBgMNlyyY_34.366408_-89.550986@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130379,
+    "wof:geomhash":"43f15bb7b52dd2cdb3eff626db1f6bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480543
+        }
+    ],
+    "wof:id":857480543,
+    "wof:lastmodified":1464130379,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.550986,
+    34.366408,
+    -89.550986,
+    34.366408
+],
+  "geometry": {"coordinates":[-89.55098599999999,34.366408],"type":"Point"}
+}

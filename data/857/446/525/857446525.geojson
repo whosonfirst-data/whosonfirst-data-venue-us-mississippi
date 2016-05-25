@@ -1,0 +1,71 @@
+{
+  "id": 857446525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547335,30.354914,-88.547335,30.354914",
+    "geom:latitude":30.354914,
+    "geom:longitude":-88.547335,
+    "iso:country":"US",
+    "sg:address":"1611 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1197",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gbFeqrHpLgJnTc9c0zIij_30.354914_-88.547335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129691,
+    "wof:geomhash":"3043058ee8a5c1816aa7fd08b798b00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857446525
+        }
+    ],
+    "wof:id":857446525,
+    "wof:lastmodified":1464129691,
+    "wof:name":"Southern Photography",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -88.547335,
+    30.354914,
+    -88.547335,
+    30.354914
+],
+  "geometry": {"coordinates":[-88.547335,30.354914],"type":"Point"}
+}

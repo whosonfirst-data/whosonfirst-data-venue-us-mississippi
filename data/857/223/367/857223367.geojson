@@ -1,0 +1,73 @@
+{
+  "id": 857223367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437559,33.533411,-88.437559,33.533411",
+    "geom:latitude":33.533411,
+    "geom:longitude":-88.437559,
+    "iso:country":"US",
+    "sg:address":"2315 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2674",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paint",
+        "wallpaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EROcLbjl4wHYgRU4PtrdI_33.533411_-88.437559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124681,
+    "wof:geomhash":"5205b00abb20a53a20719a866f817f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857223367
+        }
+    ],
+    "wof:id":857223367,
+    "wof:lastmodified":1464124681,
+    "wof:name":"Paint Store Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper"
+    ]
+},
+  "bbox": [
+    -88.437559,
+    33.533411,
+    -88.437559,
+    33.533411
+],
+  "geometry": {"coordinates":[-88.43755899999999,33.533411],"type":"Point"}
+}

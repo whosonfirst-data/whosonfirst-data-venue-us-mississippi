@@ -1,0 +1,73 @@
+{
+  "id": 857412591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.570381,34.204804,-90.570381,34.204804",
+    "geom:latitude":34.204804,
+    "geom:longitude":-90.570381,
+    "iso:country":"US",
+    "sg:address":"112 Leflore Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2281",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25FtZe1Hc56WuRHw3ZdRQk_34.204804_-90.570381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128915,
+    "wof:geomhash":"ae4e52e0d4c3818966c8188df9113651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857412591
+        }
+    ],
+    "wof:id":857412591,
+    "wof:lastmodified":1464128915,
+    "wof:name":"WMJW",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -90.570381,
+    34.204804,
+    -90.570381,
+    34.204804
+],
+  "geometry": {"coordinates":[-90.570381,34.204804],"type":"Point"}
+}

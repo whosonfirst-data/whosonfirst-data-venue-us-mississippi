@@ -1,0 +1,71 @@
+{
+  "id": 857465113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.5494,30.401825,-88.5494,30.401825",
+    "geom:latitude":30.401825,
+    "geom:longitude":-88.5494,
+    "iso:country":"US",
+    "sg:address":"3618 Devonshire Dr",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 6082",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kAGGl1gup5bXFOUJSpf03_30.401825_-88.549400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130068,
+    "wof:geomhash":"462045f005744442767cc8584b19288f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857465113
+        }
+    ],
+    "wof:id":857465113,
+    "wof:lastmodified":1464130068,
+    "wof:name":"Jans Beauty Salon Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.5494,
+    30.401825,
+    -88.5494,
+    30.401825
+],
+  "geometry": {"coordinates":[-88.54940000000001,30.401825],"type":"Point"}
+}

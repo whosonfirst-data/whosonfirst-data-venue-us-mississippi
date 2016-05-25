@@ -1,0 +1,71 @@
+{
+  "id": 857486549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559158,34.203991,-90.559158,34.203991",
+    "geom:latitude":34.203991,
+    "geom:longitude":-90.559158,
+    "iso:country":"US",
+    "sg:address":"1401 Lyon Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3810",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mBBDoXM3ncden0dZNWFCp_34.203991_-90.559158@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130495,
+    "wof:geomhash":"720a991373fa58c08a16f04a9164b7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857486549
+        }
+    ],
+    "wof:id":857486549,
+    "wof:lastmodified":1464130495,
+    "wof:name":"King's Temple Childrens Ministry",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.559158,
+    34.203991,
+    -90.559158,
+    34.203991
+],
+  "geometry": {"coordinates":[-90.559158,34.203991],"type":"Point"}
+}

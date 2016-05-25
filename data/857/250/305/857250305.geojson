@@ -1,0 +1,71 @@
+{
+  "id": 857250305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.206278,30.343217,-89.206278,30.343217",
+    "geom:latitude":30.343217,
+    "geom:longitude":-89.206278,
+    "iso:country":"US",
+    "sg:address":"1052 Demourelle Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 7459",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EFkIX5Fh33chTaxVgHd9j_30.343217_-89.206278@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125250,
+    "wof:geomhash":"b7abdfaf5751afae72ea26fe170a1a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857250305
+        }
+    ],
+    "wof:id":857250305,
+    "wof:lastmodified":1464125250,
+    "wof:name":"Sandra C St Pierre",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -89.206278,
+    30.343217,
+    -89.206278,
+    30.343217
+],
+  "geometry": {"coordinates":[-89.206278,30.343217],"type":"Point"}
+}

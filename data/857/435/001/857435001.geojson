@@ -1,0 +1,73 @@
+{
+  "id": 857435001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.558737,30.368284,-88.558737,30.368284",
+    "geom:latitude":30.368284,
+    "geom:longitude":-88.558737,
+    "iso:country":"US",
+    "sg:address":"507 Krebs Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 8277",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a2yaMfRn8jcnix0HzpkpV_30.368284_-88.558737@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129467,
+    "wof:geomhash":"f674cbfc6a12016106cc2bbf788e9e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857435001
+        }
+    ],
+    "wof:id":857435001,
+    "wof:lastmodified":1464129467,
+    "wof:name":"Coastal General Contracting",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.558737,
+    30.368284,
+    -88.558737,
+    30.368284
+],
+  "geometry": {"coordinates":[-88.55873699999999,30.368284],"type":"Point"}
+}

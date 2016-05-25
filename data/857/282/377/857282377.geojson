@@ -1,0 +1,73 @@
+{
+  "id": 857282377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772765,34.246187,-88.772765,34.246187",
+    "geom:latitude":34.246187,
+    "geom:longitude":-88.772765,
+    "iso:country":"US",
+    "sg:address":"5335 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 1900",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kb86km9kYCV07mvK8aLRr_34.246187_-88.772765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125970,
+    "wof:geomhash":"113b9dfba9dcf28a6c7672e260760aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857282377
+        }
+    ],
+    "wof:id":857282377,
+    "wof:lastmodified":1464125970,
+    "wof:name":"Tupelo Massage Therapy",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -88.772765,
+    34.246187,
+    -88.772765,
+    34.246187
+],
+  "geometry": {"coordinates":[-88.77276500000001,34.246187],"type":"Point"}
+}

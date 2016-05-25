@@ -1,0 +1,73 @@
+{
+  "id": 857223565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686767,34.257393,-88.686767,34.257393",
+    "geom:latitude":34.257393,
+    "geom:longitude":-88.686767,
+    "iso:country":"US",
+    "sg:address":"768 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5266",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yVzTbc4NIfh6DZqwlPbZy_34.257393_-88.686767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124685,
+    "wof:geomhash":"f3f528cff8f9c3625ea8349dd01c42cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857223565
+        }
+    ],
+    "wof:id":857223565,
+    "wof:lastmodified":1464124685,
+    "wof:name":"All Star Cleaners",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -88.686767,
+    34.257393,
+    -88.686767,
+    34.257393
+],
+  "geometry": {"coordinates":[-88.686767,34.257393],"type":"Point"}
+}

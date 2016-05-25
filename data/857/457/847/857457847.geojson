@@ -1,0 +1,73 @@
+{
+  "id": 857457847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659125,33.604318,-88.659125,33.604318",
+    "geom:latitude":33.604318,
+    "geom:longitude":-88.659125,
+    "iso:country":"US",
+    "sg:address":"301 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9550",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hD4oRiW7InJeuCxwMBWA3_33.604318_-88.659125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129914,
+    "wof:geomhash":"2b8942b6b843b59ec2c331d85df35a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857457847
+        }
+    ],
+    "wof:id":857457847,
+    "wof:lastmodified":1464129914,
+    "wof:name":"Tax Pro USA",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -88.659125,
+    33.604318,
+    -88.659125,
+    33.604318
+],
+  "geometry": {"coordinates":[-88.659125,33.604318],"type":"Point"}
+}

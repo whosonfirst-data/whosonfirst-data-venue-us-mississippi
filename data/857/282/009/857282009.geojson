@@ -1,0 +1,73 @@
+{
+  "id": 857282009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.84217,32.340739,-90.84217,32.340739",
+    "geom:latitude":32.340739,
+    "geom:longitude":-90.84217,
+    "iso:country":"US",
+    "sg:address":"4000 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 7778",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "factory",
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cWvHqfWJSkwpVSEAeCOP4_32.340739_-90.842170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125963,
+    "wof:geomhash":"99a4e6f7d4f9f59347a49184df7be233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857282009
+        }
+    ],
+    "wof:id":857282009,
+    "wof:lastmodified":1464125963,
+    "wof:name":"Casual Corner Outlet",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factory",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -90.84217,
+    32.340739,
+    -90.84217,
+    32.340739
+],
+  "geometry": {"coordinates":[-90.84217,32.340739],"type":"Point"}
+}

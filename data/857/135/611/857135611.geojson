@@ -1,0 +1,71 @@
+{
+  "id": 857135611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652016,33.607031,-88.652016,33.607031",
+    "geom:latitude":33.607031,
+    "geom:longitude":-88.652016,
+    "iso:country":"US",
+    "sg:address":"206 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 3311",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NpeNDAP8xap4GRJ6zAzXx_33.607031_-88.652016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122795,
+    "wof:geomhash":"ca70732686b752967ba1f7499c3f8edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857135611
+        }
+    ],
+    "wof:id":857135611,
+    "wof:lastmodified":1464122795,
+    "wof:name":"Lambert Law Office",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.652016,
+    33.607031,
+    -88.652016,
+    33.607031
+],
+  "geometry": {"coordinates":[-88.652016,33.607031],"type":"Point"}
+}

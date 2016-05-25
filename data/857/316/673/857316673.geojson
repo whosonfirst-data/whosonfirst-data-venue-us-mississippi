@@ -1,0 +1,73 @@
+{
+  "id": 857316673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.523249,32.49266,-88.523249,32.49266",
+    "geom:latitude":32.49266,
+    "geom:longitude":-88.523249,
+    "iso:country":"US",
+    "sg:address":"9097 Lake Flora Dr",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 632 7667",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EOIcQQUOwekBHpbgNdpGo_32.492660_-88.523249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126758,
+    "wof:geomhash":"52b581660d2f95821babf9779ad20f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857316673
+        }
+    ],
+    "wof:id":857316673,
+    "wof:lastmodified":1464126758,
+    "wof:name":"Dalewood Sewer District",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.523249,
+    32.49266,
+    -88.523249,
+    32.49266
+],
+  "geometry": {"coordinates":[-88.52324900000001,32.49266],"type":"Point"}
+}

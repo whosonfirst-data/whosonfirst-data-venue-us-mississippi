@@ -1,0 +1,73 @@
+{
+  "id": 857423695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518761,34.366587,-89.518761,34.366587",
+    "geom:latitude":34.366587,
+    "geom:longitude":-89.518761,
+    "iso:country":"US",
+    "sg:address":"130 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 0098",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AmvW9yqsutMbQoiFGglL2_34.366587_-89.518761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129183,
+    "wof:geomhash":"d3b6cec64855f69f5d7226a356d56666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857423695
+        }
+    ],
+    "wof:id":857423695,
+    "wof:lastmodified":1464129183,
+    "wof:name":"Tracker Title",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -89.518761,
+    34.366587,
+    -89.518761,
+    34.366587
+],
+  "geometry": {"coordinates":[-89.518761,34.366587],"type":"Point"}
+}

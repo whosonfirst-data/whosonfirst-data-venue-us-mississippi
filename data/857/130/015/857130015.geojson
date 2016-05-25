@@ -1,0 +1,75 @@
+{
+  "id": 857130015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.659585,34.284217,-89.659585,34.284217",
+    "geom:latitude":34.284217,
+    "geom:longitude":-89.659585,
+    "iso:country":"US",
+    "sg:address":"183 Co Rd 340",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9420",
+    "sg:postcode":"38673",
+    "sg:province":"MS",
+    "sg:tags":[
+        "picture",
+        "framing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_575i2s1AUNznRmDOM7J3yQ_34.284217_-89.659585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122682,
+    "wof:geomhash":"d07f8127a77329f6ab49d4a5e754a9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857130015
+        }
+    ],
+    "wof:id":857130015,
+    "wof:lastmodified":1464122682,
+    "wof:name":"Bishop Art Gallery",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "framing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -89.659585,
+    34.284217,
+    -89.659585,
+    34.284217
+],
+  "geometry": {"coordinates":[-89.65958500000001,34.284217],"type":"Point"}
+}

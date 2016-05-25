@@ -1,0 +1,72 @@
+{
+  "id": 857282977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158687,32.253244,-90.158687,32.253244",
+    "geom:latitude":32.253244,
+    "geom:longitude":-90.158687,
+    "iso:country":"US",
+    "sg:address":"125 Interstate Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 2161",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.servicetransport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lRGHJpbqAa6NNnGOg0yZ6_32.253244_-90.158687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125981,
+    "wof:geomhash":"87e02a2cb755c0fdf155614f8be788d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857282977
+        }
+    ],
+    "wof:id":857282977,
+    "wof:lastmodified":1464125981,
+    "wof:name":"Service Transport Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.158687,
+    32.253244,
+    -90.158687,
+    32.253244
+],
+  "geometry": {"coordinates":[-90.158687,32.253244],"type":"Point"}
+}

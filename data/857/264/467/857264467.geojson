@@ -1,0 +1,73 @@
+{
+  "id": 857264467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698996,32.364403,-88.698996,32.364403",
+    "geom:latitude":32.364403,
+    "geom:longitude":-88.698996,
+    "iso:country":"US",
+    "sg:address":"2121 5th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 9300",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bfSkVVliO8OtTHpONJPaL_32.364403_-88.698996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125583,
+    "wof:geomhash":"8280338e5f0052368898bb764871e08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857264467
+        }
+    ],
+    "wof:id":857264467,
+    "wof:lastmodified":1464125583,
+    "wof:name":"Rehabilicare Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.698996,
+    32.364403,
+    -88.698996,
+    32.364403
+],
+  "geometry": {"coordinates":[-88.69899599999999,32.364403],"type":"Point"}
+}

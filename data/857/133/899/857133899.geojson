@@ -1,0 +1,71 @@
+{
+  "id": 857133899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.515222,34.347228,-89.515222,34.347228",
+    "geom:latitude":34.347228,
+    "geom:longitude":-89.515222,
+    "iso:country":"US",
+    "sg:address":"1303 Belk Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8311",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YC3gllFh1Ap7IMUfHD59X_34.347228_-89.515222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122762,
+    "wof:geomhash":"82d519c789ba535fad6390c383f019ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857133899
+        }
+    ],
+    "wof:id":857133899,
+    "wof:lastmodified":1464122762,
+    "wof:name":"Graceland Care Center Oxford",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -89.515222,
+    34.347228,
+    -89.515222,
+    34.347228
+],
+  "geometry": {"coordinates":[-89.51522199999999,34.347228],"type":"Point"}
+}

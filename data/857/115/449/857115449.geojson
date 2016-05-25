@@ -1,0 +1,71 @@
+{
+  "id": 857115449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.205701,31.382473,-89.205701,31.382473",
+    "geom:latitude":31.382473,
+    "geom:longitude":-89.205701,
+    "iso:country":"US",
+    "sg:address":"2239 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9718",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1grjnegqTxbkfFHwvs1gqa_31.382473_-89.205701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122325,
+    "wof:geomhash":"42da8c64b5b7309647544df67e565e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857115449
+        }
+    ],
+    "wof:id":857115449,
+    "wof:lastmodified":1464122325,
+    "wof:name":"Barrontown Grocery Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.205701,
+    31.382473,
+    -89.205701,
+    31.382473
+],
+  "geometry": {"coordinates":[-89.205701,31.382473],"type":"Point"}
+}

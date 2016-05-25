@@ -1,0 +1,71 @@
+{
+  "id": 857292955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.862663,32.31492,-90.862663,32.31492",
+    "geom:latitude":32.31492,
+    "geom:longitude":-90.862663,
+    "iso:country":"US",
+    "sg:address":"3446 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 0024",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ip3apms0g5OnRk0UjMUbM_32.314920_-90.862663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126221,
+    "wof:geomhash":"3024b00417bbd68f967ff2c8e16b6891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857292955
+        }
+    ],
+    "wof:id":857292955,
+    "wof:lastmodified":1464126221,
+    "wof:name":"Crisis Residential Ctr",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.862663,
+    32.31492,
+    -90.862663,
+    32.31492
+],
+  "geometry": {"coordinates":[-90.862663,32.31492],"type":"Point"}
+}

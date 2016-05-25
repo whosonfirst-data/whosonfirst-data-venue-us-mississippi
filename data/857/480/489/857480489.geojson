@@ -1,0 +1,74 @@
+{
+  "id": 857480489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519689,34.366124,-89.519689,34.366124",
+    "geom:latitude":34.366124,
+    "geom:longitude":-89.519689,
+    "iso:country":"US",
+    "sg:address":"1112 Van Buren Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hickory-flat/157876-old-venice-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6872",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AQTmbwBN3qeFf2sAiu2wm_34.366124_-89.519689@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130378,
+    "wof:geomhash":"73cac9b8b64bded4dd6c31fc4201ccba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857480489
+        }
+    ],
+    "wof:id":857480489,
+    "wof:lastmodified":1464130378,
+    "wof:name":"Old Venice Pizza Company",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.519689,
+    34.366124,
+    -89.519689,
+    34.366124
+],
+  "geometry": {"coordinates":[-89.519689,34.366124],"type":"Point"}
+}

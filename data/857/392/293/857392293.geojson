@@ -1,0 +1,73 @@
+{
+  "id": 857392293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.272892,31.39753,-89.272892,31.39753",
+    "geom:latitude":31.39753,
+    "geom:longitude":-89.272892,
+    "iso:country":"US",
+    "sg:address":"1701 US Hwy 11",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6241",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QveqYJDNwmjrKoqxJsm2Y_31.397530_-89.272892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128471,
+    "wof:geomhash":"2d2ef01e7f045bd15c70d9517ba05d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857392293
+        }
+    ],
+    "wof:id":857392293,
+    "wof:lastmodified":1464128471,
+    "wof:name":"Patterson Auto Electric",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -89.272892,
+    31.39753,
+    -89.272892,
+    31.39753
+],
+  "geometry": {"coordinates":[-89.272892,31.39753],"type":"Point"}
+}

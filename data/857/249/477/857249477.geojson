@@ -1,0 +1,75 @@
+{
+  "id": 857249477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.112143,34.559881,-89.112143,34.559881",
+    "geom:latitude":34.559881,
+    "geom:longitude":-89.112143,
+    "iso:country":"US",
+    "sg:address":"1005 Ellis St",
+    "sg:city":"Myrtle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 988 2383",
+    "sg:postcode":"38650",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nsMp8ACYZ5FOWJWGSe3NW_34.559881_-89.112143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125231,
+    "wof:geomhash":"f0a874d28764706240dd149d0ab24656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857249477
+        }
+    ],
+    "wof:id":857249477,
+    "wof:lastmodified":1464125231,
+    "wof:name":"Myrtle Grove LTD",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.112143,
+    34.559881,
+    -89.112143,
+    34.559881
+],
+  "geometry": {"coordinates":[-89.112143,34.559881],"type":"Point"}
+}

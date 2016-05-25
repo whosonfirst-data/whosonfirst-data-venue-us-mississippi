@@ -1,0 +1,69 @@
+{
+  "id": 857102115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.457361,31.2125,-89.457361,31.2125",
+    "geom:latitude":31.2125,
+    "geom:longitude":-89.457361,
+    "iso:country":"US",
+    "sg:address":"153 Cooper Rd",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 8769",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LStEMuEPNRfq5g0s0eVw8_31.212500_-89.457361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121963,
+    "wof:geomhash":"3a3a449ffc9e57d188088ebd614afd69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857102115
+        }
+    ],
+    "wof:id":857102115,
+    "wof:lastmodified":1464121963,
+    "wof:name":"Ricky L Chambliss",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.457361,
+    31.2125,
+    -89.457361,
+    31.2125
+],
+  "geometry": {"coordinates":[-89.45736100000001,31.2125],"type":"Point"}
+}

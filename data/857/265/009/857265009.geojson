@@ -1,0 +1,71 @@
+{
+  "id": 857265009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.866917,32.319041,-90.866917,32.319041",
+    "geom:latitude":32.319041,
+    "geom:longitude":-90.866917,
+    "iso:country":"US",
+    "sg:address":"3508 Manor Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 6123",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x3uFJBbKOTKKXGP2kpYAm_32.319041_-90.866917@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125593,
+    "wof:geomhash":"9ba35e2e7c16d47928733bbf2d940875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857265009
+        }
+    ],
+    "wof:id":857265009,
+    "wof:lastmodified":1464125593,
+    "wof:name":"A Shear Delite Styling Center",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.866917,
+    32.319041,
+    -90.866917,
+    32.319041
+],
+  "geometry": {"coordinates":[-90.866917,32.319041],"type":"Point"}
+}

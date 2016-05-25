@@ -1,0 +1,71 @@
+{
+  "id": 857156545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702713,32.375115,-88.702713,32.375115",
+    "geom:latitude":32.375115,
+    "geom:longitude":-88.702713,
+    "iso:country":"US",
+    "sg:address":"1725 24th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 9933",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WCyHSJ32rrKwBhj2xDGJz_32.375115_-88.702713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123276,
+    "wof:geomhash":"b7a17658f44727c58964196bc9bb1a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857156545
+        }
+    ],
+    "wof:id":857156545,
+    "wof:lastmodified":1464123276,
+    "wof:name":"Middlebrook & Co",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.702713,
+    32.375115,
+    -88.702713,
+    32.375115
+],
+  "geometry": {"coordinates":[-88.702713,32.375115],"type":"Point"}
+}

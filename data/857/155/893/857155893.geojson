@@ -1,0 +1,73 @@
+{
+  "id": 857155893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.071959,32.42962,-90.071959,32.42962",
+    "geom:latitude":32.42962,
+    "geom:longitude":-90.071959,
+    "iso:country":"US",
+    "sg:address":"1 Roses Bluff Pkwy",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 7074",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0agcO2NZRdp8yGM2RMkDS7_32.429620_-90.071959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123264,
+    "wof:geomhash":"52e0df26c50218347010860d95cc2d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857155893
+        }
+    ],
+    "wof:id":857155893,
+    "wof:lastmodified":1464123264,
+    "wof:name":"H Dale Matthias MD",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.071959,
+    32.42962,
+    -90.071959,
+    32.42962
+],
+  "geometry": {"coordinates":[-90.07195900000001,32.42962],"type":"Point"}
+}

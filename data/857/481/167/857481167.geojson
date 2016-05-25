@@ -1,0 +1,78 @@
+{
+  "id": 857481167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.491063,33.991509,-88.491063,33.991509",
+    "geom:latitude":33.991509,
+    "geom:longitude":-88.491063,
+    "iso:country":"US",
+    "sg:address":"700a Main St N",
+    "sg:city":"Amory",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/wise-gap/76272-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 257 0830",
+    "sg:postcode":"38821",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969843,
+        102083163,
+        85811897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_265ey59aBUM7ruI1a1aKmF_33.991509_-88.491063@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130391,
+    "wof:geomhash":"9a69fa855438dafe0b47cd1cb2e5bb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969843,
+            "neighbourhood_id":85811897,
+            "region_id":85688579,
+            "venue_id":857481167
+        }
+    ],
+    "wof:id":857481167,
+    "wof:lastmodified":1464130391,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85811897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.491063,
+    33.991509,
+    -88.491063,
+    33.991509
+],
+  "geometry": {"coordinates":[-88.491063,33.991509],"type":"Point"}
+}

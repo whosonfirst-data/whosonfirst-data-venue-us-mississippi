@@ -1,0 +1,71 @@
+{
+  "id": 857137931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.727652,34.239717,-88.727652,34.239717",
+    "geom:latitude":34.239717,
+    "geom:longitude":-88.727652,
+    "iso:country":"US",
+    "sg:address":"1000 Coolidge St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8272",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wcpKZZ2nhf6cxL8zqZdzC_34.239717_-88.727652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122848,
+    "wof:geomhash":"4b71e405e64ec5b415be99ed695c36ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857137931
+        }
+    ],
+    "wof:id":857137931,
+    "wof:lastmodified":1464122848,
+    "wof:name":"Broadway Beauty Salon",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.727652,
+    34.239717,
+    -88.727652,
+    34.239717
+],
+  "geometry": {"coordinates":[-88.72765200000001,34.239717],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857245007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.726363,34.235468,-88.726363,34.235468",
+    "geom:latitude":34.235468,
+    "geom:longitude":-88.726363,
+    "iso:country":"US",
+    "sg:address":"2012 Fillmore Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8850",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aksGj2hgSpgHbjSwBPM4k_34.235468_-88.726363@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125132,
+    "wof:geomhash":"7b25ef58158dc7f85ecc047627fbfcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857245007
+        }
+    ],
+    "wof:id":857245007,
+    "wof:lastmodified":1464125132,
+    "wof:name":"Reinicke Corp",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.726363,
+    34.235468,
+    -88.726363,
+    34.235468
+],
+  "geometry": {"coordinates":[-88.72636300000001,34.235468],"type":"Point"}
+}

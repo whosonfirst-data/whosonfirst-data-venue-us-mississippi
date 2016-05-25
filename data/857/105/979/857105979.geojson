@@ -1,0 +1,73 @@
+{
+  "id": 857105979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301349,31.341596,-89.301349,31.341596",
+    "geom:latitude":31.341596,
+    "geom:longitude":-89.301349,
+    "iso:country":"US",
+    "sg:address":"105 Redus St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0384",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AwKiaD94T1dsYZlg0HVew_31.341596_-89.301349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122048,
+    "wof:geomhash":"bb8a00cf7ab2ced90d9d0e29cbae66bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857105979
+        }
+    ],
+    "wof:id":857105979,
+    "wof:lastmodified":1464122048,
+    "wof:name":"Blount's Towing Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.301349,
+    31.341596,
+    -89.301349,
+    31.341596
+],
+  "geometry": {"coordinates":[-89.301349,31.341596],"type":"Point"}
+}

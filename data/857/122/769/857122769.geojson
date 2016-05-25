@@ -1,0 +1,73 @@
+{
+  "id": 857122769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.76594,30.388775,-88.76594,30.388775",
+    "geom:latitude":30.388775,
+    "geom:longitude":-88.76594,
+    "iso:country":"US",
+    "sg:address":"3208 N 1st St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1718",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTJQKvHHcqCeiBlg8Bjwp_30.388775_-88.765940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122522,
+    "wof:geomhash":"49478ae52babafb7c6e298245643341e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857122769
+        }
+    ],
+    "wof:id":857122769,
+    "wof:lastmodified":1464122522,
+    "wof:name":"Guagliardo Tile",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.76594,
+    30.388775,
+    -88.76594,
+    30.388775
+],
+  "geometry": {"coordinates":[-88.76594,30.388775],"type":"Point"}
+}

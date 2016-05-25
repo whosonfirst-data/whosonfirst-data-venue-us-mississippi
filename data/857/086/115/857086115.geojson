@@ -1,0 +1,86 @@
+{
+  "id": 857086115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.306489,30.388023,-89.306489,30.388023",
+    "geom:latitude":30.388023,
+    "geom:longitude":-89.306489,
+    "iso:country":"US",
+    "sg:address":"7635 Kiln Delisle Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 255 6661",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plate",
+        "industrial",
+        "mfg",
+        "gas",
+        "fabricated",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qfoLfVj81vTTz4HAXlb3T_30.388023_-89.306489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121564,
+    "wof:geomhash":"54aff62621b7446efd00e9cd4aabfbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857086115
+        }
+    ],
+    "wof:id":857086115,
+    "wof:lastmodified":1464121564,
+    "wof:name":"M G Industries",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "industrial",
+        "mfg",
+        "gas",
+        "fabricated",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -89.306489,
+    30.388023,
+    -89.306489,
+    30.388023
+],
+  "geometry": {"coordinates":[-89.306489,30.388023],"type":"Point"}
+}

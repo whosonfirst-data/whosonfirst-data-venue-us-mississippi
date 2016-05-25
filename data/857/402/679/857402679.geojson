@@ -1,0 +1,73 @@
+{
+  "id": 857402679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.825052,34.271703,-88.825052,34.271703",
+    "geom:latitude":34.271703,
+    "geom:longitude":-88.825052,
+    "iso:country":"US",
+    "sg:address":"135 Co Rd 1350",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9011",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f68tyjIIpLptmx3TSM4CX_34.271703_-88.825052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128678,
+    "wof:geomhash":"641b3d830ad77510270d91a681bbfb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857402679
+        }
+    ],
+    "wof:id":857402679,
+    "wof:lastmodified":1464128678,
+    "wof:name":"Julio's Tire Svc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.825052,
+    34.271703,
+    -88.825052,
+    34.271703
+],
+  "geometry": {"coordinates":[-88.825052,34.271703],"type":"Point"}
+}

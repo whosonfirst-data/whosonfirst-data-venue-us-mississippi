@@ -1,0 +1,82 @@
+{
+  "id": 857093021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548441,30.362869,-88.548441,30.362869",
+    "geom:latitude":30.362869,
+    "geom:longitude":-88.548441,
+    "iso:country":"US",
+    "sg:address":"2818 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 8266",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon",
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21NIwX4J9HSB3R4pp3flQ0_30.362869_-88.548441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121752,
+    "wof:geomhash":"ef2827c371f502f656a681442f17b6e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857093021
+        }
+    ],
+    "wof:id":857093021,
+    "wof:lastmodified":1464121752,
+    "wof:name":"Sunkissed Tanning Salon Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -88.548441,
+    30.362869,
+    -88.548441,
+    30.362869
+],
+  "geometry": {"coordinates":[-88.548441,30.362869],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857486149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.270721,31.34669,-89.270721,31.34669",
+    "geom:latitude":31.34669,
+    "geom:longitude":-89.270721,
+    "iso:country":"US",
+    "sg:address":"307 W Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/13154-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7311",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BHrVf8jxwCY4bhq2JwBJ7_31.346541_-89.271269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130487,
+    "wof:geomhash":"67a9ec2985b68e1c683b3f558dcabec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857486149
+        }
+    ],
+    "wof:id":857486149,
+    "wof:lastmodified":1464130487,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -89.270721,
+    31.34669,
+    -89.270721,
+    31.34669
+],
+  "geometry": {"coordinates":[-89.27072099999999,31.34669],"type":"Point"}
+}

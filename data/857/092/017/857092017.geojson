@@ -1,0 +1,68 @@
+{
+  "id": 857092017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.894185,30.44103,-88.894185,30.44103",
+    "geom:latitude":30.44103,
+    "geom:longitude":-88.894185,
+    "iso:country":"US",
+    "sg:address":"10405 Seymour Ave",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 2192",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zaGyDuZQNCoi3ifCZUWaG_30.441030_-88.894185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121732,
+    "wof:geomhash":"655220accca2020330e42e2e3016a242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857092017
+        }
+    ],
+    "wof:id":857092017,
+    "wof:lastmodified":1464121732,
+    "wof:name":"Always & Forever Florist",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.894185,
+    30.44103,
+    -88.894185,
+    30.44103
+],
+  "geometry": {"coordinates":[-88.89418499999999,30.44103],"type":"Point"}
+}

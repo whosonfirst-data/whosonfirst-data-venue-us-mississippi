@@ -1,0 +1,73 @@
+{
+  "id": 857348011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.250146,30.314545,-89.250146,30.314545",
+    "geom:latitude":30.314545,
+    "geom:longitude":-89.250146,
+    "iso:country":"US",
+    "sg:address":"118 Hiern Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9804",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bait",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zpleNuMiJD1lYzRh5j7NI_30.314545_-89.250146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127440,
+    "wof:geomhash":"a9f6c87df8202045b30d5dd94f704fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857348011
+        }
+    ],
+    "wof:id":857348011,
+    "wof:lastmodified":1464127440,
+    "wof:name":"Pass Bait Shop",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bait",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -89.250146,
+    30.314545,
+    -89.250146,
+    30.314545
+],
+  "geometry": {"coordinates":[-89.250146,30.314545],"type":"Point"}
+}

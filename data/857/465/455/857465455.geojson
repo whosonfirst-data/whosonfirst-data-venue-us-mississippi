@@ -1,0 +1,71 @@
+{
+  "id": 857465455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.316822,32.252136,-90.316822,32.252136",
+    "geom:latitude":32.252136,
+    "geom:longitude":-90.316822,
+    "iso:country":"US",
+    "sg:address":"105 Western Hills Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 372 9721",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N6AvHmToyfPxmQooDSL7i_32.252136_-90.316822@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130078,
+    "wof:geomhash":"e51ef35f90351410252cf60eacebb366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857465455
+        }
+    ],
+    "wof:id":857465455,
+    "wof:lastmodified":1464130078,
+    "wof:name":"Church Of God Of Prophecy",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.316822,
+    32.252136,
+    -90.316822,
+    32.252136
+],
+  "geometry": {"coordinates":[-90.316822,32.252136],"type":"Point"}
+}

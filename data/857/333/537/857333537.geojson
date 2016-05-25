@@ -1,0 +1,71 @@
+{
+  "id": 857333537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.230421,31.384474,-89.230421,31.384474",
+    "geom:latitude":31.384474,
+    "geom:longitude":-89.230421,
+    "iso:country":"US",
+    "sg:address":"311 Kelly Rose Ln",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 7554",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a5lUiz9gixxq4ZiJYNDnv_31.384474_-89.230421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127134,
+    "wof:geomhash":"bc2e6991b26d5fb463367fcdbe4087f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857333537
+        }
+    ],
+    "wof:id":857333537,
+    "wof:lastmodified":1464127134,
+    "wof:name":"Four Seasons Air Conditioning",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.230421,
+    31.384474,
+    -89.230421,
+    31.384474
+],
+  "geometry": {"coordinates":[-89.23042100000001,31.384474],"type":"Point"}
+}

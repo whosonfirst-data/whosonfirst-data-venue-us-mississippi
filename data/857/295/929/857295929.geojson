@@ -1,0 +1,71 @@
+{
+  "id": 857295929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.477386,31.277737,-89.477386,31.277737",
+    "geom:latitude":31.277737,
+    "geom:longitude":-89.477386,
+    "iso:country":"US",
+    "sg:address":"1678 Old Hwy 24",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 7995",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I0ilT5x5RrKNT5gCalzyE_31.277737_-89.477386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126323,
+    "wof:geomhash":"886750f5fac171c250d866a79b9cccce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857295929
+        }
+    ],
+    "wof:id":857295929,
+    "wof:lastmodified":1464126323,
+    "wof:name":"Wayne Wilson Inc",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.477386,
+    31.277737,
+    -89.477386,
+    31.277737
+],
+  "geometry": {"coordinates":[-89.477386,31.277737],"type":"Point"}
+}

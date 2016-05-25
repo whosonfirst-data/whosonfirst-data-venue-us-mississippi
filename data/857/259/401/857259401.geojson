@@ -1,0 +1,71 @@
+{
+  "id": 857259401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.086413,33.55703,-89.086413,33.55703",
+    "geom:latitude":33.55703,
+    "geom:longitude":-89.086413,
+    "iso:country":"US",
+    "sg:address":"3999 Webster St",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 8168",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EVKCgmV41dWy2R9ggKhXI_33.557030_-89.086413@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125479,
+    "wof:geomhash":"9564261bdbf8b1b6d8d62471a5473610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857259401
+        }
+    ],
+    "wof:id":857259401,
+    "wof:lastmodified":1464125479,
+    "wof:name":"Maben United Methodist Church",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.086413,
+    33.55703,
+    -89.086413,
+    33.55703
+],
+  "geometry": {"coordinates":[-89.08641299999999,33.55703],"type":"Point"}
+}

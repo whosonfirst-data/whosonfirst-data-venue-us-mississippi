@@ -1,0 +1,68 @@
+{
+  "id": 857204171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.185688,32.321382,-90.185688,32.321382",
+    "geom:latitude":32.321382,
+    "geom:longitude":-90.185688,
+    "iso:country":"US",
+    "sg:address":"1817 Wightman St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 351 8000",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ZazrpIHFg9B7DnxLRaqQ_32.321382_-90.185688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124272,
+    "wof:geomhash":"77a6ccde1a9c53614e4e6f3fe0d3775d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857204171
+        }
+    ],
+    "wof:id":857204171,
+    "wof:lastmodified":1464124272,
+    "wof:name":"Whitfield State Hospital",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.185688,
+    32.321382,
+    -90.185688,
+    32.321382
+],
+  "geometry": {"coordinates":[-90.185688,32.321382],"type":"Point"}
+}

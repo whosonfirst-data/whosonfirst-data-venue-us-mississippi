@@ -1,0 +1,83 @@
+{
+  "id": 857274107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.139629,32.331601,-90.139629,32.331601",
+    "geom:latitude":32.331601,
+    "geom:longitude":-90.139629,
+    "iso:country":"US",
+    "sg:address":"1836 Crane Ridge Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 1118",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_325MFdEvOWlCT1wzXYkgmX_32.331601_-90.139629@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125772,
+    "wof:geomhash":"549efe648586c5b588bc11ac729d2c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857274107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857274107
+        }
+    ],
+    "wof:id":857274107,
+    "wof:lastmodified":1464125772,
+    "wof:name":"Crane Ridge Dental Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.139629,
+    32.331601,
+    -90.139629,
+    32.331601
+],
+  "geometry": {"coordinates":[-90.139629,32.331601],"type":"Point"}
+}

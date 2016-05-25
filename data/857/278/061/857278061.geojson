@@ -1,0 +1,71 @@
+{
+  "id": 857278061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518881,34.365303,-89.518881,34.365303",
+    "geom:latitude":34.365303,
+    "geom:longitude":-89.518881,
+    "iso:country":"US",
+    "sg:address":"301 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1332",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LyUCTfSkw2lU9evRrBKs8_34.365303_-89.518881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125870,
+    "wof:geomhash":"ae15ae66e8eaaf61cfcdbe1a2f796da1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857278061
+        }
+    ],
+    "wof:id":857278061,
+    "wof:lastmodified":1464125870,
+    "wof:name":"Horne CPA Group",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -89.518881,
+    34.365303,
+    -89.518881,
+    34.365303
+],
+  "geometry": {"coordinates":[-89.51888099999999,34.365303],"type":"Point"}
+}

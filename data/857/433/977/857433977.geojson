@@ -1,0 +1,73 @@
+{
+  "id": 857433977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.272804,31.347971,-89.272804,31.347971",
+    "geom:latitude":31.347971,
+    "geom:longitude":-89.272804,
+    "iso:country":"US",
+    "sg:address":"831 US Hwy 11",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8838",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lGKgePr5VV6wRw99DCk1U_31.347971_-89.272804@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129447,
+    "wof:geomhash":"73bd922f2b989c96cdc0ad30eed35f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857433977
+        }
+    ],
+    "wof:id":857433977,
+    "wof:lastmodified":1464129447,
+    "wof:name":"Petal Auto Parts Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -89.272804,
+    31.347971,
+    -89.272804,
+    31.347971
+],
+  "geometry": {"coordinates":[-89.27280399999999,31.347971],"type":"Point"}
+}

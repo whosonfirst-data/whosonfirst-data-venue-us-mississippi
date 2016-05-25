@@ -1,0 +1,71 @@
+{
+  "id": 857136005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.811131,34.909065,-89.811131,34.909065",
+    "geom:latitude":34.909065,
+    "geom:longitude":-89.811131,
+    "iso:country":"US",
+    "sg:address":"10098 Cypress Plantation Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 8067",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kcbq6eoZd2NzLr8dIW8Pg_34.909065_-89.811131@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122805,
+    "wof:geomhash":"4b44638f103b72ef2bd540b3fe9851b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857136005
+        }
+    ],
+    "wof:id":857136005,
+    "wof:lastmodified":1464122805,
+    "wof:name":"Burton Spiers Construction",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.811131,
+    34.909065,
+    -89.811131,
+    34.909065
+],
+  "geometry": {"coordinates":[-89.811131,34.909065],"type":"Point"}
+}

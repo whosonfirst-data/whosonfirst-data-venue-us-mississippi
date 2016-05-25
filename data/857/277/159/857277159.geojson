@@ -1,0 +1,71 @@
+{
+  "id": 857277159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.406678,33.562825,-88.406678,33.562825",
+    "geom:latitude":33.562825,
+    "geom:longitude":-88.406678,
+    "iso:country":"US",
+    "sg:address":"92 Sherwood Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5713",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RGLVeDtpAMjItnA9q6F20_33.562825_-88.406678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125848,
+    "wof:geomhash":"9ee5354f49576cadeab40e4e30a0bd38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857277159
+        }
+    ],
+    "wof:id":857277159,
+    "wof:lastmodified":1464125848,
+    "wof:name":"Kef Con Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -88.406678,
+    33.562825,
+    -88.406678,
+    33.562825
+],
+  "geometry": {"coordinates":[-88.406678,33.562825],"type":"Point"}
+}

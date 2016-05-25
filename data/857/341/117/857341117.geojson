@@ -1,0 +1,73 @@
+{
+  "id": 857341117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.145657,32.391295,-90.145657,32.391295",
+    "geom:latitude":32.391295,
+    "geom:longitude":-90.145657,
+    "iso:country":"US",
+    "sg:address":"6361 I- 55 N",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 991 1133",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85822959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_738tSMubw2yvYishuBrgm1_32.391295_-90.145657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127299,
+    "wof:geomhash":"1aed9fd01ac98be1fbeb6b6e85d8d9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85822959,
+            "region_id":85688579,
+            "venue_id":857341117
+        }
+    ],
+    "wof:id":857341117,
+    "wof:lastmodified":1464127299,
+    "wof:name":"Fred's Store",
+    "wof:parent_id":85822959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.145657,
+    32.391295,
+    -90.145657,
+    32.391295
+],
+  "geometry": {"coordinates":[-90.145657,32.391295],"type":"Point"}
+}

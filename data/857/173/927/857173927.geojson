@@ -1,0 +1,73 @@
+{
+  "id": 857173927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.564784,34.195808,-90.564784,34.195808",
+    "geom:latitude":34.195808,
+    "geom:longitude":-90.564784,
+    "iso:country":"US",
+    "sg:address":"803 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5488",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QkdlYv2xXhxxaDUYdPQc_34.195808_-90.564784@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123674,
+    "wof:geomhash":"62437fa7820b23d8ee83196dd825b8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857173927
+        }
+    ],
+    "wof:id":857173927,
+    "wof:lastmodified":1464123674,
+    "wof:name":"H Town Car Wash & Detail",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.564784,
+    34.195808,
+    -90.564784,
+    34.195808
+],
+  "geometry": {"coordinates":[-90.564784,34.195808],"type":"Point"}
+}

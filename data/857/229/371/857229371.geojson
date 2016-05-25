@@ -1,0 +1,71 @@
+{
+  "id": 857229371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.981384,31.945123,-90.981384,31.945123",
+    "geom:latitude":31.945123,
+    "geom:longitude":-90.981384,
+    "iso:country":"US",
+    "sg:address":"417 Mc Comb Ave",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 3199",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ycRexBxrmTHQmdMYc7rxb_31.945123_-90.981384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124796,
+    "wof:geomhash":"e7beed510521cf3be5ddef6254b14b70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857229371
+        }
+    ],
+    "wof:id":857229371,
+    "wof:lastmodified":1464124796,
+    "wof:name":"Windsor Arms",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.981384,
+    31.945123,
+    -90.981384,
+    31.945123
+],
+  "geometry": {"coordinates":[-90.98138400000001,31.945123],"type":"Point"}
+}

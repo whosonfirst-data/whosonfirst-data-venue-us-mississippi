@@ -1,0 +1,71 @@
+{
+  "id": 857112035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.800789,33.455539,-88.800789,33.455539",
+    "geom:latitude":33.455539,
+    "geom:longitude":-88.800789,
+    "iso:country":"US",
+    "sg:address":"418 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 6003",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G47lHAywzDrENywtzvKDO_33.455539_-88.800789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122234,
+    "wof:geomhash":"738ca7ad439744ae0ba95bcd075d2a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857112035
+        }
+    ],
+    "wof:id":857112035,
+    "wof:lastmodified":1464122234,
+    "wof:name":"Shipley Donuts",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -88.800789,
+    33.455539,
+    -88.800789,
+    33.455539
+],
+  "geometry": {"coordinates":[-88.80078899999999,33.455539],"type":"Point"}
+}

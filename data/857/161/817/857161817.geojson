@@ -1,0 +1,73 @@
+{
+  "id": 857161817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.827495,34.961672,-89.827495,34.961672",
+    "geom:latitude":34.961672,
+    "geom:longitude":-89.827495,
+    "iso:country":"US",
+    "sg:address":"9189 Pigeon Roost Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4111",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TPPEgy5FC41vBgH6Hb3Nq_34.961672_-89.827495@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123400,
+    "wof:geomhash":"9770ce5f076f677ed1e8f0a155429881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857161817
+        }
+    ],
+    "wof:id":857161817,
+    "wof:lastmodified":1464123400,
+    "wof:name":"Olive Branch Ambulance",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.827495,
+    34.961672,
+    -89.827495,
+    34.961672
+],
+  "geometry": {"coordinates":[-89.827495,34.961672],"type":"Point"}
+}

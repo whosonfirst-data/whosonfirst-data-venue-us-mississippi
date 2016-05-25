@@ -1,0 +1,71 @@
+{
+  "id": 857365223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.821282,30.414624,-88.821282,30.414624",
+    "geom:latitude":30.414624,
+    "geom:longitude":-88.821282,
+    "iso:country":"US",
+    "sg:address":"837 Ward Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4870",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BHFDutf0EL3M2VXlwGL1N_30.414624_-88.821282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127810,
+    "wof:geomhash":"6bae900df6e23803b3425031abf0bf81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857365223
+        }
+    ],
+    "wof:id":857365223,
+    "wof:lastmodified":1464127810,
+    "wof:name":"Mts Metals",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.821282,
+    30.414624,
+    -88.821282,
+    30.414624
+],
+  "geometry": {"coordinates":[-88.821282,30.414624],"type":"Point"}
+}

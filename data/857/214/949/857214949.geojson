@@ -1,0 +1,73 @@
+{
+  "id": 857214949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.841074,30.449441,-88.841074,30.449441",
+    "geom:latitude":30.449441,
+    "geom:longitude":-88.841074,
+    "iso:country":"US",
+    "sg:address":"7402 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 6122",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00alxyrNVS0g0c9hdbiW0E_30.449441_-88.841074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124513,
+    "wof:geomhash":"a5639a3f355cde10610721800a88fb41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857214949
+        }
+    ],
+    "wof:id":857214949,
+    "wof:lastmodified":1464124513,
+    "wof:name":"Prestige Auto Group",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.841074,
+    30.449441,
+    -88.841074,
+    30.449441
+],
+  "geometry": {"coordinates":[-88.84107400000001,30.449441],"type":"Point"}
+}

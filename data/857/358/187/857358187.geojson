@@ -1,0 +1,73 @@
+{
+  "id": 857358187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.79509,34.971961,-89.79509,34.971961",
+    "geom:latitude":34.971961,
+    "geom:longitude":-89.79509,
+    "iso:country":"US",
+    "sg:address":"7590 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3773",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3twTYwd5JlrPpCZwuIwuqW_34.971961_-89.795090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127662,
+    "wof:geomhash":"68df670ef9998344bcd1fd8a3fa1e4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857358187
+        }
+    ],
+    "wof:id":857358187,
+    "wof:lastmodified":1464127662,
+    "wof:name":"Olive Branch One Stop",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.79509,
+    34.971961,
+    -89.79509,
+    34.971961
+],
+  "geometry": {"coordinates":[-89.79509,34.971961],"type":"Point"}
+}

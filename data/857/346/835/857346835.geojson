@@ -1,0 +1,75 @@
+{
+  "id": 857346835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.317086,32.349089,-90.317086,32.349089",
+    "geom:latitude":32.349089,
+    "geom:longitude":-90.317086,
+    "iso:country":"US",
+    "sg:address":"822 E Northside Dr",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 9530",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85828141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bK3qpNbc1RNtUM8JZgUGh_32.349089_-90.317086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127414,
+    "wof:geomhash":"cbd4a60324b683dbbcf995c8a0323002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85828141,
+            "region_id":85688579,
+            "venue_id":857346835
+        }
+    ],
+    "wof:id":857346835,
+    "wof:lastmodified":1464127414,
+    "wof:name":"Jitney Jungle 10",
+    "wof:parent_id":85828141,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.317086,
+    32.349089,
+    -90.317086,
+    32.349089
+],
+  "geometry": {"coordinates":[-90.317086,32.349089],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857224345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.170559,30.344489,-89.170559,30.344489",
+    "geom:latitude":30.344489,
+    "geom:longitude":-89.170559,
+    "iso:country":"US",
+    "sg:address":"700 W Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 1012",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qp1LZZN6btBRYVV3d3D8l_30.344489_-89.170559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124698,
+    "wof:geomhash":"f3cadddb4afd56f56e9bf407d2b12d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857224345
+        }
+    ],
+    "wof:id":857224345,
+    "wof:lastmodified":1464124698,
+    "wof:name":"Andy's Mini Warehouse",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.170559,
+    30.344489,
+    -89.170559,
+    30.344489
+],
+  "geometry": {"coordinates":[-89.170559,30.344489],"type":"Point"}
+}

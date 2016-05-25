@@ -1,0 +1,68 @@
+{
+  "id": 857192189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.175443,32.316311,-90.175443,32.316311",
+    "geom:latitude":32.316311,
+    "geom:longitude":-90.175443,
+    "iso:country":"US",
+    "sg:address":"774 Gillespie St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 6882",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yuArvt88fVYhz7XPNR2T3_32.316311_-90.175443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124028,
+    "wof:geomhash":"32065332b1a0188db7f9f4443b2eef68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857192189
+        }
+    ],
+    "wof:id":857192189,
+    "wof:lastmodified":1464124028,
+    "wof:name":"B-Line Pest Control",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.175443,
+    32.316311,
+    -90.175443,
+    32.316311
+],
+  "geometry": {"coordinates":[-90.175443,32.316311],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857454455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.08129,30.499602,-89.08129,30.499602",
+    "geom:latitude":30.499602,
+    "geom:longitude":-89.08129,
+    "iso:country":"US",
+    "sg:address":"14485 Hatten Ln",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 8391",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970257,
+        102087223,
+        85831733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n6wkP5im2RSZXRl974CFO_30.499602_-89.081290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129846,
+    "wof:geomhash":"8f44f745d16fd5fbfdf1522f75289fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85970257,
+            "neighbourhood_id":85831733,
+            "region_id":85688579,
+            "venue_id":857454455
+        }
+    ],
+    "wof:id":857454455,
+    "wof:lastmodified":1464129846,
+    "wof:name":"Rebel Transportation Inc",
+    "wof:parent_id":85831733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.08129,
+    30.499602,
+    -89.08129,
+    30.499602
+],
+  "geometry": {"coordinates":[-89.08129,30.499602],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857201383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693923,32.361235,-88.693923,32.361235",
+    "geom:latitude":32.361235,
+    "geom:longitude":-88.693923,
+    "iso:country":"US",
+    "sg:address":"1920 C St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8697",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ACJlQoyHjtPHD4I3XsjXQ_32.361235_-88.693923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124202,
+    "wof:geomhash":"4ee4215c3d1a97a2c143b6ff01b5bc07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857201383
+        }
+    ],
+    "wof:id":857201383,
+    "wof:lastmodified":1464124202,
+    "wof:name":"Fox's Meridian Billiards",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -88.693923,
+    32.361235,
+    -88.693923,
+    32.361235
+],
+  "geometry": {"coordinates":[-88.693923,32.361235],"type":"Point"}
+}

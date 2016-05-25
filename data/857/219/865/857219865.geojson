@@ -1,0 +1,88 @@
+{
+  "id": 857219865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827708,30.412879,-88.827708,30.412879",
+    "geom:latitude":30.412879,
+    "geom:longitude":-88.827708,
+    "iso:country":"US",
+    "sg:address":"602 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 3034",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "a",
+        "school",
+        "operates",
+        "kindergarten",
+        "academic",
+        "as",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q6ilupm7o5PWvPR73iiTB_30.412879_-88.827708@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124611,
+    "wof:geomhash":"045d003645e25780d2cd61ae17c170c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857219865
+        }
+    ],
+    "wof:id":857219865,
+    "wof:lastmodified":1464124611,
+    "wof:name":"First Baptst Early Educatn Ctr",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "school",
+        "operates",
+        "kindergarten",
+        "academic",
+        "as",
+        "day"
+    ]
+},
+  "bbox": [
+    -88.827708,
+    30.412879,
+    -88.827708,
+    30.412879
+],
+  "geometry": {"coordinates":[-88.827708,30.412879],"type":"Point"}
+}

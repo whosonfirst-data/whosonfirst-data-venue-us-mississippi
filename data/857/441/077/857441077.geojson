@@ -1,0 +1,71 @@
+{
+  "id": 857441077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.829228,32.32811,-90.829228,32.32811",
+    "geom:latitude":32.32811,
+    "geom:longitude":-90.829228,
+    "iso:country":"US",
+    "sg:address":"1798 Old Hwy 27",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 7521",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vs50OplSR1bcof6jtJkRp_32.328110_-90.829228@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129588,
+    "wof:geomhash":"ff282253cd5368a080764d2fb5402047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857441077
+        }
+    ],
+    "wof:id":857441077,
+    "wof:lastmodified":1464129588,
+    "wof:name":"Roselle D L Co Contr",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.829228,
+    32.32811,
+    -90.829228,
+    32.32811
+],
+  "geometry": {"coordinates":[-90.829228,32.32811],"type":"Point"}
+}

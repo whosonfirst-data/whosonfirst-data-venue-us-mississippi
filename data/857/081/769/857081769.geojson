@@ -1,0 +1,71 @@
+{
+  "id": 857081769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.776465,33.37413,-88.776465,33.37413",
+    "geom:latitude":33.37413,
+    "geom:longitude":-88.776465,
+    "iso:country":"US",
+    "sg:address":"1019 Mount Olive Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3907",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sEe6YRDXIwe8g6IopdCKz_33.374130_-88.776465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121444,
+    "wof:geomhash":"fd0c88ce732d776ac85160b33150cbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857081769
+        }
+    ],
+    "wof:id":857081769,
+    "wof:lastmodified":1464121444,
+    "wof:name":"Ladonna Rice",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.776465,
+    33.37413,
+    -88.776465,
+    33.37413
+],
+  "geometry": {"coordinates":[-88.776465,33.37413],"type":"Point"}
+}

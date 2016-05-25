@@ -1,0 +1,73 @@
+{
+  "id": 857424421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827014,33.44125,-88.827014,33.44125",
+    "geom:latitude":33.44125,
+    "geom:longitude":-88.827014,
+    "iso:country":"US",
+    "sg:address":"189 Park Cir",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 9669",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85858519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijSl9hrUkGXHUcxrdOIk8_33.441250_-88.827014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129209,
+    "wof:geomhash":"da28afa9d0cf8a7fc965078cd302210c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85858519,
+            "region_id":85688579,
+            "venue_id":857424421
+        }
+    ],
+    "wof:id":857424421,
+    "wof:lastmodified":1464129209,
+    "wof:name":"Gilberts Home Health",
+    "wof:parent_id":85858519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.827014,
+    33.44125,
+    -88.827014,
+    33.44125
+],
+  "geometry": {"coordinates":[-88.82701400000001,33.44125],"type":"Point"}
+}

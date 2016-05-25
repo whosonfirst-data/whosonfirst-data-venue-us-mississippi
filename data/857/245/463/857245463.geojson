@@ -1,0 +1,73 @@
+{
+  "id": 857245463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.078359,32.339036,-90.078359,32.339036",
+    "geom:latitude":32.339036,
+    "geom:longitude":-90.078359,
+    "iso:country":"US",
+    "sg:address":"4701 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 664 3838",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85831643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pVEDEvJyO3quVV3E55gYo_32.339036_-90.078359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125149,
+    "wof:geomhash":"165d4b95858395262f201d13aff3af2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85831643,
+            "region_id":85688579,
+            "venue_id":857245463
+        }
+    ],
+    "wof:id":857245463,
+    "wof:lastmodified":1464125149,
+    "wof:name":"Laurel Park Apartments",
+    "wof:parent_id":85831643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.078359,
+    32.339036,
+    -90.078359,
+    32.339036
+],
+  "geometry": {"coordinates":[-90.07835900000001,32.339036],"type":"Point"}
+}

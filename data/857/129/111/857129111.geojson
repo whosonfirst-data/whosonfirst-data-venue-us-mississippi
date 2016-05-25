@@ -1,0 +1,73 @@
+{
+  "id": 857129111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.323506,33.440549,-88.323506,33.440549",
+    "geom:latitude":33.440549,
+    "geom:longitude":-88.323506,
+    "iso:country":"US",
+    "sg:address":"2193 Lake Lowndes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0659",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qqdOFcNH3r6289dJKR3ij_33.440549_-88.323506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122650,
+    "wof:geomhash":"bbb315bd7178673b70c795ae940409dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857129111
+        }
+    ],
+    "wof:id":857129111,
+    "wof:lastmodified":1464122650,
+    "wof:name":"Rent-A-Space",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.323506,
+    33.440549,
+    -88.323506,
+    33.440549
+],
+  "geometry": {"coordinates":[-88.32350599999999,33.440549],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857195257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.890975,30.425625,-88.890975,30.425625",
+    "geom:latitude":30.425625,
+    "geom:longitude":-88.890975,
+    "iso:country":"US",
+    "sg:address":"9450 Central Ave",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 1941",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g5fkuP4JouSwRdiVGv9Iw_30.425625_-88.890975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124084,
+    "wof:geomhash":"9f46b989f0404f062eb9ea5b5893b13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857195257
+        }
+    ],
+    "wof:id":857195257,
+    "wof:lastmodified":1464124084,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.890975,
+    30.425625,
+    -88.890975,
+    30.425625
+],
+  "geometry": {"coordinates":[-88.890975,30.425625],"type":"Point"}
+}

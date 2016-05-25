@@ -1,0 +1,72 @@
+{
+  "id": 857288177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433084,33.494872,-88.433084,33.494872",
+    "geom:latitude":33.494872,
+    "geom:longitude":-88.433084,
+    "iso:country":"US",
+    "sg:address":"516 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8484",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.cdispatch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZDcIq8oAB1sFEfchDvj1L_33.494872_-88.433084@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126087,
+    "wof:geomhash":"922ded24a6953360d9f432071dc897f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857288177
+        }
+    ],
+    "wof:id":857288177,
+    "wof:lastmodified":1464126087,
+    "wof:name":"Commercial Dispatch",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.433084,
+    33.494872,
+    -88.433084,
+    33.494872
+],
+  "geometry": {"coordinates":[-88.43308399999999,33.494872],"type":"Point"}
+}

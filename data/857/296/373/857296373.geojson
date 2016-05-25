@@ -1,0 +1,66 @@
+{
+  "id": 857296373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510772,34.362776,-89.510772,34.362776",
+    "geom:latitude":34.362776,
+    "geom:longitude":-89.510772,
+    "iso:country":"US",
+    "sg:address":"1808 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5941",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ss3x1O2pbWOKGbi3UU8rW_34.362776_-89.510772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126332,
+    "wof:geomhash":"d80fc753729d8c566c180237409b559b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857296373
+        }
+    ],
+    "wof:id":857296373,
+    "wof:lastmodified":1464126332,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.510772,
+    34.362776,
+    -89.510772,
+    34.362776
+],
+  "geometry": {"coordinates":[-89.510772,34.362776],"type":"Point"}
+}

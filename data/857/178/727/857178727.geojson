@@ -1,0 +1,71 @@
+{
+  "id": 857178727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.263088,31.337271,-89.263088,31.337271",
+    "geom:latitude":31.337271,
+    "geom:longitude":-89.263088,
+    "iso:country":"US",
+    "sg:address":"127 W 8th Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 5331",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36pxVZ7HizgV9WpCN7W9oZ_31.337271_-89.263088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123768,
+    "wof:geomhash":"a456abe35f0bba005b8cae50a11c95eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857178727
+        }
+    ],
+    "wof:id":857178727,
+    "wof:lastmodified":1464123768,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.263088,
+    31.337271,
+    -89.263088,
+    31.337271
+],
+  "geometry": {"coordinates":[-89.263088,31.337271],"type":"Point"}
+}

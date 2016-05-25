@@ -1,0 +1,71 @@
+{
+  "id": 857186335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.557975,34.363441,-89.557975,34.363441",
+    "geom:latitude":34.363441,
+    "geom:longitude":-89.557975,
+    "iso:country":"US",
+    "sg:address":"2000 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7326",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bq1zRcGwtGN9Lbcd23Sg5_34.363441_-89.557975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123921,
+    "wof:geomhash":"d071812dd5349921122bb147c446e9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857186335
+        }
+    ],
+    "wof:id":857186335,
+    "wof:lastmodified":1464123921,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -89.557975,
+    34.363441,
+    -89.557975,
+    34.363441
+],
+  "geometry": {"coordinates":[-89.557975,34.363441],"type":"Point"}
+}

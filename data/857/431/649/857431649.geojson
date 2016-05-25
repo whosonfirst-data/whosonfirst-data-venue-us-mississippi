@@ -1,0 +1,73 @@
+{
+  "id": 857431649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.672192,34.20608,-88.672192,34.20608",
+    "geom:latitude":34.20608,
+    "geom:longitude":-88.672192,
+    "iso:country":"US",
+    "sg:address":"551 Central St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2164",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:tags":[
+        "metal",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pg0Ymysmi0tbndJpIDHX2_34.206080_-88.672192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129379,
+    "wof:geomhash":"0c38d1061433b96bed3fed35eb328231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857431649
+        }
+    ],
+    "wof:id":857431649,
+    "wof:lastmodified":1464129379,
+    "wof:name":"Northeast Metal Processors Inc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal",
+        "iron"
+    ]
+},
+  "bbox": [
+    -88.672192,
+    34.20608,
+    -88.672192,
+    34.20608
+],
+  "geometry": {"coordinates":[-88.672192,34.20608],"type":"Point"}
+}

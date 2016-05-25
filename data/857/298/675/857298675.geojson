@@ -1,0 +1,71 @@
+{
+  "id": 857298675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.715747,32.364855,-88.715747,32.364855",
+    "geom:latitude":32.364855,
+    "geom:longitude":-88.715747,
+    "iso:country":"US",
+    "sg:address":"3700 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3202",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uci9oBQXpwU4ivC7Nnt52_32.364855_-88.715747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126381,
+    "wof:geomhash":"fb0e92e008350d96b17ef8c787f61a37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857298675
+        }
+    ],
+    "wof:id":857298675,
+    "wof:lastmodified":1464126381,
+    "wof:name":"Americas Super-Lube",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.715747,
+    32.364855,
+    -88.715747,
+    32.364855
+],
+  "geometry": {"coordinates":[-88.71574699999999,32.364855],"type":"Point"}
+}

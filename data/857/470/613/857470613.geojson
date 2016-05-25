@@ -1,0 +1,73 @@
+{
+  "id": 857470613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.506605,30.389388,-88.506605,30.389388",
+    "geom:latitude":30.389388,
+    "geom:longitude":-88.506605,
+    "iso:country":"US",
+    "sg:address":"5602 Industrial Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 6951",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HWKoWpKJkY4HcfShce6kk_30.389388_-88.506605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130182,
+    "wof:geomhash":"5efb590ce2a5f3ff49fcbb8fa335be3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857470613
+        }
+    ],
+    "wof:id":857470613,
+    "wof:lastmodified":1464130182,
+    "wof:name":"Whitehead Construction Co",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.506605,
+    30.389388,
+    -88.506605,
+    30.389388
+],
+  "geometry": {"coordinates":[-88.50660499999999,30.389388],"type":"Point"}
+}

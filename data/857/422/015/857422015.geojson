@@ -1,0 +1,77 @@
+{
+  "id": 857422015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.247037,30.314795,-89.247037,30.314795",
+    "geom:latitude":30.314795,
+    "geom:longitude":-89.247037,
+    "iso:country":"US",
+    "sg:address":"175 Market St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 7222",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "wildlife",
+        "fishery",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O2geQk7xhG9rqlozJGPYg_30.314795_-89.247037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129151,
+    "wof:geomhash":"52935ef1410a46cdfb712728c9a3dd48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857422015
+        }
+    ],
+    "wof:id":857422015,
+    "wof:lastmodified":1464129151,
+    "wof:name":"Wildlife Fisheries and Parks",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "wildlife",
+        "fishery",
+        "parks"
+    ]
+},
+  "bbox": [
+    -89.247037,
+    30.314795,
+    -89.247037,
+    30.314795
+],
+  "geometry": {"coordinates":[-89.24703700000001,30.314795],"type":"Point"}
+}

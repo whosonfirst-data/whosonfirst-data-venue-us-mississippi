@@ -1,0 +1,73 @@
+{
+  "id": 857414117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533429,30.369087,-88.533429,30.369087",
+    "geom:latitude":30.369087,
+    "geom:longitude":-88.533429,
+    "iso:country":"US",
+    "sg:address":"3402 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 8589",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QMIN3CmmOJjxf1r3MpkF3_30.369087_-88.533429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128946,
+    "wof:geomhash":"0022fa3ce4ba6c4cd9b16714c0abb91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857414117
+        }
+    ],
+    "wof:id":857414117,
+    "wof:lastmodified":1464128946,
+    "wof:name":"City Lock Shop",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -88.533429,
+    30.369087,
+    -88.533429,
+    30.369087
+],
+  "geometry": {"coordinates":[-88.533429,30.369087],"type":"Point"}
+}

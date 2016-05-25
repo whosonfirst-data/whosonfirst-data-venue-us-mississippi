@@ -1,0 +1,75 @@
+{
+  "id": 857229073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.185592,32.330913,-90.185592,32.330913",
+    "geom:latitude":32.330913,
+    "geom:longitude":-90.185592,
+    "iso:country":"US",
+    "sg:address":"2666 N Mill St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 5351",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UTy3VvXFBRozCV5CHZrX0_32.330913_-90.185592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124791,
+    "wof:geomhash":"98ca67b1f0a6fb4cf4a8dfc5a846e0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857229073
+        }
+    ],
+    "wof:id":857229073,
+    "wof:lastmodified":1464124791,
+    "wof:name":"South Central Heating & Plbg",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.185592,
+    32.330913,
+    -90.185592,
+    32.330913
+],
+  "geometry": {"coordinates":[-90.185592,32.330913],"type":"Point"}
+}

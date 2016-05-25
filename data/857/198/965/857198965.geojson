@@ -1,0 +1,73 @@
+{
+  "id": 857198965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.861149,32.327958,-90.861149,32.327958",
+    "geom:latitude":32.327958,
+    "geom:longitude":-90.861149,
+    "iso:country":"US",
+    "sg:address":"2480 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 7666",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ObOBvW25Obg7OMcQV3HDe_32.327958_-90.861149@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124157,
+    "wof:geomhash":"a71e6cc622f8ce177a486e8f328d15e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857198965
+        }
+    ],
+    "wof:id":857198965,
+    "wof:lastmodified":1464124157,
+    "wof:name":"Cash Tyme",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -90.861149,
+    32.327958,
+    -90.861149,
+    32.327958
+],
+  "geometry": {"coordinates":[-90.861149,32.327958],"type":"Point"}
+}

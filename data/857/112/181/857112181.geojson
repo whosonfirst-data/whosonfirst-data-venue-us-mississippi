@@ -1,0 +1,71 @@
+{
+  "id": 857112181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.163159,30.360988,-89.163159,30.360988",
+    "geom:latitude":30.360988,
+    "geom:longitude":-89.163159,
+    "iso:country":"US",
+    "sg:address":"19201 Pineville Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 1506",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MBe1tXyDYMQK9AFOdiLYi_30.360988_-89.163159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122236,
+    "wof:geomhash":"f7738a31b62819dd00520ba262c91586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857112181
+        }
+    ],
+    "wof:id":857112181,
+    "wof:lastmodified":1464122236,
+    "wof:name":"Cable One",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -89.163159,
+    30.360988,
+    -89.163159,
+    30.360988
+],
+  "geometry": {"coordinates":[-89.16315899999999,30.360988],"type":"Point"}
+}

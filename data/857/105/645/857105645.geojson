@@ -1,0 +1,75 @@
+{
+  "id": 857105645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838664,33.449149,-88.838664,33.449149",
+    "geom:latitude":33.449149,
+    "geom:longitude":-88.838664,
+    "iso:country":"US",
+    "sg:address":"824 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 7265",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "prerecorded",
+        "record",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28IYv5TBiZegNXXaeHzqq6_33.449149_-88.838664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122039,
+    "wof:geomhash":"9fa91f0ad1571450feea02349f6cf1e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857105645
+        }
+    ],
+    "wof:id":857105645,
+    "wof:lastmodified":1464122039,
+    "wof:name":"On Cue",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prerecorded",
+        "record",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.838664,
+    33.449149,
+    -88.838664,
+    33.449149
+],
+  "geometry": {"coordinates":[-88.83866399999999,33.449149],"type":"Point"}
+}

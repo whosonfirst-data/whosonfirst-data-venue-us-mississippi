@@ -1,0 +1,87 @@
+{
+  "id": 857487239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.545065,34.208147,-90.545065,34.208147",
+    "geom:latitude":34.208147,
+    "geom:longitude":-90.545065,
+    "iso:country":"US",
+    "sg:address":"2610 Martin Luther King Blvd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3586",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "major",
+        "dishwashing",
+        "system",
+        "machine",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.trane.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cj9k1YsDUafw3ZMhMEtZ3_34.208147_-90.545065@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130510,
+    "wof:geomhash":"c5a1d4c595dbfcb8e77646dda0cb1577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487239
+        }
+    ],
+    "wof:id":857487239,
+    "wof:lastmodified":1464130510,
+    "wof:name":"Taylor Air Conditioning & Heating Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "dishwashing",
+        "system",
+        "machine",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -90.545065,
+    34.208147,
+    -90.545065,
+    34.208147
+],
+  "geometry": {"coordinates":[-90.54506499999999,34.208147],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857111389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.837391,30.442,-88.837391,30.442",
+    "geom:latitude":30.442,
+    "geom:longitude":-88.837391,
+    "iso:country":"US",
+    "sg:address":"6904 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0475",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wCwBrmx1luTANLsR1RFBs_30.442000_-88.837391@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122218,
+    "wof:geomhash":"66a6d65e9c272d4ddb08ebbcf0b774a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857111389
+        }
+    ],
+    "wof:id":857111389,
+    "wof:lastmodified":1464122218,
+    "wof:name":"Sheriffs Office",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.837391,
+    30.442,
+    -88.837391,
+    30.442
+],
+  "geometry": {"coordinates":[-88.837391,30.442],"type":"Point"}
+}

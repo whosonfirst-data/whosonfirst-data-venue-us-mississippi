@@ -1,0 +1,68 @@
+{
+  "id": 857225441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.030244,34.497813,-89.030244,34.497813",
+    "geom:latitude":34.497813,
+    "geom:longitude":-89.030244,
+    "iso:country":"US",
+    "sg:address":"225 State Hwy 30 W",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 6989",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OBMEB7GHCctpHOEsDbCSP_34.497813_-89.030244@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124720,
+    "wof:geomhash":"93916e77dcf73edaf787c6ebcd4b274f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857225441
+        }
+    ],
+    "wof:id":857225441,
+    "wof:lastmodified":1464124720,
+    "wof:name":"New Mart",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.030244,
+    34.497813,
+    -89.030244,
+    34.497813
+],
+  "geometry": {"coordinates":[-89.030244,34.497813],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857403005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.833907,34.928758,-89.833907,34.928758",
+    "geom:latitude":34.928758,
+    "geom:longitude":-89.833907,
+    "iso:country":"US",
+    "sg:address":"8767 Bell Forest Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 2513",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kPquKwRPuGqFm1vV6dj0o_34.928758_-89.833907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128683,
+    "wof:geomhash":"f860ccd5ac33ce4387e237845b60d4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857403005
+        }
+    ],
+    "wof:id":857403005,
+    "wof:lastmodified":1464128683,
+    "wof:name":"Brooks & Munn Inc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.833907,
+    34.928758,
+    -89.833907,
+    34.928758
+],
+  "geometry": {"coordinates":[-89.833907,34.928758],"type":"Point"}
+}

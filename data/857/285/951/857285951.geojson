@@ -1,0 +1,73 @@
+{
+  "id": 857285951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.553805,30.353311,-88.553805,30.353311",
+    "geom:latitude":30.353311,
+    "geom:longitude":-88.553805,
+    "iso:country":"US",
+    "sg:address":"1703 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0888",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nOJIqHj6jkIpkVfr1YKL9_30.353311_-88.553805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126044,
+    "wof:geomhash":"35fd66e8b8d8444fb30c3b81b3701f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857285951
+        }
+    ],
+    "wof:id":857285951,
+    "wof:lastmodified":1464126044,
+    "wof:name":"Dockside Seafood",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -88.553805,
+    30.353311,
+    -88.553805,
+    30.353311
+],
+  "geometry": {"coordinates":[-88.553805,30.353311],"type":"Point"}
+}

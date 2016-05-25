@@ -1,0 +1,73 @@
+{
+  "id": 857120209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.869166,32.321937,-90.869166,32.321937",
+    "geom:latitude":32.321937,
+    "geom:longitude":-90.869166,
+    "iso:country":"US",
+    "sg:address":"1850 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 3645",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdmG385EhGKymKImhL7Wm_32.321937_-90.869166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122454,
+    "wof:geomhash":"635668f9f473ae06d4ad4a19955fda81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857120209
+        }
+    ],
+    "wof:id":857120209,
+    "wof:lastmodified":1464122454,
+    "wof:name":"Plaza Auto Svc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.869166,
+    32.321937,
+    -90.869166,
+    32.321937
+],
+  "geometry": {"coordinates":[-90.86916600000001,32.321937],"type":"Point"}
+}

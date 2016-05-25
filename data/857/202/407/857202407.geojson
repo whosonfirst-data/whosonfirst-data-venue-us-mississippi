@@ -1,0 +1,73 @@
+{
+  "id": 857202407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539437,33.757559,-88.539437,33.757559",
+    "geom:latitude":33.757559,
+    "geom:longitude":-88.539437,
+    "iso:country":"US",
+    "sg:address":"10592 Darracott Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 0444",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tNC6DV0RUydZoJ0lqAn2g_33.757559_-88.539437@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124219,
+    "wof:geomhash":"ed3f35a00bcd4e233da7d422d2521fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857202407
+        }
+    ],
+    "wof:id":857202407,
+    "wof:lastmodified":1464124219,
+    "wof:name":"D & S Truck Repair",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.539437,
+    33.757559,
+    -88.539437,
+    33.757559
+],
+  "geometry": {"coordinates":[-88.53943700000001,33.757559],"type":"Point"}
+}

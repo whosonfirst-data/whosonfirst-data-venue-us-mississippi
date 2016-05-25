@@ -1,0 +1,66 @@
+{
+  "id": 857348007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.730772,32.340114,-90.730772,32.340114",
+    "geom:latitude":32.340114,
+    "geom:longitude":-90.730772,
+    "iso:country":"US",
+    "sg:address":"7505 Bovina Cut-Off Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 2982",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UMZJDPT7a1lxuABEG3i4q_32.340114_-90.730772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127440,
+    "wof:geomhash":"17dcae28b3b4c0115428833fb1728f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857348007
+        }
+    ],
+    "wof:id":857348007,
+    "wof:lastmodified":1464127440,
+    "wof:name":"Franklin Enterprises",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.730772,
+    32.340114,
+    -90.730772,
+    32.340114
+],
+  "geometry": {"coordinates":[-90.730772,32.340114],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857100317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.349849,33.491177,-88.349849,33.491177",
+    "geom:latitude":33.491177,
+    "geom:longitude":-88.349849,
+    "iso:country":"US",
+    "sg:address":"125 Armstrong Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8461",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "water",
+        "main",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AIU2MUts0BRH1ZQZCm5IQ_33.491177_-88.349849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121917,
+    "wof:geomhash":"2bedd565fffd9e7d7c4569f2354c0787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857100317
+        }
+    ],
+    "wof:id":857100317,
+    "wof:lastmodified":1464121917,
+    "wof:name":"Perma Corp",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "main",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.349849,
+    33.491177,
+    -88.349849,
+    33.491177
+],
+  "geometry": {"coordinates":[-88.34984900000001,33.491177],"type":"Point"}
+}

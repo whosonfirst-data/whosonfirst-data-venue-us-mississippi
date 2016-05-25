@@ -1,0 +1,73 @@
+{
+  "id": 857181331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.701166,34.31625,-89.701166,34.31625",
+    "geom:latitude":34.31625,
+    "geom:longitude":-89.701166,
+    "iso:country":"US",
+    "sg:address":"64 Co Rd 327",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1369",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hD6gZhtlffdAMEoRIxwcz_34.316250_-89.701166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123821,
+    "wof:geomhash":"238f9d799f167b125456138071e97055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857181331
+        }
+    ],
+    "wof:id":857181331,
+    "wof:lastmodified":1464123821,
+    "wof:name":"Clear Creek Mechanical Inc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.701166,
+    34.31625,
+    -89.701166,
+    34.31625
+],
+  "geometry": {"coordinates":[-89.701166,34.31625],"type":"Point"}
+}

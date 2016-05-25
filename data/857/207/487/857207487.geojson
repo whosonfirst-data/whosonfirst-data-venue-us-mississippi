@@ -1,0 +1,71 @@
+{
+  "id": 857207487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.863001,32.327718,-90.863001,32.327718",
+    "geom:latitude":32.327718,
+    "geom:longitude":-90.863001,
+    "iso:country":"US",
+    "sg:address":"2445 N Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 5800",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tdk3PGXEIUkLKyTo6lNTi_32.327718_-90.863001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124341,
+    "wof:geomhash":"1860b50e81d64a22996803c50f1db8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857207487
+        }
+    ],
+    "wof:id":857207487,
+    "wof:lastmodified":1464124341,
+    "wof:name":"Best Western Inn",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -90.863001,
+    32.327718,
+    -90.863001,
+    32.327718
+],
+  "geometry": {"coordinates":[-90.863001,32.327718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857129255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533675,30.370755,-88.533675,30.370755",
+    "geom:latitude":30.370755,
+    "geom:longitude":-88.533675,
+    "iso:country":"US",
+    "sg:address":"3613 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 1244",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JGyQZpklDLwfNXc4K0lAm_30.370755_-88.533675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122654,
+    "wof:geomhash":"c7fe88563ab735251e85f42f9ebe38c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857129255
+        }
+    ],
+    "wof:id":857129255,
+    "wof:lastmodified":1464122654,
+    "wof:name":"Alvin L Felts III DDS",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.533675,
+    30.370755,
+    -88.533675,
+    30.370755
+],
+  "geometry": {"coordinates":[-88.533675,30.370755],"type":"Point"}
+}

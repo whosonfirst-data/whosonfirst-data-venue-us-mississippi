@@ -1,0 +1,71 @@
+{
+  "id": 857386767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40974,32.854607,-90.40974,32.854607",
+    "geom:latitude":32.854607,
+    "geom:longitude":-90.40974,
+    "iso:country":"US",
+    "sg:address":"201 E 3rd St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7224",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eqjdlk24nxTPbVbeDTP2p_32.854607_-90.409740@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128352,
+    "wof:geomhash":"a4bf3ea4cef9766dfe4b58d7abe82e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857386767
+        }
+    ],
+    "wof:id":857386767,
+    "wof:lastmodified":1464128352,
+    "wof:name":"Home and Garden Florist",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.40974,
+    32.854607,
+    -90.40974,
+    32.854607
+],
+  "geometry": {"coordinates":[-90.40974,32.854607],"type":"Point"}
+}

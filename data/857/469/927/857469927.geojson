@@ -1,0 +1,73 @@
+{
+  "id": 857469927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691614,32.355556,-88.691614,32.355556",
+    "geom:latitude":32.355556,
+    "geom:longitude":-88.691614,
+    "iso:country":"US",
+    "sg:address":"2112 N Frontage Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3285",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Oix26m92A3ZZcJHLIQ14Q_32.355556_-88.691614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130170,
+    "wof:geomhash":"c1b75e15dc3146dc175bf681fcd70f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857469927
+        }
+    ],
+    "wof:id":857469927,
+    "wof:lastmodified":1464130170,
+    "wof:name":"Kindred Healthcare Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.691614,
+    32.355556,
+    -88.691614,
+    32.355556
+],
+  "geometry": {"coordinates":[-88.691614,32.355556],"type":"Point"}
+}

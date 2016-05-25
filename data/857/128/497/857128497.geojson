@@ -1,0 +1,71 @@
+{
+  "id": 857128497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.397201,32.842099,-90.397201,32.842099",
+    "geom:latitude":32.842099,
+    "geom:longitude":-90.397201,
+    "iso:country":"US",
+    "sg:address":"1309 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 0505",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h12D9cJCscTtBMHoi6Mtn_32.842099_-90.397201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122636,
+    "wof:geomhash":"77e79e99b19b4c9adeccfa7b87f52349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857128497
+        }
+    ],
+    "wof:id":857128497,
+    "wof:lastmodified":1464122636,
+    "wof:name":"Yazoo Tomatoes",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -90.397201,
+    32.842099,
+    -90.397201,
+    32.842099
+],
+  "geometry": {"coordinates":[-90.397201,32.842099],"type":"Point"}
+}

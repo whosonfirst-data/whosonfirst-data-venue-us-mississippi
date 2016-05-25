@@ -1,0 +1,75 @@
+{
+  "id": 857405089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.360586,31.319156,-89.360586,31.319156",
+    "geom:latitude":31.319156,
+    "geom:longitude":-89.360586,
+    "iso:country":"US",
+    "sg:address":"2124 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1178",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970275,
+        102083775,
+        85851769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hUk2jg2jYEfeThtpBOgXa_31.319156_-89.360586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128729,
+    "wof:geomhash":"1e6bcf383ad094040b8ebaf8e85c2870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85970275,
+            "neighbourhood_id":85851769,
+            "region_id":85688579,
+            "venue_id":857405089
+        }
+    ],
+    "wof:id":857405089,
+    "wof:lastmodified":1464128729,
+    "wof:name":"Jo Carlisle's School Of Dance",
+    "wof:parent_id":85851769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -89.360586,
+    31.319156,
+    -89.360586,
+    31.319156
+],
+  "geometry": {"coordinates":[-89.360586,31.319156],"type":"Point"}
+}

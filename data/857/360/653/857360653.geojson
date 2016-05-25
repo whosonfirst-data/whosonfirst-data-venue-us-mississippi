@@ -1,0 +1,73 @@
+{
+  "id": 857360653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.532681,30.374625,-88.532681,30.374625",
+    "geom:latitude":30.374625,
+    "geom:longitude":-88.532681,
+    "iso:country":"US",
+    "sg:address":"2809 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 5154",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_785VWKzm3Fs2eh6hdtcyix_30.374625_-88.532681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127715,
+    "wof:geomhash":"db2023cb4e904ce21bbb290b3d5db9c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857360653
+        }
+    ],
+    "wof:id":857360653,
+    "wof:lastmodified":1464127715,
+    "wof:name":"Emergency Physicians Group",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.532681,
+    30.374625,
+    -88.532681,
+    30.374625
+],
+  "geometry": {"coordinates":[-88.532681,30.374625],"type":"Point"}
+}

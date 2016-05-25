@@ -1,0 +1,71 @@
+{
+  "id": 857451931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.543769,34.426426,-89.543769,34.426426",
+    "geom:latitude":34.426426,
+    "geom:longitude":-89.543769,
+    "iso:country":"US",
+    "sg:address":"155 Co Rd 104",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 7711",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4InEM4tv5yu8sEHnDaj4Ww_34.426426_-89.543769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129798,
+    "wof:geomhash":"d278cfe769cd86b08901d2ebc7dab929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857451931
+        }
+    ],
+    "wof:id":857451931,
+    "wof:lastmodified":1464129798,
+    "wof:name":"Jessie Dukes Remodeling",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.543769,
+    34.426426,
+    -89.543769,
+    34.426426
+],
+  "geometry": {"coordinates":[-89.543769,34.426426],"type":"Point"}
+}

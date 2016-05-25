@@ -1,0 +1,73 @@
+{
+  "id": 857180857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562815,34.187223,-90.562815,34.187223",
+    "geom:latitude":34.187223,
+    "geom:longitude":-90.562815,
+    "iso:country":"US",
+    "sg:address":"1040 E Tallahatchie St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9831",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "metal",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WQgwweUuLu1L1DVP6ccjU_34.187223_-90.562815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123812,
+    "wof:geomhash":"09eab07545e1742083eebe507a46e7b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857180857
+        }
+    ],
+    "wof:id":857180857,
+    "wof:lastmodified":1464123812,
+    "wof:name":"Martin Brothers Scrap Metal",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal",
+        "iron"
+    ]
+},
+  "bbox": [
+    -90.562815,
+    34.187223,
+    -90.562815,
+    34.187223
+],
+  "geometry": {"coordinates":[-90.562815,34.187223],"type":"Point"}
+}

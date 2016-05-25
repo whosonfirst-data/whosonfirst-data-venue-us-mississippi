@@ -1,0 +1,66 @@
+{
+  "id": 857300849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.438246,33.538924,-88.438246,33.538924",
+    "geom:latitude":33.538924,
+    "geom:longitude":-88.438246,
+    "iso:country":"US",
+    "sg:address":"3115 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1568",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zik3Qc8G6lZW76do04DSQ_33.538924_-88.438246@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126430,
+    "wof:geomhash":"56c5cbab27a73dab717122a1232c7127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857300849
+        }
+    ],
+    "wof:id":857300849,
+    "wof:lastmodified":1464126430,
+    "wof:name":"Sprint Mart",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.438246,
+    33.538924,
+    -88.438246,
+    33.538924
+],
+  "geometry": {"coordinates":[-88.43824600000001,33.538924],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857480493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.568557,34.361779,-89.568557,34.361779",
+    "geom:latitude":34.361779,
+    "geom:longitude":-89.568557,
+    "iso:country":"US",
+    "sg:address":"2580 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/oxford/152985-lennys-sub-shop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3600",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12KXQYooW63bwbWFWWEjxa_34.361779_-89.568557@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130378,
+    "wof:geomhash":"3da2924ceef8c45f3343d1439db2c477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480493
+        }
+    ],
+    "wof:id":857480493,
+    "wof:lastmodified":1464130378,
+    "wof:name":"Lenny's Sub Shop",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.568557,
+    34.361779,
+    -89.568557,
+    34.361779
+],
+  "geometry": {"coordinates":[-89.568557,34.361779],"type":"Point"}
+}

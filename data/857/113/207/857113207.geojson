@@ -1,0 +1,79 @@
+{
+  "id": 857113207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.825744,35.035073,-89.825744,35.035073",
+    "geom:latitude":35.035073,
+    "geom:longitude":-89.825744,
+    "iso:country":"US",
+    "sg:address":"7153 Chevy Chase Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 756 5578",
+    "sg:postcode":"38125",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "con",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rugyq7SMJCwWPEp4lWszZ_35.035073_-89.825744@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122261,
+    "wof:geomhash":"944cf94315a75d86bedd1ec8ae78465b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":857113207
+        }
+    ],
+    "wof:id":857113207,
+    "wof:lastmodified":1464122261,
+    "wof:name":"Jackson Custom Builders",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "con",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -89.825744,
+    35.035073,
+    -89.825744,
+    35.035073
+],
+  "geometry": {"coordinates":[-89.825744,35.035073],"type":"Point"}
+}

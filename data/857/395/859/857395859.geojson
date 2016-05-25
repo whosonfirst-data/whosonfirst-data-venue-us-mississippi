@@ -1,0 +1,72 @@
+{
+  "id": 857395859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.294142,31.329039,-89.294142,31.329039",
+    "geom:latitude":31.329039,
+    "geom:longitude":-89.294142,
+    "iso:country":"US",
+    "sg:address":"825 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4321",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.hattiesburgamerican.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SU6JFmUtD2TKdHPM8Oc2N_31.329039_-89.294142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128544,
+    "wof:geomhash":"7d0f8e7ff58b65b1822e4cc621b3c81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857395859
+        }
+    ],
+    "wof:id":857395859,
+    "wof:lastmodified":1464128544,
+    "wof:name":"Hattiesburg American",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -89.294142,
+    31.329039,
+    -89.294142,
+    31.329039
+],
+  "geometry": {"coordinates":[-89.29414199999999,31.329039],"type":"Point"}
+}

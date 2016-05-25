@@ -1,0 +1,78 @@
+{
+  "id": 857166167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553706,34.17691,-90.553706,34.17691",
+    "geom:latitude":34.17691,
+    "geom:longitude":-90.553706,
+    "iso:country":"US",
+    "sg:address":"520 Sunbelt Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9352",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85826271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09EDi0Ale2PCX8FfchwzzS_34.176910_-90.553706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123489,
+    "wof:geomhash":"16de646043e54c44e640c1feff90b4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85826271,
+            "region_id":85688579,
+            "venue_id":857166167
+        }
+    ],
+    "wof:id":857166167,
+    "wof:lastmodified":1464123489,
+    "wof:name":"Burchfield's Inc",
+    "wof:parent_id":85826271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.553706,
+    34.17691,
+    -90.553706,
+    34.17691
+],
+  "geometry": {"coordinates":[-90.55370600000001,34.17691],"type":"Point"}
+}

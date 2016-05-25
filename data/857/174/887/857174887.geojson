@@ -1,0 +1,73 @@
+{
+  "id": 857174887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.471864,34.217389,-90.471864,34.217389",
+    "geom:latitude":34.217389,
+    "geom:longitude":-90.471864,
+    "iso:country":"US",
+    "sg:address":"4150 State Hwy 6",
+    "sg:city":"Lyon",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5233",
+    "sg:postcode":"38645",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cotton",
+        "ginning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_001Q2CJw5dW2qWStKGoOsL_34.217389_-90.471864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123691,
+    "wof:geomhash":"dea480a9933111575fad4c428db60486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857174887
+        }
+    ],
+    "wof:id":857174887,
+    "wof:lastmodified":1464123691,
+    "wof:name":"Big Creek Gin Company Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cotton",
+        "ginning"
+    ]
+},
+  "bbox": [
+    -90.471864,
+    34.217389,
+    -90.471864,
+    34.217389
+],
+  "geometry": {"coordinates":[-90.471864,34.217389],"type":"Point"}
+}

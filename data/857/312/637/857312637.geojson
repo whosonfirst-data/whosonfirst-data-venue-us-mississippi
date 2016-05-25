@@ -1,0 +1,71 @@
+{
+  "id": 857312637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.656522,34.25717,-88.656522,34.25717",
+    "geom:latitude":34.25717,
+    "geom:longitude":-88.656522,
+    "iso:country":"US",
+    "sg:address":"4381 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 5747",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UWrKFwIeQcn9bDblfL69d_34.257170_-88.656522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126674,
+    "wof:geomhash":"27254dfcf7ec8f12257cf96b51572bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857312637
+        }
+    ],
+    "wof:id":857312637,
+    "wof:lastmodified":1464126674,
+    "wof:name":"North Mississippi Spt Medicine",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.656522,
+    34.25717,
+    -88.656522,
+    34.25717
+],
+  "geometry": {"coordinates":[-88.656522,34.25717],"type":"Point"}
+}

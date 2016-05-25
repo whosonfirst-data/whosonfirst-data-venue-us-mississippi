@@ -1,0 +1,66 @@
+{
+  "id": 857387487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.591563,32.342979,-88.591563,32.342979",
+    "geom:latitude":32.342979,
+    "geom:longitude":-88.591563,
+    "iso:country":"US",
+    "sg:address":"1903 Hwy 19 S",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9677",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qM0b7Djvf6NXqS7BRDv7l_32.342979_-88.591563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128371,
+    "wof:geomhash":"140dcac5701e4e35524fd63f20730027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857387487
+        }
+    ],
+    "wof:id":857387487,
+    "wof:lastmodified":1464128371,
+    "wof:name":"Southeast Trading Post",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.591563,
+    32.342979,
+    -88.591563,
+    32.342979
+],
+  "geometry": {"coordinates":[-88.59156299999999,32.342979],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857442325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518576,34.366756,-89.518576,34.366756",
+    "geom:latitude":34.366756,
+    "geom:longitude":-89.518576,
+    "iso:country":"US",
+    "sg:address":"107 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2377",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "program",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16moOjO4SpJpxoyZbs5exI_34.366756_-89.518576@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129610,
+    "wof:geomhash":"e4b2071adcb1439626a7e7a4df884428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857442325
+        }
+    ],
+    "wof:id":857442325,
+    "wof:lastmodified":1464129610,
+    "wof:name":"Retired Senior Program",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -89.518576,
+    34.366756,
+    -89.518576,
+    34.366756
+],
+  "geometry": {"coordinates":[-89.518576,34.366756],"type":"Point"}
+}

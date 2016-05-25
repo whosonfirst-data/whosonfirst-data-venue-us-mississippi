@@ -1,0 +1,71 @@
+{
+  "id": 857327477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.581348,34.354504,-89.581348,34.354504",
+    "geom:latitude":34.354504,
+    "geom:longitude":-89.581348,
+    "iso:country":"US",
+    "sg:address":"58 Co Rd 307",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6452",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ygYqisWAjOOB3lewGsC4b_34.354504_-89.581348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127000,
+    "wof:geomhash":"d50cdbf0ac669c6d48951993f0378c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857327477
+        }
+    ],
+    "wof:id":857327477,
+    "wof:lastmodified":1464127000,
+    "wof:name":"C H & L Day Care",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -89.581348,
+    34.354504,
+    -89.581348,
+    34.354504
+],
+  "geometry": {"coordinates":[-89.58134800000001,34.354504],"type":"Point"}
+}

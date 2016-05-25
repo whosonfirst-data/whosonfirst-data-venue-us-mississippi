@@ -1,0 +1,75 @@
+{
+  "id": 857441291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.570376,34.362736,-89.570376,34.362736",
+    "geom:latitude":34.362736,
+    "geom:longitude":-89.570376,
+    "iso:country":"US",
+    "sg:address":"2659 W Oxford Loop",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4950",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X2Ebyf1sNbMR6WnU9aH9N_34.362736_-89.570376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129593,
+    "wof:geomhash":"98da08d54e3301da2ddbe0c52b6dbe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857441291
+        }
+    ],
+    "wof:id":857441291,
+    "wof:lastmodified":1464129593,
+    "wof:name":"Oxford Body Works",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.570376,
+    34.362736,
+    -89.570376,
+    34.362736
+],
+  "geometry": {"coordinates":[-89.570376,34.362736],"type":"Point"}
+}

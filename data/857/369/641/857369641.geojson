@@ -1,0 +1,86 @@
+{
+  "id": 857369641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.498785,30.478479,-88.498785,30.478479",
+    "geom:latitude":30.478479,
+    "geom:longitude":-88.498785,
+    "iso:country":"US",
+    "sg:address":"6524 Hatfield St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 2343",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dump",
+        "trucking",
+        "dredging",
+        "operator",
+        "truck",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PlLm4ZyRskodq4TZvMsAr_30.478479_-88.498785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127896,
+    "wof:geomhash":"74f8da1d1cd62747068617b32b296a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857369641
+        }
+    ],
+    "wof:id":857369641,
+    "wof:lastmodified":1464127896,
+    "wof:name":"Vice Brothers Unlimited LLC",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dump",
+        "trucking",
+        "dredging",
+        "operator",
+        "truck",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.498785,
+    30.478479,
+    -88.498785,
+    30.478479
+],
+  "geometry": {"coordinates":[-88.498785,30.478479],"type":"Point"}
+}

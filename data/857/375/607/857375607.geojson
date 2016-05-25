@@ -1,0 +1,73 @@
+{
+  "id": 857375607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.828908,34.947329,-89.828908,34.947329",
+    "geom:latitude":34.947329,
+    "geom:longitude":-89.828908,
+    "iso:country":"US",
+    "sg:address":"9065 Sandidge Center Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 6577",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q4jwPv2n6Aus1TbjKrqln_34.947329_-89.828908@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128025,
+    "wof:geomhash":"38fbcf3ff0a1a6a4c0a1486e26369f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857375607
+        }
+    ],
+    "wof:id":857375607,
+    "wof:lastmodified":1464128025,
+    "wof:name":"Caremed Home Care",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -89.828908,
+    34.947329,
+    -89.828908,
+    34.947329
+],
+  "geometry": {"coordinates":[-89.828908,34.947329],"type":"Point"}
+}

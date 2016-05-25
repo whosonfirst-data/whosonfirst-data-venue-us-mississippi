@@ -1,0 +1,71 @@
+{
+  "id": 857167273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.301021,33.534983,-88.301021,33.534983",
+    "geom:latitude":33.534983,
+    "geom:longitude":-88.301021,
+    "iso:country":"US",
+    "sg:address":"6908 Hwy 50 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8521",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kiZSxyl36lpdg9wU8Ww0u_33.534983_-88.301021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123516,
+    "wof:geomhash":"2be61867410b396325e9985ede8b60ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857167273
+        }
+    ],
+    "wof:id":857167273,
+    "wof:lastmodified":1464123516,
+    "wof:name":"Williams Decorating Svc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -88.301021,
+    33.534983,
+    -88.301021,
+    33.534983
+],
+  "geometry": {"coordinates":[-88.30102100000001,33.534983],"type":"Point"}
+}

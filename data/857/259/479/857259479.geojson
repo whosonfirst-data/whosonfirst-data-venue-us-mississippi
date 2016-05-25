@@ -1,0 +1,71 @@
+{
+  "id": 857259479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.286464,31.323167,-89.286464,31.323167",
+    "geom:latitude":31.323167,
+    "geom:longitude":-89.286464,
+    "iso:country":"US",
+    "sg:address":"205 Bay St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1571",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38jgWqi3t3IN3Kv5rn6q7X_31.323167_-89.286464@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125481,
+    "wof:geomhash":"16c1a3af22931568b21e5add53a033a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857259479
+        }
+    ],
+    "wof:id":857259479,
+    "wof:lastmodified":1464125481,
+    "wof:name":"Hulett Winstead Funeral Chapel",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -89.286464,
+    31.323167,
+    -89.286464,
+    31.323167
+],
+  "geometry": {"coordinates":[-89.286464,31.323167],"type":"Point"}
+}

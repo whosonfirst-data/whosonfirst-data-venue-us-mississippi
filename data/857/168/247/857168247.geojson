@@ -1,0 +1,75 @@
+{
+  "id": 857168247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.423311,33.501213,-88.423311,33.501213",
+    "geom:latitude":33.501213,
+    "geom:longitude":-88.423311,
+    "iso:country":"US",
+    "sg:address":"923 N 6th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3913",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIS0hT6B09CnitqqVUx2H_33.501213_-88.423311@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123537,
+    "wof:geomhash":"7cdcc939274272e7331ecb3a30853965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857168247
+        }
+    ],
+    "wof:id":857168247,
+    "wof:lastmodified":1464123537,
+    "wof:name":"Childrens Hse Clmbus Montessor",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.423311,
+    33.501213,
+    -88.423311,
+    33.501213
+],
+  "geometry": {"coordinates":[-88.423311,33.501213],"type":"Point"}
+}

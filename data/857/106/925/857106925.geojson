@@ -1,0 +1,73 @@
+{
+  "id": 857106925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.515265,34.347195,-89.515265,34.347195",
+    "geom:latitude":34.347195,
+    "geom:longitude":-89.515265,
+    "iso:country":"US",
+    "sg:address":"1192 S 18th St Exd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2086",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EG1YRdkOminMfNa3SeYn4_34.347195_-89.515265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122068,
+    "wof:geomhash":"15d890b7d46ccd4f962861980b083adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857106925
+        }
+    ],
+    "wof:id":857106925,
+    "wof:lastmodified":1464122068,
+    "wof:name":"Marascalo Dermatology Oxford",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.515265,
+    34.347195,
+    -89.515265,
+    34.347195
+],
+  "geometry": {"coordinates":[-89.515265,34.347195],"type":"Point"}
+}

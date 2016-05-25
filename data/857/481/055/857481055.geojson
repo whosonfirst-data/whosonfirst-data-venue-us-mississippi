@@ -1,0 +1,72 @@
+{
+  "id": 857481055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.705064,34.314079,-88.705064,34.314079",
+    "geom:latitude":34.314079,
+    "geom:longitude":-88.705064,
+    "iso:country":"US",
+    "sg:address":"836 Harmony Ln",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/243328-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3137",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SrPdWefirU61IIbTNzSdj_34.314079_-88.705064@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130389,
+    "wof:geomhash":"f337f2fe185ce6ede7ae44f5f1616b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481055
+        }
+    ],
+    "wof:id":857481055,
+    "wof:lastmodified":1464130389,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.705064,
+    34.314079,
+    -88.705064,
+    34.314079
+],
+  "geometry": {"coordinates":[-88.70506399999999,34.314079],"type":"Point"}
+}

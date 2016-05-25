@@ -1,0 +1,74 @@
+{
+  "id": 857485317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.333625,33.440792,-88.333625,33.440792",
+    "geom:latitude":33.440792,
+    "geom:longitude":-88.333625,
+    "iso:country":"US",
+    "sg:address":"1586 Lake Lowndes Rd ",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/columbus/293689-crawgators-cajun-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 352 1965",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cajun",
+        "creole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mm0kpAPBl22yi3GblfDNZ_33.440792_-88.333625@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130473,
+    "wof:geomhash":"e4f6d045ed4fec89a535b35147ec9a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857485317
+        }
+    ],
+    "wof:id":857485317,
+    "wof:lastmodified":1464130473,
+    "wof:name":"Crawgators Cajun Restaurant",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cajun",
+        "creole"
+    ]
+},
+  "bbox": [
+    -88.333625,
+    33.440792,
+    -88.333625,
+    33.440792
+],
+  "geometry": {"coordinates":[-88.333625,33.440792],"type":"Point"}
+}

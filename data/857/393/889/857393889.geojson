@@ -1,0 +1,73 @@
+{
+  "id": 857393889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.273806,31.325079,-89.273806,31.325079",
+    "geom:latitude":31.325079,
+    "geom:longitude":-89.273806,
+    "iso:country":"US",
+    "sg:address":"1600 E Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9462",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26wirOTPGHxLFjqa4vuOXE_31.325079_-89.273806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128499,
+    "wof:geomhash":"dbf615a3e0901992abb5cccf6cda0cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857393889
+        }
+    ],
+    "wof:id":857393889,
+    "wof:lastmodified":1464128499,
+    "wof:name":"Cadillac Corner",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.273806,
+    31.325079,
+    -89.273806,
+    31.325079
+],
+  "geometry": {"coordinates":[-89.27380599999999,31.325079],"type":"Point"}
+}

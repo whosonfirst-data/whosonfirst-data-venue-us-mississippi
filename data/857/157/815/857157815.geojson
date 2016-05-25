@@ -1,0 +1,71 @@
+{
+  "id": 857157815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.276254,33.879095,-88.276254,33.879095",
+    "geom:latitude":33.879095,
+    "geom:longitude":-88.276254,
+    "iso:country":"US",
+    "sg:address":"51008 Wolfe Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 256 4893",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dWgBtSl6Ai5GVVUErW3ND_33.879095_-88.276254@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123299,
+    "wof:geomhash":"41a0bb403a767ed9ddb9c2a84fe0355e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857157815
+        }
+    ],
+    "wof:id":857157815,
+    "wof:lastmodified":1464123299,
+    "wof:name":"Browning Garage",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.276254,
+    33.879095,
+    -88.276254,
+    33.879095
+],
+  "geometry": {"coordinates":[-88.27625399999999,33.879095],"type":"Point"}
+}

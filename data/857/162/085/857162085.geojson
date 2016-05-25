@@ -1,0 +1,74 @@
+{
+  "id": 857162085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.421689,33.501143,-88.421689,33.501143",
+    "geom:latitude":33.501143,
+    "geom:longitude":-88.421689,
+    "iso:country":"US",
+    "sg:address":"520 N 11th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 7175",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.muw.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62HEQp16eJjPI1fY9i0Sua_33.501143_-88.421689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123407,
+    "wof:geomhash":"34879f7b2c196246b4084054465b7936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857162085
+        }
+    ],
+    "wof:id":857162085,
+    "wof:lastmodified":1464123407,
+    "wof:name":"Education & Human Sciences",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.421689,
+    33.501143,
+    -88.421689,
+    33.501143
+],
+  "geometry": {"coordinates":[-88.421689,33.501143],"type":"Point"}
+}

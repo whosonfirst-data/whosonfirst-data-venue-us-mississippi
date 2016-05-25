@@ -1,0 +1,80 @@
+{
+  "id": 857348335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830441,34.946692,-89.830441,34.946692",
+    "geom:latitude":34.946692,
+    "geom:longitude":-89.830441,
+    "iso:country":"US",
+    "sg:address":"6055 Cockrum Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3030",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LUmavuuE8UxVqRo8ALLd5_34.946692_-89.830441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127450,
+    "wof:geomhash":"dd5c14e8e2fa88f2477c164056463a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857348335
+        }
+    ],
+    "wof:id":857348335,
+    "wof:lastmodified":1464127450,
+    "wof:name":"Motiva Enterprises LLC",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.830441,
+    34.946692,
+    -89.830441,
+    34.946692
+],
+  "geometry": {"coordinates":[-89.83044099999999,34.946692],"type":"Point"}
+}

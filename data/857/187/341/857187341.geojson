@@ -1,0 +1,71 @@
+{
+  "id": 857187341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659045,33.624206,-88.659045,33.624206",
+    "geom:latitude":33.624206,
+    "geom:longitude":-88.659045,
+    "iso:country":"US",
+    "sg:address":"1161 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 0080",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnEI8EU4db2HVGUVZwsP7_33.624206_-88.659045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123939,
+    "wof:geomhash":"b6a97aab79a1fb63ac158e576d9101f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857187341
+        }
+    ],
+    "wof:id":857187341,
+    "wof:lastmodified":1464123939,
+    "wof:name":"Five Star Cleaners",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.659045,
+    33.624206,
+    -88.659045,
+    33.624206
+],
+  "geometry": {"coordinates":[-88.65904500000001,33.624206],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857078967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659195,33.607038,-88.659195,33.607038",
+    "geom:latitude":33.607038,
+    "geom:longitude":-88.659195,
+    "iso:country":"US",
+    "sg:address":"1146 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9007",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ItRLoNOwSFi2TvlcGssln_33.607038_-88.659195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121379,
+    "wof:geomhash":"59add39eef153da07e5006270d345b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857078967
+        }
+    ],
+    "wof:id":857078967,
+    "wof:lastmodified":1464121379,
+    "wof:name":"Robert's Auto Sales",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.659195,
+    33.607038,
+    -88.659195,
+    33.607038
+],
+  "geometry": {"coordinates":[-88.659195,33.607038],"type":"Point"}
+}

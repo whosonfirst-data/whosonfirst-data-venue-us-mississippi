@@ -1,0 +1,75 @@
+{
+  "id": 857198577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.823599,30.413529,-88.823599,30.413529",
+    "geom:latitude":30.413529,
+    "geom:longitude":-88.823599,
+    "iso:country":"US",
+    "sg:address":"1314 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 5404",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f0mDSK9TukEuKBDq3AAvt_30.413529_-88.823599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124150,
+    "wof:geomhash":"7311869567fc50d8b355dd97e3375b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857198577
+        }
+    ],
+    "wof:id":857198577,
+    "wof:lastmodified":1464124150,
+    "wof:name":"Pet Pourri",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.823599,
+    30.413529,
+    -88.823599,
+    30.413529
+],
+  "geometry": {"coordinates":[-88.823599,30.413529],"type":"Point"}
+}

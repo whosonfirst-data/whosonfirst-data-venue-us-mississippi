@@ -1,0 +1,73 @@
+{
+  "id": 857391809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704577,32.365733,-88.704577,32.365733",
+    "geom:latitude":32.365733,
+    "geom:longitude":-88.704577,
+    "iso:country":"US",
+    "sg:address":"2500 9th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 0922",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y3I91z750wow4Oi5qCpCw_32.365733_-88.704577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128463,
+    "wof:geomhash":"8878c2b41271920bc5ee8650d2037b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857391809
+        }
+    ],
+    "wof:id":857391809,
+    "wof:lastmodified":1464128463,
+    "wof:name":"Mississippi Regional Housing",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -88.704577,
+    32.365733,
+    -88.704577,
+    32.365733
+],
+  "geometry": {"coordinates":[-88.704577,32.365733],"type":"Point"}
+}

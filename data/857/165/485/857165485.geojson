@@ -1,0 +1,71 @@
+{
+  "id": 857165485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.323279,31.300416,-89.323279,31.300416",
+    "geom:latitude":31.300416,
+    "geom:longitude":-89.323279,
+    "iso:country":"US",
+    "sg:address":"1818 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 2423",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58oOukDs832bPuAjmf1day_31.300416_-89.323279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123475,
+    "wof:geomhash":"ca39f52791efc79f787449628be0d22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857165485
+        }
+    ],
+    "wof:id":857165485,
+    "wof:lastmodified":1464123475,
+    "wof:name":"Crown Castle USA",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -89.323279,
+    31.300416,
+    -89.323279,
+    31.300416
+],
+  "geometry": {"coordinates":[-89.323279,31.300416],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857430823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525115,30.378986,-88.525115,30.378986",
+    "geom:latitude":30.378986,
+    "geom:longitude":-88.525115,
+    "iso:country":"US",
+    "sg:address":"4423 Chicot St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0039",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o2SwnwNG6zBg9pFOmJFM8_30.378986_-88.525115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129360,
+    "wof:geomhash":"c49a4b7b90e6ce9f5216e521586415d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857430823
+        }
+    ],
+    "wof:id":857430823,
+    "wof:lastmodified":1464129360,
+    "wof:name":"T & S Corner Mart",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.525115,
+    30.378986,
+    -88.525115,
+    30.378986
+],
+  "geometry": {"coordinates":[-88.525115,30.378986],"type":"Point"}
+}

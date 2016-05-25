@@ -1,0 +1,71 @@
+{
+  "id": 857473161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.252593,31.336737,-89.252593,31.336737",
+    "geom:latitude":31.336737,
+    "geom:longitude":-89.252593,
+    "iso:country":"US",
+    "sg:address":"111 Maywood Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9069",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "vinyl"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ud88EdhtCxsOOpVTlksze_31.336737_-89.252593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130240,
+    "wof:geomhash":"238ed0966d2a1d1257230a42bf2e5734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857473161
+        }
+    ],
+    "wof:id":857473161,
+    "wof:lastmodified":1464130240,
+    "wof:name":"Dr Vinyl Of The Hub South",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vinyl"
+    ]
+},
+  "bbox": [
+    -89.252593,
+    31.336737,
+    -89.252593,
+    31.336737
+],
+  "geometry": {"coordinates":[-89.252593,31.336737],"type":"Point"}
+}

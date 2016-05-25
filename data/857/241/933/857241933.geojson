@@ -1,0 +1,71 @@
+{
+  "id": 857241933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.448574,34.421441,-89.448574,34.421441",
+    "geom:latitude":34.421441,
+    "geom:longitude":-89.448574,
+    "iso:country":"US",
+    "sg:address":"25 Co Rd 206",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9604",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vCuNyYtI2CnGMy2Z6RuaW_34.421441_-89.448574@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125057,
+    "wof:geomhash":"8d677236fbd6c923c1468fd7c658d73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857241933
+        }
+    ],
+    "wof:id":857241933,
+    "wof:lastmodified":1464125057,
+    "wof:name":"Mize Electric",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.448574,
+    34.421441,
+    -89.448574,
+    34.421441
+],
+  "geometry": {"coordinates":[-89.44857399999999,34.421441],"type":"Point"}
+}

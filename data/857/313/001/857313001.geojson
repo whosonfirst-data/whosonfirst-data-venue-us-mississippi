@@ -1,0 +1,73 @@
+{
+  "id": 857313001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087471,32.455648,-90.087471,32.455648",
+    "geom:latitude":32.455648,
+    "geom:longitude":-90.087471,
+    "iso:country":"US",
+    "sg:address":"424 Autumn Oak Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 1685",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KkhgoV4lLePGroG8gnqrN_32.455648_-90.087471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126681,
+    "wof:geomhash":"7011c8c02987b931bcb2261ac8f90713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857313001
+        }
+    ],
+    "wof:id":857313001,
+    "wof:lastmodified":1464126681,
+    "wof:name":"Tim Bour Construction LLC",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.087471,
+    32.455648,
+    -90.087471,
+    32.455648
+],
+  "geometry": {"coordinates":[-90.08747099999999,32.455648],"type":"Point"}
+}

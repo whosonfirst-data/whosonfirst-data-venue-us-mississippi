@@ -1,0 +1,71 @@
+{
+  "id": 857440631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.082652,32.454884,-90.082652,32.454884",
+    "geom:latitude":32.454884,
+    "geom:longitude":-90.082652,
+    "iso:country":"US",
+    "sg:address":"305 Oak Hollow Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 2278",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P3gPFL9jtwscy8gAIpCwM_32.454884_-90.082652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129580,
+    "wof:geomhash":"3ccecb73befbf6b6a07930ba09a7e9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857440631
+        }
+    ],
+    "wof:id":857440631,
+    "wof:lastmodified":1464129580,
+    "wof:name":"Stevens Kenneth Brick & Masnry",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.082652,
+    32.454884,
+    -90.082652,
+    32.454884
+],
+  "geometry": {"coordinates":[-90.082652,32.454884],"type":"Point"}
+}

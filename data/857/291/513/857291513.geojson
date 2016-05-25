@@ -1,0 +1,73 @@
+{
+  "id": 857291513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.310662,31.324646,-89.310662,31.324646",
+    "geom:latitude":31.324646,
+    "geom:longitude":-89.310662,
+    "iso:country":"US",
+    "sg:address":"1318 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 6644",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ENoNwv1qiSVasBxkRMTc_31.324646_-89.310662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126182,
+    "wof:geomhash":"099e2b6314ae05aa463f3a8b30090c04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857291513
+        }
+    ],
+    "wof:id":857291513,
+    "wof:lastmodified":1464126182,
+    "wof:name":"Alcohol Beverage Control",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -89.310662,
+    31.324646,
+    -89.310662,
+    31.324646
+],
+  "geometry": {"coordinates":[-89.31066199999999,31.324646],"type":"Point"}
+}

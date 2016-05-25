@@ -1,0 +1,73 @@
+{
+  "id": 857398951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.72834,34.182027,-88.72834,34.182027",
+    "geom:latitude":34.182027,
+    "geom:longitude":-88.72834,
+    "iso:country":"US",
+    "sg:address":"130 Mattox Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7824",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MLBPGTku5u8k1AieaeFAL_34.182027_-88.728340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128604,
+    "wof:geomhash":"48ae03130ced70146bd67d66d8a5694a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857398951
+        }
+    ],
+    "wof:id":857398951,
+    "wof:lastmodified":1464128604,
+    "wof:name":"Heatherly Sales",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.72834,
+    34.182027,
+    -88.72834,
+    34.182027
+],
+  "geometry": {"coordinates":[-88.72834,34.182027],"type":"Point"}
+}

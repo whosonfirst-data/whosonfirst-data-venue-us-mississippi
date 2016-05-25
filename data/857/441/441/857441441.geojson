@@ -1,0 +1,73 @@
+{
+  "id": 857441441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111734,32.176238,-90.111734,32.176238",
+    "geom:latitude":32.176238,
+    "geom:longitude":-90.111734,
+    "iso:country":"US",
+    "sg:address":"2321 Tiffany Cir",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 9230",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fidelity",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZpjKY7yJ4tktVioMX8NDl_32.176238_-90.111734@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129595,
+    "wof:geomhash":"75e1312ea7dbdb5dd537f6e66e5285b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857441441
+        }
+    ],
+    "wof:id":857441441,
+    "wof:lastmodified":1464129595,
+    "wof:name":"Producers Group",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fidelity",
+        "bond"
+    ]
+},
+  "bbox": [
+    -90.111734,
+    32.176238,
+    -90.111734,
+    32.176238
+],
+  "geometry": {"coordinates":[-90.111734,32.176238],"type":"Point"}
+}

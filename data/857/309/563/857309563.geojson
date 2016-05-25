@@ -1,0 +1,73 @@
+{
+  "id": 857309563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.227393,32.266982,-90.227393,32.266982",
+    "geom:latitude":32.266982,
+    "geom:longitude":-90.227393,
+    "iso:country":"US",
+    "sg:address":"2625 Belvedere Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 372 2762",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YwhBSLkmAd2smgjDPQ8X2_32.266982_-90.227393@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126610,
+    "wof:geomhash":"3a6513f5d7624052f45c497bb52f913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857309563
+        }
+    ],
+    "wof:id":857309563,
+    "wof:lastmodified":1464126610,
+    "wof:name":"Belvedere Apartments",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.227393,
+    32.266982,
+    -90.227393,
+    32.266982
+],
+  "geometry": {"coordinates":[-90.22739300000001,32.266982],"type":"Point"}
+}

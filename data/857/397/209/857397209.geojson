@@ -1,0 +1,71 @@
+{
+  "id": 857397209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.337148,31.326414,-89.337148,31.326414",
+    "geom:latitude":31.326414,
+    "geom:longitude":-89.337148,
+    "iso:country":"US",
+    "sg:address":"115 N 32nd Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 3914",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yddNS6LtZpxlWNmkK6b8L_31.326414_-89.337148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128573,
+    "wof:geomhash":"21321927843827ee2cbcf87b758c2047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857397209
+        }
+    ],
+    "wof:id":857397209,
+    "wof:lastmodified":1464128573,
+    "wof:name":"Robynwood Apartments",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.337148,
+    31.326414,
+    -89.337148,
+    31.326414
+],
+  "geometry": {"coordinates":[-89.337148,31.326414],"type":"Point"}
+}

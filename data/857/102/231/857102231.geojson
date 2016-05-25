@@ -1,0 +1,75 @@
+{
+  "id": 857102231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.128064,32.429718,-90.128064,32.429718",
+    "geom:latitude":32.429718,
+    "geom:longitude":-90.128064,
+    "iso:country":"US",
+    "sg:address":"579 US Hwy 51",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 1484",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DLNvxowQU0OF78DcsHj1Q_32.429718_-90.128064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121965,
+    "wof:geomhash":"1c00f6e88fc934872eef16eb30ec71e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857102231
+        }
+    ],
+    "wof:id":857102231,
+    "wof:lastmodified":1464121965,
+    "wof:name":"Magmed",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.128064,
+    32.429718,
+    -90.128064,
+    32.429718
+],
+  "geometry": {"coordinates":[-90.12806399999999,32.429718],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857469019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.664309,32.298916,-88.664309,32.298916",
+    "geom:latitude":32.298916,
+    "geom:longitude":-88.664309,
+    "iso:country":"US",
+    "sg:address":"329 Jeffery Acres Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 7294",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ahmNl9uX8M8W5jnvD0lrk_32.298916_-88.664309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130151,
+    "wof:geomhash":"7784a4bf54c38d4616dfd111b9129139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857469019
+        }
+    ],
+    "wof:id":857469019,
+    "wof:lastmodified":1464130151,
+    "wof:name":"Jennifer Webb B&L Truckin",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.664309,
+    32.298916,
+    -88.664309,
+    32.298916
+],
+  "geometry": {"coordinates":[-88.664309,32.298916],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857346045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.107085,32.462421,-90.107085,32.462421",
+    "geom:latitude":32.462421,
+    "geom:longitude":-90.107085,
+    "iso:country":"US",
+    "sg:address":"7724 Old Canton Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 1262",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q07F4OS3F3TtuGZ6ZYZFx_32.462421_-90.107085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127395,
+    "wof:geomhash":"bb6b9a49211399ad93e09974715863b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857346045
+        }
+    ],
+    "wof:id":857346045,
+    "wof:lastmodified":1464127395,
+    "wof:name":"Madison Family Medical Clinic",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.107085,
+    32.462421,
+    -90.107085,
+    32.462421
+],
+  "geometry": {"coordinates":[-90.107085,32.462421],"type":"Point"}
+}

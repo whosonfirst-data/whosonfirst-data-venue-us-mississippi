@@ -1,0 +1,68 @@
+{
+  "id": 857384339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.225873,32.32054,-90.225873,32.32054",
+    "geom:latitude":32.32054,
+    "geom:longitude":-90.225873,
+    "iso:country":"US",
+    "sg:address":"3001 W Capitol St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 968 0100",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YzTQq2OozgM0pRxfADkqK_32.320540_-90.225873@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128252,
+    "wof:geomhash":"ab61d7d23c03d8d1a66bc08ba31cea8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857384339
+        }
+    ],
+    "wof:id":857384339,
+    "wof:lastmodified":1464128252,
+    "wof:name":"Nu You",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.225873,
+    32.32054,
+    -90.225873,
+    32.32054
+],
+  "geometry": {"coordinates":[-90.22587300000001,32.32054],"type":"Point"}
+}

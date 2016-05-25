@@ -1,0 +1,71 @@
+{
+  "id": 857104595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651892,33.605763,-88.651892,33.605763",
+    "geom:latitude":33.605763,
+    "geom:longitude":-88.651892,
+    "iso:country":"US",
+    "sg:address":"213 High St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 4320",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cbDzDZ7pnfDAumZgmeiLY_33.605763_-88.651892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122018,
+    "wof:geomhash":"9480344dca3a4b117b9f9bb9ba366edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857104595
+        }
+    ],
+    "wof:id":857104595,
+    "wof:lastmodified":1464122018,
+    "wof:name":"Community Counseling Elderly",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -88.651892,
+    33.605763,
+    -88.651892,
+    33.605763
+],
+  "geometry": {"coordinates":[-88.651892,33.605763],"type":"Point"}
+}

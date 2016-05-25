@@ -1,0 +1,71 @@
+{
+  "id": 857222697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.337652,31.349482,-89.337652,31.349482",
+    "geom:latitude":31.349482,
+    "geom:longitude":-89.337652,
+    "iso:country":"US",
+    "sg:address":"5484 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7538",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r0rVbF3f7NMgeRpVTFgV5_31.349482_-89.337652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124669,
+    "wof:geomhash":"fe6d35fb6aa6177f5744fb6d0bd1b3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857222697
+        }
+    ],
+    "wof:id":857222697,
+    "wof:lastmodified":1464124669,
+    "wof:name":"Hattiesburg Trckg Equiptment",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.337652,
+    31.349482,
+    -89.337652,
+    31.349482
+],
+  "geometry": {"coordinates":[-89.33765200000001,31.349482],"type":"Point"}
+}

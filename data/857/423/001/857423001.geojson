@@ -1,0 +1,77 @@
+{
+  "id": 857423001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425585,33.495593,-88.425585,33.495593",
+    "geom:latitude":33.495593,
+    "geom:longitude":-88.425585,
+    "iso:country":"US",
+    "sg:address":"915 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4183",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ki8jLtv4NjGhxAayiGPQp_33.495593_-88.425585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129168,
+    "wof:geomhash":"ebce6d814a7ef008a50f477aafa003fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857423001
+        }
+    ],
+    "wof:id":857423001,
+    "wof:lastmodified":1464129168,
+    "wof:name":"Design Group",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -88.425585,
+    33.495593,
+    -88.425585,
+    33.495593
+],
+  "geometry": {"coordinates":[-88.425585,33.495593],"type":"Point"}
+}

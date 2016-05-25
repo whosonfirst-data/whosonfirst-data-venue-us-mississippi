@@ -1,0 +1,71 @@
+{
+  "id": 857375243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.656028,34.221989,-88.656028,34.221989",
+    "geom:latitude":34.221989,
+    "geom:longitude":-88.656028,
+    "iso:country":"US",
+    "sg:address":"542 State Park Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8438",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24EBFZrHAB6YvNuYpwxrAd_34.221989_-88.656028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128013,
+    "wof:geomhash":"315f0aaccd749ecb7356b41b9a278e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857375243
+        }
+    ],
+    "wof:id":857375243,
+    "wof:lastmodified":1464128013,
+    "wof:name":"New Hope Baptist Church",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.656028,
+    34.221989,
+    -88.656028,
+    34.221989
+],
+  "geometry": {"coordinates":[-88.65602800000001,34.221989],"type":"Point"}
+}

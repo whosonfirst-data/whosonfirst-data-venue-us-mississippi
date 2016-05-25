@@ -1,0 +1,73 @@
+{
+  "id": 857418751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534618,30.389736,-88.534618,30.389736",
+    "geom:latitude":30.389736,
+    "geom:longitude":-88.534618,
+    "iso:country":"US",
+    "sg:address":"4501 Jefferson Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7451",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IO54OpCBMPx6cxeB1vhO_30.389736_-88.534618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129073,
+    "wof:geomhash":"4085c9fd677c466fed682ca9fa559e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857418751
+        }
+    ],
+    "wof:id":857418751,
+    "wof:lastmodified":1464129073,
+    "wof:name":"Singing River Rehab & Nursing",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.534618,
+    30.389736,
+    -88.534618,
+    30.389736
+],
+  "geometry": {"coordinates":[-88.53461799999999,30.389736],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857186581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.817388,34.937333,-89.817388,34.937333",
+    "geom:latitude":34.937333,
+    "geom:longitude":-89.817388,
+    "iso:country":"US",
+    "sg:address":"9631 US Hwy 78",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 1054",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B1LmLc8g32iF049ff2PFe_34.937333_-89.817388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123925,
+    "wof:geomhash":"4663bca765a665e97e8a5c11892ed66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857186581
+        }
+    ],
+    "wof:id":857186581,
+    "wof:lastmodified":1464123925,
+    "wof:name":"Shear Xpressions",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.817388,
+    34.937333,
+    -89.817388,
+    34.937333
+],
+  "geometry": {"coordinates":[-89.81738799999999,34.937333],"type":"Point"}
+}

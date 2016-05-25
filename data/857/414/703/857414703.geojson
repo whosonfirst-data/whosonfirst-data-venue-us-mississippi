@@ -1,0 +1,78 @@
+{
+  "id": 857414703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772759,34.246924,-88.772759,34.246924",
+    "geom:latitude":34.246924,
+    "geom:longitude":-88.772759,
+    "iso:country":"US",
+    "sg:address":"4855 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 1017",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "feed",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YNjgtFLqPXR1EDrWHSrFW_34.246924_-88.772759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128961,
+    "wof:geomhash":"639c17f0e290adee1b1f5144a39039eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857414703
+        }
+    ],
+    "wof:id":857414703,
+    "wof:lastmodified":1464128961,
+    "wof:name":"Trace Feed and Farm Supply",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.772759,
+    34.246924,
+    -88.772759,
+    34.246924
+],
+  "geometry": {"coordinates":[-88.77275899999999,34.246924],"type":"Point"}
+}

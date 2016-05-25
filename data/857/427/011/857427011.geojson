@@ -1,0 +1,71 @@
+{
+  "id": 857427011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.560655,33.829279,-88.560655,33.829279",
+    "geom:latitude":33.829279,
+    "geom:longitude":-88.560655,
+    "iso:country":"US",
+    "sg:address":"970 W Vine St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 0565",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XJuZkYGrUSyY3CLnIqKkK_33.829279_-88.560655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129279,
+    "wof:geomhash":"8abb54122a2c657354ec81afea16a698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857427011
+        }
+    ],
+    "wof:id":857427011,
+    "wof:lastmodified":1464129279,
+    "wof:name":"C&C Travel LLC",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -88.560655,
+    33.829279,
+    -88.560655,
+    33.829279
+],
+  "geometry": {"coordinates":[-88.560655,33.829279],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857079929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.248007,32.356271,-90.248007,32.356271",
+    "geom:latitude":32.356271,
+    "geom:longitude":-90.248007,
+    "iso:country":"US",
+    "sg:address":"4434 E Northside Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 922 5537",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85838363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HjXMnko8n2DVkp3wKP5ns_32.356271_-90.248007@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121400,
+    "wof:geomhash":"e29816abea450c25c08938e13175c770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85838363,
+            "region_id":85688579,
+            "venue_id":857079929
+        }
+    ],
+    "wof:id":857079929,
+    "wof:lastmodified":1464121400,
+    "wof:name":"Murriel's Auto Body & Paint",
+    "wof:parent_id":85838363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.248007,
+    32.356271,
+    -90.248007,
+    32.356271
+],
+  "geometry": {"coordinates":[-90.248007,32.356271],"type":"Point"}
+}

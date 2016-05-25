@@ -1,0 +1,78 @@
+{
+  "id": 857445963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692565,34.450763,-88.692565,34.450763",
+    "geom:latitude":34.450763,
+    "geom:longitude":-88.692565,
+    "iso:country":"US",
+    "sg:address":"1334 Hwy 348",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 5505",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EH9PDsoAv9bWyMPkGCC5h_34.450763_-88.692565@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129682,
+    "wof:geomhash":"f528ad7d6b2f5648cc565c86cae01b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857445963
+        }
+    ],
+    "wof:id":857445963,
+    "wof:lastmodified":1464129682,
+    "wof:name":"Le Bonheur Childrens Med Ctr",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.692565,
+    34.450763,
+    -88.692565,
+    34.450763
+],
+  "geometry": {"coordinates":[-88.692565,34.450763],"type":"Point"}
+}

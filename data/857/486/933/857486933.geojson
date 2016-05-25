@@ -1,0 +1,76 @@
+{
+  "id": 857486933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.580551,34.195323,-90.580551,34.195323",
+    "geom:latitude":34.195323,
+    "geom:longitude":-90.580551,
+    "iso:country":"US",
+    "sg:address":"1050 Walnut St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8580",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E9cqFFzoHImyBbKcWjNr4_34.195323_-90.580551@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130502,
+    "wof:geomhash":"151c8e12aab6f81fddd7bd7c0241d586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486933
+        }
+    ],
+    "wof:id":857486933,
+    "wof:lastmodified":1464130502,
+    "wof:name":"Carl Keen Vocational Center",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -90.580551,
+    34.195323,
+    -90.580551,
+    34.195323
+],
+  "geometry": {"coordinates":[-90.580551,34.195323],"type":"Point"}
+}

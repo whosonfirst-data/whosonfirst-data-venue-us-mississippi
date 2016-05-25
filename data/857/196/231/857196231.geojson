@@ -1,0 +1,66 @@
+{
+  "id": 857196231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.526967,34.375085,-89.526967,34.375085",
+    "geom:latitude":34.375085,
+    "geom:longitude":-89.526967,
+    "iso:country":"US",
+    "sg:address":"725 Molly Barr Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2929",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Aj4eLehjGMJg4441POsg1_34.375085_-89.526967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124104,
+    "wof:geomhash":"68d61a03edb6c0b02a96bc7d8b4d0295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857196231
+        }
+    ],
+    "wof:id":857196231,
+    "wof:lastmodified":1464124104,
+    "wof:name":"Rockette's One Stop Express",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.526967,
+    34.375085,
+    -89.526967,
+    34.375085
+],
+  "geometry": {"coordinates":[-89.526967,34.375085],"type":"Point"}
+}

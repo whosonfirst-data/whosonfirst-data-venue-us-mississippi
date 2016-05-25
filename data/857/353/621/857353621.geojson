@@ -1,0 +1,71 @@
+{
+  "id": 857353621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.24892,31.279581,-89.24892,31.279581",
+    "geom:latitude":31.279581,
+    "geom:longitude":-89.24892,
+    "iso:country":"US",
+    "sg:address":"1930 James St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7131",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NcBya8vuINOTv7p2fXIUb_31.279581_-89.248920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127566,
+    "wof:geomhash":"2e8fb98f9b5add48d2420bddd1d57689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857353621
+        }
+    ],
+    "wof:id":857353621,
+    "wof:lastmodified":1464127566,
+    "wof:name":"Elks Septic Tank Service",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -89.24892,
+    31.279581,
+    -89.24892,
+    31.279581
+],
+  "geometry": {"coordinates":[-89.24892,31.279581],"type":"Point"}
+}

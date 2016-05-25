@@ -1,0 +1,71 @@
+{
+  "id": 857193559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.326479,32.303367,-90.326479,32.303367",
+    "geom:latitude":32.303367,
+    "geom:longitude":-90.326479,
+    "iso:country":"US",
+    "sg:address":"1202 Springridge Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 2411",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R6edH6932JSUaIgBE8v2V_32.303367_-90.326479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124052,
+    "wof:geomhash":"8b977efc3f7a68969c67eccffe9c19f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857193559
+        }
+    ],
+    "wof:id":857193559,
+    "wof:lastmodified":1464124052,
+    "wof:name":"Cross Road Consulting",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -90.326479,
+    32.303367,
+    -90.326479,
+    32.303367
+],
+  "geometry": {"coordinates":[-90.32647900000001,32.303367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857084543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.244422,30.318316,-89.244422,30.318316",
+    "geom:latitude":30.318316,
+    "geom:longitude":-89.244422,
+    "iso:country":"US",
+    "sg:address":"218 Saucier Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 2799",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y7YctRG0Tn5MHOX5fohx9_30.318316_-89.244422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121521,
+    "wof:geomhash":"ff73fdd492fb4c201635d28880c66875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857084543
+        }
+    ],
+    "wof:id":857084543,
+    "wof:lastmodified":1464121521,
+    "wof:name":"Our Mother Of Mercy",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.244422,
+    30.318316,
+    -89.244422,
+    30.318316
+],
+  "geometry": {"coordinates":[-89.244422,30.318316],"type":"Point"}
+}

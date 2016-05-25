@@ -1,0 +1,71 @@
+{
+  "id": 857155859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680129,34.371508,-88.680129,34.371508",
+    "geom:latitude":34.371508,
+    "geom:longitude":-88.680129,
+    "iso:country":"US",
+    "sg:address":"179 Fellowship Rd",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 2107",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tSYYRN4UItsid749okuVW_34.371508_-88.680129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123264,
+    "wof:geomhash":"6747a42202203f95d223776b356470ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857155859
+        }
+    ],
+    "wof:id":857155859,
+    "wof:lastmodified":1464123264,
+    "wof:name":"Waste Water Plant",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -88.680129,
+    34.371508,
+    -88.680129,
+    34.371508
+],
+  "geometry": {"coordinates":[-88.68012899999999,34.371508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857142763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.10789,32.468444,-90.10789,32.468444",
+    "geom:latitude":32.468444,
+    "geom:longitude":-90.10789,
+    "iso:country":"US",
+    "sg:address":"1073 US Hwy 51",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 0402",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yT4i0yoHD10B7PMHD8dmt_32.468444_-90.107890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122957,
+    "wof:geomhash":"3fa80d284e1ad37bd5f096d59c01a4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857142763
+        }
+    ],
+    "wof:id":857142763,
+    "wof:lastmodified":1464122957,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.10789,
+    32.468444,
+    -90.10789,
+    32.468444
+],
+  "geometry": {"coordinates":[-90.10789,32.468444],"type":"Point"}
+}

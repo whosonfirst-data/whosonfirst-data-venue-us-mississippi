@@ -1,0 +1,68 @@
+{
+  "id": 857370425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.962661,34.986975,-89.962661,34.986975",
+    "geom:latitude":34.986975,
+    "geom:longitude":-89.962661,
+    "iso:country":"US",
+    "sg:address":"2010 Stateline Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 393 0373",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11WuuVoJ3hqdCVlSnolLXJ_34.986975_-89.962661@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127915,
+    "wof:geomhash":"f3492e88544b3e27f745a3e8acef3ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857370425
+        }
+    ],
+    "wof:id":857370425,
+    "wof:lastmodified":1464127915,
+    "wof:name":"Southaven Cinemas",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.962661,
+    34.986975,
+    -89.962661,
+    34.986975
+],
+  "geometry": {"coordinates":[-89.962661,34.986975],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857334239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.174246,32.334841,-90.174246,32.334841",
+    "geom:latitude":32.334841,
+    "geom:longitude":-90.174246,
+    "iso:country":"US",
+    "sg:address":"2945 Old Canton Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 5575",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3flTI8EN6JIzH8xengC7eN_32.334841_-90.174246@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127152,
+    "wof:geomhash":"235c473135bfc7810a8b3e8c30cffc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878395,
+            "region_id":85688579,
+            "venue_id":857334239
+        }
+    ],
+    "wof:id":857334239,
+    "wof:lastmodified":1464127152,
+    "wof:name":"Nail Gallery",
+    "wof:parent_id":85878395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -90.174246,
+    32.334841,
+    -90.174246,
+    32.334841
+],
+  "geometry": {"coordinates":[-90.174246,32.334841],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857238383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510066,34.381415,-89.510066,34.381415",
+    "geom:latitude":34.381415,
+    "geom:longitude":-89.510066,
+    "iso:country":"US",
+    "sg:address":"1350 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 0092",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nK46EgiVqHYdvHPxxPFVm_34.381415_-89.510066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124971,
+    "wof:geomhash":"f2125ccd97c09219ffcddc2950a236f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857238383
+        }
+    ],
+    "wof:id":857238383,
+    "wof:lastmodified":1464124971,
+    "wof:name":"Party Waitin To Happen",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -89.510066,
+    34.381415,
+    -89.510066,
+    34.381415
+],
+  "geometry": {"coordinates":[-89.51006599999999,34.381415],"type":"Point"}
+}

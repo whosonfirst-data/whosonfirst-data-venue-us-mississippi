@@ -1,0 +1,75 @@
+{
+  "id": 857305295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.882318,32.331176,-90.882318,32.331176",
+    "geom:latitude":32.331176,
+    "geom:longitude":-90.882318,
+    "iso:country":"US",
+    "sg:address":"2902 Drummond St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 1313",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50KGfYq1tXotX4cuaBQYUB_32.331176_-90.882318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126525,
+    "wof:geomhash":"6f9bbc242485a89724676cb7a0efac97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857305295
+        }
+    ],
+    "wof:id":857305295,
+    "wof:lastmodified":1464126525,
+    "wof:name":"James L Halford Elec Contr",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.882318,
+    32.331176,
+    -90.882318,
+    32.331176
+],
+  "geometry": {"coordinates":[-90.882318,32.331176],"type":"Point"}
+}

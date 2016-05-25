@@ -1,0 +1,75 @@
+{
+  "id": 857381331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.763298,34.258957,-88.763298,34.258957",
+    "geom:latitude":34.258957,
+    "geom:longitude":-88.763298,
+    "iso:country":"US",
+    "sg:address":"202 Air Park Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6844",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hIYFzmdsolqZbvbDkpbY4_34.258957_-88.763298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128159,
+    "wof:geomhash":"8ebfc46ad74bb0f87fcc1b76f9217ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857381331
+        }
+    ],
+    "wof:id":857381331,
+    "wof:lastmodified":1464128159,
+    "wof:name":"Custom Glass",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -88.763298,
+    34.258957,
+    -88.763298,
+    34.258957
+],
+  "geometry": {"coordinates":[-88.76329800000001,34.258957],"type":"Point"}
+}

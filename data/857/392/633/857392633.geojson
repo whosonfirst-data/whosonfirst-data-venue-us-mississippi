@@ -1,0 +1,71 @@
+{
+  "id": 857392633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686575,32.370589,-88.686575,32.370589",
+    "geom:latitude":32.370589,
+    "geom:longitude":-88.686575,
+    "iso:country":"US",
+    "sg:address":"721 Front St Exd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 4003",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kLpXsqKNGau3iGiPwc6nG_32.370589_-88.686575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128477,
+    "wof:geomhash":"4dee390fbd2d3995567a66cacf03bab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857392633
+        }
+    ],
+    "wof:id":857392633,
+    "wof:lastmodified":1464128477,
+    "wof:name":"Vital Care",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.686575,
+    32.370589,
+    -88.686575,
+    32.370589
+],
+  "geometry": {"coordinates":[-88.686575,32.370589],"type":"Point"}
+}

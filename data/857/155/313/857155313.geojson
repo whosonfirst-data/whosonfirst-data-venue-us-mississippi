@@ -1,0 +1,73 @@
+{
+  "id": 857155313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.179763,30.364101,-89.179763,30.364101",
+    "geom:latitude":30.364101,
+    "geom:longitude":-89.179763,
+    "iso:country":"US",
+    "sg:address":"5111 Ashley Ln",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 575 6970",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Poi54sJNYA4Vodcr9ldQZ_30.364101_-89.179763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123254,
+    "wof:geomhash":"111afe29c964ed5a41827f058e14db12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857155313
+        }
+    ],
+    "wof:id":857155313,
+    "wof:lastmodified":1464123254,
+    "wof:name":"Gulf Coast Appraisal Svc",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -89.179763,
+    30.364101,
+    -89.179763,
+    30.364101
+],
+  "geometry": {"coordinates":[-89.17976299999999,30.364101],"type":"Point"}
+}

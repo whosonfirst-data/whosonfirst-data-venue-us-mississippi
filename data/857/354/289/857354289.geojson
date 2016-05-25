@@ -1,0 +1,75 @@
+{
+  "id": 857354289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.041907,32.115209,-90.041907,32.115209",
+    "geom:latitude":32.115209,
+    "geom:longitude":-90.041907,
+    "iso:country":"US",
+    "sg:address":"138 Williams Dr",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 2320",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iAY9m2qaFc0CGiICyefQm_32.115209_-90.041907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127579,
+    "wof:geomhash":"e9bc522f06e6335fca04f7abe4f6640a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857354289
+        }
+    ],
+    "wof:id":857354289,
+    "wof:lastmodified":1464127579,
+    "wof:name":"Mickey Knight",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.041907,
+    32.115209,
+    -90.041907,
+    32.115209
+],
+  "geometry": {"coordinates":[-90.04190699999999,32.115209],"type":"Point"}
+}

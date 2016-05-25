@@ -1,0 +1,71 @@
+{
+  "id": 857376335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.705298,32.369794,-88.705298,32.369794",
+    "geom:latitude":32.369794,
+    "geom:longitude":-88.705298,
+    "iso:country":"US",
+    "sg:address":"1202 27th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 7306",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HXqrvVuaI60ehtpXG6UzJ_32.369794_-88.705298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128045,
+    "wof:geomhash":"3541258b6c06d3361a2de1fc82e867c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857376335
+        }
+    ],
+    "wof:id":857376335,
+    "wof:lastmodified":1464128045,
+    "wof:name":"Darden's Florist & Gift Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.705298,
+    32.369794,
+    -88.705298,
+    32.369794
+],
+  "geometry": {"coordinates":[-88.705298,32.369794],"type":"Point"}
+}

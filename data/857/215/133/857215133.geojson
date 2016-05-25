@@ -1,0 +1,74 @@
+{
+  "id": 857215133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708042,32.410416,-88.708042,32.410416",
+    "geom:latitude":32.410416,
+    "geom:longitude":-88.708042,
+    "iso:country":"US",
+    "sg:address":"2600 Old N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 2257",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "sg:website":"www.mstc.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bbRQ0CS6IBgfxXyxAgxOO_32.410416_-88.708042@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124516,
+    "wof:geomhash":"3fdb561b27809a1699afa7718098ce7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857215133
+        }
+    ],
+    "wof:id":857215133,
+    "wof:lastmodified":1464124516,
+    "wof:name":"Tax Commission",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -88.708042,
+    32.410416,
+    -88.708042,
+    32.410416
+],
+  "geometry": {"coordinates":[-88.70804200000001,32.410416],"type":"Point"}
+}

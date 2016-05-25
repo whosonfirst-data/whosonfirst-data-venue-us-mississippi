@@ -1,0 +1,71 @@
+{
+  "id": 857232633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.438072,33.567745,-88.438072,33.567745",
+    "geom:latitude":33.567745,
+    "geom:longitude":-88.438072,
+    "iso:country":"US",
+    "sg:address":"150 Hwy 373",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8520",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GJwkU6oZcg7lBYWMXugOx_33.567745_-88.438072@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124853,
+    "wof:geomhash":"b58e859d90f6fe16a2c19f9dfd815257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857232633
+        }
+    ],
+    "wof:id":857232633,
+    "wof:lastmodified":1464124853,
+    "wof:name":"Forestry Commission Work Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -88.438072,
+    33.567745,
+    -88.438072,
+    33.567745
+],
+  "geometry": {"coordinates":[-88.43807200000001,33.567745],"type":"Point"}
+}

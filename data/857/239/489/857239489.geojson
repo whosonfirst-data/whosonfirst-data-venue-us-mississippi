@@ -1,0 +1,71 @@
+{
+  "id": 857239489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.735461,34.238474,-88.735461,34.238474",
+    "geom:latitude":34.238474,
+    "geom:longitude":-88.735461,
+    "iso:country":"US",
+    "sg:address":"1896 Swan Cir",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 0010",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ve9YjjaWpy8ZoE8x4nYqC_34.238474_-88.735461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124991,
+    "wof:geomhash":"6f8ce0d1d65db335ffc34c587b13cd3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857239489
+        }
+    ],
+    "wof:id":857239489,
+    "wof:lastmodified":1464124991,
+    "wof:name":"Sunset Mortgage Company LP",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -88.735461,
+    34.238474,
+    -88.735461,
+    34.238474
+],
+  "geometry": {"coordinates":[-88.735461,34.238474],"type":"Point"}
+}

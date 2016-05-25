@@ -1,0 +1,75 @@
+{
+  "id": 857408029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528498,30.349797,-88.528498,30.349797",
+    "geom:latitude":30.349797,
+    "geom:longitude":-88.528498,
+    "iso:country":"US",
+    "sg:address":"1002 22nd St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 9269",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0asVDSesQvcFrJIeVG7XUP_30.349797_-88.528498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128796,
+    "wof:geomhash":"6e134334e58ee15e6aee5e9270aaca0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857408029
+        }
+    ],
+    "wof:id":857408029,
+    "wof:lastmodified":1464128796,
+    "wof:name":"Sherman & Sherman Trucking",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.528498,
+    30.349797,
+    -88.528498,
+    30.349797
+],
+  "geometry": {"coordinates":[-88.528498,30.349797],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857441111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.315018,33.451278,-88.315018,33.451278",
+    "geom:latitude":33.451278,
+    "geom:longitude":-88.315018,
+    "iso:country":"US",
+    "sg:address":"467 Old Yorkville Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1498",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ny1ghoXqpHvQ8SDwR3Rqh_33.451278_-88.315018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129589,
+    "wof:geomhash":"8c82036acb5764773450270ae65e96b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857441111
+        }
+    ],
+    "wof:id":857441111,
+    "wof:lastmodified":1464129589,
+    "wof:name":"Greenes Electric and Air",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.315018,
+    33.451278,
+    -88.315018,
+    33.451278
+],
+  "geometry": {"coordinates":[-88.31501799999999,33.451278],"type":"Point"}
+}

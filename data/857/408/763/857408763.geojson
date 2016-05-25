@@ -1,0 +1,69 @@
+{
+  "id": 857408763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.42857,31.316863,-89.42857,31.316863",
+    "geom:latitude":31.316863,
+    "geom:longitude":-89.42857,
+    "iso:country":"US",
+    "sg:address":"6657 US Hwy 98",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 0537",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oAxUe45sL0FFOOw1a0hRR_31.316863_-89.428570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128808,
+    "wof:geomhash":"b3e71c2f1e12d76649d34048655d7440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857408763
+        }
+    ],
+    "wof:id":857408763,
+    "wof:lastmodified":1464128808,
+    "wof:name":"Oak Grove Family Dentistry",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.42857,
+    31.316863,
+    -89.42857,
+    31.316863
+],
+  "geometry": {"coordinates":[-89.42856999999999,31.316863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857079611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.441083,33.724717,-88.441083,33.724717",
+    "geom:latitude":33.724717,
+    "geom:longitude":-88.441083,
+    "iso:country":"US",
+    "sg:address":"40018 Holloway Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 5250",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D6YK7hhfgb1WucPbxXXlr_33.724717_-88.441083@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121394,
+    "wof:geomhash":"52f83fc2a5ab362165a6046a0ad8c9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857079611
+        }
+    ],
+    "wof:id":857079611,
+    "wof:lastmodified":1464121394,
+    "wof:name":"Jerry Fitzgerald",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.441083,
+    33.724717,
+    -88.441083,
+    33.724717
+],
+  "geometry": {"coordinates":[-88.44108300000001,33.724717],"type":"Point"}
+}

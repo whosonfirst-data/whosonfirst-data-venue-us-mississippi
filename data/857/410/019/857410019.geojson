@@ -1,0 +1,71 @@
+{
+  "id": 857410019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701194,32.397696,-88.701194,32.397696",
+    "geom:latitude":32.397696,
+    "geom:longitude":-88.701194,
+    "iso:country":"US",
+    "sg:address":"3803 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3850",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32kla9w3g80yXHpLA7i3T1_32.397696_-88.701194@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128837,
+    "wof:geomhash":"2db4755ef50f86c7a72141c09ace22ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857410019
+        }
+    ],
+    "wof:id":857410019,
+    "wof:lastmodified":1464128837,
+    "wof:name":"Paradigm Landscapes LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -88.701194,
+    32.397696,
+    -88.701194,
+    32.397696
+],
+  "geometry": {"coordinates":[-88.701194,32.397696],"type":"Point"}
+}

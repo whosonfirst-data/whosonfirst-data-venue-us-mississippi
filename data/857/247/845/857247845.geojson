@@ -1,0 +1,71 @@
+{
+  "id": 857247845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.579439,34.372841,-89.579439,34.372841",
+    "geom:latitude":34.372841,
+    "geom:longitude":-89.579439,
+    "iso:country":"US",
+    "sg:address":"900 Maplewood Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6249",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s901X3AbxtMUfuN2rNdWD_34.372841_-89.579439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125196,
+    "wof:geomhash":"b4a1161a8f7e2dbb38e4f4c47017dc9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857247845
+        }
+    ],
+    "wof:id":857247845,
+    "wof:lastmodified":1464125196,
+    "wof:name":"Mason Builders LLC",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.579439,
+    34.372841,
+    -89.579439,
+    34.372841
+],
+  "geometry": {"coordinates":[-89.57943899999999,34.372841],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857315101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543749,33.825589,-88.543749,33.825589",
+    "geom:latitude":33.825589,
+    "geom:longitude":-88.543749,
+    "iso:country":"US",
+    "sg:address":"118 N Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4813",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MD0g6mN47OvTf32u4OvZ_33.825589_-88.543749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126724,
+    "wof:geomhash":"b500da751bf9a8129eb345c5e11964f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857315101
+        }
+    ],
+    "wof:id":857315101,
+    "wof:lastmodified":1464126724,
+    "wof:name":"Big Star Grocery",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.543749,
+    33.825589,
+    -88.543749,
+    33.825589
+],
+  "geometry": {"coordinates":[-88.54374900000001,33.825589],"type":"Point"}
+}

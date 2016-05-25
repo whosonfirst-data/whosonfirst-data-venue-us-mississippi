@@ -1,0 +1,76 @@
+{
+  "id": 857485545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.581127,34.188559,-90.581127,34.188559",
+    "geom:latitude":34.188559,
+    "geom:longitude":-90.581127,
+    "iso:country":"US",
+    "sg:address":"735 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/5/182562-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5391",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b6MJqkkKLYtbqeizZhCiJ_34.188625_-90.580812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130477,
+    "wof:geomhash":"bbf7f4f4e2e1885527524c3267ff1277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857485545
+        }
+    ],
+    "wof:id":857485545,
+    "wof:lastmodified":1464130477,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.581127,
+    34.188559,
+    -90.581127,
+    34.188559
+],
+  "geometry": {"coordinates":[-90.581127,34.188559],"type":"Point"}
+}

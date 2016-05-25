@@ -1,0 +1,71 @@
+{
+  "id": 857350317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.26174,31.34035,-89.26174,31.34035",
+    "geom:latitude":31.34035,
+    "geom:longitude":-89.26174,
+    "iso:country":"US",
+    "sg:address":"107 Green St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0519",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pla9sKJ43d6unFGDcsAYJ_31.340350_-89.261740@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127491,
+    "wof:geomhash":"c048cd1f0a6328453e4790091c284c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857350317
+        }
+    ],
+    "wof:id":857350317,
+    "wof:lastmodified":1464127491,
+    "wof:name":"Petal Hair Affair",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.26174,
+    31.34035,
+    -89.26174,
+    31.34035
+],
+  "geometry": {"coordinates":[-89.26174,31.34035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857372609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.522101,34.367403,-89.522101,34.367403",
+    "geom:latitude":34.367403,
+    "geom:longitude":-89.522101,
+    "iso:country":"US",
+    "sg:address":"711 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8477",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kchWaEdOZGXqWFzxPoDpQ_34.367403_-89.522101@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127962,
+    "wof:geomhash":"291171173fbd663c155a8eebbfcae69b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857372609
+        }
+    ],
+    "wof:id":857372609,
+    "wof:lastmodified":1464127962,
+    "wof:name":"Sheriffs Dept",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.522101,
+    34.367403,
+    -89.522101,
+    34.367403
+],
+  "geometry": {"coordinates":[-89.52210100000001,34.367403],"type":"Point"}
+}

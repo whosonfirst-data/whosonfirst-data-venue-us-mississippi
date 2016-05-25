@@ -1,0 +1,71 @@
+{
+  "id": 857112045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.543848,34.206451,-90.543848,34.206451",
+    "geom:latitude":34.206451,
+    "geom:longitude":-90.543848,
+    "iso:country":"US",
+    "sg:address":"551 Medical Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4056",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NF4CGi0wfsHkbXSAiN914_34.206451_-90.543848@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122234,
+    "wof:geomhash":"056622718ab9ceeee11ed04053af9806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857112045
+        }
+    ],
+    "wof:id":857112045,
+    "wof:lastmodified":1464122234,
+    "wof:name":"Mini Systems Of Clarksdale",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -90.543848,
+    34.206451,
+    -90.543848,
+    34.206451
+],
+  "geometry": {"coordinates":[-90.543848,34.206451],"type":"Point"}
+}

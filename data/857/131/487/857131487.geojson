@@ -1,0 +1,73 @@
+{
+  "id": 857131487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527649,30.381267,-88.527649,30.381267",
+    "geom:latitude":30.381267,
+    "geom:longitude":-88.527649,
+    "iso:country":"US",
+    "sg:address":"5003 Chicot St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7781",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ev5QXbgXZdEKuUlACeUjK_30.381267_-88.527649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122710,
+    "wof:geomhash":"9642a0538387897f001af750e167fe78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857131487
+        }
+    ],
+    "wof:id":857131487,
+    "wof:lastmodified":1464122710,
+    "wof:name":"Bobs Garage",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.527649,
+    30.381267,
+    -88.527649,
+    30.381267
+],
+  "geometry": {"coordinates":[-88.527649,30.381267],"type":"Point"}
+}

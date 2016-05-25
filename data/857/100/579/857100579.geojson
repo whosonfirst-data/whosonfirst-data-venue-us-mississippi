@@ -1,0 +1,71 @@
+{
+  "id": 857100579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40441,32.859569,-90.40441,32.859569",
+    "geom:latitude":32.859569,
+    "geom:longitude":-90.40441,
+    "iso:country":"US",
+    "sg:address":"401 E 9th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4621",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1feWaSuxdw3qjyJ3tY8iSY_32.859569_-90.404410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121927,
+    "wof:geomhash":"de512e1b8a3b1c327d0a3f9c3ab78aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857100579
+        }
+    ],
+    "wof:id":857100579,
+    "wof:lastmodified":1464121927,
+    "wof:name":"Martha Coker Convalescent Home",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.40441,
+    32.859569,
+    -90.40441,
+    32.859569
+],
+  "geometry": {"coordinates":[-90.40441,32.859569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857335253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.412133,32.858411,-90.412133,32.858411",
+    "geom:latitude":32.858411,
+    "geom:longitude":-90.412133,
+    "iso:country":"US",
+    "sg:address":"247 W 6th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3985",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wTtDxmKRC19zTPmUjUukz_32.858411_-90.412133@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127173,
+    "wof:geomhash":"2482cf69f83340cdfb2c8a35e6e664a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857335253
+        }
+    ],
+    "wof:id":857335253,
+    "wof:lastmodified":1464127173,
+    "wof:name":"Shaffer & Collins",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -90.412133,
+    32.858411,
+    -90.412133,
+    32.858411
+],
+  "geometry": {"coordinates":[-90.412133,32.858411],"type":"Point"}
+}

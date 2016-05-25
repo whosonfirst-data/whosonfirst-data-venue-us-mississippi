@@ -1,0 +1,71 @@
+{
+  "id": 857206423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.834541,30.440183,-88.834541,30.440183",
+    "geom:latitude":30.440183,
+    "geom:longitude":-88.834541,
+    "iso:country":"US",
+    "sg:address":"6809 Josie St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4002",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N36zaHYUWDdxEPKxkRBRk_30.440183_-88.834541@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124320,
+    "wof:geomhash":"851af12816870fabc8dc4702904cfdab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857206423
+        }
+    ],
+    "wof:id":857206423,
+    "wof:lastmodified":1464124320,
+    "wof:name":"Nedia Hair Station",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.834541,
+    30.440183,
+    -88.834541,
+    30.440183
+],
+  "geometry": {"coordinates":[-88.834541,30.440183],"type":"Point"}
+}

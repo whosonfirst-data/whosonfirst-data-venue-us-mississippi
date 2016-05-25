@@ -1,0 +1,72 @@
+{
+  "id": 857093753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.649181,33.605616,-88.649181,33.605616",
+    "geom:latitude":33.605616,
+    "geom:longitude":-88.649181,
+    "iso:country":"US",
+    "sg:address":"227 Court St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1422",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.dailytimesleader.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FTW244rlaGBrvb8dzqb3F_33.605616_-88.649181@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121766,
+    "wof:geomhash":"1964ea074337cb083740ef70e56dda6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857093753
+        }
+    ],
+    "wof:id":857093753,
+    "wof:lastmodified":1464121766,
+    "wof:name":"Daily Times Leader",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.649181,
+    33.605616,
+    -88.649181,
+    33.605616
+],
+  "geometry": {"coordinates":[-88.649181,33.605616],"type":"Point"}
+}

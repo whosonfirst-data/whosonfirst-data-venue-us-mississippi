@@ -1,0 +1,71 @@
+{
+  "id": 857104243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807401,30.40169,-88.807401,30.40169",
+    "geom:latitude":30.40169,
+    "geom:longitude":-88.807401,
+    "iso:country":"US",
+    "sg:address":"123 Colmer Cir",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 3006",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V6PCD6OLEky2YR34ugF86_30.401690_-88.807401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122011,
+    "wof:geomhash":"a0ad87d566cf258314ed49a699a69960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857104243
+        }
+    ],
+    "wof:id":857104243,
+    "wof:lastmodified":1464122011,
+    "wof:name":"Sonny Jones Painting Contrs",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.807401,
+    30.40169,
+    -88.807401,
+    30.40169
+],
+  "geometry": {"coordinates":[-88.807401,30.40169],"type":"Point"}
+}

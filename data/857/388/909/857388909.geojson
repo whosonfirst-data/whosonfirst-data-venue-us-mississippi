@@ -1,0 +1,73 @@
+{
+  "id": 857388909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.856628,32.346137,-90.856628,32.346137",
+    "geom:latitude":32.346137,
+    "geom:longitude":-90.856628,
+    "iso:country":"US",
+    "sg:address":"2932 Clay St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 2936",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FMPX5K9Jg1zMEH1AZEQby_32.346137_-90.856628@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128406,
+    "wof:geomhash":"f7df274622ffd3521569e7c1183ed431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857388909
+        }
+    ],
+    "wof:id":857388909,
+    "wof:lastmodified":1464128406,
+    "wof:name":"Texaco",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.856628,
+    32.346137,
+    -90.856628,
+    32.346137
+],
+  "geometry": {"coordinates":[-90.856628,32.346137],"type":"Point"}
+}

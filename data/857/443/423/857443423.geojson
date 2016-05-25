@@ -1,0 +1,68 @@
+{
+  "id": 857443423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.003979,34.4904,-89.003979,34.4904",
+    "geom:latitude":34.4904,
+    "geom:longitude":-89.003979,
+    "iso:country":"US",
+    "sg:address":"419 E Bankhead St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 5544",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yYCFNpfRGYGECQ2vVr9hV_34.490400_-89.003979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129630,
+    "wof:geomhash":"407d69a6b16666709860588ac168b1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857443423
+        }
+    ],
+    "wof:id":857443423,
+    "wof:lastmodified":1464129630,
+    "wof:name":"Lawrence Realty",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.003979,
+    34.4904,
+    -89.003979,
+    34.4904
+],
+  "geometry": {"coordinates":[-89.003979,34.4904],"type":"Point"}
+}

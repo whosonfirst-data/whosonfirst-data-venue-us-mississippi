@@ -1,0 +1,73 @@
+{
+  "id": 857254789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.085566,32.435288,-90.085566,32.435288",
+    "geom:latitude":32.435288,
+    "geom:longitude":-90.085566,
+    "iso:country":"US",
+    "sg:address":"205 Breezy Hill Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 1562",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PIqfQ4lyfLjuVXx6aZdPj_32.435288_-90.085566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125372,
+    "wof:geomhash":"fd89e2e67f6c5221e3fdb913fa42a874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857254789
+        }
+    ],
+    "wof:id":857254789,
+    "wof:lastmodified":1464125372,
+    "wof:name":"Bowie Creek Orchard LLC",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -90.085566,
+    32.435288,
+    -90.085566,
+    32.435288
+],
+  "geometry": {"coordinates":[-90.085566,32.435288],"type":"Point"}
+}

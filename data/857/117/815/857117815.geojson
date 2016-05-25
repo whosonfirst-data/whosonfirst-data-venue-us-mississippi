@@ -1,0 +1,71 @@
+{
+  "id": 857117815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772762,34.246482,-88.772762,34.246482",
+    "geom:latitude":34.246482,
+    "geom:longitude":-88.772762,
+    "iso:country":"US",
+    "sg:address":"5143 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 620 7244",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BuBViCLFH0J8VWLTbhXK1_34.246482_-88.772762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122407,
+    "wof:geomhash":"a688fef591bdea30b2d2dd19f4802de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857117815
+        }
+    ],
+    "wof:id":857117815,
+    "wof:lastmodified":1464122407,
+    "wof:name":"Shipley Do-Nuts Of Tupelo",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -88.772762,
+    34.246482,
+    -88.772762,
+    34.246482
+],
+  "geometry": {"coordinates":[-88.772762,34.246482],"type":"Point"}
+}

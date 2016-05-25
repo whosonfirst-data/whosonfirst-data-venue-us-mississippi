@@ -1,0 +1,71 @@
+{
+  "id": 857212197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527307,30.368541,-88.527307,30.368541",
+    "geom:latitude":30.368541,
+    "geom:longitude":-88.527307,
+    "iso:country":"US",
+    "sg:address":"3423 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 934 4377",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ABKKlBytRDHOJFpTOfMjO_30.368541_-88.527307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124443,
+    "wof:geomhash":"1ecc7b5dc79b0c9178eeb51e9b3e9f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857212197
+        }
+    ],
+    "wof:id":857212197,
+    "wof:lastmodified":1464124443,
+    "wof:name":"Hancock Bank",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -88.527307,
+    30.368541,
+    -88.527307,
+    30.368541
+],
+  "geometry": {"coordinates":[-88.52730699999999,30.368541],"type":"Point"}
+}

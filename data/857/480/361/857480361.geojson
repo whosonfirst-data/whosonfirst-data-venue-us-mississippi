@@ -1,0 +1,76 @@
+{
+  "id": 857480361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.859572,34.96218,-89.859572,34.96218",
+    "geom:latitude":34.96218,
+    "geom:longitude":-89.859572,
+    "iso:country":"US",
+    "sg:address":"7501 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/133094-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 9450",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rcwZHA4osNcO167t9SNc2_34.962180_-89.859572@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130376,
+    "wof:geomhash":"1f2440e0e72c7b6f09bc75260e0b9b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857480361
+        }
+    ],
+    "wof:id":857480361,
+    "wof:lastmodified":1464130376,
+    "wof:name":"Subway",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.859572,
+    34.96218,
+    -89.859572,
+    34.96218
+],
+  "geometry": {"coordinates":[-89.859572,34.96218],"type":"Point"}
+}

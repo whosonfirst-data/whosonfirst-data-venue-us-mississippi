@@ -1,0 +1,75 @@
+{
+  "id": 857219371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.52624,34.367902,-89.52624,34.367902",
+    "geom:latitude":34.367902,
+    "geom:longitude":-89.52624,
+    "iso:country":"US",
+    "sg:address":"401 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 6000",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "material",
+        "artist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HI3ZZlTbJ1OamRQuc0LQB_34.367902_-89.526240@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124602,
+    "wof:geomhash":"93b12b78d340231862aea5582535b9c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857219371
+        }
+    ],
+    "wof:id":857219371,
+    "wof:lastmodified":1464124602,
+    "wof:name":"Sun Developers",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "artist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.52624,
+    34.367902,
+    -89.52624,
+    34.367902
+],
+  "geometry": {"coordinates":[-89.52624,34.367902],"type":"Point"}
+}

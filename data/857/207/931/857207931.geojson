@@ -1,0 +1,73 @@
+{
+  "id": 857207931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.436065,33.497563,-88.436065,33.497563",
+    "geom:latitude":33.497563,
+    "geom:longitude":-88.436065,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3780",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "money",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RPV4dDvN4PNpxDwYhCuxo_33.497563_-88.436065@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124349,
+    "wof:geomhash":"785f02818f499d84ce2509178dc073f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857207931
+        }
+    ],
+    "wof:id":857207931,
+    "wof:lastmodified":1464124349,
+    "wof:name":"Roberts Travel Agency Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order"
+    ]
+},
+  "bbox": [
+    -88.436065,
+    33.497563,
+    -88.436065,
+    33.497563
+],
+  "geometry": {"coordinates":[-88.436065,33.497563],"type":"Point"}
+}

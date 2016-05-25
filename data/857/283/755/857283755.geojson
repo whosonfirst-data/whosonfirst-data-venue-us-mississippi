@@ -1,0 +1,71 @@
+{
+  "id": 857283755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456515,34.31587,-90.456515,34.31587",
+    "geom:latitude":34.31587,
+    "geom:longitude":-90.456515,
+    "iso:country":"US",
+    "sg:address":"281 Church St",
+    "sg:city":"Lyon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 4488",
+    "sg:postcode":"38645",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lzLxnYTJ4Z2fJJaKlr8RP_34.315870_-90.456515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125993,
+    "wof:geomhash":"206f5de166a577aaf137e9d29a8d5db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857283755
+        }
+    ],
+    "wof:id":857283755,
+    "wof:lastmodified":1464125993,
+    "wof:name":"Jonestown Manor Apartments",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.456515,
+    34.31587,
+    -90.456515,
+    34.31587
+],
+  "geometry": {"coordinates":[-90.456515,34.31587],"type":"Point"}
+}

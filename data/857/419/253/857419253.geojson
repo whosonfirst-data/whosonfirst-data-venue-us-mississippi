@@ -1,0 +1,66 @@
+{
+  "id": 857419253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588817,32.557998,-90.588817,32.557998",
+    "geom:latitude":32.557998,
+    "geom:longitude":-90.588817,
+    "iso:country":"US",
+    "sg:address":"965 Phoenix Rd",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 8572",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NsJ1WOHtbBDTzJUumIF4l_32.557998_-90.588817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129081,
+    "wof:geomhash":"37e95a5ea4b0f5ca76226f4b89f14dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857419253
+        }
+    ],
+    "wof:id":857419253,
+    "wof:lastmodified":1464129081,
+    "wof:name":"Phoenix Store",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.588817,
+    32.557998,
+    -90.588817,
+    32.557998
+],
+  "geometry": {"coordinates":[-90.58881700000001,32.557998],"type":"Point"}
+}

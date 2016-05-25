@@ -1,0 +1,71 @@
+{
+  "id": 857272747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.52578,30.367569,-88.52578,30.367569",
+    "geom:latitude":30.367569,
+    "geom:longitude":-88.52578,
+    "iso:country":"US",
+    "sg:address":"3202 Chicot St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0028",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WOgbIw5z2foMhW7zelKpM_30.367569_-88.525780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125740,
+    "wof:geomhash":"7f2cb33e91bd0d017ff389ab85091185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857272747
+        }
+    ],
+    "wof:id":857272747,
+    "wof:lastmodified":1464125740,
+    "wof:name":"Willis Furniture",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    -88.52578,
+    30.367569,
+    -88.52578,
+    30.367569
+],
+  "geometry": {"coordinates":[-88.52578,30.367569],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857229343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.341083,31.351953,-89.341083,31.351953",
+    "geom:latitude":31.351953,
+    "geom:longitude":-89.341083,
+    "iso:country":"US",
+    "sg:address":"6130 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 6956",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photofinishing",
+        "laboratory"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GDOouud8sJaoFrdL3Cfev_31.351953_-89.341083@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124796,
+    "wof:geomhash":"8341bd8592588d583efcac3b8912cd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857229343
+        }
+    ],
+    "wof:id":857229343,
+    "wof:lastmodified":1464124796,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photofinishing",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.341083,
+    31.351953,
+    -89.341083,
+    31.351953
+],
+  "geometry": {"coordinates":[-89.341083,31.351953],"type":"Point"}
+}

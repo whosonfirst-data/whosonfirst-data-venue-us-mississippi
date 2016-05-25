@@ -1,0 +1,71 @@
+{
+  "id": 857155053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653247,33.60474,-88.653247,33.60474",
+    "geom:latitude":33.60474,
+    "geom:longitude":-88.653247,
+    "iso:country":"US",
+    "sg:address":"330 W Broad St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1244",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZSsOAKP7M6ktJUMqBhHWU_33.604740_-88.653247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123249,
+    "wof:geomhash":"32524447f670870d56a2a5a98283ad46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857155053
+        }
+    ],
+    "wof:id":857155053,
+    "wof:lastmodified":1464123249,
+    "wof:name":"West Point Police Chief",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.653247,
+    33.60474,
+    -88.653247,
+    33.60474
+],
+  "geometry": {"coordinates":[-88.65324699999999,33.60474],"type":"Point"}
+}

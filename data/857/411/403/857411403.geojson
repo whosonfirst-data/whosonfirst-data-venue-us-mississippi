@@ -1,0 +1,71 @@
+{
+  "id": 857411403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403067,32.861723,-90.403067,32.861723",
+    "geom:latitude":32.861723,
+    "geom:longitude":-90.403067,
+    "iso:country":"US",
+    "sg:address":"1008 Calhoun Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5716",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AQFjx5utw3ksxqCscNrUY_32.861723_-90.403067@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128885,
+    "wof:geomhash":"07bbb322a76124a287eb812d3f1a6416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857411403
+        }
+    ],
+    "wof:id":857411403,
+    "wof:lastmodified":1464128885,
+    "wof:name":"Jimmy G Walker DDS",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.403067,
+    32.861723,
+    -90.403067,
+    32.861723
+],
+  "geometry": {"coordinates":[-90.40306699999999,32.861723],"type":"Point"}
+}

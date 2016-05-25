@@ -1,0 +1,71 @@
+{
+  "id": 857318713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.264476,31.349375,-89.264476,31.349375",
+    "geom:latitude":31.349375,
+    "geom:longitude":-89.264476,
+    "iso:country":"US",
+    "sg:address":"134 W Cherry Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8863",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ytfwJ4KBzm3CMzRlwJ8N_31.349375_-89.264476@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126825,
+    "wof:geomhash":"0041552a9ee95d18e6274acc1f7abaad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857318713
+        }
+    ],
+    "wof:id":857318713,
+    "wof:lastmodified":1464126825,
+    "wof:name":"Custom Paint-Body Sp Auto Sls",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -89.264476,
+    31.349375,
+    -89.264476,
+    31.349375
+],
+  "geometry": {"coordinates":[-89.264476,31.349375],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857167005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.185393,30.338091,-89.185393,30.338091",
+    "geom:latitude":30.338091,
+    "geom:longitude":-89.185393,
+    "iso:country":"US",
+    "sg:address":"2004 W 2nd St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 822 0084",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZsNA3gWwoNUW3BMxBlOKB_30.338091_-89.185393@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123511,
+    "wof:geomhash":"d3328782d6d3b027b63eba3ba064aa2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857167005
+        }
+    ],
+    "wof:id":857167005,
+    "wof:lastmodified":1464123511,
+    "wof:name":"Gulf Bone Density Scanning",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.185393,
+    30.338091,
+    -89.185393,
+    30.338091
+],
+  "geometry": {"coordinates":[-89.185393,30.338091],"type":"Point"}
+}

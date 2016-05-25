@@ -1,0 +1,84 @@
+{
+  "id": 857348243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.310063,33.49694,-88.310063,33.49694",
+    "geom:latitude":33.49694,
+    "geom:longitude":-88.310063,
+    "iso:country":"US",
+    "sg:address":"2216 Phillips Hill Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 7537",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "equipment",
+        "local",
+        "truck",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59GKQ0QcvSGdxSR06YhmFC_33.496940_-88.310063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127446,
+    "wof:geomhash":"1581e550d57be2c0c512127fe21f16dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857348243
+        }
+    ],
+    "wof:id":857348243,
+    "wof:lastmodified":1464127446,
+    "wof:name":"H & H Trucking & Equipment Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "equipment",
+        "local",
+        "truck",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.310063,
+    33.49694,
+    -88.310063,
+    33.49694
+],
+  "geometry": {"coordinates":[-88.310063,33.49694],"type":"Point"}
+}

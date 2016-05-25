@@ -1,0 +1,73 @@
+{
+  "id": 857351045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.728703,34.228338,-88.728703,34.228338",
+    "geom:latitude":34.228338,
+    "geom:longitude":-88.728703,
+    "iso:country":"US",
+    "sg:address":"2429 Lawndale Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6163",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sqw84quWGKz7U7QHSAeMS_34.228338_-88.728703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127506,
+    "wof:geomhash":"0e16c80f6cc3249dfdb2747ce50c72ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857351045
+        }
+    ],
+    "wof:id":857351045,
+    "wof:lastmodified":1464127506,
+    "wof:name":"Avonlea Rtrment Per Care Commu",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.728703,
+    34.228338,
+    -88.728703,
+    34.228338
+],
+  "geometry": {"coordinates":[-88.728703,34.228338],"type":"Point"}
+}

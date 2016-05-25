@@ -1,0 +1,71 @@
+{
+  "id": 857444315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530755,30.364294,-88.530755,30.364294",
+    "geom:latitude":30.364294,
+    "geom:longitude":-88.530755,
+    "iso:country":"US",
+    "sg:address":"2917 Eden St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 2917",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lJ3G8js96CTo4KAYBUfKy_30.364294_-88.530755@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129645,
+    "wof:geomhash":"5572719a81df0d2b96dcf8e01530303a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857444315
+        }
+    ],
+    "wof:id":857444315,
+    "wof:lastmodified":1464129645,
+    "wof:name":"Eden Manor Apts",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.530755,
+    30.364294,
+    -88.530755,
+    30.364294
+],
+  "geometry": {"coordinates":[-88.530755,30.364294],"type":"Point"}
+}

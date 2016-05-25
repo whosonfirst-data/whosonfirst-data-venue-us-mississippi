@@ -1,0 +1,71 @@
+{
+  "id": 857175879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.295215,33.534834,-88.295215,33.534834",
+    "geom:latitude":33.534834,
+    "geom:longitude":-88.295215,
+    "iso:country":"US",
+    "sg:address":"7210 Hwy 50 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2830",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Twgd1lVhSXeNDupwsHcmN_33.534834_-88.295215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123710,
+    "wof:geomhash":"7a9f222cfd90d8bf04b1b0052441f891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857175879
+        }
+    ],
+    "wof:id":857175879,
+    "wof:lastmodified":1464123710,
+    "wof:name":"R & D Plumbing Company",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.295215,
+    33.534834,
+    -88.295215,
+    33.534834
+],
+  "geometry": {"coordinates":[-88.295215,33.534834],"type":"Point"}
+}

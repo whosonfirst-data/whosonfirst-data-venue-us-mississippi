@@ -1,0 +1,73 @@
+{
+  "id": 857465365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123421,32.187565,-90.123421,32.187565",
+    "geom:latitude":32.187565,
+    "geom:longitude":-90.123421,
+    "iso:country":"US",
+    "sg:address":"128 Beech Tree St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 4101",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "annuity",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rUivrrSQrxnR8jMN0iB2M_32.187565_-90.123421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130075,
+    "wof:geomhash":"97e3d5e499d4050430b76134f43fd6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857465365
+        }
+    ],
+    "wof:id":857465365,
+    "wof:lastmodified":1464130075,
+    "wof:name":"Doug Lemon & Assoc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "annuity",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -90.123421,
+    32.187565,
+    -90.123421,
+    32.187565
+],
+  "geometry": {"coordinates":[-90.12342099999999,32.187565],"type":"Point"}
+}

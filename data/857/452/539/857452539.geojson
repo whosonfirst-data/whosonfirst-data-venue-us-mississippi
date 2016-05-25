@@ -1,0 +1,71 @@
+{
+  "id": 857452539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575393,34.205015,-90.575393,34.205015",
+    "geom:latitude":34.205015,
+    "geom:longitude":-90.575393,
+    "iso:country":"US",
+    "sg:address":"123 Court St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 5251",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TNqyemq3BRZRPzpH5Qqby_34.205015_-90.575393@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129808,
+    "wof:geomhash":"100b40bcf109e8ea84fd1e774816026a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857452539
+        }
+    ],
+    "wof:id":857452539,
+    "wof:lastmodified":1464129808,
+    "wof:name":"Hunt & Ross",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.575393,
+    34.205015,
+    -90.575393,
+    34.205015
+],
+  "geometry": {"coordinates":[-90.57539300000001,34.205015],"type":"Point"}
+}

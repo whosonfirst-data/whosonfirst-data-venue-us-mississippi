@@ -1,0 +1,66 @@
+{
+  "id": 857174167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.521844,30.369401,-88.521844,30.369401",
+    "geom:latitude":30.369401,
+    "geom:longitude":-88.521844,
+    "iso:country":"US",
+    "sg:address":"3718 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4794",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rqqSMJ8Y4iFkwuWgJHJWZ_30.369401_-88.521844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123678,
+    "wof:geomhash":"fab35c71e88890ccb91e06150a41f587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857174167
+        }
+    ],
+    "wof:id":857174167,
+    "wof:lastmodified":1464123678,
+    "wof:name":"B & P Convenience Store",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.521844,
+    30.369401,
+    -88.521844,
+    30.369401
+],
+  "geometry": {"coordinates":[-88.521844,30.369401],"type":"Point"}
+}

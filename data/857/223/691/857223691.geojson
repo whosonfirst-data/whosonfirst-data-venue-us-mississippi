@@ -1,0 +1,80 @@
+{
+  "id": 857223691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.305685,31.322937,-89.305685,31.322937",
+    "geom:latitude":31.322937,
+    "geom:longitude":-89.305685,
+    "iso:country":"US",
+    "sg:address":"102 S 10th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8003",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78TWmO77nEMyfxaQRSwYp7_31.322937_-89.305685@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124687,
+    "wof:geomhash":"507cea4b76c1f990a41db5b8443f1030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857223691
+        }
+    ],
+    "wof:id":857223691,
+    "wof:lastmodified":1464124687,
+    "wof:name":"A Available Cash Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "agency"
+    ]
+},
+  "bbox": [
+    -89.305685,
+    31.322937,
+    -89.305685,
+    31.322937
+],
+  "geometry": {"coordinates":[-89.305685,31.322937],"type":"Point"}
+}

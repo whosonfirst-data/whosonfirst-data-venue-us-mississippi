@@ -1,0 +1,71 @@
+{
+  "id": 857292729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.544056,34.357169,-89.544056,34.357169",
+    "geom:latitude":34.357169,
+    "geom:longitude":-89.544056,
+    "iso:country":"US",
+    "sg:address":"1000 Front St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2744",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tfWcCJDaTjJFVW3E0ta9K_34.357169_-89.544056@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126216,
+    "wof:geomhash":"14c31a3a46b11abb20f354a8b991c4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857292729
+        }
+    ],
+    "wof:id":857292729,
+    "wof:lastmodified":1464126216,
+    "wof:name":"US Forestry Dept",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -89.544056,
+    34.357169,
+    -89.544056,
+    34.357169
+],
+  "geometry": {"coordinates":[-89.544056,34.357169],"type":"Point"}
+}

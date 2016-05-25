@@ -1,0 +1,73 @@
+{
+  "id": 857262473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.600088,34.127906,-88.600088,34.127906",
+    "geom:latitude":34.127906,
+    "geom:longitude":-88.600088,
+    "iso:country":"US",
+    "sg:address":"120 Co Rd 370",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 3063",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fRVpJAZKIPsDPzzAcCv6T_34.127906_-88.600088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125544,
+    "wof:geomhash":"13470c96baf2e86379122f818ab933fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857262473
+        }
+    ],
+    "wof:id":857262473,
+    "wof:lastmodified":1464125544,
+    "wof:name":"C & V Paint Contractors",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.600088,
+    34.127906,
+    -88.600088,
+    34.127906
+],
+  "geometry": {"coordinates":[-88.600088,34.127906],"type":"Point"}
+}

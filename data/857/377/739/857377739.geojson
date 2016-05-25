@@ -1,0 +1,71 @@
+{
+  "id": 857377739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.862605,32.31483,-90.862605,32.31483",
+    "geom:latitude":32.31483,
+    "geom:longitude":-90.862605,
+    "iso:country":"US",
+    "sg:address":"3448 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 0100",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LyP6MbjqLRdNilqOGnWdz_32.314830_-90.862605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128071,
+    "wof:geomhash":"2adb3cd520d5ae85b75732020b851f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857377739
+        }
+    ],
+    "wof:id":857377739,
+    "wof:lastmodified":1464128071,
+    "wof:name":"Milestone Clubhouse Officer",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.862605,
+    32.31483,
+    -90.862605,
+    32.31483
+],
+  "geometry": {"coordinates":[-90.862605,32.31483],"type":"Point"}
+}

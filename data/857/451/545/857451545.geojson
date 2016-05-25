@@ -1,0 +1,73 @@
+{
+  "id": 857451545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.82939,30.423679,-88.82939,30.423679",
+    "geom:latitude":30.423679,
+    "geom:longitude":-88.82939,
+    "iso:country":"US",
+    "sg:address":"5613 Shore Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 7754",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UP1btMpaU65vH2dTPLxVJ_30.423679_-88.829390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129792,
+    "wof:geomhash":"0522cdb96f379bd8df1295434d9ac6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857451545
+        }
+    ],
+    "wof:id":857451545,
+    "wof:lastmodified":1464129792,
+    "wof:name":"Atlantic American Holdg Co Ltd",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -88.82939,
+    30.423679,
+    -88.82939,
+    30.423679
+],
+  "geometry": {"coordinates":[-88.82939,30.423679],"type":"Point"}
+}

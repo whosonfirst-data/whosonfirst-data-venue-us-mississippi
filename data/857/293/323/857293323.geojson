@@ -1,0 +1,71 @@
+{
+  "id": 857293323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.810161,34.957774,-89.810161,34.957774",
+    "geom:latitude":34.957774,
+    "geom:longitude":-89.810161,
+    "iso:country":"US",
+    "sg:address":"10272 Hyman Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 4371",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NmcaarY3kDlQAZmB5Rt3D_34.957774_-89.810161@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126228,
+    "wof:geomhash":"a07f8bc788a2c8dd94825b139f66e440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857293323
+        }
+    ],
+    "wof:id":857293323,
+    "wof:lastmodified":1464126228,
+    "wof:name":"Hawkins Hook Ups",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    -89.810161,
+    34.957774,
+    -89.810161,
+    34.957774
+],
+  "geometry": {"coordinates":[-89.81016099999999,34.957774],"type":"Point"}
+}

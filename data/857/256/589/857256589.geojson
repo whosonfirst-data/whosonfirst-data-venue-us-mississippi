@@ -1,0 +1,71 @@
+{
+  "id": 857256589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39986,32.607,-90.39986,32.607",
+    "geom:latitude":32.607,
+    "geom:longitude":-90.39986,
+    "iso:country":"US",
+    "sg:address":"551 Owens Dr",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 859 4997",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36QZfgCa4JOidna5YowjL2_32.607000_-90.399860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125419,
+    "wof:geomhash":"9973b07e2e399cc82c57773e154a3f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857256589
+        }
+    ],
+    "wof:id":857256589,
+    "wof:lastmodified":1464125419,
+    "wof:name":"Greater Faith Calvary",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.39986,
+    32.607,
+    -90.39986,
+    32.607
+],
+  "geometry": {"coordinates":[-90.39986,32.607],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857361229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.65311,30.567481,-88.65311,30.567481",
+    "geom:latitude":30.567481,
+    "geom:longitude":-88.65311,
+    "iso:country":"US",
+    "sg:address":"2800 Island Branch Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1444",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "specialty",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nspiEPLBIoB445YSMtSE1_30.567481_-88.653110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127726,
+    "wof:geomhash":"946bbde7261c48c4503c31e18c29d700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857361229
+        }
+    ],
+    "wof:id":857361229,
+    "wof:lastmodified":1464127726,
+    "wof:name":"House of Gabriela",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "animal"
+    ]
+},
+  "bbox": [
+    -88.65311,
+    30.567481,
+    -88.65311,
+    30.567481
+],
+  "geometry": {"coordinates":[-88.65311,30.567481],"type":"Point"}
+}

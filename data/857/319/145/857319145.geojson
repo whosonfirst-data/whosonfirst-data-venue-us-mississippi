@@ -1,0 +1,71 @@
+{
+  "id": 857319145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.074795,32.454807,-90.074795,32.454807",
+    "geom:latitude":32.454807,
+    "geom:longitude":-90.074795,
+    "iso:country":"US",
+    "sg:address":"127 Northbay Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 2007",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1XgiT9AfZrkZXWws33n0_32.454807_-90.074795@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126833,
+    "wof:geomhash":"3d7c080ab9bfa2283040bc5deb2f6b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857319145
+        }
+    ],
+    "wof:id":857319145,
+    "wof:lastmodified":1464126833,
+    "wof:name":"Equipment Financial Svc Corp",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.074795,
+    32.454807,
+    -90.074795,
+    32.454807
+],
+  "geometry": {"coordinates":[-90.07479499999999,32.454807],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857456851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.561997,34.362413,-89.561997,34.362413",
+    "geom:latitude":34.362413,
+    "geom:longitude":-89.561997,
+    "iso:country":"US",
+    "sg:address":"2212 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8463",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K7RZrJVUmpPkruEjJ26gR_34.362413_-89.561997@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129888,
+    "wof:geomhash":"1ba45a11e75f09da0665733b5fda350a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857456851
+        }
+    ],
+    "wof:id":857456851,
+    "wof:lastmodified":1464129888,
+    "wof:name":"Farese Family Dental",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.561997,
+    34.362413,
+    -89.561997,
+    34.362413
+],
+  "geometry": {"coordinates":[-89.56199700000001,34.362413],"type":"Point"}
+}

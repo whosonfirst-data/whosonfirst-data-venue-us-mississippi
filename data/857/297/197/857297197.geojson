@@ -1,0 +1,71 @@
+{
+  "id": 857297197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512357,34.363123,-89.512357,34.363123",
+    "geom:latitude":34.363123,
+    "geom:longitude":-89.512357,
+    "iso:country":"US",
+    "sg:address":"1741 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6766",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HI4ONH7DTmYcX7sk2eW4p_34.363123_-89.512357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126347,
+    "wof:geomhash":"f70e40b9c09bb8c1f68733b91fe4044b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857297197
+        }
+    ],
+    "wof:id":857297197,
+    "wof:lastmodified":1464126347,
+    "wof:name":"Hardees",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.512357,
+    34.363123,
+    -89.512357,
+    34.363123
+],
+  "geometry": {"coordinates":[-89.51235699999999,34.363123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857474867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.79833,33.458967,-88.79833,33.458967",
+    "geom:latitude":33.458967,
+    "geom:longitude":-88.79833,
+    "iso:country":"US",
+    "sg:address":"605 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 3899",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05BC6IvU7RjtsvVgyrua9L_33.458967_-88.798330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130274,
+    "wof:geomhash":"afcd94fcaaa8f4d0ba8c58ca7c2ad4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857474867
+        }
+    ],
+    "wof:id":857474867,
+    "wof:lastmodified":1464130274,
+    "wof:name":"Strange Brew Coffe House",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -88.79833,
+    33.458967,
+    -88.79833,
+    33.458967
+],
+  "geometry": {"coordinates":[-88.79833000000001,33.458967],"type":"Point"}
+}

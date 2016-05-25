@@ -1,0 +1,68 @@
+{
+  "id": 857461783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.202558,32.268193,-90.202558,32.268193",
+    "geom:latitude":32.268193,
+    "geom:longitude":-90.202558,
+    "iso:country":"US",
+    "sg:address":"795 E McDowell Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 7209",
+    "sg:postcode":"39204",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W2Bc9w8fO5dg8j9Ez2DgP_32.268193_-90.202558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129987,
+    "wof:geomhash":"c8add24a12f6c30745f0863dde9528e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857461783
+        }
+    ],
+    "wof:id":857461783,
+    "wof:lastmodified":1464129987,
+    "wof:name":"New Orleans Fish House",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.202558,
+    32.268193,
+    -90.202558,
+    32.268193
+],
+  "geometry": {"coordinates":[-90.202558,32.268193],"type":"Point"}
+}

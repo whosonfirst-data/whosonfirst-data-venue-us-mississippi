@@ -1,0 +1,73 @@
+{
+  "id": 857241849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648707,33.606761,-88.648707,33.606761",
+    "geom:latitude":33.606761,
+    "geom:longitude":-88.648707,
+    "iso:country":"US",
+    "sg:address":"127 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 0779",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mmnNVdL1KHGCuUw1ERXoC_33.606761_-88.648707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125055,
+    "wof:geomhash":"4d3d3092b41b7ae1fa84fe1fbcae1b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857241849
+        }
+    ],
+    "wof:id":857241849,
+    "wof:lastmodified":1464125055,
+    "wof:name":"Barnette's Fine Guns",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -88.648707,
+    33.606761,
+    -88.648707,
+    33.606761
+],
+  "geometry": {"coordinates":[-88.648707,33.606761],"type":"Point"}
+}

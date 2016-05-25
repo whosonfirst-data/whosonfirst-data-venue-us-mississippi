@@ -1,0 +1,73 @@
+{
+  "id": 857452503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.862216,32.326114,-90.862216,32.326114",
+    "geom:latitude":32.326114,
+    "geom:longitude":-90.862216,
+    "iso:country":"US",
+    "sg:address":"2640 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 661 9966",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yKur8xxWJsmSzN4itO08g_32.326114_-90.862216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129808,
+    "wof:geomhash":"9ffc345536828ce5d8473f55d281079a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857452503
+        }
+    ],
+    "wof:id":857452503,
+    "wof:lastmodified":1464129808,
+    "wof:name":"R & C Auto Sales",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.862216,
+    32.326114,
+    -90.862216,
+    32.326114
+],
+  "geometry": {"coordinates":[-90.862216,32.326114],"type":"Point"}
+}

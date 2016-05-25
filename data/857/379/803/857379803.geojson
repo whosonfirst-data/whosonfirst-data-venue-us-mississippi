@@ -1,0 +1,73 @@
+{
+  "id": 857379803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.74642,34.256601,-88.74642,34.256601",
+    "geom:latitude":34.256601,
+    "geom:longitude":-88.74642,
+    "iso:country":"US",
+    "sg:address":"115 N Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 9008",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FKLWpzD9hzRkOYAvKtEMQ_34.256601_-88.746420@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128112,
+    "wof:geomhash":"1b34ba90c570eb0b174431b0cd77a51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857379803
+        }
+    ],
+    "wof:id":857379803,
+    "wof:lastmodified":1464128112,
+    "wof:name":"LA Weight Loss",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -88.74642,
+    34.256601,
+    -88.74642,
+    34.256601
+],
+  "geometry": {"coordinates":[-88.74642,34.256601],"type":"Point"}
+}

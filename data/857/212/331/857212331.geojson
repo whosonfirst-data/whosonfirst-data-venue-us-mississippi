@@ -1,0 +1,71 @@
+{
+  "id": 857212331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719874,34.194154,-88.719874,34.194154",
+    "geom:latitude":34.194154,
+    "geom:longitude":-88.719874,
+    "iso:country":"US",
+    "sg:address":"4970 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7751",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LTc9rWYzwZyptfTSUQDT7_34.194154_-88.719874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124445,
+    "wof:geomhash":"e7b334c83f0b108a19ca973df6be0569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857212331
+        }
+    ],
+    "wof:id":857212331,
+    "wof:lastmodified":1464124445,
+    "wof:name":"Colonial Cleaners",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.719874,
+    34.194154,
+    -88.719874,
+    34.194154
+],
+  "geometry": {"coordinates":[-88.719874,34.194154],"type":"Point"}
+}

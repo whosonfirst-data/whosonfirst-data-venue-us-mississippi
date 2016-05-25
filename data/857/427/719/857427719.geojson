@@ -1,0 +1,71 @@
+{
+  "id": 857427719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437769,33.534219,-88.437769,33.534219",
+    "geom:latitude":33.534219,
+    "geom:longitude":-88.437769,
+    "iso:country":"US",
+    "sg:address":"2334 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 4455",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ArctGdPSjbj3KNGwbUZWu_33.534219_-88.437769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129292,
+    "wof:geomhash":"9888c7a7ab1e46bc0fac09a3cbfd1879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857427719
+        }
+    ],
+    "wof:id":857427719,
+    "wof:lastmodified":1464129292,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.437769,
+    33.534219,
+    -88.437769,
+    33.534219
+],
+  "geometry": {"coordinates":[-88.437769,33.534219],"type":"Point"}
+}

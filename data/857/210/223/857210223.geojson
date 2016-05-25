@@ -1,0 +1,71 @@
+{
+  "id": 857210223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.431962,33.488796,-88.431962,33.488796",
+    "geom:latitude":33.488796,
+    "geom:longitude":-88.431962,
+    "iso:country":"US",
+    "sg:address":"663 1st St S",
+    "sg:city":"Columbus Afb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 8881",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yl4oduF7T92jAACaYrF7B_33.488796_-88.431962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124394,
+    "wof:geomhash":"46df1e4c0f7a2fa5bc8daf1ea9bcc038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857210223
+        }
+    ],
+    "wof:id":857210223,
+    "wof:lastmodified":1464124394,
+    "wof:name":"US Fire Dept Reporting",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.431962,
+    33.488796,
+    -88.431962,
+    33.488796
+],
+  "geometry": {"coordinates":[-88.431962,33.488796],"type":"Point"}
+}

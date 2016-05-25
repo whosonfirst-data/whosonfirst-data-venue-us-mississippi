@@ -1,0 +1,82 @@
+{
+  "id": 857185925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.135185,32.250076,-90.135185,32.250076",
+    "geom:latitude":32.250076,
+    "geom:longitude":-90.135185,
+    "iso:country":"US",
+    "sg:address":"810 Clearmont Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 4380",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jlKH4TLWAZDFMJsfhxX8O_32.250076_-90.135185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123914,
+    "wof:geomhash":"e743035981a686604f4f98039bbea89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857185925
+        }
+    ],
+    "wof:id":857185925,
+    "wof:lastmodified":1464123914,
+    "wof:name":"Bill's Archery Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "archery",
+        "supply",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.135185,
+    32.250076,
+    -90.135185,
+    32.250076
+],
+  "geometry": {"coordinates":[-90.13518500000001,32.250076],"type":"Point"}
+}

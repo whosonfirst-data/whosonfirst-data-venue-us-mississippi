@@ -1,0 +1,71 @@
+{
+  "id": 857355995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.618906,30.385404,-88.618906,30.385404",
+    "geom:latitude":30.385404,
+    "geom:longitude":-88.618906,
+    "iso:country":"US",
+    "sg:address":"730 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 4777",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bunY1L7PRopF1xuwwujLg_30.385404_-88.618906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127616,
+    "wof:geomhash":"5daac4c4490c7756c4634e9172a66e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857355995
+        }
+    ],
+    "wof:id":857355995,
+    "wof:lastmodified":1464127616,
+    "wof:name":"Southern Pawn Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -88.618906,
+    30.385404,
+    -88.618906,
+    30.385404
+],
+  "geometry": {"coordinates":[-88.618906,30.385404],"type":"Point"}
+}

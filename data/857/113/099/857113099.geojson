@@ -1,0 +1,76 @@
+{
+  "id": 857113099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.230487,31.397209,-89.230487,31.397209",
+    "geom:latitude":31.397209,
+    "geom:longitude":-89.230487,
+    "iso:country":"US",
+    "sg:address":"70 Robertson Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 2022",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YaTYFG9ncvStL9lCttMKS_31.397209_-89.230487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122259,
+    "wof:geomhash":"7f85704bd623856cdd32e51399f63d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857113099
+        }
+    ],
+    "wof:id":857113099,
+    "wof:lastmodified":1464122259,
+    "wof:name":"Thornton Appraisal Service",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -89.230487,
+    31.397209,
+    -89.230487,
+    31.397209
+],
+  "geometry": {"coordinates":[-89.230487,31.397209],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857225155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525191,34.366889,-89.525191,34.366889",
+    "geom:latitude":34.366889,
+    "geom:longitude":-89.525191,
+    "iso:country":"US",
+    "sg:address":"512 Van Buren Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8043",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ISrVfRodejWgr5v2IRNEu_34.366889_-89.525191@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124715,
+    "wof:geomhash":"4acbe3942875c57de1460ef376539ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857225155
+        }
+    ],
+    "wof:id":857225155,
+    "wof:lastmodified":1464124715,
+    "wof:name":"Oliver-Britt House",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -89.525191,
+    34.366889,
+    -89.525191,
+    34.366889
+],
+  "geometry": {"coordinates":[-89.52519100000001,34.366889],"type":"Point"}
+}

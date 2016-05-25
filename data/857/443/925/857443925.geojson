@@ -1,0 +1,73 @@
+{
+  "id": 857443925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.878369,32.33314,-90.878369,32.33314",
+    "geom:latitude":32.33314,
+    "geom:longitude":-90.878369,
+    "iso:country":"US",
+    "sg:address":"2701 Halls Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 6142",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tRencHvuhU0AT4a8Jqg7U_32.333140_-90.878369@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129638,
+    "wof:geomhash":"d43558add4c02c8cca3d629f9053656e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857443925
+        }
+    ],
+    "wof:id":857443925,
+    "wof:lastmodified":1464129638,
+    "wof:name":"Jerry's Fish Market",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -90.878369,
+    32.33314,
+    -90.878369,
+    32.33314
+],
+  "geometry": {"coordinates":[-90.87836900000001,32.33314],"type":"Point"}
+}

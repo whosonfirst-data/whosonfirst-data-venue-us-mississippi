@@ -1,0 +1,71 @@
+{
+  "id": 857228223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563664,34.194966,-90.563664,34.194966",
+    "geom:latitude":34.194966,
+    "geom:longitude":-90.563664,
+    "iso:country":"US",
+    "sg:address":"622 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7402",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_698V5DIfh3wh13tmM9MyyU_34.194966_-90.563664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124776,
+    "wof:geomhash":"a29dda650022a26e59b51d4f9831cdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857228223
+        }
+    ],
+    "wof:id":857228223,
+    "wof:lastmodified":1464124776,
+    "wof:name":"Krosstown Trade & Pawn Shop",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -90.563664,
+    34.194966,
+    -90.563664,
+    34.194966
+],
+  "geometry": {"coordinates":[-90.563664,34.194966],"type":"Point"}
+}

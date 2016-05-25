@@ -1,0 +1,71 @@
+{
+  "id": 857119159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.81678,34.901002,-89.81678,34.901002",
+    "geom:latitude":34.901002,
+    "geom:longitude":-89.81678,
+    "iso:country":"US",
+    "sg:address":"9740 Woolsey Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 5418",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hqcKyx93g4kfLT6WvcEAA_34.901002_-89.816780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122433,
+    "wof:geomhash":"904b48a0f03189ea50fecbf7fdf91643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857119159
+        }
+    ],
+    "wof:id":857119159,
+    "wof:lastmodified":1464122433,
+    "wof:name":"Roger McCullar Jr",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -89.81678,
+    34.901002,
+    -89.81678,
+    34.901002
+],
+  "geometry": {"coordinates":[-89.81677999999999,34.901002],"type":"Point"}
+}

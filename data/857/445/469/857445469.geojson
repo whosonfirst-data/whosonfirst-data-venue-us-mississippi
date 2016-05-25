@@ -1,0 +1,77 @@
+{
+  "id": 857445469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520145,34.368842,-89.520145,34.368842",
+    "geom:latitude":34.368842,
+    "geom:longitude":-89.520145,
+    "iso:country":"US",
+    "sg:address":"1006 Jefferson Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 1100",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i1FM2uJIrL3Vqn8gkBEIP_34.368842_-89.520145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129672,
+    "wof:geomhash":"bd83094ecbc3647cf3e9da64f694d554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857445469
+        }
+    ],
+    "wof:id":857445469,
+    "wof:lastmodified":1464129672,
+    "wof:name":"French Foyer",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -89.520145,
+    34.368842,
+    -89.520145,
+    34.368842
+],
+  "geometry": {"coordinates":[-89.520145,34.368842],"type":"Point"}
+}

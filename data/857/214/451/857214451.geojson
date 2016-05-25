@@ -1,0 +1,75 @@
+{
+  "id": 857214451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70464,32.365778,-88.70464,32.365778",
+    "geom:latitude":32.365778,
+    "geom:longitude":-88.70464,
+    "iso:country":"US",
+    "sg:address":"2502 9th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 0083",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qv27vEIff699u9xok4HuD_32.365778_-88.704640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124499,
+    "wof:geomhash":"0077b1979c11836c85cd28e24768850b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857214451
+        }
+    ],
+    "wof:id":857214451,
+    "wof:lastmodified":1464124499,
+    "wof:name":"Correctional Counseling-Ms",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.70464,
+    32.365778,
+    -88.70464,
+    32.365778
+],
+  "geometry": {"coordinates":[-88.70464,32.365778],"type":"Point"}
+}

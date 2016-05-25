@@ -1,0 +1,71 @@
+{
+  "id": 857454569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.513216,34.375804,-89.513216,34.375804",
+    "geom:latitude":34.375804,
+    "geom:longitude":-89.513216,
+    "iso:country":"US",
+    "sg:address":"823 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1763",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b4gGqGnJ8rQAdFmbuGMRS_34.375804_-89.513216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129848,
+    "wof:geomhash":"5af3caaacf4157432d8b29a591357a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857454569
+        }
+    ],
+    "wof:id":857454569,
+    "wof:lastmodified":1464129848,
+    "wof:name":"Elliott & Britt",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.513216,
+    34.375804,
+    -89.513216,
+    34.375804
+],
+  "geometry": {"coordinates":[-89.513216,34.375804],"type":"Point"}
+}

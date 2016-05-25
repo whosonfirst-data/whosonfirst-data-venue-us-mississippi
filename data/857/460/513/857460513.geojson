@@ -1,0 +1,71 @@
+{
+  "id": 857460513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.560221,30.377616,-88.560221,30.377616",
+    "geom:latitude":30.377616,
+    "geom:longitude":-88.560221,
+    "iso:country":"US",
+    "sg:address":"404 Lake Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 6852",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0caUD2fm8K240XxJLQ8wVE_30.377616_-88.560221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129961,
+    "wof:geomhash":"f8abb86523b969db919de87d9d9ac3ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857460513
+        }
+    ],
+    "wof:id":857460513,
+    "wof:lastmodified":1464129961,
+    "wof:name":"O'Sullivan & Son's Seafood Co",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -88.560221,
+    30.377616,
+    -88.560221,
+    30.377616
+],
+  "geometry": {"coordinates":[-88.560221,30.377616],"type":"Point"}
+}

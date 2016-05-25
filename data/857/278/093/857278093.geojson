@@ -1,0 +1,78 @@
+{
+  "id": 857278093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180065,32.308246,-90.180065,32.308246",
+    "geom:latitude":32.308246,
+    "geom:longitude":-90.180065,
+    "iso:country":"US",
+    "sg:address":"723 N President St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 359 5600",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "sg:website":"www.mdoc.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cMQjB3yK6haVYGVqGWGxc_32.308246_-90.180065@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125871,
+    "wof:geomhash":"4ed4210e9ed269ce9312f886b1c87ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878393,
+            "region_id":85688579,
+            "venue_id":857278093
+        }
+    ],
+    "wof:id":857278093,
+    "wof:lastmodified":1464125871,
+    "wof:name":"Corrections DEPT",
+    "wof:parent_id":85878393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -90.180065,
+    32.308246,
+    -90.180065,
+    32.308246
+],
+  "geometry": {"coordinates":[-90.180065,32.308246],"type":"Point"}
+}

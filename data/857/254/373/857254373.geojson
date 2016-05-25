@@ -1,0 +1,73 @@
+{
+  "id": 857254373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.853901,30.443065,-88.853901,30.443065",
+    "geom:latitude":30.443065,
+    "geom:longitude":-88.853901,
+    "iso:country":"US",
+    "sg:address":"14507 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 5559",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hJpyUcBjU6XXyluBXNJjS_30.443065_-88.853901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125359,
+    "wof:geomhash":"c957da2c9792652fed63791b508db7c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857254373
+        }
+    ],
+    "wof:id":857254373,
+    "wof:lastmodified":1464125359,
+    "wof:name":"Y2k Rhab Physcl Therapy Clinic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.853901,
+    30.443065,
+    -88.853901,
+    30.443065
+],
+  "geometry": {"coordinates":[-88.85390099999999,30.443065],"type":"Point"}
+}

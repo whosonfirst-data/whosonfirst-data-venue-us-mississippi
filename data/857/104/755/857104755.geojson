@@ -1,0 +1,69 @@
+{
+  "id": 857104755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864111,32.253755,-90.864111,32.253755",
+    "geom:latitude":32.253755,
+    "geom:longitude":-90.864111,
+    "iso:country":"US",
+    "sg:address":"5116 Edinburg Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 0267",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45F3PNe33tyIyl0Q3yt1sH_32.253755_-90.864111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122021,
+    "wof:geomhash":"cba679466611e691e4f9c81085e7612e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857104755
+        }
+    ],
+    "wof:id":857104755,
+    "wof:lastmodified":1464122021,
+    "wof:name":"Automotive & Home Interiors",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.864111,
+    32.253755,
+    -90.864111,
+    32.253755
+],
+  "geometry": {"coordinates":[-90.86411099999999,32.253755],"type":"Point"}
+}

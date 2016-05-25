@@ -1,0 +1,67 @@
+{
+  "id": 857367587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692462,32.383026,-88.692462,32.383026",
+    "geom:latitude":32.383026,
+    "geom:longitude":-88.692462,
+    "iso:country":"US",
+    "sg:address":"1350 24th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 4060",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:website":"www.mpsd.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I3S9firDk17AzS5juXbks_32.383026_-88.692462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127855,
+    "wof:geomhash":"967622f0a7e5364dbdfc1b19ec73a736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857367587
+        }
+    ],
+    "wof:id":857367587,
+    "wof:lastmodified":1464127855,
+    "wof:name":"Magnolia Middle School",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.692462,
+    32.383026,
+    -88.692462,
+    32.383026
+],
+  "geometry": {"coordinates":[-88.69246200000001,32.383026],"type":"Point"}
+}

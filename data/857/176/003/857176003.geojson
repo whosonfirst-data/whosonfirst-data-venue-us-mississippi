@@ -1,0 +1,71 @@
+{
+  "id": 857176003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648085,32.420421,-88.648085,32.420421",
+    "geom:latitude":32.420421,
+    "geom:longitude":-88.648085,
+    "iso:country":"US",
+    "sg:address":"5711 Clinton Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 9503",
+    "sg:postcode":"39342",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r96k5t3TkPw1MGSCMfGnb_32.420421_-88.648085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123712,
+    "wof:geomhash":"01f39982ac807188ff1a3e07b53bfdf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857176003
+        }
+    ],
+    "wof:id":857176003,
+    "wof:lastmodified":1464123712,
+    "wof:name":"First Baptist Church Of Marion",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.648085,
+    32.420421,
+    -88.648085,
+    32.420421
+],
+  "geometry": {"coordinates":[-88.64808499999999,32.420421],"type":"Point"}
+}

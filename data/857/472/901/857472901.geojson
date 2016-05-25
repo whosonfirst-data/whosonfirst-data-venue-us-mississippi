@@ -1,0 +1,68 @@
+{
+  "id": 857472901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.360586,31.319156,-89.360586,31.319156",
+    "geom:latitude":31.319156,
+    "geom:longitude":-89.360586,
+    "iso:country":"US",
+    "sg:address":"2111 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 0933",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970275,
+        102083775,
+        85851769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zzrxIOGIn9mSukVtukET5_31.319156_-89.360586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130235,
+    "wof:geomhash":"1e6bcf383ad094040b8ebaf8e85c2870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85970275,
+            "neighbourhood_id":85851769,
+            "region_id":85688579,
+            "venue_id":857472901
+        }
+    ],
+    "wof:id":857472901,
+    "wof:lastmodified":1464130235,
+    "wof:name":"Shelia's Touch Hair Salon",
+    "wof:parent_id":85851769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.360586,
+    31.319156,
+    -89.360586,
+    31.319156
+],
+  "geometry": {"coordinates":[-89.360586,31.319156],"type":"Point"}
+}

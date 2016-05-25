@@ -1,0 +1,66 @@
+{
+  "id": 857340305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.718525,34.350256,-89.718525,34.350256",
+    "geom:latitude":34.350256,
+    "geom:longitude":-89.718525,
+    "iso:country":"US",
+    "sg:address":"309 Hwy 6 W",
+    "sg:city":"Batesville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 563 1274",
+    "sg:postcode":"38606",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z8TemnNHhZCEaTkorJERk_34.350256_-89.718525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127284,
+    "wof:geomhash":"c37b13c719505d1e2f3288dcaccedaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857340305
+        }
+    ],
+    "wof:id":857340305,
+    "wof:lastmodified":1464127284,
+    "wof:name":"Speedy Serv",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.718525,
+    34.350256,
+    -89.718525,
+    34.350256
+],
+  "geometry": {"coordinates":[-89.718525,34.350256],"type":"Point"}
+}

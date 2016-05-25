@@ -1,0 +1,71 @@
+{
+  "id": 857123117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.868997,30.559512,-88.868997,30.559512",
+    "geom:latitude":30.559512,
+    "geom:longitude":-88.868997,
+    "iso:country":"US",
+    "sg:address":"15402 Wilson Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 6656",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NdJdzKTRhBFRcLeikanpY_30.559512_-88.868997@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122532,
+    "wof:geomhash":"ca6ad9c84c1042b82c2f464d1c5a3be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857123117
+        }
+    ],
+    "wof:id":857123117,
+    "wof:lastmodified":1464122532,
+    "wof:name":"Lamey Brothers Trucking",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.868997,
+    30.559512,
+    -88.868997,
+    30.559512
+],
+  "geometry": {"coordinates":[-88.86899699999999,30.559512],"type":"Point"}
+}

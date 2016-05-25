@@ -1,0 +1,71 @@
+{
+  "id": 857231313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518735,34.366715,-89.518735,34.366715",
+    "geom:latitude":34.366715,
+    "geom:longitude":-89.518735,
+    "iso:country":"US",
+    "sg:address":"114 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1070",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53WCCsO7WEgNZTPpXF3r9Y_34.366715_-89.518735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124830,
+    "wof:geomhash":"a3132434c88a2a0dba0c93e552b3fd2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857231313
+        }
+    ],
+    "wof:id":857231313,
+    "wof:lastmodified":1464124830,
+    "wof:name":"Thomas C Levidiotis",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.518735,
+    34.366715,
+    -89.518735,
+    34.366715
+],
+  "geometry": {"coordinates":[-89.51873500000001,34.366715],"type":"Point"}
+}

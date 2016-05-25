@@ -1,0 +1,71 @@
+{
+  "id": 857342039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.316799,32.251326,-90.316799,32.251326",
+    "geom:latitude":32.251326,
+    "geom:longitude":-90.316799,
+    "iso:country":"US",
+    "sg:address":"131 Western Hills Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 376 4119",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OH8R6Cc8lQAdikfMs709C_32.251326_-90.316799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127316,
+    "wof:geomhash":"663b3c1abd9c7196aa45fce48a7adab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857342039
+        }
+    ],
+    "wof:id":857342039,
+    "wof:lastmodified":1464127316,
+    "wof:name":"Wells Heating & Cooling",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.316799,
+    32.251326,
+    -90.316799,
+    32.251326
+],
+  "geometry": {"coordinates":[-90.316799,32.251326],"type":"Point"}
+}

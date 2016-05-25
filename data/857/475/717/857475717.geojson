@@ -1,0 +1,73 @@
+{
+  "id": 857475717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.544901,34.386286,-89.544901,34.386286",
+    "geom:latitude":34.386286,
+    "geom:longitude":-89.544901,
+    "iso:country":"US",
+    "sg:address":"25 Rd 1084",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3251",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Ky2dBamrppe8EFsXdWr3_34.386286_-89.544901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130292,
+    "wof:geomhash":"0cd6ff44802aa8d3d6fbbd4a0cd83896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857475717
+        }
+    ],
+    "wof:id":857475717,
+    "wof:lastmodified":1464130292,
+    "wof:name":"Golf CLB Cndminiums Apartments",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.544901,
+    34.386286,
+    -89.544901,
+    34.386286
+],
+  "geometry": {"coordinates":[-89.544901,34.386286],"type":"Point"}
+}

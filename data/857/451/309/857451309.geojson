@@ -1,0 +1,71 @@
+{
+  "id": 857451309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.428455,31.282288,-89.428455,31.282288",
+    "geom:latitude":31.282288,
+    "geom:longitude":-89.428455,
+    "iso:country":"US",
+    "sg:address":"2512 Old Hwy 24",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 9261",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communications",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L2pxJ18uRHJdZPJEiN1SJ_31.282288_-89.428455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129789,
+    "wof:geomhash":"14bd6b9ee6df62c19d09df03aaca43bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857451309
+        }
+    ],
+    "wof:id":857451309,
+    "wof:lastmodified":1464129789,
+    "wof:name":"Mesa Communications",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -89.428455,
+    31.282288,
+    -89.428455,
+    31.282288
+],
+  "geometry": {"coordinates":[-89.428455,31.282288],"type":"Point"}
+}

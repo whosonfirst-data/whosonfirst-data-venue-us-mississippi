@@ -1,0 +1,75 @@
+{
+  "id": 857380105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402627,32.857303,-90.402627,32.857303",
+    "geom:latitude":32.857303,
+    "geom:longitude":-90.402627,
+    "iso:country":"US",
+    "sg:address":"719 Jackson Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6731",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mF2O9ANAisZMglCVbbahl_32.857303_-90.402627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128123,
+    "wof:geomhash":"12577f64e6eba451716b2775f583bd17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857380105
+        }
+    ],
+    "wof:id":857380105,
+    "wof:lastmodified":1464128123,
+    "wof:name":"US Consolidated Farm Svc Agcy",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -90.402627,
+    32.857303,
+    -90.402627,
+    32.857303
+],
+  "geometry": {"coordinates":[-90.402627,32.857303],"type":"Point"}
+}

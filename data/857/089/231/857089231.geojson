@@ -1,0 +1,71 @@
+{
+  "id": 857089231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557511,30.368057,-88.557511,30.368057",
+    "geom:latitude":30.368057,
+    "geom:longitude":-88.557511,
+    "iso:country":"US",
+    "sg:address":"703 Krebs Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 5211",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XTehIdCirEt2Z6U7YsU7b_30.368057_-88.557511@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121649,
+    "wof:geomhash":"842a61397320101eed7df42e4b591c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857089231
+        }
+    ],
+    "wof:id":857089231,
+    "wof:lastmodified":1464121649,
+    "wof:name":"Everett's Appliances & TV",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.557511,
+    30.368057,
+    -88.557511,
+    30.368057
+],
+  "geometry": {"coordinates":[-88.55751100000001,30.368057],"type":"Point"}
+}

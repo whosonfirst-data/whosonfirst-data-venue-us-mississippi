@@ -1,0 +1,71 @@
+{
+  "id": 857257571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.578075,33.8402,-88.578075,33.8402",
+    "geom:latitude":33.8402,
+    "geom:longitude":-88.578075,
+    "iso:country":"US",
+    "sg:address":"312 Hwy 8 W",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 9531",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50JQ5La4qrNzlBxWyx7zXE_33.840200_-88.578075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125441,
+    "wof:geomhash":"608d4a60a4704d9d621c535244c9b01d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857257571
+        }
+    ],
+    "wof:id":857257571,
+    "wof:lastmodified":1464125441,
+    "wof:name":"Fischer Farm Svc",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -88.578075,
+    33.8402,
+    -88.578075,
+    33.8402
+],
+  "geometry": {"coordinates":[-88.578075,33.8402],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857155733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.791472,34.929885,-89.791472,34.929885",
+    "geom:latitude":34.929885,
+    "geom:longitude":-89.791472,
+    "iso:country":"US",
+    "sg:address":"11175 Hwy 178",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 9818",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_068ALp5kdCESCqIo8A1I0H_34.929885_-89.791472@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123261,
+    "wof:geomhash":"0d8d85094185752297f4589ec4402393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857155733
+        }
+    ],
+    "wof:id":857155733,
+    "wof:lastmodified":1464123261,
+    "wof:name":"Crown Rentals",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -89.791472,
+    34.929885,
+    -89.791472,
+    34.929885
+],
+  "geometry": {"coordinates":[-89.791472,34.929885],"type":"Point"}
+}

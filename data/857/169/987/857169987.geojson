@@ -1,0 +1,71 @@
+{
+  "id": 857169987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.55956,34.362993,-89.55956,34.362993",
+    "geom:latitude":34.362993,
+    "geom:longitude":-89.55956,
+    "iso:country":"US",
+    "sg:address":"2134 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8731",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Skkf8NSSMj3MFTuFCthqM_34.362993_-89.559560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123585,
+    "wof:geomhash":"75293b996047fd6985eb974ba53761ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857169987
+        }
+    ],
+    "wof:id":857169987,
+    "wof:lastmodified":1464123585,
+    "wof:name":"Ben Thomas Cole II",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.55956,
+    34.362993,
+    -89.55956,
+    34.362993
+],
+  "geometry": {"coordinates":[-89.55956,34.362993],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857208077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772612,34.246554,-88.772612,34.246554",
+    "geom:latitude":34.246554,
+    "geom:longitude":-88.772612,
+    "iso:country":"US",
+    "sg:address":"5094 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0027",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bh6zOBfYHUi0qG0i3xQTj_34.246554_-88.772612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124352,
+    "wof:geomhash":"1b589bbc59a5204a907cd5656479681e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857208077
+        }
+    ],
+    "wof:id":857208077,
+    "wof:lastmodified":1464124352,
+    "wof:name":"Hot Shot Express Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -88.772612,
+    34.246554,
+    -88.772612,
+    34.246554
+],
+  "geometry": {"coordinates":[-88.772612,34.246554],"type":"Point"}
+}

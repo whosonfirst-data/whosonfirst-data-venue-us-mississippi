@@ -1,0 +1,75 @@
+{
+  "id": 857469273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.190554,32.355863,-90.190554,32.355863",
+    "geom:latitude":32.355863,
+    "geom:longitude":-90.190554,
+    "iso:country":"US",
+    "sg:address":"787 E Northside Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 8880",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cjC8inPHts6pTqctEw19q_32.355863_-90.190554@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130157,
+    "wof:geomhash":"4d9eff15e49d90360982f7ff5be61a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857469273
+        }
+    ],
+    "wof:id":857469273,
+    "wof:lastmodified":1464130157,
+    "wof:name":"Wesley Biblical Seminary",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -90.190554,
+    32.355863,
+    -90.190554,
+    32.355863
+],
+  "geometry": {"coordinates":[-90.19055400000001,32.355863],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857097343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.411288,31.167347,-89.411288,31.167347",
+    "geom:latitude":31.167347,
+    "geom:longitude":-89.411288,
+    "iso:country":"US",
+    "sg:address":"80 Central Industrial Row",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 5577",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QC83omJHdfDt2pPlz8Mch_31.167347_-89.411288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121845,
+    "wof:geomhash":"47820665cb1db10129cfe2b5c871e392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857097343
+        }
+    ],
+    "wof:id":857097343,
+    "wof:lastmodified":1464121845,
+    "wof:name":"Purvis Farm Supply Trucking",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.411288,
+    31.167347,
+    -89.411288,
+    31.167347
+],
+  "geometry": {"coordinates":[-89.411288,31.167347],"type":"Point"}
+}

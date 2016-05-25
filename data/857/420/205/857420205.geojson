@@ -1,0 +1,73 @@
+{
+  "id": 857420205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.641306,30.367529,-88.641306,30.367529",
+    "geom:latitude":30.367529,
+    "geom:longitude":-88.641306,
+    "iso:country":"US",
+    "sg:address":"1722 Pat Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 3224",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "preschool",
+        "playgroup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I57hLE56hIQd7dE4Q9K0r_30.367529_-88.641306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129101,
+    "wof:geomhash":"d0fde3b98601147c784398fcc5343138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857420205
+        }
+    ],
+    "wof:id":857420205,
+    "wof:lastmodified":1464129101,
+    "wof:name":"Abby Pavon",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preschool",
+        "playgroup"
+    ]
+},
+  "bbox": [
+    -88.641306,
+    30.367529,
+    -88.641306,
+    30.367529
+],
+  "geometry": {"coordinates":[-88.641306,30.367529],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857200055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.796815,30.414671,-88.796815,30.414671",
+    "geom:latitude":30.414671,
+    "geom:longitude":-88.796815,
+    "iso:country":"US",
+    "sg:address":"2688 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 9346",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f6jkXcm3TPpji8RSMDcVS_30.414671_-88.796815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124177,
+    "wof:geomhash":"f47b7af150abda7d06d481d993702d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857200055
+        }
+    ],
+    "wof:id":857200055,
+    "wof:lastmodified":1464124177,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.796815,
+    30.414671,
+    -88.796815,
+    30.414671
+],
+  "geometry": {"coordinates":[-88.796815,30.414671],"type":"Point"}
+}

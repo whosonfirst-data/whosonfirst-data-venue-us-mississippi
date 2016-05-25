@@ -1,0 +1,75 @@
+{
+  "id": 857113709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.263,31.34427,-89.263,31.34427",
+    "geom:latitude":31.34427,
+    "geom:longitude":-89.263,
+    "iso:country":"US",
+    "sg:address":"112 S Main St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 4300",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RKsQF0QPhGwC5zc05Q7gW_31.344270_-89.263000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122274,
+    "wof:geomhash":"9fcd84f5eed0af0c7b858ffc691a3607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857113709
+        }
+    ],
+    "wof:id":857113709,
+    "wof:lastmodified":1464122274,
+    "wof:name":"Smokey's Discount Tobacco",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.263,
+    31.34427,
+    -89.263,
+    31.34427
+],
+  "geometry": {"coordinates":[-89.26300000000001,31.34427],"type":"Point"}
+}

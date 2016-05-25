@@ -1,0 +1,73 @@
+{
+  "id": 857242835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.327679,32.296544,-90.327679,32.296544",
+    "geom:latitude":32.296544,
+    "geom:longitude":-90.327679,
+    "iso:country":"US",
+    "sg:address":"1312 Springridge Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 922 5632",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LQpMicBkUSnwWEnmcrsTB_32.296544_-90.327679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125080,
+    "wof:geomhash":"0331869c9c96b29f9f1216465b358a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857242835
+        }
+    ],
+    "wof:id":857242835,
+    "wof:lastmodified":1464125080,
+    "wof:name":"Faircloth Construction Co Inc",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "work"
+    ]
+},
+  "bbox": [
+    -90.327679,
+    32.296544,
+    -90.327679,
+    32.296544
+],
+  "geometry": {"coordinates":[-90.327679,32.296544],"type":"Point"}
+}

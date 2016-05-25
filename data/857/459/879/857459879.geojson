@@ -1,0 +1,71 @@
+{
+  "id": 857459879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.310636,31.324796,-89.310636,31.324796",
+    "geom:latitude":31.324796,
+    "geom:longitude":-89.310636,
+    "iso:country":"US",
+    "sg:address":"1311 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2559",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cJ0zo2HsLgP6Nml3I3q2u_31.324796_-89.310636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129947,
+    "wof:geomhash":"fa3d045c027bc89bddc00a82fbe0737f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857459879
+        }
+    ],
+    "wof:id":857459879,
+    "wof:lastmodified":1464129947,
+    "wof:name":"Park Place",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -89.310636,
+    31.324796,
+    -89.310636,
+    31.324796
+],
+  "geometry": {"coordinates":[-89.310636,31.324796],"type":"Point"}
+}

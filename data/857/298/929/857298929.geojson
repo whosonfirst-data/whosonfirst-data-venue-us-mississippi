@@ -1,0 +1,74 @@
+{
+  "id": 857298929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.131325,32.15437,-90.131325,32.15437",
+    "geom:latitude":32.15437,
+    "geom:longitude":-90.131325,
+    "iso:country":"US",
+    "sg:address":"220 Price St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 2201",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "sg:website":"www.voithfabrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WoTUTTSRvtldHv0FegicD_32.154370_-90.131325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126386,
+    "wof:geomhash":"b01c9f497a70817b1ec37f09fc052673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857298929
+        }
+    ],
+    "wof:id":857298929,
+    "wof:lastmodified":1464126386,
+    "wof:name":"Voith",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.131325,
+    32.15437,
+    -90.131325,
+    32.15437
+],
+  "geometry": {"coordinates":[-90.131325,32.15437],"type":"Point"}
+}

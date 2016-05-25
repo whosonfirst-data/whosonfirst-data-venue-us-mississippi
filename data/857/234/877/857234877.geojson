@@ -1,0 +1,71 @@
+{
+  "id": 857234877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.404462,32.843546,-90.404462,32.843546",
+    "geom:latitude":32.843546,
+    "geom:longitude":-90.404462,
+    "iso:country":"US",
+    "sg:address":"794 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8459",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XF7nPmSUaOJYBLMDlpRcf_32.843546_-90.404462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124900,
+    "wof:geomhash":"710a318d7d729ad17269d114c345e875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857234877
+        }
+    ],
+    "wof:id":857234877,
+    "wof:lastmodified":1464124900,
+    "wof:name":"Custom Monument",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.404462,
+    32.843546,
+    -90.404462,
+    32.843546
+],
+  "geometry": {"coordinates":[-90.404462,32.843546],"type":"Point"}
+}

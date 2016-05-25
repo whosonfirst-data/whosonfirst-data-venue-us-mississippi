@@ -1,0 +1,71 @@
+{
+  "id": 857244719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.634084,34.508226,-88.634084,34.508226",
+    "geom:latitude":34.508226,
+    "geom:longitude":-88.634084,
+    "iso:country":"US",
+    "sg:address":"210 S 2nd St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 5069",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12HXZ3MHSYaSwucmzaWmM6_34.508226_-88.634084@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125127,
+    "wof:geomhash":"a1f7d9343e6888895dddf70cb55c8fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857244719
+        }
+    ],
+    "wof:id":857244719,
+    "wof:lastmodified":1464125127,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -88.634084,
+    34.508226,
+    -88.634084,
+    34.508226
+],
+  "geometry": {"coordinates":[-88.634084,34.508226],"type":"Point"}
+}

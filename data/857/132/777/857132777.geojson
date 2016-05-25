@@ -1,0 +1,75 @@
+{
+  "id": 857132777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.30148,31.317211,-89.30148,31.317211",
+    "geom:latitude":31.317211,
+    "geom:longitude":-89.30148,
+    "iso:country":"US",
+    "sg:address":"121 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7755",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DvxmXauDh72X2Unl840bU_31.317211_-89.301480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122736,
+    "wof:geomhash":"af2cc708364e6802e25a64f216b2394c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857132777
+        }
+    ],
+    "wof:id":857132777,
+    "wof:lastmodified":1464122736,
+    "wof:name":"Discount Tobacco",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.30148,
+    31.317211,
+    -89.30148,
+    31.317211
+],
+  "geometry": {"coordinates":[-89.30148,31.317211],"type":"Point"}
+}

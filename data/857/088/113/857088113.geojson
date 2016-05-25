@@ -1,0 +1,71 @@
+{
+  "id": 857088113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658988,33.596263,-88.658988,33.596263",
+    "geom:latitude":33.596263,
+    "geom:longitude":-88.658988,
+    "iso:country":"US",
+    "sg:address":"844 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 5855",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QILD475M8DRLASc7DJdky_33.596263_-88.658988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121615,
+    "wof:geomhash":"cf5eeab0f38a2e72ba2d5bda24113250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857088113
+        }
+    ],
+    "wof:id":857088113,
+    "wof:lastmodified":1464121615,
+    "wof:name":"Sykes Trucking",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.658988,
+    33.596263,
+    -88.658988,
+    33.596263
+],
+  "geometry": {"coordinates":[-88.65898799999999,33.596263],"type":"Point"}
+}

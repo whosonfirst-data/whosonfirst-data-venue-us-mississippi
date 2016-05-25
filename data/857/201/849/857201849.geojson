@@ -1,0 +1,79 @@
+{
+  "id": 857201849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.330832,31.27115,-89.330832,31.27115",
+    "geom:latitude":31.27115,
+    "geom:longitude":-89.330832,
+    "iso:country":"US",
+    "sg:address":"3688 Veteran Memorial Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 543 0227",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "clinic",
+        "h",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dinwMCs634KritYCndaTM_31.271150_-89.330832@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124210,
+    "wof:geomhash":"2c839bd8839e6201c09b32d52bb83f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857201849
+        }
+    ],
+    "wof:id":857201849,
+    "wof:lastmodified":1464124210,
+    "wof:name":"Encore",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "clinic",
+        "h",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -89.330832,
+    31.27115,
+    -89.330832,
+    31.27115
+],
+  "geometry": {"coordinates":[-89.330832,31.27115],"type":"Point"}
+}

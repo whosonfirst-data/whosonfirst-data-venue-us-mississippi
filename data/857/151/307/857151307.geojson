@@ -1,0 +1,73 @@
+{
+  "id": 857151307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691215,30.519955,-88.691215,30.519955",
+    "geom:latitude":30.519955,
+    "geom:longitude":-88.691215,
+    "iso:country":"US",
+    "sg:address":"12225 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 0055",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MYzr8HJ0a1JmwYELrsX4n_30.519955_-88.691215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123174,
+    "wof:geomhash":"5d91a21b4b3cbb9f81c369370258176c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857151307
+        }
+    ],
+    "wof:id":857151307,
+    "wof:lastmodified":1464123174,
+    "wof:name":"Dahls Collision",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.691215,
+    30.519955,
+    -88.691215,
+    30.519955
+],
+  "geometry": {"coordinates":[-88.691215,30.519955],"type":"Point"}
+}

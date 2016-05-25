@@ -1,0 +1,74 @@
+{
+  "id": 857480077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569899,34.192695,-90.569899,34.192695",
+    "geom:latitude":34.192695,
+    "geom:longitude":-90.569899,
+    "iso:country":"US",
+    "sg:address":"620 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/5/133081-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 8577",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wdJUmeZJx2ESa7zgGkF1U_34.192695_-90.569899@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130371,
+    "wof:geomhash":"bdf29e864023649f6c506b300a4b750a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857480077
+        }
+    ],
+    "wof:id":857480077,
+    "wof:lastmodified":1464130371,
+    "wof:name":"Subway",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.569899,
+    34.192695,
+    -90.569899,
+    34.192695
+],
+  "geometry": {"coordinates":[-90.56989900000001,34.192695],"type":"Point"}
+}

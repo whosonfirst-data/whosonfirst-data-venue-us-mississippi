@@ -1,0 +1,74 @@
+{
+  "id": 857306697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.161555,32.2638,-90.161555,32.2638",
+    "geom:latitude":32.2638,
+    "geom:longitude":-90.161555,
+    "iso:country":"US",
+    "sg:address":"102 Carrier Blvd",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 2845",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.yellowcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969947,
+        102084869,
+        85833739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yEn1WzIIbJa65q39DqLga_32.263800_-90.161555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126552,
+    "wof:geomhash":"618c726fa1267266ef59710069ba7160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85833739,
+            "region_id":85688579,
+            "venue_id":857306697
+        }
+    ],
+    "wof:id":857306697,
+    "wof:lastmodified":1464126552,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85833739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.161555,
+    32.2638,
+    -90.161555,
+    32.2638
+],
+  "geometry": {"coordinates":[-90.16155500000001,32.2638],"type":"Point"}
+}

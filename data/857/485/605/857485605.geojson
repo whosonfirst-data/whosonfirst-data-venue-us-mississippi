@@ -1,0 +1,76 @@
+{
+  "id": 857485605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.562296,34.362461,-89.562296,34.362461",
+    "geom:latitude":34.362461,
+    "geom:longitude":-89.562296,
+    "iso:country":"US",
+    "sg:address":"2206a Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/122276-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3131",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47PwuVi0QR3I5LKQYOeVF5_34.362435_-89.561890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130478,
+    "wof:geomhash":"d2fb2fb1e0f4a00d873549f42ea607d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857485605
+        }
+    ],
+    "wof:id":857485605,
+    "wof:lastmodified":1464130478,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.562296,
+    34.362461,
+    -89.562296,
+    34.362461
+],
+  "geometry": {"coordinates":[-89.562296,34.362461],"type":"Point"}
+}

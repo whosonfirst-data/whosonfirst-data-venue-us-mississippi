@@ -1,0 +1,75 @@
+{
+  "id": 857308287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.338343,31.324887,-89.338343,31.324887",
+    "geom:latitude":31.324887,
+    "geom:longitude":-89.338343,
+    "iso:country":"US",
+    "sg:address":"3214 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 5200",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zsw62jXhrZAb1PUfYYmM2_31.324887_-89.338343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126583,
+    "wof:geomhash":"6d74170eb48284e3f7a01c859f488a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857308287
+        }
+    ],
+    "wof:id":857308287,
+    "wof:lastmodified":1464126583,
+    "wof:name":"Speedee Oil Change & Tune Up",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.338343,
+    31.324887,
+    -89.338343,
+    31.324887
+],
+  "geometry": {"coordinates":[-89.33834299999999,31.324887],"type":"Point"}
+}

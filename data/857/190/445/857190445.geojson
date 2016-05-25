@@ -1,0 +1,71 @@
+{
+  "id": 857190445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.764622,32.404355,-90.764622,32.404355",
+    "geom:latitude":32.404355,
+    "geom:longitude":-90.764622,
+    "iso:country":"US",
+    "sg:address":"126 Westwood Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8899",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cb0pzaFibCm7zKnKe6cXw_32.404355_-90.764622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123997,
+    "wof:geomhash":"f541887b6acce37a23f08746e57b5caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857190445
+        }
+    ],
+    "wof:id":857190445,
+    "wof:lastmodified":1464123997,
+    "wof:name":"Buford D Hollingsworth",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.764622,
+    32.404355,
+    -90.764622,
+    32.404355
+],
+  "geometry": {"coordinates":[-90.764622,32.404355],"type":"Point"}
+}

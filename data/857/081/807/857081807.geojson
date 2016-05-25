@@ -1,0 +1,73 @@
+{
+  "id": 857081807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67307,34.257578,-88.67307,34.257578",
+    "geom:latitude":34.257578,
+    "geom:longitude":-88.67307,
+    "iso:country":"US",
+    "sg:address":"1324 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 0702",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1urV5890qhnLrU6wpPDrsY_34.257578_-88.673070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121446,
+    "wof:geomhash":"9d2c4da1908ce57954ac9f3f9e66094d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857081807
+        }
+    ],
+    "wof:id":857081807,
+    "wof:lastmodified":1464121446,
+    "wof:name":"Payless Used Cars",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.67307,
+    34.257578,
+    -88.67307,
+    34.257578
+],
+  "geometry": {"coordinates":[-88.67307,34.257578],"type":"Point"}
+}

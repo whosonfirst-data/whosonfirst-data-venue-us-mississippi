@@ -1,0 +1,73 @@
+{
+  "id": 857243845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.803849,33.458318,-88.803849,33.458318",
+    "geom:latitude":33.458318,
+    "geom:longitude":-88.803849,
+    "iso:country":"US",
+    "sg:address":"400 Russell St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 2800",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZMibPb4dNs9JZYMH6eovl_33.458318_-88.803849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125102,
+    "wof:geomhash":"d800b4926ee2c5b8d11044f5bc08f8ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857243845
+        }
+    ],
+    "wof:id":857243845,
+    "wof:lastmodified":1464125102,
+    "wof:name":"Palmer Home For Children",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -88.803849,
+    33.458318,
+    -88.803849,
+    33.458318
+],
+  "geometry": {"coordinates":[-88.803849,33.458318],"type":"Point"}
+}

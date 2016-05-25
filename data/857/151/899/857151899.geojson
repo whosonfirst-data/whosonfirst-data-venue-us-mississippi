@@ -1,0 +1,75 @@
+{
+  "id": 857151899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.606939,32.478414,-88.606939,32.478414",
+    "geom:latitude":32.478414,
+    "geom:longitude":-88.606939,
+    "iso:country":"US",
+    "sg:address":"1551 Redman Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 5500",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnjpQHergKM4puxapXozJ_32.478414_-88.606939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123184,
+    "wof:geomhash":"4f72bfa937fb9bd10f890976db7cf7f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857151899
+        }
+    ],
+    "wof:id":857151899,
+    "wof:lastmodified":1464123184,
+    "wof:name":"Industrial Electric Motor WRKS",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.606939,
+    32.478414,
+    -88.606939,
+    32.478414
+],
+  "geometry": {"coordinates":[-88.606939,32.478414],"type":"Point"}
+}

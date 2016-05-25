@@ -1,0 +1,71 @@
+{
+  "id": 857104403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.442577,33.538469,-88.442577,33.538469",
+    "geom:latitude":33.538469,
+    "geom:longitude":-88.442577,
+    "iso:country":"US",
+    "sg:address":"301 Holly Hills Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 1199",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u52SsdPMJOqOSIqB95v2a_33.538469_-88.442577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122014,
+    "wof:geomhash":"c99e4158be025151c27ea49abee966f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857104403
+        }
+    ],
+    "wof:id":857104403,
+    "wof:lastmodified":1464122014,
+    "wof:name":"Copeland Publishing LLC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishing"
+    ]
+},
+  "bbox": [
+    -88.442577,
+    33.538469,
+    -88.442577,
+    33.538469
+],
+  "geometry": {"coordinates":[-88.442577,33.538469],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857343049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416431,32.835714,-90.416431,32.835714",
+    "geom:latitude":32.835714,
+    "geom:longitude":-90.416431,
+    "iso:country":"US",
+    "sg:address":"120 Ridge Road Cir",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3042",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lllssoGQBZbAYudt33yJT_32.835714_-90.416431@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127335,
+    "wof:geomhash":"363aea6310c586319137817342662776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857343049
+        }
+    ],
+    "wof:id":857343049,
+    "wof:lastmodified":1464127335,
+    "wof:name":"Mississippi Regional Housing",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -90.416431,
+    32.835714,
+    -90.416431,
+    32.835714
+],
+  "geometry": {"coordinates":[-90.416431,32.835714],"type":"Point"}
+}

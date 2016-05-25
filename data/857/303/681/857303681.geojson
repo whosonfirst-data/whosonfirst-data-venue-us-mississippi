@@ -1,0 +1,71 @@
+{
+  "id": 857303681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.495508,34.417553,-89.495508,34.417553",
+    "geom:latitude":34.417553,
+    "geom:longitude":-89.495508,
+    "iso:country":"US",
+    "sg:address":"466 Hwy 7 N",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5466",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cyo4a31WiSrXfvgVWbnAQ_34.417553_-89.495508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126490,
+    "wof:geomhash":"dad170ebd4ce2ae35021734e05927c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857303681
+        }
+    ],
+    "wof:id":857303681,
+    "wof:lastmodified":1464126490,
+    "wof:name":"Parker Roofing Co",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.495508,
+    34.417553,
+    -89.495508,
+    34.417553
+],
+  "geometry": {"coordinates":[-89.495508,34.417553],"type":"Point"}
+}

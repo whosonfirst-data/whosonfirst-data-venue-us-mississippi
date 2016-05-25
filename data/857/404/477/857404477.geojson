@@ -1,0 +1,68 @@
+{
+  "id": 857404477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.131585,32.398113,-90.131585,32.398113",
+    "geom:latitude":32.398113,
+    "geom:longitude":-90.131585,
+    "iso:country":"US",
+    "sg:address":"6268 Mossline Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 2182",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85822959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C36fMTttMpsZG6XsadhjJ_32.398113_-90.131585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128717,
+    "wof:geomhash":"cb2d45c77a18ea89ad20b0bbc09f663d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85822959,
+            "region_id":85688579,
+            "venue_id":857404477
+        }
+    ],
+    "wof:id":857404477,
+    "wof:lastmodified":1464128717,
+    "wof:name":"Rodiguez Gaston",
+    "wof:parent_id":85822959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.131585,
+    32.398113,
+    -90.131585,
+    32.398113
+],
+  "geometry": {"coordinates":[-90.131585,32.398113],"type":"Point"}
+}

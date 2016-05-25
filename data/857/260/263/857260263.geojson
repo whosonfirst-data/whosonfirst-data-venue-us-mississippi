@@ -1,0 +1,68 @@
+{
+  "id": 857260263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.901938,30.398065,-88.901938,30.398065",
+    "geom:latitude":30.398065,
+    "geom:longitude":-88.901938,
+    "iso:country":"US",
+    "sg:address":"195 Porter Ave",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 374 9660",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kI643b9lqxbgXDOzQD8mo_30.398065_-88.901938@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125495,
+    "wof:geomhash":"fc10ae4f7a782867d3c35f8d08fb878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857260263
+        }
+    ],
+    "wof:id":857260263,
+    "wof:lastmodified":1464125495,
+    "wof:name":"Jazzeppi's",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.901938,
+    30.398065,
+    -88.901938,
+    30.398065
+],
+  "geometry": {"coordinates":[-88.901938,30.398065],"type":"Point"}
+}

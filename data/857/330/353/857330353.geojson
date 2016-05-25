@@ -1,0 +1,71 @@
+{
+  "id": 857330353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.413945,33.510771,-88.413945,33.510771",
+    "geom:latitude":33.510771,
+    "geom:longitude":-88.413945,
+    "iso:country":"US",
+    "sg:address":"1809 N 14th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4349",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_498hsa9NjDTqo84BElyzwm_33.510771_-88.413945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127061,
+    "wof:geomhash":"4fafe29cb9357574c29f1e62530c9ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857330353
+        }
+    ],
+    "wof:id":857330353,
+    "wof:lastmodified":1464127061,
+    "wof:name":"Hardin's Superette",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.413945,
+    33.510771,
+    -88.413945,
+    33.510771
+],
+  "geometry": {"coordinates":[-88.413945,33.510771],"type":"Point"}
+}

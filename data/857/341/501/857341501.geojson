@@ -1,0 +1,73 @@
+{
+  "id": 857341501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.079996,30.374169,-89.079996,30.374169",
+    "geom:latitude":30.374169,
+    "geom:longitude":-89.079996,
+    "iso:country":"US",
+    "sg:address":"1527 19th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 8850",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GoJy26tiByiFmDneTQBgx_30.374169_-89.079996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127306,
+    "wof:geomhash":"bbca43a77eec1755d3d2cda368e2f7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857341501
+        }
+    ],
+    "wof:id":857341501,
+    "wof:lastmodified":1464127306,
+    "wof:name":"Sharpe Touch",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.079996,
+    30.374169,
+    -89.079996,
+    30.374169
+],
+  "geometry": {"coordinates":[-89.07999599999999,30.374169],"type":"Point"}
+}

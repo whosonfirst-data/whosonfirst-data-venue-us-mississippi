@@ -1,0 +1,71 @@
+{
+  "id": 857477993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574181,34.200192,-90.574181,34.200192",
+    "geom:latitude":34.200192,
+    "geom:longitude":-90.574181,
+    "iso:country":"US",
+    "sg:address":"348 Delta Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4040",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lJ89s2Mx9jEfk6tS971to_34.200486_-90.574276@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130336,
+    "wof:geomhash":"814910d8f93d125549c5acbb83228e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857477993
+        }
+    ],
+    "wof:id":857477993,
+    "wof:lastmodified":1464130336,
+    "wof:name":"Delta Amusement Parlor",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.574181,
+    34.200192,
+    -90.574181,
+    34.200192
+],
+  "geometry": {"coordinates":[-90.574181,34.200192],"type":"Point"}
+}

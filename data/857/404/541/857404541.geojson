@@ -1,0 +1,71 @@
+{
+  "id": 857404541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433204,33.517549,-88.433204,33.517549",
+    "geom:latitude":33.517549,
+    "geom:longitude":-88.433204,
+    "iso:country":"US",
+    "sg:address":"1404 Old Aberdeen Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 0005",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ALgu1pq1NEHd0Fi7n5Aqo_33.517549_-88.433204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128719,
+    "wof:geomhash":"91a0ac439d0b88314d079e2843fc787b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857404541
+        }
+    ],
+    "wof:id":857404541,
+    "wof:lastmodified":1464128719,
+    "wof:name":"Garfield's Restaurant & Pub",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.433204,
+    33.517549,
+    -88.433204,
+    33.517549
+],
+  "geometry": {"coordinates":[-88.433204,33.517549],"type":"Point"}
+}

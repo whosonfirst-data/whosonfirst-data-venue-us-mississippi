@@ -1,0 +1,71 @@
+{
+  "id": 857265599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.86554,30.443125,-88.86554,30.443125",
+    "geom:latitude":30.443125,
+    "geom:longitude":-88.86554,
+    "iso:country":"US",
+    "sg:address":"15218 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 7547",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EEx7UvhkynEgUvKibq1W0_30.443125_-88.865540@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125603,
+    "wof:geomhash":"027f5ff51a7c5cdfb19891b1564fc253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857265599
+        }
+    ],
+    "wof:id":857265599,
+    "wof:lastmodified":1464125603,
+    "wof:name":"Expertech Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -88.86554,
+    30.443125,
+    -88.86554,
+    30.443125
+],
+  "geometry": {"coordinates":[-88.86554,30.443125],"type":"Point"}
+}

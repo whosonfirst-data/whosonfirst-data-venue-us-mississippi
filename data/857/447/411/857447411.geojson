@@ -1,0 +1,73 @@
+{
+  "id": 857447411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.789359,33.445051,-88.789359,33.445051",
+    "geom:latitude":33.445051,
+    "geom:longitude":-88.789359,
+    "iso:country":"US",
+    "sg:address":"1234 Oktoc Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 0159",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85853149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mgHNQF41NblBXdz6NVTRs_33.445051_-88.789359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129711,
+    "wof:geomhash":"cb9a6ee6d18123bbb0cacec918abbd5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85853149,
+            "region_id":85688579,
+            "venue_id":857447411
+        }
+    ],
+    "wof:id":857447411,
+    "wof:lastmodified":1464129711,
+    "wof:name":"House To Home",
+    "wof:parent_id":85853149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -88.789359,
+    33.445051,
+    -88.789359,
+    33.445051
+],
+  "geometry": {"coordinates":[-88.789359,33.445051],"type":"Point"}
+}

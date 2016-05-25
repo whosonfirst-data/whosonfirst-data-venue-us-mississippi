@@ -1,0 +1,71 @@
+{
+  "id": 857275225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527848,30.368546,-88.527848,30.368546",
+    "geom:latitude":30.368546,
+    "geom:longitude":-88.527848,
+    "iso:country":"US",
+    "sg:address":"3505 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3092",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56fbHxkhQjO1LnF66QbNXR_30.368546_-88.527848@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125795,
+    "wof:geomhash":"657603132d55e45f26d606287a49a3c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857275225
+        }
+    ],
+    "wof:id":857275225,
+    "wof:lastmodified":1464125795,
+    "wof:name":"Erwin's Bakery",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -88.527848,
+    30.368546,
+    -88.527848,
+    30.368546
+],
+  "geometry": {"coordinates":[-88.52784800000001,30.368546],"type":"Point"}
+}

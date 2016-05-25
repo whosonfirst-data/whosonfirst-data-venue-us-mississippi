@@ -1,0 +1,71 @@
+{
+  "id": 857455599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.245677,31.343953,-89.245677,31.343953",
+    "geom:latitude":31.343953,
+    "geom:longitude":-89.245677,
+    "iso:country":"US",
+    "sg:address":"656 Hillcrest Loop",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 1995",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S7FvXbgg4T2yTo4kI3LSb_31.343953_-89.245677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129865,
+    "wof:geomhash":"4aff560286229061e964e80ca0d8e386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857455599
+        }
+    ],
+    "wof:id":857455599,
+    "wof:lastmodified":1464129865,
+    "wof:name":"Monroe Auctions",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real estate"
+    ]
+},
+  "bbox": [
+    -89.245677,
+    31.343953,
+    -89.245677,
+    31.343953
+],
+  "geometry": {"coordinates":[-89.245677,31.343953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857243801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659028,33.626938,-88.659028,33.626938",
+    "geom:latitude":33.626938,
+    "geom:longitude":-88.659028,
+    "iso:country":"US",
+    "sg:address":"1265 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 0806",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "outdoor",
+        "gear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lWRsw7niQNKAXuXMhkxNl_33.626938_-88.659028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125101,
+    "wof:geomhash":"f9d341221e12c8c5bf79d5fb393a54ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857243801
+        }
+    ],
+    "wof:id":857243801,
+    "wof:lastmodified":1464125101,
+    "wof:name":"Outdoor Gear LLC",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "gear"
+    ]
+},
+  "bbox": [
+    -88.659028,
+    33.626938,
+    -88.659028,
+    33.626938
+],
+  "geometry": {"coordinates":[-88.65902800000001,33.626938],"type":"Point"}
+}

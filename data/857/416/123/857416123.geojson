@@ -1,0 +1,75 @@
+{
+  "id": 857416123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534725,30.38309,-88.534725,30.38309",
+    "geom:latitude":30.38309,
+    "geom:longitude":-88.534725,
+    "iso:country":"US",
+    "sg:address":"4907 Telephone Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0701",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "dialysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hJkelscveFkqFlY1QjH5F_30.383090_-88.534725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129015,
+    "wof:geomhash":"6723df2f28746c87f1db588aa73f3e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857416123
+        }
+    ],
+    "wof:id":857416123,
+    "wof:lastmodified":1464129015,
+    "wof:name":"Ocean Springs Dialysis",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -88.534725,
+    30.38309,
+    -88.534725,
+    30.38309
+],
+  "geometry": {"coordinates":[-88.53472499999999,30.38309],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857150427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.486783,33.993577,-88.486783,33.993577",
+    "geom:latitude":33.993577,
+    "geom:longitude":-88.486783,
+    "iso:country":"US",
+    "sg:address":"503 9th Ave N",
+    "sg:city":"Amory",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 256 2808",
+    "sg:postcode":"38821",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969843,
+        102083163,
+        85811897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_034vtewU5HBcscs453ZBui_33.993577_-88.486783@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123156,
+    "wof:geomhash":"ba744b56eecb66b85a6709c9ef555797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969843,
+            "neighbourhood_id":85811897,
+            "region_id":85688579,
+            "venue_id":857150427
+        }
+    ],
+    "wof:id":857150427,
+    "wof:lastmodified":1464123156,
+    "wof:name":"Barbaras Beauty Shop",
+    "wof:parent_id":85811897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.486783,
+    33.993577,
+    -88.486783,
+    33.993577
+],
+  "geometry": {"coordinates":[-88.486783,33.993577],"type":"Point"}
+}

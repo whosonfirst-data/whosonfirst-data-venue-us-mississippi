@@ -1,0 +1,71 @@
+{
+  "id": 857466051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543887,33.81675,-88.543887,33.81675",
+    "geom:latitude":33.81675,
+    "geom:longitude":-88.543887,
+    "iso:country":"US",
+    "sg:address":"716 S Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7760",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68bJptaBd4utSbtIHLOhD1_33.816750_-88.543887@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130089,
+    "wof:geomhash":"0d7f893a7cbe80c0cc1821ac2ece3cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857466051
+        }
+    ],
+    "wof:id":857466051,
+    "wof:lastmodified":1464130089,
+    "wof:name":"Circle T Motors Inc",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -88.543887,
+    33.81675,
+    -88.543887,
+    33.81675
+],
+  "geometry": {"coordinates":[-88.543887,33.81675],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857471105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.347688,31.33403,-89.347688,31.33403",
+    "geom:latitude":31.33403,
+    "geom:longitude":-89.347688,
+    "iso:country":"US",
+    "sg:address":"602 N 40th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 7731",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BaDvPR0Kp8OJiGT8crAYZ_31.334030_-89.347688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130194,
+    "wof:geomhash":"190020a3fa19faa14b1181162af22885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857471105
+        }
+    ],
+    "wof:id":857471105,
+    "wof:lastmodified":1464130194,
+    "wof:name":"Westside Mini Space Warehouse",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.347688,
+    31.33403,
+    -89.347688,
+    31.33403
+],
+  "geometry": {"coordinates":[-89.34768800000001,31.33403],"type":"Point"}
+}

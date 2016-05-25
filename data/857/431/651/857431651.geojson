@@ -1,0 +1,71 @@
+{
+  "id": 857431651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.782895,30.41435,-88.782895,30.41435",
+    "geom:latitude":30.41435,
+    "geom:longitude":-88.782895,
+    "iso:country":"US",
+    "sg:address":"11 Marks Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 1641",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aJll8lJO1oj4SC2yl5J38_30.414350_-88.782895@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129379,
+    "wof:geomhash":"097b1e25c2ed872134f923b5846b0fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857431651
+        }
+    ],
+    "wof:id":857431651,
+    "wof:lastmodified":1464129379,
+    "wof:name":"Regional Cancer Ctr",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.782895,
+    30.41435,
+    -88.782895,
+    30.41435
+],
+  "geometry": {"coordinates":[-88.782895,30.41435],"type":"Point"}
+}

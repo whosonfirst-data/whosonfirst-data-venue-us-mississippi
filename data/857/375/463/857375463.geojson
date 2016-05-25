@@ -1,0 +1,75 @@
+{
+  "id": 857375463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.856769,34.962125,-89.856769,34.962125",
+    "geom:latitude":34.962125,
+    "geom:longitude":-89.856769,
+    "iso:country":"US",
+    "sg:address":"7447 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 3871",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vc63Y2gbeXWLha1JkV8JY_34.962125_-89.856769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128017,
+    "wof:geomhash":"bdefa91609467ff9fb3be97ef5590d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857375463
+        }
+    ],
+    "wof:id":857375463,
+    "wof:lastmodified":1464128017,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -89.856769,
+    34.962125,
+    -89.856769,
+    34.962125
+],
+  "geometry": {"coordinates":[-89.856769,34.962125],"type":"Point"}
+}

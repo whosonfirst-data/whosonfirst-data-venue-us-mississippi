@@ -1,0 +1,71 @@
+{
+  "id": 857253563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.420479,33.525733,-88.420479,33.525733",
+    "geom:latitude":33.525733,
+    "geom:longitude":-88.420479,
+    "iso:country":"US",
+    "sg:address":"2313 Bluecutt Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8842",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uxv4JqpRBhuHd1Z4bNoiw_33.525733_-88.420479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125337,
+    "wof:geomhash":"c40c92e7ab4197f7f816dd478a05866c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857253563
+        }
+    ],
+    "wof:id":857253563,
+    "wof:lastmodified":1464125337,
+    "wof:name":"Edward C Bozeman Jr DDS",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.420479,
+    33.525733,
+    -88.420479,
+    33.525733
+],
+  "geometry": {"coordinates":[-88.420479,33.525733],"type":"Point"}
+}

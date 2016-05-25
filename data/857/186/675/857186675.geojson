@@ -1,0 +1,71 @@
+{
+  "id": 857186675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583424,34.187504,-90.583424,34.187504",
+    "geom:latitude":34.187504,
+    "geom:longitude":-90.583424,
+    "iso:country":"US",
+    "sg:address":"850 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8191",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53fiP8NjNhhbwVumOMVw8q_34.187504_-90.583424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123927,
+    "wof:geomhash":"6a7c785254df88990d8e68fa7aa764d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857186675
+        }
+    ],
+    "wof:id":857186675,
+    "wof:lastmodified":1464123927,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.583424,
+    34.187504,
+    -90.583424,
+    34.187504
+],
+  "geometry": {"coordinates":[-90.58342399999999,34.187504],"type":"Point"}
+}

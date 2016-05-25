@@ -1,0 +1,71 @@
+{
+  "id": 857351451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539663,30.376079,-88.539663,30.376079",
+    "geom:latitude":30.376079,
+    "geom:longitude":-88.539663,
+    "iso:country":"US",
+    "sg:address":"4011 14th St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 6623",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ey2DNSVk8h2toKQ7hu2rw_30.376079_-88.539663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127513,
+    "wof:geomhash":"33e0a988068ff128dc1696ebf700a155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857351451
+        }
+    ],
+    "wof:id":857351451,
+    "wof:lastmodified":1464127513,
+    "wof:name":"City of Pascagoula",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility"
+    ]
+},
+  "bbox": [
+    -88.539663,
+    30.376079,
+    -88.539663,
+    30.376079
+],
+  "geometry": {"coordinates":[-88.539663,30.376079],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857179463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700982,32.40722,-88.700982,32.40722",
+    "geom:latitude":32.40722,
+    "geom:longitude":-88.700982,
+    "iso:country":"US",
+    "sg:address":"4636 Poplar Springs Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6006",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1liWiB7yAtpOY5t3RXwsVN_32.407220_-88.700982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123784,
+    "wof:geomhash":"d7ff147f93e5f34e54df1055fde47a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857179463
+        }
+    ],
+    "wof:id":857179463,
+    "wof:lastmodified":1464123784,
+    "wof:name":"Top 10 Video",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.700982,
+    32.40722,
+    -88.700982,
+    32.40722
+],
+  "geometry": {"coordinates":[-88.700982,32.40722],"type":"Point"}
+}

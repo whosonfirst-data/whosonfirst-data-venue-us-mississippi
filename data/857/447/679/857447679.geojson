@@ -1,0 +1,73 @@
+{
+  "id": 857447679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.443932,33.524734,-88.443932,33.524734",
+    "geom:latitude":33.524734,
+    "geom:longitude":-88.443932,
+    "iso:country":"US",
+    "sg:address":"435 Wilkins-Wise Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 5610",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lUiDcndVEAbsqWCzvZqDJ_33.524734_-88.443932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129715,
+    "wof:geomhash":"4b82acce41c40e63ce9ccfd100b8c2a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857447679
+        }
+    ],
+    "wof:id":857447679,
+    "wof:lastmodified":1464129715,
+    "wof:name":"Sprint",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.443932,
+    33.524734,
+    -88.443932,
+    33.524734
+],
+  "geometry": {"coordinates":[-88.443932,33.524734],"type":"Point"}
+}

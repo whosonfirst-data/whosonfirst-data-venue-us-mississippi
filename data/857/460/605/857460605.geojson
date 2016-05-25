@@ -1,0 +1,73 @@
+{
+  "id": 857460605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.753915,30.428054,-88.753915,30.428054",
+    "geom:latitude":30.428054,
+    "geom:longitude":-88.753915,
+    "iso:country":"US",
+    "sg:address":"5901 Southland St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8761",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fg04b3YRgqWt1kfblMiDf_30.428054_-88.753915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129963,
+    "wof:geomhash":"6737751aa78ca818efc2e8dd0897cbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857460605
+        }
+    ],
+    "wof:id":857460605,
+    "wof:lastmodified":1464129963,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -88.753915,
+    30.428054,
+    -88.753915,
+    30.428054
+],
+  "geometry": {"coordinates":[-88.75391500000001,30.428054],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857305615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519795,34.426769,-89.519795,34.426769",
+    "geom:latitude":34.426769,
+    "geom:longitude":-89.519795,
+    "iso:country":"US",
+    "sg:address":"483 Co Rd 101",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 0018",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beverage",
+        "dispensing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xXZORhGD59yOS6Sjs71aJ_34.426769_-89.519795@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126531,
+    "wof:geomhash":"2fba13272f24e2bf0dadc24730e2d4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857305615
+        }
+    ],
+    "wof:id":857305615,
+    "wof:lastmodified":1464126531,
+    "wof:name":"Icee Co",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "dispensing"
+    ]
+},
+  "bbox": [
+    -89.519795,
+    34.426769,
+    -89.519795,
+    34.426769
+],
+  "geometry": {"coordinates":[-89.519795,34.426769],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857408239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.433877,32.841083,-90.433877,32.841083",
+    "geom:latitude":32.841083,
+    "geom:longitude":-90.433877,
+    "iso:country":"US",
+    "sg:address":"1011 S Industrial Pkwy",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6646",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bynm8K5nirZqAb0ytubBY_32.841083_-90.433877@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128799,
+    "wof:geomhash":"2ea1ae3fe82dc752b4999a54bd357b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857408239
+        }
+    ],
+    "wof:id":857408239,
+    "wof:lastmodified":1464128799,
+    "wof:name":"Yazoo Ready Mix Concrete",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -90.433877,
+    32.841083,
+    -90.433877,
+    32.841083
+],
+  "geometry": {"coordinates":[-90.433877,32.841083],"type":"Point"}
+}

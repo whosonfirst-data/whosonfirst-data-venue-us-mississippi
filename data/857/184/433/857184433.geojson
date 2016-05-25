@@ -1,0 +1,74 @@
+{
+  "id": 857184433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.798692,30.392631,-88.798692,30.392631",
+    "geom:latitude":30.392631,
+    "geom:longitude":-88.798692,
+    "iso:country":"US",
+    "sg:address":"703 E Beach Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 4253",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.usm.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AQYqQIIfIvFluhtX6XY5G_30.392631_-88.798692@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123888,
+    "wof:geomhash":"ae75b4fe3c9580fd3a35ec64882213a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857184433
+        }
+    ],
+    "wof:id":857184433,
+    "wof:lastmodified":1464123888,
+    "wof:name":"Gunter Library",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -88.798692,
+    30.392631,
+    -88.798692,
+    30.392631
+],
+  "geometry": {"coordinates":[-88.798692,30.392631],"type":"Point"}
+}

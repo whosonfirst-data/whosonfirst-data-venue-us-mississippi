@@ -1,0 +1,71 @@
+{
+  "id": 857156563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.591418,34.201909,-90.591418,34.201909",
+    "geom:latitude":34.201909,
+    "geom:longitude":-90.591418,
+    "iso:country":"US",
+    "sg:address":"723 Catalpa St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1845",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679KxRyJXM3SvKEHS6CnsB_34.201909_-90.591418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123276,
+    "wof:geomhash":"33b1df1fe72133c71d61ff896251448e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857156563
+        }
+    ],
+    "wof:id":857156563,
+    "wof:lastmodified":1464123276,
+    "wof:name":"Happy Home Day Care",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -90.591418,
+    34.201909,
+    -90.591418,
+    34.201909
+],
+  "geometry": {"coordinates":[-90.591418,34.201909],"type":"Point"}
+}

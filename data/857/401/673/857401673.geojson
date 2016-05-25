@@ -1,0 +1,71 @@
+{
+  "id": 857401673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574965,34.19988,-90.574965,34.19988",
+    "geom:latitude":34.19988,
+    "geom:longitude":-90.574965,
+    "iso:country":"US",
+    "sg:address":"291 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4070",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZnYEIB9XHeCtXZuetVpR_34.199880_-90.574965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128661,
+    "wof:geomhash":"b377e891ec10978988e494e03d0eb2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857401673
+        }
+    ],
+    "wof:id":857401673,
+    "wof:lastmodified":1464128661,
+    "wof:name":"Delta Blues Education Fund",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -90.574965,
+    34.19988,
+    -90.574965,
+    34.19988
+],
+  "geometry": {"coordinates":[-90.57496500000001,34.19988],"type":"Point"}
+}

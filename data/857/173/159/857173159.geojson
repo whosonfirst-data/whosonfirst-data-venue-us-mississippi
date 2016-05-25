@@ -1,0 +1,71 @@
+{
+  "id": 857173159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.612209,30.380285,-88.612209,30.380285",
+    "geom:latitude":30.380285,
+    "geom:longitude":-88.612209,
+    "iso:country":"US",
+    "sg:address":"217 Graveline Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1392",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OGhhOpTEanuP5HVlazznl_30.380285_-88.612209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123659,
+    "wof:geomhash":"abb387101f4dcb0bcae1f2b295da0fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857173159
+        }
+    ],
+    "wof:id":857173159,
+    "wof:lastmodified":1464123659,
+    "wof:name":"Lynn's Seafood",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -88.612209,
+    30.380285,
+    -88.612209,
+    30.380285
+],
+  "geometry": {"coordinates":[-88.61220899999999,30.380285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857357149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.649032,33.605689,-88.649032,33.605689",
+    "geom:latitude":33.605689,
+    "geom:longitude":-88.649032,
+    "iso:country":"US",
+    "sg:address":"220 Court St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2611",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03VxEarOetRymftQfxlTJu_33.605689_-88.649032@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127638,
+    "wof:geomhash":"e8bfff69999b7869e07df4dc842d4388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857357149
+        }
+    ],
+    "wof:id":857357149,
+    "wof:lastmodified":1464127638,
+    "wof:name":"Tubb Stevens & Morrison",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.649032,
+    33.605689,
+    -88.649032,
+    33.605689
+],
+  "geometry": {"coordinates":[-88.64903200000001,33.605689],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857438671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.527588,34.368362,-89.527588,34.368362",
+    "geom:latitude":34.368362,
+    "geom:longitude":-89.527588,
+    "iso:country":"US",
+    "sg:address":"306 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1152",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cq0BvvkjVhI7M1zLbtxie_34.368362_-89.527588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129542,
+    "wof:geomhash":"b5eb903fb39b4cb2eb26a741140efbe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857438671
+        }
+    ],
+    "wof:id":857438671,
+    "wof:lastmodified":1464129542,
+    "wof:name":"Vogue Hair Fashions",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.527588,
+    34.368362,
+    -89.527588,
+    34.368362
+],
+  "geometry": {"coordinates":[-89.52758799999999,34.368362],"type":"Point"}
+}

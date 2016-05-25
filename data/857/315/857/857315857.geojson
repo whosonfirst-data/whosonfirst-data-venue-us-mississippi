@@ -1,0 +1,71 @@
+{
+  "id": 857315857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653703,34.508986,-88.653703,34.508986",
+    "geom:latitude":34.508986,
+    "geom:longitude":-88.653703,
+    "iso:country":"US",
+    "sg:address":"692 Grisham St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 7814",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tmVX0MB7MJt6AdN4Z2scB_34.508986_-88.653703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126738,
+    "wof:geomhash":"7acffd852aebc3b55b2b5224060a7a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857315857
+        }
+    ],
+    "wof:id":857315857,
+    "wof:lastmodified":1464126738,
+    "wof:name":"Donald A Presley DDS",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.653703,
+    34.508986,
+    -88.653703,
+    34.508986
+],
+  "geometry": {"coordinates":[-88.65370299999999,34.508986],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857404121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.507255,34.058205,-90.507255,34.058205",
+    "geom:latitude":34.058205,
+    "geom:longitude":-90.507255,
+    "iso:country":"US",
+    "sg:address":"3930 Sage Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9073",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85826271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34vrVDLAlQex5a1nJZzXPi_34.058205_-90.507255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128710,
+    "wof:geomhash":"24d9fa8f65eaf685ab4b031505d5a377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85826271,
+            "region_id":85688579,
+            "venue_id":857404121
+        }
+    ],
+    "wof:id":857404121,
+    "wof:lastmodified":1464128710,
+    "wof:name":"J Keenum",
+    "wof:parent_id":85826271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -90.507255,
+    34.058205,
+    -90.507255,
+    34.058205
+],
+  "geometry": {"coordinates":[-90.507255,34.058205],"type":"Point"}
+}

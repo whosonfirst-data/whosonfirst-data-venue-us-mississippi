@@ -1,0 +1,73 @@
+{
+  "id": 857231601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.542858,34.365441,-89.542858,34.365441",
+    "geom:latitude":34.365441,
+    "geom:longitude":-89.542858,
+    "iso:country":"US",
+    "sg:address":"315 Fraternity Row",
+    "sg:city":"University",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 5454",
+    "sg:postcode":"38677",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x2GXUqJzQkhFUMQvdXYs0_34.365441_-89.542858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124835,
+    "wof:geomhash":"93f1b4e54db67120d73ff3aad38e511c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857231601
+        }
+    ],
+    "wof:id":857231601,
+    "wof:lastmodified":1464124835,
+    "wof:name":"Phi Kappa Psi",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -89.542858,
+    34.365441,
+    -89.542858,
+    34.365441
+],
+  "geometry": {"coordinates":[-89.542858,34.365441],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857306159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.757133,33.472838,-88.757133,33.472838",
+    "geom:latitude":33.472838,
+    "geom:longitude":-88.757133,
+    "iso:country":"US",
+    "sg:address":"1210 Ruth Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 582 7304",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carrier",
+        "tractor",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oiKtOMVPuZvlqp4IdajEn_33.472838_-88.757133@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126542,
+    "wof:geomhash":"31bcd70d51866df5ab67c33d77f97d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857306159
+        }
+    ],
+    "wof:id":857306159,
+    "wof:lastmodified":1464126542,
+    "wof:name":"BW Transportation",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "tractor",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -88.757133,
+    33.472838,
+    -88.757133,
+    33.472838
+],
+  "geometry": {"coordinates":[-88.757133,33.472838],"type":"Point"}
+}

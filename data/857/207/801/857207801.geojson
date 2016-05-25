@@ -1,0 +1,75 @@
+{
+  "id": 857207801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.304208,31.335614,-89.304208,31.335614",
+    "geom:latitude":31.335614,
+    "geom:longitude":-89.304208,
+    "iso:country":"US",
+    "sg:address":"314 W 7th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 554 3225",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fund",
+        "counselor",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kgdV125sLVwXYRsZbO6C9_31.335614_-89.304208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124346,
+    "wof:geomhash":"ccee6386edb07e6c539d53551369da62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857207801
+        }
+    ],
+    "wof:id":857207801,
+    "wof:lastmodified":1464124346,
+    "wof:name":"Monique's Place",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "counselor",
+        "raising"
+    ]
+},
+  "bbox": [
+    -89.304208,
+    31.335614,
+    -89.304208,
+    31.335614
+],
+  "geometry": {"coordinates":[-89.304208,31.335614],"type":"Point"}
+}

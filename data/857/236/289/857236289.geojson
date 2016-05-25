@@ -1,0 +1,78 @@
+{
+  "id": 857236289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.550542,34.403144,-89.550542,34.403144",
+    "geom:latitude":34.403144,
+    "geom:longitude":-89.550542,
+    "iso:country":"US",
+    "sg:address":"129 Cedar Hill Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 915 5603",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZczNs8akrcrbVhVEfKefB_34.403144_-89.550542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124932,
+    "wof:geomhash":"5493a87162ac11477f1a2d2184cd5a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857236289
+        }
+    ],
+    "wof:id":857236289,
+    "wof:lastmodified":1464124932,
+    "wof:name":"Corporate Consulting Inc",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "program"
+    ]
+},
+  "bbox": [
+    -89.550542,
+    34.403144,
+    -89.550542,
+    34.403144
+],
+  "geometry": {"coordinates":[-89.55054199999999,34.403144],"type":"Point"}
+}

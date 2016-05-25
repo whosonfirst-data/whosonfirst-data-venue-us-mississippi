@@ -1,0 +1,73 @@
+{
+  "id": 857294455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706977,34.31199,-88.706977,34.31199",
+    "geom:latitude":34.31199,
+    "geom:longitude":-88.706977,
+    "iso:country":"US",
+    "sg:address":"3897 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 6004",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Az49ANnkMvOmD6mymUF0_34.311990_-88.706977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126271,
+    "wof:geomhash":"8021e00260ef00c81d27d83260531ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857294455
+        }
+    ],
+    "wof:id":857294455,
+    "wof:lastmodified":1464126271,
+    "wof:name":"Check Cashing Headquarters",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -88.706977,
+    34.31199,
+    -88.706977,
+    34.31199
+],
+  "geometry": {"coordinates":[-88.70697699999999,34.31199],"type":"Point"}
+}

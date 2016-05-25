@@ -1,0 +1,73 @@
+{
+  "id": 857467501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.682029,34.257401,-88.682029,34.257401",
+    "geom:latitude":34.257401,
+    "geom:longitude":-88.682029,
+    "iso:country":"US",
+    "sg:address":"1016 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0488",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x8Cs83Mgixk5DOnwCXCVy_34.257401_-88.682029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130116,
+    "wof:geomhash":"8b10797313a80e07e5bd3b736b556e4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857467501
+        }
+    ],
+    "wof:id":857467501,
+    "wof:lastmodified":1464130116,
+    "wof:name":"J B Tours",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -88.682029,
+    34.257401,
+    -88.682029,
+    34.257401
+],
+  "geometry": {"coordinates":[-88.682029,34.257401],"type":"Point"}
+}

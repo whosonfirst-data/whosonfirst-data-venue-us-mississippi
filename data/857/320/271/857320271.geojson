@@ -1,0 +1,71 @@
+{
+  "id": 857320271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.52697,34.37521,-89.52697,34.37521",
+    "geom:latitude":34.37521,
+    "geom:longitude":-89.52697,
+    "iso:country":"US",
+    "sg:address":"715 Molly Barr Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2400",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DOD352eBUZwnyboIBgvEm_34.375210_-89.526970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126855,
+    "wof:geomhash":"05ed50d0b0abf383265436bb496f2c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857320271
+        }
+    ],
+    "wof:id":857320271,
+    "wof:lastmodified":1464126855,
+    "wof:name":"Oxford Police Department",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.52697,
+    34.37521,
+    -89.52697,
+    34.37521
+],
+  "geometry": {"coordinates":[-89.52697000000001,34.37521],"type":"Point"}
+}

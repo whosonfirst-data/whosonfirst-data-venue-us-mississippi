@@ -1,0 +1,71 @@
+{
+  "id": 857219349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.018343,32.371277,-90.018343,32.371277",
+    "geom:latitude":32.371277,
+    "geom:longitude":-90.018343,
+    "iso:country":"US",
+    "sg:address":"1041 Lake Village Cir",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 2910",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "packaging",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22diy12Tj2jBTEuo8G1Per_32.371277_-90.018343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124602,
+    "wof:geomhash":"af9d7149a7ec3f11e76a064d676a49ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857219349
+        }
+    ],
+    "wof:id":857219349,
+    "wof:lastmodified":1464124602,
+    "wof:name":"Acme Packaging Corp",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "material"
+    ]
+},
+  "bbox": [
+    -90.018343,
+    32.371277,
+    -90.018343,
+    32.371277
+],
+  "geometry": {"coordinates":[-90.018343,32.371277],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857083159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.879147,32.346603,-90.879147,32.346603",
+    "geom:latitude":32.346603,
+    "geom:longitude":-90.879147,
+    "iso:country":"US",
+    "sg:address":"1604 Cherry St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7523",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:website":"www.mutualcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OfooPl8UFMwAybz0CIUl3_32.346603_-90.879147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121489,
+    "wof:geomhash":"51058a0d23603ef5a7380657b63d7746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857083159
+        }
+    ],
+    "wof:id":857083159,
+    "wof:lastmodified":1464121489,
+    "wof:name":"Mutual Credit Union",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.879147,
+    32.346603,
+    -90.879147,
+    32.346603
+],
+  "geometry": {"coordinates":[-90.879147,32.346603],"type":"Point"}
+}

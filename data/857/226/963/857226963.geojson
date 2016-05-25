@@ -1,0 +1,71 @@
+{
+  "id": 857226963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.77269,30.410806,-88.77269,30.410806",
+    "geom:latitude":30.410806,
+    "geom:longitude":-88.77269,
+    "iso:country":"US",
+    "sg:address":"3610 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 5110",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RMLgrkvjDFcaGlptjMgCJ_30.410806_-88.772690@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124749,
+    "wof:geomhash":"fbb004447250c156d187fdc4d48ee823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857226963
+        }
+    ],
+    "wof:id":857226963,
+    "wof:lastmodified":1464124749,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -88.77269,
+    30.410806,
+    -88.77269,
+    30.410806
+],
+  "geometry": {"coordinates":[-88.77269,30.410806],"type":"Point"}
+}

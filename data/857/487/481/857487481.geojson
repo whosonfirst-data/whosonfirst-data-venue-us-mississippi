@@ -1,0 +1,80 @@
+{
+  "id": 857487481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571263,34.203188,-90.571263,34.203188",
+    "geom:latitude":34.203188,
+    "geom:longitude":-90.571263,
+    "iso:country":"US",
+    "sg:address":"215 Sharkey Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6050",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RHgGaE5crAbeeHUlBgcNw_34.203188_-90.571263@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130517,
+    "wof:geomhash":"354c8cdba577492ba2d4c77321a3ad35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487481
+        }
+    ],
+    "wof:id":857487481,
+    "wof:lastmodified":1464130517,
+    "wof:name":"Department Of Corrections Mississippi",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [
+    -90.571263,
+    34.203188,
+    -90.571263,
+    34.203188
+],
+  "geometry": {"coordinates":[-90.571263,34.203188],"type":"Point"}
+}

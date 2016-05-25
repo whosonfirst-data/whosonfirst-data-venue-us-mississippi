@@ -1,0 +1,73 @@
+{
+  "id": 857268553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274328,31.324996,-89.274328,31.324996",
+    "geom:latitude":31.324996,
+    "geom:longitude":-89.274328,
+    "iso:country":"US",
+    "sg:address":"1701 E Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 3461",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CVbKuIFjaQKcFB3c0k4qu_31.324996_-89.274328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125658,
+    "wof:geomhash":"bfbe37338d31716e84470d2d93ee9ea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857268553
+        }
+    ],
+    "wof:id":857268553,
+    "wof:lastmodified":1464125658,
+    "wof:name":"Ray Riley Motors Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -89.274328,
+    31.324996,
+    -89.274328,
+    31.324996
+],
+  "geometry": {"coordinates":[-89.274328,31.324996],"type":"Point"}
+}

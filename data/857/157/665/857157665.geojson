@@ -1,0 +1,75 @@
+{
+  "id": 857157665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.101696,30.382645,-89.101696,30.382645",
+    "geom:latitude":30.382645,
+    "geom:longitude":-89.101696,
+    "iso:country":"US",
+    "sg:address":"2720 33rd Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 5183",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I6UZlDzPKbKKMa2P5UvqQ_30.382645_-89.101696@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123296,
+    "wof:geomhash":"84b18b3ba21a0c5a3ddf53877b523b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857157665
+        }
+    ],
+    "wof:id":857157665,
+    "wof:lastmodified":1464123296,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -89.101696,
+    30.382645,
+    -89.101696,
+    30.382645
+],
+  "geometry": {"coordinates":[-89.101696,30.382645],"type":"Point"}
+}

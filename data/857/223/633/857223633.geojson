@@ -1,0 +1,71 @@
+{
+  "id": 857223633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509538,34.362384,-89.509538,34.362384",
+    "geom:latitude":34.362384,
+    "geom:longitude":-89.509538,
+    "iso:country":"US",
+    "sg:address":"1902 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0404",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qtN0nGt1WIuHRrPh0ldiy_34.362384_-89.509538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124686,
+    "wof:geomhash":"f686ab860c6e803207267740b95fcbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857223633
+        }
+    ],
+    "wof:id":857223633,
+    "wof:lastmodified":1464124686,
+    "wof:name":"Perfect Image",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.509538,
+    34.362384,
+    -89.509538,
+    34.362384
+],
+  "geometry": {"coordinates":[-89.50953800000001,34.362384],"type":"Point"}
+}

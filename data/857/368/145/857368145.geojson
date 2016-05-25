@@ -1,0 +1,71 @@
+{
+  "id": 857368145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.364056,31.376285,-89.364056,31.376285",
+    "geom:latitude":31.376285,
+    "geom:longitude":-89.364056,
+    "iso:country":"US",
+    "sg:address":"6992 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 9111",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mrBVvvLatWzv1HKPdWY8S_31.376285_-89.364056@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127866,
+    "wof:geomhash":"d3178fa9b98f7c6efe668cd34cd6ccf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857368145
+        }
+    ],
+    "wof:id":857368145,
+    "wof:lastmodified":1464127866,
+    "wof:name":"Southern Beverage Co",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -89.364056,
+    31.376285,
+    -89.364056,
+    31.376285
+],
+  "geometry": {"coordinates":[-89.36405600000001,31.376285],"type":"Point"}
+}

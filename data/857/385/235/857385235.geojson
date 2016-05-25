@@ -1,0 +1,71 @@
+{
+  "id": 857385235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.526982,30.342227,-88.526982,30.342227",
+    "geom:latitude":30.342227,
+    "geom:longitude":-88.526982,
+    "iso:country":"US",
+    "sg:address":"3900 Beach Blvd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 1876",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BjrPK4B7fdAOZVk217Vg7_30.342227_-88.526982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128281,
+    "wof:geomhash":"d6dffaa04e0e80e84970a25e756e0f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857385235
+        }
+    ],
+    "wof:id":857385235,
+    "wof:lastmodified":1464128281,
+    "wof:name":"Singing River Yacht Club",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -88.526982,
+    30.342227,
+    -88.526982,
+    30.342227
+],
+  "geometry": {"coordinates":[-88.526982,30.342227],"type":"Point"}
+}

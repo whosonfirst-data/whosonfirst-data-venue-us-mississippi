@@ -1,0 +1,75 @@
+{
+  "id": 857285939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.118631,34.559086,-89.118631,34.559086",
+    "geom:latitude":34.559086,
+    "geom:longitude":-89.118631,
+    "iso:country":"US",
+    "sg:address":"1185 Springdale Ave",
+    "sg:city":"Myrtle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 988 2885",
+    "sg:postcode":"38650",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72NdmsRRk0Y1EHDLgbnKxU_34.559086_-89.118631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126043,
+    "wof:geomhash":"8790c6118ac4740802e9e0c7e3e2ff8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857285939
+        }
+    ],
+    "wof:id":857285939,
+    "wof:lastmodified":1464126043,
+    "wof:name":"Gilley's Garage & Wrecker Svc",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.118631,
+    34.559086,
+    -89.118631,
+    34.559086
+],
+  "geometry": {"coordinates":[-89.11863099999999,34.559086],"type":"Point"}
+}

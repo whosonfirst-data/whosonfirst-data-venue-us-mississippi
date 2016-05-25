@@ -1,0 +1,76 @@
+{
+  "id": 857485381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435059,33.517944,-88.435059,33.517944",
+    "geom:latitude":33.517944,
+    "geom:longitude":-88.435059,
+    "iso:country":"US",
+    "sg:address":"1903 Highway 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/columbus/182240-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2584",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ooUKFHrGb7Hq4KL1Id51C_33.517944_-88.435059@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130474,
+    "wof:geomhash":"567842f3aea9cd79815279c9b6e1516a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857485381
+        }
+    ],
+    "wof:id":857485381,
+    "wof:lastmodified":1464130474,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.435059,
+    33.517944,
+    -88.435059,
+    33.517944
+],
+  "geometry": {"coordinates":[-88.435059,33.517944],"type":"Point"}
+}

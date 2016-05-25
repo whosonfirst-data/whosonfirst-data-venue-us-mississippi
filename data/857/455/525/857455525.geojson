@@ -1,0 +1,75 @@
+{
+  "id": 857455525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.106247,30.496528,-89.106247,30.496528",
+    "geom:latitude":30.496528,
+    "geom:longitude":-89.106247,
+    "iso:country":"US",
+    "sg:address":"14485 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 8162",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970257,
+        102087223,
+        85831733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XtgFovGcMlzYhKbG7VCFL_30.496528_-89.106247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129864,
+    "wof:geomhash":"d084d718363bdb3eeb720c48beb2bf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85970257,
+            "neighbourhood_id":85831733,
+            "region_id":85688579,
+            "venue_id":857455525
+        }
+    ],
+    "wof:id":857455525,
+    "wof:lastmodified":1464129864,
+    "wof:name":"Lyman Discount Drugs Inc",
+    "wof:parent_id":85831733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.106247,
+    30.496528,
+    -89.106247,
+    30.496528
+],
+  "geometry": {"coordinates":[-89.106247,30.496528],"type":"Point"}
+}

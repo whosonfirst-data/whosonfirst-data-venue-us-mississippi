@@ -1,0 +1,73 @@
+{
+  "id": 857083235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.436845,33.52944,-88.436845,33.52944",
+    "geom:latitude":33.52944,
+    "geom:longitude":-88.436845,
+    "iso:country":"US",
+    "sg:address":"1729 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 240 9922",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vvurE64fPHq6xXBifHfpg_33.529440_-88.436845@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121492,
+    "wof:geomhash":"e72b82e59c3d88c8fe5595a2eb610a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857083235
+        }
+    ],
+    "wof:id":857083235,
+    "wof:lastmodified":1464121492,
+    "wof:name":"Xpress Lube",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -88.436845,
+    33.52944,
+    -88.436845,
+    33.52944
+],
+  "geometry": {"coordinates":[-88.43684500000001,33.52944],"type":"Point"}
+}

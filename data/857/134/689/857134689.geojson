@@ -1,0 +1,71 @@
+{
+  "id": 857134689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425076,33.49115,-88.425076,33.49115",
+    "geom:latitude":33.49115,
+    "geom:longitude":-88.425076,
+    "iso:country":"US",
+    "sg:address":"510 S 7th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2017",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WOVmE5gv6puV0YaTXQMaz_33.491150_-88.425076@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122777,
+    "wof:geomhash":"9dc3107e9530f27d98695a5b61ca756e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857134689
+        }
+    ],
+    "wof:id":857134689,
+    "wof:lastmodified":1464122777,
+    "wof:name":"Hearts After Sch Tutoring Prog",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.425076,
+    33.49115,
+    -88.425076,
+    33.49115
+],
+  "geometry": {"coordinates":[-88.425076,33.49115],"type":"Point"}
+}

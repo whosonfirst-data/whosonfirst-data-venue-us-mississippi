@@ -1,0 +1,71 @@
+{
+  "id": 857142475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548469,30.368125,-88.548469,30.368125",
+    "geom:latitude":30.368125,
+    "geom:longitude":-88.548469,
+    "iso:country":"US",
+    "sg:address":"3412 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6333",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CFz9NOsbrbnHYXQzOHd2j_30.368125_-88.548469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122951,
+    "wof:geomhash":"007204a7a83e3cf9daa5a77360557695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857142475
+        }
+    ],
+    "wof:id":857142475,
+    "wof:lastmodified":1464122951,
+    "wof:name":"Money Store",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.548469,
+    30.368125,
+    -88.548469,
+    30.368125
+],
+  "geometry": {"coordinates":[-88.548469,30.368125],"type":"Point"}
+}

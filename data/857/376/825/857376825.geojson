@@ -1,0 +1,71 @@
+{
+  "id": 857376825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.784851,30.406767,-88.784851,30.406767",
+    "geom:latitude":30.406767,
+    "geom:longitude":-88.784851,
+    "iso:country":"US",
+    "sg:address":"214 Morris Noble Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4953",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FIxAzyVM2i4VXfdk9X5GF_30.406767_-88.784851@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128053,
+    "wof:geomhash":"950e32b4170744b8ef8baa672488a432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857376825
+        }
+    ],
+    "wof:id":857376825,
+    "wof:lastmodified":1464128053,
+    "wof:name":"Clay Boyd Park",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -88.784851,
+    30.406767,
+    -88.784851,
+    30.406767
+],
+  "geometry": {"coordinates":[-88.784851,30.406767],"type":"Point"}
+}

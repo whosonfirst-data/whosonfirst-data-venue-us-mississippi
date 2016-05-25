@@ -1,0 +1,71 @@
+{
+  "id": 857143867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.448625,32.864083,-90.448625,32.864083",
+    "geom:latitude":32.864083,
+    "geom:longitude":-90.448625,
+    "iso:country":"US",
+    "sg:address":"3622 Hwy 49 W",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3964",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02D780K3kkWtE71uyRVB47_32.864083_-90.448625@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122995,
+    "wof:geomhash":"5a625690fa403215bbe1647dda170e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857143867
+        }
+    ],
+    "wof:id":857143867,
+    "wof:lastmodified":1464122995,
+    "wof:name":"TNI Barge Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -90.448625,
+    32.864083,
+    -90.448625,
+    32.864083
+],
+  "geometry": {"coordinates":[-90.44862500000001,32.864083],"type":"Point"}
+}

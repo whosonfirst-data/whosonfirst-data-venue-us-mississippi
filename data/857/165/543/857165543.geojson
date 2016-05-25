@@ -1,0 +1,73 @@
+{
+  "id": 857165543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.291475,33.524496,-88.291475,33.524496",
+    "geom:latitude":33.524496,
+    "geom:longitude":-88.291475,
+    "iso:country":"US",
+    "sg:address":"166 Liberty Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 7508",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tr1xt6ah3YpqWdeUxAoI5_33.524496_-88.291475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123476,
+    "wof:geomhash":"cc13aaec6998524e9ddcaf99454e8219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857165543
+        }
+    ],
+    "wof:id":857165543,
+    "wof:lastmodified":1464123476,
+    "wof:name":"Boeing",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.291475,
+    33.524496,
+    -88.291475,
+    33.524496
+],
+  "geometry": {"coordinates":[-88.29147500000001,33.524496],"type":"Point"}
+}

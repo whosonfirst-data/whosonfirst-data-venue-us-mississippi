@@ -1,0 +1,68 @@
+{
+  "id": 857302031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.999631,34.481781,-88.999631,34.481781",
+    "geom:latitude":34.481781,
+    "geom:longitude":-88.999631,
+    "iso:country":"US",
+    "sg:address":"801 E Bankhead St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 5932",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCF5USupHgk2fLzsBWAU4_34.481781_-88.999631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126456,
+    "wof:geomhash":"7de9f109c4a332d665dfd4386bc6d2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857302031
+        }
+    ],
+    "wof:id":857302031,
+    "wof:lastmodified":1464126456,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.999631,
+    34.481781,
+    -88.999631,
+    34.481781
+],
+  "geometry": {"coordinates":[-88.99963099999999,34.481781],"type":"Point"}
+}

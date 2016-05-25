@@ -1,0 +1,71 @@
+{
+  "id": 857434433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.862923,32.31518,-90.862923,32.31518",
+    "geom:latitude":32.31518,
+    "geom:longitude":-90.862923,
+    "iso:country":"US",
+    "sg:address":"3440 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 1814",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCqqbM0mt1s7QLTeYRKQX_32.315180_-90.862923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129454,
+    "wof:geomhash":"5cbe15aae9d49ef199d6a57aa91c2a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857434433
+        }
+    ],
+    "wof:id":857434433,
+    "wof:lastmodified":1464129454,
+    "wof:name":"Group Home",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.862923,
+    32.31518,
+    -90.862923,
+    32.31518
+],
+  "geometry": {"coordinates":[-90.86292299999999,32.31518],"type":"Point"}
+}

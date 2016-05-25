@@ -1,0 +1,71 @@
+{
+  "id": 857466893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646618,30.386484,-88.646618,30.386484",
+    "geom:latitude":30.386484,
+    "geom:longitude":-88.646618,
+    "iso:country":"US",
+    "sg:address":"3204 Ladnier Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1905",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V0JFAG3zPGRxlKlfCTQZF_30.386484_-88.646618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130105,
+    "wof:geomhash":"300800b729aa67a5ed041a30e9a11d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857466893
+        }
+    ],
+    "wof:id":857466893,
+    "wof:lastmodified":1464130105,
+    "wof:name":"Starlite Barber Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.646618,
+    30.386484,
+    -88.646618,
+    30.386484
+],
+  "geometry": {"coordinates":[-88.646618,30.386484],"type":"Point"}
+}

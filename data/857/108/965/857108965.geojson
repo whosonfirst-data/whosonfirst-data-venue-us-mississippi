@@ -1,0 +1,71 @@
+{
+  "id": 857108965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746633,34.408309,-88.746633,34.408309",
+    "geom:latitude":34.408309,
+    "geom:longitude":-88.746633,
+    "iso:country":"US",
+    "sg:address":"186 Co Rd 445",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 0581",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "casualty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sALJvDCOHd8SroqTU8YUB_34.408309_-88.746633@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122117,
+    "wof:geomhash":"508e2d628271d1f08287e0992ca67fb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857108965
+        }
+    ],
+    "wof:id":857108965,
+    "wof:lastmodified":1464122117,
+    "wof:name":"Zurich Small Business Co",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casualty"
+    ]
+},
+  "bbox": [
+    -88.746633,
+    34.408309,
+    -88.746633,
+    34.408309
+],
+  "geometry": {"coordinates":[-88.746633,34.408309],"type":"Point"}
+}

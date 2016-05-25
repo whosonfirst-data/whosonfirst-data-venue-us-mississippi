@@ -1,0 +1,73 @@
+{
+  "id": 857466565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.368049,32.613134,-90.368049,32.613134",
+    "geom:latitude":32.613134,
+    "geom:longitude":-90.368049,
+    "iso:country":"US",
+    "sg:address":"102 US Hwy 49",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 0008",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ndT9GepHqNRzaH3uOCXi7_32.613134_-90.368049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130099,
+    "wof:geomhash":"43060fd669dbf60cfc56c104dd04ad06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857466565
+        }
+    ],
+    "wof:id":857466565,
+    "wof:lastmodified":1464130099,
+    "wof:name":"Randall Roofing",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.368049,
+    32.613134,
+    -90.368049,
+    32.613134
+],
+  "geometry": {"coordinates":[-90.368049,32.613134],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857439489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.608575,32.351975,-88.608575,32.351975",
+    "geom:latitude":32.351975,
+    "geom:longitude":-88.608575,
+    "iso:country":"US",
+    "sg:address":"1533 Hwy 19 S",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8799",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "dismantling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w6qKZmokZOSC1t0wUnMdZ_32.351975_-88.608575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129561,
+    "wof:geomhash":"8cd50e69caebc55408dc4a92108f6c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857439489
+        }
+    ],
+    "wof:id":857439489,
+    "wof:lastmodified":1464129561,
+    "wof:name":"Zeke's Automotive",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "dismantling"
+    ]
+},
+  "bbox": [
+    -88.608575,
+    32.351975,
+    -88.608575,
+    32.351975
+],
+  "geometry": {"coordinates":[-88.608575,32.351975],"type":"Point"}
+}

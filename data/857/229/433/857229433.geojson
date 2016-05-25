@@ -1,0 +1,68 @@
+{
+  "id": 857229433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.812003,33.463765,-88.812003,33.463765",
+    "geom:latitude":33.463765,
+    "geom:longitude":-88.812003,
+    "iso:country":"US",
+    "sg:address":"318 University Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 1262",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970193,
+        102083159,
+        85811827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d22CqMeJw0oqeuTVZmuVI_33.463765_-88.812003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124797,
+    "wof:geomhash":"44a085d5e6d7067959fd0efbc33ce87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85811827,
+            "region_id":85688579,
+            "venue_id":857229433
+        }
+    ],
+    "wof:id":857229433,
+    "wof:lastmodified":1464124797,
+    "wof:name":"Blake Balzli Dr",
+    "wof:parent_id":85811827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.812003,
+    33.463765,
+    -88.812003,
+    33.463765
+],
+  "geometry": {"coordinates":[-88.812003,33.463765],"type":"Point"}
+}

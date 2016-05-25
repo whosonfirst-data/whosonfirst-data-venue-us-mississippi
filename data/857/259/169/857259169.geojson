@@ -1,0 +1,73 @@
+{
+  "id": 857259169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.660469,30.532587,-88.660469,30.532587",
+    "geom:latitude":30.532587,
+    "geom:longitude":-88.660469,
+    "iso:country":"US",
+    "sg:address":"3112 Poticaw Bayou Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 9941",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jjQhwMKqtUThVFZn2ZLXt_30.532587_-88.660469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125475,
+    "wof:geomhash":"3168a13cb3139d754699b805d5d6e1c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857259169
+        }
+    ],
+    "wof:id":857259169,
+    "wof:lastmodified":1464125475,
+    "wof:name":"Moe Keely Transportation Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.660469,
+    30.532587,
+    -88.660469,
+    30.532587
+],
+  "geometry": {"coordinates":[-88.66046900000001,30.532587],"type":"Point"}
+}

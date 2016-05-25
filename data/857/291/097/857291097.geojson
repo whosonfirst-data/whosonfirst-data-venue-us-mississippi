@@ -1,0 +1,71 @@
+{
+  "id": 857291097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.550128,34.203036,-90.550128,34.203036",
+    "geom:latitude":34.203036,
+    "geom:longitude":-90.550128,
+    "iso:country":"US",
+    "sg:address":"800 Ohio Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2504",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YpklpMsJdrvVqNo5KCpFG_34.203036_-90.550128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126171,
+    "wof:geomhash":"3eaa673f688f4a45a6b6653f78b42897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857291097
+        }
+    ],
+    "wof:id":857291097,
+    "wof:lastmodified":1464126171,
+    "wof:name":"Aaron E Henry Community Health",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.550128,
+    34.203036,
+    -90.550128,
+    34.203036
+],
+  "geometry": {"coordinates":[-90.550128,34.203036],"type":"Point"}
+}

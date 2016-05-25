@@ -1,0 +1,66 @@
+{
+  "id": 857124859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.413569,32.849475,-90.413569,32.849475",
+    "geom:latitude":32.849475,
+    "geom:longitude":-90.413569,
+    "iso:country":"US",
+    "sg:address":"208 N Mound St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2622",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bsckaHYSNFnm6Hbt9mwOA_32.849475_-90.413569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122567,
+    "wof:geomhash":"5a147697ce668ba53b63fc253e0d17dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857124859
+        }
+    ],
+    "wof:id":857124859,
+    "wof:lastmodified":1464122567,
+    "wof:name":"Pro-Tech Elec & Appls Servic",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.413569,
+    32.849475,
+    -90.413569,
+    32.849475
+],
+  "geometry": {"coordinates":[-90.413569,32.849475],"type":"Point"}
+}

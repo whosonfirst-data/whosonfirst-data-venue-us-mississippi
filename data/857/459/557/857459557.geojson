@@ -1,0 +1,71 @@
+{
+  "id": 857459557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.84518,33.444504,-88.84518,33.444504",
+    "geom:latitude":33.444504,
+    "geom:longitude":-88.84518,
+    "iso:country":"US",
+    "sg:address":"118 Airport Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 2812",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4laM8PVnlXa16WCg6Ff6YI_33.444504_-88.845180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129942,
+    "wof:geomhash":"804b536c2b71f52e26f0145d6dfb33d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857459557
+        }
+    ],
+    "wof:id":857459557,
+    "wof:lastmodified":1464129942,
+    "wof:name":"Starkville Fire Dept",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.84518,
+    33.444504,
+    -88.84518,
+    33.444504
+],
+  "geometry": {"coordinates":[-88.84518,33.444504],"type":"Point"}
+}

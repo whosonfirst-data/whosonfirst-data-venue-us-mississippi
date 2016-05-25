@@ -1,0 +1,77 @@
+{
+  "id": 857474223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.55008,34.366807,-89.55008,34.366807",
+    "geom:latitude":34.366807,
+    "geom:longitude":-89.55008,
+    "iso:country":"US",
+    "sg:address":"1501 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3707",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R9MH9KHR8g2a84EQbKpAv_34.366807_-89.550080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130261,
+    "wof:geomhash":"281dec06aaedfd110fb285afa69d2b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857474223
+        }
+    ],
+    "wof:id":857474223,
+    "wof:lastmodified":1464130261,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -89.55008,
+    34.366807,
+    -89.55008,
+    34.366807
+],
+  "geometry": {"coordinates":[-89.55007999999999,34.366807],"type":"Point"}
+}

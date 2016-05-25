@@ -1,0 +1,71 @@
+{
+  "id": 857302703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.432123,33.51557,-88.432123,33.51557",
+    "geom:latitude":33.51557,
+    "geom:longitude":-88.432123,
+    "iso:country":"US",
+    "sg:address":"511 N 18th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 1044",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XL8AJ3w6GguoI6OhP9eXF_33.515570_-88.432123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126470,
+    "wof:geomhash":"a87f975f4b5e714c3d7dff2a21971405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857302703
+        }
+    ],
+    "wof:id":857302703,
+    "wof:lastmodified":1464126470,
+    "wof:name":"Fred's Store",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.432123,
+    33.51557,
+    -88.432123,
+    33.51557
+],
+  "geometry": {"coordinates":[-88.432123,33.51557],"type":"Point"}
+}

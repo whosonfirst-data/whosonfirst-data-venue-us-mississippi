@@ -1,0 +1,71 @@
+{
+  "id": 857423047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574564,34.202622,-90.574564,34.202622",
+    "geom:latitude":34.202622,
+    "geom:longitude":-90.574564,
+    "iso:country":"US",
+    "sg:address":"120 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3658",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uezc6KEn0lQpWVRbsOKit_34.202622_-90.574564@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129168,
+    "wof:geomhash":"aac4e7e19516bc70f7e85d267d956e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857423047
+        }
+    ],
+    "wof:id":857423047,
+    "wof:lastmodified":1464129168,
+    "wof:name":"Marty's Barber Shop",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.574564,
+    34.202622,
+    -90.574564,
+    34.202622
+],
+  "geometry": {"coordinates":[-90.574564,34.202622],"type":"Point"}
+}

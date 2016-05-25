@@ -1,0 +1,68 @@
+{
+  "id": 857172117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830344,35.020308,-89.830344,35.020308",
+    "geom:latitude":35.020308,
+    "geom:longitude":-89.830344,
+    "iso:country":"US",
+    "sg:address":"6975 E Shelby Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 755 3517",
+    "sg:postcode":"38125",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LRk0IGCQJhcoRoQb1p71T_35.020308_-89.830344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123628,
+    "wof:geomhash":"ff4e1b883d20290030822132e61eafeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":857172117
+        }
+    ],
+    "wof:id":857172117,
+    "wof:lastmodified":1464123628,
+    "wof:name":"Circle K",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.830344,
+    35.020308,
+    -89.830344,
+    35.020308
+],
+  "geometry": {"coordinates":[-89.830344,35.020308],"type":"Point"}
+}

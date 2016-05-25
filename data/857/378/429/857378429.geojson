@@ -1,0 +1,71 @@
+{
+  "id": 857378429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.162834,31.395179,-89.162834,31.395179",
+    "geom:latitude":31.395179,
+    "geom:longitude":-89.162834,
+    "iso:country":"US",
+    "sg:address":"138 Herchenhahn Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7859",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "forester"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y8KY5h3bw88C8iF02RC45_31.395179_-89.162834@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128084,
+    "wof:geomhash":"a3f66272b93b58582ebd45b4b66bc6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857378429
+        }
+    ],
+    "wof:id":857378429,
+    "wof:lastmodified":1464128084,
+    "wof:name":"Pine Belt Foresters",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forester"
+    ]
+},
+  "bbox": [
+    -89.162834,
+    31.395179,
+    -89.162834,
+    31.395179
+],
+  "geometry": {"coordinates":[-89.162834,31.395179],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857486785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.601706,34.205359,-90.601706,34.205359",
+    "geom:latitude":34.205359,
+    "geom:longitude":-90.601706,
+    "iso:country":"US",
+    "sg:address":"1425 Rose Cir",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2889",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sv85sYm9GuJURqlnEA5F7_34.205359_-90.601706@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130499,
+    "wof:geomhash":"eef778103f82d37ff37c5c38d11866fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486785
+        }
+    ],
+    "wof:id":857486785,
+    "wof:lastmodified":1464130499,
+    "wof:name":"Fuller Travel Agency Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -90.601706,
+    34.205359,
+    -90.601706,
+    34.205359
+],
+  "geometry": {"coordinates":[-90.60170599999999,34.205359],"type":"Point"}
+}

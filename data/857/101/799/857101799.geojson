@@ -1,0 +1,75 @@
+{
+  "id": 857101799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385507,32.839492,-90.385507,32.839492",
+    "geom:latitude":32.839492,
+    "geom:longitude":-90.385507,
+    "iso:country":"US",
+    "sg:address":"50 Bus Station Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8965",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zHRb9UFnfMXFbRJCXHokB_32.839492_-90.385507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121957,
+    "wof:geomhash":"c78a7c6cd487133c52671410b2c08dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857101799
+        }
+    ],
+    "wof:id":857101799,
+    "wof:lastmodified":1464121957,
+    "wof:name":"Yazoo Exhaust System",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.385507,
+    32.839492,
+    -90.385507,
+    32.839492
+],
+  "geometry": {"coordinates":[-90.385507,32.839492],"type":"Point"}
+}

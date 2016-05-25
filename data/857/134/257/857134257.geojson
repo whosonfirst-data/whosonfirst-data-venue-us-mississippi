@@ -1,0 +1,71 @@
+{
+  "id": 857134257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794868,34.933711,-89.794868,34.933711",
+    "geom:latitude":34.933711,
+    "geom:longitude":-89.794868,
+    "iso:country":"US",
+    "sg:address":"5390 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 2120",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IPzexWmR7Mid60aTNPNmg_34.933711_-89.794868@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122769,
+    "wof:geomhash":"86f00a802aa2d1c1140a0b40175cb34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857134257
+        }
+    ],
+    "wof:id":857134257,
+    "wof:lastmodified":1464122769,
+    "wof:name":"Multi Tune & Tire Mississippi",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.794868,
+    34.933711,
+    -89.794868,
+    34.933711
+],
+  "geometry": {"coordinates":[-89.79486799999999,34.933711],"type":"Point"}
+}

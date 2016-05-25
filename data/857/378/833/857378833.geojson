@@ -1,0 +1,84 @@
+{
+  "id": 857378833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646425,30.388237,-88.646425,30.388237",
+    "geom:latitude":30.388237,
+    "geom:longitude":-88.646425,
+    "iso:country":"US",
+    "sg:address":"3101 Ladnier Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1243",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EBVLO2T2ZemrUm4gzGY5U_30.388237_-88.646425@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128091,
+    "wof:geomhash":"6f3964b82d2092e629831fcd3dde9ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857378833
+        }
+    ],
+    "wof:id":857378833,
+    "wof:lastmodified":1464128091,
+    "wof:name":"Home Port Video",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -88.646425,
+    30.388237,
+    -88.646425,
+    30.388237
+],
+  "geometry": {"coordinates":[-88.64642499999999,30.388237],"type":"Point"}
+}

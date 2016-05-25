@@ -1,0 +1,66 @@
+{
+  "id": 857245315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.294758,31.315324,-89.294758,31.315324",
+    "geom:latitude":31.315324,
+    "geom:longitude":-89.294758,
+    "iso:country":"US",
+    "sg:address":"800 John St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1967",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kfqLXCsCm8mKTiisMskYj_31.315324_-89.294758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125145,
+    "wof:geomhash":"6c46a2896285da5bd206ecb89093ed24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857245315
+        }
+    ],
+    "wof:id":857245315,
+    "wof:lastmodified":1464125145,
+    "wof:name":"Katie Avenue Plaza",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.294758,
+    31.315324,
+    -89.294758,
+    31.315324
+],
+  "geometry": {"coordinates":[-89.294758,31.315324],"type":"Point"}
+}

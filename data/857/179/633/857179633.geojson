@@ -1,0 +1,77 @@
+{
+  "id": 857179633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.172185,32.36132,-90.172185,32.36132",
+    "geom:latitude":32.36132,
+    "geom:longitude":-90.172185,
+    "iso:country":"US",
+    "sg:address":"4865 N State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 6609",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ARrBEcsJ5bFg5wXX5nBGL_32.361320_-90.172185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123787,
+    "wof:geomhash":"39f37234cae71514c0270334ce6f744f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857179633
+        }
+    ],
+    "wof:id":857179633,
+    "wof:lastmodified":1464123787,
+    "wof:name":"All Breed Pet Grooming",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.172185,
+    32.36132,
+    -90.172185,
+    32.36132
+],
+  "geometry": {"coordinates":[-90.172185,32.36132],"type":"Point"}
+}

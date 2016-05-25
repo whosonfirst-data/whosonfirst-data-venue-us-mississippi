@@ -1,0 +1,71 @@
+{
+  "id": 857145193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71988,34.193879,-88.71988,34.193879",
+    "geom:latitude":34.193879,
+    "geom:longitude":-88.71988,
+    "iso:country":"US",
+    "sg:address":"5022 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 2768",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DRxnLIW6JekWqKqHppVRR_34.193879_-88.719880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123045,
+    "wof:geomhash":"764cb54c7a02ad7549866342d0964eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857145193
+        }
+    ],
+    "wof:id":857145193,
+    "wof:lastmodified":1464123045,
+    "wof:name":"Verona Trading Post & Pawn Shp",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -88.71988,
+    34.193879,
+    -88.71988,
+    34.193879
+],
+  "geometry": {"coordinates":[-88.71988,34.193879],"type":"Point"}
+}

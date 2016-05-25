@@ -1,0 +1,71 @@
+{
+  "id": 857166371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.958354,33.322009,-88.958354,33.322009",
+    "geom:latitude":33.322009,
+    "geom:longitude":-88.958354,
+    "iso:country":"US",
+    "sg:address":"2496 Craig Springs Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 465 8806",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AJyNZBxtVrw1s4NkhtD4G_33.322009_-88.958354@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123492,
+    "wof:geomhash":"6a18b1bf0545fd0de2e6d3a516e3dc48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857166371
+        }
+    ],
+    "wof:id":857166371,
+    "wof:lastmodified":1464123492,
+    "wof:name":"Friendship Baptist Parsonage",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.958354,
+    33.322009,
+    -88.958354,
+    33.322009
+],
+  "geometry": {"coordinates":[-88.958354,33.322009],"type":"Point"}
+}

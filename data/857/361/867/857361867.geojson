@@ -1,0 +1,73 @@
+{
+  "id": 857361867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.433567,31.19084,-89.433567,31.19084",
+    "geom:latitude":31.19084,
+    "geom:longitude":-89.433567,
+    "iso:country":"US",
+    "sg:address":"9 Chandler Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 978 3666",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26u6Dn4YX51Y9VXJv2ondG_31.190840_-89.433567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127739,
+    "wof:geomhash":"0a6fb876d3877468264afd21441a4328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857361867
+        }
+    ],
+    "wof:id":857361867,
+    "wof:lastmodified":1464127739,
+    "wof:name":"Reno Keller Reporting",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -89.433567,
+    31.19084,
+    -89.433567,
+    31.19084
+],
+  "geometry": {"coordinates":[-89.433567,31.19084],"type":"Point"}
+}

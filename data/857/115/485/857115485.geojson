@@ -1,0 +1,73 @@
+{
+  "id": 857115485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67364,32.413778,-88.67364,32.413778",
+    "geom:latitude":32.413778,
+    "geom:longitude":-88.67364,
+    "iso:country":"US",
+    "sg:address":"211 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 7519",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWinNDqhvfrZA3D9XXGNF_32.413778_-88.673640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122325,
+    "wof:geomhash":"49e539ca63c93e69e3f36df5f23807f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857115485
+        }
+    ],
+    "wof:id":857115485,
+    "wof:lastmodified":1464122325,
+    "wof:name":"Landmark Apartments LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.67364,
+    32.413778,
+    -88.67364,
+    32.413778
+],
+  "geometry": {"coordinates":[-88.67364000000001,32.413778],"type":"Point"}
+}

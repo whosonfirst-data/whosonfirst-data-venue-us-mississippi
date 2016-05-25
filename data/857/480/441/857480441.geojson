@@ -1,0 +1,74 @@
+{
+  "id": 857480441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.516348,34.363652,-89.516348,34.363652",
+    "geom:latitude":34.363652,
+    "geom:longitude":-89.516348,
+    "iso:country":"US",
+    "sg:address":"1506 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hickory-flat/72894-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2005",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i7ebP86VxdO4w1bjZTKEC_34.363652_-89.516348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130377,
+    "wof:geomhash":"95e6e44f2fb5a758e0a8c2c7716ca33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857480441
+        }
+    ],
+    "wof:id":857480441,
+    "wof:lastmodified":1464130377,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.516348,
+    34.363652,
+    -89.516348,
+    34.363652
+],
+  "geometry": {"coordinates":[-89.51634799999999,34.363652],"type":"Point"}
+}

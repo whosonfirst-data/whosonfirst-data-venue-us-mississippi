@@ -1,0 +1,73 @@
+{
+  "id": 857293529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.306163,31.325657,-89.306163,31.325657",
+    "geom:latitude":31.325657,
+    "geom:longitude":-89.306163,
+    "iso:country":"US",
+    "sg:address":"102 N 10th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9103",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cZnL7o82sGOm6gXuon3ON_31.325657_-89.306163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126232,
+    "wof:geomhash":"ca9f71cd6b49fac83736fff6997b69b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857293529
+        }
+    ],
+    "wof:id":857293529,
+    "wof:lastmodified":1464126232,
+    "wof:name":"Heritage Eh LP",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.306163,
+    31.325657,
+    -89.306163,
+    31.325657
+],
+  "geometry": {"coordinates":[-89.306163,31.325657],"type":"Point"}
+}

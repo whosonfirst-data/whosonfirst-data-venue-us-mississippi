@@ -1,0 +1,71 @@
+{
+  "id": 857114115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.372844,31.308104,-89.372844,31.308104",
+    "geom:latitude":31.308104,
+    "geom:longitude":-89.372844,
+    "iso:country":"US",
+    "sg:address":"2601 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 579 7055",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102083775,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_496YfGdYeFgDKvJtADyhvl_31.308104_-89.372844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122292,
+    "wof:geomhash":"c8bb850d70cf95e9dec95b06e7ff0909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857114115
+        }
+    ],
+    "wof:id":857114115,
+    "wof:lastmodified":1464122292,
+    "wof:name":"Old Mill Store",
+    "wof:parent_id":85855793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -89.372844,
+    31.308104,
+    -89.372844,
+    31.308104
+],
+  "geometry": {"coordinates":[-89.372844,31.308104],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857295337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509057,34.383495,-89.509057,34.383495",
+    "geom:latitude":34.383495,
+    "geom:longitude":-89.509057,
+    "iso:country":"US",
+    "sg:address":"1433 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3813",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rummage",
+        "sale",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7joIpMwTCmeUqMVecitQuj_34.383495_-89.509057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126304,
+    "wof:geomhash":"760e84791acade41d0925561fb8583cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857295337
+        }
+    ],
+    "wof:id":857295337,
+    "wof:lastmodified":1464126304,
+    "wof:name":"Sue's Rummage Shop",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rummage",
+        "sale",
+        "center"
+    ]
+},
+  "bbox": [
+    -89.509057,
+    34.383495,
+    -89.509057,
+    34.383495
+],
+  "geometry": {"coordinates":[-89.509057,34.383495],"type":"Point"}
+}

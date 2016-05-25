@@ -1,0 +1,71 @@
+{
+  "id": 857385815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.570389,34.362778,-89.570389,34.362778",
+    "geom:latitude":34.362778,
+    "geom:longitude":-89.570389,
+    "iso:country":"US",
+    "sg:address":"2657 W Oxford Loop",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 1933",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SBk7EUHF99UIwqe4q7tuc_34.362778_-89.570389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128317,
+    "wof:geomhash":"4ecdfd74c802fe7752649ac238bc5b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857385815
+        }
+    ],
+    "wof:id":857385815,
+    "wof:lastmodified":1464128317,
+    "wof:name":"Williams Equipment and Supply",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.570389,
+    34.362778,
+    -89.570389,
+    34.362778
+],
+  "geometry": {"coordinates":[-89.57038900000001,34.362778],"type":"Point"}
+}

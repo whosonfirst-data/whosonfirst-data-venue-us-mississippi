@@ -1,0 +1,75 @@
+{
+  "id": 857117307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719655,32.387386,-88.719655,32.387386",
+    "geom:latitude":32.387386,
+    "geom:longitude":-88.719655,
+    "iso:country":"US",
+    "sg:address":"2710 41st Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9039",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heating",
+        "condition",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0heCqUDxmpO2edf1lLxqU3_32.387386_-88.719655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122396,
+    "wof:geomhash":"758072b875e2eefdffdea523b8700d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857117307
+        }
+    ],
+    "wof:id":857117307,
+    "wof:lastmodified":1464122396,
+    "wof:name":"Orum Heat & Air Condition",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "condition",
+        "air"
+    ]
+},
+  "bbox": [
+    -88.719655,
+    32.387386,
+    -88.719655,
+    32.387386
+],
+  "geometry": {"coordinates":[-88.719655,32.387386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857230831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.339869,32.775383,-90.339869,32.775383",
+    "geom:latitude":32.775383,
+    "geom:longitude":-90.339869,
+    "iso:country":"US",
+    "sg:address":"4680 Fletchers Chapel Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4184",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ih7et3xomQf8ZgXDlE3x4_32.775383_-90.339869@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124822,
+    "wof:geomhash":"0192d8177fcf5fa1b6a0c2ed9eeb057a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857230831
+        }
+    ],
+    "wof:id":857230831,
+    "wof:lastmodified":1464124822,
+    "wof:name":"Thomas Woods",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.339869,
+    32.775383,
+    -90.339869,
+    32.775383
+],
+  "geometry": {"coordinates":[-90.33986899999999,32.775383],"type":"Point"}
+}

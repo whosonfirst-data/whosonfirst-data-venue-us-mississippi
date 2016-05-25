@@ -1,0 +1,75 @@
+{
+  "id": 857146949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542371,30.354772,-88.542371,30.354772",
+    "geom:latitude":30.354772,
+    "geom:longitude":-88.542371,
+    "iso:country":"US",
+    "sg:address":"2122 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 202 8033",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kxrM5VYJKh1Tuu3e56bHL_30.354772_-88.542371@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123078,
+    "wof:geomhash":"951196f5a28952363e794164d43521d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857146949
+        }
+    ],
+    "wof:id":857146949,
+    "wof:lastmodified":1464123078,
+    "wof:name":"Public Safety Specialists",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.542371,
+    30.354772,
+    -88.542371,
+    30.354772
+],
+  "geometry": {"coordinates":[-88.542371,30.354772],"type":"Point"}
+}

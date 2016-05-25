@@ -1,0 +1,73 @@
+{
+  "id": 857167295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.276975,31.249166,-89.276975,31.249166",
+    "geom:latitude":31.249166,
+    "geom:longitude":-89.276975,
+    "iso:country":"US",
+    "sg:address":"14 R C Thomas Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4793",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MNFnkoIS6hdfp6d30edYJ_31.249166_-89.276975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123517,
+    "wof:geomhash":"c0bc1ace09542dd829cb3b67bb00218b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857167295
+        }
+    ],
+    "wof:id":857167295,
+    "wof:lastmodified":1464123517,
+    "wof:name":"Thomas Tire Repair Service",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -89.276975,
+    31.249166,
+    -89.276975,
+    31.249166
+],
+  "geometry": {"coordinates":[-89.27697499999999,31.249166],"type":"Point"}
+}

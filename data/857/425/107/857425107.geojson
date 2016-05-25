@@ -1,0 +1,71 @@
+{
+  "id": 857425107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659456,34.443228,-88.659456,34.443228",
+    "geom:latitude":34.443228,
+    "geom:longitude":-88.659456,
+    "iso:country":"US",
+    "sg:address":"1658 Main St",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 3195",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RIlmd7sHdT7nytQxGpzVx_34.443228_-88.659456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129230,
+    "wof:geomhash":"483e242b21a0ec3b3fa930b6bf0bb68f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857425107
+        }
+    ],
+    "wof:id":857425107,
+    "wof:lastmodified":1464129230,
+    "wof:name":"Guntown Antiques",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -88.659456,
+    34.443228,
+    -88.659456,
+    34.443228
+],
+  "geometry": {"coordinates":[-88.65945600000001,34.443228],"type":"Point"}
+}

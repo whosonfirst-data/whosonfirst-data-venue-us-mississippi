@@ -1,0 +1,75 @@
+{
+  "id": 857375071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567713,34.201623,-90.567713,34.201623",
+    "geom:latitude":34.201623,
+    "geom:longitude":-90.567713,
+    "iso:country":"US",
+    "sg:address":"328 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7528",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "beauty",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HrNJiD3jVaxPNSDzGQrUw_34.201623_-90.567713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128010,
+    "wof:geomhash":"22f4760295a432f6b74f50885bb301a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857375071
+        }
+    ],
+    "wof:id":857375071,
+    "wof:lastmodified":1464128010,
+    "wof:name":"Clarksdale Beauty Supply",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "beauty",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.567713,
+    34.201623,
+    -90.567713,
+    34.201623
+],
+  "geometry": {"coordinates":[-90.567713,34.201623],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857437125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648382,34.162581,-88.648382,34.162581",
+    "geom:latitude":34.162581,
+    "geom:longitude":-88.648382,
+    "iso:country":"US",
+    "sg:address":"3451 Hwy 6",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 6434",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iwG8jA9n09L3t3xXfEPul_34.162581_-88.648382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129513,
+    "wof:geomhash":"31dc46f165a9194ce8522967c75ef125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857437125
+        }
+    ],
+    "wof:id":857437125,
+    "wof:lastmodified":1464129513,
+    "wof:name":"Pat's Quick Stop",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.648382,
+    34.162581,
+    -88.648382,
+    34.162581
+],
+  "geometry": {"coordinates":[-88.648382,34.162581],"type":"Point"}
+}

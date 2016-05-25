@@ -1,0 +1,71 @@
+{
+  "id": 857464255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.650509,33.607023,-88.650509,33.607023",
+    "geom:latitude":33.607023,
+    "geom:longitude":-88.650509,
+    "iso:country":"US",
+    "sg:address":"106 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2533",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09hRvq9OMTF25x8m5w75eL_33.607023_-88.650509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130043,
+    "wof:geomhash":"0374810f8dfdd5e61dd2b1615ad29e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857464255
+        }
+    ],
+    "wof:id":857464255,
+    "wof:lastmodified":1464130043,
+    "wof:name":"Cash & Carry Cleaners",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.650509,
+    33.607023,
+    -88.650509,
+    33.607023
+],
+  "geometry": {"coordinates":[-88.650509,33.607023],"type":"Point"}
+}

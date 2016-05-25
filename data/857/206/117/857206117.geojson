@@ -1,0 +1,68 @@
+{
+  "id": 857206117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.201728,32.319959,-90.201728,32.319959",
+    "geom:latitude":32.319959,
+    "geom:longitude":-90.201728,
+    "iso:country":"US",
+    "sg:address":"902 Carver St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 948 6534",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aWrvmfWsnT2dZKdHhWRgu_32.319959_-90.201728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124314,
+    "wof:geomhash":"90fa588dd1c1ac9c3ead296af2cd0c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857206117
+        }
+    ],
+    "wof:id":857206117,
+    "wof:lastmodified":1464124314,
+    "wof:name":"B & J Barber Shop",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.201728,
+    32.319959,
+    -90.201728,
+    32.319959
+],
+  "geometry": {"coordinates":[-90.201728,32.319959],"type":"Point"}
+}

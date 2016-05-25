@@ -1,0 +1,71 @@
+{
+  "id": 857254835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693648,32.368551,-88.693648,32.368551",
+    "geom:latitude":32.368551,
+    "geom:longitude":-88.693648,
+    "iso:country":"US",
+    "sg:address":"1519 6th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 7237",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2boFa47Nu78QMCa3zSmoUu_32.368551_-88.693648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125373,
+    "wof:geomhash":"291de6a12c01f845e90b0cb7e54719fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857254835
+        }
+    ],
+    "wof:id":857254835,
+    "wof:lastmodified":1464125373,
+    "wof:name":"Refrigeration Services Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.693648,
+    32.368551,
+    -88.693648,
+    32.368551
+],
+  "geometry": {"coordinates":[-88.693648,32.368551],"type":"Point"}
+}

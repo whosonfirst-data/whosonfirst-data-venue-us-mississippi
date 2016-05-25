@@ -1,0 +1,76 @@
+{
+  "id": 857198279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.290818,31.327475,-89.290818,31.327475",
+    "geom:latitude":31.327475,
+    "geom:longitude":-89.290818,
+    "iso:country":"US",
+    "sg:address":"641 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 6040",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bZ2AIsSKhqqYD7APYHRQF_31.327475_-89.290818@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124144,
+    "wof:geomhash":"49f3878b49aa99936b18a81d83fe960c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857198279
+        }
+    ],
+    "wof:id":857198279,
+    "wof:lastmodified":1464124144,
+    "wof:name":"Forrest Cnty Chancery Ct Clerk",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -89.290818,
+    31.327475,
+    -89.290818,
+    31.327475
+],
+  "geometry": {"coordinates":[-89.290818,31.327475],"type":"Point"}
+}

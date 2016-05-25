@@ -1,0 +1,73 @@
+{
+  "id": 857415641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.156796,32.253264,-90.156796,32.253264",
+    "geom:latitude":32.253264,
+    "geom:longitude":-90.156796,
+    "iso:country":"US",
+    "sg:address":"199 Interstate Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 5200",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "exhibit",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dZyo34EHIHE0Bl7ptSR3V_32.253264_-90.156796@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128992,
+    "wof:geomhash":"01a102893600648964ddf82f3ccd4496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857415641
+        }
+    ],
+    "wof:id":857415641,
+    "wof:lastmodified":1464128992,
+    "wof:name":"Skyline Gulf Coast LLC",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhibit",
+        "rent"
+    ]
+},
+  "bbox": [
+    -90.156796,
+    32.253264,
+    -90.156796,
+    32.253264
+],
+  "geometry": {"coordinates":[-90.156796,32.253264],"type":"Point"}
+}

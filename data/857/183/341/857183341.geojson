@@ -1,0 +1,71 @@
+{
+  "id": 857183341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.595756,33.890156,-88.595756,33.890156",
+    "geom:latitude":33.890156,
+    "geom:longitude":-88.595756,
+    "iso:country":"US",
+    "sg:address":"22092 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6510",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W3x0SRSAGBbmJpwWz6bgu_33.890156_-88.595756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123864,
+    "wof:geomhash":"3b7e6e39d44d8d1b9787573f4592de0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857183341
+        }
+    ],
+    "wof:id":857183341,
+    "wof:lastmodified":1464123864,
+    "wof:name":"Mount Mariah MB Church",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.595756,
+    33.890156,
+    -88.595756,
+    33.890156
+],
+  "geometry": {"coordinates":[-88.59575599999999,33.890156],"type":"Point"}
+}

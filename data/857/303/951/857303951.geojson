@@ -1,0 +1,68 @@
+{
+  "id": 857303951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.848876,34.987451,-89.848876,34.987451",
+    "geom:latitude":34.987451,
+    "geom:longitude":-89.848876,
+    "iso:country":"US",
+    "sg:address":"7895 Hunters Creek Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 2077",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2APm6cWc1FANNKrs9TIpCU_34.987451_-89.848876@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126495,
+    "wof:geomhash":"dc9c98490e7c0c723bdcbbf6a916d093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857303951
+        }
+    ],
+    "wof:id":857303951,
+    "wof:lastmodified":1464126495,
+    "wof:name":"North Mississippi Veterinary",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.848876,
+    34.987451,
+    -89.848876,
+    34.987451
+],
+  "geometry": {"coordinates":[-89.848876,34.987451],"type":"Point"}
+}

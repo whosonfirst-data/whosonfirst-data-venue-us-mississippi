@@ -1,0 +1,73 @@
+{
+  "id": 857336781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.869672,30.460011,-88.869672,30.460011",
+    "geom:latitude":30.460011,
+    "geom:longitude":-88.869672,
+    "iso:country":"US",
+    "sg:address":"15609 Amarillo St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 6186",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XT4iHJeamY7eVQ8UdI8mE_30.460011_-88.869672@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127204,
+    "wof:geomhash":"b312d4f58659004b61fd12773dcb8428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857336781
+        }
+    ],
+    "wof:id":857336781,
+    "wof:lastmodified":1464127204,
+    "wof:name":"Paul Ladner Construction",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.869672,
+    30.460011,
+    -88.869672,
+    30.460011
+],
+  "geometry": {"coordinates":[-88.86967199999999,30.460011],"type":"Point"}
+}

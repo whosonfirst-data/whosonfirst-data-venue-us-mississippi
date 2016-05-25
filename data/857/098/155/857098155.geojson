@@ -1,0 +1,71 @@
+{
+  "id": 857098155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519295,34.363318,-89.519295,34.363318",
+    "geom:latitude":34.363318,
+    "geom:longitude":-89.519295,
+    "iso:country":"US",
+    "sg:address":"613 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3638",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75e009alxHmkd2jB1bftzz_34.363318_-89.519295@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121860,
+    "wof:geomhash":"6c48c5eb33091c92ac4b6b567ee349c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857098155
+        }
+    ],
+    "wof:id":857098155,
+    "wof:lastmodified":1464121860,
+    "wof:name":"Kangaroo Pouch",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.519295,
+    34.363318,
+    -89.519295,
+    34.363318
+],
+  "geometry": {"coordinates":[-89.519295,34.363318],"type":"Point"}
+}

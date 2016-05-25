@@ -1,0 +1,73 @@
+{
+  "id": 857402209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.499487,34.38507,-89.499487,34.38507",
+    "geom:latitude":34.38507,
+    "geom:longitude":-89.499487,
+    "iso:country":"US",
+    "sg:address":"812 Park Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 9093",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LPnUcvipqHw4YQIzxAJl8_34.385070_-89.499487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128670,
+    "wof:geomhash":"cc80dd9cf5c1b9819f4bfbabf90accec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857402209
+        }
+    ],
+    "wof:id":857402209,
+    "wof:lastmodified":1464128670,
+    "wof:name":"Database Realtime Reporting",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -89.499487,
+    34.38507,
+    -89.499487,
+    34.38507
+],
+  "geometry": {"coordinates":[-89.499487,34.38507],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857466557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568777,33.836389,-88.568777,33.836389",
+    "geom:latitude":33.836389,
+    "geom:longitude":-88.568777,
+    "iso:country":"US",
+    "sg:address":"212 Pullen Lake Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7895",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yeE669wNwzBie7KJ33znJ_33.836389_-88.568777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130099,
+    "wof:geomhash":"f230bbd4578bdc6c65d34fe530e56913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857466557
+        }
+    ],
+    "wof:id":857466557,
+    "wof:lastmodified":1464130099,
+    "wof:name":"L C Cook Appartments",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.568777,
+    33.836389,
+    -88.568777,
+    33.836389
+],
+  "geometry": {"coordinates":[-88.568777,33.836389],"type":"Point"}
+}

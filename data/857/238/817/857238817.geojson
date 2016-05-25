@@ -1,0 +1,87 @@
+{
+  "id": 857238817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133213,32.332774,-90.133213,32.332774",
+    "geom:latitude":32.332774,
+    "geom:longitude":-90.133213,
+    "iso:country":"US",
+    "sg:address":"7 Lakeland Cir",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 0182",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WC29PzUnNmoEjgx77P6M7_32.332774_-90.133213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124978,
+    "wof:geomhash":"167f8597705cc69b4311773bbab841c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857238817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857238817
+        }
+    ],
+    "wof:id":857238817,
+    "wof:lastmodified":1464124978,
+    "wof:name":"MEA Drug Testing Consortium",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.133213,
+    32.332774,
+    -90.133213,
+    32.332774
+],
+  "geometry": {"coordinates":[-90.133213,32.332774],"type":"Point"}
+}

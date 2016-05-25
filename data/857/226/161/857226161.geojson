@@ -1,0 +1,68 @@
+{
+  "id": 857226161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.179989,32.35488,-90.179989,32.35488",
+    "geom:latitude":32.35488,
+    "geom:longitude":-90.179989,
+    "iso:country":"US",
+    "sg:address":"3835 Northbrook Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 8084",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4Z7XHe4tR7Xg0X75iIPm_32.354880_-90.179989@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124732,
+    "wof:geomhash":"01cd633e041a1eb4503b1d561db7a534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857226161
+        }
+    ],
+    "wof:id":857226161,
+    "wof:lastmodified":1464124732,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.179989,
+    32.35488,
+    -90.179989,
+    32.35488
+],
+  "geometry": {"coordinates":[-90.17998900000001,32.35488],"type":"Point"}
+}

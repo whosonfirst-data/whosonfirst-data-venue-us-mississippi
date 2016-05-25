@@ -1,0 +1,75 @@
+{
+  "id": 857404577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.722948,32.364464,-88.722948,32.364464",
+    "geom:latitude":32.364464,
+    "geom:longitude":-88.722948,
+    "iso:country":"US",
+    "sg:address":"708 45th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 6457",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dPPmYI6BsJmpX5Qg2N2GG_32.364464_-88.722948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128720,
+    "wof:geomhash":"00bec979fadf285af9e73d46f8aa11ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857404577
+        }
+    ],
+    "wof:id":857404577,
+    "wof:lastmodified":1464128720,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -88.722948,
+    32.364464,
+    -88.722948,
+    32.364464
+],
+  "geometry": {"coordinates":[-88.722948,32.364464],"type":"Point"}
+}

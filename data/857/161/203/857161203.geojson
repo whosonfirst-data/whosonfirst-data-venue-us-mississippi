@@ -1,0 +1,71 @@
+{
+  "id": 857161203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534237,30.372606,-88.534237,30.372606",
+    "geom:latitude":30.372606,
+    "geom:longitude":-88.534237,
+    "iso:country":"US",
+    "sg:address":"3800 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2800",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ObjlXUk0D7hiWNxcVHU38_30.372606_-88.534237@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123375,
+    "wof:geomhash":"c59abb04c8f2382208fa010ea7b885ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857161203
+        }
+    ],
+    "wof:id":857161203,
+    "wof:lastmodified":1464123375,
+    "wof:name":"Loews Hotels Holding Corp",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.534237,
+    30.372606,
+    -88.534237,
+    30.372606
+],
+  "geometry": {"coordinates":[-88.534237,30.372606],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857330885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.12501,30.388101,-89.12501,30.388101",
+    "geom:latitude":30.388101,
+    "geom:longitude":-89.12501,
+    "iso:country":"US",
+    "sg:address":"3022 53rd Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 3433",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_158bK6TDFlMqzZ1SWZWc1J_30.388101_-89.125010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127071,
+    "wof:geomhash":"7c9d655e5b313ac7970384eaac399a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857330885
+        }
+    ],
+    "wof:id":857330885,
+    "wof:lastmodified":1464127071,
+    "wof:name":"Glamour Rama Beauty Salon",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.12501,
+    30.388101,
+    -89.12501,
+    30.388101
+],
+  "geometry": {"coordinates":[-89.12501,30.388101],"type":"Point"}
+}

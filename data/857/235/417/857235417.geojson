@@ -1,0 +1,71 @@
+{
+  "id": 857235417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543508,33.815269,-88.543508,33.815269",
+    "geom:latitude":33.815269,
+    "geom:longitude":-88.543508,
+    "iso:country":"US",
+    "sg:address":"70 Hwy 25 S",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7685",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U4JsgPWSPYyKFtLuU36nH_33.815269_-88.543508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124911,
+    "wof:geomhash":"573a11e4008b417c451077fbbdca88d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857235417
+        }
+    ],
+    "wof:id":857235417,
+    "wof:lastmodified":1464124911,
+    "wof:name":"Gilbert's Home Health",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.543508,
+    33.815269,
+    -88.543508,
+    33.815269
+],
+  "geometry": {"coordinates":[-88.543508,33.815269],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857142507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.368969,32.638169,-90.368969,32.638169",
+    "geom:latitude":32.638169,
+    "geom:longitude":-90.368969,
+    "iso:country":"US",
+    "sg:address":"100 Pritchard Ave",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 0099",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xja6yPy52qKfZVNMTYgut_32.638169_-90.368969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122952,
+    "wof:geomhash":"ef7248a04778cea8d7f4bf5fe3bfa0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857142507
+        }
+    ],
+    "wof:id":857142507,
+    "wof:lastmodified":1464122952,
+    "wof:name":"Twiner's Travel Ctr",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -90.368969,
+    32.638169,
+    -90.368969,
+    32.638169
+],
+  "geometry": {"coordinates":[-90.36896900000001,32.638169],"type":"Point"}
+}

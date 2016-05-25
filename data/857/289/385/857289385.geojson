@@ -1,0 +1,66 @@
+{
+  "id": 857289385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773301,34.249816,-88.773301,34.249816",
+    "geom:latitude":34.249816,
+    "geom:longitude":-88.773301,
+    "iso:country":"US",
+    "sg:address":"4014 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5421",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46DOrq75vq1JbpAv08HlfC_34.249816_-88.773301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126129,
+    "wof:geomhash":"0e70ec947d732e9d7b1aba8dae666950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857289385
+        }
+    ],
+    "wof:id":857289385,
+    "wof:lastmodified":1464126129,
+    "wof:name":"Boyd Flowers & Gifts",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.773301,
+    34.249816,
+    -88.773301,
+    34.249816
+],
+  "geometry": {"coordinates":[-88.773301,34.249816],"type":"Point"}
+}

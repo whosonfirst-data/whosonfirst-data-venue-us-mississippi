@@ -1,0 +1,71 @@
+{
+  "id": 857422641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.853254,32.336942,-90.853254,32.336942",
+    "geom:latitude":32.336942,
+    "geom:longitude":-90.853254,
+    "iso:country":"US",
+    "sg:address":"3201 N Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 661 6015",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7arGJr6ZgQcwRrnpuJCedx_32.336942_-90.853254@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129161,
+    "wof:geomhash":"23dd2f5cdc723db210dd471b67f5d046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857422641
+        }
+    ],
+    "wof:id":857422641,
+    "wof:lastmodified":1464129161,
+    "wof:name":"Tamis",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.853254,
+    32.336942,
+    -90.853254,
+    32.336942
+],
+  "geometry": {"coordinates":[-90.85325400000001,32.336942],"type":"Point"}
+}

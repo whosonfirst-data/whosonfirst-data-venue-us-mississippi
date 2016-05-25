@@ -1,0 +1,71 @@
+{
+  "id": 857337227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.802052,30.412972,-88.802052,30.412972",
+    "geom:latitude":30.412972,
+    "geom:longitude":-88.802052,
+    "iso:country":"US",
+    "sg:address":"2426 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 6509",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73gNcJrKPF6smHgCBJ9W0a_30.412972_-88.802052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127216,
+    "wof:geomhash":"41c7ea48681340466f296465c8283196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857337227
+        }
+    ],
+    "wof:id":857337227,
+    "wof:lastmodified":1464127216,
+    "wof:name":"Emerald City",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -88.802052,
+    30.412972,
+    -88.802052,
+    30.412972
+],
+  "geometry": {"coordinates":[-88.802052,30.412972],"type":"Point"}
+}

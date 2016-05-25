@@ -1,0 +1,67 @@
+{
+  "id": 857485597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.557041,34.363831,-89.557041,34.363831",
+    "geom:latitude":34.363831,
+    "geom:longitude":-89.557041,
+    "iso:country":"US",
+    "sg:address":"1908 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/254760-el-charro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 0058",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OtSRXfau8OzdW8Q43EHTs_34.363788_-89.556933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130478,
+    "wof:geomhash":"6522d2baa249ab4ad0efe414b873631c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857485597
+        }
+    ],
+    "wof:id":857485597,
+    "wof:lastmodified":1464130478,
+    "wof:name":"El Charro",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.557041,
+    34.363831,
+    -89.557041,
+    34.363831
+],
+  "geometry": {"coordinates":[-89.557041,34.363831],"type":"Point"}
+}

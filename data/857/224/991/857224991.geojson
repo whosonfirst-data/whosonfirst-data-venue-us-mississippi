@@ -1,0 +1,84 @@
+{
+  "id": 857224991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.516597,34.373466,-89.516597,34.373466",
+    "geom:latitude":34.373466,
+    "geom:longitude":-89.516597,
+    "iso:country":"US",
+    "sg:address":"766 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0617",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash",
+        "automotive",
+        "polishing",
+        "washing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nc1e3iqfJZSOXfUWvJppi_34.373466_-89.516597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124712,
+    "wof:geomhash":"60b3dca3764fd588c328ec733c2c9962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857224991
+        }
+    ],
+    "wof:id":857224991,
+    "wof:lastmodified":1464124712,
+    "wof:name":"Ultimate Auto Center",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automotive",
+        "polishing",
+        "washing",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.516597,
+    34.373466,
+    -89.516597,
+    34.373466
+],
+  "geometry": {"coordinates":[-89.516597,34.373466],"type":"Point"}
+}

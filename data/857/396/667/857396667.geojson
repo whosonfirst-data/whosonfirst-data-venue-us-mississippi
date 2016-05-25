@@ -1,0 +1,76 @@
+{
+  "id": 857396667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.813838,33.464393,-88.813838,33.464393",
+    "geom:latitude":33.464393,
+    "geom:longitude":-88.813838,
+    "iso:country":"US",
+    "sg:address":"122 N Jackson St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 615 1519",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospice",
+        "skilled"
+    ],
+    "sg:website":"www.heart2hearthospice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mWTom06CwmC7NQrLf8I8w_33.464393_-88.813838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128564,
+    "wof:geomhash":"c654339bfad31cb6539764c244f1c4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857396667
+        }
+    ],
+    "wof:id":857396667,
+    "wof:lastmodified":1464128564,
+    "wof:name":"Heart To Heart Hospice",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice",
+        "skilled"
+    ]
+},
+  "bbox": [
+    -88.813838,
+    33.464393,
+    -88.813838,
+    33.464393
+],
+  "geometry": {"coordinates":[-88.813838,33.464393],"type":"Point"}
+}

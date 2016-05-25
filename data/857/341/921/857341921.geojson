@@ -1,0 +1,67 @@
+{
+  "id": 857341921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.142498,32.222535,-90.142498,32.222535",
+    "geom:latitude":32.222535,
+    "geom:longitude":-90.142498,
+    "iso:country":"US",
+    "sg:address":"111 Lakeshore Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 4338",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:website":"www.msoptometry.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BontDmtD5C2tJfS10GdU7_32.222535_-90.142498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127314,
+    "wof:geomhash":"fd5461c2a3513819bf0cd4516d083a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857341921
+        }
+    ],
+    "wof:id":857341921,
+    "wof:lastmodified":1464127314,
+    "wof:name":"Mississippi Board Of Optometry",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.142498,
+    32.222535,
+    -90.142498,
+    32.222535
+],
+  "geometry": {"coordinates":[-90.142498,32.222535],"type":"Point"}
+}

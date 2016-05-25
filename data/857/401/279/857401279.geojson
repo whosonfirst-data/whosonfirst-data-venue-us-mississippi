@@ -1,0 +1,73 @@
+{
+  "id": 857401279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.801225,34.774405,-89.801225,34.774405",
+    "geom:latitude":34.774405,
+    "geom:longitude":-89.801225,
+    "iso:country":"US",
+    "sg:address":"5815 Trinity Dr",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 233 0398",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eLPqaEW2bTSnd5lVksj5k_34.774405_-89.801225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128650,
+    "wof:geomhash":"147761e8508e9b5667668ffb9400b589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857401279
+        }
+    ],
+    "wof:id":857401279,
+    "wof:lastmodified":1464128650,
+    "wof:name":"Davis & Assoc Insurance Broker",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "broker"
+    ]
+},
+  "bbox": [
+    -89.801225,
+    34.774405,
+    -89.801225,
+    34.774405
+],
+  "geometry": {"coordinates":[-89.801225,34.774405],"type":"Point"}
+}

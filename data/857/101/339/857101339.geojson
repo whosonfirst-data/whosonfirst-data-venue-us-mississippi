@@ -1,0 +1,80 @@
+{
+  "id": 857101339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.338406,31.326704,-89.338406,31.326704",
+    "geom:latitude":31.326704,
+    "geom:longitude":-89.338406,
+    "iso:country":"US",
+    "sg:address":"100 N 33rd Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 6464",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "age",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XN70Wdey8jtUBDM5Fz3w2_31.326704_-89.338406@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121948,
+    "wof:geomhash":"95018c56cd5f2c72d15d63a8c4307d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857101339
+        }
+    ],
+    "wof:id":857101339,
+    "wof:lastmodified":1464121948,
+    "wof:name":"Mc Mahan Realty",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "age",
+        "property"
+    ]
+},
+  "bbox": [
+    -89.338406,
+    31.326704,
+    -89.338406,
+    31.326704
+],
+  "geometry": {"coordinates":[-89.33840600000001,31.326704],"type":"Point"}
+}

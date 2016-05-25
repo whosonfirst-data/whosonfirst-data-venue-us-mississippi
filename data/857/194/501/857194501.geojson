@@ -1,0 +1,71 @@
+{
+  "id": 857194501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.324973,33.519761,-88.324973,33.519761",
+    "geom:latitude":33.519761,
+    "geom:longitude":-88.324973,
+    "iso:country":"US",
+    "sg:address":"925 Tabernacle Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4188",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43miuLQpFYVNDN8uHjoMYh_33.519761_-88.324973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124070,
+    "wof:geomhash":"bc08dd5fa6505764098d932185025ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857194501
+        }
+    ],
+    "wof:id":857194501,
+    "wof:lastmodified":1464124070,
+    "wof:name":"Tomorrows Pride Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.324973,
+    33.519761,
+    -88.324973,
+    33.519761
+],
+  "geometry": {"coordinates":[-88.324973,33.519761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857473723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.845151,34.860729,-89.845151,34.860729",
+    "geom:latitude":34.860729,
+    "geom:longitude":-89.845151,
+    "iso:country":"US",
+    "sg:address":"8771 Byhalia Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3322",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lNZLRMXdXEZoqPhpPXuNt_34.860729_-89.845151@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130250,
+    "wof:geomhash":"d13e2d69f6badcd7b22584533c70575f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857473723
+        }
+    ],
+    "wof:id":857473723,
+    "wof:lastmodified":1464130250,
+    "wof:name":"Lewisburg Volunteer Fire Dept",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.845151,
+    34.860729,
+    -89.845151,
+    34.860729
+],
+  "geometry": {"coordinates":[-89.845151,34.860729],"type":"Point"}
+}

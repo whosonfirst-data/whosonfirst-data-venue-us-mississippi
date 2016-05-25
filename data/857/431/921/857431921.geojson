@@ -1,0 +1,73 @@
+{
+  "id": 857431921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827787,33.465036,-88.827787,33.465036",
+    "geom:latitude":33.465036,
+    "geom:longitude":-88.827787,
+    "iso:country":"US",
+    "sg:address":"512 Martin Luther King Jr Dr W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 0345",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85838461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7moMlqTJ43LKKPuBdMGJXw_33.465036_-88.827787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129388,
+    "wof:geomhash":"3f93a189f016af1a73e97aee8a05de17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85838461,
+            "region_id":85688579,
+            "venue_id":857431921
+        }
+    ],
+    "wof:id":857431921,
+    "wof:lastmodified":1464129388,
+    "wof:name":"House of Flowers & Gifts",
+    "wof:parent_id":85838461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.827787,
+    33.465036,
+    -88.827787,
+    33.465036
+],
+  "geometry": {"coordinates":[-88.827787,33.465036],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857487381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574108,34.204074,-90.574108,34.204074",
+    "geom:latitude":34.204074,
+    "geom:longitude":-90.574108,
+    "iso:country":"US",
+    "sg:address":"110 Yazoo Ave Ste 115",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2353",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F8vMpTlyVr6kmYP1wF6kL_34.204074_-90.574108@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130514,
+    "wof:geomhash":"3f4d4362b7ced0ca5d8844711d9e1c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487381
+        }
+    ],
+    "wof:id":857487381,
+    "wof:lastmodified":1464130514,
+    "wof:name":"Mid Delta Realty",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.574108,
+    34.204074,
+    -90.574108,
+    34.204074
+],
+  "geometry": {"coordinates":[-90.574108,34.204074],"type":"Point"}
+}

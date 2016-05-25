@@ -1,0 +1,71 @@
+{
+  "id": 857353925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.887929,32.278813,-90.887929,32.278813",
+    "geom:latitude":32.278813,
+    "geom:longitude":-90.887929,
+    "iso:country":"US",
+    "sg:address":"104 Dana Pl",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 1928",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yUmEHaIWzwMFHedjnP9Ah_32.278813_-90.887929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127572,
+    "wof:geomhash":"2434b34422c9c608a9b286eb7d9481cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857353925
+        }
+    ],
+    "wof:id":857353925,
+    "wof:lastmodified":1464127572,
+    "wof:name":"Grey Plumbing Inc",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.887929,
+    32.278813,
+    -90.887929,
+    32.278813
+],
+  "geometry": {"coordinates":[-90.887929,32.278813],"type":"Point"}
+}

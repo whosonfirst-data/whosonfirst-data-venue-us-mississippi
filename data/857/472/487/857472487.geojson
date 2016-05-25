@@ -1,0 +1,73 @@
+{
+  "id": 857472487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.564459,34.362227,-89.564459,34.362227",
+    "geom:latitude":34.362227,
+    "geom:longitude":-89.564459,
+    "iso:country":"US",
+    "sg:address":"2309 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8893",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gz4rNcKNRKXUCpe6z2KwI_34.362227_-89.564459@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130228,
+    "wof:geomhash":"60b3f2e19639d7158fba639ed7825f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857472487
+        }
+    ],
+    "wof:id":857472487,
+    "wof:lastmodified":1464130228,
+    "wof:name":"Re/Max First Choice Realty",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -89.564459,
+    34.362227,
+    -89.564459,
+    34.362227
+],
+  "geometry": {"coordinates":[-89.564459,34.362227],"type":"Point"}
+}

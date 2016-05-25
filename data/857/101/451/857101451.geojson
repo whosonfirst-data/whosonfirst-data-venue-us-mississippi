@@ -1,0 +1,73 @@
+{
+  "id": 857101451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.818294,33.474967,-88.818294,33.474967",
+    "geom:latitude":33.474967,
+    "geom:longitude":-88.818294,
+    "iso:country":"US",
+    "sg:address":"307 Hospital Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 4008",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ei2HWZVIbWpWTalppBVFw_33.474967_-88.818294@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121950,
+    "wof:geomhash":"1b305f0c085aa779157ba2c0b5809629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857101451
+        }
+    ],
+    "wof:id":857101451,
+    "wof:lastmodified":1464121950,
+    "wof:name":"Joseph Scoggin MD",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.818294,
+    33.474967,
+    -88.818294,
+    33.474967
+],
+  "geometry": {"coordinates":[-88.81829399999999,33.474967],"type":"Point"}
+}

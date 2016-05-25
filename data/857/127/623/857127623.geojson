@@ -1,0 +1,75 @@
+{
+  "id": 857127623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557558,30.360914,-88.557558,30.360914",
+    "geom:latitude":30.360914,
+    "geom:longitude":-88.557558,
+    "iso:country":"US",
+    "sg:address":"2509 Grimsley St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7588",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UibMNBCxsYV1XIbD8Ondn_30.360914_-88.557558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122619,
+    "wof:geomhash":"20aa7c828bee20d016c2db8e9a7bb790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857127623
+        }
+    ],
+    "wof:id":857127623,
+    "wof:lastmodified":1464122619,
+    "wof:name":"Co Jac Electric",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.557558,
+    30.360914,
+    -88.557558,
+    30.360914
+],
+  "geometry": {"coordinates":[-88.557558,30.360914],"type":"Point"}
+}

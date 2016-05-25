@@ -1,0 +1,73 @@
+{
+  "id": 857252495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.203465,31.350361,-89.203465,31.350361",
+    "geom:latitude":31.350361,
+    "geom:longitude":-89.203465,
+    "iso:country":"US",
+    "sg:address":"1145 Hwy 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0500",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fKUZi8v7A2vkFDMjtQ9bV_31.350361_-89.203465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125308,
+    "wof:geomhash":"8151272dd85ccf7dc2a5130ea85c1f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857252495
+        }
+    ],
+    "wof:id":857252495,
+    "wof:lastmodified":1464125308,
+    "wof:name":"Encore Rehab-Petal High School",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.203465,
+    31.350361,
+    -89.203465,
+    31.350361
+],
+  "geometry": {"coordinates":[-89.20346499999999,31.350361],"type":"Point"}
+}

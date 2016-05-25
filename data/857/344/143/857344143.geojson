@@ -1,0 +1,71 @@
+{
+  "id": 857344143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566307,34.198998,-90.566307,34.198998",
+    "geom:latitude":34.198998,
+    "geom:longitude":-90.566307,
+    "iso:country":"US",
+    "sg:address":"512 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4423",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uKe8oKyymMF6kEFpJ7kaA_34.198998_-90.566307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127355,
+    "wof:geomhash":"743ccb0bc5cad4f19e36d23b3f862c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857344143
+        }
+    ],
+    "wof:id":857344143,
+    "wof:lastmodified":1464127355,
+    "wof:name":"Foti's Barber Shop",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.566307,
+    34.198998,
+    -90.566307,
+    34.198998
+],
+  "geometry": {"coordinates":[-90.56630699999999,34.198998],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857126105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43621,33.52552,-88.43621,33.52552",
+    "geom:latitude":33.52552,
+    "geom:longitude":-88.43621,
+    "iso:country":"US",
+    "sg:address":"1231 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2144",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0prX6lManDtIYOlsnkxRbn_33.525520_-88.436210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122590,
+    "wof:geomhash":"228a2bcb9aa33a0ce924864c825e05bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857126105
+        }
+    ],
+    "wof:id":857126105,
+    "wof:lastmodified":1464122590,
+    "wof:name":"CONNECTED Office Products",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -88.43621,
+    33.52552,
+    -88.43621,
+    33.52552
+],
+  "geometry": {"coordinates":[-88.43621,33.52552],"type":"Point"}
+}

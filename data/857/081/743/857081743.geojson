@@ -1,0 +1,71 @@
+{
+  "id": 857081743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.126629,32.153602,-90.126629,32.153602",
+    "geom:latitude":32.153602,
+    "geom:longitude":-90.126629,
+    "iso:country":"US",
+    "sg:address":"304 E Main St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 0200",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lzBSVHj2qykVPsXfmsDpi_32.153602_-90.126629@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121444,
+    "wof:geomhash":"735ab39e9c1edfcaa42f3a1b2992c8d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857081743
+        }
+    ],
+    "wof:id":857081743,
+    "wof:lastmodified":1464121444,
+    "wof:name":"Cornerstone Contractors Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.126629,
+    32.153602,
+    -90.126629,
+    32.153602
+],
+  "geometry": {"coordinates":[-90.12662899999999,32.153602],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857235691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302734,31.114838,-89.302734,31.114838",
+    "geom:latitude":31.114838,
+    "geom:longitude":-89.302734,
+    "iso:country":"US",
+    "sg:address":"580 Churchwell Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 543 6176",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_426SKlbAdUZzIj6BRXLajA_31.114838_-89.302734@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124916,
+    "wof:geomhash":"fcafb0a1cc8abafff87835551c8f8751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857235691
+        }
+    ],
+    "wof:id":857235691,
+    "wof:lastmodified":1464124916,
+    "wof:name":"Cowart Timber Loggng",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -89.302734,
+    31.114838,
+    -89.302734,
+    31.114838
+],
+  "geometry": {"coordinates":[-89.302734,31.114838],"type":"Point"}
+}

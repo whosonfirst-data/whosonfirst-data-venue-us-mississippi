@@ -1,0 +1,73 @@
+{
+  "id": 857281417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.247469,31.357574,-89.247469,31.357574",
+    "geom:latitude":31.357574,
+    "geom:longitude":-89.247469,
+    "iso:country":"US",
+    "sg:address":"816 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0829",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pENy6qgXpmyn9SzJt8Oi8_31.357574_-89.247469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125949,
+    "wof:geomhash":"5055e688dce37496ae9567d0d267a9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857281417
+        }
+    ],
+    "wof:id":857281417,
+    "wof:lastmodified":1464125949,
+    "wof:name":"Service Tech",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.247469,
+    31.357574,
+    -89.247469,
+    31.357574
+],
+  "geometry": {"coordinates":[-89.247469,31.357574],"type":"Point"}
+}

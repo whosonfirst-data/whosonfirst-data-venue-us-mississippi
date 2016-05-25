@@ -1,0 +1,82 @@
+{
+  "id": 857133773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.688724,32.350673,-88.688724,32.350673",
+    "geom:latitude":32.350673,
+    "geom:longitude":-88.688724,
+    "iso:country":"US",
+    "sg:address":"1312 22nd Ave Hts",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8661",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RkCWit7241klnxJ6kurCR_32.350673_-88.688724@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122759,
+    "wof:geomhash":"9cc017af0de1d375095edfee59673605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857133773
+        }
+    ],
+    "wof:id":857133773,
+    "wof:lastmodified":1464122759,
+    "wof:name":"Telephone Tech Meridian",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -88.688724,
+    32.350673,
+    -88.688724,
+    32.350673
+],
+  "geometry": {"coordinates":[-88.68872399999999,32.350673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857367041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41136,33.51074,-88.41136,33.51074",
+    "geom:latitude":33.51074,
+    "geom:longitude":-88.41136,
+    "iso:country":"US",
+    "sg:address":"2001 N 14th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0755",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73z9muWYliskzfTnlQWTyE_33.510740_-88.411360@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127845,
+    "wof:geomhash":"eb6a88046077823f63f9b6059e220e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857367041
+        }
+    ],
+    "wof:id":857367041,
+    "wof:lastmodified":1464127845,
+    "wof:name":"Skeets Hot Dogs",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.41136,
+    33.51074,
+    -88.41136,
+    33.51074
+],
+  "geometry": {"coordinates":[-88.41136,33.51074],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857090073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.879294,32.34567,-90.879294,32.34567",
+    "geom:latitude":32.34567,
+    "geom:longitude":-90.879294,
+    "iso:country":"US",
+    "sg:address":"1708 Cherry St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 3632",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "continuous",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4heTmJvs7obpNDRbSdxk0c_32.345670_-90.879294@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121679,
+    "wof:geomhash":"acaa1891e62229954c13aa0c1ce07796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857090073
+        }
+    ],
+    "wof:id":857090073,
+    "wof:lastmodified":1464121679,
+    "wof:name":"Vicksburg Convalescent Home",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "continuous",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.879294,
+    32.34567,
+    -90.879294,
+    32.34567
+],
+  "geometry": {"coordinates":[-90.879294,32.34567],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857398431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.326664,32.240094,-90.326664,32.240094",
+    "geom:latitude":32.240094,
+    "geom:longitude":-90.326664,
+    "iso:country":"US",
+    "sg:address":"157 Parks Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 371 9700",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h3ITbP9BZZbsv7vY93Tz1_32.240094_-90.326664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128595,
+    "wof:geomhash":"d7b865013450890de49c6329ca7920c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857398431
+        }
+    ],
+    "wof:id":857398431,
+    "wof:lastmodified":1464128595,
+    "wof:name":"John Moses Electric Co",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.326664,
+    32.240094,
+    -90.326664,
+    32.240094
+],
+  "geometry": {"coordinates":[-90.32666399999999,32.240094],"type":"Point"}
+}

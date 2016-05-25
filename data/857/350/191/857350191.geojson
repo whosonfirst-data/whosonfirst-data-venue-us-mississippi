@@ -1,0 +1,71 @@
+{
+  "id": 857350191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.77276,34.246733,-88.77276,34.246733",
+    "geom:latitude":34.246733,
+    "geom:longitude":-88.77276,
+    "iso:country":"US",
+    "sg:address":"4979 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 4860",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uyCo6JMf3yzwX9cdgylE6_34.246733_-88.772760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127489,
+    "wof:geomhash":"65f9427b663c4f68793bb48dbee24e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857350191
+        }
+    ],
+    "wof:id":857350191,
+    "wof:lastmodified":1464127489,
+    "wof:name":"North Mississippi Travel",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -88.77276,
+    34.246733,
+    -88.77276,
+    34.246733
+],
+  "geometry": {"coordinates":[-88.77276000000001,34.246733],"type":"Point"}
+}

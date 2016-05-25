@@ -1,0 +1,71 @@
+{
+  "id": 857361145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53841,30.404004,-88.53841,30.404004",
+    "geom:latitude":30.404004,
+    "geom:longitude":-88.53841,
+    "iso:country":"US",
+    "sg:address":"4412 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 5448",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPIcnQqtbXlDIE4PAmw2d_30.404004_-88.538410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127725,
+    "wof:geomhash":"8b002593522b7c93ef8c235430b6d802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857361145
+        }
+    ],
+    "wof:id":857361145,
+    "wof:lastmodified":1464127725,
+    "wof:name":"Millender's Funeral Home Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -88.53841,
+    30.404004,
+    -88.53841,
+    30.404004
+],
+  "geometry": {"coordinates":[-88.53841,30.404004],"type":"Point"}
+}

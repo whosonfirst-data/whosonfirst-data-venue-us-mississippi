@@ -1,0 +1,74 @@
+{
+  "id": 857485513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658844,33.614713,-88.658844,33.614713",
+    "geom:latitude":33.614713,
+    "geom:longitude":-88.658844,
+    "iso:country":"US",
+    "sg:address":"710 Highway 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/una/66375-pizza-inn-of-west-point/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1898",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kVGkUV0RJHs011Jm14kRz_33.614713_-88.658844@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130476,
+    "wof:geomhash":"5de46d407baa34292c6c936a1909e87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857485513
+        }
+    ],
+    "wof:id":857485513,
+    "wof:lastmodified":1464130476,
+    "wof:name":"Pizza Inn of West Point",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.658844,
+    33.614713,
+    -88.658844,
+    33.614713
+],
+  "geometry": {"coordinates":[-88.658844,33.614713],"type":"Point"}
+}

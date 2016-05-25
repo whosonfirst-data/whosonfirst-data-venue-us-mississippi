@@ -1,0 +1,71 @@
+{
+  "id": 857114543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43227,33.506679,-88.43227,33.506679",
+    "geom:latitude":33.506679,
+    "geom:longitude":-88.43227,
+    "iso:country":"US",
+    "sg:address":"501 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3294",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iTFHpQtzv3Kl4a2OLnjyf_33.506679_-88.432270@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122302,
+    "wof:geomhash":"b0656401c4353004461a75276bfa7661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857114543
+        }
+    ],
+    "wof:id":857114543,
+    "wof:lastmodified":1464122302,
+    "wof:name":"Chevron",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -88.43227,
+    33.506679,
+    -88.43227,
+    33.506679
+],
+  "geometry": {"coordinates":[-88.43227,33.506679],"type":"Point"}
+}

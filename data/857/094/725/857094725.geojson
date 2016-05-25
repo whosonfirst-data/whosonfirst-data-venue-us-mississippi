@@ -1,0 +1,71 @@
+{
+  "id": 857094725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.358318,31.35559,-89.358318,31.35559",
+    "geom:latitude":31.35559,
+    "geom:longitude":-89.358318,
+    "iso:country":"US",
+    "sg:address":"421 Classic Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 3609",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pgZPFsFr3kiwf3CJhW8Vb_31.355590_-89.358318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121784,
+    "wof:geomhash":"56e4e2e4c4bf1def33853f3068af4bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857094725
+        }
+    ],
+    "wof:id":857094725,
+    "wof:lastmodified":1464121784,
+    "wof:name":"Classic Climate Ctrl Self Stor",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.358318,
+    31.35559,
+    -89.358318,
+    31.35559
+],
+  "geometry": {"coordinates":[-89.358318,31.35559],"type":"Point"}
+}

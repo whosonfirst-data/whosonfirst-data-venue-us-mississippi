@@ -1,0 +1,73 @@
+{
+  "id": 857447365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.881917,30.437286,-88.881917,30.437286",
+    "geom:latitude":30.437286,
+    "geom:longitude":-88.881917,
+    "iso:country":"US",
+    "sg:address":"16301 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 354 8589",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zIVez7aRrU1wec833UGnC_30.437286_-88.881917@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129710,
+    "wof:geomhash":"42201f2dccba8b04b8669491bc532be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857447365
+        }
+    ],
+    "wof:id":857447365,
+    "wof:lastmodified":1464129710,
+    "wof:name":"Crazy Ed's Performance",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.881917,
+    30.437286,
+    -88.881917,
+    30.437286
+],
+  "geometry": {"coordinates":[-88.881917,30.437286],"type":"Point"}
+}

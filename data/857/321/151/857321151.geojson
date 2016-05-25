@@ -1,0 +1,71 @@
+{
+  "id": 857321151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.556011,34.361625,-89.556011,34.361625",
+    "geom:latitude":34.361625,
+    "geom:longitude":-89.556011,
+    "iso:country":"US",
+    "sg:address":"41 Rubin Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3927",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11h67s9JUPDQf1K3bLSyPg_34.361625_-89.556011@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126872,
+    "wof:geomhash":"dfe96ea421a16119623a2aa511c32a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857321151
+        }
+    ],
+    "wof:id":857321151,
+    "wof:lastmodified":1464126872,
+    "wof:name":"Oak View Apartments LTD",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.556011,
+    34.361625,
+    -89.556011,
+    34.361625
+],
+  "geometry": {"coordinates":[-89.556011,34.361625],"type":"Point"}
+}

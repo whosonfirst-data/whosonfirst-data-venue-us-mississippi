@@ -1,0 +1,75 @@
+{
+  "id": 857458597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123046,32.433876,-90.123046,32.433876",
+    "geom:latitude":32.433876,
+    "geom:longitude":-90.123046,
+    "iso:country":"US",
+    "sg:address":"150 Sunnycrest Dr",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 0826",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_726Jp7T8QYkqXidT0p7Ccy_32.433876_-90.123046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129927,
+    "wof:geomhash":"efc500e30465b2e230d9cc23819ac2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857458597
+        }
+    ],
+    "wof:id":857458597,
+    "wof:lastmodified":1464129927,
+    "wof:name":"Xpress Dance Company",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -90.123046,
+    32.433876,
+    -90.123046,
+    32.433876
+],
+  "geometry": {"coordinates":[-90.123046,32.433876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857180679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659192,33.607038,-88.659192,33.607038",
+    "geom:latitude":33.607038,
+    "geom:longitude":-88.659192,
+    "iso:country":"US",
+    "sg:address":"1135 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 4949",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a2pLp0MZlLaKbw8i6zIcX_33.607038_-88.659192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123809,
+    "wof:geomhash":"1592af485a268008c6061b7ab4d9f631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857180679
+        }
+    ],
+    "wof:id":857180679,
+    "wof:lastmodified":1464123809,
+    "wof:name":"Murray & Murray Catering",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -88.659192,
+    33.607038,
+    -88.659192,
+    33.607038
+],
+  "geometry": {"coordinates":[-88.659192,33.607038],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857418809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.773501,32.381934,-90.773501,32.381934",
+    "geom:latitude":32.381934,
+    "geom:longitude":-90.773501,
+    "iso:country":"US",
+    "sg:address":"1890 Freetown Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8824",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sX5vdbg0Ujdow6zzla9BG_32.381934_-90.773501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129074,
+    "wof:geomhash":"f403111c53ac6bfc12181c131e9403a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857418809
+        }
+    ],
+    "wof:id":857418809,
+    "wof:lastmodified":1464129074,
+    "wof:name":"Diversified Transportation",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.773501,
+    32.381934,
+    -90.773501,
+    32.381934
+],
+  "geometry": {"coordinates":[-90.773501,32.381934],"type":"Point"}
+}

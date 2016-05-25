@@ -1,0 +1,75 @@
+{
+  "id": 857266925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571435,34.199933,-90.571435,34.199933",
+    "geom:latitude":34.199933,
+    "geom:longitude":-90.571435,
+    "iso:country":"US",
+    "sg:address":"327 Issaquena Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1891",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sFdKoNA9wRUBzcEMzYZUA_34.199933_-90.571435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125628,
+    "wof:geomhash":"70f7b14eb6efa6ae4e583178536d0e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857266925
+        }
+    ],
+    "wof:id":857266925,
+    "wof:lastmodified":1464125628,
+    "wof:name":"Gates Piano Co",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -90.571435,
+    34.199933,
+    -90.571435,
+    34.199933
+],
+  "geometry": {"coordinates":[-90.57143499999999,34.199933],"type":"Point"}
+}

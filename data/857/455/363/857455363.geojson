@@ -1,0 +1,71 @@
+{
+  "id": 857455363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.687006,32.370929,-88.687006,32.370929",
+    "geom:latitude":32.370929,
+    "geom:longitude":-88.687006,
+    "iso:country":"US",
+    "sg:address":"810 14th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8114",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WfeTzbWesMfmdjtMr5g33_32.370929_-88.687006@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129861,
+    "wof:geomhash":"5c188ffb63ffb13d6493fb8a6276c8fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857455363
+        }
+    ],
+    "wof:id":857455363,
+    "wof:lastmodified":1464129861,
+    "wof:name":"Silver Dollar Pawn Exchange",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -88.687006,
+    32.370929,
+    -88.687006,
+    32.370929
+],
+  "geometry": {"coordinates":[-88.687006,32.370929],"type":"Point"}
+}

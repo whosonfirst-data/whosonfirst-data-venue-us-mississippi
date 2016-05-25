@@ -1,0 +1,75 @@
+{
+  "id": 857458037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301416,31.305847,-89.301416,31.305847",
+    "geom:latitude":31.305847,
+    "geom:longitude":-89.301416,
+    "iso:country":"US",
+    "sg:address":"507 Barry St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 9624",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0batHa2HS81BGulQzcYtXK_31.305847_-89.301416@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129917,
+    "wof:geomhash":"2c9399d262642b7bbb1852605f27a1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857458037
+        }
+    ],
+    "wof:id":857458037,
+    "wof:lastmodified":1464129917,
+    "wof:name":"Simmons Electric",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.301416,
+    31.305847,
+    -89.301416,
+    31.305847
+],
+  "geometry": {"coordinates":[-89.301416,31.305847],"type":"Point"}
+}

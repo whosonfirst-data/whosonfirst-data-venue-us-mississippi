@@ -1,0 +1,68 @@
+{
+  "id": 857231069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.326825,32.332005,-90.326825,32.332005",
+    "geom:latitude":32.332005,
+    "geom:longitude":-90.326825,
+    "iso:country":"US",
+    "sg:address":"470 Springridge Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 2474",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zdDYAPHIgioJjDFBnLeUk_32.332005_-90.326825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124826,
+    "wof:geomhash":"eea5e0f81efeeaa7b973b869e9635246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857231069
+        }
+    ],
+    "wof:id":857231069,
+    "wof:lastmodified":1464124826,
+    "wof:name":"Mc Millan's Deli & Ice Cream",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.326825,
+    32.332005,
+    -90.326825,
+    32.332005
+],
+  "geometry": {"coordinates":[-90.326825,32.332005],"type":"Point"}
+}

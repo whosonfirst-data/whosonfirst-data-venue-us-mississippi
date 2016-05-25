@@ -1,0 +1,71 @@
+{
+  "id": 857470385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.782995,30.538102,-88.782995,30.538102",
+    "geom:latitude":30.538102,
+    "geom:longitude":-88.782995,
+    "iso:country":"US",
+    "sg:address":"13208 Southern Pine Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 5566",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mzJi3RH0XjPQU8cpwr0CJ_30.538102_-88.782995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130178,
+    "wof:geomhash":"c89a987cfe3ef380604e3ea3a3e12c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857470385
+        }
+    ],
+    "wof:id":857470385,
+    "wof:lastmodified":1464130178,
+    "wof:name":"Computer Connections",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -88.782995,
+    30.538102,
+    -88.782995,
+    30.538102
+],
+  "geometry": {"coordinates":[-88.782995,30.538102],"type":"Point"}
+}

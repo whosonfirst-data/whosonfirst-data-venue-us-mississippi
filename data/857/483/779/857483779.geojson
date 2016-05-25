@@ -1,0 +1,78 @@
+{
+  "id": 857483779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.320954,31.31108,-89.320954,31.31108",
+    "geom:latitude":31.31108,
+    "geom:longitude":-89.320954,
+    "iso:country":"US",
+    "sg:address":"2001 Eddy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/182255-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 7705",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ce3i4A6B1A4Rg6TBkiPFP_31.311080_-89.320954@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130442,
+    "wof:geomhash":"a7e73634220e6850e9362b0fcba7c2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857483779
+        }
+    ],
+    "wof:id":857483779,
+    "wof:lastmodified":1464130442,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.320954,
+    31.31108,
+    -89.320954,
+    31.31108
+],
+  "geometry": {"coordinates":[-89.320954,31.31108],"type":"Point"}
+}

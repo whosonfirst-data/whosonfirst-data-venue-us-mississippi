@@ -1,0 +1,75 @@
+{
+  "id": 857413803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429577,33.604339,-88.429577,33.604339",
+    "geom:latitude":33.604339,
+    "geom:longitude":-88.429577,
+    "iso:country":"US",
+    "sg:address":"109 Victor Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 6460",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "gen",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mB5VBlTckpBrOrKRXaQBk_33.604339_-88.429577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128939,
+    "wof:geomhash":"b193f711182ba80fdfa8f657c257967e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857413803
+        }
+    ],
+    "wof:id":857413803,
+    "wof:lastmodified":1464128939,
+    "wof:name":"Raymond Griffin Construction",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "gen",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.429577,
+    33.604339,
+    -88.429577,
+    33.604339
+],
+  "geometry": {"coordinates":[-88.42957699999999,33.604339],"type":"Point"}
+}

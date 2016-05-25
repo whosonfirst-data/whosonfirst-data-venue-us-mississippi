@@ -1,0 +1,73 @@
+{
+  "id": 857171419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816255,30.413281,-88.816255,30.413281",
+    "geom:latitude":30.413281,
+    "geom:longitude":-88.816255,
+    "iso:country":"US",
+    "sg:address":"726 Pine Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 324 9946",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I0IywugSw52Jf4WAdiMEf_30.413281_-88.816255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123615,
+    "wof:geomhash":"a1e33065e52ff086a3bd38c43544f2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857171419
+        }
+    ],
+    "wof:id":857171419,
+    "wof:lastmodified":1464123615,
+    "wof:name":"National Guard Recruiter",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -88.816255,
+    30.413281,
+    -88.816255,
+    30.413281
+],
+  "geometry": {"coordinates":[-88.816255,30.413281],"type":"Point"}
+}

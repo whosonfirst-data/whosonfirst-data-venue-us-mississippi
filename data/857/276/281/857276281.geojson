@@ -1,0 +1,71 @@
+{
+  "id": 857276281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416013,32.843871,-90.416013,32.843871",
+    "geom:latitude":32.843871,
+    "geom:longitude":-90.416013,
+    "iso:country":"US",
+    "sg:address":"203 S Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5141",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ir6DtOBC6dbhySGNLSj03_32.843871_-90.416013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125819,
+    "wof:geomhash":"5ee97dace28d394c13747f81742885a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857276281
+        }
+    ],
+    "wof:id":857276281,
+    "wof:lastmodified":1464125819,
+    "wof:name":"Yazoo County Attorney",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.416013,
+    32.843871,
+    -90.416013,
+    32.843871
+],
+  "geometry": {"coordinates":[-90.41601300000001,32.843871],"type":"Point"}
+}

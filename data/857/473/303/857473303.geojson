@@ -1,0 +1,71 @@
+{
+  "id": 857473303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.798177,33.458927,-88.798177,33.458927",
+    "geom:latitude":33.458927,
+    "geom:longitude":-88.798177,
+    "iso:country":"US",
+    "sg:address":"602 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 9070",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bCJnzNxJNaZUlLtenViYX_33.458927_-88.798177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130243,
+    "wof:geomhash":"7f5f9e6ea6169a3547dbaef9358ae650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857473303
+        }
+    ],
+    "wof:id":857473303,
+    "wof:lastmodified":1464130243,
+    "wof:name":"Krystal Restaurant",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.798177,
+    33.458927,
+    -88.798177,
+    33.458927
+],
+  "geometry": {"coordinates":[-88.798177,33.458927],"type":"Point"}
+}

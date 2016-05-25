@@ -1,0 +1,71 @@
+{
+  "id": 857083007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.144025,32.222849,-90.144025,32.222849",
+    "geom:latitude":32.222849,
+    "geom:longitude":-90.144025,
+    "iso:country":"US",
+    "sg:address":"169 Lakeshore Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 372 7171",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MD128VwXlRHtyf8Ymztyr_32.222849_-90.144025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121486,
+    "wof:geomhash":"b6ca0d9825276ab568ae56291c9cd9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857083007
+        }
+    ],
+    "wof:id":857083007,
+    "wof:lastmodified":1464121486,
+    "wof:name":"McAfees Auto Repair Aarons",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.144025,
+    32.222849,
+    -90.144025,
+    32.222849
+],
+  "geometry": {"coordinates":[-90.144025,32.222849],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857104223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.544929,30.366418,-88.544929,30.366418",
+    "geom:latitude":30.366418,
+    "geom:longitude":-88.544929,
+    "iso:country":"US",
+    "sg:address":"1777 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1258",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ifbAqX0ckM1GHZpHinv9s_30.366418_-88.544929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122010,
+    "wof:geomhash":"e503cceb20f7049ca0d6d0f19edad818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857104223
+        }
+    ],
+    "wof:id":857104223,
+    "wof:lastmodified":1464122010,
+    "wof:name":"Communications Engrg Svcs",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -88.544929,
+    30.366418,
+    -88.544929,
+    30.366418
+],
+  "geometry": {"coordinates":[-88.544929,30.366418],"type":"Point"}
+}

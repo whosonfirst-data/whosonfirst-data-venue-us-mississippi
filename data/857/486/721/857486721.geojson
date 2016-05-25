@@ -1,0 +1,80 @@
+{
+  "id": 857486721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569835,34.199203,-90.569835,34.199203",
+    "geom:latitude":34.199203,
+    "geom:longitude":-90.569835,
+    "iso:country":"US",
+    "sg:address":"409 Martin Luther King Blvd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 645 5634",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j9rqQw41NACHiakLEKakC_34.199203_-90.569835@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130498,
+    "wof:geomhash":"bf117c1b01cf733847c513bfafd45f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486721
+        }
+    ],
+    "wof:id":857486721,
+    "wof:lastmodified":1464130498,
+    "wof:name":"Word Of God Christian Min",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -90.569835,
+    34.199203,
+    -90.569835,
+    34.199203
+],
+  "geometry": {"coordinates":[-90.569835,34.199203],"type":"Point"}
+}

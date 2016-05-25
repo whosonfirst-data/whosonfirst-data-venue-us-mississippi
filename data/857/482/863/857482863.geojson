@@ -1,0 +1,76 @@
+{
+  "id": 857482863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.207954,32.33537,-90.207954,32.33537",
+    "geom:latitude":32.33537,
+    "geom:longitude":-90.207954,
+    "iso:country":"US",
+    "sg:address":"3280 Medgar Evers Blvd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/champion-hill/13142-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 1620",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H18PtCi9gravIkg4Vn5EP_32.335370_-90.207954@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130426,
+    "wof:geomhash":"8846f30f342d97f076f567729eb8c3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857482863
+        }
+    ],
+    "wof:id":857482863,
+    "wof:lastmodified":1464130426,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -90.207954,
+    32.33537,
+    -90.207954,
+    32.33537
+],
+  "geometry": {"coordinates":[-90.207954,32.33537],"type":"Point"}
+}

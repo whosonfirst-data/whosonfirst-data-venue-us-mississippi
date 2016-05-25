@@ -1,0 +1,66 @@
+{
+  "id": 857491167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.699577,32.40937,-88.699577,32.40937",
+    "geom:latitude":32.40937,
+    "geom:longitude":-88.699577,
+    "iso:country":"US",
+    "sg:address":"2100 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 5835",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZjZwfYijVcAV1OhBRaT9G_32.409370_-88.699577@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130624,
+    "wof:geomhash":"d139db7b729bdab5e5e8487cb30e1394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491167
+        }
+    ],
+    "wof:id":857491167,
+    "wof:lastmodified":1464130624,
+    "wof:name":"Express Lane",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.699577,
+    32.40937,
+    -88.699577,
+    32.40937
+],
+  "geometry": {"coordinates":[-88.69957700000001,32.40937],"type":"Point"}
+}

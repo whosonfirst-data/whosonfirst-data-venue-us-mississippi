@@ -1,0 +1,71 @@
+{
+  "id": 857432741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693332,32.389074,-88.693332,32.389074",
+    "geom:latitude":32.389074,
+    "geom:longitude":-88.693332,
+    "iso:country":"US",
+    "sg:address":"2862 14th Pl",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 1508",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tPF8KmuLqkBeFeB9bTmTJ_32.389074_-88.693332@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129420,
+    "wof:geomhash":"bf5888f2356eab5bf6eb8b774fcbc230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857432741
+        }
+    ],
+    "wof:id":857432741,
+    "wof:lastmodified":1464129420,
+    "wof:name":"Anns Alterations",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alteration"
+    ]
+},
+  "bbox": [
+    -88.693332,
+    32.389074,
+    -88.693332,
+    32.389074
+],
+  "geometry": {"coordinates":[-88.693332,32.389074],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857253095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539946,30.343857,-88.539946,30.343857",
+    "geom:latitude":30.343857,
+    "geom:longitude":-88.539946,
+    "iso:country":"US",
+    "sg:address":"2205 Beach Blvd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2404",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dining",
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ad9z0El7JdmyxLn1wCMzS_30.343857_-88.539946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125323,
+    "wof:geomhash":"9b3efc335e258b7e853ba8a3e5cf6b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857253095
+        }
+    ],
+    "wof:id":857253095,
+    "wof:lastmodified":1464125323,
+    "wof:name":"Matthews Downtown",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dining",
+        "fine"
+    ]
+},
+  "bbox": [
+    -88.539946,
+    30.343857,
+    -88.539946,
+    30.343857
+],
+  "geometry": {"coordinates":[-88.539946,30.343857],"type":"Point"}
+}

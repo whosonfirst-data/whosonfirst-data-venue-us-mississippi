@@ -1,0 +1,71 @@
+{
+  "id": 857084761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.222425,30.412238,-89.222425,30.412238",
+    "geom:latitude":30.412238,
+    "geom:longitude":-89.222425,
+    "iso:country":"US",
+    "sg:address":"23044 Meaut Rd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 255 3668",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MGAG3SlziV3hnx19FvWJh_30.412238_-89.222425@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121524,
+    "wof:geomhash":"1f70ae5d4a18b2544a8f6c4e07b042af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857084761
+        }
+    ],
+    "wof:id":857084761,
+    "wof:lastmodified":1464121524,
+    "wof:name":"A B C Welding Fabrication",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.222425,
+    30.412238,
+    -89.222425,
+    30.412238
+],
+  "geometry": {"coordinates":[-89.222425,30.412238],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857472819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.431061,33.489587,-88.431061,33.489587",
+    "geom:latitude":33.489587,
+    "geom:longitude":-88.431061,
+    "iso:country":"US",
+    "sg:address":"602 S 2nd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5608",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hearing",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ToUL5Ky99opsIDpQJPM1N_33.489587_-88.431061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130233,
+    "wof:geomhash":"5e087a983593a1a75d0224ad49b6a01b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857472819
+        }
+    ],
+    "wof:id":857472819,
+    "wof:lastmodified":1464130233,
+    "wof:name":"Mary Sisson",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -88.431061,
+    33.489587,
+    -88.431061,
+    33.489587
+],
+  "geometry": {"coordinates":[-88.431061,33.489587],"type":"Point"}
+}

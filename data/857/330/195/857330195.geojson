@@ -1,0 +1,67 @@
+{
+  "id": 857330195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.320192,33.445896,-88.320192,33.445896",
+    "geom:latitude":33.445896,
+    "geom:longitude":-88.320192,
+    "iso:country":"US",
+    "sg:address":"199 Enlow Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3801",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:website":"www.lowndes.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QUzdcFHFTIbrqUSF1bW37_33.445896_-88.320192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127058,
+    "wof:geomhash":"5a0305009fa34c3b7bb8b0aa297c04c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857330195
+        }
+    ],
+    "wof:id":857330195,
+    "wof:lastmodified":1464127058,
+    "wof:name":"New Hope Elementary School",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.320192,
+    33.445896,
+    -88.320192,
+    33.445896
+],
+  "geometry": {"coordinates":[-88.32019200000001,33.445896],"type":"Point"}
+}

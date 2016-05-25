@@ -1,0 +1,75 @@
+{
+  "id": 857358717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133251,32.263403,-90.133251,32.263403",
+    "geom:latitude":32.263403,
+    "geom:longitude":-90.133251,
+    "iso:country":"US",
+    "sg:address":"461 S Pearson Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 0052",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zWARHDjChLqXqYXkXBgO3_32.263403_-90.133251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127673,
+    "wof:geomhash":"1ffce14b3dc73c78ddadab386fdd2e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857358717
+        }
+    ],
+    "wof:id":857358717,
+    "wof:lastmodified":1464127673,
+    "wof:name":"Chevron Interstate Stations",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.133251,
+    32.263403,
+    -90.133251,
+    32.263403
+],
+  "geometry": {"coordinates":[-90.133251,32.263403],"type":"Point"}
+}

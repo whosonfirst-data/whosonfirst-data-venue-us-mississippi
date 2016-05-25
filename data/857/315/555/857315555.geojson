@@ -1,0 +1,73 @@
+{
+  "id": 857315555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.954924,30.438106,-88.954924,30.438106",
+    "geom:latitude":30.438106,
+    "geom:longitude":-88.954924,
+    "iso:country":"US",
+    "sg:address":"1990 Popps Ferry Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 374 6060",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eQJDN2h1i1Pb3OxMzsc9p_30.438106_-88.954924@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126732,
+    "wof:geomhash":"a80dd491b17cfe93f0da23296e0b7330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857315555
+        }
+    ],
+    "wof:id":857315555,
+    "wof:lastmodified":1464126732,
+    "wof:name":"Murphy-Cochran Chiropractic",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.954924,
+    30.438106,
+    -88.954924,
+    30.438106
+],
+  "geometry": {"coordinates":[-88.95492400000001,30.438106],"type":"Point"}
+}

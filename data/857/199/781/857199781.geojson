@@ -1,0 +1,69 @@
+{
+  "id": 857199781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510066,34.381415,-89.510066,34.381415",
+    "geom:latitude":34.381415,
+    "geom:longitude":-89.510066,
+    "iso:country":"US",
+    "sg:address":"1350 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 238 7787",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DIG179xBJ6M8nO4HDqLzz_34.381415_-89.510066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124172,
+    "wof:geomhash":"f2125ccd97c09219ffcddc2950a236f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857199781
+        }
+    ],
+    "wof:id":857199781,
+    "wof:lastmodified":1464124172,
+    "wof:name":"Serenity Funeral Home",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -89.510066,
+    34.381415,
+    -89.510066,
+    34.381415
+],
+  "geometry": {"coordinates":[-89.51006599999999,34.381415],"type":"Point"}
+}

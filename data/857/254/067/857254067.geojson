@@ -1,0 +1,73 @@
+{
+  "id": 857254067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19515,32.312023,-90.19515,32.312023",
+    "geom:latitude":32.312023,
+    "geom:longitude":-90.19515,
+    "iso:country":"US",
+    "sg:address":"925 Martin Luther King Jr Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 5161",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gd5B8gn4fF71PmgCTYIDx_32.312023_-90.195150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125347,
+    "wof:geomhash":"ca4a77447d872c4f224fc413264a5b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857254067
+        }
+    ],
+    "wof:id":857254067,
+    "wof:lastmodified":1464125347,
+    "wof:name":"Jackson Free Clinic",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.19515,
+    32.312023,
+    -90.19515,
+    32.312023
+],
+  "geometry": {"coordinates":[-90.19515,32.312023],"type":"Point"}
+}

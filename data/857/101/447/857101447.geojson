@@ -1,0 +1,73 @@
+{
+  "id": 857101447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.376764,31.389101,-89.376764,31.389101",
+    "geom:latitude":31.389101,
+    "geom:longitude":-89.376764,
+    "iso:country":"US",
+    "sg:address":"7355 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 2648",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "farm",
+        "implement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DBWD7XleoVWFSvtrQqJAz_31.389101_-89.376764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121950,
+    "wof:geomhash":"05725b3e3746b9952f3aa98dc0e6f974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857101447
+        }
+    ],
+    "wof:id":857101447,
+    "wof:lastmodified":1464121950,
+    "wof:name":"Mauldin Company",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "implement"
+    ]
+},
+  "bbox": [
+    -89.376764,
+    31.389101,
+    -89.376764,
+    31.389101
+],
+  "geometry": {"coordinates":[-89.37676399999999,31.389101],"type":"Point"}
+}

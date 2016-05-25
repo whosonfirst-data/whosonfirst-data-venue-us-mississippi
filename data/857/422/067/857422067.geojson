@@ -1,0 +1,77 @@
+{
+  "id": 857422067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.103932,30.500015,-89.103932,30.500015",
+    "geom:latitude":30.500015,
+    "geom:longitude":-89.103932,
+    "iso:country":"US",
+    "sg:address":"15307 N Swan Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 5949",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970257,
+        102087223,
+        85831733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uMtoyUEQjhadwInwt0M6P_30.500015_-89.103932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129152,
+    "wof:geomhash":"d2679255e9b5b3adb81a9ce8db710885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85970257,
+            "neighbourhood_id":85831733,
+            "region_id":85688579,
+            "venue_id":857422067
+        }
+    ],
+    "wof:id":857422067,
+    "wof:lastmodified":1464129152,
+    "wof:name":"Conn Electric Co Inc",
+    "wof:parent_id":85831733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.103932,
+    30.500015,
+    -89.103932,
+    30.500015
+],
+  "geometry": {"coordinates":[-89.103932,30.500015],"type":"Point"}
+}

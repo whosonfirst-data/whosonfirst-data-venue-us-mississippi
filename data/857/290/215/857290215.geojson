@@ -1,0 +1,81 @@
+{
+  "id": 857290215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.822164,30.416243,-88.822164,30.416243",
+    "geom:latitude":30.416243,
+    "geom:longitude":-88.822164,
+    "iso:country":"US",
+    "sg:address":"1307 US Hwy 90",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5899",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tr",
+        "truck",
+        "operator",
+        "local",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l8vGxhdm2TpUBEg998Jr7_30.416243_-88.822164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126153,
+    "wof:geomhash":"5e037810ec332ae749b8664f057480f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857290215
+        }
+    ],
+    "wof:id":857290215,
+    "wof:lastmodified":1464126153,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tr",
+        "truck",
+        "operator",
+        "local",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -88.822164,
+    30.416243,
+    -88.822164,
+    30.416243
+],
+  "geometry": {"coordinates":[-88.822164,30.416243],"type":"Point"}
+}

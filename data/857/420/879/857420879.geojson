@@ -1,0 +1,89 @@
+{
+  "id": 857420879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.146736,32.333053,-90.146736,32.333053",
+    "geom:latitude":32.333053,
+    "geom:longitude":-90.146736,
+    "iso:country":"US",
+    "sg:address":"1640 Lelia Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 1155",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mfr",
+        "rep",
+        "provides",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XHDdJUZHzeeB7Ko2Vi465_32.333053_-90.146736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129125,
+    "wof:geomhash":"e894aeb217bf68829104a599fea6bb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857420879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857420879
+        }
+    ],
+    "wof:id":857420879,
+    "wof:lastmodified":1464129125,
+    "wof:name":"CCS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfr",
+        "rep",
+        "provides",
+        "software"
+    ]
+},
+  "bbox": [
+    -90.146736,
+    32.333053,
+    -90.146736,
+    32.333053
+],
+  "geometry": {"coordinates":[-90.146736,32.333053],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857341667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.837839,30.413095,-88.837839,30.413095",
+    "geom:latitude":30.413095,
+    "geom:longitude":-88.837839,
+    "iso:country":"US",
+    "sg:address":"310 Porter St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 2011",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ERd8Tp0JlE2hIPxFf0NAU_30.413095_-88.837839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127309,
+    "wof:geomhash":"f5eab92f7f6cbb176860fb7061a4dd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857341667
+        }
+    ],
+    "wof:id":857341667,
+    "wof:lastmodified":1464127309,
+    "wof:name":"Insight Institute",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -88.837839,
+    30.413095,
+    -88.837839,
+    30.413095
+],
+  "geometry": {"coordinates":[-88.837839,30.413095],"type":"Point"}
+}

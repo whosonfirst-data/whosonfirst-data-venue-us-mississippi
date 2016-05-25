@@ -1,0 +1,71 @@
+{
+  "id": 857267581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.52865,30.3772,-88.52865,30.3772",
+    "geom:latitude":30.3772,
+    "geom:longitude":-88.52865,
+    "iso:country":"US",
+    "sg:address":"3445 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0121",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iTG3hC6Rgg3c1BSchlGJz_30.377200_-88.528650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125640,
+    "wof:geomhash":"b6a27399433b2022bb2b0c999165e843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857267581
+        }
+    ],
+    "wof:id":857267581,
+    "wof:lastmodified":1464125640,
+    "wof:name":"Aarons Rental Purchase",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.52865,
+    30.3772,
+    -88.52865,
+    30.3772
+],
+  "geometry": {"coordinates":[-88.52865,30.3772],"type":"Point"}
+}

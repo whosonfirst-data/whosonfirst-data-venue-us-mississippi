@@ -1,0 +1,71 @@
+{
+  "id": 857458405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683379,34.243189,-88.683379,34.243189",
+    "geom:latitude":34.243189,
+    "geom:longitude":-88.683379,
+    "iso:country":"US",
+    "sg:address":"812 S Canal St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0741",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63XAZgmSq23OkTkyWWLB4T_34.243189_-88.683379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129924,
+    "wof:geomhash":"a037a5bb33e67bbd812c9cebb511ca87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857458405
+        }
+    ],
+    "wof:id":857458405,
+    "wof:lastmodified":1464129924,
+    "wof:name":"Tupelo Masonic Hall",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -88.683379,
+    34.243189,
+    -88.683379,
+    34.243189
+],
+  "geometry": {"coordinates":[-88.683379,34.243189],"type":"Point"}
+}

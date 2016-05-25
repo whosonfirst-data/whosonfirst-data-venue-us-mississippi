@@ -1,0 +1,73 @@
+{
+  "id": 857109311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.186496,32.287534,-90.186496,32.287534",
+    "geom:latitude":32.287534,
+    "geom:longitude":-90.186496,
+    "iso:country":"US",
+    "sg:address":"1010 S West St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 7196",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m4OKR585cftRTggV7Uzld_32.287534_-90.186496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122132,
+    "wof:geomhash":"5307cc83e9167f76ca2ae71780a6ee1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857109311
+        }
+    ],
+    "wof:id":857109311,
+    "wof:lastmodified":1464122132,
+    "wof:name":"Mid-South Accessories",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.186496,
+    32.287534,
+    -90.186496,
+    32.287534
+],
+  "geometry": {"coordinates":[-90.18649600000001,32.287534],"type":"Point"}
+}

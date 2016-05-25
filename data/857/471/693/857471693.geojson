@@ -1,0 +1,71 @@
+{
+  "id": 857471693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.517034,32.477044,-88.517034,32.477044",
+    "geom:latitude":32.477044,
+    "geom:longitude":-88.517034,
+    "iso:country":"US",
+    "sg:address":"3678 Kay Dr",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 632 1810",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X2aliR9qAtlaHg92JDtiy_32.477044_-88.517034@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130209,
+    "wof:geomhash":"695d503474306f3aff0a719675ca47f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857471693
+        }
+    ],
+    "wof:id":857471693,
+    "wof:lastmodified":1464130209,
+    "wof:name":"Anchor Inn",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.517034,
+    32.477044,
+    -88.517034,
+    32.477044
+],
+  "geometry": {"coordinates":[-88.517034,32.477044],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857140667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685177,34.228105,-88.685177,34.228105",
+    "geom:latitude":34.228105,
+    "geom:longitude":-88.685177,
+    "iso:country":"US",
+    "sg:address":"1955 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 6046",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UIzQMqpyxqoBRwAwDveRd_34.228105_-88.685177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122908,
+    "wof:geomhash":"273651f691f1e6e677371da6f44c1bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857140667
+        }
+    ],
+    "wof:id":857140667,
+    "wof:lastmodified":1464122908,
+    "wof:name":"Mississippi National Guard",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -88.685177,
+    34.228105,
+    -88.685177,
+    34.228105
+],
+  "geometry": {"coordinates":[-88.685177,34.228105],"type":"Point"}
+}

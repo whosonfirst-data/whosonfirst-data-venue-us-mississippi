@@ -1,0 +1,73 @@
+{
+  "id": 857424913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.352161,33.463677,-88.352161,33.463677",
+    "geom:latitude":33.463677,
+    "geom:longitude":-88.352161,
+    "iso:country":"US",
+    "sg:address":"2396 Yorkville Rd E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2085",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aEnbUH6vG6TFVftQDfQOH_33.463677_-88.352161@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129221,
+    "wof:geomhash":"fb68d401cdbae556b7b1e80b16df06e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857424913
+        }
+    ],
+    "wof:id":857424913,
+    "wof:lastmodified":1464129221,
+    "wof:name":"D & L Maintenance",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.352161,
+    33.463677,
+    -88.352161,
+    33.463677
+],
+  "geometry": {"coordinates":[-88.352161,33.463677],"type":"Point"}
+}

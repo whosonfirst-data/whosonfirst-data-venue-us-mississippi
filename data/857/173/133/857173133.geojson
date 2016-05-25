@@ -1,0 +1,76 @@
+{
+  "id": 857173133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.288452,33.658332,-88.288452,33.658332",
+    "geom:latitude":33.658332,
+    "geom:longitude":-88.288452,
+    "iso:country":"US",
+    "sg:address":"1189 Dodson Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6523",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Cu4FuYbti6dAGRQNlT9B_33.658332_-88.288452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123659,
+    "wof:geomhash":"e0b4a7706a31df7259702a7ba41263ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857173133
+        }
+    ],
+    "wof:id":857173133,
+    "wof:lastmodified":1464123659,
+    "wof:name":"Hollingsworth Auction Co",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -88.288452,
+    33.658332,
+    -88.288452,
+    33.658332
+],
+  "geometry": {"coordinates":[-88.28845200000001,33.658332],"type":"Point"}
+}

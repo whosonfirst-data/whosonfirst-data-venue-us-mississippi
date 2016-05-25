@@ -1,0 +1,71 @@
+{
+  "id": 857218431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.523113,34.367412,-89.523113,34.367412",
+    "geom:latitude":34.367412,
+    "geom:longitude":-89.523113,
+    "iso:country":"US",
+    "sg:address":"818 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2903",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44rklpwmqWTvwEM0rNRnf5_34.367412_-89.523113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124584,
+    "wof:geomhash":"1131aae4f57270bfa6e0e385f1639c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857218431
+        }
+    ],
+    "wof:id":857218431,
+    "wof:lastmodified":1464124584,
+    "wof:name":"Rebel Bookstore",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.523113,
+    34.367412,
+    -89.523113,
+    34.367412
+],
+  "geometry": {"coordinates":[-89.523113,34.367412],"type":"Point"}
+}

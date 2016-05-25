@@ -1,0 +1,69 @@
+{
+  "id": 857361149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86517,32.270032,-90.86517,32.270032",
+    "geom:latitude":32.270032,
+    "geom:longitude":-90.86517,
+    "iso:country":"US",
+    "sg:address":"1790 Fisher Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 7042",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PDkX1lXJFKiJEMfBWSxC1_32.270032_-90.865170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127725,
+    "wof:geomhash":"a22937e3b7ac7d98a2994bba21791dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857361149
+        }
+    ],
+    "wof:id":857361149,
+    "wof:lastmodified":1464127725,
+    "wof:name":"Ridgeway Townhouses",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.86517,
+    32.270032,
+    -90.86517,
+    32.270032
+],
+  "geometry": {"coordinates":[-90.86517000000001,32.270032],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857439561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512567,34.363146,-89.512567,34.363146",
+    "geom:latitude":34.363146,
+    "geom:longitude":-89.512567,
+    "iso:country":"US",
+    "sg:address":"1733 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4668",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yxPX1dymjpBSa99Vd2a4z_34.363146_-89.512567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129563,
+    "wof:geomhash":"89b6da98ab6580e32cde253c7cc6fd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857439561
+        }
+    ],
+    "wof:id":857439561,
+    "wof:lastmodified":1464129563,
+    "wof:name":"Oxford Electrolysis Clinic",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.512567,
+    34.363146,
+    -89.512567,
+    34.363146
+],
+  "geometry": {"coordinates":[-89.512567,34.363146],"type":"Point"}
+}

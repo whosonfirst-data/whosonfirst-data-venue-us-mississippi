@@ -1,0 +1,73 @@
+{
+  "id": 857173917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.335532,31.334137,-89.335532,31.334137",
+    "geom:latitude":31.334137,
+    "geom:longitude":-89.335532,
+    "iso:country":"US",
+    "sg:address":"602 N 31st Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 0633",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lJvtWhoEMQaqLJCHTdugW_31.334137_-89.335532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123674,
+    "wof:geomhash":"9db79b11712ef20b03eb9ba8666d0a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857173917
+        }
+    ],
+    "wof:id":857173917,
+    "wof:lastmodified":1464123674,
+    "wof:name":"Blainewood Oaks Apartments",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.335532,
+    31.334137,
+    -89.335532,
+    31.334137
+],
+  "geometry": {"coordinates":[-89.335532,31.334137],"type":"Point"}
+}

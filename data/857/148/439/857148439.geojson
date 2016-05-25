@@ -1,0 +1,66 @@
+{
+  "id": 857148439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.725602,34.223731,-88.725602,34.223731",
+    "geom:latitude":34.223731,
+    "geom:longitude":-88.725602,
+    "iso:country":"US",
+    "sg:address":"928 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9960",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lQ6xTIcUpze6AyP3B6Tz6_34.223731_-88.725602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123110,
+    "wof:geomhash":"5222dcac59229b13c96d0f774c2f1964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857148439
+        }
+    ],
+    "wof:id":857148439,
+    "wof:lastmodified":1464123110,
+    "wof:name":"Sugar Shack Bar & Grill",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.725602,
+    34.223731,
+    -88.725602,
+    34.223731
+],
+  "geometry": {"coordinates":[-88.72560199999999,34.223731],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857116123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.24817,30.314043,-89.24817,30.314043",
+    "geom:latitude":30.314043,
+    "geom:longitude":-89.24817,
+    "iso:country":"US",
+    "sg:address":"126 W Scenic Dr",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9399",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "breakfast",
+        "inn",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CzNHKmsZkpT5OLz1qQnQd_30.314043_-89.248170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122350,
+    "wof:geomhash":"2482b5698bfe17a190f3a9f2e6067cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857116123
+        }
+    ],
+    "wof:id":857116123,
+    "wof:lastmodified":1464122350,
+    "wof:name":"Harbour Oaks Inn",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "inn",
+        "bed"
+    ]
+},
+  "bbox": [
+    -89.24817,
+    30.314043,
+    -89.24817,
+    30.314043
+],
+  "geometry": {"coordinates":[-89.24817,30.314043],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857274411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.412525,32.847017,-90.412525,32.847017",
+    "geom:latitude":32.847017,
+    "geom:longitude":-90.412525,
+    "iso:country":"US",
+    "sg:address":"129 N Washington St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1680",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yLu6oMoxJ9EmGaNwaOz7m_32.847017_-90.412525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125779,
+    "wof:geomhash":"919549387257093435037ef50c0635cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857274411
+        }
+    ],
+    "wof:id":857274411,
+    "wof:lastmodified":1464125779,
+    "wof:name":"St Mary's Catholic Church",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.412525,
+    32.847017,
+    -90.412525,
+    32.847017
+],
+  "geometry": {"coordinates":[-90.412525,32.847017],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857186111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222721,32.35601,-90.222721,32.35601",
+    "geom:latitude":32.35601,
+    "geom:longitude":-90.222721,
+    "iso:country":"US",
+    "sg:address":"4503 Methodist Farm Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 7686",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85838363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19YQe7aolmJQS4l1rBvUly_32.356010_-90.222721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123917,
+    "wof:geomhash":"4f533c27822308e840f9f7bd3a92848a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85838363,
+            "region_id":85688579,
+            "venue_id":857186111
+        }
+    ],
+    "wof:id":857186111,
+    "wof:lastmodified":1464123917,
+    "wof:name":"Quality Auto",
+    "wof:parent_id":85838363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.222721,
+    32.35601,
+    -90.222721,
+    32.35601
+],
+  "geometry": {"coordinates":[-90.22272100000001,32.35601],"type":"Point"}
+}

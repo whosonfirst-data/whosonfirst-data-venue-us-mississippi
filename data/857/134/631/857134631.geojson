@@ -1,0 +1,73 @@
+{
+  "id": 857134631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.35562,31.321404,-89.35562,31.321404",
+    "geom:latitude":31.321404,
+    "geom:longitude":-89.35562,
+    "iso:country":"US",
+    "sg:address":"2006 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2370",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970275,
+        102083775,
+        85851769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hx1bwxEIOvZ3lGk6pRSXI_31.321404_-89.355620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122775,
+    "wof:geomhash":"8f6fb4b86b119f7e06b56086972c4487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85970275,
+            "neighbourhood_id":85851769,
+            "region_id":85688579,
+            "venue_id":857134631
+        }
+    ],
+    "wof:id":857134631,
+    "wof:lastmodified":1464122775,
+    "wof:name":"Holiday Apartments",
+    "wof:parent_id":85851769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.35562,
+    31.321404,
+    -89.35562,
+    31.321404
+],
+  "geometry": {"coordinates":[-89.35562,31.321404],"type":"Point"}
+}

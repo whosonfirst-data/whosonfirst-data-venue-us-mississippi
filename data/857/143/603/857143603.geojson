@@ -1,0 +1,66 @@
+{
+  "id": 857143603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.418711,32.854344,-90.418711,32.854344",
+    "geom:latitude":32.854344,
+    "geom:longitude":-90.418711,
+    "iso:country":"US",
+    "sg:address":"640 W 2nd St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3848",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yLDaQhPwbZBKntUXcaaPI_32.854344_-90.418711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122984,
+    "wof:geomhash":"235eaebc82c402aa068d4d3c363ade1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857143603
+        }
+    ],
+    "wof:id":857143603,
+    "wof:lastmodified":1464122984,
+    "wof:name":"In The Groove Beauty Salon",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.418711,
+    32.854344,
+    -90.418711,
+    32.854344
+],
+  "geometry": {"coordinates":[-90.418711,32.854344],"type":"Point"}
+}

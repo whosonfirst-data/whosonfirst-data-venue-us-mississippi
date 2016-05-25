@@ -1,0 +1,75 @@
+{
+  "id": 857438419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.050108,30.449616,-89.050108,30.449616",
+    "geom:latitude":30.449616,
+    "geom:longitude":-89.050108,
+    "iso:country":"US",
+    "sg:address":"12493 Dedeaux Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 1866",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gORWfRQhqoUdj5LkQnuj9_30.449616_-89.050108@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129535,
+    "wof:geomhash":"8460d3909414c23b03b6c60b4b4633e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857438419
+        }
+    ],
+    "wof:id":857438419,
+    "wof:lastmodified":1464129535,
+    "wof:name":"Murphy Electric",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.050108,
+    30.449616,
+    -89.050108,
+    30.449616
+],
+  "geometry": {"coordinates":[-89.05010799999999,30.449616],"type":"Point"}
+}

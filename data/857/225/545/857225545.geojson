@@ -1,0 +1,73 @@
+{
+  "id": 857225545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530581,30.362702,-88.530581,30.362702",
+    "geom:latitude":30.362702,
+    "geom:longitude":-88.530581,
+    "iso:country":"US",
+    "sg:address":"2816 Eden St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7970",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q8cs2MIwPQQgXc7zAD7d1_30.362702_-88.530581@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124722,
+    "wof:geomhash":"8d2aebd7ea7f07a1d234d13856df4949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857225545
+        }
+    ],
+    "wof:id":857225545,
+    "wof:lastmodified":1464124722,
+    "wof:name":"Lodge Apartments The",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.530581,
+    30.362702,
+    -88.530581,
+    30.362702
+],
+  "geometry": {"coordinates":[-88.530581,30.362702],"type":"Point"}
+}

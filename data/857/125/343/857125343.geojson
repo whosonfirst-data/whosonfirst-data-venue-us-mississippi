@@ -1,0 +1,71 @@
+{
+  "id": 857125343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.292758,31.283686,-89.292758,31.283686",
+    "geom:latitude":31.283686,
+    "geom:longitude":-89.292758,
+    "iso:country":"US",
+    "sg:address":"35 P D Freeman Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0161",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TOgl4hVK0FV5r0ZBEmhJM_31.283686_-89.292758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122576,
+    "wof:geomhash":"c40e7000fcf243b5d71470c7b03eee98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857125343
+        }
+    ],
+    "wof:id":857125343,
+    "wof:lastmodified":1464122576,
+    "wof:name":"Central Baptist School",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -89.292758,
+    31.283686,
+    -89.292758,
+    31.283686
+],
+  "geometry": {"coordinates":[-89.29275800000001,31.283686],"type":"Point"}
+}

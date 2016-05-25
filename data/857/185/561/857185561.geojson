@@ -1,0 +1,75 @@
+{
+  "id": 857185561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302588,31.340457,-89.302588,31.340457",
+    "geom:latitude":31.340457,
+    "geom:longitude":-89.302588,
+    "iso:country":"US",
+    "sg:address":"1525 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 7029",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "general",
+        "sup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W9k0o700lfUa7H6VJLo6d_31.340457_-89.302588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123908,
+    "wof:geomhash":"f1df49969b7ed1da56fe140851ced238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857185561
+        }
+    ],
+    "wof:id":857185561,
+    "wof:lastmodified":1464123908,
+    "wof:name":"Bells Central Battery North",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general",
+        "sup"
+    ]
+},
+  "bbox": [
+    -89.302588,
+    31.340457,
+    -89.302588,
+    31.340457
+],
+  "geometry": {"coordinates":[-89.302588,31.340457],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857482795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.148163,32.355776,-90.148163,32.355776",
+    "geom:latitude":32.355776,
+    "geom:longitude":-90.148163,
+    "iso:country":"US",
+    "sg:address":"1305 E Northside Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/jackson/37450-julep-restaurant--bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 1411",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mPAS0jqdaeU3qqcPbEixa_32.355776_-90.148163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130424,
+    "wof:geomhash":"a5bf2f6137e07b9a53fc3707a6d00ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857482795
+        }
+    ],
+    "wof:id":857482795,
+    "wof:lastmodified":1464130424,
+    "wof:name":"Julep Restaurant & Bar",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.148163,
+    32.355776,
+    -90.148163,
+    32.355776
+],
+  "geometry": {"coordinates":[-90.148163,32.355776],"type":"Point"}
+}

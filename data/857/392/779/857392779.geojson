@@ -1,0 +1,71 @@
+{
+  "id": 857392779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651154,33.621655,-88.651154,33.621655",
+    "geom:latitude":33.621655,
+    "geom:longitude":-88.651154,
+    "iso:country":"US",
+    "sg:address":"130 Dunlap Rd",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4256",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x4pnRh1u448LgAqqPZtHu_33.621655_-88.651154@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128479,
+    "wof:geomhash":"bcd2d27b2fce063df02871082c5a5f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857392779
+        }
+    ],
+    "wof:id":857392779,
+    "wof:lastmodified":1464128479,
+    "wof:name":"West Point Fire Dept",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.651154,
+    33.621655,
+    -88.651154,
+    33.621655
+],
+  "geometry": {"coordinates":[-88.65115400000001,33.621655],"type":"Point"}
+}

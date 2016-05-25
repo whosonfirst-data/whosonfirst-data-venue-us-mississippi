@@ -1,0 +1,77 @@
+{
+  "id": 857487377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573806,34.191251,-90.573806,34.191251",
+    "geom:latitude":34.191251,
+    "geom:longitude":-90.573806,
+    "iso:country":"US",
+    "sg:address":"434 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 1634",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chicken"
+    ],
+    "sg:website":"http://www.kfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G9xeIGoK5KrnGIsicV3sK_34.191251_-90.573806@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130514,
+    "wof:geomhash":"4404ebb7357dc63016c05e0c92857bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487377
+        }
+    ],
+    "wof:id":857487377,
+    "wof:lastmodified":1464130514,
+    "wof:name":"KFC",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.573806,
+    34.191251,
+    -90.573806,
+    34.191251
+],
+  "geometry": {"coordinates":[-90.573806,34.191251],"type":"Point"}
+}

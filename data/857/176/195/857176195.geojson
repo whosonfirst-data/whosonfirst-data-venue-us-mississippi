@@ -1,0 +1,75 @@
+{
+  "id": 857176195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.65464,33.479329,-88.65464,33.479329",
+    "geom:latitude":33.479329,
+    "geom:longitude":-88.65464,
+    "iso:country":"US",
+    "sg:address":"663 S Frontage Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 0900",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "training",
+        "module",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGGmrpIZhlRFHKchuXtIX_33.479329_-88.654640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123718,
+    "wof:geomhash":"74b39beb97f8a2436c3d55870a06828f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857176195
+        }
+    ],
+    "wof:id":857176195,
+    "wof:lastmodified":1464123718,
+    "wof:name":"Future Tek Inc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "module",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.65464,
+    33.479329,
+    -88.65464,
+    33.479329
+],
+  "geometry": {"coordinates":[-88.65464,33.479329],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 857396591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.139279,32.333895,-90.139279,32.333895",
+    "geom:latitude":32.333895,
+    "geom:longitude":-90.139279,
+    "iso:country":"US",
+    "sg:address":"1865 Lakeland Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 0059",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m8h4qGFXT3bSdcKUBmtwj_32.333895_-90.139279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128561,
+    "wof:geomhash":"a34d5ba96bedc39a9197f0cc6fcee6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857396591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857396591
+        }
+    ],
+    "wof:id":857396591,
+    "wof:lastmodified":1464128561,
+    "wof:name":"Mossy Oak Properties LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.139279,
+    32.333895,
+    -90.139279,
+    32.333895
+],
+  "geometry": {"coordinates":[-90.139279,32.333895],"type":"Point"}
+}

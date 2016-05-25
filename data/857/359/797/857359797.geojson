@@ -1,0 +1,75 @@
+{
+  "id": 857359797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.139501,32.480678,-90.139501,32.480678",
+    "geom:latitude":32.480678,
+    "geom:longitude":-90.139501,
+    "iso:country":"US",
+    "sg:address":"109 Devereaux Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 6977",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KUJmVHZ7luTF7bZXHA9lx_32.480678_-90.139501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127693,
+    "wof:geomhash":"e818c90f990a610abfb6c2c7c7cf1d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857359797
+        }
+    ],
+    "wof:id":857359797,
+    "wof:lastmodified":1464127693,
+    "wof:name":"Russell Enterprises LLC",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.139501,
+    32.480678,
+    -90.139501,
+    32.480678
+],
+  "geometry": {"coordinates":[-90.139501,32.480678],"type":"Point"}
+}

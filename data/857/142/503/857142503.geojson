@@ -1,0 +1,68 @@
+{
+  "id": 857142503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.942214,30.393639,-88.942214,30.393639",
+    "geom:latitude":30.393639,
+    "geom:longitude":-88.942214,
+    "iso:country":"US",
+    "sg:address":"1753 Beach Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 432 2575",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sfHPr09gD4VMZWHXUn5TM_30.393639_-88.942214@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122952,
+    "wof:geomhash":"82e6897bb63f76527cc31e3e451a1523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857142503
+        }
+    ],
+    "wof:id":857142503,
+    "wof:lastmodified":1464122952,
+    "wof:name":"Mario The Baker Pizza",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.942214,
+    30.393639,
+    -88.942214,
+    30.393639
+],
+  "geometry": {"coordinates":[-88.94221400000001,30.393639],"type":"Point"}
+}

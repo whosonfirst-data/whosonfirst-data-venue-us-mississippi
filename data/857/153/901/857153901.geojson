@@ -1,0 +1,71 @@
+{
+  "id": 857153901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.735956,34.223565,-88.735956,34.223565",
+    "geom:latitude":34.223565,
+    "geom:longitude":-88.735956,
+    "iso:country":"US",
+    "sg:address":"1052 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 5201",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UXLRmbjbqbsZCcUHk2huF_34.223565_-88.735956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123224,
+    "wof:geomhash":"e2366655339a7de9f9673b88fca1ab0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857153901
+        }
+    ],
+    "wof:id":857153901,
+    "wof:lastmodified":1464123224,
+    "wof:name":"Satellites Unlimited Inc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -88.735956,
+    34.223565,
+    -88.735956,
+    34.223565
+],
+  "geometry": {"coordinates":[-88.735956,34.223565],"type":"Point"}
+}

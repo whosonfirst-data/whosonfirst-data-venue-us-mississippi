@@ -1,0 +1,73 @@
+{
+  "id": 857190669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415454,32.84805,-90.415454,32.84805",
+    "geom:latitude":32.84805,
+    "geom:longitude":-90.415454,
+    "iso:country":"US",
+    "sg:address":"204 W Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7085",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJa5jKXERMw4OakfEGHlU_32.848050_-90.415454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124000,
+    "wof:geomhash":"7c1f910bbca21cd81faa2ce2d35ac7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857190669
+        }
+    ],
+    "wof:id":857190669,
+    "wof:lastmodified":1464124000,
+    "wof:name":"Jr Food Market",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.415454,
+    32.84805,
+    -90.415454,
+    32.84805
+],
+  "geometry": {"coordinates":[-90.415454,32.84805],"type":"Point"}
+}

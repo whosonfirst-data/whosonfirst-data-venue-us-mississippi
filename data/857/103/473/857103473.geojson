@@ -1,0 +1,71 @@
+{
+  "id": 857103473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.80576,30.411785,-88.80576,30.411785",
+    "geom:latitude":30.411785,
+    "geom:longitude":-88.80576,
+    "iso:country":"US",
+    "sg:address":"916 Bechtel Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0703",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aaHokW5yjYuI6G9ydzngb_30.411785_-88.805760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121992,
+    "wof:geomhash":"4e5a78e891f75e06055fa3f25f3fb439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857103473
+        }
+    ],
+    "wof:id":857103473,
+    "wof:lastmodified":1464121992,
+    "wof:name":"Flowers By Karen Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.80576,
+    30.411785,
+    -88.80576,
+    30.411785
+],
+  "geometry": {"coordinates":[-88.80576000000001,30.411785],"type":"Point"}
+}

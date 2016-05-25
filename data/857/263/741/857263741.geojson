@@ -1,0 +1,87 @@
+{
+  "id": 857263741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.138261,32.333624,-90.138261,32.333624",
+    "geom:latitude":32.333624,
+    "geom:longitude":-90.138261,
+    "iso:country":"US",
+    "sg:address":"2600 Insurance Center Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 2927",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "computer",
+        "graphics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tBz1mGldmJZiuQ39nc1JP_32.333624_-90.138261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125569,
+    "wof:geomhash":"93a15e27952dfd093ab1141ba6dc47b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857263741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857263741
+        }
+    ],
+    "wof:id":857263741,
+    "wof:lastmodified":1464125569,
+    "wof:name":"Byers Engineering Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "computer",
+        "graphics"
+    ]
+},
+  "bbox": [
+    -90.138261,
+    32.333624,
+    -90.138261,
+    32.333624
+],
+  "geometry": {"coordinates":[-90.138261,32.333624],"type":"Point"}
+}

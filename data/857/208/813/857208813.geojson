@@ -1,0 +1,73 @@
+{
+  "id": 857208813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509613,34.362449,-89.509613,34.362449",
+    "geom:latitude":34.362449,
+    "geom:longitude":-89.509613,
+    "iso:country":"US",
+    "sg:address":"1901 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8288",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BG1gA4RE1eEj2JU4FDCxt_34.362449_-89.509613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124366,
+    "wof:geomhash":"34fa3377d9eaf419d5dd7c2f22fbe7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857208813
+        }
+    ],
+    "wof:id":857208813,
+    "wof:lastmodified":1464124366,
+    "wof:name":"Autozone 300",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -89.509613,
+    34.362449,
+    -89.509613,
+    34.362449
+],
+  "geometry": {"coordinates":[-89.509613,34.362449],"type":"Point"}
+}

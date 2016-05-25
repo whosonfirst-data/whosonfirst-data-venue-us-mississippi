@@ -1,0 +1,73 @@
+{
+  "id": 857318551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.556675,32.506856,-88.556675,32.506856",
+    "geom:latitude":32.506856,
+    "geom:longitude":-88.556675,
+    "iso:country":"US",
+    "sg:address":"9395 Hwy 45 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 8221",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zrFVNsBlmnbUAd8pspGD6_32.506856_-88.556675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126822,
+    "wof:geomhash":"5731ed304e8bb489b7b44ec5a3cb5fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857318551
+        }
+    ],
+    "wof:id":857318551,
+    "wof:lastmodified":1464126822,
+    "wof:name":"Pritchett Septic Tank System",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.556675,
+    32.506856,
+    -88.556675,
+    32.506856
+],
+  "geometry": {"coordinates":[-88.556675,32.506856],"type":"Point"}
+}

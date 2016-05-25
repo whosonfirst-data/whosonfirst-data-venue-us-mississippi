@@ -1,0 +1,71 @@
+{
+  "id": 857349997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.281168,31.327534,-89.281168,31.327534",
+    "geom:latitude":31.327534,
+    "geom:longitude":-89.281168,
+    "iso:country":"US",
+    "sg:address":"1000 Jennie Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0677",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TEbxHLXZMfyWJWsseYPDN_31.327534_-89.281168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127485,
+    "wof:geomhash":"004ae500ccb94881fabc4aea02d04533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857349997
+        }
+    ],
+    "wof:id":857349997,
+    "wof:lastmodified":1464127485,
+    "wof:name":"Magee Temple Church Of God",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.281168,
+    31.327534,
+    -89.281168,
+    31.327534
+],
+  "geometry": {"coordinates":[-89.28116799999999,31.327534],"type":"Point"}
+}

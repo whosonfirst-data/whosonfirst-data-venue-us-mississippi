@@ -1,0 +1,71 @@
+{
+  "id": 857189797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.603501,32.515453,-88.603501,32.515453",
+    "geom:latitude":32.515453,
+    "geom:longitude":-88.603501,
+    "iso:country":"US",
+    "sg:address":"1611 Frederickson Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 1143",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xEPlP4QDVMAARrnKVESxt_32.515453_-88.603501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123987,
+    "wof:geomhash":"af0120d092c94c70571e2919df953576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857189797
+        }
+    ],
+    "wof:id":857189797,
+    "wof:lastmodified":1464123987,
+    "wof:name":"Carry On Hvac Services",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.603501,
+    32.515453,
+    -88.603501,
+    32.515453
+],
+  "geometry": {"coordinates":[-88.60350099999999,32.515453],"type":"Point"}
+}

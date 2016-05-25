@@ -1,0 +1,75 @@
+{
+  "id": 857158553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180093,32.294795,-90.180093,32.294795",
+    "geom:latitude":32.294795,
+    "geom:longitude":-90.180093,
+    "iso:country":"US",
+    "sg:address":"615 Court St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 6600",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beverage",
+        "dispensing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hq539gnBHZEdxYmPkuQL2_32.294795_-90.180093@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123317,
+    "wof:geomhash":"e7062843dd57c3a7bc6fe6c775e9d436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857158553
+        }
+    ],
+    "wof:id":857158553,
+    "wof:lastmodified":1464123317,
+    "wof:name":"Byrd's Beverage Equipment Svc",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "dispensing"
+    ]
+},
+  "bbox": [
+    -90.180093,
+    32.294795,
+    -90.180093,
+    32.294795
+],
+  "geometry": {"coordinates":[-90.180093,32.294795],"type":"Point"}
+}

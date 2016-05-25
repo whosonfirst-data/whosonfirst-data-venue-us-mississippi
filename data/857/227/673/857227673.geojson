@@ -1,0 +1,84 @@
+{
+  "id": 857227673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.559862,30.357432,-88.559862,30.357432",
+    "geom:latitude":30.357432,
+    "geom:longitude":-88.559862,
+    "iso:country":"US",
+    "sg:address":"2116 Canty St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2994",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "house",
+        "contractor",
+        "electrical",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gzltntW5PRCi8kPX3UzrI_30.357432_-88.559862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124765,
+    "wof:geomhash":"ca8245d8210babda393460c9854a683b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857227673
+        }
+    ],
+    "wof:id":857227673,
+    "wof:lastmodified":1464124765,
+    "wof:name":"Overby Electrical Service",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "house",
+        "contractor",
+        "electrical",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -88.559862,
+    30.357432,
+    -88.559862,
+    30.357432
+],
+  "geometry": {"coordinates":[-88.559862,30.357432],"type":"Point"}
+}

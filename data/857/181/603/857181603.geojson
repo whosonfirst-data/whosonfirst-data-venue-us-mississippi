@@ -1,0 +1,77 @@
+{
+  "id": 857181603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.085664,32.483019,-90.085664,32.483019",
+    "geom:latitude":32.483019,
+    "geom:longitude":-90.085664,
+    "iso:country":"US",
+    "sg:address":"323 Sundial Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 0455",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kmMJ2Z1wL47epVC6lgo8e_32.483019_-90.085664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123827,
+    "wof:geomhash":"6f5eeaad1b543232dac5ade8257ff312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857181603
+        }
+    ],
+    "wof:id":857181603,
+    "wof:lastmodified":1464123827,
+    "wof:name":"Layman Exploration",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -90.085664,
+    32.483019,
+    -90.085664,
+    32.483019
+],
+  "geometry": {"coordinates":[-90.08566399999999,32.483019],"type":"Point"}
+}

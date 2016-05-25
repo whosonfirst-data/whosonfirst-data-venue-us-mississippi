@@ -1,0 +1,73 @@
+{
+  "id": 857420695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.627699,33.608899,-88.627699,33.608899",
+    "geom:latitude":33.608899,
+    "geom:longitude":-88.627699,
+    "iso:country":"US",
+    "sg:address":"157 N Jackson St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9459",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30v2SaLoUmayQunCdnjYLQ_33.608899_-88.627699@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129117,
+    "wof:geomhash":"2c59d8987c9873d51afb0129e69c5664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857420695
+        }
+    ],
+    "wof:id":857420695,
+    "wof:lastmodified":1464129117,
+    "wof:name":"Gene's",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.627699,
+    33.608899,
+    -88.627699,
+    33.608899
+],
+  "geometry": {"coordinates":[-88.62769900000001,33.608899],"type":"Point"}
+}

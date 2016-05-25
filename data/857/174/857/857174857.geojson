@@ -1,0 +1,73 @@
+{
+  "id": 857174857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.257613,31.346707,-89.257613,31.346707",
+    "geom:latitude":31.346707,
+    "geom:longitude":-89.257613,
+    "iso:country":"US",
+    "sg:address":"219 Hwy 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 4306",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PzFoluyDI95on5e5B1CTh_31.346707_-89.257613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123690,
+    "wof:geomhash":"be74589ea603126eedbbcb4bbf4512d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857174857
+        }
+    ],
+    "wof:id":857174857,
+    "wof:lastmodified":1464123690,
+    "wof:name":"Mailing Place",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -89.257613,
+    31.346707,
+    -89.257613,
+    31.346707
+],
+  "geometry": {"coordinates":[-89.25761300000001,31.346707],"type":"Point"}
+}

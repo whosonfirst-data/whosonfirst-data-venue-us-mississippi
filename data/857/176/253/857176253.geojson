@@ -1,0 +1,78 @@
+{
+  "id": 857176253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.098646,30.458518,-89.098646,30.458518",
+    "geom:latitude":30.458518,
+    "geom:longitude":-89.098646,
+    "iso:country":"US",
+    "sg:address":"15382 Saint Charles St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 5300",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71El9iz634HJLE3plWtzy2_30.458518_-89.098646@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123720,
+    "wof:geomhash":"2c61a3014b11bd54aef45c90ee0de2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857176253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857176253
+        }
+    ],
+    "wof:id":857176253,
+    "wof:lastmodified":1464123720,
+    "wof:name":"Segraves Gerald W Dr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.098646,
+    30.458518,
+    -89.098646,
+    30.458518
+],
+  "geometry": {"coordinates":[-89.098646,30.458518],"type":"Point"}
+}

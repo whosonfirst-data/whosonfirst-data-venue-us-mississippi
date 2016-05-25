@@ -1,0 +1,71 @@
+{
+  "id": 857200285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.306873,31.40518,-89.306873,31.40518",
+    "geom:latitude":31.40518,
+    "geom:longitude":-89.306873,
+    "iso:country":"US",
+    "sg:address":"113 McPhail Rd",
+    "sg:city":"Prentiss",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 792 8334",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FCQSCWwztaJJDfA0DTR5f_31.405180_-89.306873@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124181,
+    "wof:geomhash":"b99ca21cbad5d73a99d8d4f21e85e8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857200285
+        }
+    ],
+    "wof:id":857200285,
+    "wof:lastmodified":1464124181,
+    "wof:name":"American Pluming",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.306873,
+    31.40518,
+    -89.306873,
+    31.40518
+],
+  "geometry": {"coordinates":[-89.306873,31.40518],"type":"Point"}
+}

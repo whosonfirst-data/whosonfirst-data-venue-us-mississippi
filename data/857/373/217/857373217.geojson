@@ -1,0 +1,75 @@
+{
+  "id": 857373217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414019,32.82793,-90.414019,32.82793",
+    "geom:latitude":32.82793,
+    "geom:longitude":-90.414019,
+    "iso:country":"US",
+    "sg:address":"4765 Judkins Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2064",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FTX0CZy9oDrQHXrfj1TnC_32.827930_-90.414019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127975,
+    "wof:geomhash":"ed1998ab44dcfb7289b05a525cee7ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857373217
+        }
+    ],
+    "wof:id":857373217,
+    "wof:lastmodified":1464127975,
+    "wof:name":"Mississippi Mobile Glass",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -90.414019,
+    32.82793,
+    -90.414019,
+    32.82793
+],
+  "geometry": {"coordinates":[-90.414019,32.82793],"type":"Point"}
+}

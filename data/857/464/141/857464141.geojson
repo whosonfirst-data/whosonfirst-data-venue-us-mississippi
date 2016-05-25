@@ -1,0 +1,71 @@
+{
+  "id": 857464141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.304996,31.315643,-89.304996,31.315643",
+    "geom:latitude":31.315643,
+    "geom:longitude":-89.304996,
+    "iso:country":"US",
+    "sg:address":"1310 Corinne St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9100",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_393fUlx0hlfFSNUmYEEtbG_31.315643_-89.304996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130040,
+    "wof:geomhash":"8de038a2cfb6d8de55409e572007fda0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857464141
+        }
+    ],
+    "wof:id":857464141,
+    "wof:lastmodified":1464130040,
+    "wof:name":"SRW Property Investment",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.304996,
+    31.315643,
+    -89.304996,
+    31.315643
+],
+  "geometry": {"coordinates":[-89.304996,31.315643],"type":"Point"}
+}

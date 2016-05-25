@@ -1,0 +1,75 @@
+{
+  "id": 857124015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.767202,30.368122,-88.767202,30.368122",
+    "geom:latitude":30.368122,
+    "geom:longitude":-88.767202,
+    "iso:country":"US",
+    "sg:address":"1717 Sandpiper Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4405",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sSet45q3bDI2NKVb0XYBq_30.368122_-88.767202@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122550,
+    "wof:geomhash":"7427924e7cf052d934bc35322713f40d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857124015
+        }
+    ],
+    "wof:id":857124015,
+    "wof:lastmodified":1464122550,
+    "wof:name":"Trevco Carpet Cleaning",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -88.767202,
+    30.368122,
+    -88.767202,
+    30.368122
+],
+  "geometry": {"coordinates":[-88.767202,30.368122],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857314227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575569,34.204969,-90.575569,34.204969",
+    "geom:latitude":34.204969,
+    "geom:longitude":-90.575569,
+    "iso:country":"US",
+    "sg:address":"105 Court St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1703",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19j9dp5fngijhRBeCqMANy_34.204969_-90.575569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126708,
+    "wof:geomhash":"f8233b2ed2a7eb5d4dfb0541b31bcf15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857314227
+        }
+    ],
+    "wof:id":857314227,
+    "wof:lastmodified":1464126708,
+    "wof:name":"East Oxford Mini Storage",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.575569,
+    34.204969,
+    -90.575569,
+    34.204969
+],
+  "geometry": {"coordinates":[-90.575569,34.204969],"type":"Point"}
+}

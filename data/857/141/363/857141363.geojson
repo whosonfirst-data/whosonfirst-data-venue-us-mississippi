@@ -1,0 +1,71 @@
+{
+  "id": 857141363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567293,34.210655,-90.567293,34.210655",
+    "geom:latitude":34.210655,
+    "geom:longitude":-90.567293,
+    "iso:country":"US",
+    "sg:address":"211 Russell St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 628 8045",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L0DHrgNwf2flAOJto0ZhH_34.210655_-90.567293@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122923,
+    "wof:geomhash":"9feb8722fc3c0fe3ed6df140f74370ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857141363
+        }
+    ],
+    "wof:id":857141363,
+    "wof:lastmodified":1464122923,
+    "wof:name":"HSI Telecom Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.567293,
+    34.210655,
+    -90.567293,
+    34.210655
+],
+  "geometry": {"coordinates":[-90.56729300000001,34.210655],"type":"Point"}
+}

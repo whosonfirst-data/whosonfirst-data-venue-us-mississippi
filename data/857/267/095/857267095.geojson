@@ -1,0 +1,73 @@
+{
+  "id": 857267095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.191561,32.350256,-90.191561,32.350256",
+    "geom:latitude":32.350256,
+    "geom:longitude":-90.191561,
+    "iso:country":"US",
+    "sg:address":"3032 Bishop Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 8101",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59z94b0vopgjoizx7M0Lo1_32.350256_-90.191561@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125631,
+    "wof:geomhash":"da5a7fc7a2816da7aaeb949485f75b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857267095
+        }
+    ],
+    "wof:id":857267095,
+    "wof:lastmodified":1464125631,
+    "wof:name":"Institutional AME Church",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.191561,
+    32.350256,
+    -90.191561,
+    32.350256
+],
+  "geometry": {"coordinates":[-90.19156099999999,32.350256],"type":"Point"}
+}

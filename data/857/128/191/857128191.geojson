@@ -1,0 +1,75 @@
+{
+  "id": 857128191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.034673,32.272274,-90.034673,32.272274",
+    "geom:latitude":32.272274,
+    "geom:longitude":-90.034673,
+    "iso:country":"US",
+    "sg:address":"24101 Majesty Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 9333",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DiWH3srURhoYtxzw9KuYX_32.272274_-90.034673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122631,
+    "wof:geomhash":"158ce8c2e9c9ea910f72ac9464dc17ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857128191
+        }
+    ],
+    "wof:id":857128191,
+    "wof:lastmodified":1464122631,
+    "wof:name":"Noble's Piano Svc",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -90.034673,
+    32.272274,
+    -90.034673,
+    32.272274
+],
+  "geometry": {"coordinates":[-90.034673,32.272274],"type":"Point"}
+}

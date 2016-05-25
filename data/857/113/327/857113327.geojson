@@ -1,0 +1,73 @@
+{
+  "id": 857113327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.433996,32.843389,-90.433996,32.843389",
+    "geom:latitude":32.843389,
+    "geom:longitude":-90.433996,
+    "iso:country":"US",
+    "sg:address":"800 S Industrial Pkwy",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 3009",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13skh16vEXjHEZ2DegPAFW_32.843389_-90.433996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122263,
+    "wof:geomhash":"a51db93f31d1e2ddaadde6049b005639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857113327
+        }
+    ],
+    "wof:id":857113327,
+    "wof:lastmodified":1464122263,
+    "wof:name":"Us Technology Corp",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -90.433996,
+    32.843389,
+    -90.433996,
+    32.843389
+],
+  "geometry": {"coordinates":[-90.43399599999999,32.843389],"type":"Point"}
+}

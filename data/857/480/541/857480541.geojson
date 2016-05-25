@@ -1,0 +1,74 @@
+{
+  "id": 857480541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509415,34.362655,-89.509415,34.362655",
+    "geom:latitude":34.362655,
+    "geom:longitude":-89.509415,
+    "iso:country":"US",
+    "sg:address":"1900 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hickory-flat/211996-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3800",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y5Uaciv7xghHIISFiQ6DU_34.362655_-89.509415@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130379,
+    "wof:geomhash":"5eb4dbb737015e15192e75dab83e3051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857480541
+        }
+    ],
+    "wof:id":857480541,
+    "wof:lastmodified":1464130379,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.509415,
+    34.362655,
+    -89.509415,
+    34.362655
+],
+  "geometry": {"coordinates":[-89.509415,34.362655],"type":"Point"}
+}

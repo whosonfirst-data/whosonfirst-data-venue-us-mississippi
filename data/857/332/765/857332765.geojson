@@ -1,0 +1,75 @@
+{
+  "id": 857332765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.974879,30.395698,-88.974879,30.395698",
+    "geom:latitude":30.395698,
+    "geom:longitude":-88.974879,
+    "iso:country":"US",
+    "sg:address":"2300 Oakwood Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 594 2199",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O7ZuQfBiB2ZclRLg5pZIC_30.395698_-88.974879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127120,
+    "wof:geomhash":"f7a579aed21685767cdceea9c78a4569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857332765
+        }
+    ],
+    "wof:id":857332765,
+    "wof:lastmodified":1464127120,
+    "wof:name":"N Bank",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -88.974879,
+    30.395698,
+    -88.974879,
+    30.395698
+],
+  "geometry": {"coordinates":[-88.974879,30.395698],"type":"Point"}
+}

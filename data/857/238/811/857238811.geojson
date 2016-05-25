@@ -1,0 +1,79 @@
+{
+  "id": 857238811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.359079,31.28211,-89.359079,31.28211",
+    "geom:latitude":31.28211,
+    "geom:longitude":-89.359079,
+    "iso:country":"US",
+    "sg:address":"126 Somerset Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 6933",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85820027,
+        102083775,
+        85969939,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m4LPSWGEnsihVbqfG5Lqo_31.282110_-89.359079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124978,
+    "wof:geomhash":"6d0e4dd4db396ca955eacc95b9ff9e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85820027,
+            "region_id":85688579,
+            "venue_id":857238811
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857238811
+        }
+    ],
+    "wof:id":857238811,
+    "wof:lastmodified":1464124978,
+    "wof:name":"Soberoski Consulting LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -89.359079,
+    31.28211,
+    -89.359079,
+    31.28211
+],
+  "geometry": {"coordinates":[-89.35907899999999,31.28211],"type":"Point"}
+}

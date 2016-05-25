@@ -1,0 +1,66 @@
+{
+  "id": 857332109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.250329,30.314604,-89.250329,30.314604",
+    "geom:latitude":30.314604,
+    "geom:longitude":-89.250329,
+    "iso:country":"US",
+    "sg:address":"111 Hiern Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 4596",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FL5KDpSgtvMwLWnv9ZnwU_30.314604_-89.250329@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127103,
+    "wof:geomhash":"64bd42e158bcf3a73c77488cad03d843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857332109
+        }
+    ],
+    "wof:id":857332109,
+    "wof:lastmodified":1464127103,
+    "wof:name":"Pass Christian Public Library",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.250329,
+    30.314604,
+    -89.250329,
+    30.314604
+],
+  "geometry": {"coordinates":[-89.25032899999999,30.314604],"type":"Point"}
+}

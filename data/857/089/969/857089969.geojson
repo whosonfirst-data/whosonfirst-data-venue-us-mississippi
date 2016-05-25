@@ -1,0 +1,71 @@
+{
+  "id": 857089969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.836437,32.331543,-90.836437,32.331543",
+    "geom:latitude":32.331543,
+    "geom:longitude":-90.836437,
+    "iso:country":"US",
+    "sg:address":"1300 Old Hwy 27",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 7700",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nYh1gHjdx3PNMNd58fu0O_32.331543_-90.836437@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121674,
+    "wof:geomhash":"227632f48c0ec60a142012bdd3596bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857089969
+        }
+    ],
+    "wof:id":857089969,
+    "wof:lastmodified":1464121674,
+    "wof:name":"Moss Construction Co",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.836437,
+    32.331543,
+    -90.836437,
+    32.331543
+],
+  "geometry": {"coordinates":[-90.836437,32.331543],"type":"Point"}
+}

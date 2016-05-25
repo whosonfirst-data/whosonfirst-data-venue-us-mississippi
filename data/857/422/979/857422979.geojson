@@ -1,0 +1,71 @@
+{
+  "id": 857422979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.260792,31.3458,-89.260792,31.3458",
+    "geom:latitude":31.3458,
+    "geom:longitude":-89.260792,
+    "iso:country":"US",
+    "sg:address":"111 Morris St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7755",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08vv9XViOnmFE6tg8cZ3gF_31.345800_-89.260792@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129167,
+    "wof:geomhash":"72705395097501f7fec037301162ae82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857422979
+        }
+    ],
+    "wof:id":857422979,
+    "wof:lastmodified":1464129167,
+    "wof:name":"Elwood William S MD",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.260792,
+    31.3458,
+    -89.260792,
+    31.3458
+],
+  "geometry": {"coordinates":[-89.260792,31.3458],"type":"Point"}
+}

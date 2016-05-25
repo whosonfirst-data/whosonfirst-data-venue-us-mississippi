@@ -1,0 +1,75 @@
+{
+  "id": 857093071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.635305,30.389245,-88.635305,30.389245",
+    "geom:latitude":30.389245,
+    "geom:longitude":-88.635305,
+    "iso:country":"US",
+    "sg:address":"1616 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 0064",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mz4AMrxRjjz5kjeZ7wtV4_30.389245_-88.635305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121753,
+    "wof:geomhash":"d5d10db3f4eee38fc9772984f54087d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857093071
+        }
+    ],
+    "wof:id":857093071,
+    "wof:lastmodified":1464121753,
+    "wof:name":"Thomas Transmission & Automoti",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.635305,
+    30.389245,
+    -88.635305,
+    30.389245
+],
+  "geometry": {"coordinates":[-88.635305,30.389245],"type":"Point"}
+}

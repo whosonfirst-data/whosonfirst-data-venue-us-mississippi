@@ -1,0 +1,66 @@
+{
+  "id": 857436265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.326232,33.683058,-88.326232,33.683058",
+    "geom:latitude":33.683058,
+    "geom:longitude":-88.326232,
+    "iso:country":"US",
+    "sg:address":"650 Main St",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6497",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qyYTBDUJDho90nlX5Ahe1_33.683058_-88.326232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129495,
+    "wof:geomhash":"dc8ace1f4b640c6e3cdff0b6416e18ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857436265
+        }
+    ],
+    "wof:id":857436265,
+    "wof:lastmodified":1464129495,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.326232,
+    33.683058,
+    -88.326232,
+    33.683058
+],
+  "geometry": {"coordinates":[-88.326232,33.683058],"type":"Point"}
+}

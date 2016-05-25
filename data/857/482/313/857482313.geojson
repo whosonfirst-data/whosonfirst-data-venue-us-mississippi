@@ -1,0 +1,74 @@
+{
+  "id": 857482313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.867426,32.331937,-90.867426,32.331937",
+    "geom:latitude":32.331937,
+    "geom:longitude":-90.867426,
+    "iso:country":"US",
+    "sg:address":"3060 Indiana Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/vicksburg/133023-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 0138",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61yXZdJ0N6niitQFlNBswM_32.331937_-90.867426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130415,
+    "wof:geomhash":"58578ea0453a59a87d42b789042e45b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857482313
+        }
+    ],
+    "wof:id":857482313,
+    "wof:lastmodified":1464130415,
+    "wof:name":"Subway",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.867426,
+    32.331937,
+    -90.867426,
+    32.331937
+],
+  "geometry": {"coordinates":[-90.86742599999999,32.331937],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857407297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.097981,30.390249,-89.097981,30.390249",
+    "geom:latitude":30.390249,
+    "geom:longitude":-89.097981,
+    "iso:country":"US",
+    "sg:address":"2800 33rd St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 6602",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zbgr78TRYTdu7vjNlif6P_30.390249_-89.097981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128778,
+    "wof:geomhash":"95525eba75aad3fa07f8a76dd6c31ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857407297
+        }
+    ],
+    "wof:id":857407297,
+    "wof:lastmodified":1464128778,
+    "wof:name":"Motor Ways Inc",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.097981,
+    30.390249,
+    -89.097981,
+    30.390249
+],
+  "geometry": {"coordinates":[-89.097981,30.390249],"type":"Point"}
+}

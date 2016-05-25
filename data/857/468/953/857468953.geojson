@@ -1,0 +1,73 @@
+{
+  "id": 857468953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.333115,32.322645,-90.333115,32.322645",
+    "geom:latitude":32.322645,
+    "geom:longitude":-90.333115,
+    "iso:country":"US",
+    "sg:address":"312 Camp Garaway Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 7034",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "camp",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5igXrzuPFs0qgFLBmXgjN1_32.322645_-90.333115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130149,
+    "wof:geomhash":"c6abd6b9f36dc357de2714ba8427cede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857468953
+        }
+    ],
+    "wof:id":857468953,
+    "wof:lastmodified":1464130149,
+    "wof:name":"Camp Garaywa",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "religious"
+    ]
+},
+  "bbox": [
+    -90.333115,
+    32.322645,
+    -90.333115,
+    32.322645
+],
+  "geometry": {"coordinates":[-90.33311500000001,32.322645],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857083693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.420681,31.302237,-89.420681,31.302237",
+    "geom:latitude":31.302237,
+    "geom:longitude":-89.420681,
+    "iso:country":"US",
+    "sg:address":"21 Dunleith Ct",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 8785",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ap6vqblUAeh2b8Jp8dYKP_31.302237_-89.420681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121504,
+    "wof:geomhash":"84e0af2b13ef558c899f61c1b682d3de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857083693
+        }
+    ],
+    "wof:id":857083693,
+    "wof:lastmodified":1464121504,
+    "wof:name":"Premier Lawn & Landscape",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "care"
+    ]
+},
+  "bbox": [
+    -89.420681,
+    31.302237,
+    -89.420681,
+    31.302237
+],
+  "geometry": {"coordinates":[-89.420681,31.302237],"type":"Point"}
+}

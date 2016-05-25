@@ -1,0 +1,73 @@
+{
+  "id": 857125567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.030534,30.396408,-89.030534,30.396408",
+    "geom:latitude":30.396408,
+    "geom:longitude":-89.030534,
+    "iso:country":"US",
+    "sg:address":"767 Watkins Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 897 1000",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G3A6Rm7Z8cAYgtEdw7VoU_30.396408_-89.030534@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122580,
+    "wof:geomhash":"ee121ce20d87829e7c9f639fbd45239e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857125567
+        }
+    ],
+    "wof:id":857125567,
+    "wof:lastmodified":1464122580,
+    "wof:name":"Handsboro Cleaners & Tailors",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.030534,
+    30.396408,
+    -89.030534,
+    30.396408
+],
+  "geometry": {"coordinates":[-89.030534,30.396408],"type":"Point"}
+}

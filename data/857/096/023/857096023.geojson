@@ -1,0 +1,71 @@
+{
+  "id": 857096023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.321828,33.499747,-88.321828,33.499747",
+    "geom:latitude":33.499747,
+    "geom:longitude":-88.321828,
+    "iso:country":"US",
+    "sg:address":"1429 Phillips Hill Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4429",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dW0tCmuF10Am8FGG6IlQa_33.499747_-88.321828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121813,
+    "wof:geomhash":"515a1bc221fcdddf00b83025fe266118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857096023
+        }
+    ],
+    "wof:id":857096023,
+    "wof:lastmodified":1464121813,
+    "wof:name":"P & D Electric",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.321828,
+    33.499747,
+    -88.321828,
+    33.499747
+],
+  "geometry": {"coordinates":[-88.321828,33.499747],"type":"Point"}
+}

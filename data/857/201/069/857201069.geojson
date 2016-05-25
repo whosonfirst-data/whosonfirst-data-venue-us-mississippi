@@ -1,0 +1,73 @@
+{
+  "id": 857201069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.458584,30.421744,-88.458584,30.421744",
+    "geom:latitude":30.421744,
+    "geom:longitude":-88.458584,
+    "iso:country":"US",
+    "sg:address":"8401 Old Stage Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 5555",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cOp6zWcF7di00uCUWNU2i_30.421744_-88.458584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124195,
+    "wof:geomhash":"6b80d79928f4922ea8188c45457b4560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857201069
+        }
+    ],
+    "wof:id":857201069,
+    "wof:lastmodified":1464124195,
+    "wof:name":"M & Z Auto Salvage",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -88.458584,
+    30.421744,
+    -88.458584,
+    30.421744
+],
+  "geometry": {"coordinates":[-88.458584,30.421744],"type":"Point"}
+}

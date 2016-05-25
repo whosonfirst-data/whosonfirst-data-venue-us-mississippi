@@ -1,0 +1,71 @@
+{
+  "id": 857362633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.401006,32.856686,-90.401006,32.856686",
+    "geom:latitude":32.856686,
+    "geom:longitude":-90.401006,
+    "iso:country":"US",
+    "sg:address":"728 E 8th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 0033",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JkM26ClhspIzm4oSMjSv7_32.856686_-90.401006@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127755,
+    "wof:geomhash":"6fc1177336541a6e9840e4d825bbe708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857362633
+        }
+    ],
+    "wof:id":857362633,
+    "wof:lastmodified":1464127755,
+    "wof:name":"Outer Limit Club",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -90.401006,
+    32.856686,
+    -90.401006,
+    32.856686
+],
+  "geometry": {"coordinates":[-90.401006,32.856686],"type":"Point"}
+}

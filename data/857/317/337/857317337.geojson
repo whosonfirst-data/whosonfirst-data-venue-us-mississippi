@@ -1,0 +1,73 @@
+{
+  "id": 857317337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.515744,34.374159,-89.515744,34.374159",
+    "geom:latitude":34.374159,
+    "geom:longitude":-89.515744,
+    "iso:country":"US",
+    "sg:address":"713 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 0222",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MBrOpZxKEKDMLlqTV8rWA_34.374159_-89.515744@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126778,
+    "wof:geomhash":"3e325a6eccdcfb6865ea2f0d9de1dfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857317337
+        }
+    ],
+    "wof:id":857317337,
+    "wof:lastmodified":1464126778,
+    "wof:name":"Gone Fishin",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.515744,
+    34.374159,
+    -89.515744,
+    34.374159
+],
+  "geometry": {"coordinates":[-89.515744,34.374159],"type":"Point"}
+}

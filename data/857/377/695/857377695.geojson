@@ -1,0 +1,66 @@
+{
+  "id": 857377695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.517703,30.380334,-88.517703,30.380334",
+    "geom:latitude":30.380334,
+    "geom:longitude":-88.517703,
+    "iso:country":"US",
+    "sg:address":"4317 Nathan Hale Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 1900",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMXzWnWyyAEbrRjizeo46_30.380334_-88.517703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128070,
+    "wof:geomhash":"7c4264df9b92a0adc15bb7fb41307951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857377695
+        }
+    ],
+    "wof:id":857377695,
+    "wof:lastmodified":1464128070,
+    "wof:name":"Lake View Mini Mart",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.517703,
+    30.380334,
+    -88.517703,
+    30.380334
+],
+  "geometry": {"coordinates":[-88.517703,30.380334],"type":"Point"}
+}

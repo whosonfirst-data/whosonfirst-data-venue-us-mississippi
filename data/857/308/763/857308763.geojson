@@ -1,0 +1,71 @@
+{
+  "id": 857308763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.502323,30.411092,-88.502323,30.411092",
+    "geom:latitude":30.411092,
+    "geom:longitude":-88.502323,
+    "iso:country":"US",
+    "sg:address":"6436 Grierson St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 2475",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GAd1wap9a5bGOav2wFjGj_30.411092_-88.502323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126593,
+    "wof:geomhash":"4570f1b779a5df3ec7a6d9383236a67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857308763
+        }
+    ],
+    "wof:id":857308763,
+    "wof:lastmodified":1464126593,
+    "wof:name":"Mason Motors",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.502323,
+    30.411092,
+    -88.502323,
+    30.411092
+],
+  "geometry": {"coordinates":[-88.502323,30.411092],"type":"Point"}
+}

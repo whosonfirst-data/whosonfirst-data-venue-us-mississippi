@@ -1,0 +1,71 @@
+{
+  "id": 857098201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.416404,33.516131,-88.416404,33.516131",
+    "geom:latitude":33.516131,
+    "geom:longitude":-88.416404,
+    "iso:country":"US",
+    "sg:address":"1934 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7020",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WumVLQwLGK6y8SUjNGsuV_33.516131_-88.416404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121862,
+    "wof:geomhash":"49d5e43a661bbf1c8118e54f9a121bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857098201
+        }
+    ],
+    "wof:id":857098201,
+    "wof:lastmodified":1464121862,
+    "wof:name":"Jova",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.416404,
+    33.516131,
+    -88.416404,
+    33.516131
+],
+  "geometry": {"coordinates":[-88.416404,33.516131],"type":"Point"}
+}

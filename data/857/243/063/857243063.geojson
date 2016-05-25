@@ -1,0 +1,73 @@
+{
+  "id": 857243063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.317979,32.335323,-90.317979,32.335323",
+    "geom:latitude":32.335323,
+    "geom:longitude":-90.317979,
+    "iso:country":"US",
+    "sg:address":"520 E College St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 0053",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EimvNarSKbpnLwtTCRLRV_32.335323_-90.317979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125084,
+    "wof:geomhash":"8871a8a55bae71e062642dbb2abd5222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857243063
+        }
+    ],
+    "wof:id":857243063,
+    "wof:lastmodified":1464125084,
+    "wof:name":"Mid State Welding & Mach Works",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -90.317979,
+    32.335323,
+    -90.317979,
+    32.335323
+],
+  "geometry": {"coordinates":[-90.31797899999999,32.335323],"type":"Point"}
+}

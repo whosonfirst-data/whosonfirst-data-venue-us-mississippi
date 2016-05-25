@@ -1,0 +1,71 @@
+{
+  "id": 857273521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569407,34.192941,-90.569407,34.192941",
+    "geom:latitude":34.192941,
+    "geom:longitude":-90.569407,
+    "iso:country":"US",
+    "sg:address":"1 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4611",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SKtwYa7UHwCgqhe8snv0h_34.192941_-90.569407@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125755,
+    "wof:geomhash":"43a837a77398d0518a3ec1a40213dc86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857273521
+        }
+    ],
+    "wof:id":857273521,
+    "wof:lastmodified":1464125755,
+    "wof:name":"Sun-Ten Housing",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -90.569407,
+    34.192941,
+    -90.569407,
+    34.192941
+],
+  "geometry": {"coordinates":[-90.569407,34.192941],"type":"Point"}
+}

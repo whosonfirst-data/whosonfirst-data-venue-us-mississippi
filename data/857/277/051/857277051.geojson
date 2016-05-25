@@ -1,0 +1,69 @@
+{
+  "id": 857277051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.797255,33.466952,-88.797255,33.466952",
+    "geom:latitude":33.466952,
+    "geom:longitude":-88.797255,
+    "iso:country":"US",
+    "sg:address":"413 Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8150",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rTMRaWDSmhBYmvSKvXm0e_33.466952_-88.797255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125845,
+    "wof:geomhash":"7856b5c5d8aca43f0b79deb1683761c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857277051
+        }
+    ],
+    "wof:id":857277051,
+    "wof:lastmodified":1464125845,
+    "wof:name":"Federal Land Bank Assn",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.797255,
+    33.466952,
+    -88.797255,
+    33.466952
+],
+  "geometry": {"coordinates":[-88.79725500000001,33.466952],"type":"Point"}
+}

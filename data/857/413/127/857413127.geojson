@@ -1,0 +1,73 @@
+{
+  "id": 857413127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.471874,31.291961,-89.471874,31.291961",
+    "geom:latitude":31.291961,
+    "geom:longitude":-89.471874,
+    "iso:country":"US",
+    "sg:address":"38 J M Burge Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 7891",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w36MaRRExZWwSRt5MKVaW_31.291961_-89.471874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128925,
+    "wof:geomhash":"516b7634b0c2e3ee7e1ad4a2849296fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857413127
+        }
+    ],
+    "wof:id":857413127,
+    "wof:lastmodified":1464128925,
+    "wof:name":"Joseph Marcum Trucking",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.471874,
+    31.291961,
+    -89.471874,
+    31.291961
+],
+  "geometry": {"coordinates":[-89.471874,31.291961],"type":"Point"}
+}

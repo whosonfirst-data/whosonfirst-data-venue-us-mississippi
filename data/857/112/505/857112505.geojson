@@ -1,0 +1,71 @@
+{
+  "id": 857112505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43676,33.566381,-88.43676,33.566381",
+    "geom:latitude":33.566381,
+    "geom:longitude":-88.43676,
+    "iso:country":"US",
+    "sg:address":"144 Hwy 373",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4179",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jMq9by2TuTLhYfBaiY7Ae_33.566381_-88.436760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122242,
+    "wof:geomhash":"fd3dd51c2a48d2ef49b0208bd78d9eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857112505
+        }
+    ],
+    "wof:id":857112505,
+    "wof:lastmodified":1464122242,
+    "wof:name":"Faith Evangelical Lutheran",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.43676,
+    33.566381,
+    -88.43676,
+    33.566381
+],
+  "geometry": {"coordinates":[-88.43676000000001,33.566381],"type":"Point"}
+}

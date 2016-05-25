@@ -1,0 +1,73 @@
+{
+  "id": 857343561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548591,30.36294,-88.548591,30.36294",
+    "geom:latitude":30.36294,
+    "geom:longitude":-88.548591,
+    "iso:country":"US",
+    "sg:address":"2803 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0841",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dxr5tXfQfLxmVJriLvJ4x_30.362940_-88.548591@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127345,
+    "wof:geomhash":"5bf5193538a236ababbb6ac9d9a30e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857343561
+        }
+    ],
+    "wof:id":857343561,
+    "wof:lastmodified":1464127345,
+    "wof:name":"Citifinancial",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.548591,
+    30.36294,
+    -88.548591,
+    30.36294
+],
+  "geometry": {"coordinates":[-88.548591,30.36294],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857222083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520521,34.350371,-89.520521,34.350371",
+    "geom:latitude":34.350371,
+    "geom:longitude":-89.520521,
+    "iso:country":"US",
+    "sg:address":"2209 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6315",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hs491L6dF8Z3T5yXSGLwT_34.350371_-89.520521@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124656,
+    "wof:geomhash":"f03fbbb3ec2661fc26e7850c8dcce19c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857222083
+        }
+    ],
+    "wof:id":857222083,
+    "wof:lastmodified":1464124656,
+    "wof:name":"Wallers Discount Drugs Inc",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.520521,
+    34.350371,
+    -89.520521,
+    34.350371
+],
+  "geometry": {"coordinates":[-89.520521,34.350371],"type":"Point"}
+}

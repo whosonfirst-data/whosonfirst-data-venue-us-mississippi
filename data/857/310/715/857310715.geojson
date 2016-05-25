@@ -1,0 +1,73 @@
+{
+  "id": 857310715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.168942,32.222821,-90.168942,32.222821",
+    "geom:latitude":32.222821,
+    "geom:longitude":-90.168942,
+    "iso:country":"US",
+    "sg:address":"301 Lewis Dr",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 6838",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYObtK5KlP7E2QoDSP9LV_32.222821_-90.168942@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126635,
+    "wof:geomhash":"a096c1cd006861c2c793d446b0d13420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857310715
+        }
+    ],
+    "wof:id":857310715,
+    "wof:lastmodified":1464126635,
+    "wof:name":"Beard Tire Svc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.168942,
+    32.222821,
+    -90.168942,
+    32.222821
+],
+  "geometry": {"coordinates":[-90.168942,32.222821],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857489011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.936752,34.949797,-89.936752,34.949797",
+    "geom:latitude":34.949797,
+    "geom:longitude":-89.936752,
+    "iso:country":"US",
+    "sg:address":"6208 Getwell Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 5434",
+    "sg:postcode":"38672",
+    "sg:province":"MS",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yPFEmLQA6JdwSeExbQe7b_34.949797_-89.936752@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130560,
+    "wof:geomhash":"8763e6bd9bed6ff22522241acaca7acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857489011
+        }
+    ],
+    "wof:id":857489011,
+    "wof:lastmodified":1464130560,
+    "wof:name":"City Of Southaven",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -89.936752,
+    34.949797,
+    -89.936752,
+    34.949797
+],
+  "geometry": {"coordinates":[-89.936752,34.949797],"type":"Point"}
+}

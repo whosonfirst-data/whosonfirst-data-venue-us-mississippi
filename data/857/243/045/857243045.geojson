@@ -1,0 +1,73 @@
+{
+  "id": 857243045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554962,30.365755,-88.554962,30.365755",
+    "geom:latitude":30.365755,
+    "geom:longitude":-88.554962,
+    "iso:country":"US",
+    "sg:address":"926 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0151",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iNVjDBqSO32yAXlC987p7_30.365755_-88.554962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125083,
+    "wof:geomhash":"4d4701f93c3c9d7fe7de76f32ce80d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857243045
+        }
+    ],
+    "wof:id":857243045,
+    "wof:lastmodified":1464125083,
+    "wof:name":"Gulf Coast Physical Therapy",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.554962,
+    30.365755,
+    -88.554962,
+    30.365755
+],
+  "geometry": {"coordinates":[-88.554962,30.365755],"type":"Point"}
+}

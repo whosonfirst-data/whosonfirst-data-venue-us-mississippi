@@ -1,0 +1,72 @@
+{
+  "id": 857297189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655577,33.597727,-88.655577,33.597727",
+    "geom:latitude":33.597727,
+    "geom:longitude":-88.655577,
+    "iso:country":"US",
+    "sg:address":"417 W Brame Ave",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2311",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.wpms.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fy8fnhbxeuRRRBFjI84KP_33.597727_-88.655577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126347,
+    "wof:geomhash":"0118e55beb4cac1845cf51f5778a9a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857297189
+        }
+    ],
+    "wof:id":857297189,
+    "wof:lastmodified":1464126347,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.655577,
+    33.597727,
+    -88.655577,
+    33.597727
+],
+  "geometry": {"coordinates":[-88.65557699999999,33.597727],"type":"Point"}
+}

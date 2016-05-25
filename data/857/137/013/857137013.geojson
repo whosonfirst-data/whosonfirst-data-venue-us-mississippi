@@ -1,0 +1,73 @@
+{
+  "id": 857137013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.003397,32.280117,-90.003397,32.280117",
+    "geom:latitude":32.280117,
+    "geom:longitude":-90.003397,
+    "iso:country":"US",
+    "sg:address":"1594 W Government St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 6985",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fR9DlupG30hrzwiaNhmf2_32.280117_-90.003397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122829,
+    "wof:geomhash":"1119f1f3966f24e271a4d5010c19acc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857137013
+        }
+    ],
+    "wof:id":857137013,
+    "wof:lastmodified":1464122829,
+    "wof:name":"Crossgates Health Foods",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -90.003397,
+    32.280117,
+    -90.003397,
+    32.280117
+],
+  "geometry": {"coordinates":[-90.00339700000001,32.280117],"type":"Point"}
+}

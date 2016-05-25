@@ -1,0 +1,73 @@
+{
+  "id": 857242601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.681084,34.257549,-88.681084,34.257549",
+    "geom:latitude":34.257549,
+    "geom:longitude":-88.681084,
+    "iso:country":"US",
+    "sg:address":"1109 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9505",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0upbjEDrBEc8E6I4XcBY0L_34.257549_-88.681084@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125074,
+    "wof:geomhash":"8c73b19889f12822a6b8310d75b8a505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857242601
+        }
+    ],
+    "wof:id":857242601,
+    "wof:lastmodified":1464125074,
+    "wof:name":"Rayburns Vaccuum Shop",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -88.681084,
+    34.257549,
+    -88.681084,
+    34.257549
+],
+  "geometry": {"coordinates":[-88.681084,34.257549],"type":"Point"}
+}

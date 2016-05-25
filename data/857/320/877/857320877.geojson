@@ -1,0 +1,73 @@
+{
+  "id": 857320877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.02632,30.398837,-89.02632,30.398837",
+    "geom:latitude":30.398837,
+    "geom:longitude":-89.02632,
+    "iso:country":"US",
+    "sg:address":"1444 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 6337",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19AZY6wwqkLCoolnQDT80r_30.398837_-89.026320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126867,
+    "wof:geomhash":"2299eb7af85d7d771cbe6c2f4210d9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857320877
+        }
+    ],
+    "wof:id":857320877,
+    "wof:lastmodified":1464126867,
+    "wof:name":"Winn-Dixie",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.02632,
+    30.398837,
+    -89.02632,
+    30.398837
+],
+  "geometry": {"coordinates":[-89.02632,30.398837],"type":"Point"}
+}

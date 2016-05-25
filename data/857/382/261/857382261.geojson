@@ -1,0 +1,75 @@
+{
+  "id": 857382261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.650402,30.391848,-88.650402,30.391848",
+    "geom:latitude":30.391848,
+    "geom:longitude":-88.650402,
+    "iso:country":"US",
+    "sg:address":"2608 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 4003",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mart",
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rwB8v2DqmOutWN6wfqxr1_30.391848_-88.650402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128191,
+    "wof:geomhash":"5ef8510b033396dd6256604ee028f4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857382261
+        }
+    ],
+    "wof:id":857382261,
+    "wof:lastmodified":1464128191,
+    "wof:name":"Pantry",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mart",
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -88.650402,
+    30.391848,
+    -88.650402,
+    30.391848
+],
+  "geometry": {"coordinates":[-88.650402,30.391848],"type":"Point"}
+}

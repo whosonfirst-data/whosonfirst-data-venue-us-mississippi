@@ -1,0 +1,71 @@
+{
+  "id": 857228631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702106,32.362458,-88.702106,32.362458",
+    "geom:latitude":32.362458,
+    "geom:longitude":-88.702106,
+    "iso:country":"US",
+    "sg:address":"406 25th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 2194",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EZXQnrPW7icjokxLzrboq_32.362458_-88.702106@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124783,
+    "wof:geomhash":"89b6a0f563f71a229e2ac6b3781d73f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857228631
+        }
+    ],
+    "wof:id":857228631,
+    "wof:lastmodified":1464124783,
+    "wof:name":"National Carpet Cleaning",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.702106,
+    32.362458,
+    -88.702106,
+    32.362458
+],
+  "geometry": {"coordinates":[-88.702106,32.362458],"type":"Point"}
+}

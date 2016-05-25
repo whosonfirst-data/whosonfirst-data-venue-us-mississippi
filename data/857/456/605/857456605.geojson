@@ -1,0 +1,73 @@
+{
+  "id": 857456605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.357702,31.393939,-89.357702,31.393939",
+    "geom:latitude":31.393939,
+    "geom:longitude":-89.357702,
+    "iso:country":"US",
+    "sg:address":"807 River Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 9032",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FfRusbCIMXWCFdBYr7qCG_31.393939_-89.357702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129884,
+    "wof:geomhash":"b10987db027269085c7eb36d6d474f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857456605
+        }
+    ],
+    "wof:id":857456605,
+    "wof:lastmodified":1464129884,
+    "wof:name":"Willard J Deese",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.357702,
+    31.393939,
+    -89.357702,
+    31.393939
+],
+  "geometry": {"coordinates":[-89.357702,31.393939],"type":"Point"}
+}

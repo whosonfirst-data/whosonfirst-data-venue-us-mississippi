@@ -1,0 +1,71 @@
+{
+  "id": 857419877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542059,33.825004,-88.542059,33.825004",
+    "geom:latitude":33.825004,
+    "geom:longitude":-88.542059,
+    "iso:country":"US",
+    "sg:address":"123 N Maple St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4546",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ik6ZqD7GxDCYE1qvNaD3J_33.825004_-88.542059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129092,
+    "wof:geomhash":"91e2077a744f4ad7a25bfc316359dc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857419877
+        }
+    ],
+    "wof:id":857419877,
+    "wof:lastmodified":1464129092,
+    "wof:name":"Mattox Feed Mill Inc",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -88.542059,
+    33.825004,
+    -88.542059,
+    33.825004
+],
+  "geometry": {"coordinates":[-88.54205899999999,33.825004],"type":"Point"}
+}

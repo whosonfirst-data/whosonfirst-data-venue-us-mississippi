@@ -1,0 +1,75 @@
+{
+  "id": 857394001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.269459,31.355172,-89.269459,31.355172",
+    "geom:latitude":31.355172,
+    "geom:longitude":-89.269459,
+    "iso:country":"US",
+    "sg:address":"501 Mamie St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 0875",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C6Gsjb0Mp5XzXRSGPOlO9_31.355172_-89.269459@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128502,
+    "wof:geomhash":"0dec721c06c63fddeb21347881dd5050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857394001
+        }
+    ],
+    "wof:id":857394001,
+    "wof:lastmodified":1464128502,
+    "wof:name":"R & J Trucking",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.269459,
+    31.355172,
+    -89.269459,
+    31.355172
+],
+  "geometry": {"coordinates":[-89.269459,31.355172],"type":"Point"}
+}

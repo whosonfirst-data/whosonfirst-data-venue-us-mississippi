@@ -1,0 +1,73 @@
+{
+  "id": 857362703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.17417,32.385297,-90.17417,32.385297",
+    "geom:latitude":32.385297,
+    "geom:longitude":-90.17417,
+    "iso:country":"US",
+    "sg:address":"585 Beasley Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 206 8923",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85837513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e4E4hIqcjM10vcE06Q8ND_32.385297_-90.174170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127756,
+    "wof:geomhash":"f5002172441e5362e2961e68c652675f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85837513,
+            "region_id":85688579,
+            "venue_id":857362703
+        }
+    ],
+    "wof:id":857362703,
+    "wof:lastmodified":1464127756,
+    "wof:name":"Jameson Inns",
+    "wof:parent_id":85837513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -90.17417,
+    32.385297,
+    -90.17417,
+    32.385297
+],
+  "geometry": {"coordinates":[-90.17417,32.385297],"type":"Point"}
+}

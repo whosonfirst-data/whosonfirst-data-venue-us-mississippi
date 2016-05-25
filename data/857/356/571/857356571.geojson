@@ -1,0 +1,66 @@
+{
+  "id": 857356571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.851103,30.479965,-88.851103,30.479965",
+    "geom:latitude":30.479965,
+    "geom:longitude":-88.851103,
+    "iso:country":"US",
+    "sg:address":"9501 Tucker Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 6588",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TvtoFFxfiNXjtvy0r9EZY_30.479965_-88.851103@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127627,
+    "wof:geomhash":"6feb91deec2869f3c937253aa6993973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857356571
+        }
+    ],
+    "wof:id":857356571,
+    "wof:lastmodified":1464127627,
+    "wof:name":"Tucker's Food Mart",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.851103,
+    30.479965,
+    -88.851103,
+    30.479965
+],
+  "geometry": {"coordinates":[-88.85110299999999,30.479965],"type":"Point"}
+}

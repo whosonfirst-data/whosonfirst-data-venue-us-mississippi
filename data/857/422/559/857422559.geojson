@@ -1,0 +1,75 @@
+{
+  "id": 857422559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.029469,34.49797,-89.029469,34.49797",
+    "geom:latitude":34.49797,
+    "geom:longitude":-89.029469,
+    "iso:country":"US",
+    "sg:address":"210 State Hwy 30 W",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 4944",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oSNKj2JkiAz6P8aQ5juOQ_34.497970_-89.029469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129160,
+    "wof:geomhash":"1469ca6e35e0548c211e8deef3040255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857422559
+        }
+    ],
+    "wof:id":857422559,
+    "wof:lastmodified":1464129160,
+    "wof:name":"Primary Care Group",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.029469,
+    34.49797,
+    -89.029469,
+    34.49797
+],
+  "geometry": {"coordinates":[-89.02946900000001,34.49797],"type":"Point"}
+}

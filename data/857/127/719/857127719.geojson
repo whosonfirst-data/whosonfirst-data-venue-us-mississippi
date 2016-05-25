@@ -1,0 +1,73 @@
+{
+  "id": 857127719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.75751,33.473646,-88.75751,33.473646",
+    "geom:latitude":33.473646,
+    "geom:longitude":-88.75751,
+    "iso:country":"US",
+    "sg:address":"1250 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1006",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QIjTClVoSMmNvt6cDEUiH_33.473646_-88.757510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122621,
+    "wof:geomhash":"028d0f0793f2b46899f08cd738f6113c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857127719
+        }
+    ],
+    "wof:id":857127719,
+    "wof:lastmodified":1464122621,
+    "wof:name":"William Wells Tires & Auto",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.75751,
+    33.473646,
+    -88.75751,
+    33.473646
+],
+  "geometry": {"coordinates":[-88.75751,33.473646],"type":"Point"}
+}

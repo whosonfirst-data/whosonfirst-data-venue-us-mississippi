@@ -1,0 +1,71 @@
+{
+  "id": 857082995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568348,33.836272,-88.568348,33.836272",
+    "geom:latitude":33.836272,
+    "geom:longitude":-88.568348,
+    "iso:country":"US",
+    "sg:address":"304 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 0333",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37CGCWQZvLAcPMV5Uo6HMZ_33.836272_-88.568348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121486,
+    "wof:geomhash":"f6a405a21b2ed8960b8717062b5cf5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857082995
+        }
+    ],
+    "wof:id":857082995,
+    "wof:lastmodified":1464121486,
+    "wof:name":"Discount Tobacco & Beverage",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -88.568348,
+    33.836272,
+    -88.568348,
+    33.836272
+],
+  "geometry": {"coordinates":[-88.568348,33.836272],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857365691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.502136,31.304188,-89.502136,31.304188",
+    "geom:latitude":31.304188,
+    "geom:longitude":-89.502136,
+    "iso:country":"US",
+    "sg:address":"7549 US Hwy 98",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 3790",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SftEfT68HRj5m903DW9VJ_31.304188_-89.502136@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127819,
+    "wof:geomhash":"11877bd3268c4c1fbbde0d6cf36ca6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857365691
+        }
+    ],
+    "wof:id":857365691,
+    "wof:lastmodified":1464127819,
+    "wof:name":"Southeastern Mini Storage",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.502136,
+    31.304188,
+    -89.502136,
+    31.304188
+],
+  "geometry": {"coordinates":[-89.50213599999999,31.304188],"type":"Point"}
+}

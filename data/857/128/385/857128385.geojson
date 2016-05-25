@@ -1,0 +1,71 @@
+{
+  "id": 857128385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520398,34.366181,-89.520398,34.366181",
+    "geom:latitude":34.366181,
+    "geom:longitude":-89.520398,
+    "iso:country":"US",
+    "sg:address":"1004 Van Buren Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 7770",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "record"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nyNEEGYu5MruhRYPD0Cmp_34.366181_-89.520398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122634,
+    "wof:geomhash":"762b39faae18fd5f617e88ab0983cdb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857128385
+        }
+    ],
+    "wof:id":857128385,
+    "wof:lastmodified":1464122634,
+    "wof:name":"As Seen On TV",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record"
+    ]
+},
+  "bbox": [
+    -89.520398,
+    34.366181,
+    -89.520398,
+    34.366181
+],
+  "geometry": {"coordinates":[-89.520398,34.366181],"type":"Point"}
+}

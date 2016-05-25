@@ -1,0 +1,71 @@
+{
+  "id": 857141125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.654333,33.602022,-88.654333,33.602022",
+    "geom:latitude":33.602022,
+    "geom:longitude":-88.654333,
+    "iso:country":"US",
+    "sg:address":"501 Washington St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1941",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PW9PbAwiMF1quxCNgJO0S_33.602022_-88.654333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122917,
+    "wof:geomhash":"08748fdced41c14f76969c66a9f9cc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857141125
+        }
+    ],
+    "wof:id":857141125,
+    "wof:lastmodified":1464122917,
+    "wof:name":"Golden Shears",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.654333,
+    33.602022,
+    -88.654333,
+    33.602022
+],
+  "geometry": {"coordinates":[-88.65433299999999,33.602022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857326129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.563469,34.368336,-89.563469,34.368336",
+    "geom:latitude":34.368336,
+    "geom:longitude":-89.563469,
+    "iso:country":"US",
+    "sg:address":"2206 Anderson Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 5757",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rVk4XRVQGRDAnJsl2lVl4_34.368336_-89.563469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126971,
+    "wof:geomhash":"c469a567636c4b52fc60da85157e80b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857326129
+        }
+    ],
+    "wof:id":857326129,
+    "wof:lastmodified":1464126971,
+    "wof:name":"Tabor Construction & Dev Co",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.563469,
+    34.368336,
+    -89.563469,
+    34.368336
+],
+  "geometry": {"coordinates":[-89.563469,34.368336],"type":"Point"}
+}

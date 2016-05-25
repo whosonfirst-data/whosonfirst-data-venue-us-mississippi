@@ -1,0 +1,71 @@
+{
+  "id": 857318425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.939301,33.476438,-88.939301,33.476438",
+    "geom:latitude":33.476438,
+    "geom:longitude":-88.939301,
+    "iso:country":"US",
+    "sg:address":"2197 Self Creek Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6438",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38p4FJ8kB2m6Z9I0ONBn5E_33.476438_-88.939301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126819,
+    "wof:geomhash":"cacb18bd0f5c045cc152aa12eb83b277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857318425
+        }
+    ],
+    "wof:id":857318425,
+    "wof:lastmodified":1464126819,
+    "wof:name":"J R Cleaning Svc",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -88.939301,
+    33.476438,
+    -88.939301,
+    33.476438
+],
+  "geometry": {"coordinates":[-88.939301,33.476438],"type":"Point"}
+}

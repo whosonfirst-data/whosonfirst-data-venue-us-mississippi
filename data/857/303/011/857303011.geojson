@@ -1,0 +1,74 @@
+{
+  "id": 857303011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.561442,30.365551,-88.561442,30.365551",
+    "geom:latitude":30.365551,
+    "geom:longitude":-88.561442,
+    "iso:country":"US",
+    "sg:address":"3209 Frederic St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4591",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agency",
+        "government"
+    ],
+    "sg:website":"www.noaa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AtEn7lGcqs9wtH6rRqVRP_30.365551_-88.561442@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126476,
+    "wof:geomhash":"15a20fb455ec186d8ee3ac2a80f3bb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857303011
+        }
+    ],
+    "wof:id":857303011,
+    "wof:lastmodified":1464126476,
+    "wof:name":"National Oceanic & Atmospheric",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "government"
+    ]
+},
+  "bbox": [
+    -88.561442,
+    30.365551,
+    -88.561442,
+    30.365551
+],
+  "geometry": {"coordinates":[-88.561442,30.365551],"type":"Point"}
+}

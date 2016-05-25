@@ -1,0 +1,71 @@
+{
+  "id": 857308265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.320535,33.457476,-88.320535,33.457476",
+    "geom:latitude":33.457476,
+    "geom:longitude":-88.320535,
+    "iso:country":"US",
+    "sg:address":"316 Overview Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7238",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VOzwHC97uNi229KFklH5N_33.457476_-88.320535@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126582,
+    "wof:geomhash":"881a05975a9f0896f41dbc509828b320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857308265
+        }
+    ],
+    "wof:id":857308265,
+    "wof:lastmodified":1464126582,
+    "wof:name":"Little Porkys",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.320535,
+    33.457476,
+    -88.320535,
+    33.457476
+],
+  "geometry": {"coordinates":[-88.32053500000001,33.457476],"type":"Point"}
+}

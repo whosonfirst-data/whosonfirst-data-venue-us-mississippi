@@ -1,0 +1,73 @@
+{
+  "id": 857079651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.872704,32.353969,-90.872704,32.353969",
+    "geom:latitude":32.353969,
+    "geom:longitude":-90.872704,
+    "iso:country":"US",
+    "sg:address":"807 First North St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9907",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Knm5kUWQ6KuYkNOYxj8M_32.353969_-90.872704@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121395,
+    "wof:geomhash":"7799122e2f5c1c54ed847c92da8befb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857079651
+        }
+    ],
+    "wof:id":857079651,
+    "wof:lastmodified":1464121395,
+    "wof:name":"Anderson Cafe",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.872704,
+    32.353969,
+    -90.872704,
+    32.353969
+],
+  "geometry": {"coordinates":[-90.872704,32.353969],"type":"Point"}
+}

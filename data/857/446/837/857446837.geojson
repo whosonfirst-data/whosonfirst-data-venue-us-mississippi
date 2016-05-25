@@ -1,0 +1,78 @@
+{
+  "id": 857446837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533631,30.37087,-88.533631,30.37087",
+    "geom:latitude":30.37087,
+    "geom:longitude":-88.533631,
+    "iso:country":"US",
+    "sg:address":"3601 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0336",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wpRliTqmRFDFmYK7oyC9I_30.370870_-88.533631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129699,
+    "wof:geomhash":"4ff57fef92d300542d8911cb83fc62ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857446837
+        }
+    ],
+    "wof:id":857446837,
+    "wof:lastmodified":1464129699,
+    "wof:name":"Joe Odom Automotive",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.533631,
+    30.37087,
+    -88.533631,
+    30.37087
+],
+  "geometry": {"coordinates":[-88.533631,30.37087],"type":"Point"}
+}

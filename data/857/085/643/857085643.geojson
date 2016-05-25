@@ -1,0 +1,77 @@
+{
+  "id": 857085643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.289943,31.331046,-89.289943,31.331046",
+    "geom:latitude":31.331046,
+    "geom:longitude":-89.289943,
+    "iso:country":"US",
+    "sg:address":"309 Mobile St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8761",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "steel",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L2g8OnoIdu4fF6hDsxz6W_31.331046_-89.289943@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121553,
+    "wof:geomhash":"1ef3e6b171ad19a451badd67bfed581d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857085643
+        }
+    ],
+    "wof:id":857085643,
+    "wof:lastmodified":1464121553,
+    "wof:name":"Anderson Machine & Steel Works",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "steel",
+        "welding"
+    ]
+},
+  "bbox": [
+    -89.289943,
+    31.331046,
+    -89.289943,
+    31.331046
+],
+  "geometry": {"coordinates":[-89.28994299999999,31.331046],"type":"Point"}
+}

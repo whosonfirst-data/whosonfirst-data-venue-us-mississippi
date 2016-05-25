@@ -1,0 +1,75 @@
+{
+  "id": 857126525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.289116,31.317729,-89.289116,31.317729",
+    "geom:latitude":31.317729,
+    "geom:longitude":-89.289116,
+    "iso:country":"US",
+    "sg:address":"618 Walnut St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9538",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AE6Re29JkJ99Yt6cto5KS_31.317729_-89.289116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122598,
+    "wof:geomhash":"b931269704fb722e4cb121397e934933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857126525
+        }
+    ],
+    "wof:id":857126525,
+    "wof:lastmodified":1464122598,
+    "wof:name":"January Trucking Co Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.289116,
+    31.317729,
+    -89.289116,
+    31.317729
+],
+  "geometry": {"coordinates":[-89.28911600000001,31.317729],"type":"Point"}
+}

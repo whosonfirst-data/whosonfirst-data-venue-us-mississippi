@@ -1,0 +1,77 @@
+{
+  "id": 857129963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.584827,34.186987,-90.584827,34.186987",
+    "geom:latitude":34.186987,
+    "geom:longitude":-90.584827,
+    "iso:country":"US",
+    "sg:address":"916 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3888",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AtiIUt6jYslJ2r5sOy0Jn_34.186987_-90.584827@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122681,
+    "wof:geomhash":"246ef04823cc9dbe8988658b6fb05567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857129963
+        }
+    ],
+    "wof:id":857129963,
+    "wof:lastmodified":1464122681,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -90.584827,
+    34.186987,
+    -90.584827,
+    34.186987
+],
+  "geometry": {"coordinates":[-90.584827,34.186987],"type":"Point"}
+}

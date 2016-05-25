@@ -1,0 +1,73 @@
+{
+  "id": 857163571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.507623,34.372827,-89.507623,34.372827",
+    "geom:latitude":34.372827,
+    "geom:longitude":-89.507623,
+    "iso:country":"US",
+    "sg:address":"206 Bramlett Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1659",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16qtTofKdUdO9VvmLz6ltK_34.372827_-89.507623@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123434,
+    "wof:geomhash":"2ee351b970198b7d4790f0f21e7fb127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857163571
+        }
+    ],
+    "wof:id":857163571,
+    "wof:lastmodified":1464123434,
+    "wof:name":"Female Group Home",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -89.507623,
+    34.372827,
+    -89.507623,
+    34.372827
+],
+  "geometry": {"coordinates":[-89.507623,34.372827],"type":"Point"}
+}

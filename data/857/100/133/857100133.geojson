@@ -1,0 +1,80 @@
+{
+  "id": 857100133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.709164,33.779197,-88.709164,33.779197",
+    "geom:latitude":33.779197,
+    "geom:longitude":-88.709164,
+    "iso:country":"US",
+    "sg:address":"10111 Prairie Mills Rd",
+    "sg:city":"Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6062",
+    "sg:postcode":"39756",
+    "sg:province":"MS",
+    "sg:tags":[
+        "feed",
+        "sales",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gf0y3xMaDyib9a48hMquW_33.779197_-88.709164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121911,
+    "wof:geomhash":"40dac64f2cd7c8b2a8c6e323fe8ea911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857100133
+        }
+    ],
+    "wof:id":857100133,
+    "wof:lastmodified":1464121911,
+    "wof:name":"Prairie Mills Feed & Farm Sup",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "sales",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.709164,
+    33.779197,
+    -88.709164,
+    33.779197
+],
+  "geometry": {"coordinates":[-88.709164,33.779197],"type":"Point"}
+}

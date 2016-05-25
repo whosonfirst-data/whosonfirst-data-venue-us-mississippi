@@ -1,0 +1,71 @@
+{
+  "id": 857299997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.379421,33.55063,-88.379421,33.55063",
+    "geom:latitude":33.55063,
+    "geom:longitude":-88.379421,
+    "iso:country":"US",
+    "sg:address":"74 Crews Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3358",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MxFxf7Uv85FwIfHfWuvRt_33.550630_-88.379421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126411,
+    "wof:geomhash":"6305822d9e617e27efda480d8074a1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857299997
+        }
+    ],
+    "wof:id":857299997,
+    "wof:lastmodified":1464126411,
+    "wof:name":"Pitty-Pat's",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.379421,
+    33.55063,
+    -88.379421,
+    33.55063
+],
+  "geometry": {"coordinates":[-88.37942099999999,33.55063],"type":"Point"}
+}

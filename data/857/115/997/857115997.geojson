@@ -1,0 +1,84 @@
+{
+  "id": 857115997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700521,34.261679,-88.700521,34.261679",
+    "geom:latitude":34.261679,
+    "geom:longitude":-88.700521,
+    "iso:country":"US",
+    "sg:address":"213 E Franklin St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 1366",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bu",
+        "lighting",
+        "fixture",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969769,
+        102083171,
+        85840757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eJSxg3uafnP8MmkkIidRM_34.261679_-88.700521@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122344,
+    "wof:geomhash":"48ccde1c472147f6cf95278aaa058e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85840757,
+            "region_id":85688579,
+            "venue_id":857115997
+        }
+    ],
+    "wof:id":857115997,
+    "wof:lastmodified":1464122344,
+    "wof:name":"Tupelo Lighting Center",
+    "wof:parent_id":85840757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bu",
+        "lighting",
+        "fixture",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -88.700521,
+    34.261679,
+    -88.700521,
+    34.261679
+],
+  "geometry": {"coordinates":[-88.70052099999999,34.261679],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857429939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.506272,30.388918,-88.506272,30.388918",
+    "geom:latitude":30.388918,
+    "geom:longitude":-88.506272,
+    "iso:country":"US",
+    "sg:address":"4200 Industrial Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2890",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.techweldinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSbc12ZXx0xAqYWTpahux_30.388918_-88.506272@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129344,
+    "wof:geomhash":"b6b573a14b59f4402e1ceb44b12d99ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857429939
+        }
+    ],
+    "wof:id":857429939,
+    "wof:lastmodified":1464129344,
+    "wof:name":"Techweld Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.506272,
+    30.388918,
+    -88.506272,
+    30.388918
+],
+  "geometry": {"coordinates":[-88.506272,30.388918],"type":"Point"}
+}

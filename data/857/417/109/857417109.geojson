@@ -1,0 +1,72 @@
+{
+  "id": 857417109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.573193,34.361108,-89.573193,34.361108",
+    "geom:latitude":34.361108,
+    "geom:longitude":-89.573193,
+    "iso:country":"US",
+    "sg:address":"431 Hwy 6 W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2928",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.crossroadsanimalhospital.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ClUDtkhSOkkTXXH1JvqSz_34.361108_-89.573193@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129035,
+    "wof:geomhash":"57fd4a4f985a6f82edc2b9d7a282c0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857417109
+        }
+    ],
+    "wof:id":857417109,
+    "wof:lastmodified":1464129035,
+    "wof:name":"Crossroads Animal Hospital",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.573193,
+    34.361108,
+    -89.573193,
+    34.361108
+],
+  "geometry": {"coordinates":[-89.573193,34.361108],"type":"Point"}
+}

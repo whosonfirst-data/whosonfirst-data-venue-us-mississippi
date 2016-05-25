@@ -1,0 +1,71 @@
+{
+  "id": 857426003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.777995,30.414603,-88.777995,30.414603",
+    "geom:latitude":30.414603,
+    "geom:longitude":-88.777995,
+    "iso:country":"US",
+    "sg:address":"1151 Ocean Springs Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0171",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ygJYwneivcDaka4ZmzXyo_30.414603_-88.777995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129256,
+    "wof:geomhash":"4447d95e9e6d5ea34479431386b441f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857426003
+        }
+    ],
+    "wof:id":857426003,
+    "wof:lastmodified":1464129256,
+    "wof:name":"Gulf Coast Radiology Group",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -88.777995,
+    30.414603,
+    -88.777995,
+    30.414603
+],
+  "geometry": {"coordinates":[-88.777995,30.414603],"type":"Point"}
+}

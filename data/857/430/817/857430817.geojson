@@ -1,0 +1,71 @@
+{
+  "id": 857430817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.665275,34.215455,-88.665275,34.215455",
+    "geom:latitude":34.215455,
+    "geom:longitude":-88.665275,
+    "iso:country":"US",
+    "sg:address":"2489 Main St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2012",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CQeUCtP75rfZKBi5zJKnN_34.215455_-88.665275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129360,
+    "wof:geomhash":"b8cf281834c8e9ef6c213f1e55272f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857430817
+        }
+    ],
+    "wof:id":857430817,
+    "wof:lastmodified":1464129360,
+    "wof:name":"Plantersville Town Hall",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -88.665275,
+    34.215455,
+    -88.665275,
+    34.215455
+],
+  "geometry": {"coordinates":[-88.66527499999999,34.215455],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857315265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.551347,34.197151,-90.551347,34.197151",
+    "geom:latitude":34.197151,
+    "geom:longitude":-90.551347,
+    "iso:country":"US",
+    "sg:address":"2001 Hospital Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 2345",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4siraIBHWC3q8riVZ77nyi_34.197151_-90.551347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126727,
+    "wof:geomhash":"2f89273bc36ffda7c50f5959312561b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857315265
+        }
+    ],
+    "wof:id":857315265,
+    "wof:lastmodified":1464126727,
+    "wof:name":"T W Therapy Clinic",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -90.551347,
+    34.197151,
+    -90.551347,
+    34.197151
+],
+  "geometry": {"coordinates":[-90.55134700000001,34.197151],"type":"Point"}
+}

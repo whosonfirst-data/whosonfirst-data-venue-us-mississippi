@@ -1,0 +1,71 @@
+{
+  "id": 857216375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.424944,33.496838,-88.424944,33.496838",
+    "geom:latitude":33.496838,
+    "geom:longitude":-88.424944,
+    "iso:country":"US",
+    "sg:address":"1203 N 2nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 243 1111",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zVrvxcd0JyyQMJzicrrUg_33.496838_-88.424944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124540,
+    "wof:geomhash":"fd3443e92e6ba3fcece850fa492132a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857216375
+        }
+    ],
+    "wof:id":857216375,
+    "wof:lastmodified":1464124540,
+    "wof:name":"Mc Ewen Law Firm",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.424944,
+    33.496838,
+    -88.424944,
+    33.496838
+],
+  "geometry": {"coordinates":[-88.424944,33.496838],"type":"Point"}
+}

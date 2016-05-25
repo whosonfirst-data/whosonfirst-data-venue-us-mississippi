@@ -1,0 +1,71 @@
+{
+  "id": 857425055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.795336,30.41489,-88.795336,30.41489",
+    "geom:latitude":30.41489,
+    "geom:longitude":-88.795336,
+    "iso:country":"US",
+    "sg:address":"1108 Hanley Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8433",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23K50Ai5ZYY7LNLAHCO1c7_30.414890_-88.795336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129225,
+    "wof:geomhash":"40ad711bbfbc192493fd6c3337a48144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857425055
+        }
+    ],
+    "wof:id":857425055,
+    "wof:lastmodified":1464129225,
+    "wof:name":"Frank G Martin MD",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.795336,
+    30.41489,
+    -88.795336,
+    30.41489
+],
+  "geometry": {"coordinates":[-88.79533600000001,30.41489],"type":"Point"}
+}

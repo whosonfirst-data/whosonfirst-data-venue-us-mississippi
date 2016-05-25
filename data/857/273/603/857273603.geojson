@@ -1,0 +1,73 @@
+{
+  "id": 857273603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675719,34.257579,-88.675719,34.257579",
+    "geom:latitude":34.257579,
+    "geom:longitude":-88.675719,
+    "iso:country":"US",
+    "sg:address":"1439 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3410",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kycnVBvMLm6ZPGYgEmkxk_34.257579_-88.675719@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125757,
+    "wof:geomhash":"3403ac4845371ced77d459a5cc668e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857273603
+        }
+    ],
+    "wof:id":857273603,
+    "wof:lastmodified":1464125757,
+    "wof:name":"Bishops Flower Shop East",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gift"
+    ]
+},
+  "bbox": [
+    -88.675719,
+    34.257579,
+    -88.675719,
+    34.257579
+],
+  "geometry": {"coordinates":[-88.675719,34.257579],"type":"Point"}
+}

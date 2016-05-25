@@ -1,0 +1,75 @@
+{
+  "id": 857430487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.313252,33.533853,-88.313252,33.533853",
+    "geom:latitude":33.533853,
+    "geom:longitude":-88.313252,
+    "iso:country":"US",
+    "sg:address":"6166 Hwy 50 E",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4461",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HCffB1GYeiQIaim4WwRmO_33.533853_-88.313252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129354,
+    "wof:geomhash":"4add9c052d046fe0ed6983491386b287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857430487
+        }
+    ],
+    "wof:id":857430487,
+    "wof:lastmodified":1464129354,
+    "wof:name":"Red's Frame & Body Shop",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.313252,
+    33.533853,
+    -88.313252,
+    33.533853
+],
+  "geometry": {"coordinates":[-88.31325200000001,33.533853],"type":"Point"}
+}

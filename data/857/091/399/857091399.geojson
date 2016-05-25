@@ -1,0 +1,71 @@
+{
+  "id": 857091399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414453,32.847647,-90.414453,32.847647",
+    "geom:latitude":32.847647,
+    "geom:longitude":-90.414453,
+    "iso:country":"US",
+    "sg:address":"120 W Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9062",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d3HZA7dBWoxEzfTWqkkd1_32.847647_-90.414453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121720,
+    "wof:geomhash":"d3d18cd0d88ee21d17e443d4cb60c1d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857091399
+        }
+    ],
+    "wof:id":857091399,
+    "wof:lastmodified":1464121720,
+    "wof:name":"KFC",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.414453,
+    32.847647,
+    -90.414453,
+    32.847647
+],
+  "geometry": {"coordinates":[-90.41445299999999,32.847647],"type":"Point"}
+}

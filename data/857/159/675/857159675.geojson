@@ -1,0 +1,71 @@
+{
+  "id": 857159675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.546117,33.82535,-88.546117,33.82535",
+    "geom:latitude":33.82535,
+    "geom:longitude":-88.546117,
+    "iso:country":"US",
+    "sg:address":"207 W Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2811",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bdm5kvaw4Dj59SPBF8VxJ_33.825350_-88.546117@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123339,
+    "wof:geomhash":"c42457ce147dd5c796eb7811edd95443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857159675
+        }
+    ],
+    "wof:id":857159675,
+    "wof:lastmodified":1464123339,
+    "wof:name":"Leonard J Goodgame DDS",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.546117,
+    33.82535,
+    -88.546117,
+    33.82535
+],
+  "geometry": {"coordinates":[-88.546117,33.82535],"type":"Point"}
+}

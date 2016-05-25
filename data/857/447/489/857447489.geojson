@@ -1,0 +1,71 @@
+{
+  "id": 857447489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676403,32.368473,-88.676403,32.368473",
+    "geom:latitude":32.368473,
+    "geom:longitude":-88.676403,
+    "iso:country":"US",
+    "sg:address":"1121 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 6080",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jFRXr1Zmws31ZQDDvJn19_32.368473_-88.676403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129712,
+    "wof:geomhash":"35002b77333d2a3a3488897eaa4eeeec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857447489
+        }
+    ],
+    "wof:id":857447489,
+    "wof:lastmodified":1464129712,
+    "wof:name":"Texaco Food Mart",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.676403,
+    32.368473,
+    -88.676403,
+    32.368473
+],
+  "geometry": {"coordinates":[-88.67640299999999,32.368473],"type":"Point"}
+}

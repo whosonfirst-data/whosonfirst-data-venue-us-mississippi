@@ -1,0 +1,71 @@
+{
+  "id": 857440069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.289587,31.313715,-89.289587,31.313715",
+    "geom:latitude":31.313715,
+    "geom:longitude":-89.289587,
+    "iso:country":"US",
+    "sg:address":"625 Manning Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 606 8267",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gw8oxvyARBMiPDGKVgvK1_31.313715_-89.289587@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129571,
+    "wof:geomhash":"ed44b0a212bd917d2dc03e7e279e2c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857440069
+        }
+    ],
+    "wof:id":857440069,
+    "wof:lastmodified":1464129571,
+    "wof:name":"Ultimate Haircare By Erica",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.289587,
+    31.313715,
+    -89.289587,
+    31.313715
+],
+  "geometry": {"coordinates":[-89.289587,31.313715],"type":"Point"}
+}

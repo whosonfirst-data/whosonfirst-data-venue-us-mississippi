@@ -1,0 +1,73 @@
+{
+  "id": 857094393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.573487,34.361168,-89.573487,34.361168",
+    "geom:latitude":34.361168,
+    "geom:longitude":-89.573487,
+    "iso:country":"US",
+    "sg:address":"425 Hwy 6 W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9999",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4KgwHSX5U6E37LaKJgxA_34.361168_-89.573487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121777,
+    "wof:geomhash":"f8f2f3d18871f750cf4f55f44e967b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857094393
+        }
+    ],
+    "wof:id":857094393,
+    "wof:lastmodified":1464121777,
+    "wof:name":"Hometown Storage",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.573487,
+    34.361168,
+    -89.573487,
+    34.361168
+],
+  "geometry": {"coordinates":[-89.573487,34.361168],"type":"Point"}
+}

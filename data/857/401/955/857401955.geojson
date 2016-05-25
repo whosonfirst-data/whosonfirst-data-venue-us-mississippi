@@ -1,0 +1,71 @@
+{
+  "id": 857401955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.297322,31.322838,-89.297322,31.322838",
+    "geom:latitude":31.322838,
+    "geom:longitude":-89.297322,
+    "iso:country":"US",
+    "sg:address":"607 Corinne St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0297",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Uq2FDyK5iOMx4rSRTQuw_31.322838_-89.297322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128666,
+    "wof:geomhash":"90fd852fd2623b7ef7fb4a6694e360c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857401955
+        }
+    ],
+    "wof:id":857401955,
+    "wof:lastmodified":1464128666,
+    "wof:name":"A-1 Realty",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -89.297322,
+    31.322838,
+    -89.297322,
+    31.322838
+],
+  "geometry": {"coordinates":[-89.29732199999999,31.322838],"type":"Point"}
+}

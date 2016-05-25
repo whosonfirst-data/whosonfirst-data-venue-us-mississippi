@@ -1,0 +1,71 @@
+{
+  "id": 857322107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.304144,31.31648,-89.304144,31.31648",
+    "geom:latitude":31.31648,
+    "geom:longitude":-89.304144,
+    "iso:country":"US",
+    "sg:address":"214 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 3531",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54EU4iZ2xwc5mOlJ8GAT2S_31.316480_-89.304144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126890,
+    "wof:geomhash":"f8c201e1879b9a93bda24e797c8dfc0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857322107
+        }
+    ],
+    "wof:id":857322107,
+    "wof:lastmodified":1464126890,
+    "wof:name":"Dumas Apartments & Rooms",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.304144,
+    31.31648,
+    -89.304144,
+    31.31648
+],
+  "geometry": {"coordinates":[-89.30414399999999,31.31648],"type":"Point"}
+}

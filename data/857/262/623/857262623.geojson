@@ -1,0 +1,71 @@
+{
+  "id": 857262623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536785,33.811516,-88.536785,33.811516",
+    "geom:latitude":33.811516,
+    "geom:longitude":-88.536785,
+    "iso:country":"US",
+    "sg:address":"505 Whitfield St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6512",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70VC4EyUgdpeYKyAOeQFzP_33.811516_-88.536785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125546,
+    "wof:geomhash":"7e36d208b2ca7cbca008821f8dd1438e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857262623
+        }
+    ],
+    "wof:id":857262623,
+    "wof:lastmodified":1464125546,
+    "wof:name":"Bos Laundrymat",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -88.536785,
+    33.811516,
+    -88.536785,
+    33.811516
+],
+  "geometry": {"coordinates":[-88.53678499999999,33.811516],"type":"Point"}
+}

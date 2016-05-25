@@ -1,0 +1,71 @@
+{
+  "id": 857486903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579086,34.210091,-90.579086,34.210091",
+    "geom:latitude":34.210091,
+    "geom:longitude":-90.579086,
+    "iso:country":"US",
+    "sg:address":"171 Ritch St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6244",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gfJM7VlYDJIOOlesy9tvi_34.210091_-90.579086@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130501,
+    "wof:geomhash":"42294eed324c107a0d2320399c15f31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486903
+        }
+    ],
+    "wof:id":857486903,
+    "wof:lastmodified":1464130501,
+    "wof:name":"W ROX Radio Transmitter",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -90.579086,
+    34.210091,
+    -90.579086,
+    34.210091
+],
+  "geometry": {"coordinates":[-90.579086,34.210091],"type":"Point"}
+}

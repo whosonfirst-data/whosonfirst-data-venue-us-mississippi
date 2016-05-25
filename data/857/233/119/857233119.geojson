@@ -1,0 +1,71 @@
+{
+  "id": 857233119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.489382,33.477023,-88.489382,33.477023",
+    "geom:latitude":33.477023,
+    "geom:longitude":-88.489382,
+    "iso:country":"US",
+    "sg:address":"494 Hwy 45 S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2010",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RR2dDpTKcYvHEiK4NJ0mQ_33.477023_-88.489382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124863,
+    "wof:geomhash":"7a6c1ec4d4eabf5023f504a12ae544be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857233119
+        }
+    ],
+    "wof:id":857233119,
+    "wof:lastmodified":1464124863,
+    "wof:name":"Hope Community Church",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.489382,
+    33.477023,
+    -88.489382,
+    33.477023
+],
+  "geometry": {"coordinates":[-88.48938200000001,33.477023],"type":"Point"}
+}

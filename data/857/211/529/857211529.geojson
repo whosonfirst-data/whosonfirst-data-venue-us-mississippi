@@ -1,0 +1,71 @@
+{
+  "id": 857211529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.783376,34.246108,-88.783376,34.246108",
+    "geom:latitude":34.246108,
+    "geom:longitude":-88.783376,
+    "iso:country":"US",
+    "sg:address":"4547 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 7707",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rimy0ya13c3WRxoXZjnFd_34.246108_-88.783376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124429,
+    "wof:geomhash":"87d94123951552ec2ab6f9f9101491c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857211529
+        }
+    ],
+    "wof:id":857211529,
+    "wof:lastmodified":1464124429,
+    "wof:name":"Mary Jane Rackley & Co",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.783376,
+    34.246108,
+    -88.783376,
+    34.246108
+],
+  "geometry": {"coordinates":[-88.783376,34.246108],"type":"Point"}
+}

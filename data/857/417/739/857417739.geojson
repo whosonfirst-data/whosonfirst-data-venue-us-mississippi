@@ -1,0 +1,71 @@
+{
+  "id": 857417739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530611,30.373597,-88.530611,30.373597",
+    "geom:latitude":30.373597,
+    "geom:longitude":-88.530611,
+    "iso:country":"US",
+    "sg:address":"3801 Eden St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1137",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_568bMIEKFkuVrZ9QuOFYf1_30.373597_-88.530611@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129053,
+    "wof:geomhash":"2a6d22771bf4c6f534211734f621bb73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857417739
+        }
+    ],
+    "wof:id":857417739,
+    "wof:lastmodified":1464129053,
+    "wof:name":"Christ Church",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.530611,
+    30.373597,
+    -88.530611,
+    30.373597
+],
+  "geometry": {"coordinates":[-88.53061099999999,30.373597],"type":"Point"}
+}

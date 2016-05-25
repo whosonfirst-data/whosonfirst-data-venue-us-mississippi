@@ -1,0 +1,75 @@
+{
+  "id": 857376537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.286189,31.330489,-89.286189,31.330489",
+    "geom:latitude":31.330489,
+    "geom:longitude":-89.286189,
+    "iso:country":"US",
+    "sg:address":"500 E Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 5660",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hs4bk9ngOf5Wmj7hQDTuv_31.330489_-89.286189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128048,
+    "wof:geomhash":"6b0bc379ddafcd8cdf019d2f09ee3a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857376537
+        }
+    ],
+    "wof:id":857376537,
+    "wof:lastmodified":1464128048,
+    "wof:name":"Rita's Heaven Clean",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -89.286189,
+    31.330489,
+    -89.286189,
+    31.330489
+],
+  "geometry": {"coordinates":[-89.28618899999999,31.330489],"type":"Point"}
+}

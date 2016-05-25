@@ -1,0 +1,73 @@
+{
+  "id": 857178905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.280099,31.324044,-89.280099,31.324044",
+    "geom:latitude":31.324044,
+    "geom:longitude":-89.280099,
+    "iso:country":"US",
+    "sg:address":"1105 Mc Innis Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2785",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WB4mi0in9Qf2R3V5Th0kb_31.324044_-89.280099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123771,
+    "wof:geomhash":"89f0ba2193a057ccc1fdc312aac0111a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857178905
+        }
+    ],
+    "wof:id":857178905,
+    "wof:lastmodified":1464123771,
+    "wof:name":"Social Work FNP",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -89.280099,
+    31.324044,
+    -89.280099,
+    31.324044
+],
+  "geometry": {"coordinates":[-89.28009900000001,31.324044],"type":"Point"}
+}

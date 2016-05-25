@@ -1,0 +1,71 @@
+{
+  "id": 857401899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70137,32.364994,-88.70137,32.364994",
+    "geom:latitude":32.364994,
+    "geom:longitude":-88.70137,
+    "iso:country":"US",
+    "sg:address":"2213 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6982",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GbyornD9VibmDCn0B9sBb_32.364994_-88.701370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128665,
+    "wof:geomhash":"048e480d894bf1cdeabfe12b50775f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857401899
+        }
+    ],
+    "wof:id":857401899,
+    "wof:lastmodified":1464128665,
+    "wof:name":"Metro Loan Corp",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.70137,
+    32.364994,
+    -88.70137,
+    32.364994
+],
+  "geometry": {"coordinates":[-88.70137,32.364994],"type":"Point"}
+}

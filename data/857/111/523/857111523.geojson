@@ -1,0 +1,73 @@
+{
+  "id": 857111523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589474,34.1861,-90.589474,34.1861",
+    "geom:latitude":34.1861,
+    "geom:longitude":-90.589474,
+    "iso:country":"US",
+    "sg:address":"931 Commerce Plz",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2653",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02cCP3xPgdps1DTNtfEv0W_34.186100_-90.589474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122224,
+    "wof:geomhash":"dd48cbebc22dca8306890a06862df13f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857111523
+        }
+    ],
+    "wof:id":857111523,
+    "wof:lastmodified":1464122224,
+    "wof:name":"Check Exchange Of Clarksdale",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -90.589474,
+    34.1861,
+    -90.589474,
+    34.1861
+],
+  "geometry": {"coordinates":[-90.589474,34.1861],"type":"Point"}
+}

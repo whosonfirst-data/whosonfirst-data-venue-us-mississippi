@@ -1,0 +1,73 @@
+{
+  "id": 857464259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.202055,32.302882,-90.202055,32.302882",
+    "geom:latitude":32.302882,
+    "geom:longitude":-90.202055,
+    "iso:country":"US",
+    "sg:address":"1013 Central St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 353 8788",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LtU1RoFkDhjD1AglJohtU_32.302882_-90.202055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130043,
+    "wof:geomhash":"fbb399745131a3f97a1288ce0a5c90b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857464259
+        }
+    ],
+    "wof:id":857464259,
+    "wof:lastmodified":1464130043,
+    "wof:name":"Perkins Plaza",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.202055,
+    32.302882,
+    -90.202055,
+    32.302882
+],
+  "geometry": {"coordinates":[-90.202055,32.302882],"type":"Point"}
+}

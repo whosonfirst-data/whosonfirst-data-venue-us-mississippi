@@ -1,0 +1,71 @@
+{
+  "id": 857352221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686483,34.257541,-88.686483,34.257541",
+    "geom:latitude":34.257541,
+    "geom:longitude":-88.686483,
+    "iso:country":"US",
+    "sg:address":"779 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 2821",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A8jYyt9eKFGOBucOkcEBZ_34.257541_-88.686483@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127535,
+    "wof:geomhash":"f98c62ee56c75b9b4893ae9e5a4bd474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857352221
+        }
+    ],
+    "wof:id":857352221,
+    "wof:lastmodified":1464127535,
+    "wof:name":"Quality Auto Sales",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -88.686483,
+    34.257541,
+    -88.686483,
+    34.257541
+],
+  "geometry": {"coordinates":[-88.686483,34.257541],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857215207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557848,30.366222,-88.557848,30.366222",
+    "geom:latitude":30.366222,
+    "geom:longitude":-88.557848,
+    "iso:country":"US",
+    "sg:address":"3225 Canty St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 8406",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club",
+        "drinking",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hh7qdJhcuJCenlMRqd4RE_30.366222_-88.557848@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124518,
+    "wof:geomhash":"2b598dd1221108ed998859e991ad3929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857215207
+        }
+    ],
+    "wof:id":857215207,
+    "wof:lastmodified":1464124518,
+    "wof:name":"Downtown Jazz Club",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking",
+        "night"
+    ]
+},
+  "bbox": [
+    -88.557848,
+    30.366222,
+    -88.557848,
+    30.366222
+],
+  "geometry": {"coordinates":[-88.55784800000001,30.366222],"type":"Point"}
+}

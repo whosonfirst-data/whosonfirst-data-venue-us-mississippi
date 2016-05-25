@@ -1,0 +1,73 @@
+{
+  "id": 857166383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55329,30.365714,-88.55329,30.365714",
+    "geom:latitude":30.365714,
+    "geom:longitude":-88.55329,
+    "iso:country":"US",
+    "sg:address":"1225 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3370",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pxogHuBprOnhNlmxyj4kU_30.365714_-88.553290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123492,
+    "wof:geomhash":"fdccb349a1cb471e86e0c1156c049fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857166383
+        }
+    ],
+    "wof:id":857166383,
+    "wof:lastmodified":1464123492,
+    "wof:name":"US Social Security Adm",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "human"
+    ]
+},
+  "bbox": [
+    -88.55329,
+    30.365714,
+    -88.55329,
+    30.365714
+],
+  "geometry": {"coordinates":[-88.55329,30.365714],"type":"Point"}
+}

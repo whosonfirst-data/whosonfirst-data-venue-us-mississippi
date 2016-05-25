@@ -1,0 +1,71 @@
+{
+  "id": 857306783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40406,32.860274,-90.40406,32.860274",
+    "geom:latitude":32.860274,
+    "geom:longitude":-90.40406,
+    "iso:country":"US",
+    "sg:address":"941 Calhoun Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5151",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QVjN3mIuB7HgJKArJy8r0_32.860274_-90.404060@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126554,
+    "wof:geomhash":"d0e6c8f12b70eea1752dbdef6744b266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857306783
+        }
+    ],
+    "wof:id":857306783,
+    "wof:lastmodified":1464126554,
+    "wof:name":"Atmos Energy Mississippi",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.40406,
+    32.860274,
+    -90.40406,
+    32.860274
+],
+  "geometry": {"coordinates":[-90.40406,32.860274],"type":"Point"}
+}

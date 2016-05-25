@@ -1,0 +1,68 @@
+{
+  "id": 857286517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.108327,32.445019,-90.108327,32.445019",
+    "geom:latitude":32.445019,
+    "geom:longitude":-90.108327,
+    "iso:country":"US",
+    "sg:address":"249 Heritage Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 0501",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59NJ0T5XkCXQjQc6Uwda3J_32.445019_-90.108327@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126055,
+    "wof:geomhash":"41f1296e7c4e05825215a2702f5371c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857286517
+        }
+    ],
+    "wof:id":857286517,
+    "wof:lastmodified":1464126055,
+    "wof:name":"Mash Inc",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.108327,
+    32.445019,
+    -90.108327,
+    32.445019
+],
+  "geometry": {"coordinates":[-90.108327,32.445019],"type":"Point"}
+}

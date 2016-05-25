@@ -1,0 +1,75 @@
+{
+  "id": 857345731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.37377,32.66706,-90.37377,32.66706",
+    "geom:latitude":32.66706,
+    "geom:longitude":-90.37377,
+    "iso:country":"US",
+    "sg:address":"4574 US Hwy 49",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 8771",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mq41Psf6PZlYfnUk9dLKD_32.667060_-90.373770@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127387,
+    "wof:geomhash":"ba12dd76ed2de25bd9136058971a6ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857345731
+        }
+    ],
+    "wof:id":857345731,
+    "wof:lastmodified":1464127387,
+    "wof:name":"Bar C Cattle",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -90.37377,
+    32.66706,
+    -90.37377,
+    32.66706
+],
+  "geometry": {"coordinates":[-90.37376999999999,32.66706],"type":"Point"}
+}

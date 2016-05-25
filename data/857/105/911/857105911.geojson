@@ -1,0 +1,77 @@
+{
+  "id": 857105911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.234924,32.264844,-90.234924,32.264844",
+    "geom:latitude":32.264844,
+    "geom:longitude":-90.234924,
+    "iso:country":"US",
+    "sg:address":"2746 Brookwood Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 373 4591",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jg1qkSLcJXLnhLBKms5kf_32.264844_-90.234924@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122046,
+    "wof:geomhash":"f0c218ec1543a4fdaf3aac86af71d19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857105911
+        }
+    ],
+    "wof:id":857105911,
+    "wof:lastmodified":1464122046,
+    "wof:name":"Huey Thompson Trucking Inc",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.234924,
+    32.264844,
+    -90.234924,
+    32.264844
+],
+  "geometry": {"coordinates":[-90.23492400000001,32.264844],"type":"Point"}
+}

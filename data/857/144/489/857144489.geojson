@@ -1,0 +1,75 @@
+{
+  "id": 857144489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.145661,32.391213,-90.145661,32.391213",
+    "geom:latitude":32.391213,
+    "geom:longitude":-90.145661,
+    "iso:country":"US",
+    "sg:address":"6365 I- 55 N",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 899 1774",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85822959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HHufAHVU2b6VqnjvRee2h_32.391213_-90.145661@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123022,
+    "wof:geomhash":"4cd0e23fe2153fdf8edd582ce889b107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85822959,
+            "region_id":85688579,
+            "venue_id":857144489
+        }
+    ],
+    "wof:id":857144489,
+    "wof:lastmodified":1464123022,
+    "wof:name":"Target One Hour Photo",
+    "wof:parent_id":85822959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -90.145661,
+    32.391213,
+    -90.145661,
+    32.391213
+],
+  "geometry": {"coordinates":[-90.145661,32.391213],"type":"Point"}
+}

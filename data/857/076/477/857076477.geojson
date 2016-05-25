@@ -1,0 +1,66 @@
+{
+  "id": 857076477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.590935,32.342469,-88.590935,32.342469",
+    "geom:latitude":32.342469,
+    "geom:longitude":-88.590935,
+    "iso:country":"US",
+    "sg:address":"1918 Hwy 19 S",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3877",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jGeFGbV730ioFhkwTZawS_32.342469_-88.590935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121321,
+    "wof:geomhash":"30f4d1d9ee582a21c8bc58427184e86c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857076477
+        }
+    ],
+    "wof:id":857076477,
+    "wof:lastmodified":1464121321,
+    "wof:name":"Haguewood Management Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.590935,
+    32.342469,
+    -88.590935,
+    32.342469
+],
+  "geometry": {"coordinates":[-88.590935,32.342469],"type":"Point"}
+}

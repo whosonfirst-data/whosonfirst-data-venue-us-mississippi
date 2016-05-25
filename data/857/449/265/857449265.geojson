@@ -1,0 +1,75 @@
+{
+  "id": 857449265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.658975,33.602977,-88.658975,33.602977",
+    "geom:latitude":33.602977,
+    "geom:longitude":-88.658975,
+    "iso:country":"US",
+    "sg:address":"410 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 1982",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vm4wmBSGbOTmh7FSozcOI_33.602977_-88.658975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129742,
+    "wof:geomhash":"270d7d4978ceaf30e7cfc08eea0db0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857449265
+        }
+    ],
+    "wof:id":857449265,
+    "wof:lastmodified":1464129742,
+    "wof:name":"Buford's Auto Body Repair",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.658975,
+    33.602977,
+    -88.658975,
+    33.602977
+],
+  "geometry": {"coordinates":[-88.658975,33.602977],"type":"Point"}
+}

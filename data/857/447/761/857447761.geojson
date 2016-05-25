@@ -1,0 +1,73 @@
+{
+  "id": 857447761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.143558,32.353899,-90.143558,32.353899",
+    "geom:latitude":32.353899,
+    "geom:longitude":-90.143558,
+    "iso:country":"US",
+    "sg:address":"1540 Kimwood Cir",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 2814",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AgLbiwB8rjIZge4QIdRj4_32.353899_-90.143558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129717,
+    "wof:geomhash":"039d10615af3d026817ce6eaeded37b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857447761
+        }
+    ],
+    "wof:id":857447761,
+    "wof:lastmodified":1464129717,
+    "wof:name":"Mississippi Womens Bowl Assn",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [
+    -90.143558,
+    32.353899,
+    -90.143558,
+    32.353899
+],
+  "geometry": {"coordinates":[-90.143558,32.353899],"type":"Point"}
+}

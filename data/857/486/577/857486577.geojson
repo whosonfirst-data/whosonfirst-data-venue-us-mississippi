@@ -1,0 +1,71 @@
+{
+  "id": 857486577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589204,34.219073,-90.589204,34.219073",
+    "geom:latitude":34.219073,
+    "geom:longitude":-90.589204,
+    "iso:country":"US",
+    "sg:address":"618 Viney Ridge Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9527",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IMUkzpj2sA2ikoDgoajDA_34.219073_-90.589204@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130495,
+    "wof:geomhash":"f2eb0962587a5018b60a491ec16dec60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486577
+        }
+    ],
+    "wof:id":857486577,
+    "wof:lastmodified":1464130495,
+    "wof:name":"Johnson, Plumbing Company",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -90.589204,
+    34.219073,
+    -90.589204,
+    34.219073
+],
+  "geometry": {"coordinates":[-90.589204,34.219073],"type":"Point"}
+}

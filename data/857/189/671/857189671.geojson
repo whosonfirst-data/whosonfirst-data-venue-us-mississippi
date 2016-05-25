@@ -1,0 +1,66 @@
+{
+  "id": 857189671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402589,32.860123,-90.402589,32.860123",
+    "geom:latitude":32.860123,
+    "geom:longitude":-90.402589,
+    "iso:country":"US",
+    "sg:address":"935 Grand Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9065",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39NGHdHZl1eqmxeG6NvxMn_32.860123_-90.402589@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123984,
+    "wof:geomhash":"a0f318d76df56acc2cda2549c6d4fc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857189671
+        }
+    ],
+    "wof:id":857189671,
+    "wof:lastmodified":1464123984,
+    "wof:name":"Easy & Quick Stop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.402589,
+    32.860123,
+    -90.402589,
+    32.860123
+],
+  "geometry": {"coordinates":[-90.40258900000001,32.860123],"type":"Point"}
+}

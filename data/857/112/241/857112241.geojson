@@ -1,0 +1,71 @@
+{
+  "id": 857112241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.326098,33.530029,-88.326098,33.530029",
+    "geom:latitude":33.530029,
+    "geom:longitude":-88.326098,
+    "iso:country":"US",
+    "sg:address":"149 Cimarron Dr",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 9738",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qmrhkWthO21t65GMexX5P_33.530029_-88.326098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122237,
+    "wof:geomhash":"5c300706ab12e874d93f710eac068bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857112241
+        }
+    ],
+    "wof:id":857112241,
+    "wof:lastmodified":1464122237,
+    "wof:name":"Jumbonet",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -88.326098,
+    33.530029,
+    -88.326098,
+    33.530029
+],
+  "geometry": {"coordinates":[-88.326098,33.530029],"type":"Point"}
+}

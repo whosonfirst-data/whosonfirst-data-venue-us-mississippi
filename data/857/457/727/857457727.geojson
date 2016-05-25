@@ -1,0 +1,71 @@
+{
+  "id": 857457727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.993849,32.281498,-89.993849,32.281498",
+    "geom:latitude":32.281498,
+    "geom:longitude":-89.993849,
+    "iso:country":"US",
+    "sg:address":"105 N College St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 591 2246",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uqzrv7kIqZB6xFuFopVCx_32.281498_-89.993849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129909,
+    "wof:geomhash":"3999720444a3586b14d93531f40feb4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857457727
+        }
+    ],
+    "wof:id":857457727,
+    "wof:lastmodified":1464129909,
+    "wof:name":"Thomas J Lowe Jr",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.993849,
+    32.281498,
+    -89.993849,
+    32.281498
+],
+  "geometry": {"coordinates":[-89.993849,32.281498],"type":"Point"}
+}

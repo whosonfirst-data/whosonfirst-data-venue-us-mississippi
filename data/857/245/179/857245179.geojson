@@ -1,0 +1,80 @@
+{
+  "id": 857245179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.88945,30.42969,-88.88945,30.42969",
+    "geom:latitude":30.42969,
+    "geom:longitude":-88.88945,
+    "iso:country":"US",
+    "sg:address":"9994 Rodriguez St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 4940",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hz2jXmArQAtvtLliezhkt_30.429690_-88.889450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125141,
+    "wof:geomhash":"be9dfd5c9b53bfd841223d94f91e1498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857245179
+        }
+    ],
+    "wof:id":857245179,
+    "wof:lastmodified":1464125141,
+    "wof:name":"Reno's Restaurant & Lounge",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.88945,
+    30.42969,
+    -88.88945,
+    30.42969
+],
+  "geometry": {"coordinates":[-88.88945,30.42969],"type":"Point"}
+}

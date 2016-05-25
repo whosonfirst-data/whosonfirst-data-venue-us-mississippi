@@ -1,0 +1,73 @@
+{
+  "id": 857218523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707111,34.314205,-88.707111,34.314205",
+    "geom:latitude":34.314205,
+    "geom:longitude":-88.707111,
+    "iso:country":"US",
+    "sg:address":"1495 Co Rd 681",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3100",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49LFHbcunVjnLNSKgw8c7f_34.314205_-88.707111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124587,
+    "wof:geomhash":"5b7b12513a5accff5e6d1235e223e4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857218523
+        }
+    ],
+    "wof:id":857218523,
+    "wof:lastmodified":1464124587,
+    "wof:name":"Smith Motor Co LLC",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.707111,
+    34.314205,
+    -88.707111,
+    34.314205
+],
+  "geometry": {"coordinates":[-88.707111,34.314205],"type":"Point"}
+}

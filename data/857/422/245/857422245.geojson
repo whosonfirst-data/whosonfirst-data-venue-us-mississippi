@@ -1,0 +1,71 @@
+{
+  "id": 857422245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.272808,31.347803,-89.272808,31.347803",
+    "geom:latitude":31.347803,
+    "geom:longitude":-89.272808,
+    "iso:country":"US",
+    "sg:address":"826 US Hwy 11",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4653",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iuAq9zA2GbEPRI0yn1ddA_31.347803_-89.272808@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129155,
+    "wof:geomhash":"3f32480b69f3e7c54841b21175af804b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857422245
+        }
+    ],
+    "wof:id":857422245,
+    "wof:lastmodified":1464129155,
+    "wof:name":"Great South Fair",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau"
+    ]
+},
+  "bbox": [
+    -89.272808,
+    31.347803,
+    -89.272808,
+    31.347803
+],
+  "geometry": {"coordinates":[-89.272808,31.347803],"type":"Point"}
+}

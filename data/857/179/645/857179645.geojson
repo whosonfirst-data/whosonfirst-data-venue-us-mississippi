@@ -1,0 +1,73 @@
+{
+  "id": 857179645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.406622,32.853105,-90.406622,32.853105",
+    "geom:latitude":32.853105,
+    "geom:longitude":-90.406622,
+    "iso:country":"US",
+    "sg:address":"225 Grand Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4409",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32lgWfIloV0jsb0WiJGM7v_32.853105_-90.406622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123787,
+    "wof:geomhash":"636515ba1b75f02f5d365bfaa8856256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857179645
+        }
+    ],
+    "wof:id":857179645,
+    "wof:lastmodified":1464123787,
+    "wof:name":"Barbour Tours LLC",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -90.406622,
+    32.853105,
+    -90.406622,
+    32.853105
+],
+  "geometry": {"coordinates":[-90.406622,32.853105],"type":"Point"}
+}

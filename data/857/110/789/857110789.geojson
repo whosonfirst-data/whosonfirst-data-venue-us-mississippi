@@ -1,0 +1,66 @@
+{
+  "id": 857110789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55894,34.195748,-90.55894,34.195748",
+    "geom:latitude":34.195748,
+    "geom:longitude":-90.55894,
+    "iso:country":"US",
+    "sg:address":"1340 US Hwy 49",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 334 6022",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JjLqlW0HaHrfX7FL7hF4b_34.195748_-90.558940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122192,
+    "wof:geomhash":"cf1fb94d1d6a2dac73eb539a5253df6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857110789
+        }
+    ],
+    "wof:id":857110789,
+    "wof:lastmodified":1464122192,
+    "wof:name":"Tri-State Termite & Pest Cntrl",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.55894,
+    34.195748,
+    -90.55894,
+    34.195748
+],
+  "geometry": {"coordinates":[-90.55894000000001,34.195748],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857326577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180777,32.297266,-90.180777,32.297266",
+    "geom:latitude":32.297266,
+    "geom:longitude":-90.180777,
+    "iso:country":"US",
+    "sg:address":"214 S State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 9712",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L7GsqIB7xkDOuSphX34fi_32.297266_-90.180777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126981,
+    "wof:geomhash":"30c23b9d589b1b25e8368bce4ef5eff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857326577
+        }
+    ],
+    "wof:id":857326577,
+    "wof:lastmodified":1464126981,
+    "wof:name":"Martin's Restaurant & Lounge",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.180777,
+    32.297266,
+    -90.180777,
+    32.297266
+],
+  "geometry": {"coordinates":[-90.18077700000001,32.297266],"type":"Point"}
+}

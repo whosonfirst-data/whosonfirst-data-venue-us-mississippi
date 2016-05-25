@@ -1,0 +1,73 @@
+{
+  "id": 857353259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55362,30.370776,-88.55362,30.370776",
+    "geom:latitude":30.370776,
+    "geom:longitude":-88.55362,
+    "iso:country":"US",
+    "sg:address":"1031 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0494",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A5amArK8TQakzIr2gCF1p_30.370776_-88.553620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127559,
+    "wof:geomhash":"338d54edb3afb03c5be39cc5d5128f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857353259
+        }
+    ],
+    "wof:id":857353259,
+    "wof:lastmodified":1464127559,
+    "wof:name":"Cingular Wireless",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.55362,
+    30.370776,
+    -88.55362,
+    30.370776
+],
+  "geometry": {"coordinates":[-88.55362,30.370776],"type":"Point"}
+}

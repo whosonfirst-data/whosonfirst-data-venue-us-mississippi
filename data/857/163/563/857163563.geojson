@@ -1,0 +1,75 @@
+{
+  "id": 857163563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.553422,30.354808,-88.553422,30.354808",
+    "geom:latitude":30.354808,
+    "geom:longitude":-88.553422,
+    "iso:country":"US",
+    "sg:address":"1105 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 1955",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35WfOJ2LfO0jeyAtPN1M9G_30.354808_-88.553422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123433,
+    "wof:geomhash":"a77e97860751001746a13c632ae31b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857163563
+        }
+    ],
+    "wof:id":857163563,
+    "wof:lastmodified":1464123433,
+    "wof:name":"Pascagoula Service Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -88.553422,
+    30.354808,
+    -88.553422,
+    30.354808
+],
+  "geometry": {"coordinates":[-88.553422,30.354808],"type":"Point"}
+}

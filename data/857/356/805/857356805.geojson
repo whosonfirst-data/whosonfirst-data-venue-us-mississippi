@@ -1,0 +1,71 @@
+{
+  "id": 857356805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.523838,30.358367,-88.523838,30.358367",
+    "geom:latitude":30.358367,
+    "geom:longitude":-88.523838,
+    "iso:country":"US",
+    "sg:address":"1910 Martin St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 9800",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BGvoqaWvwIDjtMddBwP1F_30.358367_-88.523838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127631,
+    "wof:geomhash":"33f0537132a3c764fa4a578e616d6d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857356805
+        }
+    ],
+    "wof:id":857356805,
+    "wof:lastmodified":1464127631,
+    "wof:name":"Game Room",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.523838,
+    30.358367,
+    -88.523838,
+    30.358367
+],
+  "geometry": {"coordinates":[-88.523838,30.358367],"type":"Point"}
+}

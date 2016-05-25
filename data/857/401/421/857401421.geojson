@@ -1,0 +1,71 @@
+{
+  "id": 857401421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.717178,34.122275,-88.717178,34.122275",
+    "geom:latitude":34.122275,
+    "geom:longitude":-88.717178,
+    "iso:country":"US",
+    "sg:address":"109 Armstrong Dr",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 3893",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBIIUIgl8Q7ZfcK3Jy1i8_34.122275_-88.717178@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128655,
+    "wof:geomhash":"65acca9341e5c01c4f130f9cf4731048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857401421
+        }
+    ],
+    "wof:id":857401421,
+    "wof:lastmodified":1464128655,
+    "wof:name":"Shannon Appliance Repair",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.717178,
+    34.122275,
+    -88.717178,
+    34.122275
+],
+  "geometry": {"coordinates":[-88.717178,34.122275],"type":"Point"}
+}

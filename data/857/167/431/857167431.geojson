@@ -1,0 +1,71 @@
+{
+  "id": 857167431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838459,33.453947,-88.838459,33.453947",
+    "geom:latitude":33.453947,
+    "geom:longitude":-88.838459,
+    "iso:country":"US",
+    "sg:address":"2200 Pin Oak Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 9787",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cqKV4sCA2DIeax9ywQgRo_33.453947_-88.838459@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123520,
+    "wof:geomhash":"655c041af57a998c2f5f43888b5da2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857167431
+        }
+    ],
+    "wof:id":857167431,
+    "wof:lastmodified":1464123520,
+    "wof:name":"House Master Of America",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -88.838459,
+    33.453947,
+    -88.838459,
+    33.453947
+],
+  "geometry": {"coordinates":[-88.838459,33.453947],"type":"Point"}
+}

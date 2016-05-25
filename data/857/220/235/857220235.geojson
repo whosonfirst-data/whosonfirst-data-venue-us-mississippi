@@ -1,0 +1,73 @@
+{
+  "id": 857220235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707086,34.307518,-88.707086,34.307518",
+    "geom:latitude":34.307518,
+    "geom:longitude":-88.707086,
+    "iso:country":"US",
+    "sg:address":"3574 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 0536",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XgnoqZCqT1ah7Sq1w7grc_34.307518_-88.707086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124617,
+    "wof:geomhash":"e60380ed0f82ac4a0f9efd5a29fa004b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857220235
+        }
+    ],
+    "wof:id":857220235,
+    "wof:lastmodified":1464124617,
+    "wof:name":"Jim Walter Homes Inc",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -88.707086,
+    34.307518,
+    -88.707086,
+    34.307518
+],
+  "geometry": {"coordinates":[-88.707086,34.307518],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857153161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.857726,34.96213,-89.857726,34.96213",
+    "geom:latitude":34.96213,
+    "geom:longitude":-89.857726,
+    "iso:country":"US",
+    "sg:address":"7501 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 3382",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7jTkTZw7wHADRaypSAN9_34.962130_-89.857726@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123210,
+    "wof:geomhash":"d8865b862c46892b113494619c868057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857153161
+        }
+    ],
+    "wof:id":857153161,
+    "wof:lastmodified":1464123210,
+    "wof:name":"Cross Creek Physical Therapy",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.857726,
+    34.96213,
+    -89.857726,
+    34.96213
+],
+  "geometry": {"coordinates":[-89.857726,34.96213],"type":"Point"}
+}

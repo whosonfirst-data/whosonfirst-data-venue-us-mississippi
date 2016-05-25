@@ -1,0 +1,73 @@
+{
+  "id": 857391823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71662,34.236096,-88.71662,34.236096",
+    "geom:latitude":34.236096,
+    "geom:longitude":-88.71662,
+    "iso:country":"US",
+    "sg:address":"1573 Medical Park Cir",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9885",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lQLhqnYJuQaCXOUXQJykC_34.236096_-88.716620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128464,
+    "wof:geomhash":"407113f3d9f0d08fdc2696bd08c90c84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857391823
+        }
+    ],
+    "wof:id":857391823,
+    "wof:lastmodified":1464128464,
+    "wof:name":"North Mississippi Pediatrics",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.71662,
+    34.236096,
+    -88.71662,
+    34.236096
+],
+  "geometry": {"coordinates":[-88.71662000000001,34.236096],"type":"Point"}
+}

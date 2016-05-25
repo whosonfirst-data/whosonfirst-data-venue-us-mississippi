@@ -1,0 +1,80 @@
+{
+  "id": 857152177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.556316,30.364535,-88.556316,30.364535",
+    "geom:latitude":30.364535,
+    "geom:longitude":-88.556316,
+    "iso:country":"US",
+    "sg:address":"3033 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6263",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Be8lACjpP2ycbnU2zLzMe_30.364535_-88.556316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123189,
+    "wof:geomhash":"16edbba68930249768ee96bb9a108447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857152177
+        }
+    ],
+    "wof:id":857152177,
+    "wof:lastmodified":1464123189,
+    "wof:name":"Jackson County Economic Dev",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "adm"
+    ]
+},
+  "bbox": [
+    -88.556316,
+    30.364535,
+    -88.556316,
+    30.364535
+],
+  "geometry": {"coordinates":[-88.556316,30.364535],"type":"Point"}
+}

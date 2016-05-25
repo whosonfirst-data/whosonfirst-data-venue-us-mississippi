@@ -1,0 +1,75 @@
+{
+  "id": 857300937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.790526,30.411118,-88.790526,30.411118",
+    "geom:latitude":30.411118,
+    "geom:longitude":-88.790526,
+    "iso:country":"US",
+    "sg:address":"2812 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 4802",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hLzBkbK7PQNDJmRguADQ8_30.411118_-88.790526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126431,
+    "wof:geomhash":"42719090d9b0d2194136ae203a414c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857300937
+        }
+    ],
+    "wof:id":857300937,
+    "wof:lastmodified":1464126431,
+    "wof:name":"Jackson Plumbing Co Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.790526,
+    30.411118,
+    -88.790526,
+    30.411118
+],
+  "geometry": {"coordinates":[-88.790526,30.411118],"type":"Point"}
+}

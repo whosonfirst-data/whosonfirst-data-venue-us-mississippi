@@ -1,0 +1,72 @@
+{
+  "id": 857354091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.62762,32.411119,-88.62762,32.411119",
+    "geom:latitude":32.411119,
+    "geom:longitude":-88.62762,
+    "iso:country":"US",
+    "sg:address":"1115 NE Industrial Park Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 7132",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.fedex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RS61RbWMU5ekvwOgGLQhI_32.411119_-88.627620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127575,
+    "wof:geomhash":"65d10c44c51e42d095af67906a89c57e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857354091
+        }
+    ],
+    "wof:id":857354091,
+    "wof:lastmodified":1464127575,
+    "wof:name":"Fed Ex Freight",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.62762,
+    32.411119,
+    -88.62762,
+    32.411119
+],
+  "geometry": {"coordinates":[-88.62761999999999,32.411119],"type":"Point"}
+}

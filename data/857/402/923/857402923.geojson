@@ -1,0 +1,73 @@
+{
+  "id": 857402923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.244604,31.358062,-89.244604,31.358062",
+    "geom:latitude":31.358062,
+    "geom:longitude":-89.244604,
+    "iso:country":"US",
+    "sg:address":"106 Hamilton Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3504",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gH38PM72rORsNGQoXGwJ4_31.358062_-89.244604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128682,
+    "wof:geomhash":"7e5ca5bf12bcd43ebb0f95d703bf9237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857402923
+        }
+    ],
+    "wof:id":857402923,
+    "wof:lastmodified":1464128682,
+    "wof:name":"A E Rogers Locksmith",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.244604,
+    31.358062,
+    -89.244604,
+    31.358062
+],
+  "geometry": {"coordinates":[-89.244604,31.358062],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857242259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.330981,31.379406,-89.330981,31.379406",
+    "geom:latitude":31.379406,
+    "geom:longitude":-89.330981,
+    "iso:country":"US",
+    "sg:address":"67 Wesley Grant Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 5275",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NieDHU0yARB3xWZI41WUj_31.379406_-89.330981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125065,
+    "wof:geomhash":"7401d5b5d2c7c5c693ff4e61e86f692f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857242259
+        }
+    ],
+    "wof:id":857242259,
+    "wof:lastmodified":1464125065,
+    "wof:name":"Gyro Alignment Center",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.330981,
+    31.379406,
+    -89.330981,
+    31.379406
+],
+  "geometry": {"coordinates":[-89.33098099999999,31.379406],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857129395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.177605,32.306651,-90.177605,32.306651",
+    "geom:latitude":32.306651,
+    "geom:longitude":-90.177605,
+    "iso:country":"US",
+    "sg:address":"666 North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 948 1481",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hIVsO0XUItuz9CskYs5xc_32.306651_-90.177605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122659,
+    "wof:geomhash":"d0821fbeb7f59a111d4a69e51327c5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857129395
+        }
+    ],
+    "wof:id":857129395,
+    "wof:lastmodified":1464122659,
+    "wof:name":"David Nutt & Assoc",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.177605,
+    32.306651,
+    -90.177605,
+    32.306651
+],
+  "geometry": {"coordinates":[-90.177605,32.306651],"type":"Point"}
+}

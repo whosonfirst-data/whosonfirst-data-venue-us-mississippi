@@ -1,0 +1,92 @@
+{
+  "id": 857140991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.88607,32.346552,-90.88607,32.346552",
+    "geom:latitude":32.346552,
+    "geom:longitude":-90.88607,
+    "iso:country":"US",
+    "sg:address":"1721 Levee St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 8238",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "steel",
+        "repair",
+        "sheet",
+        "shop",
+        "mfg",
+        "metal",
+        "machine",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Tcc4uQyK40DVqFwDOgR6_32.346552_-90.886070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122914,
+    "wof:geomhash":"de2ba8cce70ca3be72a560ea2ac0ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857140991
+        }
+    ],
+    "wof:id":857140991,
+    "wof:lastmodified":1464122914,
+    "wof:name":"Ricky's Welding & Machine Shop",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "repair",
+        "sheet",
+        "shop",
+        "mfg",
+        "metal",
+        "machine",
+        "structural"
+    ]
+},
+  "bbox": [
+    -90.88607,
+    32.346552,
+    -90.88607,
+    32.346552
+],
+  "geometry": {"coordinates":[-90.88607,32.346552],"type":"Point"}
+}

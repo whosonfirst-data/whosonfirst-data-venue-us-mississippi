@@ -1,0 +1,73 @@
+{
+  "id": 857179507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.227769,32.30724,-90.227769,32.30724",
+    "geom:latitude":32.30724,
+    "geom:longitude":-90.227769,
+    "iso:country":"US",
+    "sg:address":"801 Ellis Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 353 8961",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75byk2ENdyytuvW20gGNQV_32.307240_-90.227769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123785,
+    "wof:geomhash":"adcd55131467c2951ba6807b6b04ff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857179507
+        }
+    ],
+    "wof:id":857179507,
+    "wof:lastmodified":1464123785,
+    "wof:name":"Hallmark Cleaners",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.227769,
+    32.30724,
+    -90.227769,
+    32.30724
+],
+  "geometry": {"coordinates":[-90.227769,32.30724],"type":"Point"}
+}

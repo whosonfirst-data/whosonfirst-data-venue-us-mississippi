@@ -1,0 +1,71 @@
+{
+  "id": 857465141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.576617,33.829212,-88.576617,33.829212",
+    "geom:latitude":33.829212,
+    "geom:longitude":-88.576617,
+    "iso:country":"US",
+    "sg:address":"101 Walters Dr",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4250",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3skFi8xySwncf5umx9MDWJ_33.829212_-88.576617@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130070,
+    "wof:geomhash":"37bd82a1fb35ba98002e0d9e2f875056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857465141
+        }
+    ],
+    "wof:id":857465141,
+    "wof:lastmodified":1464130070,
+    "wof:name":"Nelda's Beauty Korner",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.576617,
+    33.829212,
+    -88.576617,
+    33.829212
+],
+  "geometry": {"coordinates":[-88.576617,33.829212],"type":"Point"}
+}

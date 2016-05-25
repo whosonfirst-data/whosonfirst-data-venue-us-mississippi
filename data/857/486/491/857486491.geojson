@@ -1,0 +1,72 @@
+{
+  "id": 857486491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.777544,34.839115,-89.777544,34.839115",
+    "geom:latitude":34.839115,
+    "geom:longitude":-89.777544,
+    "iso:country":"US",
+    "sg:address":"1325 Lee Rd",
+    "sg:city":"Byhalia",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 838 7118",
+    "sg:postcode":"38611",
+    "sg:province":"MS",
+    "sg:tags":[
+        "kennel"
+    ],
+    "sg:website":"http://www.desotocountrykennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jzWe4meWrRwBsrAjXGsQp_34.839115_-89.777544@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130494,
+    "wof:geomhash":"363053dc5a434cd8c0752d153cd555c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857486491
+        }
+    ],
+    "wof:id":857486491,
+    "wof:lastmodified":1464130494,
+    "wof:name":"Country Kennels",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -89.777544,
+    34.839115,
+    -89.777544,
+    34.839115
+],
+  "geometry": {"coordinates":[-89.77754400000001,34.839115],"type":"Point"}
+}

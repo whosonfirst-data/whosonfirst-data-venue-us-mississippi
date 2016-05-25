@@ -1,0 +1,71 @@
+{
+  "id": 857176765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41222,33.510657,-88.41222,33.510657",
+    "geom:latitude":33.510657,
+    "geom:longitude":-88.41222,
+    "iso:country":"US",
+    "sg:address":"1920 N 14th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6524",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IFCc27bdYRsLPVi3A6kJh_33.510657_-88.412220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123728,
+    "wof:geomhash":"116c2e955056641f80ae18900a64c3c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857176765
+        }
+    ],
+    "wof:id":857176765,
+    "wof:lastmodified":1464123728,
+    "wof:name":"Great American Car Care",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.41222,
+    33.510657,
+    -88.41222,
+    33.510657
+],
+  "geometry": {"coordinates":[-88.41222,33.510657],"type":"Point"}
+}

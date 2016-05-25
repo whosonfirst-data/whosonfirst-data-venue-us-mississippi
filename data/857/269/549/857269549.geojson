@@ -1,0 +1,75 @@
+{
+  "id": 857269549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429787,33.605299,-88.429787,33.605299",
+    "geom:latitude":33.605299,
+    "geom:longitude":-88.429787,
+    "iso:country":"US",
+    "sg:address":"100 Victor Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 7744",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_751fEE7FvorBdCAPYStVwS_33.605299_-88.429787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125677,
+    "wof:geomhash":"185f2f26e89d4ea53da3f9d826dacdb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857269549
+        }
+    ],
+    "wof:id":857269549,
+    "wof:lastmodified":1464125677,
+    "wof:name":"Victory Christian Academy",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.429787,
+    33.605299,
+    -88.429787,
+    33.605299
+],
+  "geometry": {"coordinates":[-88.429787,33.605299],"type":"Point"}
+}

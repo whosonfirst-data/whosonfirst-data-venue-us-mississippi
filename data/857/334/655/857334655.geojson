@@ -1,0 +1,73 @@
+{
+  "id": 857334655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331116,31.298685,-89.331116,31.298685",
+    "geom:latitude":31.298685,
+    "geom:longitude":-89.331116,
+    "iso:country":"US",
+    "sg:address":"1700 S 28th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2971",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwMYmOYuKoDeBcHOn3wYk_31.298685_-89.331116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127160,
+    "wof:geomhash":"a9d5067ec53315ab893efb8022aee6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857334655
+        }
+    ],
+    "wof:id":857334655,
+    "wof:lastmodified":1464127160,
+    "wof:name":"Office of Hearings & Appeals",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -89.331116,
+    31.298685,
+    -89.331116,
+    31.298685
+],
+  "geometry": {"coordinates":[-89.33111599999999,31.298685],"type":"Point"}
+}

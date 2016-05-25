@@ -1,0 +1,94 @@
+{
+  "id": 857490509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.10718,32.462684,-90.10718,32.462684",
+    "geom:latitude":32.462684,
+    "geom:longitude":-90.10718,
+    "iso:country":"US",
+    "sg:address":"7736 Old Canton Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 3681",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O9kRljX1H8I0qTEO089LF_32.462684_-90.107180@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130605,
+    "wof:geomhash":"3e6dcb14a9e2e2caba53787cb8aa9ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857490509
+        }
+    ],
+    "wof:id":857490509,
+    "wof:lastmodified":1464130605,
+    "wof:name":"Healy Insurance",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -90.10718,
+    32.462684,
+    -90.10718,
+    32.462684
+],
+  "geometry": {"coordinates":[-90.10718,32.462684],"type":"Point"}
+}

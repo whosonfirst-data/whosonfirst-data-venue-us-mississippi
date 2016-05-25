@@ -1,0 +1,78 @@
+{
+  "id": 857079615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.100481,30.457725,-89.100481,30.457725",
+    "geom:latitude":30.457725,
+    "geom:longitude":-89.100481,
+    "iso:country":"US",
+    "sg:address":"12036 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 314 7755",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cuPyhd4Dvv1J9Ne5qZJyQ_30.457725_-89.100481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121394,
+    "wof:geomhash":"fe2ea2e93413b697b37d5e5fb7ae7c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857079615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857079615
+        }
+    ],
+    "wof:id":857079615,
+    "wof:lastmodified":1464121394,
+    "wof:name":"Coast Community Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.100481,
+    30.457725,
+    -89.100481,
+    30.457725
+],
+  "geometry": {"coordinates":[-89.100481,30.457725],"type":"Point"}
+}

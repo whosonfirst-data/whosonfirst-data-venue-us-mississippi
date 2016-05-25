@@ -1,0 +1,67 @@
+{
+  "id": 857220917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418031,33.506008,-88.418031,33.506008",
+    "geom:latitude":33.506008,
+    "geom:longitude":-88.418031,
+    "iso:country":"US",
+    "sg:address":"1425 N 10th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 7280",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:website":"www.columbuscityschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ChOhItPyafS5fGWIacvAN_33.506008_-88.418031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124631,
+    "wof:geomhash":"4182db90ca92d2733692f4e134a82cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857220917
+        }
+    ],
+    "wof:id":857220917,
+    "wof:lastmodified":1464124631,
+    "wof:name":"Union Academy",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.418031,
+    33.506008,
+    -88.418031,
+    33.506008
+],
+  "geometry": {"coordinates":[-88.418031,33.506008],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857445833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795241,34.97256,-89.795241,34.97256",
+    "geom:latitude":34.97256,
+    "geom:longitude":-89.795241,
+    "iso:country":"US",
+    "sg:address":"7685 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 7841",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vHGSH91HphH71DOMiaS2f_34.972560_-89.795241@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129680,
+    "wof:geomhash":"e524d3e8ac08b1284ac90266481bbc36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857445833
+        }
+    ],
+    "wof:id":857445833,
+    "wof:lastmodified":1464129680,
+    "wof:name":"Cash 4U",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -89.795241,
+    34.97256,
+    -89.795241,
+    34.97256
+],
+  "geometry": {"coordinates":[-89.795241,34.97256],"type":"Point"}
+}

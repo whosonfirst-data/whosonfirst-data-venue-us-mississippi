@@ -1,0 +1,73 @@
+{
+  "id": 857128885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.706541,34.247159,-89.706541,34.247159",
+    "geom:latitude":34.247159,
+    "geom:longitude":-89.706541,
+    "iso:country":"US",
+    "sg:address":"128 Co Rd 354",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8634",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ORGZfQAPSBvsusdH5FQEX_34.247159_-89.706541@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122644,
+    "wof:geomhash":"128d2434737f69c7a479f90eb52a32f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857128885
+        }
+    ],
+    "wof:id":857128885,
+    "wof:lastmodified":1464122644,
+    "wof:name":"Smoke House Meats",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -89.706541,
+    34.247159,
+    -89.706541,
+    34.247159
+],
+  "geometry": {"coordinates":[-89.706541,34.247159],"type":"Point"}
+}

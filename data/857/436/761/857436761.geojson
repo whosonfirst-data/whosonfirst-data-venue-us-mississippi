@@ -1,0 +1,68 @@
+{
+  "id": 857436761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.809338,33.475455,-88.809338,33.475455",
+    "geom:latitude":33.475455,
+    "geom:longitude":-88.809338,
+    "iso:country":"US",
+    "sg:address":"121 Mae St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 615 4493",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02qQ4o7QscPbl6MHvFkH5M_33.475455_-88.809338@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129507,
+    "wof:geomhash":"a4aa3630f90fef5a20001fc094ea0526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857436761
+        }
+    ],
+    "wof:id":857436761,
+    "wof:lastmodified":1464129507,
+    "wof:name":"Peter's Rock Food Pantry",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.809338,
+    33.475455,
+    -88.809338,
+    33.475455
+],
+  "geometry": {"coordinates":[-88.809338,33.475455],"type":"Point"}
+}

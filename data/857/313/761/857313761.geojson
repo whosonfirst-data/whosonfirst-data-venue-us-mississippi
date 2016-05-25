@@ -1,0 +1,71 @@
+{
+  "id": 857313761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540688,33.821276,-88.540688,33.821276",
+    "geom:latitude":33.821276,
+    "geom:longitude":-88.540688,
+    "iso:country":"US",
+    "sg:address":"405 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 319 8990",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGJW7fA4wO6GqUwJPABiA_33.821276_-88.540688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126699,
+    "wof:geomhash":"911c6c66b82361793d501d5f624c5274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857313761
+        }
+    ],
+    "wof:id":857313761,
+    "wof:lastmodified":1464126699,
+    "wof:name":"Outpatient Behavioral Svc",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.540688,
+    33.821276,
+    -88.540688,
+    33.821276
+],
+  "geometry": {"coordinates":[-88.540688,33.821276],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857111125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575122,34.190682,-90.575122,34.190682",
+    "geom:latitude":34.190682,
+    "geom:longitude":-90.575122,
+    "iso:country":"US",
+    "sg:address":"426 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8169",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2phEPmk1Paa4GqxInsjX7g_34.190682_-90.575122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122210,
+    "wof:geomhash":"04f8821cd50f8967947a2cf42f187e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857111125
+        }
+    ],
+    "wof:id":857111125,
+    "wof:lastmodified":1464122210,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -90.575122,
+    34.190682,
+    -90.575122,
+    34.190682
+],
+  "geometry": {"coordinates":[-90.57512199999999,34.190682],"type":"Point"}
+}

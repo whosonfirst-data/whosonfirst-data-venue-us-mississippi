@@ -1,0 +1,73 @@
+{
+  "id": 857147505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.637008,30.420998,-88.637008,30.420998",
+    "geom:latitude":30.420998,
+    "geom:longitude":-88.637008,
+    "iso:country":"US",
+    "sg:address":"1709 Martin Bluff Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 4221",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z0K2iTySvdSiKZ4VjxyXi_30.420998_-88.637008@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123089,
+    "wof:geomhash":"8ddc380b4e42d07836af6b48c01cb66d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857147505
+        }
+    ],
+    "wof:id":857147505,
+    "wof:lastmodified":1464123089,
+    "wof:name":"Glenmark Apartments",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.637008,
+    30.420998,
+    -88.637008,
+    30.420998
+],
+  "geometry": {"coordinates":[-88.63700799999999,30.420998],"type":"Point"}
+}

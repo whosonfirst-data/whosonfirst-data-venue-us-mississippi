@@ -1,0 +1,72 @@
+{
+  "id": 857409639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685883,34.227583,-88.685883,34.227583",
+    "geom:latitude":34.227583,
+    "geom:longitude":-88.685883,
+    "iso:country":"US",
+    "sg:address":"2023 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6038",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.mastec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gT5Ltx9wgEbU96OUeaUyK_34.227583_-88.685883@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128825,
+    "wof:geomhash":"3477bafc195f67219ca382dd91a8d763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857409639
+        }
+    ],
+    "wof:id":857409639,
+    "wof:lastmodified":1464128825,
+    "wof:name":"Mas Tec",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -88.685883,
+    34.227583,
+    -88.685883,
+    34.227583
+],
+  "geometry": {"coordinates":[-88.685883,34.227583],"type":"Point"}
+}

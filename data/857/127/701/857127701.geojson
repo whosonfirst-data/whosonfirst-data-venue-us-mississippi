@@ -1,0 +1,77 @@
+{
+  "id": 857127701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.086578,30.385097,-89.086578,30.385097",
+    "geom:latitude":30.385097,
+    "geom:longitude":-89.086578,
+    "iso:country":"US",
+    "sg:address":"2820 20th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 7792",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2ZiwlY9T8giRBTLyOpPB_30.385097_-89.086578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122621,
+    "wof:geomhash":"7f0b7707f2e7c21f73c1cd79b49d2cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857127701
+        }
+    ],
+    "wof:id":857127701,
+    "wof:lastmodified":1464122621,
+    "wof:name":"Fore Harlin Paint & Body Shop",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.086578,
+    30.385097,
+    -89.086578,
+    30.385097
+],
+  "geometry": {"coordinates":[-89.086578,30.385097],"type":"Point"}
+}

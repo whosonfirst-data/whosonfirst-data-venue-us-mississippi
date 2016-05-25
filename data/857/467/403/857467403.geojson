@@ -1,0 +1,75 @@
+{
+  "id": 857467403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.546401,31.424781,-89.546401,31.424781",
+    "geom:latitude":31.424781,
+    "geom:longitude":-89.546401,
+    "iso:country":"US",
+    "sg:address":"3 Preston St",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 0100",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J4t8WyPnwJVID9mJ4SIPg_31.424781_-89.546401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130113,
+    "wof:geomhash":"31951ac287d3536b2895776a3d69e67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857467403
+        }
+    ],
+    "wof:id":857467403,
+    "wof:lastmodified":1464130113,
+    "wof:name":"Hit Video",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -89.546401,
+    31.424781,
+    -89.546401,
+    31.424781
+],
+  "geometry": {"coordinates":[-89.546401,31.424781],"type":"Point"}
+}

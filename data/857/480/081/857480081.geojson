@@ -1,0 +1,72 @@
+{
+  "id": 857480081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.577449,34.189836,-90.577449,34.189836",
+    "geom:latitude":34.189836,
+    "geom:longitude":-90.577449,
+    "iso:country":"US",
+    "sg:address":"610 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/5/243321-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8779",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BXoypEs3tW1mOJ73UCQte_34.189836_-90.577449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130371,
+    "wof:geomhash":"34324f08994282a1c45510efb86f506d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857480081
+        }
+    ],
+    "wof:id":857480081,
+    "wof:lastmodified":1464130371,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.577449,
+    34.189836,
+    -90.577449,
+    34.189836
+],
+  "geometry": {"coordinates":[-90.577449,34.189836],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857103977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.859533,34.976013,-89.859533,34.976013",
+    "geom:latitude":34.976013,
+    "geom:longitude":-89.859533,
+    "iso:country":"US",
+    "sg:address":"7209 Maygan Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 6699",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_193vA1bk38XVZreSI6AoSm_34.976013_-89.859533@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122006,
+    "wof:geomhash":"e89fdd5b88d304dfcca574a0b356e568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857103977
+        }
+    ],
+    "wof:id":857103977,
+    "wof:lastmodified":1464122006,
+    "wof:name":"De Soto Collision Ctr",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.859533,
+    34.976013,
+    -89.859533,
+    34.976013
+],
+  "geometry": {"coordinates":[-89.859533,34.976013],"type":"Point"}
+}

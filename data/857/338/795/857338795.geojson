@@ -1,0 +1,71 @@
+{
+  "id": 857338795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575464,34.201057,-90.575464,34.201057",
+    "geom:latitude":34.201057,
+    "geom:longitude":-90.575464,
+    "iso:country":"US",
+    "sg:address":"121 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 8136",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PElzry6ZWLlocpf8naMXZ_34.201057_-90.575464@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127248,
+    "wof:geomhash":"1134c72cfca50e412ee7c0c2394ae27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857338795
+        }
+    ],
+    "wof:id":857338795,
+    "wof:lastmodified":1464127248,
+    "wof:name":"Clarksdale City Clerk",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -90.575464,
+    34.201057,
+    -90.575464,
+    34.201057
+],
+  "geometry": {"coordinates":[-90.575464,34.201057],"type":"Point"}
+}

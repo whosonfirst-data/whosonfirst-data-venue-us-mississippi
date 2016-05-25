@@ -1,0 +1,71 @@
+{
+  "id": 857401637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.183797,30.362966,-89.183797,30.362966",
+    "geom:latitude":30.362966,
+    "geom:longitude":-89.183797,
+    "iso:country":"US",
+    "sg:address":"517 Cypress Dr",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 2133",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hpaIBXTOMOSHNRSmZFA2_30.362966_-89.183797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128660,
+    "wof:geomhash":"d200292459e570039fa469a7efc3bd68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857401637
+        }
+    ],
+    "wof:id":857401637,
+    "wof:lastmodified":1464128660,
+    "wof:name":"Bolden Photography",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -89.183797,
+    30.362966,
+    -89.183797,
+    30.362966
+],
+  "geometry": {"coordinates":[-89.183797,30.362966],"type":"Point"}
+}

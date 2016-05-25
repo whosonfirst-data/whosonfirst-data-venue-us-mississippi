@@ -1,0 +1,73 @@
+{
+  "id": 857120115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.798032,34.773317,-89.798032,34.773317",
+    "geom:latitude":34.773317,
+    "geom:longitude":-89.798032,
+    "iso:country":"US",
+    "sg:address":"5918 Sycamore Dr",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 233 1016",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H1DKZeUijXzHrLAOSpUnj_34.773317_-89.798032@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122452,
+    "wof:geomhash":"962fccf97f9c2900ab7dc6662236ec66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857120115
+        }
+    ],
+    "wof:id":857120115,
+    "wof:lastmodified":1464122452,
+    "wof:name":"Samples Construction Svc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.798032,
+    34.773317,
+    -89.798032,
+    34.773317
+],
+  "geometry": {"coordinates":[-89.79803200000001,34.773317],"type":"Point"}
+}

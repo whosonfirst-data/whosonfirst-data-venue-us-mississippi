@@ -1,0 +1,71 @@
+{
+  "id": 857161839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.409486,32.844322,-90.409486,32.844322",
+    "geom:latitude":32.844322,
+    "geom:longitude":-90.409486,
+    "iso:country":"US",
+    "sg:address":"213 E Jefferson St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6102",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YHCUxSqJIWibSClOLGxqO_32.844322_-90.409486@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123400,
+    "wof:geomhash":"66a4f49798a8d0f971374e4cd5a74640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857161839
+        }
+    ],
+    "wof:id":857161839,
+    "wof:lastmodified":1464123400,
+    "wof:name":"Edward B Bond DDS",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.409486,
+    32.844322,
+    -90.409486,
+    32.844322
+],
+  "geometry": {"coordinates":[-90.409486,32.844322],"type":"Point"}
+}

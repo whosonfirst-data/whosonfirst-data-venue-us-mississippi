@@ -1,0 +1,71 @@
+{
+  "id": 857381167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.329706,32.322311,-90.329706,32.322311",
+    "geom:latitude":32.322311,
+    "geom:longitude":-90.329706,
+    "iso:country":"US",
+    "sg:address":"408 Hollyberry Dr",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 6094",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_362n0A1HP3m4dM5uarvhum_32.322311_-90.329706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128154,
+    "wof:geomhash":"3e1d5de7d065a54d808a7f5db47b6e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857381167
+        }
+    ],
+    "wof:id":857381167,
+    "wof:lastmodified":1464128154,
+    "wof:name":"M & B Auto Transport Inc",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.329706,
+    32.322311,
+    -90.329706,
+    32.322311
+],
+  "geometry": {"coordinates":[-90.329706,32.322311],"type":"Point"}
+}

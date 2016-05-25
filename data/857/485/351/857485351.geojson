@@ -1,0 +1,74 @@
+{
+  "id": 857485351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433206,33.515345,-88.433206,33.515345",
+    "geom:latitude":33.515345,
+    "geom:longitude":-88.433206,
+    "iso:country":"US",
+    "sg:address":"1460 Old Aberdeen Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/columbus/156110-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5811",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3994naQBRJdv4K6r0S7RSj_33.515345_-88.433206@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130474,
+    "wof:geomhash":"b4dd01132914c5db0b253e216a1b1be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857485351
+        }
+    ],
+    "wof:id":857485351,
+    "wof:lastmodified":1464130474,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.433206,
+    33.515345,
+    -88.433206,
+    33.515345
+],
+  "geometry": {"coordinates":[-88.433206,33.515345],"type":"Point"}
+}

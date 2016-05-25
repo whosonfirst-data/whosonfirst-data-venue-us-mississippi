@@ -1,0 +1,73 @@
+{
+  "id": 857370431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.556155,30.3548,-88.556155,30.3548",
+    "geom:latitude":30.3548,
+    "geom:longitude":-88.556155,
+    "iso:country":"US",
+    "sg:address":"903 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7910",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rFzf3O4xP71UdbRzjvscb_30.354800_-88.556155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127915,
+    "wof:geomhash":"0f18f49939ff2c07bc1381dc924c95ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857370431
+        }
+    ],
+    "wof:id":857370431,
+    "wof:lastmodified":1464127915,
+    "wof:name":"Continental Construction",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.556155,
+    30.3548,
+    -88.556155,
+    30.3548
+],
+  "geometry": {"coordinates":[-88.556155,30.3548],"type":"Point"}
+}

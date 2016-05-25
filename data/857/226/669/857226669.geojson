@@ -1,0 +1,73 @@
+{
+  "id": 857226669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720095,34.20623,-88.720095,34.20623",
+    "geom:latitude":34.20623,
+    "geom:longitude":-88.720095,
+    "iso:country":"US",
+    "sg:address":"2710 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 2556",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53XtM8R60xbXxm4Qiwhxe4_34.206230_-88.720095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124741,
+    "wof:geomhash":"147b25654fe77e11f0c9f78a69b53358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857226669
+        }
+    ],
+    "wof:id":857226669,
+    "wof:lastmodified":1464124741,
+    "wof:name":"Rebel Auto Sales",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.720095,
+    34.20623,
+    -88.720095,
+    34.20623
+],
+  "geometry": {"coordinates":[-88.720095,34.20623],"type":"Point"}
+}

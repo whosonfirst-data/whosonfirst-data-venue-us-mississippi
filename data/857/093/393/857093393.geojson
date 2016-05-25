@@ -1,0 +1,73 @@
+{
+  "id": 857093393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518104,34.368935,-89.518104,34.368935",
+    "geom:latitude":34.368935,
+    "geom:longitude":-89.518104,
+    "iso:country":"US",
+    "sg:address":"440 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 4265",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "impact",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03URtSfTTbWQvogUKbLmA8_34.368935_-89.518104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121759,
+    "wof:geomhash":"8a98dc52d60fbecb89b0cae6810028cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857093393
+        }
+    ],
+    "wof:id":857093393,
+    "wof:lastmodified":1464121759,
+    "wof:name":"United Way Oxford Lfyette Cnty",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "impact",
+        "community"
+    ]
+},
+  "bbox": [
+    -89.518104,
+    34.368935,
+    -89.518104,
+    34.368935
+],
+  "geometry": {"coordinates":[-89.51810399999999,34.368935],"type":"Point"}
+}

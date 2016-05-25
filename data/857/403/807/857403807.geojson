@@ -1,0 +1,68 @@
+{
+  "id": 857403807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.89363,30.463457,-88.89363,30.463457",
+    "geom:latitude":30.463457,
+    "geom:longitude":-88.89363,
+    "iso:country":"US",
+    "sg:address":"3508 S River Ridge Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 5836",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gVUpNlWuZ9UHbvVeEjpDg_30.463457_-88.893630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128699,
+    "wof:geomhash":"44e1dd0022c4efaf49d014fed4ba8d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857403807
+        }
+    ],
+    "wof:id":857403807,
+    "wof:lastmodified":1464128699,
+    "wof:name":"Opowell Rentals",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.89363,
+    30.463457,
+    -88.89363,
+    30.463457
+],
+  "geometry": {"coordinates":[-88.89363,30.463457],"type":"Point"}
+}

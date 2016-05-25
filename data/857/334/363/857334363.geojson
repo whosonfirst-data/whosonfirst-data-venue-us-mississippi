@@ -1,0 +1,76 @@
+{
+  "id": 857334363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.539242,34.376335,-89.539242,34.376335",
+    "geom:latitude":34.376335,
+    "geom:longitude":-89.539242,
+    "iso:country":"US",
+    "sg:address":"520 College Hill Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8611",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IXF7rNR01Y8EecE0sYLz8_34.376335_-89.539242@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127155,
+    "wof:geomhash":"0a2d239ba0fb9d91a873d26ae717e1fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857334363
+        }
+    ],
+    "wof:id":857334363,
+    "wof:lastmodified":1464127155,
+    "wof:name":"Anne Strand Dr",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -89.539242,
+    34.376335,
+    -89.539242,
+    34.376335
+],
+  "geometry": {"coordinates":[-89.539242,34.376335],"type":"Point"}
+}

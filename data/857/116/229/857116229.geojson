@@ -1,0 +1,73 @@
+{
+  "id": 857116229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.647189,33.60756,-88.647189,33.60756",
+    "geom:latitude":33.60756,
+    "geom:longitude":-88.647189,
+    "iso:country":"US",
+    "sg:address":"150 Cottrell St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 6272",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66tNfJFf5I10mg8baLt4sk_33.607560_-88.647189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122352,
+    "wof:geomhash":"ff8ead0c29570f2996b7eca0035c1d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857116229
+        }
+    ],
+    "wof:id":857116229,
+    "wof:lastmodified":1464122352,
+    "wof:name":"Royal's Church Supply Ctr",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.647189,
+    33.60756,
+    -88.647189,
+    33.60756
+],
+  "geometry": {"coordinates":[-88.647189,33.60756],"type":"Point"}
+}

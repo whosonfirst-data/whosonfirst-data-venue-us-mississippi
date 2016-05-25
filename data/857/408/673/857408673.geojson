@@ -1,0 +1,77 @@
+{
+  "id": 857408673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.203539,32.289347,-90.203539,32.289347",
+    "geom:latitude":32.289347,
+    "geom:longitude":-90.203539,
+    "iso:country":"US",
+    "sg:address":"1431 Terry Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 944 0492",
+    "sg:postcode":"39204",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xN5AmgvneMFjmbRdZ6KgV_32.289347_-90.203539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128807,
+    "wof:geomhash":"b22a586d2221746dddfcc6c890b810ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857408673
+        }
+    ],
+    "wof:id":857408673,
+    "wof:lastmodified":1464128807,
+    "wof:name":"Mr Tint",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -90.203539,
+    32.289347,
+    -90.203539,
+    32.289347
+],
+  "geometry": {"coordinates":[-90.20353900000001,32.289347],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857356301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58559,33.851561,-88.58559,33.851561",
+    "geom:latitude":33.851561,
+    "geom:longitude":-88.58559,
+    "iso:country":"US",
+    "sg:address":"813 Hwy 145 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8894",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YPopTFeTORWOhuMlnjpt2_33.851561_-88.585590@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127622,
+    "wof:geomhash":"2160a19e0de1fa40210adafd57c7e2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857356301
+        }
+    ],
+    "wof:id":857356301,
+    "wof:lastmodified":1464127622,
+    "wof:name":"Lift Inc",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.58559,
+    33.851561,
+    -88.58559,
+    33.851561
+],
+  "geometry": {"coordinates":[-88.58559,33.851561],"type":"Point"}
+}

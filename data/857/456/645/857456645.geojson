@@ -1,0 +1,71 @@
+{
+  "id": 857456645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56836,34.203746,-90.56836,34.203746",
+    "geom:latitude":34.203746,
+    "geom:longitude":-90.56836,
+    "iso:country":"US",
+    "sg:address":"220 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8487",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CgGJ4z1ITNRQXRhkFFmcx_34.203746_-90.568360@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129884,
+    "wof:geomhash":"7f89fd3cdb3cd582295c03300f045d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857456645
+        }
+    ],
+    "wof:id":857456645,
+    "wof:lastmodified":1464129884,
+    "wof:name":"City Fire Dept",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.56836,
+    34.203746,
+    -90.56836,
+    34.203746
+],
+  "geometry": {"coordinates":[-90.56836,34.203746],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857118149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.543931,34.375748,-89.543931,34.375748",
+    "geom:latitude":34.375748,
+    "geom:longitude":-89.543931,
+    "iso:country":"US",
+    "sg:address":"105 Ole Miss Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7861",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zpLer7S2GqdttRxNTS2ae_34.375748_-89.543931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122413,
+    "wof:geomhash":"6659a258b3321a3b9a23d798b8e1160a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857118149
+        }
+    ],
+    "wof:id":857118149,
+    "wof:lastmodified":1464122413,
+    "wof:name":"Analysis Technologies",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -89.543931,
+    34.375748,
+    -89.543931,
+    34.375748
+],
+  "geometry": {"coordinates":[-89.543931,34.375748],"type":"Point"}
+}

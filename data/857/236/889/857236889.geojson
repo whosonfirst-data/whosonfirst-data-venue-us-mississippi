@@ -1,0 +1,73 @@
+{
+  "id": 857236889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543659,30.422685,-88.543659,30.422685",
+    "geom:latitude":30.422685,
+    "geom:longitude":-88.543659,
+    "iso:country":"US",
+    "sg:address":"5725 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7651",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55rBypdp3VDZdnIR9X7Ot0_30.422685_-88.543659@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124943,
+    "wof:geomhash":"aa4e0f017d4a71dc8bd5477121510296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857236889
+        }
+    ],
+    "wof:id":857236889,
+    "wof:lastmodified":1464124943,
+    "wof:name":"Williams Machine Works Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.543659,
+    30.422685,
+    -88.543659,
+    30.422685
+],
+  "geometry": {"coordinates":[-88.54365900000001,30.422685],"type":"Point"}
+}

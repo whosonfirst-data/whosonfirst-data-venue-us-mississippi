@@ -1,0 +1,73 @@
+{
+  "id": 857250917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543931,33.814966,-88.543931,33.814966",
+    "geom:latitude":33.814966,
+    "geom:longitude":-88.543931,
+    "iso:country":"US",
+    "sg:address":"818 S Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4003",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iU0gXh72RLEmXiIRwjQQW_33.814966_-88.543931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125268,
+    "wof:geomhash":"31b38e1e67ffddba8feb483ce93386d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857250917
+        }
+    ],
+    "wof:id":857250917,
+    "wof:lastmodified":1464125268,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.543931,
+    33.814966,
+    -88.543931,
+    33.814966
+],
+  "geometry": {"coordinates":[-88.543931,33.814966],"type":"Point"}
+}

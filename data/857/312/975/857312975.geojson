@@ -1,0 +1,73 @@
+{
+  "id": 857312975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.401225,33.543182,-88.401225,33.543182",
+    "geom:latitude":33.543182,
+    "geom:longitude":-88.401225,
+    "iso:country":"US",
+    "sg:address":"70 Ridgewood Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 243 2499",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ekRZDlvG1ZWWko8Zmb8Z_33.543182_-88.401225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126680,
+    "wof:geomhash":"282b868d8ddc9fbd16822d98835a9620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857312975
+        }
+    ],
+    "wof:id":857312975,
+    "wof:lastmodified":1464126680,
+    "wof:name":"Ridgewood Properties LLC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.401225,
+    33.543182,
+    -88.401225,
+    33.543182
+],
+  "geometry": {"coordinates":[-88.401225,33.543182],"type":"Point"}
+}

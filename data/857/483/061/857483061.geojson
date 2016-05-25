@@ -1,0 +1,76 @@
+{
+  "id": 857483061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.058609,32.359053,-90.058609,32.359053",
+    "geom:latitude":32.359053,
+    "geom:longitude":-90.058609,
+    "iso:country":"US",
+    "sg:address":"1693 Old Fannin Rd",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/pearl/66803-pizza-pro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 4552",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85814785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XcAO5PHDKHZ5ZWdbyUgRu_32.359053_-90.058609@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130429,
+    "wof:geomhash":"794fe3bfa26ba4f12a0504a408bfa68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85814785,
+            "region_id":85688579,
+            "venue_id":857483061
+        }
+    ],
+    "wof:id":857483061,
+    "wof:lastmodified":1464130429,
+    "wof:name":"Pizza Pro",
+    "wof:parent_id":85814785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.058609,
+    32.359053,
+    -90.058609,
+    32.359053
+],
+  "geometry": {"coordinates":[-90.058609,32.359053],"type":"Point"}
+}

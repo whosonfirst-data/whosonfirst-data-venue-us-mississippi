@@ -1,0 +1,71 @@
+{
+  "id": 857258723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.514959,30.37187,-88.514959,30.37187",
+    "geom:latitude":30.37187,
+    "geom:longitude":-88.514959,
+    "iso:country":"US",
+    "sg:address":"4706 Catalina Ct",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 8105",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PYgDnBJFjvuZSJnDu2Fj4_30.371870_-88.514959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125467,
+    "wof:geomhash":"45e5c0c86d1bfed679cab7de62ae16a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857258723
+        }
+    ],
+    "wof:id":857258723,
+    "wof:lastmodified":1464125467,
+    "wof:name":"Lears Construction",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.514959,
+    30.37187,
+    -88.514959,
+    30.37187
+],
+  "geometry": {"coordinates":[-88.514959,30.37187],"type":"Point"}
+}

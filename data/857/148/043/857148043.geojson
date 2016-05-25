@@ -1,0 +1,71 @@
+{
+  "id": 857148043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51679,34.403273,-89.51679,34.403273",
+    "geom:latitude":34.403273,
+    "geom:longitude":-89.51679,
+    "iso:country":"US",
+    "sg:address":"288 Co Rd 101",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3149",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R3LKLXoZXyGtZGr8L6gVm_34.403273_-89.516790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123100,
+    "wof:geomhash":"c3b62285b9cb62f6e9aa262cb1e5fc76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857148043
+        }
+    ],
+    "wof:id":857148043,
+    "wof:lastmodified":1464123100,
+    "wof:name":"Oxford Muffler Radiator & Accs",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.51679,
+    34.403273,
+    -89.51679,
+    34.403273
+],
+  "geometry": {"coordinates":[-89.51679,34.403273],"type":"Point"}
+}

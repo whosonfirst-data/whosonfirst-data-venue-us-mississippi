@@ -1,0 +1,73 @@
+{
+  "id": 857326457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.545268,30.366164,-88.545268,30.366164",
+    "geom:latitude":30.366164,
+    "geom:longitude":-88.545268,
+    "iso:country":"US",
+    "sg:address":"1824 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9895",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "trad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NVh3w5kJpNfr2P8CA2bUn_30.366164_-88.545268@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126978,
+    "wof:geomhash":"0bc6271018696756cc9718c4201cc579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857326457
+        }
+    ],
+    "wof:id":857326457,
+    "wof:lastmodified":1464126978,
+    "wof:name":"Imperial Customs",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "trad"
+    ]
+},
+  "bbox": [
+    -88.545268,
+    30.366164,
+    -88.545268,
+    30.366164
+],
+  "geometry": {"coordinates":[-88.54526799999999,30.366164],"type":"Point"}
+}

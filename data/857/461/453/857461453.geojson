@@ -1,0 +1,75 @@
+{
+  "id": 857461453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.537033,30.389496,-88.537033,30.389496",
+    "geom:latitude":30.389496,
+    "geom:longitude":-88.537033,
+    "iso:country":"US",
+    "sg:address":"2520 Jefferson Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 8855",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EQ82F2YhtV7zdDKQbP9fT_30.389496_-88.537033@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129982,
+    "wof:geomhash":"c114de5ae8872c2311120ec41de77dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857461453
+        }
+    ],
+    "wof:id":857461453,
+    "wof:lastmodified":1464129982,
+    "wof:name":"First Class Paint & Body Shop",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.537033,
+    30.389496,
+    -88.537033,
+    30.389496
+],
+  "geometry": {"coordinates":[-88.53703299999999,30.389496],"type":"Point"}
+}

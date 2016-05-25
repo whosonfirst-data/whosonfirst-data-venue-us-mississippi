@@ -1,0 +1,73 @@
+{
+  "id": 857101943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.040462,30.385044,-89.040462,30.385044",
+    "geom:latitude":30.385044,
+    "geom:longitude":-89.040462,
+    "iso:country":"US",
+    "sg:address":"215 Woodbine Dr",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 9822",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vpA2NvIWGCSUFIJPQM7fX_30.385044_-89.040462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121960,
+    "wof:geomhash":"b3b2f35bae3b32010c3a8273299926fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857101943
+        }
+    ],
+    "wof:id":857101943,
+    "wof:lastmodified":1464121960,
+    "wof:name":"Peaks & Assoc",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -89.040462,
+    30.385044,
+    -89.040462,
+    30.385044
+],
+  "geometry": {"coordinates":[-89.04046200000001,30.385044],"type":"Point"}
+}

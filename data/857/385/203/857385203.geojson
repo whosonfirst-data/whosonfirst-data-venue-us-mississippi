@@ -1,0 +1,71 @@
+{
+  "id": 857385203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.425269,33.49548,-88.425269,33.49548",
+    "geom:latitude":33.49548,
+    "geom:longitude":-88.425269,
+    "iso:country":"US",
+    "sg:address":"900 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9977",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42cIDmpTPkir866BdB1HUq_33.495480_-88.425269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128280,
+    "wof:geomhash":"1ac8c006b53815aa096f7114450bdb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857385203
+        }
+    ],
+    "wof:id":857385203,
+    "wof:lastmodified":1464128280,
+    "wof:name":"Sandy Blair",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -88.425269,
+    33.49548,
+    -88.425269,
+    33.49548
+],
+  "geometry": {"coordinates":[-88.425269,33.49548],"type":"Point"}
+}

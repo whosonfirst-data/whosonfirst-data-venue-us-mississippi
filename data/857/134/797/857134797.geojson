@@ -1,0 +1,73 @@
+{
+  "id": 857134797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707143,32.412579,-88.707143,32.412579",
+    "geom:latitude":32.412579,
+    "geom:longitude":-88.707143,
+    "iso:country":"US",
+    "sg:address":"5008 Great River Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8212",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vMbpQ7ByEtCWruzjTPLZW_32.412579_-88.707143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122779,
+    "wof:geomhash":"796b5bb7d16f66f0acd68bdb6a6eec2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857134797
+        }
+    ],
+    "wof:id":857134797,
+    "wof:lastmodified":1464122779,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -88.707143,
+    32.412579,
+    -88.707143,
+    32.412579
+],
+  "geometry": {"coordinates":[-88.707143,32.412579],"type":"Point"}
+}

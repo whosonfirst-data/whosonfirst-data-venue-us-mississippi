@@ -1,0 +1,73 @@
+{
+  "id": 857290895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573129,34.191569,-90.573129,34.191569",
+    "geom:latitude":34.191569,
+    "geom:longitude":-90.573129,
+    "iso:country":"US",
+    "sg:address":"90 Hickory St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6090",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "re",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Pc6YFhidqciBfQYzLmpy_34.191569_-90.573129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126165,
+    "wof:geomhash":"65eb41fb7077205913ea85b6e89964d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857290895
+        }
+    ],
+    "wof:id":857290895,
+    "wof:lastmodified":1464126165,
+    "wof:name":"Campassi Sporting Goods",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "re",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -90.573129,
+    34.191569,
+    -90.573129,
+    34.191569
+],
+  "geometry": {"coordinates":[-90.57312899999999,34.191569],"type":"Point"}
+}

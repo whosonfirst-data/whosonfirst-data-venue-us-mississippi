@@ -1,0 +1,76 @@
+{
+  "id": 857234999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720753,34.241177,-88.720753,34.241177",
+    "geom:latitude":34.241177,
+    "geom:longitude":-88.720753,
+    "iso:country":"US",
+    "sg:address":"915 Garfield St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 4440",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n5uR6UmzTv4f3kJ6vcVA4_34.241177_-88.720753@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124902,
+    "wof:geomhash":"be9cf9b37817e381db981dc46c3bca04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857234999
+        }
+    ],
+    "wof:id":857234999,
+    "wof:lastmodified":1464124902,
+    "wof:name":"One D'Ville Place",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.720753,
+    34.241177,
+    -88.720753,
+    34.241177
+],
+  "geometry": {"coordinates":[-88.720753,34.241177],"type":"Point"}
+}

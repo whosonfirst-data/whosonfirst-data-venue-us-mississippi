@@ -1,0 +1,71 @@
+{
+  "id": 857399633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.32582,32.326155,-90.32582,32.326155",
+    "geom:latitude":32.326155,
+    "geom:longitude":-90.32582,
+    "iso:country":"US",
+    "sg:address":"507 Springridge Rd",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 0073",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FbHpuB4j4ejTUlL0YmepQ_32.326155_-90.325820@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128615,
+    "wof:geomhash":"cebaea62df0f3523df42eb15e55d623e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857399633
+        }
+    ],
+    "wof:id":857399633,
+    "wof:lastmodified":1464128615,
+    "wof:name":"Clinton Finance",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -90.32582,
+    32.326155,
+    -90.32582,
+    32.326155
+],
+  "geometry": {"coordinates":[-90.32581999999999,32.326155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857407925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.117479,30.438456,-89.117479,30.438456",
+    "geom:latitude":30.438456,
+    "geom:longitude":-89.117479,
+    "iso:country":"US",
+    "sg:address":"16030 Landon Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 365 7752",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDzeD5GPS2V2JQkv63U4l_30.438456_-89.117479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128793,
+    "wof:geomhash":"d96e4b8637575ac9a8c42dfe90a272a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857407925
+        }
+    ],
+    "wof:id":857407925,
+    "wof:lastmodified":1464128793,
+    "wof:name":"Giuffria Coin",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -89.117479,
+    30.438456,
+    -89.117479,
+    30.438456
+],
+  "geometry": {"coordinates":[-89.117479,30.438456],"type":"Point"}
+}

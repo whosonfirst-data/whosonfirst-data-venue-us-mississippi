@@ -1,0 +1,78 @@
+{
+  "id": 857381341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.578731,34.369562,-89.578731,34.369562",
+    "geom:latitude":34.369562,
+    "geom:longitude":-89.578731,
+    "iso:country":"US",
+    "sg:address":"827 Maplewood Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2683",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I8abAiNCGyn7FHNu7qHtr_34.369562_-89.578731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128160,
+    "wof:geomhash":"1e514606986850fb98f660b7c9da2596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857381341
+        }
+    ],
+    "wof:id":857381341,
+    "wof:lastmodified":1464128160,
+    "wof:name":"Dean Properties LLC",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.578731,
+    34.369562,
+    -89.578731,
+    34.369562
+],
+  "geometry": {"coordinates":[-89.578731,34.369562],"type":"Point"}
+}

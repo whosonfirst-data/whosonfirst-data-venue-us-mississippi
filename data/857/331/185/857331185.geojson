@@ -1,0 +1,71 @@
+{
+  "id": 857331185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.48307,34.433897,-89.48307,34.433897",
+    "geom:latitude":34.433897,
+    "geom:longitude":-89.48307,
+    "iso:country":"US",
+    "sg:address":"250 Co Rd 204",
+    "sg:city":"Abbeville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4072",
+    "sg:postcode":"38601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marshal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gOarr4gBql3hFiyDDpV3t_34.433897_-89.483070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127081,
+    "wof:geomhash":"94044a2866e486121def70799929bd01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857331185
+        }
+    ],
+    "wof:id":857331185,
+    "wof:lastmodified":1464127081,
+    "wof:name":"David Box Hoit",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marshal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.48307,
+    34.433897,
+    -89.48307,
+    34.433897
+],
+  "geometry": {"coordinates":[-89.48307,34.433897],"type":"Point"}
+}

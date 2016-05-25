@@ -1,0 +1,75 @@
+{
+  "id": 857258599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442756,31.577946,-90.442756,31.577946",
+    "geom:latitude":31.577946,
+    "geom:longitude":-90.442756,
+    "iso:country":"US",
+    "sg:address":"225 S Railroad Ave",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 835 4433",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nd4HkYdUGMnIKu2nASkPm_31.577946_-90.442756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125465,
+    "wof:geomhash":"4c57b01e3a6d741753c2a9952459c52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857258599
+        }
+    ],
+    "wof:id":857258599,
+    "wof:lastmodified":1464125465,
+    "wof:name":"Raymond James Financial Svc",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -90.442756,
+    31.577946,
+    -90.442756,
+    31.577946
+],
+  "geometry": {"coordinates":[-90.442756,31.577946],"type":"Point"}
+}

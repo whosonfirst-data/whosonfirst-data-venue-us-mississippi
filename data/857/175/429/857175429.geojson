@@ -1,0 +1,71 @@
+{
+  "id": 857175429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.722594,34.347646,-88.722594,34.347646",
+    "geom:latitude":34.347646,
+    "geom:longitude":-88.722594,
+    "iso:country":"US",
+    "sg:address":"162 Devils Backbone Rd",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 3064",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KCheLuC72tPeBdaLK1wIQ_34.347646_-88.722594@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123701,
+    "wof:geomhash":"ad306e117d517c4c9d76339ef4f9b816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857175429
+        }
+    ],
+    "wof:id":857175429,
+    "wof:lastmodified":1464123701,
+    "wof:name":"Moyer Plumbing Co",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.722594,
+    34.347646,
+    -88.722594,
+    34.347646
+],
+  "geometry": {"coordinates":[-88.722594,34.347646],"type":"Point"}
+}

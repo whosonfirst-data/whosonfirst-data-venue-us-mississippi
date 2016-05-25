@@ -1,0 +1,73 @@
+{
+  "id": 857089153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557817,30.365674,-88.557817,30.365674",
+    "geom:latitude":30.365674,
+    "geom:longitude":-88.557817,
+    "iso:country":"US",
+    "sg:address":"3118 Canty St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6516",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ShM8hcEiJxBQxCzL5pGfy_30.365674_-88.557817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121647,
+    "wof:geomhash":"91d11c1237b8d9e8325b0ff123b65981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857089153
+        }
+    ],
+    "wof:id":857089153,
+    "wof:lastmodified":1464121647,
+    "wof:name":"Jackson County Assn-Sickle Cll",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.557817,
+    30.365674,
+    -88.557817,
+    30.365674
+],
+  "geometry": {"coordinates":[-88.557817,30.365674],"type":"Point"}
+}

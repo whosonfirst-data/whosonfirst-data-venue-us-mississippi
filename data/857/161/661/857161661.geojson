@@ -1,0 +1,71 @@
+{
+  "id": 857161661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636909,34.361804,-88.636909,34.361804",
+    "geom:latitude":34.361804,
+    "geom:longitude":-88.636909,
+    "iso:country":"US",
+    "sg:address":"111 Co Rd 1119",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 1766",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jRuf50j621mloZlYIz8ZU_34.361804_-88.636909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123396,
+    "wof:geomhash":"01c79a42f57a8846d87cbef365d953c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857161661
+        }
+    ],
+    "wof:id":857161661,
+    "wof:lastmodified":1464123396,
+    "wof:name":"Slaytons Concrete Construction",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.636909,
+    34.361804,
+    -88.636909,
+    34.361804
+],
+  "geometry": {"coordinates":[-88.636909,34.361804],"type":"Point"}
+}

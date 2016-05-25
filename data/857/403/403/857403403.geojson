@@ -1,0 +1,78 @@
+{
+  "id": 857403403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530944,30.382433,-88.530944,30.382433",
+    "geom:latitude":30.382433,
+    "geom:longitude":-88.530944,
+    "iso:country":"US",
+    "sg:address":"2811 Andrew Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 5377",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43pmpoEAwhDUqyEsvFa4Nh_30.382433_-88.530944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128690,
+    "wof:geomhash":"aca04a11b412a06d2331f8be589b5cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857403403
+        }
+    ],
+    "wof:id":857403403,
+    "wof:lastmodified":1464128690,
+    "wof:name":"Mims Tire & Automotive",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.530944,
+    30.382433,
+    -88.530944,
+    30.382433
+],
+  "geometry": {"coordinates":[-88.53094400000001,30.382433],"type":"Point"}
+}

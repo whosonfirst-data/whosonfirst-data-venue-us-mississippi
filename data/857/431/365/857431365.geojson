@@ -1,0 +1,71 @@
+{
+  "id": 857431365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331109,31.337695,-89.331109,31.337695",
+    "geom:latitude":31.337695,
+    "geom:longitude":-89.331109,
+    "iso:country":"US",
+    "sg:address":"801 N 28th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 5010",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75wYlhaJpDT4PfESyJJOOB_31.337695_-89.331109@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129373,
+    "wof:geomhash":"5505660c9bded689183cc26d776f2c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857431365
+        }
+    ],
+    "wof:id":857431365,
+    "wof:lastmodified":1464129373,
+    "wof:name":"Peppertree Apartments",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.331109,
+    31.337695,
+    -89.331109,
+    31.337695
+],
+  "geometry": {"coordinates":[-89.331109,31.337695],"type":"Point"}
+}

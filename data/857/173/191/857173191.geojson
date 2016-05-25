@@ -1,0 +1,75 @@
+{
+  "id": 857173191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.260591,31.346012,-89.260591,31.346012",
+    "geom:latitude":31.346012,
+    "geom:longitude":-89.260591,
+    "iso:country":"US",
+    "sg:address":"101 Morris St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2004",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "aid",
+        "first",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zJt5JAGnEsO0RxaIDRP8t_31.346012_-89.260591@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123660,
+    "wof:geomhash":"430dca6a1e25faa3b61b1c76f4eed099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857173191
+        }
+    ],
+    "wof:id":857173191,
+    "wof:lastmodified":1464123660,
+    "wof:name":"Cintas First Aid & Safety",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "first",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.260591,
+    31.346012,
+    -89.260591,
+    31.346012
+],
+  "geometry": {"coordinates":[-89.26059100000001,31.346012],"type":"Point"}
+}

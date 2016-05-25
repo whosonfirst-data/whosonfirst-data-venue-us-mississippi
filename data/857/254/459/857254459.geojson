@@ -1,0 +1,71 @@
+{
+  "id": 857254459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.553817,30.369345,-88.553817,30.369345",
+    "geom:latitude":30.369345,
+    "geom:longitude":-88.553817,
+    "iso:country":"US",
+    "sg:address":"1208 Live Oak Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4155",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lKbaQSmg0fB2LU4utYhwi_30.369345_-88.553817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125361,
+    "wof:geomhash":"0ad49a9cb7d1c17a84ad77885e6c8986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857254459
+        }
+    ],
+    "wof:id":857254459,
+    "wof:lastmodified":1464125361,
+    "wof:name":"Coast Line Frame & Collision",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.553817,
+    30.369345,
+    -88.553817,
+    30.369345
+],
+  "geometry": {"coordinates":[-88.553817,30.369345],"type":"Point"}
+}

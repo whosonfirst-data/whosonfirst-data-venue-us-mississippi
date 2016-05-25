@@ -1,0 +1,73 @@
+{
+  "id": 857370809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.329431,32.340209,-90.329431,32.340209",
+    "geom:latitude":32.340209,
+    "geom:longitude":-90.329431,
+    "iso:country":"US",
+    "sg:address":"300 Monroe St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 2147",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_103qYEiCA77IGi5GnCIyAj_32.340209_-90.329431@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127922,
+    "wof:geomhash":"ed93b86351d515de5c321f8655963341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857370809
+        }
+    ],
+    "wof:id":857370809,
+    "wof:lastmodified":1464127922,
+    "wof:name":"Pette's Place",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.329431,
+    32.340209,
+    -90.329431,
+    32.340209
+],
+  "geometry": {"coordinates":[-90.329431,32.340209],"type":"Point"}
+}

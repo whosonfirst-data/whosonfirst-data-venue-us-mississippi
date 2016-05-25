@@ -1,0 +1,68 @@
+{
+  "id": 857453451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.170953,32.317869,-90.170953,32.317869",
+    "geom:latitude":32.317869,
+    "geom:longitude":-90.170953,
+    "iso:country":"US",
+    "sg:address":"1500 Peachtree St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 968 5948",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04aGI7LFbp53WM38tQQNjK_32.317869_-90.170953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129826,
+    "wof:geomhash":"b9eb25fc2284c7528b067fe80ceedb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857453451
+        }
+    ],
+    "wof:id":857453451,
+    "wof:lastmodified":1464129826,
+    "wof:name":"Warren A Hood Library",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.170953,
+    32.317869,
+    -90.170953,
+    32.317869
+],
+  "geometry": {"coordinates":[-90.170953,32.317869],"type":"Point"}
+}

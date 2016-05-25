@@ -1,0 +1,68 @@
+{
+  "id": 857488415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.975425,34.965808,-89.975425,34.965808",
+    "geom:latitude":34.965808,
+    "geom:longitude":-89.975425,
+    "iso:country":"US",
+    "sg:address":"7269 Sunflower Cv",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 342 8294",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D8Jj1GnYi4GpetZRDAtol_34.965808_-89.975425@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130545,
+    "wof:geomhash":"c4751baf2c12c817474984d115b8e67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857488415
+        }
+    ],
+    "wof:id":857488415,
+    "wof:lastmodified":1464130545,
+    "wof:name":"Mr Taxi",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.975425,
+    34.965808,
+    -89.975425,
+    34.965808
+],
+  "geometry": {"coordinates":[-89.975425,34.965808],"type":"Point"}
+}

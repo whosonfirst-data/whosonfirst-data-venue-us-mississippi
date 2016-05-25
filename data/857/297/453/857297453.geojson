@@ -1,0 +1,69 @@
+{
+  "id": 857297453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.983761,31.955899,-90.983761,31.955899",
+    "geom:latitude":31.955899,
+    "geom:longitude":-90.983761,
+    "iso:country":"US",
+    "sg:address":"1091 US Hwy 61",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 0079",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FSq9BP8AMslDzICCj6RJq_31.955899_-90.983761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126353,
+    "wof:geomhash":"62c256ed150e63f52bca927ad41902c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857297453
+        }
+    ],
+    "wof:id":857297453,
+    "wof:lastmodified":1464126353,
+    "wof:name":"Fields 24-Hour Towing",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.983761,
+    31.955899,
+    -90.983761,
+    31.955899
+],
+  "geometry": {"coordinates":[-90.983761,31.955899],"type":"Point"}
+}

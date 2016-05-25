@@ -1,0 +1,78 @@
+{
+  "id": 857490989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.147234,32.221171,-90.147234,32.221171",
+    "geom:latitude":32.221171,
+    "geom:longitude":-90.147234,
+    "iso:country":"US",
+    "sg:address":"410 E Harper St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 3400",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33pwnt962KAXod61v77qno_32.221171_-90.147234@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130618,
+    "wof:geomhash":"f2a1b73b8ae329b793d403826d53c26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857490989
+        }
+    ],
+    "wof:id":857490989,
+    "wof:lastmodified":1464130618,
+    "wof:name":"Richland Park & Recreation Dep",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -90.147234,
+    32.221171,
+    -90.147234,
+    32.221171
+],
+  "geometry": {"coordinates":[-90.147234,32.221171],"type":"Point"}
+}

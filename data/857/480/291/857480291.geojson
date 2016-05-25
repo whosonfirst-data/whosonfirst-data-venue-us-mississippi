@@ -1,0 +1,76 @@
+{
+  "id": 857480291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.033137,34.49604,-89.033137,34.49604",
+    "geom:latitude":34.49604,
+    "geom:longitude":-89.033137,
+    "iso:country":"US",
+    "sg:address":"112 Park Plaza Dr",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/new-albany/183248-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 9697",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YaoSOpfs9Hgezcv7I6FYN_34.496040_-89.033137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130375,
+    "wof:geomhash":"ef75b65d097901b6f31251cc29c493f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857480291
+        }
+    ],
+    "wof:id":857480291,
+    "wof:lastmodified":1464130375,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -89.033137,
+    34.49604,
+    -89.033137,
+    34.49604
+],
+  "geometry": {"coordinates":[-89.033137,34.49604],"type":"Point"}
+}

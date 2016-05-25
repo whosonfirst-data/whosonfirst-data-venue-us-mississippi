@@ -1,0 +1,73 @@
+{
+  "id": 857249853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696666,32.366703,-88.696666,32.366703",
+    "geom:latitude":32.366703,
+    "geom:longitude":-88.696666,
+    "iso:country":"US",
+    "sg:address":"1803 6th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3919",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ecuKWQQMCRPc29mUwOs8H_32.366703_-88.696666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125238,
+    "wof:geomhash":"ac997d2eb6f0fc0a168ea85e10b6e813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857249853
+        }
+    ],
+    "wof:id":857249853,
+    "wof:lastmodified":1464125238,
+    "wof:name":"East Mississippi Ob Gyn Assoc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.696666,
+    32.366703,
+    -88.696666,
+    32.366703
+],
+  "geometry": {"coordinates":[-88.69666599999999,32.366703],"type":"Point"}
+}

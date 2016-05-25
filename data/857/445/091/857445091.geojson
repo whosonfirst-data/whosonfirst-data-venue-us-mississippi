@@ -1,0 +1,73 @@
+{
+  "id": 857445091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.832192,34.889401,-89.832192,34.889401",
+    "geom:latitude":34.889401,
+    "geom:longitude":-89.832192,
+    "iso:country":"US",
+    "sg:address":"8905 Bethel Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 8465",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58DEW8CCpsOpcL3bH9MfcR_34.889401_-89.832192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129660,
+    "wof:geomhash":"629880213b68408139a658aa67437ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857445091
+        }
+    ],
+    "wof:id":857445091,
+    "wof:lastmodified":1464129660,
+    "wof:name":"Baldwin Construction",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.832192,
+    34.889401,
+    -89.832192,
+    34.889401
+],
+  "geometry": {"coordinates":[-89.83219200000001,34.889401],"type":"Point"}
+}

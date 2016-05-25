@@ -1,0 +1,75 @@
+{
+  "id": 857310203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.324616,31.346225,-89.324616,31.346225",
+    "geom:latitude":31.346225,
+    "geom:longitude":-89.324616,
+    "iso:country":"US",
+    "sg:address":"298 Cahal St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 9157",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16nKcEGGm1pqJ2uazjegGp_31.346225_-89.324616@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126622,
+    "wof:geomhash":"1e01a9025317288f5c1e2a5ac9bf5dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857310203
+        }
+    ],
+    "wof:id":857310203,
+    "wof:lastmodified":1464126622,
+    "wof:name":"Bedford Care Center",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -89.324616,
+    31.346225,
+    -89.324616,
+    31.346225
+],
+  "geometry": {"coordinates":[-89.32461600000001,31.346225],"type":"Point"}
+}

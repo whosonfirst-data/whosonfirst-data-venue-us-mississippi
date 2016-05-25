@@ -1,0 +1,75 @@
+{
+  "id": 857258819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.513249,34.375693,-89.513249,34.375693",
+    "geom:latitude":34.375693,
+    "geom:longitude":-89.513249,
+    "iso:country":"US",
+    "sg:address":"1204 Pleasant Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2060",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FA4ZJrXmGY3BuAz7ynsT9_34.375693_-89.513249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125469,
+    "wof:geomhash":"07452dbfe563d37d432e54db03faad44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857258819
+        }
+    ],
+    "wof:id":857258819,
+    "wof:lastmodified":1464125469,
+    "wof:name":"Health DEPT-Wic Program",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -89.513249,
+    34.375693,
+    -89.513249,
+    34.375693
+],
+  "geometry": {"coordinates":[-89.513249,34.375693],"type":"Point"}
+}

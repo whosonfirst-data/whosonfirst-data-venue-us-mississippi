@@ -1,0 +1,67 @@
+{
+  "id": 857189537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43125,33.596658,-88.43125,33.596658",
+    "geom:latitude":33.596658,
+    "geom:longitude":-88.43125,
+    "iso:country":"US",
+    "sg:address":"71 N Chestnut Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5986",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:website":"www.rxrefill.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21pI46nlgcWQ9R94BzeZHD_33.596658_-88.431250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123982,
+    "wof:geomhash":"dc2d6f21e06673d092e2b23d91454cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857189537
+        }
+    ],
+    "wof:id":857189537,
+    "wof:lastmodified":1464123982,
+    "wof:name":"RXREFILL.NET",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.43125,
+    33.596658,
+    -88.43125,
+    33.596658
+],
+  "geometry": {"coordinates":[-88.43125000000001,33.596658],"type":"Point"}
+}

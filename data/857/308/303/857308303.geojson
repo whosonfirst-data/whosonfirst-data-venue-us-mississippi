@@ -1,0 +1,73 @@
+{
+  "id": 857308303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.511529,34.377489,-89.511529,34.377489",
+    "geom:latitude":34.377489,
+    "geom:longitude":-89.511529,
+    "iso:country":"US",
+    "sg:address":"1015 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2260",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i9dukWx2VNeu2oS6pFObX_34.377489_-89.511529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126583,
+    "wof:geomhash":"bd21791f9d3c4956b77732aaace67635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857308303
+        }
+    ],
+    "wof:id":857308303,
+    "wof:lastmodified":1464126583,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -89.511529,
+    34.377489,
+    -89.511529,
+    34.377489
+],
+  "geometry": {"coordinates":[-89.511529,34.377489],"type":"Point"}
+}

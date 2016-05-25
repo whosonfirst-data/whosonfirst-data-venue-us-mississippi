@@ -1,0 +1,80 @@
+{
+  "id": 857486993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583254,34.198591,-90.583254,34.198591",
+    "geom:latitude":34.198591,
+    "geom:longitude":-90.583254,
+    "iso:country":"US",
+    "sg:address":"340 Cherry St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8171",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lVngmHGVwdNA54muZNxlX_34.198591_-90.583254@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130502,
+    "wof:geomhash":"284ab47a5c62b45824d643df3d307a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486993
+        }
+    ],
+    "wof:id":857486993,
+    "wof:lastmodified":1464130502,
+    "wof:name":"Frazier Quality Construction",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.583254,
+    34.198591,
+    -90.583254,
+    34.198591
+],
+  "geometry": {"coordinates":[-90.583254,34.198591],"type":"Point"}
+}

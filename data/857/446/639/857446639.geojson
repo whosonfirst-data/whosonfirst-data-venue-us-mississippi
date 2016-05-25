@@ -1,0 +1,68 @@
+{
+  "id": 857446639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.176066,32.352914,-90.176066,32.352914",
+    "geom:latitude":32.352914,
+    "geom:longitude":-90.176066,
+    "iso:country":"US",
+    "sg:address":"4066 Northview Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 1461",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cMARQsA7ceJLymmQ13yar_32.352914_-90.176066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129693,
+    "wof:geomhash":"5adfb89f2ee1e66315cc0349753eb093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857446639
+        }
+    ],
+    "wof:id":857446639,
+    "wof:lastmodified":1464129693,
+    "wof:name":"Kathy Dr Vaughn",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.176066,
+    32.352914,
+    -90.176066,
+    32.352914
+],
+  "geometry": {"coordinates":[-90.17606600000001,32.352914],"type":"Point"}
+}

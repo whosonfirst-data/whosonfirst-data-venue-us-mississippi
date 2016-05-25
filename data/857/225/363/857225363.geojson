@@ -1,0 +1,73 @@
+{
+  "id": 857225363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.411881,33.751968,-88.411881,33.751968",
+    "geom:latitude":33.751968,
+    "geom:longitude":-88.411881,
+    "iso:country":"US",
+    "sg:address":"40005 Collins Ln",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 8434",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qPQaae605Q31GWbFfuJHw_33.751968_-88.411881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124719,
+    "wof:geomhash":"44eab76d52119933ab09d5378138a2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857225363
+        }
+    ],
+    "wof:id":857225363,
+    "wof:lastmodified":1464124719,
+    "wof:name":"Hamilton Head Start Ctr",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.411881,
+    33.751968,
+    -88.411881,
+    33.751968
+],
+  "geometry": {"coordinates":[-88.41188099999999,33.751968],"type":"Point"}
+}

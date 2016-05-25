@@ -1,0 +1,66 @@
+{
+  "id": 857290643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543937,33.815038,-88.543937,33.815038",
+    "geom:latitude":33.815038,
+    "geom:longitude":-88.543937,
+    "iso:country":"US",
+    "sg:address":"812 S Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 319 8846",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IJNMTzxnTM468NoXZ7VJw_33.815038_-88.543937@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126161,
+    "wof:geomhash":"b02fba09e9824621bd2f03c1150d9e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857290643
+        }
+    ],
+    "wof:id":857290643,
+    "wof:lastmodified":1464126161,
+    "wof:name":"Reese's Restaurant",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.543937,
+    33.815038,
+    -88.543937,
+    33.815038
+],
+  "geometry": {"coordinates":[-88.543937,33.815038],"type":"Point"}
+}

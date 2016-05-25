@@ -1,0 +1,71 @@
+{
+  "id": 857101237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541479,33.822584,-88.541479,33.822584",
+    "geom:latitude":33.822584,
+    "geom:longitude":-88.541479,
+    "iso:country":"US",
+    "sg:address":"301 Locust St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2199",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X594bw7NRqKAdZ1MtCI9s_33.822584_-88.541479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121945,
+    "wof:geomhash":"a817337d74cebfd38381b6c0302ee6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857101237
+        }
+    ],
+    "wof:id":857101237,
+    "wof:lastmodified":1464121945,
+    "wof:name":"Dudley Williams",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.541479,
+    33.822584,
+    -88.541479,
+    33.822584
+],
+  "geometry": {"coordinates":[-88.541479,33.822584],"type":"Point"}
+}

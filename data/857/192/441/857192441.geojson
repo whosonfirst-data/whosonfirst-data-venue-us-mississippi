@@ -1,0 +1,73 @@
+{
+  "id": 857192441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.666114,34.29445,-89.666114,34.29445",
+    "geom:latitude":34.29445,
+    "geom:longitude":-89.666114,
+    "iso:country":"US",
+    "sg:address":"470 Co Rd 313",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2795",
+    "sg:postcode":"38673",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uB6H4JxTxqWy4LwtOPmth_34.294450_-89.666114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124032,
+    "wof:geomhash":"7fa91c4a2cf9e899f5a4f14fcb441e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857192441
+        }
+    ],
+    "wof:id":857192441,
+    "wof:lastmodified":1464124032,
+    "wof:name":"Jim Q Tatum",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.666114,
+    34.29445,
+    -89.666114,
+    34.29445
+],
+  "geometry": {"coordinates":[-89.66611399999999,34.29445],"type":"Point"}
+}

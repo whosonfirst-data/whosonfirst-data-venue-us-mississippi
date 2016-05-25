@@ -1,0 +1,73 @@
+{
+  "id": 857351229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698568,32.371968,-88.698568,32.371968",
+    "geom:latitude":32.371968,
+    "geom:longitude":-88.698568,
+    "iso:country":"US",
+    "sg:address":"1400 20th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 5541",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5skZhG9OM2hrjcvPQxSfM6_32.371968_-88.698568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127510,
+    "wof:geomhash":"fe833ce72f867a00f698217d90ca4de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857351229
+        }
+    ],
+    "wof:id":857351229,
+    "wof:lastmodified":1464127510,
+    "wof:name":"Meridian Regional Medical Clnc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.698568,
+    32.371968,
+    -88.698568,
+    32.371968
+],
+  "geometry": {"coordinates":[-88.69856799999999,32.371968],"type":"Point"}
+}

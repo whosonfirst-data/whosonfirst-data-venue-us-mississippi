@@ -1,0 +1,71 @@
+{
+  "id": 857317981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702501,32.366933,-88.702501,32.366933",
+    "geom:latitude":32.366933,
+    "geom:longitude":-88.702501,
+    "iso:country":"US",
+    "sg:address":"2308 10th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1521",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LWdbsxWB6JufTYA5z5467_32.366933_-88.702501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126796,
+    "wof:geomhash":"cef3ffcab59aa512d9fc3a0502fba8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857317981
+        }
+    ],
+    "wof:id":857317981,
+    "wof:lastmodified":1464126796,
+    "wof:name":"Central United Methodist Chr",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.702501,
+    32.366933,
+    -88.702501,
+    32.366933
+],
+  "geometry": {"coordinates":[-88.702501,32.366933],"type":"Point"}
+}

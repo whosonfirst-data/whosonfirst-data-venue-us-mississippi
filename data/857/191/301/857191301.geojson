@@ -1,0 +1,71 @@
+{
+  "id": 857191301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652485,33.611427,-88.652485,33.611427",
+    "geom:latitude":33.611427,
+    "geom:longitude":-88.652485,
+    "iso:country":"US",
+    "sg:address":"224 Bugg St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2871",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kYZyp8OPczIIj94bIrHuG_33.611427_-88.652485@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124012,
+    "wof:geomhash":"a727cf41d9e3aab719d7390d25f3bdf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857191301
+        }
+    ],
+    "wof:id":857191301,
+    "wof:lastmodified":1464124012,
+    "wof:name":"Jordan Transfer Co Inc",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -88.652485,
+    33.611427,
+    -88.652485,
+    33.611427
+],
+  "geometry": {"coordinates":[-88.652485,33.611427],"type":"Point"}
+}

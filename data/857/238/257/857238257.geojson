@@ -1,0 +1,71 @@
+{
+  "id": 857238257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700435,32.369784,-88.700435,32.369784",
+    "geom:latitude":32.369784,
+    "geom:longitude":-88.700435,
+    "iso:country":"US",
+    "sg:address":"2103 13th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 3120",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8aah78w4YLys3cDtUWdZ_32.369784_-88.700435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124969,
+    "wof:geomhash":"1c85404539ff2e0abf244cd03882168f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857238257
+        }
+    ],
+    "wof:id":857238257,
+    "wof:lastmodified":1464124969,
+    "wof:name":"Family Health Care",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.700435,
+    32.369784,
+    -88.700435,
+    32.369784
+],
+  "geometry": {"coordinates":[-88.700435,32.369784],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857184387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42622,33.498597,-88.42622,33.498597",
+    "geom:latitude":33.498597,
+    "geom:longitude":-88.42622,
+    "iso:country":"US",
+    "sg:address":"310 N 7th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9000",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6peVW1ffwCX4xIyBKBiJiq_33.498597_-88.426220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123887,
+    "wof:geomhash":"2593fdaebb693817b7ac39b9b3589de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857184387
+        }
+    ],
+    "wof:id":857184387,
+    "wof:lastmodified":1464123887,
+    "wof:name":"Magnolia Bottled Water",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -88.42622,
+    33.498597,
+    -88.42622,
+    33.498597
+],
+  "geometry": {"coordinates":[-88.42622,33.498597],"type":"Point"}
+}

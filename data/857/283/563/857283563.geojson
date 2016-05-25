@@ -1,0 +1,71 @@
+{
+  "id": 857283563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70465,32.364919,-88.70465,32.364919",
+    "geom:latitude":32.364919,
+    "geom:longitude":-88.70465,
+    "iso:country":"US",
+    "sg:address":"2503 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5512",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sxeB7YJiTQGJ38f3jtuxH_32.364919_-88.704650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125991,
+    "wof:geomhash":"d6edfcf759f538cdcf73ccedf044e0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857283563
+        }
+    ],
+    "wof:id":857283563,
+    "wof:lastmodified":1464125991,
+    "wof:name":"Watkins Trim Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -88.70465,
+    32.364919,
+    -88.70465,
+    32.364919
+],
+  "geometry": {"coordinates":[-88.70465,32.364919],"type":"Point"}
+}

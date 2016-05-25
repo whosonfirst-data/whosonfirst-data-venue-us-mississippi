@@ -1,0 +1,82 @@
+{
+  "id": 857157169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.553264,30.354811,-88.553264,30.354811",
+    "geom:latitude":30.354811,
+    "geom:longitude":-88.553264,
+    "iso:country":"US",
+    "sg:address":"1103 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0486",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "detailing",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSxGtBkqflSCx1y5Mbr9k_30.354811_-88.553264@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123288,
+    "wof:geomhash":"c47579c0671d6116472a192dde641ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857157169
+        }
+    ],
+    "wof:id":857157169,
+    "wof:lastmodified":1464123288,
+    "wof:name":"Personal Touch Auto Detail & H",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detailing",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -88.553264,
+    30.354811,
+    -88.553264,
+    30.354811
+],
+  "geometry": {"coordinates":[-88.553264,30.354811],"type":"Point"}
+}

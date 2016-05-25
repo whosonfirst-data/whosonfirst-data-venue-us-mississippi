@@ -1,0 +1,71 @@
+{
+  "id": 857337159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.32142,31.209652,-89.32142,31.209652",
+    "geom:latitude":31.209652,
+    "geom:longitude":-89.32142,
+    "iso:country":"US",
+    "sg:address":"55 Lott Purvis Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 6525",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kuVPd1jjXIKLfeQy17XD7_31.209652_-89.321420@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127214,
+    "wof:geomhash":"ad9bd9c049af6c25a48b7bd4d6a3083f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857337159
+        }
+    ],
+    "wof:id":857337159,
+    "wof:lastmodified":1464127214,
+    "wof:name":"J & R Automation",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.32142,
+    31.209652,
+    -89.32142,
+    31.209652
+],
+  "geometry": {"coordinates":[-89.32142,31.209652],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857333429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.526057,34.367938,-89.526057,34.367938",
+    "geom:latitude":34.367938,
+    "geom:longitude":-89.526057,
+    "iso:country":"US",
+    "sg:address":"419 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3693",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21sxFT4OCIqNkoAG9qXhss_34.367938_-89.526057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127133,
+    "wof:geomhash":"e8440b756eedf50262b50d85564f290d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857333429
+        }
+    ],
+    "wof:id":857333429,
+    "wof:lastmodified":1464127133,
+    "wof:name":"Williams Transfer & Storage",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -89.526057,
+    34.367938,
+    -89.526057,
+    34.367938
+],
+  "geometry": {"coordinates":[-89.52605699999999,34.367938],"type":"Point"}
+}

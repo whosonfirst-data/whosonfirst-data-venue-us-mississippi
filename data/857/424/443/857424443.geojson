@@ -1,0 +1,75 @@
+{
+  "id": 857424443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.353451,31.322456,-89.353451,31.322456",
+    "geom:latitude":31.322456,
+    "geom:longitude":-89.353451,
+    "iso:country":"US",
+    "sg:address":"2002 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 5643",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970275,
+        102083775,
+        85851769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQCQJxCNXRzxUT3UtuJN1_31.322456_-89.353451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129209,
+    "wof:geomhash":"53ba8d12711807d6d761ce0c94e95101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85970275,
+            "neighbourhood_id":85851769,
+            "region_id":85688579,
+            "venue_id":857424443
+        }
+    ],
+    "wof:id":857424443,
+    "wof:lastmodified":1464129209,
+    "wof:name":"AAA Westside Mini Warehouses",
+    "wof:parent_id":85851769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.353451,
+    31.322456,
+    -89.353451,
+    31.322456
+],
+  "geometry": {"coordinates":[-89.35345100000001,31.322456],"type":"Point"}
+}

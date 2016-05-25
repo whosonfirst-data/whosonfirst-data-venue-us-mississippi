@@ -1,0 +1,68 @@
+{
+  "id": 857437043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527195,30.438491,-88.527195,30.438491",
+    "geom:latitude":30.438491,
+    "geom:longitude":-88.527195,
+    "iso:country":"US",
+    "sg:address":"6600 State Hwy 63",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 0662",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969591,
+        102083161,
+        85819755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jsbmUpuwCoQdpIbgdTSgq_30.438491_-88.527195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129511,
+    "wof:geomhash":"1ea9d72fbfaeb8001b9ee1267c033aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85819755,
+            "region_id":85688579,
+            "venue_id":857437043
+        }
+    ],
+    "wof:id":857437043,
+    "wof:lastmodified":1464129511,
+    "wof:name":"KFC",
+    "wof:parent_id":85819755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.527195,
+    30.438491,
+    -88.527195,
+    30.438491
+],
+  "geometry": {"coordinates":[-88.52719500000001,30.438491],"type":"Point"}
+}

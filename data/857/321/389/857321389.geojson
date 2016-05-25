@@ -1,0 +1,73 @@
+{
+  "id": 857321389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307368,31.324809,-89.307368,31.324809",
+    "geom:latitude":31.324809,
+    "geom:longitude":-89.307368,
+    "iso:country":"US",
+    "sg:address":"1123 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0080",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D7CkTRs03laUtkbWyQywz_31.324809_-89.307368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126877,
+    "wof:geomhash":"bf87ef3aeda385bfb32166be7bf3e702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857321389
+        }
+    ],
+    "wof:id":857321389,
+    "wof:lastmodified":1464126877,
+    "wof:name":"A & J Rentals Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -89.307368,
+    31.324809,
+    -89.307368,
+    31.324809
+],
+  "geometry": {"coordinates":[-89.307368,31.324809],"type":"Point"}
+}

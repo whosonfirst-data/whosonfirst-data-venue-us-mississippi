@@ -1,0 +1,73 @@
+{
+  "id": 857380871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794907,34.93648,-89.794907,34.93648",
+    "geom:latitude":34.93648,
+    "geom:longitude":-89.794907,
+    "iso:country":"US",
+    "sg:address":"5228 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 6190",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gpTDEVuwG6eSfaRKKe7WT_34.936480_-89.794907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128144,
+    "wof:geomhash":"1564cd52e0f6be14e17d5f624291c23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857380871
+        }
+    ],
+    "wof:id":857380871,
+    "wof:lastmodified":1464128144,
+    "wof:name":"Hale Electrical Contractors",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.794907,
+    34.93648,
+    -89.794907,
+    34.93648
+],
+  "geometry": {"coordinates":[-89.79490699999999,34.93648],"type":"Point"}
+}

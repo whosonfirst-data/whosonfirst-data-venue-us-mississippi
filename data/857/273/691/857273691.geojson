@@ -1,0 +1,75 @@
+{
+  "id": 857273691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2176,32.316414,-90.2176,32.316414",
+    "geom:latitude":32.316414,
+    "geom:longitude":-90.2176,
+    "iso:country":"US",
+    "sg:address":"2305 W Capitol St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 4130",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yOz6Lgk4LNSl874RxwyO2_32.316414_-90.217600@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125759,
+    "wof:geomhash":"565094f2e3967fb32b3398b0cb08b25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857273691
+        }
+    ],
+    "wof:id":857273691,
+    "wof:lastmodified":1464125759,
+    "wof:name":"Downtown TV & Appliance Ctr",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -90.2176,
+    32.316414,
+    -90.2176,
+    32.316414
+],
+  "geometry": {"coordinates":[-90.2176,32.316414],"type":"Point"}
+}

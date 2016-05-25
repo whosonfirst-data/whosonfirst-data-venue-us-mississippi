@@ -1,0 +1,71 @@
+{
+  "id": 857337505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.65063,33.622848,-88.65063,33.622848",
+    "geom:latitude":33.622848,
+    "geom:longitude":-88.65063,
+    "iso:country":"US",
+    "sg:address":"1217 N Division St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 3322",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oZX5eXbwjvUcLMA0DjzIG_33.622848_-88.650630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127222,
+    "wof:geomhash":"209a03feeb01f8e509e752a4763b7a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857337505
+        }
+    ],
+    "wof:id":857337505,
+    "wof:lastmodified":1464127222,
+    "wof:name":"Holy Temple Church & Daycare",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.65063,
+    33.622848,
+    -88.65063,
+    33.622848
+],
+  "geometry": {"coordinates":[-88.65063000000001,33.622848],"type":"Point"}
+}

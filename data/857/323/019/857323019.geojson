@@ -1,0 +1,73 @@
+{
+  "id": 857323019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.865987,34.98111,-89.865987,34.98111",
+    "geom:latitude":34.98111,
+    "geom:longitude":-89.865987,
+    "iso:country":"US",
+    "sg:address":"8765 Old Craft Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 1402",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zwpyhsyJ03ShsR1hjmlPj_34.981110_-89.865987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126912,
+    "wof:geomhash":"a83f7534d1839e66b763161290d8b8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857323019
+        }
+    ],
+    "wof:id":857323019,
+    "wof:lastmodified":1464126912,
+    "wof:name":"Right Care Medical Inc",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.865987,
+    34.98111,
+    -89.865987,
+    34.98111
+],
+  "geometry": {"coordinates":[-89.865987,34.98111],"type":"Point"}
+}

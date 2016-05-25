@@ -1,0 +1,71 @@
+{
+  "id": 857430073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.433204,33.517533,-88.433204,33.517533",
+    "geom:latitude":33.517533,
+    "geom:longitude":-88.433204,
+    "iso:country":"US",
+    "sg:address":"1408 Old Aberdeen Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1160",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eia3bAB3rB66r0ZZaPIbV_33.517533_-88.433204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129346,
+    "wof:geomhash":"d7afde3a4cd82d54b88deea4610f152b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857430073
+        }
+    ],
+    "wof:id":857430073,
+    "wof:lastmodified":1464129346,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.433204,
+    33.517533,
+    -88.433204,
+    33.517533
+],
+  "geometry": {"coordinates":[-88.433204,33.517533],"type":"Point"}
+}

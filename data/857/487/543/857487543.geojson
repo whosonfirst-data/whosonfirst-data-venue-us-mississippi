@@ -1,0 +1,82 @@
+{
+  "id": 857487543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.450348,34.319725,-90.450348,34.319725",
+    "geom:latitude":34.319725,
+    "geom:longitude":-90.450348,
+    "iso:country":"US",
+    "sg:address":"325 Coldwater River Rd",
+    "sg:city":"Coahoma",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 4364",
+    "sg:postcode":"38617",
+    "sg:province":"MS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39HxxsQ8pLp3YakDA8tOob_34.319725_-90.450348@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130521,
+    "wof:geomhash":"15e93fcb8fccf63016c5327ff7e1db1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487543
+        }
+    ],
+    "wof:id":857487543,
+    "wof:lastmodified":1464130521,
+    "wof:name":"Shanks James A Apartments",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -90.450348,
+    34.319725,
+    -90.450348,
+    34.319725
+],
+  "geometry": {"coordinates":[-90.45034800000001,34.319725],"type":"Point"}
+}

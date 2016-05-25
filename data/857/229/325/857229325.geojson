@@ -1,0 +1,71 @@
+{
+  "id": 857229325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.506649,34.365104,-89.506649,34.365104",
+    "geom:latitude":34.365104,
+    "geom:longitude":-89.506649,
+    "iso:country":"US",
+    "sg:address":"119 Chestnut St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 9790",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Ql0jGZZfxoHaunU8R0si_34.365104_-89.506649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124795,
+    "wof:geomhash":"28fd048bb11aadf71187459b736dc0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857229325
+        }
+    ],
+    "wof:id":857229325,
+    "wof:lastmodified":1464124795,
+    "wof:name":"Jackson Square Condominiums",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -89.506649,
+    34.365104,
+    -89.506649,
+    34.365104
+],
+  "geometry": {"coordinates":[-89.506649,34.365104],"type":"Point"}
+}

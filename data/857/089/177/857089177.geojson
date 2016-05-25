@@ -1,0 +1,73 @@
+{
+  "id": 857089177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.888514,32.3321,-90.888514,32.3321",
+    "geom:latitude":32.3321,
+    "geom:longitude":-90.888514,
+    "iso:country":"US",
+    "sg:address":"2905 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 7111",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gFL5RyXKwxwJhRX6dtQcr_32.332100_-90.888514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121648,
+    "wof:geomhash":"88e27c2f68a2d36bb6f0b22bc311f474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857089177
+        }
+    ],
+    "wof:id":857089177,
+    "wof:lastmodified":1464121648,
+    "wof:name":"Skipper Construction Co",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.888514,
+    32.3321,
+    -90.888514,
+    32.3321
+],
+  "geometry": {"coordinates":[-90.888514,32.3321],"type":"Point"}
+}

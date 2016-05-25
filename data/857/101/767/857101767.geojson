@@ -1,0 +1,73 @@
+{
+  "id": 857101767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845465,33.457774,-88.845465,33.457774",
+    "geom:latitude":33.457774,
+    "geom:longitude":-88.845465,
+    "iso:country":"US",
+    "sg:address":"1087 Stark Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 9401",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OQ8MaC2jrvG6yY4Z63b5C_33.457774_-88.845465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121956,
+    "wof:geomhash":"9af1ce41d972cc89f2c7d264755f206d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857101767
+        }
+    ],
+    "wof:id":857101767,
+    "wof:lastmodified":1464121956,
+    "wof:name":"Crossgate Apartments",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.845465,
+    33.457774,
+    -88.845465,
+    33.457774
+],
+  "geometry": {"coordinates":[-88.845465,33.457774],"type":"Point"}
+}

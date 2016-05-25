@@ -1,0 +1,71 @@
+{
+  "id": 857261225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536283,30.392477,-88.536283,30.392477",
+    "geom:latitude":30.392477,
+    "geom:longitude":-88.536283,
+    "iso:country":"US",
+    "sg:address":"3438 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 6056",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E2BMrnhlSaDEeSPy06zD4_30.392477_-88.536283@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125520,
+    "wof:geomhash":"7a587996eb320fffd7aebed6c231cfc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857261225
+        }
+    ],
+    "wof:id":857261225,
+    "wof:lastmodified":1464125520,
+    "wof:name":"Davids Swap Shop",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -88.536283,
+    30.392477,
+    -88.536283,
+    30.392477
+],
+  "geometry": {"coordinates":[-88.536283,30.392477],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857302483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.045797,33.344292,-89.045797,33.344292",
+    "geom:latitude":33.344292,
+    "geom:longitude":-89.045797,
+    "iso:country":"US",
+    "sg:address":"3830 Hwy 12 W",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 465 8707",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPJQSZiOBsFgrABdP6LQU_33.344292_-89.045797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126464,
+    "wof:geomhash":"8b1fefdcb6c51fb4b6cc008c412d4f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857302483
+        }
+    ],
+    "wof:id":857302483,
+    "wof:lastmodified":1464126464,
+    "wof:name":"Wildlife Taxidermy",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -89.045797,
+    33.344292,
+    -89.045797,
+    33.344292
+],
+  "geometry": {"coordinates":[-89.04579699999999,33.344292],"type":"Point"}
+}

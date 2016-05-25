@@ -1,0 +1,75 @@
+{
+  "id": 857146159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.519371,30.398861,-88.519371,30.398861",
+    "geom:latitude":30.398861,
+    "geom:longitude":-88.519371,
+    "iso:country":"US",
+    "sg:address":"5443 Frederick St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 6400",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48IY7hOGbXdkxLvepJuMx0_30.398861_-88.519371@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123063,
+    "wof:geomhash":"b8c84211f652f0daab4e5506995461de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857146159
+        }
+    ],
+    "wof:id":857146159,
+    "wof:lastmodified":1464123063,
+    "wof:name":"Chevron",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.519371,
+    30.398861,
+    -88.519371,
+    30.398861
+],
+  "geometry": {"coordinates":[-88.51937100000001,30.398861],"type":"Point"}
+}

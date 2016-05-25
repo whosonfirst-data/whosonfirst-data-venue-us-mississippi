@@ -1,0 +1,71 @@
+{
+  "id": 857393449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.35047,33.441526,-88.35047,33.441526",
+    "geom:latitude":33.441526,
+    "geom:longitude":-88.35047,
+    "iso:country":"US",
+    "sg:address":"550 Lake Lowndes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 3528",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OBnActqi2lP720fexW6fn_33.441526_-88.350470@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128492,
+    "wof:geomhash":"c5ec8ae7e8321b95adeed703970d8f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857393449
+        }
+    ],
+    "wof:id":857393449,
+    "wof:lastmodified":1464128492,
+    "wof:name":"Federal Aviation Admin",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -88.35047,
+    33.441526,
+    -88.35047,
+    33.441526
+],
+  "geometry": {"coordinates":[-88.35047,33.441526],"type":"Point"}
+}

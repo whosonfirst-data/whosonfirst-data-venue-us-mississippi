@@ -1,0 +1,71 @@
+{
+  "id": 857420111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.462404,33.810931,-88.462404,33.810931",
+    "geom:latitude":33.810931,
+    "geom:longitude":-88.462404,
+    "iso:country":"US",
+    "sg:address":"40043 Foster Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8880",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_118hdwRFCP98iWWhZR0sYJ_33.810931_-88.462404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129095,
+    "wof:geomhash":"fcfccd1215a490c3feac03a79453a156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857420111
+        }
+    ],
+    "wof:id":857420111,
+    "wof:lastmodified":1464129095,
+    "wof:name":"Sullivan Consrtuction",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.462404,
+    33.810931,
+    -88.462404,
+    33.810931
+],
+  "geometry": {"coordinates":[-88.46240400000001,33.810931],"type":"Point"}
+}

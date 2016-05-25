@@ -1,0 +1,71 @@
+{
+  "id": 857376467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.199945,32.165583,-90.199945,32.165583",
+    "geom:latitude":32.165583,
+    "geom:longitude":-90.199945,
+    "iso:country":"US",
+    "sg:address":"225 Friendship Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 1195",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RpxcA4orbwTkYwAOHWxl5_32.165583_-90.199945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128047,
+    "wof:geomhash":"5ab8491c1abc1e3d1287e07dfa352fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857376467
+        }
+    ],
+    "wof:id":857376467,
+    "wof:lastmodified":1464128047,
+    "wof:name":"Danny R Hamilton",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.199945,
+    32.165583,
+    -90.199945,
+    32.165583
+],
+  "geometry": {"coordinates":[-90.199945,32.165583],"type":"Point"}
+}

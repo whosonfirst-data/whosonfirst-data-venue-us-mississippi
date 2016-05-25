@@ -1,0 +1,73 @@
+{
+  "id": 857193913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794909,34.936617,-89.794909,34.936617",
+    "geom:latitude":34.936617,
+    "geom:longitude":-89.794909,
+    "iso:country":"US",
+    "sg:address":"5220 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 7789",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TH4BrkY0TKSs1Sj9Sv186_34.936617_-89.794909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124058,
+    "wof:geomhash":"d5ee82d8ec4fc1e2f8bb077b66792b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857193913
+        }
+    ],
+    "wof:id":857193913,
+    "wof:lastmodified":1464124058,
+    "wof:name":"Flowers Bakery 4675",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.794909,
+    34.936617,
+    -89.794909,
+    34.936617
+],
+  "geometry": {"coordinates":[-89.794909,34.936617],"type":"Point"}
+}

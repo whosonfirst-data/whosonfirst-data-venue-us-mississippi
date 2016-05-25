@@ -1,0 +1,66 @@
+{
+  "id": 857175185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301508,31.361012,-89.301508,31.361012",
+    "geom:latitude":31.361012,
+    "geom:longitude":-89.301508,
+    "iso:country":"US",
+    "sg:address":"2201 Glendale Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4020",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kh3TnO3ke8ew2xh6VE4Gl_31.361012_-89.301508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123697,
+    "wof:geomhash":"fa6b14e2dac1eeec76e007000c5b54f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857175185
+        }
+    ],
+    "wof:id":857175185,
+    "wof:lastmodified":1464123697,
+    "wof:name":"Glendale Salvage Mart",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.301508,
+    31.361012,
+    -89.301508,
+    31.361012
+],
+  "geometry": {"coordinates":[-89.301508,31.361012],"type":"Point"}
+}

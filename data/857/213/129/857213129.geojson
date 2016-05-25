@@ -1,0 +1,80 @@
+{
+  "id": 857213129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.595978,33.882749,-88.595978,33.882749",
+    "geom:latitude":33.882749,
+    "geom:longitude":-88.595978,
+    "iso:country":"US",
+    "sg:address":"21957 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8262",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z9mRjIL4T1bGXZA0GRdOk_33.882749_-88.595978@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124466,
+    "wof:geomhash":"5ba8e0dfdead88757e3d9fb0f0354283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857213129
+        }
+    ],
+    "wof:id":857213129,
+    "wof:lastmodified":1464124466,
+    "wof:name":"Mattuby Creek Machine Works",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -88.595978,
+    33.882749,
+    -88.595978,
+    33.882749
+],
+  "geometry": {"coordinates":[-88.595978,33.882749],"type":"Point"}
+}

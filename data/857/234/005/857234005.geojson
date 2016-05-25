@@ -1,0 +1,67 @@
+{
+  "id": 857234005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.757992,32.439886,-89.757992,32.439886",
+    "geom:latitude":32.439886,
+    "geom:longitude":-89.757992,
+    "iso:country":"US",
+    "sg:address":"796 Hwy 481",
+    "sg:city":"Morton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 854 5306",
+    "sg:postcode":"39145",
+    "sg:province":"MS",
+    "sg:website":"www.leesburgchurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dd8U6IriAtPWJy8jHnneZ_32.439886_-89.757992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124880,
+    "wof:geomhash":"90b6ca05ca2acffcf9c3a5c7706a62a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857234005
+        }
+    ],
+    "wof:id":857234005,
+    "wof:lastmodified":1464124880,
+    "wof:name":"Leesburg Baptist Church",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.757992,
+    32.439886,
+    -89.757992,
+    32.439886
+],
+  "geometry": {"coordinates":[-89.757992,32.439886],"type":"Point"}
+}

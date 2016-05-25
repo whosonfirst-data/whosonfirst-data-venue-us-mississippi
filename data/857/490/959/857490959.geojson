@@ -1,0 +1,108 @@
+{
+  "id": 857490959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.143328,32.334084,-90.143328,32.334084",
+    "geom:latitude":32.334084,
+    "geom:longitude":-90.143328,
+    "iso:country":"US",
+    "sg:address":"1647 Lakeland Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 9004",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "agriculture",
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "flood",
+        "marine",
+        "boat"
+    ],
+    "sg:website":"http://www.pyrongroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aDqgt9lvIZ7924WXg1Z1T_32.334084_-90.143328@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130618,
+    "wof:geomhash":"cfeecc47e916c417d8868a25e399a329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857490959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857490959
+        }
+    ],
+    "wof:id":857490959,
+    "wof:lastmodified":1464130618,
+    "wof:name":"Pyron Group The",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agriculture",
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "flood",
+        "marine",
+        "boat"
+    ]
+},
+  "bbox": [
+    -90.143328,
+    32.334084,
+    -90.143328,
+    32.334084
+],
+  "geometry": {"coordinates":[-90.143328,32.334084],"type":"Point"}
+}

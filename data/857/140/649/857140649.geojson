@@ -1,0 +1,73 @@
+{
+  "id": 857140649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.682147,30.590105,-88.682147,30.590105",
+    "geom:latitude":30.590105,
+    "geom:longitude":-88.682147,
+    "iso:country":"US",
+    "sg:address":"17225 Old Kelly Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 4971",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LcRi3twZhlaSY39AkLdyL_30.590105_-88.682147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122908,
+    "wof:geomhash":"ae6eeb6e9933d63795d06bfd2495ee94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857140649
+        }
+    ],
+    "wof:id":857140649,
+    "wof:lastmodified":1464122908,
+    "wof:name":"Jerry Roberts Construction Co",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -88.682147,
+    30.590105,
+    -88.682147,
+    30.590105
+],
+  "geometry": {"coordinates":[-88.682147,30.590105],"type":"Point"}
+}

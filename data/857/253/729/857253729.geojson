@@ -1,0 +1,71 @@
+{
+  "id": 857253729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.417038,33.51795,-88.417038,33.51795",
+    "geom:latitude":33.51795,
+    "geom:longitude":-88.417038,
+    "iso:country":"US",
+    "sg:address":"3495 Bluecutt Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9331",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UJOyL9nkGR7eBxfnR5cej_33.517950_-88.417038@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125340,
+    "wof:geomhash":"9cb837a51f816c6e3c1ae43b7117e9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857253729
+        }
+    ],
+    "wof:id":857253729,
+    "wof:lastmodified":1464125340,
+    "wof:name":"Betcher R Edward Dr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.417038,
+    33.51795,
+    -88.417038,
+    33.51795
+],
+  "geometry": {"coordinates":[-88.41703800000001,33.51795],"type":"Point"}
+}

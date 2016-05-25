@@ -1,0 +1,73 @@
+{
+  "id": 857441983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429009,33.523989,-88.429009,33.523989",
+    "geom:latitude":33.523989,
+    "geom:longitude":-88.429009,
+    "iso:country":"US",
+    "sg:address":"2429 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6706",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I8sln9DJ3GESap1TrU03A_33.523989_-88.429009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129605,
+    "wof:geomhash":"05b0029bf3ae008e7d2519e244b52079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857441983
+        }
+    ],
+    "wof:id":857441983,
+    "wof:lastmodified":1464129605,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -88.429009,
+    33.523989,
+    -88.429009,
+    33.523989
+],
+  "geometry": {"coordinates":[-88.42900899999999,33.523989],"type":"Point"}
+}

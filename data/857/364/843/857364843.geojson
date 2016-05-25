@@ -1,0 +1,73 @@
+{
+  "id": 857364843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.967351,33.448197,-88.967351,33.448197",
+    "geom:latitude":33.448197,
+    "geom:longitude":-88.967351,
+    "iso:country":"US",
+    "sg:address":"2568 New Light Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5995",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f3MrwjzrplDiw8UC5QgSd_33.448197_-88.967351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127801,
+    "wof:geomhash":"9046aaf4d24f1639646ff1bd09a7a257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857364843
+        }
+    ],
+    "wof:id":857364843,
+    "wof:lastmodified":1464127801,
+    "wof:name":"Crabtree Inc",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.967351,
+    33.448197,
+    -88.967351,
+    33.448197
+],
+  "geometry": {"coordinates":[-88.96735099999999,33.448197],"type":"Point"}
+}

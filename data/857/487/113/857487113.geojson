@@ -1,0 +1,71 @@
+{
+  "id": 857487113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.582504,34.199842,-90.582504,34.199842",
+    "geom:latitude":34.199842,
+    "geom:longitude":-90.582504,
+    "iso:country":"US",
+    "sg:address":"224 School St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3282",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kbUPACMe4nZlh1z5GMdgj_34.199842_-90.582504@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130505,
+    "wof:geomhash":"4993f74e1c198b3eefb2eb4db57d6545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487113
+        }
+    ],
+    "wof:id":857487113,
+    "wof:lastmodified":1464130505,
+    "wof:name":"Quinn's Tree Service",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -90.582504,
+    34.199842,
+    -90.582504,
+    34.199842
+],
+  "geometry": {"coordinates":[-90.582504,34.199842],"type":"Point"}
+}

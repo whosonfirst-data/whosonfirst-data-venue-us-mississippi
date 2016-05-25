@@ -1,0 +1,73 @@
+{
+  "id": 857110793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.716472,34.235982,-88.716472,34.235982",
+    "geom:latitude":34.235982,
+    "geom:longitude":-88.716472,
+    "iso:country":"US",
+    "sg:address":"1512 Medical Park Cir",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 0867",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RmYDksXl3eNg745oit68q_34.235982_-88.716472@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122192,
+    "wof:geomhash":"7d3fab61751b25d05d3b2ff5e496c291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857110793
+        }
+    ],
+    "wof:id":857110793,
+    "wof:lastmodified":1464122192,
+    "wof:name":"Women's Clinic Of Tupelo",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.716472,
+    34.235982,
+    -88.716472,
+    34.235982
+],
+  "geometry": {"coordinates":[-88.716472,34.235982],"type":"Point"}
+}

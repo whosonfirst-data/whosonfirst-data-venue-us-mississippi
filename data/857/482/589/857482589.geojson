@@ -1,0 +1,74 @@
+{
+  "id": 857482589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.134811,32.269596,-90.134811,32.269596",
+    "geom:latitude":32.269596,
+    "geom:longitude":-90.134811,
+    "iso:country":"US",
+    "sg:address":"1227 Phillips Ln",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/pearl/157916-frisco-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 6301",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969947,
+        102084869,
+        85833739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PR1LrdZpBoFvXK0xVIXVE_32.269596_-90.134811@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130420,
+    "wof:geomhash":"88c6ab829837039b3d6a18b3ef32bcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85833739,
+            "region_id":85688579,
+            "venue_id":857482589
+        }
+    ],
+    "wof:id":857482589,
+    "wof:lastmodified":1464130420,
+    "wof:name":"Frisco Deli",
+    "wof:parent_id":85833739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.134811,
+    32.269596,
+    -90.134811,
+    32.269596
+],
+  "geometry": {"coordinates":[-90.134811,32.269596],"type":"Point"}
+}

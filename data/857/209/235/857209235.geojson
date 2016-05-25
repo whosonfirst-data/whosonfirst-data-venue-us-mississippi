@@ -1,0 +1,75 @@
+{
+  "id": 857209235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.5012,33.47782,-88.5012,33.47782",
+    "geom:latitude":33.47782,
+    "geom:longitude":-88.5012,
+    "iso:country":"US",
+    "sg:address":"2274 McIntyre Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4971",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z2o7mJpeP6orSQF4J3V4Z_33.477820_-88.501200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124373,
+    "wof:geomhash":"0b395201535efb03eebc3fe8ade5a11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857209235
+        }
+    ],
+    "wof:id":857209235,
+    "wof:lastmodified":1464124373,
+    "wof:name":"Jimmy Allen Trucking",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.5012,
+    33.47782,
+    -88.5012,
+    33.47782
+],
+  "geometry": {"coordinates":[-88.5012,33.47782],"type":"Point"}
+}

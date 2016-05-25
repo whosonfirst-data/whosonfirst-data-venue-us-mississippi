@@ -1,0 +1,71 @@
+{
+  "id": 857403191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.559057,30.368358,-88.559057,30.368358",
+    "geom:latitude":30.368358,
+    "geom:longitude":-88.559057,
+    "iso:country":"US",
+    "sg:address":"525 Krebs Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7736",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eeXEvQLMAmvmyJENoou2B_30.368358_-88.559057@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128686,
+    "wof:geomhash":"3a7f15aeae1b030a76b7109aa0c9f850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857403191
+        }
+    ],
+    "wof:id":857403191,
+    "wof:lastmodified":1464128686,
+    "wof:name":"Douglas L Tynes",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.559057,
+    30.368358,
+    -88.559057,
+    30.368358
+],
+  "geometry": {"coordinates":[-88.559057,30.368358],"type":"Point"}
+}

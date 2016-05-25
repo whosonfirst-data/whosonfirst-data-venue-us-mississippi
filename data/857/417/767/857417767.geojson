@@ -1,0 +1,71 @@
+{
+  "id": 857417767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.576518,33.481496,-88.576518,33.481496",
+    "geom:latitude":33.481496,
+    "geom:longitude":-88.576518,
+    "iso:country":"US",
+    "sg:address":"5286 N Frontage Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4509",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lfkv8JruIMMceGRHIvREx_33.481496_-88.576518@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129054,
+    "wof:geomhash":"d20f263c52bf3faf9b387d15cb49597f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857417767
+        }
+    ],
+    "wof:id":857417767,
+    "wof:lastmodified":1464129054,
+    "wof:name":"Golden Horn",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.576518,
+    33.481496,
+    -88.576518,
+    33.481496
+],
+  "geometry": {"coordinates":[-88.57651799999999,33.481496],"type":"Point"}
+}

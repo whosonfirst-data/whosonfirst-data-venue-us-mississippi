@@ -1,0 +1,71 @@
+{
+  "id": 857372629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.508847,30.406128,-88.508847,30.406128",
+    "geom:latitude":30.406128,
+    "geom:longitude":-88.508847,
+    "iso:country":"US",
+    "sg:address":"6107 Gregory St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 6930",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beautician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Ds0nTj6e8smL0KOTr2hw_30.406128_-88.508847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127962,
+    "wof:geomhash":"ddc92a1c3af6739eed4d538cfb988bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857372629
+        }
+    ],
+    "wof:id":857372629,
+    "wof:lastmodified":1464127962,
+    "wof:name":"Charlttes Apparance Buty Salon",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beautician"
+    ]
+},
+  "bbox": [
+    -88.508847,
+    30.406128,
+    -88.508847,
+    30.406128
+],
+  "geometry": {"coordinates":[-88.508847,30.406128],"type":"Point"}
+}

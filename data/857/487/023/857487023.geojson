@@ -1,0 +1,71 @@
+{
+  "id": 857487023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.561955,34.190935,-90.561955,34.190935",
+    "geom:latitude":34.190935,
+    "geom:longitude":-90.561955,
+    "iso:country":"US",
+    "sg:address":"1035 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2060",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sEIK1LH5E1nZKCkD8RJiL_34.190935_-90.561955@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130503,
+    "wof:geomhash":"aecb6f58d17c9932ab790adeeb758b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487023
+        }
+    ],
+    "wof:id":857487023,
+    "wof:lastmodified":1464130503,
+    "wof:name":"Filling Station 32",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.561955,
+    34.190935,
+    -90.561955,
+    34.190935
+],
+  "geometry": {"coordinates":[-90.561955,34.190935],"type":"Point"}
+}

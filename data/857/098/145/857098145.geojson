@@ -1,0 +1,73 @@
+{
+  "id": 857098145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.792665,34.264566,-88.792665,34.264566",
+    "geom:latitude":34.264566,
+    "geom:longitude":-88.792665,
+    "iso:country":"US",
+    "sg:address":"573 Chesterville Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 7848",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CjqhOUBYQecZOxvYhmzxL_34.264566_-88.792665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121860,
+    "wof:geomhash":"4c47fd266afb217a7db94e4a9a591b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857098145
+        }
+    ],
+    "wof:id":857098145,
+    "wof:lastmodified":1464121860,
+    "wof:name":"Chesterville Gardens",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.792665,
+    34.264566,
+    -88.792665,
+    34.264566
+],
+  "geometry": {"coordinates":[-88.792665,34.264566],"type":"Point"}
+}

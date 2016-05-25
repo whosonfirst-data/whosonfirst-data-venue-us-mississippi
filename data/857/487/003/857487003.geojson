@@ -1,0 +1,71 @@
+{
+  "id": 857487003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.595573,34.20068,-90.595573,34.20068",
+    "geom:latitude":34.20068,
+    "geom:longitude":-90.595573,
+    "iso:country":"US",
+    "sg:address":"900 W 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2280",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhdYcBhEaOYD9SDxjKVKk_34.200680_-90.595573@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130503,
+    "wof:geomhash":"323ea15b34aa847ee7837f2ca6ecf27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487003
+        }
+    ],
+    "wof:id":857487003,
+    "wof:lastmodified":1464130503,
+    "wof:name":"Kay, Thomas G Jr Rev",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.595573,
+    34.20068,
+    -90.595573,
+    34.20068
+],
+  "geometry": {"coordinates":[-90.595573,34.20068],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857484893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.826139,30.41601,-88.826139,30.41601",
+    "geom:latitude":30.41601,
+    "geom:longitude":-88.826139,
+    "iso:country":"US",
+    "sg:address":"1108 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/65087-mellow-mushroom/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4888",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "calzones",
+        "american",
+        "hoagy",
+        "salad",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z7V9DvfQIuT7p38kgW7S8_30.416010_-88.826139@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130464,
+    "wof:geomhash":"0e0ad21b02b2653f1a8d2f0664ac3f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857484893
+        }
+    ],
+    "wof:id":857484893,
+    "wof:lastmodified":1464130464,
+    "wof:name":"Mellow Mushroom",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calzones",
+        "american",
+        "hoagy",
+        "salad",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.826139,
+    30.41601,
+    -88.826139,
+    30.41601
+],
+  "geometry": {"coordinates":[-88.826139,30.41601],"type":"Point"}
+}

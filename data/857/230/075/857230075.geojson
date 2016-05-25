@@ -1,0 +1,73 @@
+{
+  "id": 857230075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675458,32.47334,-88.675458,32.47334",
+    "geom:latitude":32.47334,
+    "geom:longitude":-88.675458,
+    "iso:country":"US",
+    "sg:address":"8501 Hwy 39",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 4946",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FSyWfBIkKobNk11XCk7Ht_32.473340_-88.675458@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124809,
+    "wof:geomhash":"4a0a2b93261bc2947fb97b2b1ba233e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857230075
+        }
+    ],
+    "wof:id":857230075,
+    "wof:lastmodified":1464124809,
+    "wof:name":"Wellworth Homes",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -88.675458,
+    32.47334,
+    -88.675458,
+    32.47334
+],
+  "geometry": {"coordinates":[-88.67545800000001,32.47334],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857094491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.002896,32.279753,-90.002896,32.279753",
+    "geom:latitude":32.279753,
+    "geom:longitude":-90.002896,
+    "iso:country":"US",
+    "sg:address":"1475 W Government St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 2672",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:website":"www.cmrls.lib.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79QVIGlSYPuGwnAKjB0AkR_32.279753_-90.002896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121779,
+    "wof:geomhash":"a4faa426c2e999316397c3bd1c03e162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857094491
+        }
+    ],
+    "wof:id":857094491,
+    "wof:lastmodified":1464121779,
+    "wof:name":"Brandon Public Library",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.002896,
+    32.279753,
+    -90.002896,
+    32.279753
+],
+  "geometry": {"coordinates":[-90.00289600000001,32.279753],"type":"Point"}
+}

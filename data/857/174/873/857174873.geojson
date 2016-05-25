@@ -1,0 +1,71 @@
+{
+  "id": 857174873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.644763,33.60368,-88.644763,33.60368",
+    "geom:latitude":33.60368,
+    "geom:longitude":-88.644763,
+    "iso:country":"US",
+    "sg:address":"605 E Westbrook St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1700",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Z7yX37lMnIu8fjZ4ScEK_33.603680_-88.644763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123691,
+    "wof:geomhash":"67635e3b4ebe52381f85da9b2b9888a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857174873
+        }
+    ],
+    "wof:id":857174873,
+    "wof:lastmodified":1464123691,
+    "wof:name":"Joseph D Yates DDS",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.644763,
+    33.60368,
+    -88.644763,
+    33.60368
+],
+  "geometry": {"coordinates":[-88.644763,33.60368],"type":"Point"}
+}

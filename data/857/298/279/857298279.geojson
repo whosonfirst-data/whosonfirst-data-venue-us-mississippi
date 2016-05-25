@@ -1,0 +1,71 @@
+{
+  "id": 857298279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559264,34.195633,-90.559264,34.195633",
+    "geom:latitude":34.195633,
+    "geom:longitude":-90.559264,
+    "iso:country":"US",
+    "sg:address":"1214 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9136",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EHl2vOWMBUDTseZ4uDGud_34.195633_-90.559264@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126373,
+    "wof:geomhash":"ba4e1f52b3927537c4e4dc6a056c8b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857298279
+        }
+    ],
+    "wof:id":857298279,
+    "wof:lastmodified":1464126373,
+    "wof:name":"Morton's Service Station",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.559264,
+    34.195633,
+    -90.559264,
+    34.195633
+],
+  "geometry": {"coordinates":[-90.559264,34.195633],"type":"Point"}
+}

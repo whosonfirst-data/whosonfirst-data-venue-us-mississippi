@@ -1,0 +1,71 @@
+{
+  "id": 857082613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.343635,32.700607,-90.343635,32.700607",
+    "geom:latitude":32.700607,
+    "geom:longitude":-90.343635,
+    "iso:country":"US",
+    "sg:address":"1860 Dover Rd",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3351",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BSE4rePpztNZCAjdDbyIo_32.700607_-90.343635@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121473,
+    "wof:geomhash":"11f7ce2e9bc9c69f0b8dd9b058cdd4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857082613
+        }
+    ],
+    "wof:id":857082613,
+    "wof:lastmodified":1464121473,
+    "wof:name":"Automotive Specialty",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.343635,
+    32.700607,
+    -90.343635,
+    32.700607
+],
+  "geometry": {"coordinates":[-90.34363500000001,32.700607],"type":"Point"}
+}

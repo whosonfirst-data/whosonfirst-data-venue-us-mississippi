@@ -1,0 +1,73 @@
+{
+  "id": 857170517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700719,30.510222,-88.700719,30.510222",
+    "geom:latitude":30.510222,
+    "geom:longitude":-88.700719,
+    "iso:country":"US",
+    "sg:address":"11934 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1990",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZKYSlPPwBgYks2nsX284J_30.510222_-88.700719@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123595,
+    "wof:geomhash":"6b569f784e50e86b6bacf69b7e6fe250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857170517
+        }
+    ],
+    "wof:id":857170517,
+    "wof:lastmodified":1464123595,
+    "wof:name":"Vancleave Family Med Clinic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.700719,
+    30.510222,
+    -88.700719,
+    30.510222
+],
+  "geometry": {"coordinates":[-88.70071900000001,30.510222],"type":"Point"}
+}

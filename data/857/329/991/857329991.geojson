@@ -1,0 +1,75 @@
+{
+  "id": 857329991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182207,32.332014,-90.182207,32.332014",
+    "geom:latitude":32.332014,
+    "geom:longitude":-90.182207,
+    "iso:country":"US",
+    "sg:address":"2531 N West St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 6089",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4foD1iCZeDZbdNlSEOu7mg_32.332014_-90.182207@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127054,
+    "wof:geomhash":"13c3c5843dd95d802f3c62f81e0d532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857329991
+        }
+    ],
+    "wof:id":857329991,
+    "wof:lastmodified":1464127054,
+    "wof:name":"State Veterinarian",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -90.182207,
+    32.332014,
+    -90.182207,
+    32.332014
+],
+  "geometry": {"coordinates":[-90.18220700000001,32.332014],"type":"Point"}
+}

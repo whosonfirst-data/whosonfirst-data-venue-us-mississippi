@@ -1,0 +1,74 @@
+{
+  "id": 857421103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.77261,34.246659,-88.77261,34.246659",
+    "geom:latitude":34.246659,
+    "geom:longitude":-88.77261,
+    "iso:country":"US",
+    "sg:address":"5026 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 4487",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.clearchannel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e0WIMfGq2u6rEIrjZr9Va_34.246659_-88.772610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129131,
+    "wof:geomhash":"7653bc77a7f8d8ea11677492fae0a566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857421103
+        }
+    ],
+    "wof:id":857421103,
+    "wof:lastmodified":1464129131,
+    "wof:name":"WWKZ",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -88.77261,
+    34.246659,
+    -88.77261,
+    34.246659
+],
+  "geometry": {"coordinates":[-88.77261,34.246659],"type":"Point"}
+}

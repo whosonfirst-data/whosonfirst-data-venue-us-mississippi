@@ -1,0 +1,71 @@
+{
+  "id": 857089415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430757,33.495717,-88.430757,33.495717",
+    "geom:latitude":33.495717,
+    "geom:longitude":-88.430757,
+    "iso:country":"US",
+    "sg:address":"122 N 3rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2669",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16D1xVqNeZ4AR3E5sczreZ_33.495717_-88.430757@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121655,
+    "wof:geomhash":"a87efbabce87e87a1924614af5b10967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857089415
+        }
+    ],
+    "wof:id":857089415,
+    "wof:lastmodified":1464121655,
+    "wof:name":"Riverhill Antiques Mall",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -88.430757,
+    33.495717,
+    -88.430757,
+    33.495717
+],
+  "geometry": {"coordinates":[-88.430757,33.495717],"type":"Point"}
+}

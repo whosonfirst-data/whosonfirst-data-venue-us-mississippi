@@ -1,0 +1,71 @@
+{
+  "id": 857365313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543736,33.825931,-88.543736,33.825931",
+    "geom:latitude":33.825931,
+    "geom:longitude":-88.543736,
+    "iso:country":"US",
+    "sg:address":"102 N Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 319 9090",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w4bI0rTUrXxyFKT6FBzS0_33.825931_-88.543736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127811,
+    "wof:geomhash":"232388efc3c6ac534992ce52067e658e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857365313
+        }
+    ],
+    "wof:id":857365313,
+    "wof:lastmodified":1464127811,
+    "wof:name":"A Classic Touch",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.543736,
+    33.825931,
+    -88.543736,
+    33.825931
+],
+  "geometry": {"coordinates":[-88.543736,33.825931],"type":"Point"}
+}

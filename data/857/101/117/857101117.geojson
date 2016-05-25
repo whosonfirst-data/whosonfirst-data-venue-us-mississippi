@@ -1,0 +1,71 @@
+{
+  "id": 857101117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.815634,34.944538,-89.815634,34.944538",
+    "geom:latitude":34.944538,
+    "geom:longitude":-89.815634,
+    "iso:country":"US",
+    "sg:address":"5785 Southbend Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 5500",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WFSTCQJYXGlKCpTAw9M2E_34.944538_-89.815634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121943,
+    "wof:geomhash":"ab1c8d2cfc183e84d1da97f38f8c73c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857101117
+        }
+    ],
+    "wof:id":857101117,
+    "wof:lastmodified":1464121943,
+    "wof:name":"Campbell Soup",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -89.815634,
+    34.944538,
+    -89.815634,
+    34.944538
+],
+  "geometry": {"coordinates":[-89.815634,34.944538],"type":"Point"}
+}

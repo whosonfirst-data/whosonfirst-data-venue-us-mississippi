@@ -1,0 +1,73 @@
+{
+  "id": 857217241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.167557,30.365503,-89.167557,30.365503",
+    "geom:latitude":30.365503,
+    "geom:longitude":-89.167557,
+    "iso:country":"US",
+    "sg:address":"205 Royal Dr",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 6072",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cANjS1E3IAYAkrXY91IfK_30.365503_-89.167557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124558,
+    "wof:geomhash":"33ebcab4c9c96b13aaeae6f09a3219fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857217241
+        }
+    ],
+    "wof:id":857217241,
+    "wof:lastmodified":1464124558,
+    "wof:name":"Paige Electric",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.167557,
+    30.365503,
+    -89.167557,
+    30.365503
+],
+  "geometry": {"coordinates":[-89.167557,30.365503],"type":"Point"}
+}

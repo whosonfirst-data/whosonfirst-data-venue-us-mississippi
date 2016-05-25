@@ -1,0 +1,66 @@
+{
+  "id": 857431821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795208,34.963571,-89.795208,34.963571",
+    "geom:latitude":34.963571,
+    "geom:longitude":-89.795208,
+    "iso:country":"US",
+    "sg:address":"7105 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 1007",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jvB5bpfgfUQeBmxCgpfyr_34.963571_-89.795208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129384,
+    "wof:geomhash":"6800a2a5b283a9cb9f843bb59ec2c97b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857431821
+        }
+    ],
+    "wof:id":857431821,
+    "wof:lastmodified":1464129384,
+    "wof:name":"Wine Etc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.795208,
+    34.963571,
+    -89.795208,
+    34.963571
+],
+  "geometry": {"coordinates":[-89.795208,34.963571],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857378227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.244412,30.316967,-89.244412,30.316967",
+    "geom:latitude":30.316967,
+    "geom:longitude":-89.244412,
+    "iso:country":"US",
+    "sg:address":"213 E 2nd St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 4534",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vrq0cccXPwZ2SQ0BhpGTB_30.316967_-89.244412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128080,
+    "wof:geomhash":"68a426a627f9a9b7c6e1f7ffe3867cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857378227
+        }
+    ],
+    "wof:id":857378227,
+    "wof:lastmodified":1464128080,
+    "wof:name":"John Hayden Plumbing-Heating",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.244412,
+    30.316967,
+    -89.244412,
+    30.316967
+],
+  "geometry": {"coordinates":[-89.244412,30.316967],"type":"Point"}
+}

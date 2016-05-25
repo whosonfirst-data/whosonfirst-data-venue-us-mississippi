@@ -1,0 +1,75 @@
+{
+  "id": 857084645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.191029,32.290138,-90.191029,32.290138",
+    "geom:latitude":32.290138,
+    "geom:longitude":-90.191029,
+    "iso:country":"US",
+    "sg:address":"925 Wholesale Row",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 8555",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jTsT57ld1ByP3BLgfTzAM_32.290138_-90.191029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121522,
+    "wof:geomhash":"5500f5fe4f3dc62f4f0d55211fe4e655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878407,
+            "region_id":85688579,
+            "venue_id":857084645
+        }
+    ],
+    "wof:id":857084645,
+    "wof:lastmodified":1464121522,
+    "wof:name":"Specialty Metals Inc",
+    "wof:parent_id":85878407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -90.191029,
+    32.290138,
+    -90.191029,
+    32.290138
+],
+  "geometry": {"coordinates":[-90.191029,32.290138],"type":"Point"}
+}

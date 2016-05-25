@@ -1,0 +1,74 @@
+{
+  "id": 857480509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.569686,34.3617,-89.569686,34.3617",
+    "geom:latitude":34.3617,
+    "geom:longitude":-89.569686,
+    "iso:country":"US",
+    "sg:address":"2622 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/100813-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7347",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DSwJ4x7e54eeRB9MzSumA_34.361700_-89.569686@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130379,
+    "wof:geomhash":"2d2b1382eb40395bdc85beb192adeab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480509
+        }
+    ],
+    "wof:id":857480509,
+    "wof:lastmodified":1464130379,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.569686,
+    34.3617,
+    -89.569686,
+    34.3617
+],
+  "geometry": {"coordinates":[-89.569686,34.3617],"type":"Point"}
+}

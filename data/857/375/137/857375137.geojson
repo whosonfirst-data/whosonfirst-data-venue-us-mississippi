@@ -1,0 +1,71 @@
+{
+  "id": 857375137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.849938,32.286166,-90.849938,32.286166",
+    "geom:latitude":32.286166,
+    "geom:longitude":-90.849938,
+    "iso:country":"US",
+    "sg:address":"4920 Halls Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 0447",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j1bnSwO7wfmCMwFtQ6TMc_32.286166_-90.849938@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128011,
+    "wof:geomhash":"07fd3d819d144ae91b5a1d81b17857a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857375137
+        }
+    ],
+    "wof:id":857375137,
+    "wof:lastmodified":1464128011,
+    "wof:name":"Autumn Oak Townhouses",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.849938,
+    32.286166,
+    -90.849938,
+    32.286166
+],
+  "geometry": {"coordinates":[-90.84993799999999,32.286166],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857176917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697188,32.379101,-88.697188,32.379101",
+    "geom:latitude":32.379101,
+    "geom:longitude":-88.697188,
+    "iso:country":"US",
+    "sg:address":"2000 18th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 1898",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sNuTkWGehkIlG9IzgxRhx_32.379101_-88.697188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123731,
+    "wof:geomhash":"51b075442ed58d3ee26ebd39523f9dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857176917
+        }
+    ],
+    "wof:id":857176917,
+    "wof:lastmodified":1464123731,
+    "wof:name":"St John Baptist Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.697188,
+    32.379101,
+    -88.697188,
+    32.379101
+],
+  "geometry": {"coordinates":[-88.697188,32.379101],"type":"Point"}
+}

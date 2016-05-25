@@ -1,0 +1,73 @@
+{
+  "id": 857342355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.821263,34.794519,-89.821263,34.794519",
+    "geom:latitude":34.794519,
+    "geom:longitude":-89.821263,
+    "iso:country":"US",
+    "sg:address":"4570 Treadway Rd",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 233 4647",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nrEYElY8HBZog0ncdeLHS_34.794519_-89.821263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127322,
+    "wof:geomhash":"0e8c4a54540f2f42bc42aca99db1c763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857342355
+        }
+    ],
+    "wof:id":857342355,
+    "wof:lastmodified":1464127322,
+    "wof:name":"David C Massey",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.821263,
+    34.794519,
+    -89.821263,
+    34.794519
+],
+  "geometry": {"coordinates":[-89.821263,34.794519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857342519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.579213,33.82872,-88.579213,33.82872",
+    "geom:latitude":33.82872,
+    "geom:longitude":-88.579213,
+    "iso:country":"US",
+    "sg:address":"206 Shady Oak Dr",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8215",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ebDYuk5nB1Sw2D9HKQKGI_33.828720_-88.579213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127324,
+    "wof:geomhash":"1aea4ab6c8a60478c577cf721a4525dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857342519
+        }
+    ],
+    "wof:id":857342519,
+    "wof:lastmodified":1464127324,
+    "wof:name":"Edwards Home Repair Etc",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.579213,
+    33.82872,
+    -88.579213,
+    33.82872
+],
+  "geometry": {"coordinates":[-88.579213,33.82872],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857456417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.791832,34.981964,-89.791832,34.981964",
+    "geom:latitude":34.981964,
+    "geom:longitude":-89.791832,
+    "iso:country":"US",
+    "sg:address":"8470 Summit Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4909",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kyjBjAEIPkVpes2lsLS9t_34.981964_-89.791832@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129880,
+    "wof:geomhash":"cb4b2c26b427f471418621a53390a255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857456417
+        }
+    ],
+    "wof:id":857456417,
+    "wof:lastmodified":1464129880,
+    "wof:name":"Jim's Tool & Die",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -89.791832,
+    34.981964,
+    -89.791832,
+    34.981964
+],
+  "geometry": {"coordinates":[-89.791832,34.981964],"type":"Point"}
+}

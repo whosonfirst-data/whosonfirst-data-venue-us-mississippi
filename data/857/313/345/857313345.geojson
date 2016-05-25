@@ -1,0 +1,72 @@
+{
+  "id": 857313345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.289716,31.326574,-89.289716,31.326574",
+    "geom:latitude":31.326574,
+    "geom:longitude":-89.289716,
+    "iso:country":"US",
+    "sg:address":"525 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1234",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.mpvlaw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G7IScwR2ob3s4UqML9c9e_31.326574_-89.289716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126690,
+    "wof:geomhash":"6381878dc02a7325ce1a76c26f583484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857313345
+        }
+    ],
+    "wof:id":857313345,
+    "wof:lastmodified":1464126690,
+    "wof:name":"Montague Pittman & Varnado",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.289716,
+    31.326574,
+    -89.289716,
+    31.326574
+],
+  "geometry": {"coordinates":[-89.289716,31.326574],"type":"Point"}
+}

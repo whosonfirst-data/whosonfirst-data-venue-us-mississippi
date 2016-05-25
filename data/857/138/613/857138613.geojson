@@ -1,0 +1,77 @@
+{
+  "id": 857138613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.322098,31.338858,-89.322098,31.338858",
+    "geom:latitude":31.338858,
+    "geom:longitude":-89.322098,
+    "iso:country":"US",
+    "sg:address":"729 Longstreet Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8998",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_426x079ak2gGLLpxTUnsq1_31.338858_-89.322098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122863,
+    "wof:geomhash":"edfd1ec2fe1790d6f129773ba5873dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857138613
+        }
+    ],
+    "wof:id":857138613,
+    "wof:lastmodified":1464122863,
+    "wof:name":"Bob & Meryl's Steam Cleaning",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -89.322098,
+    31.338858,
+    -89.322098,
+    31.338858
+],
+  "geometry": {"coordinates":[-89.322098,31.338858],"type":"Point"}
+}

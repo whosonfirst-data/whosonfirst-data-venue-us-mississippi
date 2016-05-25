@@ -1,0 +1,73 @@
+{
+  "id": 857088949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971302,34.962689,-89.971302,34.962689",
+    "geom:latitude":34.962689,
+    "geom:longitude":-89.971302,
+    "iso:country":"US",
+    "sg:address":"1060 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 8996",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21qpKHz7Hfcl7HPnNiBs3S_34.962689_-89.971302@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121642,
+    "wof:geomhash":"a1e97f3efa94a53764aba1591dca5605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857088949
+        }
+    ],
+    "wof:id":857088949,
+    "wof:lastmodified":1464121642,
+    "wof:name":"Watson Family Cleaners II",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.971302,
+    34.962689,
+    -89.971302,
+    34.962689
+],
+  "geometry": {"coordinates":[-89.97130199999999,34.962689],"type":"Point"}
+}

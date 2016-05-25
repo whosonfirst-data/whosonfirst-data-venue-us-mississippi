@@ -1,0 +1,73 @@
+{
+  "id": 857254643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530728,30.355913,-88.530728,30.355913",
+    "geom:latitude":30.355913,
+    "geom:longitude":-88.530728,
+    "iso:country":"US",
+    "sg:address":"1907 Eden St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7788",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ty4O35Ni3lkleajuKJy0c_30.355913_-88.530728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125368,
+    "wof:geomhash":"5e91641e4842e59e8d3fd422edadfedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857254643
+        }
+    ],
+    "wof:id":857254643,
+    "wof:lastmodified":1464125368,
+    "wof:name":"Robin Adams Performing Arts",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -88.530728,
+    30.355913,
+    -88.530728,
+    30.355913
+],
+  "geometry": {"coordinates":[-88.530728,30.355913],"type":"Point"}
+}

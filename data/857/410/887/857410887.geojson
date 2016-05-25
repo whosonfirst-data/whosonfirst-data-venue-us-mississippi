@@ -1,0 +1,66 @@
+{
+  "id": 857410887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525766,30.36396,-88.525766,30.36396",
+    "geom:latitude":30.36396,
+    "geom:longitude":-88.525766,
+    "iso:country":"US",
+    "sg:address":"2802 Chicot St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1415",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Puy6V3EmtiRNjKfbyRPa_30.363960_-88.525766@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128867,
+    "wof:geomhash":"da6f9f56bb1c2ca705641e21e2be0ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857410887
+        }
+    ],
+    "wof:id":857410887,
+    "wof:lastmodified":1464128867,
+    "wof:name":"Coast Mini Mart",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.525766,
+    30.36396,
+    -88.525766,
+    30.36396
+],
+  "geometry": {"coordinates":[-88.525766,30.36396],"type":"Point"}
+}

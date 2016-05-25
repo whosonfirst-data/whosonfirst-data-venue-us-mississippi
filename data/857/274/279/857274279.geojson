@@ -1,0 +1,71 @@
+{
+  "id": 857274279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.7013,32.377756,-88.7013,32.377756",
+    "geom:latitude":32.377756,
+    "geom:longitude":-88.7013,
+    "iso:country":"US",
+    "sg:address":"1922 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8986",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oO3R27bPcOF6jN3i111NO_32.377756_-88.701300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125776,
+    "wof:geomhash":"51aa8d32d9b8f6785c83a94a638c4356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857274279
+        }
+    ],
+    "wof:id":857274279,
+    "wof:lastmodified":1464125776,
+    "wof:name":"Britt Mc Carty DDS",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.7013,
+    32.377756,
+    -88.7013,
+    32.377756
+],
+  "geometry": {"coordinates":[-88.7013,32.377756],"type":"Point"}
+}

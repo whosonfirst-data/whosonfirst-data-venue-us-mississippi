@@ -1,0 +1,73 @@
+{
+  "id": 857447799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.306649,33.535289,-88.306649,33.535289",
+    "geom:latitude":33.535289,
+    "geom:longitude":-88.306649,
+    "iso:country":"US",
+    "sg:address":"6572 Hwy 50 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5355",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pnO5SBSWrvmn24UPBWRV4_33.535289_-88.306649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129718,
+    "wof:geomhash":"89a846ffd53f2d13d81e8bea3f2492de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857447799
+        }
+    ],
+    "wof:id":857447799,
+    "wof:lastmodified":1464129718,
+    "wof:name":"Dixie Auto Parts",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -88.306649,
+    33.535289,
+    -88.306649,
+    33.535289
+],
+  "geometry": {"coordinates":[-88.30664899999999,33.535289],"type":"Point"}
+}

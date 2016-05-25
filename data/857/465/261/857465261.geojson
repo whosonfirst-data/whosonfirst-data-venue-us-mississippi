@@ -1,0 +1,71 @@
+{
+  "id": 857465261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.452014,31.001756,-89.452014,31.001756",
+    "geom:latitude":31.001756,
+    "geom:longitude":-89.452014,
+    "iso:country":"US",
+    "sg:address":"7860 US Hwy 11",
+    "sg:city":"Lumberton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 796 2039",
+    "sg:postcode":"39455",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rJ1UtJvYcxBauj6cLOeVP_31.001756_-89.452014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130073,
+    "wof:geomhash":"87bf8eea7e7ed2ad204de58ead90125d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857465261
+        }
+    ],
+    "wof:id":857465261,
+    "wof:lastmodified":1464130073,
+    "wof:name":"Ford's Auto Repair",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.452014,
+    31.001756,
+    -89.452014,
+    31.001756
+],
+  "geometry": {"coordinates":[-89.45201400000001,31.001756],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857317651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543785,33.825441,-88.543785,33.825441",
+    "geom:latitude":33.825441,
+    "geom:longitude":-88.543785,
+    "iso:country":"US",
+    "sg:address":"102 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 9333",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paint",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QqgkRHHAo7JnOL5XUS6RX_33.825441_-88.543785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126787,
+    "wof:geomhash":"f9bfc1ac2a15fb4efe8dd7cb114288d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857317651
+        }
+    ],
+    "wof:id":857317651,
+    "wof:lastmodified":1464126787,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "covering"
+    ]
+},
+  "bbox": [
+    -88.543785,
+    33.825441,
+    -88.543785,
+    33.825441
+],
+  "geometry": {"coordinates":[-88.543785,33.825441],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857231221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.268096,31.346762,-89.268096,31.346762",
+    "geom:latitude":31.346762,
+    "geom:longitude":-89.268096,
+    "iso:country":"US",
+    "sg:address":"148 W Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4911",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_602m91aRUAcaYTn9vvZdF8_31.346762_-89.268096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124829,
+    "wof:geomhash":"08d36892f65cfb396019fe79e43f735b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857231221
+        }
+    ],
+    "wof:id":857231221,
+    "wof:lastmodified":1464124829,
+    "wof:name":"Petal Auto Pro",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.268096,
+    31.346762,
+    -89.268096,
+    31.346762
+],
+  "geometry": {"coordinates":[-89.268096,31.346762],"type":"Point"}
+}

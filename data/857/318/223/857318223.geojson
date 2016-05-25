@@ -1,0 +1,75 @@
+{
+  "id": 857318223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035888,32.287344,-90.035888,32.287344",
+    "geom:latitude":32.287344,
+    "geom:longitude":-90.035888,
+    "iso:country":"US",
+    "sg:address":"346 Crossgates Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 9000",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IPNftaUE3Md5z9Hhzxpza_32.287344_-90.035888@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126816,
+    "wof:geomhash":"8debea091e4531a6b92f2aa3e9aaee1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857318223
+        }
+    ],
+    "wof:id":857318223,
+    "wof:lastmodified":1464126816,
+    "wof:name":"Central Miss Internal Medicine",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.035888,
+    32.287344,
+    -90.035888,
+    32.287344
+],
+  "geometry": {"coordinates":[-90.035888,32.287344],"type":"Point"}
+}

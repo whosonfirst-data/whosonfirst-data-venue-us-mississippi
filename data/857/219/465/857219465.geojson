@@ -1,0 +1,75 @@
+{
+  "id": 857219465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.256345,30.311469,-89.256345,30.311469",
+    "geom:latitude":30.311469,
+    "geom:longitude":-89.256345,
+    "iso:country":"US",
+    "sg:address":"418 W Beach Blvd",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 0540",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GFHsgRDbHLe3tSFRLhvV2_30.311469_-89.256345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124604,
+    "wof:geomhash":"2d818d7666be646bdb9026cf52e3f1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857219465
+        }
+    ],
+    "wof:id":857219465,
+    "wof:lastmodified":1464124604,
+    "wof:name":"West Marine",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.256345,
+    30.311469,
+    -89.256345,
+    30.311469
+],
+  "geometry": {"coordinates":[-89.256345,30.311469],"type":"Point"}
+}

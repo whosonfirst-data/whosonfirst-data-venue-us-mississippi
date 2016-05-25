@@ -1,0 +1,71 @@
+{
+  "id": 857152145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.983578,31.962356,-90.983578,31.962356",
+    "geom:latitude":31.962356,
+    "geom:longitude":-90.983578,
+    "iso:country":"US",
+    "sg:address":"206 Orange St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 2807",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OoJ2NVMjSs1IO1NCtMzgr_31.962356_-90.983578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123189,
+    "wof:geomhash":"a45a85d0964bd8dbc2ed808efd8b610c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857152145
+        }
+    ],
+    "wof:id":857152145,
+    "wof:lastmodified":1464123189,
+    "wof:name":"Williams Computing",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.983578,
+    31.962356,
+    -90.983578,
+    31.962356
+],
+  "geometry": {"coordinates":[-90.98357799999999,31.962356],"type":"Point"}
+}

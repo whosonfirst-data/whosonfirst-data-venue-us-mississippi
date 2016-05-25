@@ -1,0 +1,71 @@
+{
+  "id": 857193857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.235114,33.884679,-88.235114,33.884679",
+    "geom:latitude":33.884679,
+    "geom:longitude":-88.235114,
+    "iso:country":"US",
+    "sg:address":"50005 Mayor St",
+    "sg:city":"Gattman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 257 1003",
+    "sg:postcode":"38844",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sX2NzLiNHxBDPOFJC5Vks_33.884679_-88.235114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124057,
+    "wof:geomhash":"8dd67713e28fc1016f965d7a5405386d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857193857
+        }
+    ],
+    "wof:id":857193857,
+    "wof:lastmodified":1464124057,
+    "wof:name":"Gattman Town Hall",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -88.235114,
+    33.884679,
+    -88.235114,
+    33.884679
+],
+  "geometry": {"coordinates":[-88.235114,33.884679],"type":"Point"}
+}

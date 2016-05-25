@@ -1,0 +1,75 @@
+{
+  "id": 857364171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.538736,30.415303,-88.538736,30.415303",
+    "geom:latitude":30.415303,
+    "geom:longitude":-88.538736,
+    "iso:country":"US",
+    "sg:address":"4218 Robinson Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 8369",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "help",
+        "maintenance",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SqRV34CNaSusgJiHrL4gz_30.415303_-88.538736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127789,
+    "wof:geomhash":"8f28ed4b31680f6242b1ea5c7348f421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857364171
+        }
+    ],
+    "wof:id":857364171,
+    "wof:lastmodified":1464127789,
+    "wof:name":"Touch of Class Cleaning Serv",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "maintenance",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.538736,
+    30.415303,
+    -88.538736,
+    30.415303
+],
+  "geometry": {"coordinates":[-88.538736,30.415303],"type":"Point"}
+}

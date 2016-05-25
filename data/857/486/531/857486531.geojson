@@ -1,0 +1,106 @@
+{
+  "id": 857486531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569351,34.192921,-90.569351,34.192921",
+    "geom:latitude":34.192921,
+    "geom:longitude":-90.569351,
+    "iso:country":"US",
+    "sg:address":"100 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 5561",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "dishwashing",
+        "specialty",
+        "system",
+        "machine",
+        "equipment",
+        "heating",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c40C844nlC97JpmjfxQD7_34.192921_-90.569351@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130495,
+    "wof:geomhash":"6240e2f423fdc565ba1f98ed6a08ae47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486531
+        }
+    ],
+    "wof:id":857486531,
+    "wof:lastmodified":1464130495,
+    "wof:name":"Delta Cooling & Heating",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "dishwashing",
+        "specialty",
+        "system",
+        "machine",
+        "equipment",
+        "heating",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair"
+    ]
+},
+  "bbox": [
+    -90.569351,
+    34.192921,
+    -90.569351,
+    34.192921
+],
+  "geometry": {"coordinates":[-90.569351,34.192921],"type":"Point"}
+}

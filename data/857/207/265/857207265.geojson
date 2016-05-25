@@ -1,0 +1,71 @@
+{
+  "id": 857207265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.546409,30.354916,-88.546409,30.354916",
+    "geom:latitude":30.354916,
+    "geom:longitude":-88.546409,
+    "iso:country":"US",
+    "sg:address":"1709 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0409",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uhoJbTC3sU3rRX3407cBx_30.354916_-88.546409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124336,
+    "wof:geomhash":"3a247ee1d668002f838a39a6f5eb7ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857207265
+        }
+    ],
+    "wof:id":857207265,
+    "wof:lastmodified":1464124336,
+    "wof:name":"Mayfair Laundry & Cleaners",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.546409,
+    30.354916,
+    -88.546409,
+    30.354916
+],
+  "geometry": {"coordinates":[-88.546409,30.354916],"type":"Point"}
+}

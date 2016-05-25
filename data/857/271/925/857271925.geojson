@@ -1,0 +1,71 @@
+{
+  "id": 857271925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42083,33.49617,-88.42083,33.49617",
+    "geom:latitude":33.49617,
+    "geom:longitude":-88.42083,
+    "iso:country":"US",
+    "sg:address":"100 S 11th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2617",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TMQNbydzDtaUkj5gub1uH_33.496170_-88.420830@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125724,
+    "wof:geomhash":"eaa3059899d61cb3e85437512d4033e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857271925
+        }
+    ],
+    "wof:id":857271925,
+    "wof:lastmodified":1464125724,
+    "wof:name":"Sue's Beauty Salon",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.42083,
+    33.49617,
+    -88.42083,
+    33.49617
+],
+  "geometry": {"coordinates":[-88.42083,33.49617],"type":"Point"}
+}

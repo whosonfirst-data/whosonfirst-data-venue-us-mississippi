@@ -1,0 +1,73 @@
+{
+  "id": 857374071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653155,33.609939,-88.653155,33.609939",
+    "geom:latitude":33.609939,
+    "geom:longitude":-88.653155,
+    "iso:country":"US",
+    "sg:address":"314 Stonewall St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 6712",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WaGcoiajl34MEZn4Xlld6_33.609939_-88.653155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127990,
+    "wof:geomhash":"90958dbcfde72e0a1863d5354cedaf9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857374071
+        }
+    ],
+    "wof:id":857374071,
+    "wof:lastmodified":1464127990,
+    "wof:name":"Southern Seasons Landscapes",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.653155,
+    33.609939,
+    -88.653155,
+    33.609939
+],
+  "geometry": {"coordinates":[-88.653155,33.609939],"type":"Point"}
+}

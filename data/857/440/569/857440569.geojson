@@ -1,0 +1,74 @@
+{
+  "id": 857440569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51971,34.351468,-89.51971,34.351468",
+    "geom:latitude":34.351468,
+    "geom:longitude":-89.51971,
+    "iso:country":"US",
+    "sg:address":"2215 Jefferson Davis Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3303",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.surgicalclinic.ms",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MEFvabzuSP3avUyzMaOri_34.351468_-89.519710@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129579,
+    "wof:geomhash":"e257dc11c98cfd83523d2592e07df737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857440569
+        }
+    ],
+    "wof:id":857440569,
+    "wof:lastmodified":1464129579,
+    "wof:name":"Surgical Clinic-N Mississippi",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.51971,
+    34.351468,
+    -89.51971,
+    34.351468
+],
+  "geometry": {"coordinates":[-89.51971,34.351468],"type":"Point"}
+}

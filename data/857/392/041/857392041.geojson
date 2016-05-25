@@ -1,0 +1,77 @@
+{
+  "id": 857392041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.740856,32.347831,-88.740856,32.347831",
+    "geom:latitude":32.347831,
+    "geom:longitude":-88.740856,
+    "iso:country":"US",
+    "sg:address":"6000 I St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5808",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jjAo8UaIlKMl512FKDq0o_32.347831_-88.740856@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128467,
+    "wof:geomhash":"4ec8e7beeee55b567614eded2043bcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857392041
+        }
+    ],
+    "wof:id":857392041,
+    "wof:lastmodified":1464128467,
+    "wof:name":"P S Delivery",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.740856,
+    32.347831,
+    -88.740856,
+    32.347831
+],
+  "geometry": {"coordinates":[-88.74085599999999,32.347831],"type":"Point"}
+}

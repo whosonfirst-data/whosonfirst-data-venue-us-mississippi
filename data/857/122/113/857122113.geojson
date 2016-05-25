@@ -1,0 +1,73 @@
+{
+  "id": 857122113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.451079,33.61304,-88.451079,33.61304",
+    "geom:latitude":33.61304,
+    "geom:longitude":-88.451079,
+    "iso:country":"US",
+    "sg:address":"1559 Hwy 373",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 5029",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d7Ly9OnV08JfkxsLoJ8a8_33.613040_-88.451079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122497,
+    "wof:geomhash":"cab32b510b7fa9b0b2e8a6b63dc0b46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857122113
+        }
+    ],
+    "wof:id":857122113,
+    "wof:lastmodified":1464122497,
+    "wof:name":"Niffty Thrifty",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -88.451079,
+    33.61304,
+    -88.451079,
+    33.61304
+],
+  "geometry": {"coordinates":[-88.45107899999999,33.61304],"type":"Point"}
+}

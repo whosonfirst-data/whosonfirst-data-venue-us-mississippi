@@ -1,0 +1,77 @@
+{
+  "id": 857469837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652352,32.309008,-88.652352,32.309008",
+    "geom:latitude":32.309008,
+    "geom:longitude":-88.652352,
+    "iso:country":"US",
+    "sg:address":"4695 Long Creek Water Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3096",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "distribution",
+        "engaged",
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18AJXSCws3J3aWKhPwaSud_32.309008_-88.652352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130169,
+    "wof:geomhash":"673a49ce68931d52b0dc9c45dd938158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857469837
+        }
+    ],
+    "wof:id":857469837,
+    "wof:lastmodified":1464130169,
+    "wof:name":"Long Creek Water Association",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "engaged",
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -88.652352,
+    32.309008,
+    -88.652352,
+    32.309008
+],
+  "geometry": {"coordinates":[-88.65235199999999,32.309008],"type":"Point"}
+}

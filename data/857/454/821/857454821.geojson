@@ -1,0 +1,77 @@
+{
+  "id": 857454821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648974,30.391207,-88.648974,30.391207",
+    "geom:latitude":30.391207,
+    "geom:longitude":-88.648974,
+    "iso:country":"US",
+    "sg:address":"2525 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 9766",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4HBN7Hah36ji5YAFfeax_30.391207_-88.648974@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129852,
+    "wof:geomhash":"bf3fd4a571e8ca73218e709675d4760f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857454821
+        }
+    ],
+    "wof:id":857454821,
+    "wof:lastmodified":1464129852,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.648974,
+    30.391207,
+    -88.648974,
+    30.391207
+],
+  "geometry": {"coordinates":[-88.648974,30.391207],"type":"Point"}
+}

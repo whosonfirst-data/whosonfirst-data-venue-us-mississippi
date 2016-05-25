@@ -1,0 +1,66 @@
+{
+  "id": 857393293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86367,32.316269,-90.86367,32.316269",
+    "geom:latitude":32.316269,
+    "geom:longitude":-90.86367,
+    "iso:country":"US",
+    "sg:address":"3419 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9389",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q9DUO4abLI4UOnTq5rgdu_32.316269_-90.863670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128489,
+    "wof:geomhash":"ec12f3e13d81d304ecb9ff0e1e230295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857393293
+        }
+    ],
+    "wof:id":857393293,
+    "wof:lastmodified":1464128489,
+    "wof:name":"Vicksburg Dance Studio",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.86367,
+    32.316269,
+    -90.86367,
+    32.316269
+],
+  "geometry": {"coordinates":[-90.86367,32.316269],"type":"Point"}
+}

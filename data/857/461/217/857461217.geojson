@@ -1,0 +1,68 @@
+{
+  "id": 857461217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.150654,32.334132,-90.150654,32.334132",
+    "geom:latitude":32.334132,
+    "geom:longitude":-90.150654,
+    "iso:country":"US",
+    "sg:address":"2510 Lakeland Ter",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 4737",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47IoAkHGnwM8N05M1v0S0T_32.334132_-90.150654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129977,
+    "wof:geomhash":"6f0b01b45c633f73adfd52483b3fb290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857461217
+        }
+    ],
+    "wof:id":857461217,
+    "wof:lastmodified":1464129977,
+    "wof:name":"H & M Realty",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.150654,
+    32.334132,
+    -90.150654,
+    32.334132
+],
+  "geometry": {"coordinates":[-90.150654,32.334132],"type":"Point"}
+}

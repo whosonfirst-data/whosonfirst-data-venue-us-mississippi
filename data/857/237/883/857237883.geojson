@@ -1,0 +1,66 @@
+{
+  "id": 857237883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.81881,34.94403,-89.81881,34.94403",
+    "geom:latitude":34.94403,
+    "geom:longitude":-89.81881,
+    "iso:country":"US",
+    "sg:address":"5899 Michaelson Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 751 1111",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20T5OKQ6zrJV1iUGf7L8nM_34.944030_-89.818810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124963,
+    "wof:geomhash":"7c532af7938196262e0359a93f535edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857237883
+        }
+    ],
+    "wof:id":857237883,
+    "wof:lastmodified":1464124963,
+    "wof:name":"Tile & Grout Cleaning",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.81881,
+    34.94403,
+    -89.81881,
+    34.94403
+],
+  "geometry": {"coordinates":[-89.81881,34.94403],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857457543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.377197,31.387115,-89.377197,31.387115",
+    "geom:latitude":31.387115,
+    "geom:longitude":-89.377197,
+    "iso:country":"US",
+    "sg:address":"100 Archie Smith Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 7773",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "flag",
+        "banner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fJOLZdj39Vzc5F8QL39iM_31.387115_-89.377197@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129899,
+    "wof:geomhash":"c51fc60f399f2fc9022a9713053024c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857457543
+        }
+    ],
+    "wof:id":857457543,
+    "wof:lastmodified":1464129899,
+    "wof:name":"Checker Flag",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flag",
+        "banner"
+    ]
+},
+  "bbox": [
+    -89.377197,
+    31.387115,
+    -89.377197,
+    31.387115
+],
+  "geometry": {"coordinates":[-89.377197,31.387115],"type":"Point"}
+}

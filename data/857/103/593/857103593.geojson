@@ -1,0 +1,71 @@
+{
+  "id": 857103593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.567345,30.63793,-88.567345,30.63793",
+    "geom:latitude":30.63793,
+    "geom:longitude":-88.567345,
+    "iso:country":"US",
+    "sg:address":"20265 State Hwy 63",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 588 1122",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "western"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1llRSWzXxBquVWlUHV2ZwP_30.637930_-88.567345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121995,
+    "wof:geomhash":"d6eb82a98811c711cb118a415015b9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857103593
+        }
+    ],
+    "wof:id":857103593,
+    "wof:lastmodified":1464121995,
+    "wof:name":"Western Wishes",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "western"
+    ]
+},
+  "bbox": [
+    -88.567345,
+    30.63793,
+    -88.567345,
+    30.63793
+],
+  "geometry": {"coordinates":[-88.567345,30.63793],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857197229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.439526,31.587264,-90.439526,31.587264",
+    "geom:latitude":31.587264,
+    "geom:longitude":-90.439526,
+    "iso:country":"US",
+    "sg:address":"650 N Railroad Ave",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 833 5021",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EOkzCjI8p7YZTNDes8fUk_31.587264_-90.439526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124123,
+    "wof:geomhash":"1284a47377b8df6e927315ee452c5d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857197229
+        }
+    ],
+    "wof:id":857197229,
+    "wof:lastmodified":1464124123,
+    "wof:name":"Illinois Central Gulf Railyard",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -90.439526,
+    31.587264,
+    -90.439526,
+    31.587264
+],
+  "geometry": {"coordinates":[-90.439526,31.587264],"type":"Point"}
+}

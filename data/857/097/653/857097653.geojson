@@ -1,0 +1,71 @@
+{
+  "id": 857097653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.237608,31.312613,-89.237608,31.312613",
+    "geom:latitude":31.312613,
+    "geom:longitude":-89.237608,
+    "iso:country":"US",
+    "sg:address":"205 Baker St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 9267",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grTVmycfBCU8JB1dilx56_31.312613_-89.237608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121850,
+    "wof:geomhash":"873e1dcff279f413baace7fc485ad7ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857097653
+        }
+    ],
+    "wof:id":857097653,
+    "wof:lastmodified":1464121850,
+    "wof:name":"Hitson Heating & AC",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.237608,
+    31.312613,
+    -89.237608,
+    31.312613
+],
+  "geometry": {"coordinates":[-89.23760799999999,31.312613],"type":"Point"}
+}

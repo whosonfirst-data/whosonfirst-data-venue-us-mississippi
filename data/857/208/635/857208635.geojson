@@ -1,0 +1,75 @@
+{
+  "id": 857208635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.189817,32.063379,-90.189817,32.063379",
+    "geom:latitude":32.063379,
+    "geom:longitude":-90.189817,
+    "iso:country":"US",
+    "sg:address":"396 Clear Branch Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 2696",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpHOcBIg7f3zpD3WHilD1_32.063379_-90.189817@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124363,
+    "wof:geomhash":"3ffd83c092e7c2ae88a3bcf9e3e08d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857208635
+        }
+    ],
+    "wof:id":857208635,
+    "wof:lastmodified":1464124363,
+    "wof:name":"Rolling Hills Farm",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -90.189817,
+    32.063379,
+    -90.189817,
+    32.063379
+],
+  "geometry": {"coordinates":[-90.18981700000001,32.063379],"type":"Point"}
+}

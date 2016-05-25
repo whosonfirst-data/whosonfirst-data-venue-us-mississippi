@@ -1,0 +1,73 @@
+{
+  "id": 857419833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.205748,32.316829,-90.205748,32.316829",
+    "geom:latitude":32.316829,
+    "geom:longitude":-90.205748,
+    "iso:country":"US",
+    "sg:address":"1136 Maple St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 1178",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m5MX5bGAIXFmnjvqDGTo4_32.316829_-90.205748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129091,
+    "wof:geomhash":"c45ad94e14d61b79a20b12cb5c9ffaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857419833
+        }
+    ],
+    "wof:id":857419833,
+    "wof:lastmodified":1464129091,
+    "wof:name":"Ultimate Look Beauty Salon",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.205748,
+    32.316829,
+    -90.205748,
+    32.316829
+],
+  "geometry": {"coordinates":[-90.205748,32.316829],"type":"Point"}
+}

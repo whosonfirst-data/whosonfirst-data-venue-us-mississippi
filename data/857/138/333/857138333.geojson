@@ -1,0 +1,71 @@
+{
+  "id": 857138333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416085,32.843792,-90.416085,32.843792",
+    "geom:latitude":32.843792,
+    "geom:longitude":-90.416085,
+    "iso:country":"US",
+    "sg:address":"213 S Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1863",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ar1kvUPC853BnsEbQTc3f_32.843792_-90.416085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122855,
+    "wof:geomhash":"a3413cda4f6e6e03cdfb197d97ffdb29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857138333
+        }
+    ],
+    "wof:id":857138333,
+    "wof:lastmodified":1464122855,
+    "wof:name":"Williams Clark & Morrison Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.416085,
+    32.843792,
+    -90.416085,
+    32.843792
+],
+  "geometry": {"coordinates":[-90.416085,32.843792],"type":"Point"}
+}

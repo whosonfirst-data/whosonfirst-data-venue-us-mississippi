@@ -1,0 +1,71 @@
+{
+  "id": 857410027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671725,32.31287,-88.671725,32.31287",
+    "geom:latitude":32.31287,
+    "geom:longitude":-88.671725,
+    "iso:country":"US",
+    "sg:address":"4497 Pleasant Hill Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8573",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19jpCZoGjrI7FWYdqsCpdY_32.312870_-88.671725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128837,
+    "wof:geomhash":"a65d5258fd6b214d4201f04532f4633b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857410027
+        }
+    ],
+    "wof:id":857410027,
+    "wof:lastmodified":1464128837,
+    "wof:name":"Consumer Plumbing & Gen Contg",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.671725,
+    32.31287,
+    -88.671725,
+    32.31287
+],
+  "geometry": {"coordinates":[-88.671725,32.31287],"type":"Point"}
+}

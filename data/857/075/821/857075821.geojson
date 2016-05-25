@@ -1,0 +1,73 @@
+{
+  "id": 857075821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.23214,31.370141,-89.23214,31.370141",
+    "geom:latitude":31.370141,
+    "geom:longitude":-89.23214,
+    "iso:country":"US",
+    "sg:address":"33 Branden Ln",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4911",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gRp3YWZUT493EfWlvVqrR_31.370141_-89.232140@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121305,
+    "wof:geomhash":"f6695e6cc0fa098dce8ea807a409bb1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857075821
+        }
+    ],
+    "wof:id":857075821,
+    "wof:lastmodified":1464121305,
+    "wof:name":"Petal Auto Pro",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -89.23214,
+    31.370141,
+    -89.23214,
+    31.370141
+],
+  "geometry": {"coordinates":[-89.23214,31.370141],"type":"Point"}
+}

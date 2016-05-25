@@ -1,0 +1,77 @@
+{
+  "id": 857210059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.574332,33.841441,-88.574332,33.841441",
+    "geom:latitude":33.841441,
+    "geom:longitude":-88.574332,
+    "iso:country":"US",
+    "sg:address":"517 Hwy 145 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8683",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lCWfhs3nCftNolwCWI8VX_33.841441_-88.574332@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124391,
+    "wof:geomhash":"bc6ca3a15d2f54526375acfac3a94e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857210059
+        }
+    ],
+    "wof:id":857210059,
+    "wof:lastmodified":1464124391,
+    "wof:name":"Monroe County EXT Office",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative",
+        "social"
+    ]
+},
+  "bbox": [
+    -88.574332,
+    33.841441,
+    -88.574332,
+    33.841441
+],
+  "geometry": {"coordinates":[-88.574332,33.841441],"type":"Point"}
+}

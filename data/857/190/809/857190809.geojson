@@ -1,0 +1,71 @@
+{
+  "id": 857190809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548432,30.360491,-88.548432,30.360491",
+    "geom:latitude":30.360491,
+    "geom:longitude":-88.548432,
+    "iso:country":"US",
+    "sg:address":"2418 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2227",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Yd861W9moNr7t3JIXBmB_30.360491_-88.548432@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124003,
+    "wof:geomhash":"fd88fb5c4f594219ee0e415255ab812b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857190809
+        }
+    ],
+    "wof:id":857190809,
+    "wof:lastmodified":1464124003,
+    "wof:name":"Market Street Title Loans",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -88.548432,
+    30.360491,
+    -88.548432,
+    30.360491
+],
+  "geometry": {"coordinates":[-88.54843200000001,30.360491],"type":"Point"}
+}

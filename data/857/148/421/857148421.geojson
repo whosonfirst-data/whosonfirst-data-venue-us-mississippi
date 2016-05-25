@@ -1,0 +1,73 @@
+{
+  "id": 857148421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19296,32.279942,-90.19296,32.279942",
+    "geom:latitude":32.279942,
+    "geom:longitude":-90.19296,
+    "iso:country":"US",
+    "sg:address":"1740 S Gallatin St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 355 5113",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MUIYHpvYpfo20pMFrRqaS_32.279942_-90.192960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123109,
+    "wof:geomhash":"899aaf3bfb56a8dd138e591f5fd2adcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857148421
+        }
+    ],
+    "wof:id":857148421,
+    "wof:lastmodified":1464123109,
+    "wof:name":"Jackson Animal Clinic",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.19296,
+    32.279942,
+    -90.19296,
+    32.279942
+],
+  "geometry": {"coordinates":[-90.19296,32.279942],"type":"Point"}
+}

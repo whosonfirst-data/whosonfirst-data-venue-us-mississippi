@@ -1,0 +1,68 @@
+{
+  "id": 857314347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.177807,32.305105,-90.177807,32.305105",
+    "geom:latitude":32.305105,
+    "geom:longitude":-90.177807,
+    "iso:country":"US",
+    "sg:address":"620 North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 7737",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EC3GfQVUeEpLItJMjGUVE_32.305105_-90.177807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126710,
+    "wof:geomhash":"a676dd7a44341b1fe1cc1719d63b9a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857314347
+        }
+    ],
+    "wof:id":857314347,
+    "wof:lastmodified":1464126710,
+    "wof:name":"Blue Cross & Blue Shield Of MS",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.177807,
+    32.305105,
+    -90.177807,
+    32.305105
+],
+  "geometry": {"coordinates":[-90.177807,32.305105],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857127181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.358944,33.448323,-88.358944,33.448323",
+    "geom:latitude":33.448323,
+    "geom:longitude":-88.358944,
+    "iso:country":"US",
+    "sg:address":"511 Crowe Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6716",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WPbXxdg7UaSYl21saNEgO_33.448323_-88.358944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122609,
+    "wof:geomhash":"8a11812a93d3803ff364a092f7f2a501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857127181
+        }
+    ],
+    "wof:id":857127181,
+    "wof:lastmodified":1464122609,
+    "wof:name":"Tennessee Gas Pipeline Company",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "pipe",
+        "company",
+        "line"
+    ]
+},
+  "bbox": [
+    -88.358944,
+    33.448323,
+    -88.358944,
+    33.448323
+],
+  "geometry": {"coordinates":[-88.35894399999999,33.448323],"type":"Point"}
+}

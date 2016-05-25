@@ -1,0 +1,71 @@
+{
+  "id": 857208721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.552437,30.36553,-88.552437,30.36553",
+    "geom:latitude":30.36553,
+    "geom:longitude":-88.552437,
+    "iso:country":"US",
+    "sg:address":"1000 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9363",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JQW4Ietf19NCI1eKxMCfZ_30.365530_-88.552437@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124364,
+    "wof:geomhash":"c75e8887e87bb22a156f5aa2a4bee1b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857208721
+        }
+    ],
+    "wof:id":857208721,
+    "wof:lastmodified":1464124364,
+    "wof:name":"Heidelberg Associates Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -88.552437,
+    30.36553,
+    -88.552437,
+    30.36553
+],
+  "geometry": {"coordinates":[-88.552437,30.36553],"type":"Point"}
+}

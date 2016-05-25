@@ -1,0 +1,73 @@
+{
+  "id": 857188911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534751,30.37328,-88.534751,30.37328",
+    "geom:latitude":30.37328,
+    "geom:longitude":-88.534751,
+    "iso:country":"US",
+    "sg:address":"4105 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1682",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_231ZMzrwfqxUIgFCa0F96M_30.373280_-88.534751@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123968,
+    "wof:geomhash":"0495ecd6fb14b74262a69b15fd676ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857188911
+        }
+    ],
+    "wof:id":857188911,
+    "wof:lastmodified":1464123968,
+    "wof:name":"Medical Arts Pharmacy",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.534751,
+    30.37328,
+    -88.534751,
+    30.37328
+],
+  "geometry": {"coordinates":[-88.534751,30.37328],"type":"Point"}
+}

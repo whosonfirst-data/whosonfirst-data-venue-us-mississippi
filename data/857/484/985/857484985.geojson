@@ -1,0 +1,77 @@
+{
+  "id": 857484985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.805148,30.4162,-88.805148,30.4162",
+    "geom:latitude":30.4162,
+    "geom:longitude":-88.805148,
+    "iso:country":"US",
+    "sg:address":"2228 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/12821-coffee-fusion-bubbletea-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 9211",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oPSumALZXKGg91qtExa4U_30.416200_-88.805148@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130468,
+    "wof:geomhash":"808ad816fbca2bb08f5d137692e3a503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857484985
+        }
+    ],
+    "wof:id":857484985,
+    "wof:lastmodified":1464130468,
+    "wof:name":"Coffee Fusion Bubbletea Cafe",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.805148,
+    30.4162,
+    -88.805148,
+    30.4162
+],
+  "geometry": {"coordinates":[-88.805148,30.4162],"type":"Point"}
+}

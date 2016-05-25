@@ -1,0 +1,74 @@
+{
+  "id": 857324129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.149838,31.341427,-89.149838,31.341427",
+    "geom:latitude":31.341427,
+    "geom:longitude":-89.149838,
+    "iso:country":"US",
+    "sg:address":"77 Watkins Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1557",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.louisianatransport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H5lMioAV917Gy00CmBabI_31.341427_-89.149838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126933,
+    "wof:geomhash":"db0191d6412f96aa00ae16dd7bfa22e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857324129
+        }
+    ],
+    "wof:id":857324129,
+    "wof:lastmodified":1464126933,
+    "wof:name":"Louisiana Transportation",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.149838,
+    31.341427,
+    -89.149838,
+    31.341427
+],
+  "geometry": {"coordinates":[-89.149838,31.341427],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857486697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562837,34.192552,-90.562837,34.192552",
+    "geom:latitude":34.192552,
+    "geom:longitude":-90.562837,
+    "iso:country":"US",
+    "sg:address":"929 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4444",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NOnpBCZoO7M6Pp6SPt4Lk_34.192552_-90.562837@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130497,
+    "wof:geomhash":"eb05b2aa854839366dd849f5258c9214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486697
+        }
+    ],
+    "wof:id":857486697,
+    "wof:lastmodified":1464130497,
+    "wof:name":"True Auto Electric",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ]
+},
+  "bbox": [
+    -90.562837,
+    34.192552,
+    -90.562837,
+    34.192552
+],
+  "geometry": {"coordinates":[-90.562837,34.192552],"type":"Point"}
+}

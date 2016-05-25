@@ -1,0 +1,75 @@
+{
+  "id": 857122943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.094767,30.368021,-89.094767,30.368021",
+    "geom:latitude":30.368021,
+    "geom:longitude":-89.094767,
+    "iso:country":"US",
+    "sg:address":"1316 27th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 3599",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KpY041rSEP2tMaO2QvmH1_30.368021_-89.094767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122528,
+    "wof:geomhash":"fc771680ca1ada817963c48262fbea0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857122943
+        }
+    ],
+    "wof:id":857122943,
+    "wof:lastmodified":1464122528,
+    "wof:name":"Gulfport Marine Supply Inc",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.094767,
+    30.368021,
+    -89.094767,
+    30.368021
+],
+  "geometry": {"coordinates":[-89.094767,30.368021],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857405207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.550052,34.203109,-90.550052,34.203109",
+    "geom:latitude":34.203109,
+    "geom:longitude":-90.550052,
+    "iso:country":"US",
+    "sg:address":"786 Ohio Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5565",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XZvGocrN6V5ECaz4vx8j6_34.203109_-90.550052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128730,
+    "wof:geomhash":"5043f67ace90eeb4b80599538b3633f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857405207
+        }
+    ],
+    "wof:id":857405207,
+    "wof:lastmodified":1464128730,
+    "wof:name":"Brookhaven Medical Clinic",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.550052,
+    34.203109,
+    -90.550052,
+    34.203109
+],
+  "geometry": {"coordinates":[-90.55005199999999,34.203109],"type":"Point"}
+}

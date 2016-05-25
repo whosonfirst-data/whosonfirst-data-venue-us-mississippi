@@ -1,0 +1,73 @@
+{
+  "id": 857355887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55918,30.366305,-88.55918,30.366305",
+    "geom:latitude":30.366305,
+    "geom:longitude":-88.55918,
+    "iso:country":"US",
+    "sg:address":"3207 Magnolia St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 4001",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3baWPKx7X4k4941z44dx6h_30.366305_-88.559180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127615,
+    "wof:geomhash":"262ff98f1d470c55c953b52b5c79d176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857355887
+        }
+    ],
+    "wof:id":857355887,
+    "wof:lastmodified":1464127615,
+    "wof:name":"Hancock Bank Securities Corp",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.55918,
+    30.366305,
+    -88.55918,
+    30.366305
+],
+  "geometry": {"coordinates":[-88.55918,30.366305],"type":"Point"}
+}

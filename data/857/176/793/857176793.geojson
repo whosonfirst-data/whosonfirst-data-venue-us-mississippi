@@ -1,0 +1,73 @@
+{
+  "id": 857176793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.664471,34.222092,-88.664471,34.222092",
+    "geom:latitude":34.222092,
+    "geom:longitude":-88.664471,
+    "iso:country":"US",
+    "sg:address":"2459 Main St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4877",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1noyBo69eCziwpOHKWQshE_34.222092_-88.664471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123729,
+    "wof:geomhash":"fbaf25c78478e2bf71b4667887a07f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857176793
+        }
+    ],
+    "wof:id":857176793,
+    "wof:lastmodified":1464123729,
+    "wof:name":"Plantersville Family Clinic",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.664471,
+    34.222092,
+    -88.664471,
+    34.222092
+],
+  "geometry": {"coordinates":[-88.66447100000001,34.222092],"type":"Point"}
+}

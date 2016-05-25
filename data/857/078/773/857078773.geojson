@@ -1,0 +1,71 @@
+{
+  "id": 857078773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.852318,32.402312,-90.852318,32.402312",
+    "geom:latitude":32.402312,
+    "geom:longitude":-90.852318,
+    "iso:country":"US",
+    "sg:address":"53 Taylor St",
+    "sg:city":"Tchula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 235 4996",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mcLylyrVsxFsTjFekUf3d_32.402312_-90.852318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121370,
+    "wof:geomhash":"8ee62b43de41376013528cd1b99609cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857078773
+        }
+    ],
+    "wof:id":857078773,
+    "wof:lastmodified":1464121370,
+    "wof:name":"Tchula Church Of Christ",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.852318,
+    32.402312,
+    -90.852318,
+    32.402312
+],
+  "geometry": {"coordinates":[-90.852318,32.402312],"type":"Point"}
+}

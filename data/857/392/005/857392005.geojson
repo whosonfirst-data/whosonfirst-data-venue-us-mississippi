@@ -1,0 +1,66 @@
+{
+  "id": 857392005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.599393,32.34648,-88.599393,32.34648",
+    "geom:latitude":32.34648,
+    "geom:longitude":-88.599393,
+    "iso:country":"US",
+    "sg:address":"1718 Hwy 19 S",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5912",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04UQwSldZ4cmzSr0cvl4fF_32.346480_-88.599393@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128467,
+    "wof:geomhash":"1db3be145fe4f3bfc95699efd772b67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857392005
+        }
+    ],
+    "wof:id":857392005,
+    "wof:lastmodified":1464128467,
+    "wof:name":"Volume Meat & Vegetables",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.599393,
+    32.34648,
+    -88.599393,
+    32.34648
+],
+  "geometry": {"coordinates":[-88.59939300000001,32.34648],"type":"Point"}
+}

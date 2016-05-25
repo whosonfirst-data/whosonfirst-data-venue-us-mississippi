@@ -1,0 +1,73 @@
+{
+  "id": 857283189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.661222,32.465865,-88.661222,32.465865",
+    "geom:latitude":32.465865,
+    "geom:longitude":-88.661222,
+    "iso:country":"US",
+    "sg:address":"473 Saddle Brook Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 6725",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cMVynC3QLm12J6nG1sadq_32.465865_-88.661222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125985,
+    "wof:geomhash":"4832575712adcf97c0856e799dc03634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857283189
+        }
+    ],
+    "wof:id":857283189,
+    "wof:lastmodified":1464125985,
+    "wof:name":"Daniels Construction",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.661222,
+    32.465865,
+    -88.661222,
+    32.465865
+],
+  "geometry": {"coordinates":[-88.661222,32.465865],"type":"Point"}
+}

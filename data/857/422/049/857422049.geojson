@@ -1,0 +1,75 @@
+{
+  "id": 857422049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.113563,30.36824,-89.113563,30.36824",
+    "geom:latitude":30.36824,
+    "geom:longitude":-89.113563,
+    "iso:country":"US",
+    "sg:address":"1304 44th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 4006",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gQo8CFKkkFCzM3Hp6wdfi_30.368240_-89.113563@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129151,
+    "wof:geomhash":"2f012a6d7f1d7b5c100f4918a3207e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857422049
+        }
+    ],
+    "wof:id":857422049,
+    "wof:lastmodified":1464129151,
+    "wof:name":"Gulf Coast Dermatology",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.113563,
+    30.36824,
+    -89.113563,
+    30.36824
+],
+  "geometry": {"coordinates":[-89.113563,30.36824],"type":"Point"}
+}

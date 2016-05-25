@@ -1,0 +1,79 @@
+{
+  "id": 857141305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.544237,30.366461,-88.544237,30.366461",
+    "geom:latitude":30.366461,
+    "geom:longitude":-88.544237,
+    "iso:country":"US",
+    "sg:address":"1710 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 9536",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "w",
+        "radiator",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XPTbXeiRwRfeXM5Sny3XW_30.366461_-88.544237@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122920,
+    "wof:geomhash":"05f9dfcbd52b7273ca02ec3ffa666a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857141305
+        }
+    ],
+    "wof:id":857141305,
+    "wof:lastmodified":1464122920,
+    "wof:name":"Singing River Radiator Svc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "w",
+        "radiator",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.544237,
+    30.366461,
+    -88.544237,
+    30.366461
+],
+  "geometry": {"coordinates":[-88.544237,30.366461],"type":"Point"}
+}

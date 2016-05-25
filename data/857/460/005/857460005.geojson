@@ -1,0 +1,73 @@
+{
+  "id": 857460005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40437,32.84361,-90.40437,32.84361",
+    "geom:latitude":32.84361,
+    "geom:longitude":-90.40437,
+    "iso:country":"US",
+    "sg:address":"800 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6609",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjdvI7cKPts6OOcqQNbju_32.843610_-90.404370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129949,
+    "wof:geomhash":"93dbd3478bc1a388c320746f3c079866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857460005
+        }
+    ],
+    "wof:id":857460005,
+    "wof:lastmodified":1464129949,
+    "wof:name":"Bid D's Auto Sales",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.40437,
+    32.84361,
+    -90.40437,
+    32.84361
+],
+  "geometry": {"coordinates":[-90.40437,32.84361],"type":"Point"}
+}

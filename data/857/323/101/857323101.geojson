@@ -1,0 +1,69 @@
+{
+  "id": 857323101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.982962,31.957711,-90.982962,31.957711",
+    "geom:latitude":31.957711,
+    "geom:longitude":-90.982962,
+    "iso:country":"US",
+    "sg:address":"411 Jackson St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 4491",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uhyDiHKBb4K7nM0l1R4Xm_31.957711_-90.982962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126914,
+    "wof:geomhash":"a329794b6f6f58b2de1cce76bd033afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857323101
+        }
+    ],
+    "wof:id":857323101,
+    "wof:lastmodified":1464126914,
+    "wof:name":"Leona's Beauty Shop",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.982962,
+    31.957711,
+    -90.982962,
+    31.957711
+],
+  "geometry": {"coordinates":[-90.982962,31.957711],"type":"Point"}
+}

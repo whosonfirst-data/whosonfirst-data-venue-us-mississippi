@@ -1,0 +1,73 @@
+{
+  "id": 857449211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.565408,34.36198,-89.565408,34.36198",
+    "geom:latitude":34.36198,
+    "geom:longitude":-89.565408,
+    "iso:country":"US",
+    "sg:address":"2550 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2973",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55SS08yS3hvPS7cBqGGqrx_34.361980_-89.565408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129741,
+    "wof:geomhash":"2199325f9ccbed8152075f6bb941a2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857449211
+        }
+    ],
+    "wof:id":857449211,
+    "wof:lastmodified":1464129741,
+    "wof:name":"Claire's",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -89.565408,
+    34.36198,
+    -89.565408,
+    34.36198
+],
+  "geometry": {"coordinates":[-89.56540800000001,34.36198],"type":"Point"}
+}

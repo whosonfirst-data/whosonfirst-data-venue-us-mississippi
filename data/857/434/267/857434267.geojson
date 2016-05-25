@@ -1,0 +1,71 @@
+{
+  "id": 857434267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548613,30.366295,-88.548613,30.366295",
+    "geom:latitude":30.366295,
+    "geom:longitude":-88.548613,
+    "iso:country":"US",
+    "sg:address":"3135 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 8781",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u5mi7RHfciXj7X2QSVD4M_30.366295_-88.548613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129451,
+    "wof:geomhash":"abd39003ae6b79bc327ddc68cab2dd44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857434267
+        }
+    ],
+    "wof:id":857434267,
+    "wof:lastmodified":1464129451,
+    "wof:name":"Pascagoula Tire & Svc Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.548613,
+    30.366295,
+    -88.548613,
+    30.366295
+],
+  "geometry": {"coordinates":[-88.548613,30.366295],"type":"Point"}
+}

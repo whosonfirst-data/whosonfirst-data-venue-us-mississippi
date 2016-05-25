@@ -1,0 +1,77 @@
+{
+  "id": 857375407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.956075,30.476374,-88.956075,30.476374",
+    "geom:latitude":30.476374,
+    "geom:longitude":-88.956075,
+    "iso:country":"US",
+    "sg:address":"13262 Larkin Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 6464",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MYd1ShCwHTr07fsRK421j_30.476374_-88.956075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128016,
+    "wof:geomhash":"cb41eefb0a86c6f97129d8d896d0270b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857375407
+        }
+    ],
+    "wof:id":857375407,
+    "wof:lastmodified":1464128016,
+    "wof:name":"Stevens Paint & Body",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.956075,
+    30.476374,
+    -88.956075,
+    30.476374
+],
+  "geometry": {"coordinates":[-88.956075,30.476374],"type":"Point"}
+}

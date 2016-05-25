@@ -1,0 +1,66 @@
+{
+  "id": 857278407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.523843,30.357432,-88.523843,30.357432",
+    "geom:latitude":30.357432,
+    "geom:longitude":-88.523843,
+    "iso:country":"US",
+    "sg:address":"2012 Martin St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 5344",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XqaOL36Al8vBLenULMrS1_30.357432_-88.523843@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125877,
+    "wof:geomhash":"da6f3778cd85eb1148b2e77795d8fac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857278407
+        }
+    ],
+    "wof:id":857278407,
+    "wof:lastmodified":1464125877,
+    "wof:name":"Micro Repair Service",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.523843,
+    30.357432,
+    -88.523843,
+    30.357432
+],
+  "geometry": {"coordinates":[-88.523843,30.357432],"type":"Point"}
+}

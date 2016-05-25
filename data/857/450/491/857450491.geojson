@@ -1,0 +1,73 @@
+{
+  "id": 857450491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.193711,32.340439,-90.193711,32.340439",
+    "geom:latitude":32.340439,
+    "geom:longitude":-90.193711,
+    "iso:country":"US",
+    "sg:address":"1115 Gentry St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 7868",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fdCIa3saIXh8suhxquFV4_32.340439_-90.193711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129769,
+    "wof:geomhash":"7610e81102466251a1fdf8981ab3f728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857450491
+        }
+    ],
+    "wof:id":857450491,
+    "wof:lastmodified":1464129769,
+    "wof:name":"Knight Sand & Gravel Co Inc",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.193711,
+    32.340439,
+    -90.193711,
+    32.340439
+],
+  "geometry": {"coordinates":[-90.19371099999999,32.340439],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857425069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539281,30.35599,-88.539281,30.35599",
+    "geom:latitude":30.35599,
+    "geom:longitude":-88.539281,
+    "iso:country":"US",
+    "sg:address":"1900 14th St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 0100",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w99yxgHjzdnNX6uTMbj1G_30.355990_-88.539281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129225,
+    "wof:geomhash":"378dd148f63aa5fe66ce46627fc230c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857425069
+        }
+    ],
+    "wof:id":857425069,
+    "wof:lastmodified":1464129225,
+    "wof:name":"Gas & Save",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.539281,
+    30.35599,
+    -88.539281,
+    30.35599
+],
+  "geometry": {"coordinates":[-88.539281,30.35599],"type":"Point"}
+}

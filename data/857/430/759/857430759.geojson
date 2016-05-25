@@ -1,0 +1,71 @@
+{
+  "id": 857430759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.088933,32.503617,-90.088933,32.503617",
+    "geom:latitude":32.503617,
+    "geom:longitude":-90.088933,
+    "iso:country":"US",
+    "sg:address":"510 Twin Cedars Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 9822",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0257PebvsM39OuZwiJeDvO_32.503617_-90.088933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129359,
+    "wof:geomhash":"6b4fe2b703bfd6c8b2c4b7aba8b713d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857430759
+        }
+    ],
+    "wof:id":857430759,
+    "wof:lastmodified":1464129359,
+    "wof:name":"Hamlin & Burton Liability Mgmt",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -90.088933,
+    32.503617,
+    -90.088933,
+    32.503617
+],
+  "geometry": {"coordinates":[-90.088933,32.503617],"type":"Point"}
+}

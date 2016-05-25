@@ -1,0 +1,71 @@
+{
+  "id": 857120965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.862493,33.423758,-88.862493,33.423758",
+    "geom:latitude":33.423758,
+    "geom:longitude":-88.862493,
+    "iso:country":"US",
+    "sg:address":"1590 Bluefield Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 8469",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xXMROaw2GOxCtlTelpV3p_33.423758_-88.862493@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122470,
+    "wof:geomhash":"cb3818a44cab740361abf64c3e482bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857120965
+        }
+    ],
+    "wof:id":857120965,
+    "wof:lastmodified":1464122470,
+    "wof:name":"City-Starkville Water Plant",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -88.862493,
+    33.423758,
+    -88.862493,
+    33.423758
+],
+  "geometry": {"coordinates":[-88.862493,33.423758],"type":"Point"}
+}

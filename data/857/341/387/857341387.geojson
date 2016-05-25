@@ -1,0 +1,69 @@
+{
+  "id": 857341387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.813912,32.294535,-90.813912,32.294535",
+    "geom:latitude":32.294535,
+    "geom:longitude":-90.813912,
+    "iso:country":"US",
+    "sg:address":"52 Gibson Road Cir",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 6728",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gJOGOPPf0G1aEKMlkgEtu_32.294535_-90.813912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127304,
+    "wof:geomhash":"4f233479914e73720c76668e97bc50ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857341387
+        }
+    ],
+    "wof:id":857341387,
+    "wof:lastmodified":1464127304,
+    "wof:name":"Richards Plumbing Service V",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.813912,
+    32.294535,
+    -90.813912,
+    32.294535
+],
+  "geometry": {"coordinates":[-90.813912,32.294535],"type":"Point"}
+}

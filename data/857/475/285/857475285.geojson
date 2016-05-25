@@ -1,0 +1,75 @@
+{
+  "id": 857475285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706959,34.312235,-88.706959,34.312235",
+    "geom:latitude":34.312235,
+    "geom:longitude":-88.706959,
+    "iso:country":"US",
+    "sg:address":"3885 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 7734",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YTJDHENYvXmdhA5Xe1iBD_34.312235_-88.706959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130284,
+    "wof:geomhash":"1c1e591ba49bafa3c8223e82b7b90316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857475285
+        }
+    ],
+    "wof:id":857475285,
+    "wof:lastmodified":1464130284,
+    "wof:name":"US Marine Corps Recruiting",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -88.706959,
+    34.312235,
+    -88.706959,
+    34.312235
+],
+  "geometry": {"coordinates":[-88.706959,34.312235],"type":"Point"}
+}

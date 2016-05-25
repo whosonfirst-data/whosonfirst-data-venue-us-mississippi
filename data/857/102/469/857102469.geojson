@@ -1,0 +1,71 @@
+{
+  "id": 857102469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.711423,32.408011,-88.711423,32.408011",
+    "geom:latitude":32.408011,
+    "geom:longitude":-88.711423,
+    "iso:country":"US",
+    "sg:address":"3510 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2283",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q6TlRQQ4YC0lX1Do47uTu_32.408011_-88.711423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121970,
+    "wof:geomhash":"bc7282e2be33d3d47e3d053ce6d8c2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857102469
+        }
+    ],
+    "wof:id":857102469,
+    "wof:lastmodified":1464121970,
+    "wof:name":"Dixie Bowl",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -88.711423,
+    32.408011,
+    -88.711423,
+    32.408011
+],
+  "geometry": {"coordinates":[-88.711423,32.408011],"type":"Point"}
+}

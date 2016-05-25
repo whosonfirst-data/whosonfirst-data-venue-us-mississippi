@@ -1,0 +1,73 @@
+{
+  "id": 857400107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.848894,33.443419,-88.848894,33.443419",
+    "geom:latitude":33.443419,
+    "geom:longitude":-88.848894,
+    "iso:country":"US",
+    "sg:address":"901 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1090",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6THTXAgfqmF529TXzLRoMu_33.443419_-88.848894@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128625,
+    "wof:geomhash":"dd8a32b7f94cd03b630013020194f779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857400107
+        }
+    ],
+    "wof:id":857400107,
+    "wof:lastmodified":1464128625,
+    "wof:name":"Autozone",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -88.848894,
+    33.443419,
+    -88.848894,
+    33.443419
+],
+  "geometry": {"coordinates":[-88.848894,33.443419],"type":"Point"}
+}

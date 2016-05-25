@@ -1,0 +1,71 @@
+{
+  "id": 857214705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436168,32.824268,-90.436168,32.824268",
+    "geom:latitude":32.824268,
+    "geom:longitude":-90.436168,
+    "iso:country":"US",
+    "sg:address":"1599 Bell Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5599",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YN4vF4QhQXtutlAxFQOJ_32.824268_-90.436168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124504,
+    "wof:geomhash":"db2806c98790db0eb9dd3f99291caf6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857214705
+        }
+    ],
+    "wof:id":857214705,
+    "wof:lastmodified":1464124504,
+    "wof:name":"Yazoo Gutter Works",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.436168,
+    32.824268,
+    -90.436168,
+    32.824268
+],
+  "geometry": {"coordinates":[-90.436168,32.824268],"type":"Point"}
+}

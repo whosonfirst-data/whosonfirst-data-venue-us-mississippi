@@ -1,0 +1,75 @@
+{
+  "id": 857272219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187052,32.29793,-90.187052,32.29793",
+    "geom:latitude":32.29793,
+    "geom:longitude":-90.187052,
+    "iso:country":"US",
+    "sg:address":"127 E Pascagoula St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 8800",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D4ElwOpeWTe4OTrDWfluU_32.297930_-90.187052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125730,
+    "wof:geomhash":"1e685d8e0562e816b210c13b0f47cfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878407,
+            "region_id":85688579,
+            "venue_id":857272219
+        }
+    ],
+    "wof:id":857272219,
+    "wof:lastmodified":1464125730,
+    "wof:name":"Downtown Jackson Community Dev",
+    "wof:parent_id":85878407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.187052,
+    32.29793,
+    -90.187052,
+    32.29793
+],
+  "geometry": {"coordinates":[-90.18705199999999,32.29793],"type":"Point"}
+}

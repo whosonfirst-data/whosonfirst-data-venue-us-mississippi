@@ -1,0 +1,71 @@
+{
+  "id": 857460331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.332054,31.394206,-89.332054,31.394206",
+    "geom:latitude":31.394206,
+    "geom:longitude":-89.332054,
+    "iso:country":"US",
+    "sg:address":"199 Mary Magdalene Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1317",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i1Ly4ZWQOLgxCYRPi4wTg_31.394206_-89.332054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129956,
+    "wof:geomhash":"cf51aaabd24900b9948c27bdd2217901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857460331
+        }
+    ],
+    "wof:id":857460331,
+    "wof:lastmodified":1464129956,
+    "wof:name":"Covingtons Carpet Care",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.332054,
+    31.394206,
+    -89.332054,
+    31.394206
+],
+  "geometry": {"coordinates":[-89.332054,31.394206],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857343671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.535016,30.366242,-88.535016,30.366242",
+    "geom:latitude":30.366242,
+    "geom:longitude":-88.535016,
+    "iso:country":"US",
+    "sg:address":"2718 Bartlett Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 202 8094",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AXcTbeUlVOdMrhBc46VHS_30.366242_-88.535016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127347,
+    "wof:geomhash":"18a4186b689fa0bdbc7768e41d39608e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857343671
+        }
+    ],
+    "wof:id":857343671,
+    "wof:lastmodified":1464127347,
+    "wof:name":"Charter Construction Group",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.535016,
+    30.366242,
+    -88.535016,
+    30.366242
+],
+  "geometry": {"coordinates":[-88.535016,30.366242],"type":"Point"}
+}

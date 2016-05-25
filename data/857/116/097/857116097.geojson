@@ -1,0 +1,73 @@
+{
+  "id": 857116097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.100774,32.465029,-90.100774,32.465029",
+    "geom:latitude":32.465029,
+    "geom:longitude":-90.100774,
+    "iso:country":"US",
+    "sg:address":"211 Hoy Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 8084",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85821249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62kSxzanJeDBxc94VWVGiw_32.465029_-90.100774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122348,
+    "wof:geomhash":"16e654e47673d88b318d7cbc341aeb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85821249,
+            "region_id":85688579,
+            "venue_id":857116097
+        }
+    ],
+    "wof:id":857116097,
+    "wof:lastmodified":1464122348,
+    "wof:name":"Family Barber Shop",
+    "wof:parent_id":85821249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.100774,
+    32.465029,
+    -90.100774,
+    32.465029
+],
+  "geometry": {"coordinates":[-90.100774,32.465029],"type":"Point"}
+}

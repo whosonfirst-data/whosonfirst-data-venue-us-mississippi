@@ -1,0 +1,73 @@
+{
+  "id": 857354271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648632,33.606951,-88.648632,33.606951",
+    "geom:latitude":33.606951,
+    "geom:longitude":-88.648632,
+    "iso:country":"US",
+    "sg:address":"114 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2180",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ykHS2WpzRaNHzDW4Gw171_33.606951_-88.648632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127579,
+    "wof:geomhash":"d5b025e3a32acac08d8df9d49bfa1ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857354271
+        }
+    ],
+    "wof:id":857354271,
+    "wof:lastmodified":1464127579,
+    "wof:name":"Tower Loan",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.648632,
+    33.606951,
+    -88.648632,
+    33.606951
+],
+  "geometry": {"coordinates":[-88.64863200000001,33.606951],"type":"Point"}
+}

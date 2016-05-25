@@ -1,0 +1,78 @@
+{
+  "id": 857485995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.13501,32.268649,-90.13501,32.268649",
+    "geom:latitude":32.268649,
+    "geom:longitude":-90.13501,
+    "iso:country":"US",
+    "sg:address":"310 S Pearson Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/florence/182362-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 420 5963",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969947,
+        102084869,
+        85833739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57vqI6Gu6dy4J6rVMPEwgY_32.268821_-90.135104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130484,
+    "wof:geomhash":"9148aa426974caaf246b0610621c6f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85833739,
+            "region_id":85688579,
+            "venue_id":857485995
+        }
+    ],
+    "wof:id":857485995,
+    "wof:lastmodified":1464130484,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85833739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.13501,
+    32.268649,
+    -90.13501,
+    32.268649
+],
+  "geometry": {"coordinates":[-90.13500999999999,32.268649],"type":"Point"}
+}

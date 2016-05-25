@@ -1,0 +1,75 @@
+{
+  "id": 857280063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683269,34.377807,-88.683269,34.377807",
+    "geom:latitude":34.377807,
+    "geom:longitude":-88.683269,
+    "iso:country":"US",
+    "sg:address":"116 Walnut St",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 0014",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZZctmdtZlgzYxhC2w6VIa_34.377807_-88.683269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125921,
+    "wof:geomhash":"2d02d406005c67c23d761338ff8db628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857280063
+        }
+    ],
+    "wof:id":857280063,
+    "wof:lastmodified":1464125921,
+    "wof:name":"Dan Martin Satellite",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.683269,
+    34.377807,
+    -88.683269,
+    34.377807
+],
+  "geometry": {"coordinates":[-88.683269,34.377807],"type":"Point"}
+}

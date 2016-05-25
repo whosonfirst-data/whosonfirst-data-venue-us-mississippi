@@ -1,0 +1,70 @@
+{
+  "id": 857324641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.54501,31.417424,-89.54501,31.417424",
+    "geom:latitude":31.417424,
+    "geom:longitude":-89.54501,
+    "iso:country":"US",
+    "sg:address":"145 Center Ave",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 0075",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.sumrallumc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dXhNkOOAYWi4pU6svwhRk_31.417424_-89.545010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126943,
+    "wof:geomhash":"1ac69392858044eec63dd88c9cb981bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857324641
+        }
+    ],
+    "wof:id":857324641,
+    "wof:lastmodified":1464126943,
+    "wof:name":"Sumrall United Methodist Chr",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.54501,
+    31.417424,
+    -89.54501,
+    31.417424
+],
+  "geometry": {"coordinates":[-89.54501,31.417424],"type":"Point"}
+}

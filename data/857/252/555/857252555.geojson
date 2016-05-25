@@ -1,0 +1,71 @@
+{
+  "id": 857252555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.578605,34.366364,-89.578605,34.366364",
+    "geom:latitude":34.366364,
+    "geom:longitude":-89.578605,
+    "iso:country":"US",
+    "sg:address":"411 Meadowlawn Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2897",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CXyWJobMUoCYy9OSVUsg5_34.366364_-89.578605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125310,
+    "wof:geomhash":"dc2696cd8f3868b3105e40d8845fef31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857252555
+        }
+    ],
+    "wof:id":857252555,
+    "wof:lastmodified":1464125310,
+    "wof:name":"Sentinel Security",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -89.578605,
+    34.366364,
+    -89.578605,
+    34.366364
+],
+  "geometry": {"coordinates":[-89.578605,34.366364],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857405867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.732357,32.371407,-88.732357,32.371407",
+    "geom:latitude":32.371407,
+    "geom:longitude":-88.732357,
+    "iso:country":"US",
+    "sg:address":"1405 College Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 1532",
+    "sg:postcode":"39304",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l7RPUVuBl9ICQTK5zZ2wM_32.371407_-88.732357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128749,
+    "wof:geomhash":"0130ddcb14754a269ce671c3fde0030a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857405867
+        }
+    ],
+    "wof:id":857405867,
+    "wof:lastmodified":1464128749,
+    "wof:name":"Whitworth Learning Ctr",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.732357,
+    32.371407,
+    -88.732357,
+    32.371407
+],
+  "geometry": {"coordinates":[-88.73235699999999,32.371407],"type":"Point"}
+}

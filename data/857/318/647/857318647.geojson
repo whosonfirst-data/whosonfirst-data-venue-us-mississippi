@@ -1,0 +1,71 @@
+{
+  "id": 857318647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.551771,34.36614,-89.551771,34.36614",
+    "geom:latitude":34.36614,
+    "geom:longitude":-89.551771,
+    "iso:country":"US",
+    "sg:address":"1621 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1200",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dPqR0myvl9ssvluuxX8q7_34.366140_-89.551771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126824,
+    "wof:geomhash":"d4cdb86cabda7699d1642dcee0223e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857318647
+        }
+    ],
+    "wof:id":857318647,
+    "wof:lastmodified":1464126824,
+    "wof:name":"Magical Tan",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -89.551771,
+    34.36614,
+    -89.551771,
+    34.36614
+],
+  "geometry": {"coordinates":[-89.551771,34.36614],"type":"Point"}
+}

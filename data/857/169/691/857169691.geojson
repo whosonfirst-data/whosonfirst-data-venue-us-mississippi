@@ -1,0 +1,71 @@
+{
+  "id": 857169691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.428602,31.316485,-89.428602,31.316485",
+    "geom:latitude":31.316485,
+    "geom:longitude":-89.428602,
+    "iso:country":"US",
+    "sg:address":"6652 US Hwy 98",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 261 2609",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BQBqaOSvrVR5OnW5yDzSE_31.316485_-89.428602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123574,
+    "wof:geomhash":"8d95d8b57fa1d47118fca95cdee6da49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857169691
+        }
+    ],
+    "wof:id":857169691,
+    "wof:lastmodified":1464123574,
+    "wof:name":"Clearpoint Consulting Engr PA",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.428602,
+    31.316485,
+    -89.428602,
+    31.316485
+],
+  "geometry": {"coordinates":[-89.428602,31.316485],"type":"Point"}
+}

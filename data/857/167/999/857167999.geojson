@@ -1,0 +1,73 @@
+{
+  "id": 857167999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838975,30.439238,-88.838975,30.439238",
+    "geom:latitude":30.439238,
+    "geom:longitude":-88.838975,
+    "iso:country":"US",
+    "sg:address":"13825 Paraiso Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 2424",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NUO7IJiEWVK6ivJjQJvwu_30.439238_-88.838975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123531,
+    "wof:geomhash":"d7ef0f16b2a2d628c2c70be32b97cec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857167999
+        }
+    ],
+    "wof:id":857167999,
+    "wof:lastmodified":1464123531,
+    "wof:name":"University Of Mississippi",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.838975,
+    30.439238,
+    -88.838975,
+    30.439238
+],
+  "geometry": {"coordinates":[-88.838975,30.439238],"type":"Point"}
+}

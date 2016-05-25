@@ -1,0 +1,71 @@
+{
+  "id": 857378875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123014,32.181315,-90.123014,32.181315",
+    "geom:latitude":32.181315,
+    "geom:longitude":-90.123014,
+    "iso:country":"US",
+    "sg:address":"1171 Gunter Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 8966",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XLlibFNEEdmc7M2uCifiP_32.181315_-90.123014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128092,
+    "wof:geomhash":"d82a152cfef6680d993c6387a68a3b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857378875
+        }
+    ],
+    "wof:id":857378875,
+    "wof:lastmodified":1464128092,
+    "wof:name":"Techniques Barber & Style",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.123014,
+    32.181315,
+    -90.123014,
+    32.181315
+],
+  "geometry": {"coordinates":[-90.123014,32.181315],"type":"Point"}
+}

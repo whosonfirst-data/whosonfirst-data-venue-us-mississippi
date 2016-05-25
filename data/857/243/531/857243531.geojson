@@ -1,0 +1,71 @@
+{
+  "id": 857243531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.927379,32.247125,-90.927379,32.247125",
+    "geom:latitude":32.247125,
+    "geom:longitude":-90.927379,
+    "iso:country":"US",
+    "sg:address":"687 Warrenton Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 1133",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "casket",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dd8NTD9FjzlHn1hK6X3qX_32.247125_-90.927379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125094,
+    "wof:geomhash":"54db09eeb934d26fefc915f4462a7539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857243531
+        }
+    ],
+    "wof:id":857243531,
+    "wof:lastmodified":1464125094,
+    "wof:name":"Batesville Casket Company",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casket",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.927379,
+    32.247125,
+    -90.927379,
+    32.247125
+],
+  "geometry": {"coordinates":[-90.927379,32.247125],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857364121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575274,34.202623,-90.575274,34.202623",
+    "geom:latitude":34.202623,
+    "geom:longitude":-90.575274,
+    "iso:country":"US",
+    "sg:address":"37 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4069",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FCtexeXbgtUHG9uzxDkWn_34.202623_-90.575274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127787,
+    "wof:geomhash":"56404f18ec7c029113ff136df43aa989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857364121
+        }
+    ],
+    "wof:id":857364121,
+    "wof:lastmodified":1464127787,
+    "wof:name":"Terney Dental Lab Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -90.575274,
+    34.202623,
+    -90.575274,
+    34.202623
+],
+  "geometry": {"coordinates":[-90.57527399999999,34.202623],"type":"Point"}
+}

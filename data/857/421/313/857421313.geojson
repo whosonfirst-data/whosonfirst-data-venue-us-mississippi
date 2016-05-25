@@ -1,0 +1,66 @@
+{
+  "id": 857421313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.24639,31.187642,-89.24639,31.187642",
+    "geom:latitude":31.187642,
+    "geom:longitude":-89.24639,
+    "iso:country":"US",
+    "sg:address":"554 Southgate Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2775",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eQUNqSxRGJWaixz2zfroB_31.187642_-89.246390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129134,
+    "wof:geomhash":"e929c6989986adc554a970a8c392a8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857421313
+        }
+    ],
+    "wof:id":857421313,
+    "wof:lastmodified":1464129134,
+    "wof:name":"Jack's South Gate Quickstop",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.24639,
+    31.187642,
+    -89.24639,
+    31.187642
+],
+  "geometry": {"coordinates":[-89.24639000000001,31.187642],"type":"Point"}
+}

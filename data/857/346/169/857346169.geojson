@@ -1,0 +1,66 @@
+{
+  "id": 857346169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.332775,33.688119,-88.332775,33.688119",
+    "geom:latitude":33.688119,
+    "geom:longitude":-88.332775,
+    "iso:country":"US",
+    "sg:address":"107 Main St",
+    "sg:city":"Weir",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 547 6969",
+    "sg:postcode":"39704",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gXqG0bsHrPpn8QVZIMs13_33.688119_-88.332775@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127399,
+    "wof:geomhash":"8fdd741662dbf1fd69cc3d0f2a8e653e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857346169
+        }
+    ],
+    "wof:id":857346169,
+    "wof:lastmodified":1464127399,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.332775,
+    33.688119,
+    -88.332775,
+    33.688119
+],
+  "geometry": {"coordinates":[-88.332775,33.688119],"type":"Point"}
+}

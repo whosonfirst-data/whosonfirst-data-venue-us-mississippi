@@ -1,0 +1,68 @@
+{
+  "id": 857355095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.117687,32.379721,-90.117687,32.379721",
+    "geom:latitude":32.379721,
+    "geom:longitude":-90.117687,
+    "iso:country":"US",
+    "sg:address":"5866 Kinder Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 3134",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85845725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gaGzY1gh044cnUzzvCJIv_32.379721_-90.117687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127595,
+    "wof:geomhash":"f83e4f9dff6372682f821b2bbda31639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85845725,
+            "region_id":85688579,
+            "venue_id":857355095
+        }
+    ],
+    "wof:id":857355095,
+    "wof:lastmodified":1464127595,
+    "wof:name":"John Proctor Real Estate LLC",
+    "wof:parent_id":85845725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.117687,
+    32.379721,
+    -90.117687,
+    32.379721
+],
+  "geometry": {"coordinates":[-90.117687,32.379721],"type":"Point"}
+}

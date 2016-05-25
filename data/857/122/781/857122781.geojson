@@ -1,0 +1,71 @@
+{
+  "id": 857122781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838385,33.449345,-88.838385,33.449345",
+    "geom:latitude":33.449345,
+    "geom:longitude":-88.838385,
+    "iso:country":"US",
+    "sg:address":"823 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 9696",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OMufV8X2U9otkTZPULs5w_33.449345_-88.838385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122523,
+    "wof:geomhash":"5fe2d68361f8c0a4836d123de2f4f340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857122781
+        }
+    ],
+    "wof:id":857122781,
+    "wof:lastmodified":1464122523,
+    "wof:name":"Diversified Infusion Care",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.838385,
+    33.449345,
+    -88.838385,
+    33.449345
+],
+  "geometry": {"coordinates":[-88.838385,33.449345],"type":"Point"}
+}

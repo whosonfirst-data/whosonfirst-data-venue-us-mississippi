@@ -1,0 +1,71 @@
+{
+  "id": 857143151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569368,34.203876,-90.569368,34.203876",
+    "geom:latitude":34.203876,
+    "geom:longitude":-90.569368,
+    "iso:country":"US",
+    "sg:address":"505 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5486",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1byFLa1MjXeYaWbfWgeue3_34.203876_-90.569368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122967,
+    "wof:geomhash":"e203dda9854b6f6d5841b53286c6fd23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857143151
+        }
+    ],
+    "wof:id":857143151,
+    "wof:lastmodified":1464122967,
+    "wof:name":"First South Production Credit",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -90.569368,
+    34.203876,
+    -90.569368,
+    34.203876
+],
+  "geometry": {"coordinates":[-90.569368,34.203876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857453847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.291543,31.325904,-89.291543,31.325904",
+    "geom:latitude":31.325904,
+    "geom:longitude":-89.291543,
+    "iso:country":"US",
+    "sg:address":"224 W Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 4301",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A4NZORrXiXKb9qhuw0w5Y_31.325904_-89.291543@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129834,
+    "wof:geomhash":"47a25a6577bb5a8ce2662536955c576a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857453847
+        }
+    ],
+    "wof:id":857453847,
+    "wof:lastmodified":1464129834,
+    "wof:name":"Ecologic",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -89.291543,
+    31.325904,
+    -89.291543,
+    31.325904
+],
+  "geometry": {"coordinates":[-89.291543,31.325904],"type":"Point"}
+}

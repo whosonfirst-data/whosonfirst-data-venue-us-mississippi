@@ -1,0 +1,75 @@
+{
+  "id": 857420051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.881899,32.350879,-90.881899,32.350879",
+    "geom:latitude":32.350879,
+    "geom:longitude":-90.881899,
+    "iso:country":"US",
+    "sg:address":"1221 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 4048",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54UkLwVXr7uEynkjk1rBEb_32.350879_-90.881899@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129095,
+    "wof:geomhash":"285d6ab69d64a6f599bf9aec410553be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857420051
+        }
+    ],
+    "wof:id":857420051,
+    "wof:lastmodified":1464129095,
+    "wof:name":"Keep Vicksburg Beautiful",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.881899,
+    32.350879,
+    -90.881899,
+    32.350879
+],
+  "geometry": {"coordinates":[-90.881899,32.350879],"type":"Point"}
+}

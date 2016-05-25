@@ -1,0 +1,74 @@
+{
+  "id": 857142217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746786,34.254231,-88.746786,34.254231",
+    "geom:latitude":34.254231,
+    "geom:longitude":-88.746786,
+    "iso:country":"US",
+    "sg:address":"2610 Traceland Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4316",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "sg:website":"www.mstc.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s9espO22sU3Frd0xVmkVH_34.254231_-88.746786@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122946,
+    "wof:geomhash":"2d39589d41a74b8e1c906fec2418338a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857142217
+        }
+    ],
+    "wof:id":857142217,
+    "wof:lastmodified":1464122946,
+    "wof:name":"Tax Commission",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -88.746786,
+    34.254231,
+    -88.746786,
+    34.254231
+],
+  "geometry": {"coordinates":[-88.746786,34.254231],"type":"Point"}
+}

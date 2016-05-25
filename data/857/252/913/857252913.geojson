@@ -1,0 +1,71 @@
+{
+  "id": 857252913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.572127,34.203285,-90.572127,34.203285",
+    "geom:latitude":34.203285,
+    "geom:longitude":-90.572127,
+    "iso:country":"US",
+    "sg:address":"319 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8080",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZVQ57FOquos5RL7KTX7O_34.203285_-90.572127@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125319,
+    "wof:geomhash":"fc2113fc2948c4c24d5cf2e53c98fce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857252913
+        }
+    ],
+    "wof:id":857252913,
+    "wof:lastmodified":1464125319,
+    "wof:name":"North Mississippi Foot Spec",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.572127,
+    34.203285,
+    -90.572127,
+    34.203285
+],
+  "geometry": {"coordinates":[-90.57212699999999,34.203285],"type":"Point"}
+}

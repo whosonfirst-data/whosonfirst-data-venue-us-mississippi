@@ -1,0 +1,73 @@
+{
+  "id": 857138501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700191,32.38294,-88.700191,32.38294",
+    "geom:latitude":32.38294,
+    "geom:longitude":-88.700191,
+    "iso:country":"US",
+    "sg:address":"2202 24th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 553 8660",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BVL6eF5smgHFpYeGPyewd_32.382940_-88.700191@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122860,
+    "wof:geomhash":"f9624f4cd9c8a7a21271d5144ff1033e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857138501
+        }
+    ],
+    "wof:id":857138501,
+    "wof:lastmodified":1464122860,
+    "wof:name":"Hope For Children",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.700191,
+    32.38294,
+    -88.700191,
+    32.38294
+],
+  "geometry": {"coordinates":[-88.700191,32.38294],"type":"Point"}
+}

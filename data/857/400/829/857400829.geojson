@@ -1,0 +1,73 @@
+{
+  "id": 857400829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.566399,32.364675,-88.566399,32.364675",
+    "geom:latitude":32.364675,
+    "geom:longitude":-88.566399,
+    "iso:country":"US",
+    "sg:address":"2420 Hwy 496",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9795",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25EAb7KCzZEd51zrQaVD6J_32.364675_-88.566399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128640,
+    "wof:geomhash":"cf72c2a667aa8bffd12082ef8f4942e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857400829
+        }
+    ],
+    "wof:id":857400829,
+    "wof:lastmodified":1464128640,
+    "wof:name":"Diggers Lounge",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -88.566399,
+    32.364675,
+    -88.566399,
+    32.364675
+],
+  "geometry": {"coordinates":[-88.566399,32.364675],"type":"Point"}
+}

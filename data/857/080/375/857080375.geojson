@@ -1,0 +1,73 @@
+{
+  "id": 857080375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696775,32.361442,-88.696775,32.361442",
+    "geom:latitude":32.361442,
+    "geom:longitude":-88.696775,
+    "iso:country":"US",
+    "sg:address":"2125 A St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 9637",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FaCH7Wq7EQwMsaGlRNDHI_32.361442_-88.696775@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121412,
+    "wof:geomhash":"bf0de3d94ab47114f83fac2406756e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857080375
+        }
+    ],
+    "wof:id":857080375,
+    "wof:lastmodified":1464121412,
+    "wof:name":"Southern Christian Communicate",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -88.696775,
+    32.361442,
+    -88.696775,
+    32.361442
+],
+  "geometry": {"coordinates":[-88.696775,32.361442],"type":"Point"}
+}

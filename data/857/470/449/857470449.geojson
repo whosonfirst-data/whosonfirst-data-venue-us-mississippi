@@ -1,0 +1,74 @@
+{
+  "id": 857470449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.358981,31.282271,-89.358981,31.282271",
+    "geom:latitude":31.282271,
+    "geom:longitude":-89.358981,
+    "iso:country":"US",
+    "sg:address":"113 Somerset Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 3495",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85820027,
+        102083775,
+        85969939,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OyO1H4PJXKskJJbRQY76I_31.282271_-89.358981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130179,
+    "wof:geomhash":"888b0816f9adadecb40874586113f896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85820027,
+            "region_id":85688579,
+            "venue_id":857470449
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857470449
+        }
+    ],
+    "wof:id":857470449,
+    "wof:lastmodified":1464130179,
+    "wof:name":"Trio Treasures Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.358981,
+    31.282271,
+    -89.358981,
+    31.282271
+],
+  "geometry": {"coordinates":[-89.358981,31.282271],"type":"Point"}
+}

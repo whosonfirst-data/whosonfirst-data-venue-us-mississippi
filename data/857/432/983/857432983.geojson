@@ -1,0 +1,77 @@
+{
+  "id": 857432983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685573,34.257386,-88.685573,34.257386",
+    "geom:latitude":34.257386,
+    "geom:longitude":-88.685573,
+    "iso:country":"US",
+    "sg:address":"800 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 3900",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FAVr2e1JTwAgtUAzeQHVQ_34.257386_-88.685573@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129425,
+    "wof:geomhash":"701d9bf3d5ed124d835aab2bd22b53e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857432983
+        }
+    ],
+    "wof:id":857432983,
+    "wof:lastmodified":1464129425,
+    "wof:name":"Southern Video",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -88.685573,
+    34.257386,
+    -88.685573,
+    34.257386
+],
+  "geometry": {"coordinates":[-88.68557300000001,34.257386],"type":"Point"}
+}

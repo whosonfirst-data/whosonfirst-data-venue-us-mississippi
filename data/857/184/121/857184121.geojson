@@ -1,0 +1,75 @@
+{
+  "id": 857184121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.895375,32.317861,-90.895375,32.317861",
+    "geom:latitude":32.317861,
+    "geom:longitude":-90.895375,
+    "iso:country":"US",
+    "sg:address":"118 Frontage Rd",
+    "sg:city":"Rolling Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 873 2428",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X1AEz7zjVgBFjHDtmK1qP_32.317861_-90.895375@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123877,
+    "wof:geomhash":"e77f7f71054a3ade3f486992a8ce31c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857184121
+        }
+    ],
+    "wof:id":857184121,
+    "wof:lastmodified":1464123877,
+    "wof:name":"Continue Care Home Health",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -90.895375,
+    32.317861,
+    -90.895375,
+    32.317861
+],
+  "geometry": {"coordinates":[-90.895375,32.317861],"type":"Point"}
+}

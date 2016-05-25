@@ -1,0 +1,69 @@
+{
+  "id": 857349049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.567681,34.396293,-88.567681,34.396293",
+    "geom:latitude":34.396293,
+    "geom:longitude":-88.567681,
+    "iso:country":"US",
+    "sg:address":"913 Co Rd 1303",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 5555",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oInT41lCkWUOAbN7VyINW_34.396293_-88.567681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127465,
+    "wof:geomhash":"d946600387a114eebbdf2a245c5feb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857349049
+        }
+    ],
+    "wof:id":857349049,
+    "wof:lastmodified":1464127465,
+    "wof:name":"Unity Volunteer Fire Dept",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.567681,
+    34.396293,
+    -88.567681,
+    34.396293
+],
+  "geometry": {"coordinates":[-88.56768099999999,34.396293],"type":"Point"}
+}

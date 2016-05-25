@@ -1,0 +1,85 @@
+{
+  "id": 857160247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.134287,32.331139,-90.134287,32.331139",
+    "geom:latitude":32.331139,
+    "geom:longitude":-90.134287,
+    "iso:country":"US",
+    "sg:address":"1907 Dunbarton Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 3000",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "steel",
+        "joist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85817083,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aRs1P2AHnkQvVuF342s9a_32.331139_-90.134287@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123349,
+    "wof:geomhash":"3ddabaf3f474331c0363d827f584edeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85817083,
+            "region_id":85688579,
+            "venue_id":857160247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857160247
+        }
+    ],
+    "wof:id":857160247,
+    "wof:lastmodified":1464123349,
+    "wof:name":"Nucor Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "joist"
+    ]
+},
+  "bbox": [
+    -90.134287,
+    32.331139,
+    -90.134287,
+    32.331139
+],
+  "geometry": {"coordinates":[-90.134287,32.331139],"type":"Point"}
+}

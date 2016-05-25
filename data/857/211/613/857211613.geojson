@@ -1,0 +1,71 @@
+{
+  "id": 857211613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.365219,32.639776,-90.365219,32.639776",
+    "geom:latitude":32.639776,
+    "geom:longitude":-90.365219,
+    "iso:country":"US",
+    "sg:address":"215 W Railroad Ave",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 9911",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YzddFPDO6UAwkL1mKacau_32.639776_-90.365219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124431,
+    "wof:geomhash":"2fc09661841647c27086608c5b84d3ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857211613
+        }
+    ],
+    "wof:id":857211613,
+    "wof:lastmodified":1464124431,
+    "wof:name":"Owens Coin Operated Laundry",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.365219,
+    32.639776,
+    -90.365219,
+    32.639776
+],
+  "geometry": {"coordinates":[-90.365219,32.639776],"type":"Point"}
+}

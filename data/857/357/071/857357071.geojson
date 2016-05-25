@@ -1,0 +1,71 @@
+{
+  "id": 857357071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514187,34.36331,-89.514187,34.36331",
+    "geom:latitude":34.36331,
+    "geom:longitude":-89.514187,
+    "iso:country":"US",
+    "sg:address":"1611 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5656",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e5kK0lqnydNWfE04LdUJz_34.363310_-89.514187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127636,
+    "wof:geomhash":"003f0741b579c8b271c634c7f0a3dc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857357071
+        }
+    ],
+    "wof:id":857357071,
+    "wof:lastmodified":1464127636,
+    "wof:name":"Oxford Fabric Ctr",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.514187,
+    34.36331,
+    -89.514187,
+    34.36331
+],
+  "geometry": {"coordinates":[-89.51418700000001,34.36331],"type":"Point"}
+}

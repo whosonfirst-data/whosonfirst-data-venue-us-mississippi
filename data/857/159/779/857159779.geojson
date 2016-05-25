@@ -1,0 +1,82 @@
+{
+  "id": 857159779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.172854,32.159582,-90.172854,32.159582",
+    "geom:latitude":32.159582,
+    "geom:longitude":-90.172854,
+    "iso:country":"US",
+    "sg:address":"132 Camellia Cir",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 4988",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "air",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jKLPb69LkNXIWVgTzZTDH_32.159582_-90.172854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123340,
+    "wof:geomhash":"f60de578286da3be31b91af7ba0a1d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857159779
+        }
+    ],
+    "wof:id":857159779,
+    "wof:lastmodified":1464123340,
+    "wof:name":"Gary's A/C & Heating",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.172854,
+    32.159582,
+    -90.172854,
+    32.159582
+],
+  "geometry": {"coordinates":[-90.172854,32.159582],"type":"Point"}
+}

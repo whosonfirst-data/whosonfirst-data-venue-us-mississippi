@@ -1,0 +1,73 @@
+{
+  "id": 857142353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648665,30.415955,-88.648665,30.415955",
+    "geom:latitude":30.415955,
+    "geom:longitude":-88.648665,
+    "iso:country":"US",
+    "sg:address":"2325 Greenway Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 9159",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ta3AouZqh3HzyNY59B6gK_30.415955_-88.648665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122948,
+    "wof:geomhash":"0240e1e8e206d3025a7beb13d04e34d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857142353
+        }
+    ],
+    "wof:id":857142353,
+    "wof:lastmodified":1464122948,
+    "wof:name":"Coast Line Properties LLC",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.648665,
+    30.415955,
+    -88.648665,
+    30.415955
+],
+  "geometry": {"coordinates":[-88.64866499999999,30.415955],"type":"Point"}
+}

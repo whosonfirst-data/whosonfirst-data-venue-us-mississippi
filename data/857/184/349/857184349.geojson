@@ -1,0 +1,71 @@
+{
+  "id": 857184349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.602278,32.52395,-88.602278,32.52395",
+    "geom:latitude":32.52395,
+    "geom:longitude":-88.602278,
+    "iso:country":"US",
+    "sg:address":"9878 Fred Clayton Rd",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 1810",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJW43TrDLXcUYHkhSqslM_32.523950_-88.602278@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123887,
+    "wof:geomhash":"051a8ef36b12114016efc685109a382e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857184349
+        }
+    ],
+    "wof:id":857184349,
+    "wof:lastmodified":1464123887,
+    "wof:name":"James Love Roofing Co LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.602278,
+    32.52395,
+    -88.602278,
+    32.52395
+],
+  "geometry": {"coordinates":[-88.602278,32.52395],"type":"Point"}
+}

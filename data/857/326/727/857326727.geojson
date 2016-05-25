@@ -1,0 +1,76 @@
+{
+  "id": 857326727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123435,32.402727,-90.123435,32.402727",
+    "geom:latitude":32.402727,
+    "geom:longitude":-90.123435,
+    "iso:country":"US",
+    "sg:address":"754 S Pear Orchard Rd",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 991 9996",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.ridgelandchamber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RHEkYy78h0nMmUqLd7zem_32.402727_-90.123435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126986,
+    "wof:geomhash":"d2f5ac9b5519aeb3a7fed34dd7cf9fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857326727
+        }
+    ],
+    "wof:id":857326727,
+    "wof:lastmodified":1464126986,
+    "wof:name":"Ridgeland Chamber Of Commerce",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -90.123435,
+    32.402727,
+    -90.123435,
+    32.402727
+],
+  "geometry": {"coordinates":[-90.123435,32.402727],"type":"Point"}
+}

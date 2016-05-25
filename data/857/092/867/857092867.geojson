@@ -1,0 +1,75 @@
+{
+  "id": 857092867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.117669,30.366907,-89.117669,30.366907",
+    "geom:latitude":30.366907,
+    "geom:longitude":-89.117669,
+    "iso:country":"US",
+    "sg:address":"1311 Broad Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 6647",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i6SPuxFh8xizEYShXudjc_30.366907_-89.117669@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121749,
+    "wof:geomhash":"71e62f9eff74accd8e448276bf0dc470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857092867
+        }
+    ],
+    "wof:id":857092867,
+    "wof:lastmodified":1464121749,
+    "wof:name":"Oak Place Pharmacy Inc",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.117669,
+    30.366907,
+    -89.117669,
+    30.366907
+],
+  "geometry": {"coordinates":[-89.11766900000001,30.366907],"type":"Point"}
+}

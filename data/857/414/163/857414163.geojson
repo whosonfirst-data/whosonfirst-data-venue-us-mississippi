@@ -1,0 +1,71 @@
+{
+  "id": 857414163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.55129,34.366348,-89.55129,34.366348",
+    "geom:latitude":34.366348,
+    "geom:longitude":-89.55129,
+    "iso:country":"US",
+    "sg:address":"1609 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0610",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EiBLjCkLT7jmoKSSRE1Jj_34.366348_-89.551290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128947,
+    "wof:geomhash":"5cce62556f90471c96df28c1e7818941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857414163
+        }
+    ],
+    "wof:id":857414163,
+    "wof:lastmodified":1464128947,
+    "wof:name":"Kiamie Package Store",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -89.55129,
+    34.366348,
+    -89.55129,
+    34.366348
+],
+  "geometry": {"coordinates":[-89.55128999999999,34.366348],"type":"Point"}
+}

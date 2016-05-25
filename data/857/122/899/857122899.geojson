@@ -1,0 +1,73 @@
+{
+  "id": 857122899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706933,34.311405,-88.706933,34.311405",
+    "geom:latitude":34.311405,
+    "geom:longitude":-88.706933,
+    "iso:country":"US",
+    "sg:address":"3833 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6459",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse",
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zOpKwD4bIzUaKOWZ8i9zm_34.311405_-88.706933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122527,
+    "wof:geomhash":"95fde1fe5e8c98f0f745fd7e0f589391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857122899
+        }
+    ],
+    "wof:id":857122899,
+    "wof:lastmodified":1464122527,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "club"
+    ]
+},
+  "bbox": [
+    -88.706933,
+    34.311405,
+    -88.706933,
+    34.311405
+],
+  "geometry": {"coordinates":[-88.70693300000001,34.311405],"type":"Point"}
+}

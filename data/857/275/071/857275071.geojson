@@ -1,0 +1,71 @@
+{
+  "id": 857275071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.540153,34.218958,-90.540153,34.218958",
+    "geom:latitude":34.218958,
+    "geom:longitude":-90.540153,
+    "iso:country":"US",
+    "sg:address":"104 Killebrew St",
+    "sg:city":"Lyon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4500",
+    "sg:postcode":"38645",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cqhTCvtFueYYecuR6pk84_34.218958_-90.540153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125792,
+    "wof:geomhash":"bbbf87c952475dd4620d715815cd3730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857275071
+        }
+    ],
+    "wof:id":857275071,
+    "wof:lastmodified":1464125792,
+    "wof:name":"Liberty Baptist Church",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.540153,
+    34.218958,
+    -90.540153,
+    34.218958
+],
+  "geometry": {"coordinates":[-90.540153,34.218958],"type":"Point"}
+}

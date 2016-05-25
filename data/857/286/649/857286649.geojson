@@ -1,0 +1,71 @@
+{
+  "id": 857286649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685,34.236711,-88.685,34.236711",
+    "geom:latitude":34.236711,
+    "geom:longitude":-88.685,
+    "iso:country":"US",
+    "sg:address":"1324 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 9121",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PwZGB8YTsfXT91x2psPDt_34.236711_-88.685000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126057,
+    "wof:geomhash":"6e4fefae871e97246266850de4b8c9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857286649
+        }
+    ],
+    "wof:id":857286649,
+    "wof:lastmodified":1464126057,
+    "wof:name":"Richardson Printing",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -88.685,
+    34.236711,
+    -88.685,
+    34.236711
+],
+  "geometry": {"coordinates":[-88.685,34.236711],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857318185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.502377,30.368208,-88.502377,30.368208",
+    "geom:latitude":30.368208,
+    "geom:longitude":-88.502377,
+    "iso:country":"US",
+    "sg:address":"5504 Orchard Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9180",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nbdwY0z2fSpIzSinBqE0l_30.368208_-88.502377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126815,
+    "wof:geomhash":"db25b1d530266d045e45f02b5a9ead99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857318185
+        }
+    ],
+    "wof:id":857318185,
+    "wof:lastmodified":1464126815,
+    "wof:name":"Recycling Center",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.502377,
+    30.368208,
+    -88.502377,
+    30.368208
+],
+  "geometry": {"coordinates":[-88.502377,30.368208],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857435187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.209703,31.069082,-89.209703,31.069082",
+    "geom:latitude":31.069082,
+    "geom:longitude":-89.209703,
+    "iso:country":"US",
+    "sg:address":"319 McCardle Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 9287",
+    "sg:postcode":"39425",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Ya5L2WTSl2UVeWeo2x2y_31.069082_-89.209703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129470,
+    "wof:geomhash":"ec7c611527e479a094e176ce579a66f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857435187
+        }
+    ],
+    "wof:id":857435187,
+    "wof:lastmodified":1464129470,
+    "wof:name":"Brooklyn Auto Sales",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -89.209703,
+    31.069082,
+    -89.209703,
+    31.069082
+],
+  "geometry": {"coordinates":[-89.209703,31.069082],"type":"Point"}
+}

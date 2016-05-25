@@ -1,0 +1,71 @@
+{
+  "id": 857124035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301346,31.324818,-89.301346,31.324818",
+    "geom:latitude":31.324818,
+    "geom:longitude":-89.301346,
+    "iso:country":"US",
+    "sg:address":"723 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 1460",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o2f3GiVLER3tR184RSFgM_31.324818_-89.301346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122550,
+    "wof:geomhash":"a37f84b4af20ed9c1cf4b3ff65defa01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857124035
+        }
+    ],
+    "wof:id":857124035,
+    "wof:lastmodified":1464122550,
+    "wof:name":"Jerry A Evans Law Offices",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.301346,
+    31.324818,
+    -89.301346,
+    31.324818
+],
+  "geometry": {"coordinates":[-89.301346,31.324818],"type":"Point"}
+}

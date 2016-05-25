@@ -1,0 +1,73 @@
+{
+  "id": 857188391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288626,31.325588,-89.288626,31.325588",
+    "geom:latitude":31.325588,
+    "geom:longitude":-89.288626,
+    "iso:country":"US",
+    "sg:address":"124 Walnut St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1358",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qHNPEZ1XsYhvTTQufvKbX_31.325588_-89.288626@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123958,
+    "wof:geomhash":"ddb24e114e7e00750a63cbadfe85e65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857188391
+        }
+    ],
+    "wof:id":857188391,
+    "wof:lastmodified":1464123958,
+    "wof:name":"Bedford Care Ctr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -89.288626,
+    31.325588,
+    -89.288626,
+    31.325588
+],
+  "geometry": {"coordinates":[-89.28862599999999,31.325588],"type":"Point"}
+}

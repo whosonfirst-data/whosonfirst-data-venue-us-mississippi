@@ -1,0 +1,71 @@
+{
+  "id": 857075773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55103,34.199341,-90.55103,34.199341",
+    "geom:latitude":34.199341,
+    "geom:longitude":-90.55103,
+    "iso:country":"US",
+    "sg:address":"2245 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4131",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ss9O6ws0Kq8zTDPdK07g_34.199341_-90.551030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121304,
+    "wof:geomhash":"9d63ea383fc4928cbb8b94d29320c8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857075773
+        }
+    ],
+    "wof:id":857075773,
+    "wof:lastmodified":1464121304,
+    "wof:name":"Childrens Clinic Of Clarksdale",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.55103,
+    34.199341,
+    -90.55103,
+    34.199341
+],
+  "geometry": {"coordinates":[-90.55103,34.199341],"type":"Point"}
+}

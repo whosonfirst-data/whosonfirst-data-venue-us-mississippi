@@ -1,0 +1,73 @@
+{
+  "id": 857122709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.517399,34.371871,-89.517399,34.371871",
+    "geom:latitude":34.371871,
+    "geom:longitude":-89.517399,
+    "iso:country":"US",
+    "sg:address":"658 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2418",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cnWbykUFmLZxvkjdjd2U9_34.371871_-89.517399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122521,
+    "wof:geomhash":"1622767c8891d835947ae76949566c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857122709
+        }
+    ],
+    "wof:id":857122709,
+    "wof:lastmodified":1464122521,
+    "wof:name":"Oxford Fire Department",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.517399,
+    34.371871,
+    -89.517399,
+    34.371871
+],
+  "geometry": {"coordinates":[-89.517399,34.371871],"type":"Point"}
+}

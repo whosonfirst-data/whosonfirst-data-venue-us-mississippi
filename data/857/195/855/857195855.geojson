@@ -1,0 +1,71 @@
+{
+  "id": 857195855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.417025,33.525927,-88.417025,33.525927",
+    "geom:latitude":33.525927,
+    "geom:longitude":-88.417025,
+    "iso:country":"US",
+    "sg:address":"1711 Chickasaw Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 8283",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KTVutZEKTHxRadWSzzb3m_33.525927_-88.417025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124098,
+    "wof:geomhash":"ee21108cc1b0786928bbe3bf5252b209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857195855
+        }
+    ],
+    "wof:id":857195855,
+    "wof:lastmodified":1464124098,
+    "wof:name":"William K Blair & Assoc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -88.417025,
+    33.525927,
+    -88.417025,
+    33.525927
+],
+  "geometry": {"coordinates":[-88.417025,33.525927],"type":"Point"}
+}

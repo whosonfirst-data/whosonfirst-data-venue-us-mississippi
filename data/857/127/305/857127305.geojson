@@ -1,0 +1,74 @@
+{
+  "id": 857127305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534666,30.373419,-88.534666,30.373419",
+    "geom:latitude":30.373419,
+    "geom:longitude":-88.534666,
+    "iso:country":"US",
+    "sg:address":"4300 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1002",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.smhconline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jOW88g7CcJKVbvLsnA3Vx_30.373419_-88.534666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122613,
+    "wof:geomhash":"b50693a6c741ee41566f1546c2db274f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857127305
+        }
+    ],
+    "wof:id":857127305,
+    "wof:lastmodified":1464122613,
+    "wof:name":"Southern Mississippi Heart Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.534666,
+    30.373419,
+    -88.534666,
+    30.373419
+],
+  "geometry": {"coordinates":[-88.534666,30.373419],"type":"Point"}
+}

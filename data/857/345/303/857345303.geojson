@@ -1,0 +1,73 @@
+{
+  "id": 857345303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.187021,30.378162,-89.187021,30.378162",
+    "geom:latitude":30.378162,
+    "geom:longitude":-89.187021,
+    "iso:country":"US",
+    "sg:address":"6318 Beatline Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 5605",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cyw9CS1HlpZv5130nM0Od_30.378162_-89.187021@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127379,
+    "wof:geomhash":"f59b43a630b25253a1d45da271b117de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857345303
+        }
+    ],
+    "wof:id":857345303,
+    "wof:lastmodified":1464127379,
+    "wof:name":"Pro Paint & Body Repair",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -89.187021,
+    30.378162,
+    -89.187021,
+    30.378162
+],
+  "geometry": {"coordinates":[-89.187021,30.378162],"type":"Point"}
+}

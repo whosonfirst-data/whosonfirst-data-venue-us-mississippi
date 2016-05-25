@@ -1,0 +1,68 @@
+{
+  "id": 857308755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.153126,32.214227,-90.153126,32.214227",
+    "geom:latitude":32.214227,
+    "geom:longitude":-90.153126,
+    "iso:country":"US",
+    "sg:address":"120 Scarbrough St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 8609",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85829277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sHhTjDeYJDtgbn1oFV9rf_32.214227_-90.153126@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126592,
+    "wof:geomhash":"7aff6077562ae30df80b1915ad4c3e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85829277,
+            "region_id":85688579,
+            "venue_id":857308755
+        }
+    ],
+    "wof:id":857308755,
+    "wof:lastmodified":1464126592,
+    "wof:name":"Polk's Discount Drugs",
+    "wof:parent_id":85829277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.153126,
+    32.214227,
+    -90.153126,
+    32.214227
+],
+  "geometry": {"coordinates":[-90.153126,32.214227],"type":"Point"}
+}

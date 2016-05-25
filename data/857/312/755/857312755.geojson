@@ -1,0 +1,73 @@
+{
+  "id": 857312755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558518,34.218912,-90.558518,34.218912",
+    "geom:latitude":34.218912,
+    "geom:longitude":-90.558518,
+    "iso:country":"US",
+    "sg:address":"433 Lee Dr",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 2458",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cAVdGJVeXcpt1iHNlKKwk_34.218912_-90.558518@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126676,
+    "wof:geomhash":"ebf66b95d33f1f37693a76fb9c16295a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857312755
+        }
+    ],
+    "wof:id":857312755,
+    "wof:lastmodified":1464126676,
+    "wof:name":"Regina Cooke Performing Arts",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -90.558518,
+    34.218912,
+    -90.558518,
+    34.218912
+],
+  "geometry": {"coordinates":[-90.55851800000001,34.218912],"type":"Point"}
+}

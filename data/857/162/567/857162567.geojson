@@ -1,0 +1,73 @@
+{
+  "id": 857162567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676096,34.23581,-88.676096,34.23581",
+    "geom:latitude":34.23581,
+    "geom:longitude":-88.676096,
+    "iso:country":"US",
+    "sg:address":"1893 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 2888",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_396Yr66ydzQ1cdLnwPKUTn_34.235810_-88.676096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123415,
+    "wof:geomhash":"dbcd4940cdf10ae2e016630bda8c0566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857162567
+        }
+    ],
+    "wof:id":857162567,
+    "wof:lastmodified":1464123415,
+    "wof:name":"Rehab Solutions",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.676096,
+    34.23581,
+    -88.676096,
+    34.23581
+],
+  "geometry": {"coordinates":[-88.676096,34.23581],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857379491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.341706,33.422292,-88.341706,33.422292",
+    "geom:latitude":33.422292,
+    "geom:longitude":-88.341706,
+    "iso:country":"US",
+    "sg:address":"347 Thornton Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 0030",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3waEX7vFGI9VWPo9q62LnN_33.422292_-88.341706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128105,
+    "wof:geomhash":"aec7b1f4899ca90177deaae77c6e333d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857379491
+        }
+    ],
+    "wof:id":857379491,
+    "wof:lastmodified":1464128105,
+    "wof:name":"Progressive Pools",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -88.341706,
+    33.422292,
+    -88.341706,
+    33.422292
+],
+  "geometry": {"coordinates":[-88.341706,33.422292],"type":"Point"}
+}

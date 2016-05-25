@@ -1,0 +1,75 @@
+{
+  "id": 857133025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.53428,34.351554,-89.53428,34.351554",
+    "geom:latitude":34.351554,
+    "geom:longitude":-89.53428,
+    "iso:country":"US",
+    "sg:address":"2112 Old Taylor Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 4300",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k7hGwqHC4QH0hGIlQnf1k_34.351554_-89.534280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122741,
+    "wof:geomhash":"4fb63c602b263f53e36da95bcc835fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857133025
+        }
+    ],
+    "wof:id":857133025,
+    "wof:lastmodified":1464122741,
+    "wof:name":"Old Taylor Place",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.53428,
+    34.351554,
+    -89.53428,
+    34.351554
+],
+  "geometry": {"coordinates":[-89.53428,34.351554],"type":"Point"}
+}

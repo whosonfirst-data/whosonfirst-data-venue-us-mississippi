@@ -1,0 +1,71 @@
+{
+  "id": 857129681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402558,32.860188,-90.402558,32.860188",
+    "geom:latitude":32.860188,
+    "geom:longitude":-90.402558,
+    "iso:country":"US",
+    "sg:address":"929 Grand Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7789",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LsG8cJZmBzHUXdfdpssKX_32.860188_-90.402558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122670,
+    "wof:geomhash":"c912cc9aa7902727a817ef3289be1769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857129681
+        }
+    ],
+    "wof:id":857129681,
+    "wof:lastmodified":1464122670,
+    "wof:name":"Grand Creations",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.402558,
+    32.860188,
+    -90.402558,
+    32.860188
+],
+  "geometry": {"coordinates":[-90.402558,32.860188],"type":"Point"}
+}

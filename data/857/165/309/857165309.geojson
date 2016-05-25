@@ -1,0 +1,71 @@
+{
+  "id": 857165309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.565381,34.361983,-89.565381,34.361983",
+    "geom:latitude":34.361983,
+    "geom:longitude":-89.565381,
+    "iso:country":"US",
+    "sg:address":"2530 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6279",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HJjr4Klvu5wOzXfAxZT7c_34.361983_-89.565381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123472,
+    "wof:geomhash":"efeacc7676d61083037f8069b5ab6c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857165309
+        }
+    ],
+    "wof:id":857165309,
+    "wof:lastmodified":1464123472,
+    "wof:name":"Da Vi Nails",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -89.565381,
+    34.361983,
+    -89.565381,
+    34.361983
+],
+  "geometry": {"coordinates":[-89.565381,34.361983],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857175101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.626282,30.417596,-88.626282,30.417596",
+    "geom:latitude":30.417596,
+    "geom:longitude":-88.626282,
+    "iso:country":"US",
+    "sg:address":"1104 Homestead Blvd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 0477",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SLNGeRS5Nu5eHOpnl1KyB_30.417596_-88.626282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123696,
+    "wof:geomhash":"f4d60542c82a25339f8c3fcb7ae336bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857175101
+        }
+    ],
+    "wof:id":857175101,
+    "wof:lastmodified":1464123696,
+    "wof:name":"K C Keith Trucking Company",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.626282,
+    30.417596,
+    -88.626282,
+    30.417596
+],
+  "geometry": {"coordinates":[-88.626282,30.417596],"type":"Point"}
+}

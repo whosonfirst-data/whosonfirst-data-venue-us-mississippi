@@ -1,0 +1,74 @@
+{
+  "id": 857485403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542698,33.814695,-88.542698,33.814695",
+    "geom:latitude":33.814695,
+    "geom:longitude":-88.542698,
+    "iso:country":"US",
+    "sg:address":"808 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/prairie/199612-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8181",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M8Fmi4OQ7p9lF1NPTZSiK_33.814695_-88.542698@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130474,
+    "wof:geomhash":"359895732f979467faa64c2723942f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857485403
+        }
+    ],
+    "wof:id":857485403,
+    "wof:lastmodified":1464130474,
+    "wof:name":"Sonic",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.542698,
+    33.814695,
+    -88.542698,
+    33.814695
+],
+  "geometry": {"coordinates":[-88.542698,33.814695],"type":"Point"}
+}

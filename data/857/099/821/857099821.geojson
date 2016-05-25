@@ -1,0 +1,71 @@
+{
+  "id": 857099821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559925,34.191027,-90.559925,34.191027",
+    "geom:latitude":34.191027,
+    "geom:longitude":-90.559925,
+    "iso:country":"US",
+    "sg:address":"1402 Farris St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4984",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tduw9yJ70pmJkN5QiKgsH_34.191027_-90.559925@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121900,
+    "wof:geomhash":"3fb55f76401453e8c7a0db923652a143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857099821
+        }
+    ],
+    "wof:id":857099821,
+    "wof:lastmodified":1464121900,
+    "wof:name":"Umad",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.559925,
+    34.191027,
+    -90.559925,
+    34.191027
+],
+  "geometry": {"coordinates":[-90.55992500000001,34.191027],"type":"Point"}
+}

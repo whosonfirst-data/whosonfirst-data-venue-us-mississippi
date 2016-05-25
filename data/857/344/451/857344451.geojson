@@ -1,0 +1,71 @@
+{
+  "id": 857344451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.806568,30.416194,-88.806568,30.416194",
+    "geom:latitude":30.416194,
+    "geom:longitude":-88.806568,
+    "iso:country":"US",
+    "sg:address":"2112 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 2800",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hrdoDjbe3l78Ys75r50O9_30.416194_-88.806568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127361,
+    "wof:geomhash":"2b7cfbe6746725424d626779dd7bc107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857344451
+        }
+    ],
+    "wof:id":857344451,
+    "wof:lastmodified":1464127361,
+    "wof:name":"Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -88.806568,
+    30.416194,
+    -88.806568,
+    30.416194
+],
+  "geometry": {"coordinates":[-88.806568,30.416194],"type":"Point"}
+}

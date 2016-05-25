@@ -1,0 +1,73 @@
+{
+  "id": 857256875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.8642,32.338294,-90.8642,32.338294",
+    "geom:latitude":32.338294,
+    "geom:longitude":-90.8642,
+    "iso:country":"US",
+    "sg:address":"1903 Mission 66",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 6011",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oYY9kg6bkEVscpKmexnoT_32.338294_-90.864200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125424,
+    "wof:geomhash":"744611e48053afe3e37b8a6a1d2adf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857256875
+        }
+    ],
+    "wof:id":857256875,
+    "wof:lastmodified":1464125424,
+    "wof:name":"Kurt R Schrock DDS",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.8642,
+    32.338294,
+    -90.8642,
+    32.338294
+],
+  "geometry": {"coordinates":[-90.8642,32.338294],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857398713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.095289,30.373523,-89.095289,30.373523",
+    "geom:latitude":30.373523,
+    "geom:longitude":-89.095289,
+    "iso:country":"US",
+    "sg:address":"2606 19th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 4797",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79hDXIbt4gBxPsUrRnq8Oy_30.373523_-89.095289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128600,
+    "wof:geomhash":"a1eca8d1b4712167b968ab5646177da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857398713
+        }
+    ],
+    "wof:id":857398713,
+    "wof:lastmodified":1464128600,
+    "wof:name":"Hancock Bank Warehouse",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -89.095289,
+    30.373523,
+    -89.095289,
+    30.373523
+],
+  "geometry": {"coordinates":[-89.09528899999999,30.373523],"type":"Point"}
+}

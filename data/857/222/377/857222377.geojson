@@ -1,0 +1,73 @@
+{
+  "id": 857222377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.162415,32.182818,-90.162415,32.182818",
+    "geom:latitude":32.182818,
+    "geom:longitude":-90.162415,
+    "iso:country":"US",
+    "sg:address":"120 Lou Anne St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 3054",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85842145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y99wvrb9JZgtFaK1cNV6m_32.182818_-90.162415@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124664,
+    "wof:geomhash":"d3e2741455a6777723356102c8306de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85842145,
+            "region_id":85688579,
+            "venue_id":857222377
+        }
+    ],
+    "wof:id":857222377,
+    "wof:lastmodified":1464124664,
+    "wof:name":"American Soc Rdlgic Tchnlogist",
+    "wof:parent_id":85842145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.162415,
+    32.182818,
+    -90.162415,
+    32.182818
+],
+  "geometry": {"coordinates":[-90.162415,32.182818],"type":"Point"}
+}

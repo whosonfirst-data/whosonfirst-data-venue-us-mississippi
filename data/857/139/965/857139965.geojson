@@ -1,0 +1,75 @@
+{
+  "id": 857139965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.226082,31.366982,-89.226082,31.366982",
+    "geom:latitude":31.366982,
+    "geom:longitude":-89.226082,
+    "iso:country":"US",
+    "sg:address":"196 Springfield Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 5974",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c6Rv08hITjOe9mhe6cbxt_31.366982_-89.226082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122895,
+    "wof:geomhash":"938c6465ddc7c3fce92b791d15438a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857139965
+        }
+    ],
+    "wof:id":857139965,
+    "wof:lastmodified":1464122895,
+    "wof:name":"Hawkins Boarding Kennel",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -89.226082,
+    31.366982,
+    -89.226082,
+    31.366982
+],
+  "geometry": {"coordinates":[-89.22608200000001,31.366982],"type":"Point"}
+}

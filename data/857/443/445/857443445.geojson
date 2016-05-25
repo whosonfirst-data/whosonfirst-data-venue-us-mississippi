@@ -1,0 +1,73 @@
+{
+  "id": 857443445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636942,34.507263,-88.636942,34.507263",
+    "geom:latitude":34.507263,
+    "geom:longitude":-88.636942,
+    "iso:country":"US",
+    "sg:address":"311 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8906",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bDq1tUq0kO2FIdf4MZJiy_34.507263_-88.636942@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129630,
+    "wof:geomhash":"140af43d2606eb61b5f6a20ef0bb5908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857443445
+        }
+    ],
+    "wof:id":857443445,
+    "wof:lastmodified":1464129630,
+    "wof:name":"Baldwyn Check Svc",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -88.636942,
+    34.507263,
+    -88.636942,
+    34.507263
+],
+  "geometry": {"coordinates":[-88.636942,34.507263],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857215113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.103059,30.391002,-89.103059,30.391002",
+    "geom:latitude":30.391002,
+    "geom:longitude":-89.103059,
+    "iso:country":"US",
+    "sg:address":"3321 34th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 865 0056",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jvPqicfI09gRGEQs0oQpR_30.391002_-89.103059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124516,
+    "wof:geomhash":"e436472d506a7d0dfb64ba736e37c4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857215113
+        }
+    ],
+    "wof:id":857215113,
+    "wof:lastmodified":1464124516,
+    "wof:name":"Trans-Rite Global Logistics",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.103059,
+    30.391002,
+    -89.103059,
+    30.391002
+],
+  "geometry": {"coordinates":[-89.103059,30.391002],"type":"Point"}
+}

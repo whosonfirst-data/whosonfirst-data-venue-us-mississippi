@@ -1,0 +1,73 @@
+{
+  "id": 857421553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.828096,32.308022,-90.828096,32.308022",
+    "geom:latitude":32.308022,
+    "geom:longitude":-90.828096,
+    "iso:country":"US",
+    "sg:address":"107 Golding Blvd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 630 9558",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04YHmBfomxkqqfXcWFGgw0_32.308022_-90.828096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129138,
+    "wof:geomhash":"01c0bf76c2285c7d69ddb97ccffc0950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857421553
+        }
+    ],
+    "wof:id":857421553,
+    "wof:lastmodified":1464129138,
+    "wof:name":"Upward Properties LLC",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.828096,
+    32.308022,
+    -90.828096,
+    32.308022
+],
+  "geometry": {"coordinates":[-90.828096,32.308022],"type":"Point"}
+}

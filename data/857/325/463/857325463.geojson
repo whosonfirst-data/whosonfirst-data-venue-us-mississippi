@@ -1,0 +1,71 @@
+{
+  "id": 857325463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548441,30.36294,-88.548441,30.36294",
+    "geom:latitude":30.36294,
+    "geom:longitude":-88.548441,
+    "iso:country":"US",
+    "sg:address":"2802 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 9200",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZtI4ZCEcJXmvZgM4Mjqet_30.362940_-88.548441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126959,
+    "wof:geomhash":"60ce5ff866fcf8c42212788a0dae78e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857325463
+        }
+    ],
+    "wof:id":857325463,
+    "wof:lastmodified":1464126959,
+    "wof:name":"Birch Telecom",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -88.548441,
+    30.36294,
+    -88.548441,
+    30.36294
+],
+  "geometry": {"coordinates":[-88.548441,30.36294],"type":"Point"}
+}

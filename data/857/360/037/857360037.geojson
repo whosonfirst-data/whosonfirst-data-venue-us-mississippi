@@ -1,0 +1,71 @@
+{
+  "id": 857360037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708623,33.499111,-88.708623,33.499111",
+    "geom:latitude":33.499111,
+    "geom:longitude":-88.708623,
+    "iso:country":"US",
+    "sg:address":"1253 Hickory Grove Rd N",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 338 9110",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51PSc7Vb1Bh96bTPX5Nhe6_33.499111_-88.708623@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127697,
+    "wof:geomhash":"c38fccf815a1fb1627c86207cdc8e19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857360037
+        }
+    ],
+    "wof:id":857360037,
+    "wof:lastmodified":1464127697,
+    "wof:name":"Owens Refrigeration & AC",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerator",
+        "freezer"
+    ]
+},
+  "bbox": [
+    -88.708623,
+    33.499111,
+    -88.708623,
+    33.499111
+],
+  "geometry": {"coordinates":[-88.708623,33.499111],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857475937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575376,34.201146,-90.575376,34.201146",
+    "geom:latitude":34.201146,
+    "geom:longitude":-90.575376,
+    "iso:country":"US",
+    "sg:address":"11 3rd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 6733",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06IPrUbV8GxM1b2AuA6ZTo_34.201308_-90.574654@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130295,
+    "wof:geomhash":"34ef9245394f9d82b63d109942893777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857475937
+        }
+    ],
+    "wof:id":857475937,
+    "wof:lastmodified":1464130295,
+    "wof:name":"Delta Cinema",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -90.575376,
+    34.201146,
+    -90.575376,
+    34.201146
+],
+  "geometry": {"coordinates":[-90.57537600000001,34.201146],"type":"Point"}
+}

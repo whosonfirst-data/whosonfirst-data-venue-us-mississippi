@@ -1,0 +1,80 @@
+{
+  "id": 857149015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.067855,30.386629,-89.067855,30.386629",
+    "geom:latitude":30.386629,
+    "geom:longitude":-89.067855,
+    "iso:country":"US",
+    "sg:address":"941 Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 3235",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "outboard",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17MMJFXkX9v3CI6MjLID0F_30.386629_-89.067855@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123123,
+    "wof:geomhash":"6408b970fd627bedf6cc5553d694a57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857149015
+        }
+    ],
+    "wof:id":857149015,
+    "wof:lastmodified":1464123123,
+    "wof:name":"Gulf Coast Marine Inc",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outboard",
+        "sales"
+    ]
+},
+  "bbox": [
+    -89.067855,
+    30.386629,
+    -89.067855,
+    30.386629
+],
+  "geometry": {"coordinates":[-89.06785499999999,30.386629],"type":"Point"}
+}

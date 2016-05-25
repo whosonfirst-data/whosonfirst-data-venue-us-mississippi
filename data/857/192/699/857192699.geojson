@@ -1,0 +1,71 @@
+{
+  "id": 857192699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.833828,32.283604,-90.833828,32.283604",
+    "geom:latitude":32.283604,
+    "geom:longitude":-90.833828,
+    "iso:country":"US",
+    "sg:address":"5790 Halls Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 8353",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "special",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IdZ5111iXkMRVyGvg1Ysn_32.283604_-90.833828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124036,
+    "wof:geomhash":"e768bf8004231426808e910c726c6248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857192699
+        }
+    ],
+    "wof:id":857192699,
+    "wof:lastmodified":1464124036,
+    "wof:name":"Bradley S Burch",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.833828,
+    32.283604,
+    -90.833828,
+    32.283604
+],
+  "geometry": {"coordinates":[-90.833828,32.283604],"type":"Point"}
+}

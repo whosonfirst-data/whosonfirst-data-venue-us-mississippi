@@ -1,0 +1,71 @@
+{
+  "id": 857247311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.543718,32.897648,-90.543718,32.897648",
+    "geom:latitude":32.897648,
+    "geom:longitude":-90.543718,
+    "iso:country":"US",
+    "sg:address":"100 Erickson Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 7177",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fXl2A8QuHhFxaLNKy2YXK_32.897648_-90.543718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125184,
+    "wof:geomhash":"952eb4af8b367b142793fdc345cdf7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857247311
+        }
+    ],
+    "wof:id":857247311,
+    "wof:lastmodified":1464125184,
+    "wof:name":"Lake View Store & Deli",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.543718,
+    32.897648,
+    -90.543718,
+    32.897648
+],
+  "geometry": {"coordinates":[-90.543718,32.897648],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857472739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569274,34.185153,-90.569274,34.185153",
+    "geom:latitude":34.185153,
+    "geom:longitude":-90.569274,
+    "iso:country":"US",
+    "sg:address":"1905 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8468",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AtgD9sUG4VJidrbXLykIy_34.185153_-90.569274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130232,
+    "wof:geomhash":"f5fc3848ffbc68bfe23d44388a1b1f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857472739
+        }
+    ],
+    "wof:id":857472739,
+    "wof:lastmodified":1464130232,
+    "wof:name":"Clarksdale Waste Water Plant",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.569274,
+    34.185153,
+    -90.569274,
+    34.185153
+],
+  "geometry": {"coordinates":[-90.56927399999999,34.185153],"type":"Point"}
+}

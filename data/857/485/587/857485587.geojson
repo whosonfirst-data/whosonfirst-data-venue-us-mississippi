@@ -1,0 +1,74 @@
+{
+  "id": 857485587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.831381,34.948154,-89.831381,34.948154",
+    "geom:latitude":34.948154,
+    "geom:longitude":-89.831381,
+    "iso:country":"US",
+    "sg:address":"8920 Expressway Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/254916-old-style-bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 9932",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BheQRDUhK6eC0ZKzEfuTi_34.948240_-89.830733@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130478,
+    "wof:geomhash":"dc31dff239bdc7f49863dfcc83f96587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857485587
+        }
+    ],
+    "wof:id":857485587,
+    "wof:lastmodified":1464130478,
+    "wof:name":"Old Style Bar-B-Q",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.831381,
+    34.948154,
+    -89.831381,
+    34.948154
+],
+  "geometry": {"coordinates":[-89.83138099999999,34.948154],"type":"Point"}
+}

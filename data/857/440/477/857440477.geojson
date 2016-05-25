@@ -1,0 +1,75 @@
+{
+  "id": 857440477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.271105,31.353453,-89.271105,31.353453",
+    "geom:latitude":31.353453,
+    "geom:longitude":-89.271105,
+    "iso:country":"US",
+    "sg:address":"900 US Hwy 11",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1522",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JhceSzDZpXM0jlkWfsmyN_31.353453_-89.271105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129578,
+    "wof:geomhash":"46a7d9aac56c4a724703a8f436d2f172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857440477
+        }
+    ],
+    "wof:id":857440477,
+    "wof:lastmodified":1464129578,
+    "wof:name":"Petal Street Dept",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -89.271105,
+    31.353453,
+    -89.271105,
+    31.353453
+],
+  "geometry": {"coordinates":[-89.27110500000001,31.353453],"type":"Point"}
+}

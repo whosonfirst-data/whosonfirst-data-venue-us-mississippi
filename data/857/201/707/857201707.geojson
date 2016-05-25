@@ -1,0 +1,66 @@
+{
+  "id": 857201707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.13319,32.08136,-90.13319,32.08136",
+    "geom:latitude":32.08136,
+    "geom:longitude":-90.13319,
+    "iso:country":"US",
+    "sg:address":"1451 Hwy 469 S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 5281",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I1k6WROmrBzPnb8QhmpC3_32.081360_-90.133190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124207,
+    "wof:geomhash":"dde2a31190bbc31f92678cbfa6e370f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857201707
+        }
+    ],
+    "wof:id":857201707,
+    "wof:lastmodified":1464124207,
+    "wof:name":"D J's Country Corner",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13319,
+    32.08136,
+    -90.13319,
+    32.08136
+],
+  "geometry": {"coordinates":[-90.13319,32.08136],"type":"Point"}
+}

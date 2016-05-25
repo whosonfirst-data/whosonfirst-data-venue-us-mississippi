@@ -1,0 +1,71 @@
+{
+  "id": 857271065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.755841,34.959495,-89.755841,34.959495",
+    "geom:latitude":34.959495,
+    "geom:longitude":-89.755841,
+    "iso:country":"US",
+    "sg:address":"6782 Greyhawk Cove S",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 4059",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BxYfZzwAnH6LhAxTPEGPT_34.959495_-89.755841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125707,
+    "wof:geomhash":"e9d59d8e18ff0bbd7ba8183a4ed900b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857271065
+        }
+    ],
+    "wof:id":857271065,
+    "wof:lastmodified":1464125707,
+    "wof:name":"Price Plumbing",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.755841,
+    34.959495,
+    -89.755841,
+    34.959495
+],
+  "geometry": {"coordinates":[-89.755841,34.959495],"type":"Point"}
+}

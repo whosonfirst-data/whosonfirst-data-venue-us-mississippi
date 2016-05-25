@@ -1,0 +1,76 @@
+{
+  "id": 857407771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123421,32.400629,-90.123421,32.400629",
+    "geom:latitude":32.400629,
+    "geom:longitude":-90.123421,
+    "iso:country":"US",
+    "sg:address":"850 S Pear Orchard Rd",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 206 8700",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.cingular.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47duVaACjJIBJvvH789NY4_32.400629_-90.123421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128789,
+    "wof:geomhash":"2b77c0a830863d7821c56f7da6bc2395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857407771
+        }
+    ],
+    "wof:id":857407771,
+    "wof:lastmodified":1464128789,
+    "wof:name":"Cingular Wireless",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.123421,
+    32.400629,
+    -90.123421,
+    32.400629
+],
+  "geometry": {"coordinates":[-90.12342099999999,32.400629],"type":"Point"}
+}

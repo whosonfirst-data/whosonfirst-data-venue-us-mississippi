@@ -1,0 +1,66 @@
+{
+  "id": 857292087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.299336,31.326645,-89.299336,31.326645",
+    "geom:latitude":31.326645,
+    "geom:longitude":-89.299336,
+    "iso:country":"US",
+    "sg:address":"200 Saint Paul St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 7541",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HZu8GK8pC6wMlXVwlNBYx_31.326645_-89.299336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126200,
+    "wof:geomhash":"0b46fd6f51ca745c0d9c65f183741655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857292087
+        }
+    ],
+    "wof:id":857292087,
+    "wof:lastmodified":1464126200,
+    "wof:name":"Southland Florists",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.299336,
+    31.326645,
+    -89.299336,
+    31.326645
+],
+  "geometry": {"coordinates":[-89.299336,31.326645],"type":"Point"}
+}

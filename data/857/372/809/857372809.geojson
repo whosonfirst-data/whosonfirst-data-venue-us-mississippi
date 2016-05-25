@@ -1,0 +1,73 @@
+{
+  "id": 857372809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.853331,30.44307,-88.853331,30.44307",
+    "geom:latitude":30.44307,
+    "geom:longitude":-88.853331,
+    "iso:country":"US",
+    "sg:address":"14601 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 2051",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VohlRqPoI7sSqzEnhnmuP_30.443070_-88.853331@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127965,
+    "wof:geomhash":"be908cfe5e39f9b17024614e9d609f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857372809
+        }
+    ],
+    "wof:id":857372809,
+    "wof:lastmodified":1464127965,
+    "wof:name":"Diamond Distributions",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -88.853331,
+    30.44307,
+    -88.853331,
+    30.44307
+],
+  "geometry": {"coordinates":[-88.853331,30.44307],"type":"Point"}
+}

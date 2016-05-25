@@ -1,0 +1,71 @@
+{
+  "id": 857239889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.513333,34.36326,-89.513333,34.36326",
+    "geom:latitude":34.36326,
+    "geom:longitude":-89.513333,
+    "iso:country":"US",
+    "sg:address":"1703 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7200",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37EwYTnJk7x42SprT28Xt5_34.363260_-89.513333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125006,
+    "wof:geomhash":"d3e924a412578da05c21ad65f82b775c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857239889
+        }
+    ],
+    "wof:id":857239889,
+    "wof:lastmodified":1464125006,
+    "wof:name":"Emileigh's Bakery & Catering",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -89.513333,
+    34.36326,
+    -89.513333,
+    34.36326
+],
+  "geometry": {"coordinates":[-89.513333,34.36326],"type":"Point"}
+}

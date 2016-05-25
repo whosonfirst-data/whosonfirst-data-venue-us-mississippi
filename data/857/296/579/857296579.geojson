@@ -1,0 +1,71 @@
+{
+  "id": 857296579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.771484,34.41244,-88.771484,34.41244",
+    "geom:latitude":34.41244,
+    "geom:longitude":-88.771484,
+    "iso:country":"US",
+    "sg:address":"660 Birmingham Ridge Rd",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 5548",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iYonczzviE57EzmA0kEmt_34.412440_-88.771484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126337,
+    "wof:geomhash":"54cc240d76fca6ec32a2c89d83167fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857296579
+        }
+    ],
+    "wof:id":857296579,
+    "wof:lastmodified":1464126337,
+    "wof:name":"Posey Repair Service",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -88.771484,
+    34.41244,
+    -88.771484,
+    34.41244
+],
+  "geometry": {"coordinates":[-88.771484,34.41244],"type":"Point"}
+}

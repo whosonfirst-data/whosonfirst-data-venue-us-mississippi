@@ -1,0 +1,71 @@
+{
+  "id": 857081157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.861419,32.312273,-90.861419,32.312273",
+    "geom:latitude":32.312273,
+    "geom:longitude":-90.861419,
+    "iso:country":"US",
+    "sg:address":"510 Bazinsky Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 9299",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FAYIaEWC90xnwJEcqmNU1_32.312273_-90.861419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121427,
+    "wof:geomhash":"a36a5f33ea9adcccea4be272bd405f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857081157
+        }
+    ],
+    "wof:id":857081157,
+    "wof:lastmodified":1464121427,
+    "wof:name":"Parkwood South Apartments",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.861419,
+    32.312273,
+    -90.861419,
+    32.312273
+],
+  "geometry": {"coordinates":[-90.861419,32.312273],"type":"Point"}
+}

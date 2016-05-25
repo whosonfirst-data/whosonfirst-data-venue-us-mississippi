@@ -1,0 +1,71 @@
+{
+  "id": 857309541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.617922,34.440845,-88.617922,34.440845",
+    "geom:latitude":34.440845,
+    "geom:longitude":-88.617922,
+    "iso:country":"US",
+    "sg:address":"222 Co Rd 2578",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 2090",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c7a0AvpIpt9UFMm2TDamB_34.440845_-88.617922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126610,
+    "wof:geomhash":"6db85a33c4c6e71d4f7d7f3afc113a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857309541
+        }
+    ],
+    "wof:id":857309541,
+    "wof:lastmodified":1464126610,
+    "wof:name":"Trinity CME Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.617922,
+    34.440845,
+    -88.617922,
+    34.440845
+],
+  "geometry": {"coordinates":[-88.61792199999999,34.440845],"type":"Point"}
+}

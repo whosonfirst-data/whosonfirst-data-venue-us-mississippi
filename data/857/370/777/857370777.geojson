@@ -1,0 +1,73 @@
+{
+  "id": 857370777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.751362,32.344903,-90.751362,32.344903",
+    "geom:latitude":32.344903,
+    "geom:longitude":-90.751362,
+    "iso:country":"US",
+    "sg:address":"5125 Warriors Trl",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 661 5479",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11oi4q3PYw8dTHYuoRotJr_32.344903_-90.751362@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127921,
+    "wof:geomhash":"1ec839979cc44ae40445d0169f14578a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857370777
+        }
+    ],
+    "wof:id":857370777,
+    "wof:lastmodified":1464127921,
+    "wof:name":"Cellular Tower",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.751362,
+    32.344903,
+    -90.751362,
+    32.344903
+],
+  "geometry": {"coordinates":[-90.751362,32.344903],"type":"Point"}
+}

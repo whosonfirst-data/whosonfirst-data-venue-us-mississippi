@@ -1,0 +1,73 @@
+{
+  "id": 857152497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087776,32.431473,-90.087776,32.431473",
+    "geom:latitude":32.431473,
+    "geom:longitude":-90.087776,
+    "iso:country":"US",
+    "sg:address":"142 Woodberry Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 1060",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contracting",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uHuDx0ajysd5UhBUHDLmz_32.431473_-90.087776@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123195,
+    "wof:geomhash":"cf1e17d526d9a57d005c19ed0bf47fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857152497
+        }
+    ],
+    "wof:id":857152497,
+    "wof:lastmodified":1464123195,
+    "wof:name":"Systems Engineering Inc",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.087776,
+    32.431473,
+    -90.087776,
+    32.431473
+],
+  "geometry": {"coordinates":[-90.08777600000001,32.431473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857226457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.713788,34.23809,-88.713788,34.23809",
+    "geom:latitude":34.23809,
+    "geom:longitude":-88.713788,
+    "iso:country":"US",
+    "sg:address":"1041 S Madison St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 8754",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QYFn2Ei3UzAsBtjkG76X5_34.238090_-88.713788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124738,
+    "wof:geomhash":"9bb32b8def1a4923588b3ce6366f398e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857226457
+        }
+    ],
+    "wof:id":857226457,
+    "wof:lastmodified":1464124738,
+    "wof:name":"Ray Mark A MD",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.713788,
+    34.23809,
+    -88.713788,
+    34.23809
+],
+  "geometry": {"coordinates":[-88.71378799999999,34.23809],"type":"Point"}
+}

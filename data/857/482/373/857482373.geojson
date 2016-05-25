@@ -1,0 +1,72 @@
+{
+  "id": 857482373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.838654,32.343801,-90.838654,32.343801",
+    "geom:latitude":32.343801,
+    "geom:longitude":-90.838654,
+    "iso:country":"US",
+    "sg:address":"4045 Clay St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/vicksburg/141763-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 4132",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LNv4n8mcFdMZzWzjwhKiT_32.343801_-90.838654@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130416,
+    "wof:geomhash":"a354de3e17f2074de2a41515da2b709b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857482373
+        }
+    ],
+    "wof:id":857482373,
+    "wof:lastmodified":1464130416,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.838654,
+    32.343801,
+    -90.838654,
+    32.343801
+],
+  "geometry": {"coordinates":[-90.83865400000001,32.343801],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857281933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.89131,34.962205,-89.89131,34.962205",
+    "geom:latitude":34.962205,
+    "geom:longitude":-89.89131,
+    "iso:country":"US",
+    "sg:address":"5599 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 6508",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtLPZ58Gk3LYjtLbqc82w_34.962205_-89.891310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125962,
+    "wof:geomhash":"45e329be91a4bc2fc370b4a92df88ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857281933
+        }
+    ],
+    "wof:id":857281933,
+    "wof:lastmodified":1464125962,
+    "wof:name":"Barton-Marshall Fire Dept",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.89131,
+    34.962205,
+    -89.89131,
+    34.962205
+],
+  "geometry": {"coordinates":[-89.89131,34.962205],"type":"Point"}
+}

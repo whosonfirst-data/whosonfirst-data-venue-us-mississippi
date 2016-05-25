@@ -1,0 +1,71 @@
+{
+  "id": 857428315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66403,34.242091,-88.66403,34.242091",
+    "geom:latitude":34.242091,
+    "geom:longitude":-88.66403,
+    "iso:country":"US",
+    "sg:address":"2831 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 4287",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q0dJFt5dHZtQgmi0pZ5Gw_34.242091_-88.664030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129302,
+    "wof:geomhash":"ebbba8b05fc4a248eec42048fb05a612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857428315
+        }
+    ],
+    "wof:id":857428315,
+    "wof:lastmodified":1464129302,
+    "wof:name":"Genco Food Mart",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.66403,
+    34.242091,
+    -88.66403,
+    34.242091
+],
+  "geometry": {"coordinates":[-88.66403,34.242091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857456481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.780947,34.186826,-88.780947,34.186826",
+    "geom:latitude":34.186826,
+    "geom:longitude":-88.780947,
+    "iso:country":"US",
+    "sg:address":"950 Rd 261",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7765",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D8WMvvgdmQI0NRQuZgAY0_34.186826_-88.780947@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129881,
+    "wof:geomhash":"92b8749e13d0d1fcce8cb208e17117e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857456481
+        }
+    ],
+    "wof:id":857456481,
+    "wof:lastmodified":1464129881,
+    "wof:name":"Charlies Repair Service",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.780947,
+    34.186826,
+    -88.780947,
+    34.186826
+],
+  "geometry": {"coordinates":[-88.780947,34.186826],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857416181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.524761,34.369875,-89.524761,34.369875",
+    "geom:latitude":34.369875,
+    "geom:longitude":-89.524761,
+    "iso:country":"US",
+    "sg:address":"401 N 5th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2860",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:website":"www.oxford.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZEIyyt6IA8FB9gO17hp8w_34.369875_-89.524761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129016,
+    "wof:geomhash":"8cc2c2f62a3fc520624963d0fa662d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857416181
+        }
+    ],
+    "wof:id":857416181,
+    "wof:lastmodified":1464129016,
+    "wof:name":"Scott Center",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.524761,
+    34.369875,
+    -89.524761,
+    34.369875
+],
+  "geometry": {"coordinates":[-89.524761,34.369875],"type":"Point"}
+}

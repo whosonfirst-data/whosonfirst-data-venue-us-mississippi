@@ -1,0 +1,71 @@
+{
+  "id": 857457159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659381,34.446827,-88.659381,34.446827",
+    "geom:latitude":34.446827,
+    "geom:longitude":-88.659381,
+    "iso:country":"US",
+    "sg:address":"689 Ford Ave",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 5828",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkeuUrKrCEowZ3cx8GLIH_34.446827_-88.659381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129893,
+    "wof:geomhash":"c07e75e3707209513565d24ab16a4139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857457159
+        }
+    ],
+    "wof:id":857457159,
+    "wof:lastmodified":1464129893,
+    "wof:name":"Tennessee Valley Authority",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -88.659381,
+    34.446827,
+    -88.659381,
+    34.446827
+],
+  "geometry": {"coordinates":[-88.659381,34.446827],"type":"Point"}
+}

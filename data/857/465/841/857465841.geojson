@@ -1,0 +1,88 @@
+{
+  "id": 857465841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676824,30.395878,-88.676824,30.395878",
+    "geom:latitude":30.395878,
+    "geom:longitude":-88.676824,
+    "iso:country":"US",
+    "sg:address":"3508 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1585",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "snack",
+        "bar",
+        "garden",
+        "commercial",
+        "beer",
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zQYAoMvIOCClhjbZxJuFI_30.395878_-88.676824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130085,
+    "wof:geomhash":"15995b293607268649bcf170a36ef04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857465841
+        }
+    ],
+    "wof:id":857465841,
+    "wof:lastmodified":1464130085,
+    "wof:name":"Dee's Game Room",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "snack",
+        "bar",
+        "garden",
+        "commercial",
+        "beer",
+        "operator"
+    ]
+},
+  "bbox": [
+    -88.676824,
+    30.395878,
+    -88.676824,
+    30.395878
+],
+  "geometry": {"coordinates":[-88.676824,30.395878],"type":"Point"}
+}

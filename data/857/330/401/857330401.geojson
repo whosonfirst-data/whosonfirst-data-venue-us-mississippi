@@ -1,0 +1,73 @@
+{
+  "id": 857330401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772603,34.24596,-88.772603,34.24596",
+    "geom:latitude":34.24596,
+    "geom:longitude":-88.772603,
+    "iso:country":"US",
+    "sg:address":"5484 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 3146",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W0xzh0xFPLpmMpRqTG8Ma_34.245960_-88.772603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127062,
+    "wof:geomhash":"ba58d8d5211a2e9a447ac6ffe1ba8ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857330401
+        }
+    ],
+    "wof:id":857330401,
+    "wof:lastmodified":1464127062,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.772603,
+    34.24596,
+    -88.772603,
+    34.24596
+],
+  "geometry": {"coordinates":[-88.772603,34.24596],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857483269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708905,32.408422,-88.708905,32.408422",
+    "geom:latitude":32.408422,
+    "geom:longitude":-88.708905,
+    "iso:country":"US",
+    "sg:address":"2705 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/182326-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 4638",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SmN3bRkUix8sGOygquYSI_32.408422_-88.708905@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130433,
+    "wof:geomhash":"0aac6ec1fc88c46226a6f9225e7df25a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483269
+        }
+    ],
+    "wof:id":857483269,
+    "wof:lastmodified":1464130433,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.708905,
+    32.408422,
+    -88.708905,
+    32.408422
+],
+  "geometry": {"coordinates":[-88.708905,32.408422],"type":"Point"}
+}

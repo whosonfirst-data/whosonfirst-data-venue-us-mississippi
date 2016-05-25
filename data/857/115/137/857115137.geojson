@@ -1,0 +1,73 @@
+{
+  "id": 857115137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.281161,31.324973,-89.281161,31.324973",
+    "geom:latitude":31.324973,
+    "geom:longitude":-89.281161,
+    "iso:country":"US",
+    "sg:address":"1001 E Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2887",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BZThbOosQgUf7j51VCsNz_31.324973_-89.281161@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122316,
+    "wof:geomhash":"47fb45e39550d2e8bec26754793a0165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857115137
+        }
+    ],
+    "wof:id":857115137,
+    "wof:lastmodified":1464122316,
+    "wof:name":"Hill Motors",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.281161,
+    31.324973,
+    -89.281161,
+    31.324973
+],
+  "geometry": {"coordinates":[-89.281161,31.324973],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857152921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64557,32.423106,-88.64557,32.423106",
+    "geom:latitude":32.423106,
+    "geom:longitude":-88.64557,
+    "iso:country":"US",
+    "sg:address":"5884 Marion Dr",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 4465",
+    "sg:postcode":"39304",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I8MHBrGg0epXQOkzkxA4j_32.423106_-88.645570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123203,
+    "wof:geomhash":"681e3c0a2c44c93b0b9cc3fab8713394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857152921
+        }
+    ],
+    "wof:id":857152921,
+    "wof:lastmodified":1464123203,
+    "wof:name":"Lawn & Garden Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.64557,
+    32.423106,
+    -88.64557,
+    32.423106
+],
+  "geometry": {"coordinates":[-88.64557000000001,32.423106],"type":"Point"}
+}

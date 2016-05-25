@@ -1,0 +1,71 @@
+{
+  "id": 857217049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.644044,33.603682,-88.644044,33.603682",
+    "geom:latitude":33.603682,
+    "geom:longitude":-88.644044,
+    "iso:country":"US",
+    "sg:address":"515 E Westbrook St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1554",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TFiQZehrmvBIZaqb2bkDI_33.603682_-88.644044@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124551,
+    "wof:geomhash":"be30c37103a4bdc1c6a54afae6f283a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857217049
+        }
+    ],
+    "wof:id":857217049,
+    "wof:lastmodified":1464124551,
+    "wof:name":"Clay County Svc Office",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -88.644044,
+    33.603682,
+    -88.644044,
+    33.603682
+],
+  "geometry": {"coordinates":[-88.64404399999999,33.603682],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857262319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.929129,34.962318,-89.929129,34.962318",
+    "geom:latitude":34.962318,
+    "geom:longitude":-89.929129,
+    "iso:country":"US",
+    "sg:address":"3451 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 9021",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nHvL82aopdywuSRIBtj3I_34.962318_-89.929129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125541,
+    "wof:geomhash":"aea025b8b458eb89f9a9bb42650e192f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857262319
+        }
+    ],
+    "wof:id":857262319,
+    "wof:lastmodified":1464125541,
+    "wof:name":"Bishop & Gilliland Orthdntcs",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.929129,
+    34.962318,
+    -89.929129,
+    34.962318
+],
+  "geometry": {"coordinates":[-89.929129,34.962318],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857362249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.143317,30.353578,-89.143317,30.353578",
+    "geom:latitude":30.353578,
+    "geom:longitude":-89.143317,
+    "iso:country":"US",
+    "sg:address":"406 E Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 9479",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62eDovWrWZoGix2GGjR78V_30.353578_-89.143317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127747,
+    "wof:geomhash":"1c8064bc0b8a4eaf31b7f56da8e2953e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857362249
+        }
+    ],
+    "wof:id":857362249,
+    "wof:lastmodified":1464127747,
+    "wof:name":"Nalley Debra Dr",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.143317,
+    30.353578,
+    -89.143317,
+    30.353578
+],
+  "geometry": {"coordinates":[-89.143317,30.353578],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857163203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583757,34.187502,-90.583757,34.187502",
+    "geom:latitude":34.187502,
+    "geom:longitude":-90.583757,
+    "iso:country":"US",
+    "sg:address":"858 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8574",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k91OT1Hm7a8U5QodwNGwB_34.187502_-90.583757@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123426,
+    "wof:geomhash":"1ae755b83f7f10b5a35734a6570bc5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857163203
+        }
+    ],
+    "wof:id":857163203,
+    "wof:lastmodified":1464123426,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.583757,
+    34.187502,
+    -90.583757,
+    34.187502
+],
+  "geometry": {"coordinates":[-90.58375700000001,34.187502],"type":"Point"}
+}

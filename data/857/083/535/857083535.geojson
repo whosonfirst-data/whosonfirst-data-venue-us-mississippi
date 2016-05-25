@@ -1,0 +1,71 @@
+{
+  "id": 857083535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.363706,32.761755,-90.363706,32.761755",
+    "geom:latitude":32.761755,
+    "geom:longitude":-90.363706,
+    "iso:country":"US",
+    "sg:address":"613 Castle Chapel Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 0971",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BP0nIwMiMMv5V1e318GUc_32.761755_-90.363706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121497,
+    "wof:geomhash":"c532cb4fd3b41573a6bbf9e348e77c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857083535
+        }
+    ],
+    "wof:id":857083535,
+    "wof:lastmodified":1464121497,
+    "wof:name":"American Tower Corp",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.363706,
+    32.761755,
+    -90.363706,
+    32.761755
+],
+  "geometry": {"coordinates":[-90.36370599999999,32.761755],"type":"Point"}
+}

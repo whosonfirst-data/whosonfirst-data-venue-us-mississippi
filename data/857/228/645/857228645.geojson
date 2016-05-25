@@ -1,0 +1,73 @@
+{
+  "id": 857228645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.85038,32.342937,-90.85038,32.342937",
+    "geom:latitude":32.342937,
+    "geom:longitude":-90.85038,
+    "iso:country":"US",
+    "sg:address":"3300 Clay St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9421",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uJDDmJtvbOfj6DiD5s7RP_32.342937_-90.850380@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124783,
+    "wof:geomhash":"01c450e5b18074807cf6d32654f13058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857228645
+        }
+    ],
+    "wof:id":857228645,
+    "wof:lastmodified":1464124783,
+    "wof:name":"Vicksburg Convention & Visitor",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -90.85038,
+    32.342937,
+    -90.85038,
+    32.342937
+],
+  "geometry": {"coordinates":[-90.85038,32.342937],"type":"Point"}
+}

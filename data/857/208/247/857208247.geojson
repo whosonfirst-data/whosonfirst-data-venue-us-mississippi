@@ -1,0 +1,75 @@
+{
+  "id": 857208247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438075,31.58234,-90.438075,31.58234",
+    "geom:latitude":31.58234,
+    "geom:longitude":-90.438075,
+    "iso:country":"US",
+    "sg:address":"317 N 2nd St",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 823 3901",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A4QfMAGRg1ckmtNd5sMxK_31.582340_-90.438075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124355,
+    "wof:geomhash":"7e0986a3a032366e0afc7260f326fc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857208247
+        }
+    ],
+    "wof:id":857208247,
+    "wof:lastmodified":1464124355,
+    "wof:name":"Precision Mortgage",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -90.438075,
+    31.58234,
+    -90.438075,
+    31.58234
+],
+  "geometry": {"coordinates":[-90.438075,31.58234],"type":"Point"}
+}

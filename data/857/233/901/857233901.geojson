@@ -1,0 +1,80 @@
+{
+  "id": 857233901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.891262,32.326195,-90.891262,32.326195",
+    "geom:latitude":32.326195,
+    "geom:longitude":-90.891262,
+    "iso:country":"US",
+    "sg:address":"3508 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7791",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "yard",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NzbfEWu0Lp1nnmb9IN0KW_32.326195_-90.891262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124877,
+    "wof:geomhash":"854cf97a9ed3032afb3e93608fccb9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857233901
+        }
+    ],
+    "wof:id":857233901,
+    "wof:lastmodified":1464124877,
+    "wof:name":"J M Fly Rent All Inc",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.891262,
+    32.326195,
+    -90.891262,
+    32.326195
+],
+  "geometry": {"coordinates":[-90.891262,32.326195],"type":"Point"}
+}

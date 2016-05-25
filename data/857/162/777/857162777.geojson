@@ -1,0 +1,75 @@
+{
+  "id": 857162777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.024051,30.45503,-89.024051,30.45503",
+    "geom:latitude":30.45503,
+    "geom:longitude":-89.024051,
+    "iso:country":"US",
+    "sg:address":"11590 Lorraine Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 831 3771",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OmeIUKhuqMfusy0kzDdf0_30.455030_-89.024051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123419,
+    "wof:geomhash":"7256f559cd66aaf5c158a1375d96c19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857162777
+        }
+    ],
+    "wof:id":857162777,
+    "wof:lastmodified":1464123419,
+    "wof:name":"ABC Easy Storage",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.024051,
+    30.45503,
+    -89.024051,
+    30.45503
+],
+  "geometry": {"coordinates":[-89.024051,30.45503],"type":"Point"}
+}

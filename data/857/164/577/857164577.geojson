@@ -1,0 +1,73 @@
+{
+  "id": 857164577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.321728,31.302643,-89.321728,31.302643",
+    "geom:latitude":31.302643,
+    "geom:longitude":-89.321728,
+    "iso:country":"US",
+    "sg:address":"1712 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2886",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gaxnuRPvr1r6gUCdJLWoU_31.302643_-89.321728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123456,
+    "wof:geomhash":"83254259a8bf28a6937646776891672e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857164577
+        }
+    ],
+    "wof:id":857164577,
+    "wof:lastmodified":1464123456,
+    "wof:name":"Auto World",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.321728,
+    31.302643,
+    -89.321728,
+    31.302643
+],
+  "geometry": {"coordinates":[-89.32172799999999,31.302643],"type":"Point"}
+}

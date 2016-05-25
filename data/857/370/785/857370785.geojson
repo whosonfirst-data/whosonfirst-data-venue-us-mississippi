@@ -1,0 +1,73 @@
+{
+  "id": 857370785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.740937,34.234074,-88.740937,34.234074",
+    "geom:latitude":34.234074,
+    "geom:longitude":-88.740937,
+    "iso:country":"US",
+    "sg:address":"1583 Oak Park Ln",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 3555",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nHdPoQE2UfTxvwl6zmAER_34.234074_-88.740937@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127921,
+    "wof:geomhash":"81133066486b77c5106d76bd08fd264f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857370785
+        }
+    ],
+    "wof:id":857370785,
+    "wof:lastmodified":1464127921,
+    "wof:name":"Burleson Elec Co",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.740937,
+    34.234074,
+    -88.740937,
+    34.234074
+],
+  "geometry": {"coordinates":[-88.740937,34.234074],"type":"Point"}
+}

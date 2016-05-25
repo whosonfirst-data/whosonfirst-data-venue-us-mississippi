@@ -1,0 +1,71 @@
+{
+  "id": 857355595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.657775,33.607041,-88.657775,33.607041",
+    "geom:latitude":33.607041,
+    "geom:longitude":-88.657775,
+    "iso:country":"US",
+    "sg:address":"620 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9798",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pMqqo4MHkvavZ1QSmLoIl_33.607041_-88.657775@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127607,
+    "wof:geomhash":"4412bf0ebdef0e30409e945cbd663e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857355595
+        }
+    ],
+    "wof:id":857355595,
+    "wof:lastmodified":1464127607,
+    "wof:name":"West Point Storage Co",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.657775,
+    33.607041,
+    -88.657775,
+    33.607041
+],
+  "geometry": {"coordinates":[-88.657775,33.607041],"type":"Point"}
+}

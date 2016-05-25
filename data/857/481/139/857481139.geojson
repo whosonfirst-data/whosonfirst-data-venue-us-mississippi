@@ -1,0 +1,76 @@
+{
+  "id": 857481139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70586,34.329292,-88.70586,34.329292",
+    "geom:latitude":34.329292,
+    "geom:longitude":-88.70586,
+    "iso:country":"US",
+    "sg:address":"3952 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/122284-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 4770",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J1kAprtmjNNVYIZP8VXL5_34.329292_-88.705860@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130390,
+    "wof:geomhash":"01e75614268a58fbabc8a52ba51329ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481139
+        }
+    ],
+    "wof:id":857481139,
+    "wof:lastmodified":1464130390,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.70586,
+    34.329292,
+    -88.70586,
+    34.329292
+],
+  "geometry": {"coordinates":[-88.70586,34.329292],"type":"Point"}
+}

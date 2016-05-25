@@ -1,0 +1,71 @@
+{
+  "id": 857475381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541221,33.819218,-88.541221,33.819218",
+    "geom:latitude":33.819218,
+    "geom:longitude":-88.541221,
+    "iso:country":"US",
+    "sg:address":"505 Jackson St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4949",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OiEkoedKDPhgjcqAgA4j0_33.819218_-88.541221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130286,
+    "wof:geomhash":"b5643417145d50a97a72f54a8adbc082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857475381
+        }
+    ],
+    "wof:id":857475381,
+    "wof:lastmodified":1464130286,
+    "wof:name":"Trinity Rehabilitation Care",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -88.541221,
+    33.819218,
+    -88.541221,
+    33.819218
+],
+  "geometry": {"coordinates":[-88.54122099999999,33.819218],"type":"Point"}
+}

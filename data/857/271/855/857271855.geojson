@@ -1,0 +1,73 @@
+{
+  "id": 857271855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.297107,31.371197,-89.297107,31.371197",
+    "geom:latitude":31.371197,
+    "geom:longitude":-89.297107,
+    "iso:country":"US",
+    "sg:address":"175 Monroe Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3449",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zgUmP285HbLXGKOk1SVib_31.371197_-89.297107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125723,
+    "wof:geomhash":"eed368def053d6980ae66fd2c71eac7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857271855
+        }
+    ],
+    "wof:id":857271855,
+    "wof:lastmodified":1464125723,
+    "wof:name":"Bouie River Trucking LLC",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.297107,
+    31.371197,
+    -89.297107,
+    31.371197
+],
+  "geometry": {"coordinates":[-89.297107,31.371197],"type":"Point"}
+}

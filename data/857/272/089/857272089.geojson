@@ -1,0 +1,71 @@
+{
+  "id": 857272089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518747,34.366668,-89.518747,34.366668",
+    "geom:latitude":34.366668,
+    "geom:longitude":-89.518747,
+    "iso:country":"US",
+    "sg:address":"120 Courthouse Sq",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 1212",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlEywQT6Dk5bcOmiFLeWe_34.366668_-89.518747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125727,
+    "wof:geomhash":"37996f546917b4b5d7922d1e8e455ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857272089
+        }
+    ],
+    "wof:id":857272089,
+    "wof:lastmodified":1464125727,
+    "wof:name":"Scruggs Law Firm",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.518747,
+    34.366668,
+    -89.518747,
+    34.366668
+],
+  "geometry": {"coordinates":[-89.518747,34.366668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857131063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539288,30.411585,-88.539288,30.411585",
+    "geom:latitude":30.411585,
+    "geom:longitude":-88.539288,
+    "iso:country":"US",
+    "sg:address":"4836 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 2797",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IFXqTJPy0Tm5PrVcA0vF0_30.411585_-88.539288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122703,
+    "wof:geomhash":"597957f3cafc4e5aedf0b43e4a5334cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857131063
+        }
+    ],
+    "wof:id":857131063,
+    "wof:lastmodified":1464122703,
+    "wof:name":"Scruggs Law Firm",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.539288,
+    30.411585,
+    -88.539288,
+    30.411585
+],
+  "geometry": {"coordinates":[-88.539288,30.411585],"type":"Point"}
+}

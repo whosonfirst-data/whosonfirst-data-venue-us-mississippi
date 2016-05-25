@@ -1,0 +1,75 @@
+{
+  "id": 857360533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.822426,30.416238,-88.822426,30.416238",
+    "geom:latitude":30.416238,
+    "geom:longitude":-88.822426,
+    "iso:country":"US",
+    "sg:address":"1323 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 4886",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55IgFHMvNoIJcDyvRPLfdA_30.416238_-88.822426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127712,
+    "wof:geomhash":"7e276fe88f0a496c08b15d1ce98bd01b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857360533
+        }
+    ],
+    "wof:id":857360533,
+    "wof:lastmodified":1464127712,
+    "wof:name":"Miles Homes Atm",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -88.822426,
+    30.416238,
+    -88.822426,
+    30.416238
+],
+  "geometry": {"coordinates":[-88.82242599999999,30.416238],"type":"Point"}
+}

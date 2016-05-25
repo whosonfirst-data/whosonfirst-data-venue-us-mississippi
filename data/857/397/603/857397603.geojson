@@ -1,0 +1,73 @@
+{
+  "id": 857397603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.682221,34.259288,-88.682221,34.259288",
+    "geom:latitude":34.259288,
+    "geom:longitude":-88.682221,
+    "iso:country":"US",
+    "sg:address":"109 Adams St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 6232",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "group",
+        "daycare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34UfmZMPs5yMHdb8NVYspO_34.259288_-88.682221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128580,
+    "wof:geomhash":"8e832e94b93d9f02fc306432475ce710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857397603
+        }
+    ],
+    "wof:id":857397603,
+    "wof:lastmodified":1464128580,
+    "wof:name":"Lots Love Learning and Daycare",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "daycare"
+    ]
+},
+  "bbox": [
+    -88.682221,
+    34.259288,
+    -88.682221,
+    34.259288
+],
+  "geometry": {"coordinates":[-88.682221,34.259288],"type":"Point"}
+}

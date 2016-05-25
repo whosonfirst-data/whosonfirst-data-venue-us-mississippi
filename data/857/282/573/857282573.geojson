@@ -1,0 +1,71 @@
+{
+  "id": 857282573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.337179,31.34914,-89.337179,31.34914",
+    "geom:latitude":31.34914,
+    "geom:longitude":-89.337179,
+    "iso:country":"US",
+    "sg:address":"5566 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7424",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h6vJ8p22ul57sVSQQHVPn_31.349140_-89.337179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125973,
+    "wof:geomhash":"f33b101892e74b5c537d495a9c906961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857282573
+        }
+    ],
+    "wof:id":857282573,
+    "wof:lastmodified":1464125973,
+    "wof:name":"Underwood's Small Engine",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -89.337179,
+    31.34914,
+    -89.337179,
+    31.34914
+],
+  "geometry": {"coordinates":[-89.33717900000001,31.34914],"type":"Point"}
+}

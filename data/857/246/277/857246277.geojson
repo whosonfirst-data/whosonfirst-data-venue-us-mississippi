@@ -1,0 +1,73 @@
+{
+  "id": 857246277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.962188,30.43439,-88.962188,30.43439",
+    "geom:latitude":30.43439,
+    "geom:longitude":-88.962188,
+    "iso:country":"US",
+    "sg:address":"2071 Carolwood Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 4070",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m0ARh4ZkV5ohasNsulMHB_30.434390_-88.962188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125164,
+    "wof:geomhash":"7b0d1ee7f8887ce8ff709ff616152b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857246277
+        }
+    ],
+    "wof:id":857246277,
+    "wof:lastmodified":1464125164,
+    "wof:name":"Accurate Marine Surveyors",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -88.962188,
+    30.43439,
+    -88.962188,
+    30.43439
+],
+  "geometry": {"coordinates":[-88.962188,30.43439],"type":"Point"}
+}

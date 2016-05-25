@@ -1,0 +1,73 @@
+{
+  "id": 857284015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41703,33.51813,-88.41703,33.51813",
+    "geom:latitude":33.51813,
+    "geom:longitude":-88.41703,
+    "iso:country":"US",
+    "sg:address":"3506 Bluecutt Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 245 1040",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xbohpY5QJwSQIqRpuFtjN_33.518130_-88.417030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126001,
+    "wof:geomhash":"a09b91c5e332adb5e9dfbe6332afa948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857284015
+        }
+    ],
+    "wof:id":857284015,
+    "wof:lastmodified":1464126001,
+    "wof:name":"B&S Laundry Cleaners",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -88.41703,
+    33.51813,
+    -88.41703,
+    33.51813
+],
+  "geometry": {"coordinates":[-88.41703,33.51813],"type":"Point"}
+}

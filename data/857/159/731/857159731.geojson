@@ -1,0 +1,74 @@
+{
+  "id": 857159731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.197846,30.357232,-89.197846,30.357232",
+    "geom:latitude":30.357232,
+    "geom:longitude":-89.197846,
+    "iso:country":"US",
+    "sg:address":"21500 B St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 6057",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.mgccc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45A58ALGriiATy9ngBF8bL_30.357232_-89.197846@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123340,
+    "wof:geomhash":"24303a89f19f564acb3fba45072ab358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857159731
+        }
+    ],
+    "wof:id":857159731,
+    "wof:lastmodified":1464123340,
+    "wof:name":"Ms Gulf Coast Community Clg",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -89.197846,
+    30.357232,
+    -89.197846,
+    30.357232
+],
+  "geometry": {"coordinates":[-89.197846,30.357232],"type":"Point"}
+}

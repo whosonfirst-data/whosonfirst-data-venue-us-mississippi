@@ -1,0 +1,69 @@
+{
+  "id": 857154739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.028855,32.382204,-90.028855,32.382204",
+    "geom:latitude":32.382204,
+    "geom:longitude":-90.028855,
+    "iso:country":"US",
+    "sg:address":"320 Lakeside Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 2193",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GA5MYIfVsm7FW8bktAaj3_32.382204_-90.028855@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123242,
+    "wof:geomhash":"9be1a66f1e6910d78f12e9dfa7b25d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857154739
+        }
+    ],
+    "wof:id":857154739,
+    "wof:lastmodified":1464123242,
+    "wof:name":"FFE Transportation Svc",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.028855,
+    32.382204,
+    -90.028855,
+    32.382204
+],
+  "geometry": {"coordinates":[-90.02885499999999,32.382204],"type":"Point"}
+}

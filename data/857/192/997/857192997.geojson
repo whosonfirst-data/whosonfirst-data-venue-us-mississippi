@@ -1,0 +1,71 @@
+{
+  "id": 857192997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71441,33.417323,-88.71441,33.417323",
+    "geom:latitude":33.417323,
+    "geom:longitude":-88.71441,
+    "iso:country":"US",
+    "sg:address":"1716 Sessums Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1509",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "blueberry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7js1bHlW9nBrqXo3TFDKFJ_33.417323_-88.714410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124042,
+    "wof:geomhash":"842812be3b8902cafa872ae77104fc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857192997
+        }
+    ],
+    "wof:id":857192997,
+    "wof:lastmodified":1464124042,
+    "wof:name":"Reese Orchard",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blueberry"
+    ]
+},
+  "bbox": [
+    -88.71441,
+    33.417323,
+    -88.71441,
+    33.417323
+],
+  "geometry": {"coordinates":[-88.71441,33.417323],"type":"Point"}
+}

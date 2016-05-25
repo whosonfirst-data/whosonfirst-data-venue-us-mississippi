@@ -1,0 +1,73 @@
+{
+  "id": 857307079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720031,34.193879,-88.720031,34.193879",
+    "geom:latitude":34.193879,
+    "geom:longitude":-88.720031,
+    "iso:country":"US",
+    "sg:address":"5029 Raymond Ave",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 0202",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YWv82ZqRj9WsNLFkHZMzN_34.193879_-88.720031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126559,
+    "wof:geomhash":"37c17728b6c2b5669547bcff0344efa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857307079
+        }
+    ],
+    "wof:id":857307079,
+    "wof:lastmodified":1464126559,
+    "wof:name":"Merritts Svc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.720031,
+    34.193879,
+    -88.720031,
+    34.193879
+],
+  "geometry": {"coordinates":[-88.72003100000001,34.193879],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857434055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.49031,30.398804,-88.49031,30.398804",
+    "geom:latitude":30.398804,
+    "geom:longitude":-88.49031,
+    "iso:country":"US",
+    "sg:address":"7000 Bayou Cumbest Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 2520",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39eZt3keYg8hhYUuXBj4wC_30.398804_-88.490310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129448,
+    "wof:geomhash":"bdb9f765f943287b84fefe47b4097de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857434055
+        }
+    ],
+    "wof:id":857434055,
+    "wof:lastmodified":1464129448,
+    "wof:name":"Fisherman's Corner",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.49031,
+    30.398804,
+    -88.49031,
+    30.398804
+],
+  "geometry": {"coordinates":[-88.49030999999999,30.398804],"type":"Point"}
+}

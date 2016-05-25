@@ -1,0 +1,71 @@
+{
+  "id": 857327587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.543685,34.371862,-89.543685,34.371862",
+    "geom:latitude":34.371862,
+    "geom:longitude":-89.543685,
+    "iso:country":"US",
+    "sg:address":"413 Country Club Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6884",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pzBa4FYeLgHgXlvb0Smea_34.371862_-89.543685@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127004,
+    "wof:geomhash":"682d6df083215b0512376f5acb680105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857327587
+        }
+    ],
+    "wof:id":857327587,
+    "wof:lastmodified":1464127004,
+    "wof:name":"Tri-State Gutters",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.543685,
+    34.371862,
+    -89.543685,
+    34.371862
+],
+  "geometry": {"coordinates":[-89.543685,34.371862],"type":"Point"}
+}

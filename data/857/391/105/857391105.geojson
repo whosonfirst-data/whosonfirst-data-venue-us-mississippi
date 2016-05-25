@@ -1,0 +1,71 @@
+{
+  "id": 857391105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.869217,30.451724,-88.869217,30.451724",
+    "geom:latitude":30.451724,
+    "geom:longitude":-88.869217,
+    "iso:country":"US",
+    "sg:address":"7616 Hammond Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 617 2145",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RlSn9F92deyQMFbOtI3qg_30.451724_-88.869217@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128451,
+    "wof:geomhash":"b79662ddbf573a98216860523c7d6bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857391105
+        }
+    ],
+    "wof:id":857391105,
+    "wof:lastmodified":1464128451,
+    "wof:name":"Walker Stucco",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.869217,
+    30.451724,
+    -88.869217,
+    30.451724
+],
+  "geometry": {"coordinates":[-88.86921700000001,30.451724],"type":"Point"}
+}

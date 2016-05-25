@@ -1,0 +1,73 @@
+{
+  "id": 857247523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646344,32.442857,-88.646344,32.442857",
+    "geom:latitude":32.442857,
+    "geom:longitude":-88.646344,
+    "iso:country":"US",
+    "sg:address":"628 Old Country Club Rd E",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0260",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vJMSRyaLJQSCZGuppgrZS_32.442857_-88.646344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125189,
+    "wof:geomhash":"48fe3fcf1ca63e730cb68998179fcc87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857247523
+        }
+    ],
+    "wof:id":857247523,
+    "wof:lastmodified":1464125189,
+    "wof:name":"Porter Auto",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.646344,
+    32.442857,
+    -88.646344,
+    32.442857
+],
+  "geometry": {"coordinates":[-88.646344,32.442857],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857338099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.206513,32.331245,-90.206513,32.331245",
+    "geom:latitude":32.331245,
+    "geom:longitude":-90.206513,
+    "iso:country":"US",
+    "sg:address":"2703 Martin Luther King Jr Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 1518",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FiLkKcU4IJqvogSofZ0eq_32.331245_-90.206513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127234,
+    "wof:geomhash":"cd4aeeed1c42b6e7d7b9f0f0953e227f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857338099
+        }
+    ],
+    "wof:id":857338099,
+    "wof:lastmodified":1464127234,
+    "wof:name":"LA Saundra's Hair Care",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.206513,
+    32.331245,
+    -90.206513,
+    32.331245
+],
+  "geometry": {"coordinates":[-90.206513,32.331245],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857112433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.986129,31.961383,-90.986129,31.961383",
+    "geom:latitude":31.961383,
+    "geom:longitude":-90.986129,
+    "iso:country":"US",
+    "sg:address":"502 Flowers St",
+    "sg:city":"Vaiden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 464 5959",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JmpgHsI5eR0gvZ8x4U0Xw_31.961383_-90.986129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122241,
+    "wof:geomhash":"a61057e4a2e52820613cfece1a033813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857112433
+        }
+    ],
+    "wof:id":857112433,
+    "wof:lastmodified":1464122241,
+    "wof:name":"Stonegate Apartments",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.986129,
+    31.961383,
+    -90.986129,
+    31.961383
+],
+  "geometry": {"coordinates":[-90.98612900000001,31.961383],"type":"Point"}
+}

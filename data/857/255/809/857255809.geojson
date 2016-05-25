@@ -1,0 +1,71 @@
+{
+  "id": 857255809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558705,34.20011,-90.558705,34.20011",
+    "geom:latitude":34.20011,
+    "geom:longitude":-90.558705,
+    "iso:country":"US",
+    "sg:address":"528 Florida Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9583",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PdVDA8TYr31q9y2tU1UKp_34.200110_-90.558705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125391,
+    "wof:geomhash":"1b2a42eabd4d179b1b40ebde82a49134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857255809
+        }
+    ],
+    "wof:id":857255809,
+    "wof:lastmodified":1464125391,
+    "wof:name":"Murray Biscuit",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.558705,
+    34.20011,
+    -90.558705,
+    34.20011
+],
+  "geometry": {"coordinates":[-90.558705,34.20011],"type":"Point"}
+}

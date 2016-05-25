@@ -1,0 +1,71 @@
+{
+  "id": 857299189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.246438,31.358426,-89.246438,31.358426",
+    "geom:latitude":31.358426,
+    "geom:longitude":-89.246438,
+    "iso:country":"US",
+    "sg:address":"1010 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3504",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ogJ04TZXsEzeNOOKxZqAW_31.358426_-89.246438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126393,
+    "wof:geomhash":"c8f0ab7f0acf00264f56e1dcb7a2bf1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857299189
+        }
+    ],
+    "wof:id":857299189,
+    "wof:lastmodified":1464126393,
+    "wof:name":"A E Rogers Locksmith",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -89.246438,
+    31.358426,
+    -89.246438,
+    31.358426
+],
+  "geometry": {"coordinates":[-89.246438,31.358426],"type":"Point"}
+}

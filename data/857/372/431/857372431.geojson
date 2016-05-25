@@ -1,0 +1,71 @@
+{
+  "id": 857372431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087949,32.442763,-90.087949,32.442763",
+    "geom:latitude":32.442763,
+    "geom:longitude":-90.087949,
+    "iso:country":"US",
+    "sg:address":"63 Sumac Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 278 9298",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bMLeGgQAjcVOpeoI6qa2e_32.442763_-90.087949@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127958,
+    "wof:geomhash":"3e27538eaf2e9ac7963ad62a7be6e7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857372431
+        }
+    ],
+    "wof:id":857372431,
+    "wof:lastmodified":1464127958,
+    "wof:name":"Netpoint Hosting",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -90.087949,
+    32.442763,
+    -90.087949,
+    32.442763
+],
+  "geometry": {"coordinates":[-90.08794899999999,32.442763],"type":"Point"}
+}

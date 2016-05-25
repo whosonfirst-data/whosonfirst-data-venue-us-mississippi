@@ -1,0 +1,71 @@
+{
+  "id": 857187121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692363,32.307911,-88.692363,32.307911",
+    "geom:latitude":32.307911,
+    "geom:longitude":-88.692363,
+    "iso:country":"US",
+    "sg:address":"4616 Hwy 145",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3601",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vZ7pRbHhjekPR691Xdf8D_32.307911_-88.692363@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123934,
+    "wof:geomhash":"c7c41565333b8d4dd2ae391d79f4dccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857187121
+        }
+    ],
+    "wof:id":857187121,
+    "wof:lastmodified":1464123934,
+    "wof:name":"Narcotics Bureau",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -88.692363,
+    32.307911,
+    -88.692363,
+    32.307911
+],
+  "geometry": {"coordinates":[-88.692363,32.307911],"type":"Point"}
+}

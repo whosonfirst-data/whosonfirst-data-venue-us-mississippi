@@ -1,0 +1,75 @@
+{
+  "id": 857407511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719601,34.229962,-88.719601,34.229962",
+    "geom:latitude":34.229962,
+    "geom:longitude":-88.719601,
+    "iso:country":"US",
+    "sg:address":"1210 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 9477",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67bjwZchwOxxq0LKtfUKiP_34.229962_-88.719601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128784,
+    "wof:geomhash":"b6a92574509169fe8f944b043d2e8470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857407511
+        }
+    ],
+    "wof:id":857407511,
+    "wof:lastmodified":1464128784,
+    "wof:name":"Harvey Russell's Auto World",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.719601,
+    34.229962,
+    -88.719601,
+    34.229962
+],
+  "geometry": {"coordinates":[-88.719601,34.229962],"type":"Point"}
+}

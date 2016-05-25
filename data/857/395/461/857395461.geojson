@@ -1,0 +1,73 @@
+{
+  "id": 857395461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.781678,34.261124,-88.781678,34.261124",
+    "geom:latitude":34.261124,
+    "geom:longitude":-88.781678,
+    "iso:country":"US",
+    "sg:address":"4456 Meadowlake Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3220",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oWYGygW8bAN0mntcVAxNi_34.261124_-88.781678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128535,
+    "wof:geomhash":"acc6b037fd478c103d875e0f3e2d7a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857395461
+        }
+    ],
+    "wof:id":857395461,
+    "wof:lastmodified":1464128535,
+    "wof:name":"Peters Terry Electric Co",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.781678,
+    34.261124,
+    -88.781678,
+    34.261124
+],
+  "geometry": {"coordinates":[-88.781678,34.261124],"type":"Point"}
+}

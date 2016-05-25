@@ -1,0 +1,68 @@
+{
+  "id": 857318497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.092911,30.379277,-89.092911,30.379277",
+    "geom:latitude":30.379277,
+    "geom:longitude":-89.092911,
+    "iso:country":"US",
+    "sg:address":"2420 25th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 6014",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_171R54pG39x1gXlQuKGgFI_30.379277_-89.092911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126821,
+    "wof:geomhash":"00cc138833eba08fa512b591bfdfc2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857318497
+        }
+    ],
+    "wof:id":857318497,
+    "wof:lastmodified":1464126821,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.092911,
+    30.379277,
+    -89.092911,
+    30.379277
+],
+  "geometry": {"coordinates":[-89.092911,30.379277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857169571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.250222,30.314324,-89.250222,30.314324",
+    "geom:latitude":30.314324,
+    "geom:longitude":-89.250222,
+    "iso:country":"US",
+    "sg:address":"131 Hiern Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 3312",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NQ2rtlPgl28LFdQBjeW7M_30.314324_-89.250222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123572,
+    "wof:geomhash":"a72b681f36411859bccc1dd634e127d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857169571
+        }
+    ],
+    "wof:id":857169571,
+    "wof:lastmodified":1464123572,
+    "wof:name":"Pass Christian Utility Billing",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -89.250222,
+    30.314324,
+    -89.250222,
+    30.314324
+],
+  "geometry": {"coordinates":[-89.25022199999999,30.314324],"type":"Point"}
+}

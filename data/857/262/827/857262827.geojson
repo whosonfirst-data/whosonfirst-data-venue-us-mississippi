@@ -1,0 +1,71 @@
+{
+  "id": 857262827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.777475,34.947305,-89.777475,34.947305",
+    "geom:latitude":34.947305,
+    "geom:longitude":-89.777475,
+    "iso:country":"US",
+    "sg:address":"5765 Polk Ln",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 5357",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kDlQ0swYZ3DJoZIlVuyTI_34.947305_-89.777475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125551,
+    "wof:geomhash":"39c105f16f6fc658a2612a97b5c260fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857262827
+        }
+    ],
+    "wof:id":857262827,
+    "wof:lastmodified":1464125551,
+    "wof:name":"Foust Plumbing Co",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.777475,
+    34.947305,
+    -89.777475,
+    34.947305
+],
+  "geometry": {"coordinates":[-89.777475,34.947305],"type":"Point"}
+}

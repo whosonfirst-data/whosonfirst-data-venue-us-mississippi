@@ -1,0 +1,67 @@
+{
+  "id": 857249341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.668219,34.257712,-88.668219,34.257712",
+    "geom:latitude":34.257712,
+    "geom:longitude":-88.668219,
+    "iso:country":"US",
+    "sg:address":"1801 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 791 7731",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:website":"www.tcmm.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bAouoMLHtgBCWUDo9MxlB_34.257712_-88.668219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125228,
+    "wof:geomhash":"36991a7bc874e9c77d12010adf828c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857249341
+        }
+    ],
+    "wof:id":857249341,
+    "wof:lastmodified":1464125228,
+    "wof:name":"Tupelo Christian Academy",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.668219,
+    34.257712,
+    -88.668219,
+    34.257712
+],
+  "geometry": {"coordinates":[-88.66821899999999,34.257712],"type":"Point"}
+}

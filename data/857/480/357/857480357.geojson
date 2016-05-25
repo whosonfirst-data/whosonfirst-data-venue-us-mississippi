@@ -1,0 +1,69 @@
+{
+  "id": 857480357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.845449,34.965505,-89.845449,34.965505",
+    "geom:latitude":34.965505,
+    "geom:longitude":-89.845449,
+    "iso:country":"US",
+    "sg:address":"8230 Camp Creek Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/254798-peking-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 5558",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HtPhUCVxhn4MViyHoR7uk_34.965505_-89.845449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130376,
+    "wof:geomhash":"d049765fca9de6eac2af20e06a0025f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857480357
+        }
+    ],
+    "wof:id":857480357,
+    "wof:lastmodified":1464130376,
+    "wof:name":"Peking House",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.845449,
+    34.965505,
+    -89.845449,
+    34.965505
+],
+  "geometry": {"coordinates":[-89.845449,34.965505],"type":"Point"}
+}

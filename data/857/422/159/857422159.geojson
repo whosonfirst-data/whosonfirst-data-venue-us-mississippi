@@ -1,0 +1,71 @@
+{
+  "id": 857422159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795109,34.924671,-89.795109,34.924671",
+    "geom:latitude":34.924671,
+    "geom:longitude":-89.795109,
+    "iso:country":"US",
+    "sg:address":"4811 Bethel Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 9589",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZqIHLCvs0TuC0Nn7fbSb_34.924671_-89.795109@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129153,
+    "wof:geomhash":"6b645b19d61e7d2a7f297f0d4bf8db09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857422159
+        }
+    ],
+    "wof:id":857422159,
+    "wof:lastmodified":1464129153,
+    "wof:name":"Petes Olive BR Fgn Car Repr",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.795109,
+    34.924671,
+    -89.795109,
+    34.924671
+],
+  "geometry": {"coordinates":[-89.795109,34.924671],"type":"Point"}
+}

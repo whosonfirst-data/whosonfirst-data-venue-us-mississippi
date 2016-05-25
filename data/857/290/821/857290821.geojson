@@ -1,0 +1,71 @@
+{
+  "id": 857290821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.276527,32.760324,-90.276527,32.760324",
+    "geom:latitude":32.760324,
+    "geom:longitude":-90.276527,
+    "iso:country":"US",
+    "sg:address":"1765 Nod Rd",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 673 0389",
+    "sg:postcode":"39039",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rre23PWgzqVy84yYk60ho_32.760324_-90.276527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126164,
+    "wof:geomhash":"b7c76e784396f25abc3359f46d54342b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857290821
+        }
+    ],
+    "wof:id":857290821,
+    "wof:lastmodified":1464126164,
+    "wof:name":"Teresa Telecommunications Svc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.276527,
+    32.760324,
+    -90.276527,
+    32.760324
+],
+  "geometry": {"coordinates":[-90.276527,32.760324],"type":"Point"}
+}

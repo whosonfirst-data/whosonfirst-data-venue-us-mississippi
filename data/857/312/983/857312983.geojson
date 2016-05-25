@@ -1,0 +1,73 @@
+{
+  "id": 857312983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.406616,32.859115,-90.406616,32.859115",
+    "geom:latitude":32.859115,
+    "geom:longitude":-90.406616,
+    "iso:country":"US",
+    "sg:address":"247 E 8th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8584",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fkv3ZlvsAituticYRPPpn_32.859115_-90.406616@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126680,
+    "wof:geomhash":"45977a0a3f73e5856dde5d7a655c32b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857312983
+        }
+    ],
+    "wof:id":857312983,
+    "wof:lastmodified":1464126680,
+    "wof:name":"Blue Star Automotive",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.406616,
+    32.859115,
+    -90.406616,
+    32.859115
+],
+  "geometry": {"coordinates":[-90.406616,32.859115],"type":"Point"}
+}

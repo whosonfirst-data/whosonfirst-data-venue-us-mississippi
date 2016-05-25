@@ -1,0 +1,71 @@
+{
+  "id": 857187401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557015,30.579006,-88.557015,30.579006",
+    "geom:latitude":30.579006,
+    "geom:longitude":-88.557015,
+    "iso:country":"US",
+    "sg:address":"16236 McLean Rd",
+    "sg:city":"Hurley",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 588 2151",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_612C0C4eUuyFKWOUHMEUxX_30.579006_-88.557015@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123940,
+    "wof:geomhash":"7b7e789d94e0a6c4fb8ce07acd353cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857187401
+        }
+    ],
+    "wof:id":857187401,
+    "wof:lastmodified":1464123940,
+    "wof:name":"Miracle Temple Holiness Church",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.557015,
+    30.579006,
+    -88.557015,
+    30.579006
+],
+  "geometry": {"coordinates":[-88.55701500000001,30.579006],"type":"Point"}
+}

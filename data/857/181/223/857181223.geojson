@@ -1,0 +1,73 @@
+{
+  "id": 857181223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.422865,33.507429,-88.422865,33.507429",
+    "geom:latitude":33.507429,
+    "geom:longitude":-88.422865,
+    "iso:country":"US",
+    "sg:address":"1128 N 11th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0971",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dc3x9GMEP2OnLn7KvcryN_33.507429_-88.422865@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123819,
+    "wof:geomhash":"c93906187f454492d8d3b771c0ebd244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857181223
+        }
+    ],
+    "wof:id":857181223,
+    "wof:lastmodified":1464123819,
+    "wof:name":"Billingsley Farm LLC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.422865,
+    33.507429,
+    -88.422865,
+    33.507429
+],
+  "geometry": {"coordinates":[-88.422865,33.507429],"type":"Point"}
+}

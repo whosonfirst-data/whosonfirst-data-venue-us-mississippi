@@ -1,0 +1,75 @@
+{
+  "id": 857080641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.278132,31.280371,-89.278132,31.280371",
+    "geom:latitude":31.280371,
+    "geom:longitude":-89.278132,
+    "iso:country":"US",
+    "sg:address":"816 Laura St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1519",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YMF2ZhWNAXrCHOBvhYlwd_31.280371_-89.278132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121417,
+    "wof:geomhash":"0715f4855dd33b089e3baa253dac1226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857080641
+        }
+    ],
+    "wof:id":857080641,
+    "wof:lastmodified":1464121417,
+    "wof:name":"Circle G Trucking Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.278132,
+    31.280371,
+    -89.278132,
+    31.280371
+],
+  "geometry": {"coordinates":[-89.278132,31.280371],"type":"Point"}
+}

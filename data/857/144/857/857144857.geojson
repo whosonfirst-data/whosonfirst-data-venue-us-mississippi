@@ -1,0 +1,69 @@
+{
+  "id": 857144857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.474711,31.161269,-89.474711,31.161269",
+    "geom:latitude":31.161269,
+    "geom:longitude":-89.474711,
+    "iso:country":"US",
+    "sg:address":"306 Doc Johnson Rd",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 5557",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "squash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NBnBmSrw18WLbF2dWyY2D_31.161269_-89.474711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123032,
+    "wof:geomhash":"a5a2ed4c63e2057a6e3179919d5afadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857144857
+        }
+    ],
+    "wof:id":857144857,
+    "wof:lastmodified":1464123032,
+    "wof:name":"Anderson Farms",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "squash"
+    ]
+},
+  "bbox": [
+    -89.474711,
+    31.161269,
+    -89.474711,
+    31.161269
+],
+  "geometry": {"coordinates":[-89.474711,31.161269],"type":"Point"}
+}

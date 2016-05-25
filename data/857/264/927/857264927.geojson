@@ -1,0 +1,73 @@
+{
+  "id": 857264927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.228747,30.332951,-89.228747,30.332951",
+    "geom:latitude":30.332951,
+    "geom:longitude":-89.228747,
+    "iso:country":"US",
+    "sg:address":"707 E North St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 7005",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QnF3VzOq7GkCjZhJGJKJ1_30.332951_-89.228747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125591,
+    "wof:geomhash":"fa7cc05d76105af3ac1fa34ffb708c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857264927
+        }
+    ],
+    "wof:id":857264927,
+    "wof:lastmodified":1464125591,
+    "wof:name":"Oak Villa Apartments",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.228747,
+    30.332951,
+    -89.228747,
+    30.332951
+],
+  "geometry": {"coordinates":[-89.228747,30.332951],"type":"Point"}
+}

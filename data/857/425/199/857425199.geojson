@@ -1,0 +1,71 @@
+{
+  "id": 857425199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42967,33.52662,-88.42967,33.52662",
+    "geom:latitude":33.52662,
+    "geom:longitude":-88.42967,
+    "iso:country":"US",
+    "sg:address":"425 Hospital Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6953",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71usgTG48lB5bajwvOIqr9_33.526620_-88.429670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129232,
+    "wof:geomhash":"98ef81304e6d64f0a6a07dab86a85aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857425199
+        }
+    ],
+    "wof:id":857425199,
+    "wof:lastmodified":1464129232,
+    "wof:name":"Frank O Batson Jr DDS",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.42967,
+    33.52662,
+    -88.42967,
+    33.52662
+],
+  "geometry": {"coordinates":[-88.42967,33.52662],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857481745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.042312,32.381409,-90.042312,32.381409",
+    "geom:latitude":32.381409,
+    "geom:longitude":-90.042312,
+    "iso:country":"US",
+    "sg:address":"111 Spann Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/fannin/220756-braums-ice-cream--dairy-stores/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 9993",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eka7tdvecRLhRVxoI9tOl_32.381409_-90.042312@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130401,
+    "wof:geomhash":"d361356c1e31dfa6f0840bf1bfd802b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857481745
+        }
+    ],
+    "wof:id":857481745,
+    "wof:lastmodified":1464130401,
+    "wof:name":"Braum's Ice Cream & Dairy Stores",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.042312,
+    32.381409,
+    -90.042312,
+    32.381409
+],
+  "geometry": {"coordinates":[-90.042312,32.381409],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857361559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.897026,34.866822,-89.897026,34.866822",
+    "geom:latitude":34.866822,
+    "geom:longitude":-89.897026,
+    "iso:country":"US",
+    "sg:address":"64 Dixie Hill Dr",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 429 5418",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XBuYNhZmuTGVQsZEsbScv_34.866822_-89.897026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127732,
+    "wof:geomhash":"45ddb2731a95b67c976b381d6220b3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857361559
+        }
+    ],
+    "wof:id":857361559,
+    "wof:lastmodified":1464127732,
+    "wof:name":"Shannon Beauty Salon",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.897026,
+    34.866822,
+    -89.897026,
+    34.866822
+],
+  "geometry": {"coordinates":[-89.897026,34.866822],"type":"Point"}
+}

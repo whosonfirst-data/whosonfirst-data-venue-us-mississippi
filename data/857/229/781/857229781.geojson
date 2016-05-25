@@ -1,0 +1,73 @@
+{
+  "id": 857229781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.985546,31.957812,-90.985546,31.957812",
+    "geom:latitude":31.957812,
+    "geom:longitude":-90.985546,
+    "iso:country":"US",
+    "sg:address":"902 Market St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 5184",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ORRGDSPqCzEfXy7F9xLb5_31.957812_-90.985546@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124804,
+    "wof:geomhash":"0d032339b654b775482bbcbc94e7ca6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857229781
+        }
+    ],
+    "wof:id":857229781,
+    "wof:lastmodified":1464124804,
+    "wof:name":"Claiborne County Health Dept",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -90.985546,
+    31.957812,
+    -90.985546,
+    31.957812
+],
+  "geometry": {"coordinates":[-90.985546,31.957812],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857197535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.805542,34.962337,-89.805542,34.962337",
+    "geom:latitude":34.962337,
+    "geom:longitude":-89.805542,
+    "iso:country":"US",
+    "sg:address":"10368 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 5509",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S8rVDXyOn39sK8Q0DCvSo_34.962337_-89.805542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124128,
+    "wof:geomhash":"c6306438387e4256397251686e773180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857197535
+        }
+    ],
+    "wof:id":857197535,
+    "wof:lastmodified":1464124128,
+    "wof:name":"Branch Olive Animal Clinic",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.805542,
+    34.962337,
+    -89.805542,
+    34.962337
+],
+  "geometry": {"coordinates":[-89.805542,34.962337],"type":"Point"}
+}

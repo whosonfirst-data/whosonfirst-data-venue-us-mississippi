@@ -1,0 +1,73 @@
+{
+  "id": 857422055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.726616,32.494911,-88.726616,32.494911",
+    "geom:latitude":32.494911,
+    "geom:longitude":-88.726616,
+    "iso:country":"US",
+    "sg:address":"9011 Hwy 493",
+    "sg:city":"Bailey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 737 2451",
+    "sg:postcode":"39320",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bait",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IUer4aFvKgQKp2m19RH1X_32.494911_-88.726616@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129151,
+    "wof:geomhash":"cecea067b10d07d0f7b4a7cd5f472b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857422055
+        }
+    ],
+    "wof:id":857422055,
+    "wof:lastmodified":1464129151,
+    "wof:name":"Rogers Fish Farm",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bait",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -88.726616,
+    32.494911,
+    -88.726616,
+    32.494911
+],
+  "geometry": {"coordinates":[-88.72661600000001,32.494911],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857306737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697824,32.368828,-88.697824,32.368828",
+    "geom:latitude":32.368828,
+    "geom:longitude":-88.697824,
+    "iso:country":"US",
+    "sg:address":"1800 12th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 703 4065",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LpsJ3DBtnjYPdZUa3PlGU_32.368828_-88.697824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126552,
+    "wof:geomhash":"795dfab56c422bec895ec5ec19a891dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857306737
+        }
+    ],
+    "wof:id":857306737,
+    "wof:lastmodified":1464126552,
+    "wof:name":"Rush Cardiology Assoc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.697824,
+    32.368828,
+    -88.697824,
+    32.368828
+],
+  "geometry": {"coordinates":[-88.697824,32.368828],"type":"Point"}
+}

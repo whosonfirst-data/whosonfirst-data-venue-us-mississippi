@@ -1,0 +1,66 @@
+{
+  "id": 857151183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756702,30.408147,-88.756702,30.408147",
+    "geom:latitude":30.408147,
+    "geom:longitude":-88.756702,
+    "iso:country":"US",
+    "sg:address":"4027 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 0706",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0ZF7Vr995YmlHZg1Wjir_30.408147_-88.756702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123172,
+    "wof:geomhash":"1d1bd7a50c2a76a1daa152c08e010e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857151183
+        }
+    ],
+    "wof:id":857151183,
+    "wof:lastmodified":1464123172,
+    "wof:name":"Ocean Springs Quick Stop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.756702,
+    30.408147,
+    -88.756702,
+    30.408147
+],
+  "geometry": {"coordinates":[-88.756702,30.408147],"type":"Point"}
+}

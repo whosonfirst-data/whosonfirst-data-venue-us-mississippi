@@ -1,0 +1,75 @@
+{
+  "id": 857410211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.6471,34.265518,-88.6471,34.265518",
+    "geom:latitude":34.265518,
+    "geom:longitude":-88.6471,
+    "iso:country":"US",
+    "sg:address":"837 N Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 891 4500",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kBcAVdk8HieGWSS4v5Esk_34.265518_-88.647100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128844,
+    "wof:geomhash":"b6f9e609ff04c13c4c13a681f7567138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857410211
+        }
+    ],
+    "wof:id":857410211,
+    "wof:lastmodified":1464128844,
+    "wof:name":"Riverside Dedicated Logistics",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -88.6471,
+    34.265518,
+    -88.6471,
+    34.265518
+],
+  "geometry": {"coordinates":[-88.64709999999999,34.265518],"type":"Point"}
+}

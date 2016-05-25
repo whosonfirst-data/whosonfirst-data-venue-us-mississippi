@@ -1,0 +1,68 @@
+{
+  "id": 857244567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807041,33.458646,-88.807041,33.458646",
+    "geom:latitude":33.458646,
+    "geom:longitude":-88.807041,
+    "iso:country":"US",
+    "sg:address":"300 Russell St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3554",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85823781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hdTo6k0nVon2CFGULhYsf_33.458646_-88.807041@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125124,
+    "wof:geomhash":"50db9b21f098d3f046eb5f175c265577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85823781,
+            "region_id":85688579,
+            "venue_id":857244567
+        }
+    ],
+    "wof:id":857244567,
+    "wof:lastmodified":1464125124,
+    "wof:name":"East Mississippi Lumber Co",
+    "wof:parent_id":85823781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.807041,
+    33.458646,
+    -88.807041,
+    33.458646
+],
+  "geometry": {"coordinates":[-88.807041,33.458646],"type":"Point"}
+}

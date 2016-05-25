@@ -1,0 +1,71 @@
+{
+  "id": 857296117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.331358,32.302526,-90.331358,32.302526",
+    "geom:latitude":32.302526,
+    "geom:longitude":-90.331358,
+    "iso:country":"US",
+    "sg:address":"204 Tulane Dr",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 3773",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZofAb6oEqt9A4q5VpnrmA_32.302526_-90.331358@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126327,
+    "wof:geomhash":"87152a99769995d4ebc71454a74b19f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857296117
+        }
+    ],
+    "wof:id":857296117,
+    "wof:lastmodified":1464126327,
+    "wof:name":"W & W Construction",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.331358,
+    32.302526,
+    -90.331358,
+    32.302526
+],
+  "geometry": {"coordinates":[-90.33135799999999,32.302526],"type":"Point"}
+}

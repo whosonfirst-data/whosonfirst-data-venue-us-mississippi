@@ -1,0 +1,71 @@
+{
+  "id": 857213983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.848092,33.45001,-88.848092,33.45001",
+    "geom:latitude":33.45001,
+    "geom:longitude":-88.848092,
+    "iso:country":"US",
+    "sg:address":"101 G T Thames Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 0358",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bCBfJZkl2MEZ93vNXvfsl_33.450010_-88.848092@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124486,
+    "wof:geomhash":"48e01c1f25b10a9cd2e0570f0b950499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857213983
+        }
+    ],
+    "wof:id":857213983,
+    "wof:lastmodified":1464124486,
+    "wof:name":"Bill Mann & Associates",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -88.848092,
+    33.45001,
+    -88.848092,
+    33.45001
+],
+  "geometry": {"coordinates":[-88.84809199999999,33.45001],"type":"Point"}
+}

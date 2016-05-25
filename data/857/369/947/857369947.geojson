@@ -1,0 +1,71 @@
+{
+  "id": 857369947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.595119,34.36003,-89.595119,34.36003",
+    "geom:latitude":34.36003,
+    "geom:longitude":-89.595119,
+    "iso:country":"US",
+    "sg:address":"451 Hwy 6 W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9067",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NZffOwBQT7GruUjjfpqCb_34.360030_-89.595119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127905,
+    "wof:geomhash":"9b8c3e638df9bda8dc6b33382da8c4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857369947
+        }
+    ],
+    "wof:id":857369947,
+    "wof:lastmodified":1464127905,
+    "wof:name":"BellSouth",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -89.595119,
+    34.36003,
+    -89.595119,
+    34.36003
+],
+  "geometry": {"coordinates":[-89.595119,34.36003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857217871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.140501,32.279373,-90.140501,32.279373",
+    "geom:latitude":32.279373,
+    "geom:longitude":-90.140501,
+    "iso:country":"US",
+    "sg:address":"2211 Hwy 80 E",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 7211",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969947,
+        102084869,
+        85833739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mJqBRQTxS6xhMQjWmc5Y5_32.279373_-90.140501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124571,
+    "wof:geomhash":"bdd2ff8672549a1ce4985e9997c3771f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85833739,
+            "region_id":85688579,
+            "venue_id":857217871
+        }
+    ],
+    "wof:id":857217871,
+    "wof:lastmodified":1464124571,
+    "wof:name":"Larry's Truck Sales",
+    "wof:parent_id":85833739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.140501,
+    32.279373,
+    -90.140501,
+    32.279373
+],
+  "geometry": {"coordinates":[-90.140501,32.279373],"type":"Point"}
+}

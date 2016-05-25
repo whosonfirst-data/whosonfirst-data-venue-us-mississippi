@@ -1,0 +1,76 @@
+{
+  "id": 857252301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.587314,34.198477,-90.587314,34.198477",
+    "geom:latitude":34.198477,
+    "geom:longitude":-90.587314,
+    "iso:country":"US",
+    "sg:address":"520 Cherry St",
+    "sg:city":"Marks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 326 2411",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil",
+        "mills",
+        "soybean"
+    ],
+    "sg:website":"www.bunge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I91D0XJUSI0Kn73Pc0FkO_34.198477_-90.587314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125302,
+    "wof:geomhash":"647b6770d29a56fda8edc0c8ce8e3d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857252301
+        }
+    ],
+    "wof:id":857252301,
+    "wof:lastmodified":1464125302,
+    "wof:name":"Bunge Oilseed Processing",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "mills",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -90.587314,
+    34.198477,
+    -90.587314,
+    34.198477
+],
+  "geometry": {"coordinates":[-90.58731400000001,34.198477],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857229675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639914,34.5023,-88.639914,34.5023",
+    "geom:latitude":34.5023,
+    "geom:longitude":-88.639914,
+    "iso:country":"US",
+    "sg:address":"675 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 5122",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GmJkcNUTFMMwYD1zn0ekC_34.502300_-88.639914@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124802,
+    "wof:geomhash":"56263579909029a4609378d018091a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857229675
+        }
+    ],
+    "wof:id":857229675,
+    "wof:lastmodified":1464124802,
+    "wof:name":"Grace Baptist Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.639914,
+    34.5023,
+    -88.639914,
+    34.5023
+],
+  "geometry": {"coordinates":[-88.639914,34.5023],"type":"Point"}
+}

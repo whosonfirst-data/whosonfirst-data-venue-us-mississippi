@@ -1,0 +1,71 @@
+{
+  "id": 857254117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566439,34.199106,-90.566439,34.199106",
+    "geom:latitude":34.199106,
+    "geom:longitude":-90.566439,
+    "iso:country":"US",
+    "sg:address":"500 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2872",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zud4Zf7L8wi3ru05V9GNw_34.199106_-90.566439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125349,
+    "wof:geomhash":"60d115e843910233bde3207a700e28d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857254117
+        }
+    ],
+    "wof:id":857254117,
+    "wof:lastmodified":1464125349,
+    "wof:name":"Memorial Hospice Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -90.566439,
+    34.199106,
+    -90.566439,
+    34.199106
+],
+  "geometry": {"coordinates":[-90.566439,34.199106],"type":"Point"}
+}

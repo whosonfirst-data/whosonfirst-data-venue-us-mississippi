@@ -1,0 +1,73 @@
+{
+  "id": 857148969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.904773,32.074903,-89.904773,32.074903",
+    "geom:latitude":32.074903,
+    "geom:longitude":-89.904773,
+    "iso:country":"US",
+    "sg:address":"543 Charlie Dixon Rd",
+    "sg:city":"Braxton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 5852",
+    "sg:postcode":"39044",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hauler",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zcy70z0Di9elGfmECl9zV_32.074903_-89.904773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123123,
+    "wof:geomhash":"207832faab5ce2bca47427edcd76ffef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857148969
+        }
+    ],
+    "wof:id":857148969,
+    "wof:lastmodified":1464123123,
+    "wof:name":"Sand & Gravel Co",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauler",
+        "gravel"
+    ]
+},
+  "bbox": [
+    -89.904773,
+    32.074903,
+    -89.904773,
+    32.074903
+],
+  "geometry": {"coordinates":[-89.90477300000001,32.074903],"type":"Point"}
+}

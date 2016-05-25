@@ -1,0 +1,71 @@
+{
+  "id": 857124629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.759288,34.381091,-88.759288,34.381091",
+    "geom:latitude":34.381091,
+    "geom:longitude":-88.759288,
+    "iso:country":"US",
+    "sg:address":"1004 Birmingham Ridge Rd",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 1223",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lbj2KpzL7YEtEvOq4trnS_34.381091_-88.759288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122563,
+    "wof:geomhash":"2229c0c83cf7317e8fc100c4a3185016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857124629
+        }
+    ],
+    "wof:id":857124629,
+    "wof:lastmodified":1464122563,
+    "wof:name":"North Lee County Water Assn",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.759288,
+    34.381091,
+    -88.759288,
+    34.381091
+],
+  "geometry": {"coordinates":[-88.759288,34.381091],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857362261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708707,34.371712,-88.708707,34.371712",
+    "geom:latitude":34.371712,
+    "geom:longitude":-88.708707,
+    "iso:country":"US",
+    "sg:address":"833 Old Hwy 45",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 8384",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KmXE9o1qjvV7Saco5hWXn_34.371712_-88.708707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127747,
+    "wof:geomhash":"1ea89664397388d4204c84e5c5b4e9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857362261
+        }
+    ],
+    "wof:id":857362261,
+    "wof:lastmodified":1464127747,
+    "wof:name":"Morgan's Quick Stop",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.708707,
+    34.371712,
+    -88.708707,
+    34.371712
+],
+  "geometry": {"coordinates":[-88.708707,34.371712],"type":"Point"}
+}

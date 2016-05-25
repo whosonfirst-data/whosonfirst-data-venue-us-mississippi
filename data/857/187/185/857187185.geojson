@@ -1,0 +1,71 @@
+{
+  "id": 857187185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.73437,34.198551,-88.73437,34.198551",
+    "geom:latitude":34.198551,
+    "geom:longitude":-88.73437,
+    "iso:country":"US",
+    "sg:address":"204 West Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 2058",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_082kBhKh6xmMAlLHKVf99v_34.198551_-88.734370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123936,
+    "wof:geomhash":"16531e1c11e623e1ec751cfff668f251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857187185
+        }
+    ],
+    "wof:id":857187185,
+    "wof:lastmodified":1464123936,
+    "wof:name":"Creative Iron",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -88.73437,
+    34.198551,
+    -88.73437,
+    34.198551
+],
+  "geometry": {"coordinates":[-88.73437,34.198551],"type":"Point"}
+}

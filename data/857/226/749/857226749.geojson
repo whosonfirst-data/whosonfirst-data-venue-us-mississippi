@@ -1,0 +1,71 @@
+{
+  "id": 857226749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.587723,32.406027,-88.587723,32.406027",
+    "geom:latitude":32.406027,
+    "geom:longitude":-88.587723,
+    "iso:country":"US",
+    "sg:address":"1939 Hwy 11 and 80",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3443",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AvGtitFNU19Mzt3itMpue_32.406027_-88.587723@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124743,
+    "wof:geomhash":"935b715bad9db4b59a31dc11951cc2af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857226749
+        }
+    ],
+    "wof:id":857226749,
+    "wof:lastmodified":1464124743,
+    "wof:name":"Belks Boat Repair",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -88.587723,
+    32.406027,
+    -88.587723,
+    32.406027
+],
+  "geometry": {"coordinates":[-88.587723,32.406027],"type":"Point"}
+}

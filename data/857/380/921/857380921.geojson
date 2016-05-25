@@ -1,0 +1,73 @@
+{
+  "id": 857380921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510675,34.362766,-89.510675,34.362766",
+    "geom:latitude":34.362766,
+    "geom:longitude":-89.510675,
+    "iso:country":"US",
+    "sg:address":"1814 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3696",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KsGYZ5opfh0CGip4iNsxs_34.362766_-89.510675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128147,
+    "wof:geomhash":"79d1208f5b3d56fe5d2654a9be18dfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857380921
+        }
+    ],
+    "wof:id":857380921,
+    "wof:lastmodified":1464128147,
+    "wof:name":"Shell Rapid Lube",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -89.510675,
+    34.362766,
+    -89.510675,
+    34.362766
+],
+  "geometry": {"coordinates":[-89.51067500000001,34.362766],"type":"Point"}
+}

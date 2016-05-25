@@ -1,0 +1,75 @@
+{
+  "id": 857364959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.731082,32.499909,-88.731082,32.499909",
+    "geom:latitude":32.499909,
+    "geom:longitude":-88.731082,
+    "iso:country":"US",
+    "sg:address":"9181 Gum Logging Rd",
+    "sg:city":"Bailey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 737 4753",
+    "sg:postcode":"39320",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IVbwiLsvXDU1qvxnM5cZl_32.499909_-88.731082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127804,
+    "wof:geomhash":"807c858d7144554781fcf8df3cbb2f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857364959
+        }
+    ],
+    "wof:id":857364959,
+    "wof:lastmodified":1464127804,
+    "wof:name":"Kenneth McFarland",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.731082,
+    32.499909,
+    -88.731082,
+    32.499909
+],
+  "geometry": {"coordinates":[-88.731082,32.499909],"type":"Point"}
+}

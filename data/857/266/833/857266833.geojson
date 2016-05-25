@@ -1,0 +1,71 @@
+{
+  "id": 857266833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.427249,31.290674,-89.427249,31.290674",
+    "geom:latitude":31.290674,
+    "geom:longitude":-89.427249,
+    "iso:country":"US",
+    "sg:address":"16 Bluebeard Pt",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 3688",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ejEceRmnK16PuYoJ7aJVT_31.290674_-89.427249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125626,
+    "wof:geomhash":"b7fb1f73cfc3f06dd5d4ce50c114d7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857266833
+        }
+    ],
+    "wof:id":857266833,
+    "wof:lastmodified":1464125626,
+    "wof:name":"Oakgrove Motors",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.427249,
+    31.290674,
+    -89.427249,
+    31.290674
+],
+  "geometry": {"coordinates":[-89.427249,31.290674],"type":"Point"}
+}

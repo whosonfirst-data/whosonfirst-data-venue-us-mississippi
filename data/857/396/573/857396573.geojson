@@ -1,0 +1,71 @@
+{
+  "id": 857396573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.878872,30.460986,-88.878872,30.460986",
+    "geom:latitude":30.460986,
+    "geom:longitude":-88.878872,
+    "iso:country":"US",
+    "sg:address":"8017 Cimarron Ave",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 5132",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QY8XuPEC2ZLzLOPEPW7nL_30.460986_-88.878872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128560,
+    "wof:geomhash":"b55c0a4fde0f81e856e286a73f1d71d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857396573
+        }
+    ],
+    "wof:id":857396573,
+    "wof:lastmodified":1464128560,
+    "wof:name":"Glens Garage",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.878872,
+    30.460986,
+    -88.878872,
+    30.460986
+],
+  "geometry": {"coordinates":[-88.878872,30.460986],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857113895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.184288,30.358502,-89.184288,30.358502",
+    "geom:latitude":30.358502,
+    "geom:longitude":-89.184288,
+    "iso:country":"US",
+    "sg:address":"13 Northwood Dr",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 5832",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zmj5s9eSmX4qWhDT95K5v_30.358502_-89.184288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122281,
+    "wof:geomhash":"03bf1733775d65dbe91ae4387910a60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857113895
+        }
+    ],
+    "wof:id":857113895,
+    "wof:lastmodified":1464122281,
+    "wof:name":"Wam Inc",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -89.184288,
+    30.358502,
+    -89.184288,
+    30.358502
+],
+  "geometry": {"coordinates":[-89.184288,30.358502],"type":"Point"}
+}

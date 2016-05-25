@@ -1,0 +1,73 @@
+{
+  "id": 857163323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659566,33.916643,-88.659566,33.916643",
+    "geom:latitude":33.916643,
+    "geom:longitude":-88.659566,
+    "iso:country":"US",
+    "sg:address":"20015 Red Dr",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 319 9022",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ANyhNS6efo9eL46VU4RrM_33.916643_-88.659566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123429,
+    "wof:geomhash":"e77168e25976ce586b2a4843ba4e9bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857163323
+        }
+    ],
+    "wof:id":857163323,
+    "wof:lastmodified":1464123429,
+    "wof:name":"Red's Handyman",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.659566,
+    33.916643,
+    -88.659566,
+    33.916643
+],
+  "geometry": {"coordinates":[-88.659566,33.916643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857326245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510292,34.342945,-89.510292,34.342945",
+    "geom:latitude":34.342945,
+    "geom:longitude":-89.510292,
+    "iso:country":"US",
+    "sg:address":"1760 Barron St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3412",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E7ueES8H484nQWsihnPyy_34.342945_-89.510292@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126973,
+    "wof:geomhash":"a90fb3706fb5a4f3f716c06bf6429fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857326245
+        }
+    ],
+    "wof:id":857326245,
+    "wof:lastmodified":1464126973,
+    "wof:name":"North Miss Svcs Oxford Un",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.510292,
+    34.342945,
+    -89.510292,
+    34.342945
+],
+  "geometry": {"coordinates":[-89.51029200000001,34.342945],"type":"Point"}
+}

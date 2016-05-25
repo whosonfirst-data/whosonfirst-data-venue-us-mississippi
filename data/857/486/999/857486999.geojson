@@ -1,0 +1,71 @@
+{
+  "id": 857486999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.615879,34.164261,-90.615879,34.164261",
+    "geom:latitude":34.164261,
+    "geom:longitude":-90.615879,
+    "iso:country":"US",
+    "sg:address":"170 Flowers Catalina Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8720",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UywyTpoMHeTgJqXxDIABq_34.164261_-90.615879@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130503,
+    "wof:geomhash":"2fc4cbf742a3b2b1140e23f7e11a803f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486999
+        }
+    ],
+    "wof:id":857486999,
+    "wof:lastmodified":1464130503,
+    "wof:name":"John B Willis",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.615879,
+    34.164261,
+    -90.615879,
+    34.164261
+],
+  "geometry": {"coordinates":[-90.61587900000001,34.164261],"type":"Point"}
+}

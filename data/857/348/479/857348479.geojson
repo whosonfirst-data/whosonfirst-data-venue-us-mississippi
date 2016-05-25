@@ -1,0 +1,73 @@
+{
+  "id": 857348479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542449,30.402639,-88.542449,30.402639",
+    "geom:latitude":30.402639,
+    "geom:longitude":-88.542449,
+    "iso:country":"US",
+    "sg:address":"4274 Bayou Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 7467",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l1wGLMHBYPKysR3GLdkyM_30.402639_-88.542449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127453,
+    "wof:geomhash":"99b5b1029fde793f053172de833d8ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857348479
+        }
+    ],
+    "wof:id":857348479,
+    "wof:lastmodified":1464127453,
+    "wof:name":"Harris Electronics Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -88.542449,
+    30.402639,
+    -88.542449,
+    30.402639
+],
+  "geometry": {"coordinates":[-88.542449,30.402639],"type":"Point"}
+}

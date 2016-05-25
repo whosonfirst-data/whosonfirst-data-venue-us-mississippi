@@ -1,0 +1,72 @@
+{
+  "id": 857100255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.262909,31.3417,-89.262909,31.3417",
+    "geom:latitude":31.3417,
+    "geom:longitude":-89.262909,
+    "iso:country":"US",
+    "sg:address":"418 S Main St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0440",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.gbgm-umc.org/petalumc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KJIzRSu40BxXTmMeh58a6_31.341700_-89.262909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121915,
+    "wof:geomhash":"ebc48f8fc2150db1de0ab80b75598928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857100255
+        }
+    ],
+    "wof:id":857100255,
+    "wof:lastmodified":1464121915,
+    "wof:name":"Petal United Methodist Church",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.262909,
+    31.3417,
+    -89.262909,
+    31.3417
+],
+  "geometry": {"coordinates":[-89.26290899999999,31.3417],"type":"Point"}
+}

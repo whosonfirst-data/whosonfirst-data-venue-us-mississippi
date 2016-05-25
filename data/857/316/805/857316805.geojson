@@ -1,0 +1,73 @@
+{
+  "id": 857316805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.942494,30.495619,-88.942494,30.495619",
+    "geom:latitude":30.495619,
+    "geom:longitude":-88.942494,
+    "iso:country":"US",
+    "sg:address":"14339 Hudson Krohn Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 0690",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N8wJ4j2BjaR5yCXyBj8YZ_30.495619_-88.942494@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126761,
+    "wof:geomhash":"7927901748afb1a4154cc06765834825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857316805
+        }
+    ],
+    "wof:id":857316805,
+    "wof:lastmodified":1464126761,
+    "wof:name":"Coastal Recyclers",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -88.942494,
+    30.495619,
+    -88.942494,
+    30.495619
+],
+  "geometry": {"coordinates":[-88.942494,30.495619],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857412337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659045,33.620613,-88.659045,33.620613",
+    "geom:latitude":33.620613,
+    "geom:longitude":-88.659045,
+    "iso:country":"US",
+    "sg:address":"1005 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1786",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RzgOhLYI1KyF2eeLSC03b_33.620613_-88.659045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128910,
+    "wof:geomhash":"5965aad3d984e112ac924258c01efefa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857412337
+        }
+    ],
+    "wof:id":857412337,
+    "wof:lastmodified":1464128910,
+    "wof:name":"Flexible Flyer",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -88.659045,
+    33.620613,
+    -88.659045,
+    33.620613
+],
+  "geometry": {"coordinates":[-88.65904500000001,33.620613],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857276005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059105,32.356506,-90.059105,32.356506",
+    "geom:latitude":32.356506,
+    "geom:longitude":-90.059105,
+    "iso:country":"US",
+    "sg:address":"135 Cox Ave",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 1582",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85814785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jcemXSvedGWOPNzspZjjM_32.356506_-90.059105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125810,
+    "wof:geomhash":"92b3578e891f8f800cd42cd4f2e6e822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85814785,
+            "region_id":85688579,
+            "venue_id":857276005
+        }
+    ],
+    "wof:id":857276005,
+    "wof:lastmodified":1464125810,
+    "wof:name":"Cox's Cumrovin Camp Ground",
+    "wof:parent_id":85814785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.059105,
+    32.356506,
+    -90.059105,
+    32.356506
+],
+  "geometry": {"coordinates":[-90.059105,32.356506],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857482835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.219818,32.263219,-90.219818,32.263219",
+    "geom:latitude":32.263219,
+    "geom:longitude":-90.219818,
+    "iso:country":"US",
+    "sg:address":"2974 Terry Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/raymond/183231-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 372 8212",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K2s85tMO2lxpPtJjJScXE_32.263219_-90.219818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130425,
+    "wof:geomhash":"9aed9e451688ff2178d3789875913d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857482835
+        }
+    ],
+    "wof:id":857482835,
+    "wof:lastmodified":1464130425,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.219818,
+    32.263219,
+    -90.219818,
+    32.263219
+],
+  "geometry": {"coordinates":[-90.219818,32.263219],"type":"Point"}
+}

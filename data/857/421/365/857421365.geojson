@@ -1,0 +1,73 @@
+{
+  "id": 857421365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685919,34.248248,-88.685919,34.248248",
+    "geom:latitude":34.248248,
+    "geom:longitude":-88.685919,
+    "iso:country":"US",
+    "sg:address":"503 S Veterans Blvd",
+    "sg:city":"Booneville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 728 5700",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JhmcDM3gLzloINRUSJVXo_34.248248_-88.685919@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129135,
+    "wof:geomhash":"fab77c1e6d29d2e73e7ca3d5136ec644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857421365
+        }
+    ],
+    "wof:id":857421365,
+    "wof:lastmodified":1464129135,
+    "wof:name":"Ms Auto Salvage",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -88.685919,
+    34.248248,
+    -88.685919,
+    34.248248
+],
+  "geometry": {"coordinates":[-88.685919,34.248248],"type":"Point"}
+}

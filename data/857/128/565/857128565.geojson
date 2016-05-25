@@ -1,0 +1,71 @@
+{
+  "id": 857128565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.535162,30.388818,-88.535162,30.388818",
+    "geom:latitude":30.388818,
+    "geom:longitude":-88.535162,
+    "iso:country":"US",
+    "sg:address":"5712 Telephone Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 9656",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HrpwCmb6mtDlZ1ugndtVK_30.388818_-88.535162@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122638,
+    "wof:geomhash":"a51eddd3e846c12c1dba1b049af9b71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857128565
+        }
+    ],
+    "wof:id":857128565,
+    "wof:lastmodified":1464122638,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.535162,
+    30.388818,
+    -88.535162,
+    30.388818
+],
+  "geometry": {"coordinates":[-88.535162,30.388818],"type":"Point"}
+}

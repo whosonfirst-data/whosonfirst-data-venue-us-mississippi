@@ -1,0 +1,75 @@
+{
+  "id": 857095327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.130347,32.14295,-90.130347,32.14295",
+    "geom:latitude":32.14295,
+    "geom:longitude":-90.130347,
+    "iso:country":"US",
+    "sg:address":"207 S Church St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 7479",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59NY271nCV3L33dbnQyHO9_32.142950_-90.130347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121795,
+    "wof:geomhash":"6a622175bbd9a9eb23f42807d04d310f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857095327
+        }
+    ],
+    "wof:id":857095327,
+    "wof:lastmodified":1464121795,
+    "wof:name":"Childrens Workshop Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -90.130347,
+    32.14295,
+    -90.130347,
+    32.14295
+],
+  "geometry": {"coordinates":[-90.130347,32.14295],"type":"Point"}
+}

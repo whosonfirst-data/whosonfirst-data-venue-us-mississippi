@@ -1,0 +1,68 @@
+{
+  "id": 857106775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.321632,31.324786,-89.321632,31.324786",
+    "geom:latitude":31.324786,
+    "geom:longitude":-89.321632,
+    "iso:country":"US",
+    "sg:address":"2017 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6642",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y24EImR7lNtEPmqX6lEsv_31.324786_-89.321632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122065,
+    "wof:geomhash":"24943ca7aa3ff0a84d909868b7bb8b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857106775
+        }
+    ],
+    "wof:id":857106775,
+    "wof:lastmodified":1464122065,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.321632,
+    31.324786,
+    -89.321632,
+    31.324786
+],
+  "geometry": {"coordinates":[-89.32163199999999,31.324786],"type":"Point"}
+}

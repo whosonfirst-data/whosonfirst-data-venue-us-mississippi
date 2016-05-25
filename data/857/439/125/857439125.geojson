@@ -1,0 +1,73 @@
+{
+  "id": 857439125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.136301,32.06597,-90.136301,32.06597",
+    "geom:latitude":32.06597,
+    "geom:longitude":-90.136301,
+    "iso:country":"US",
+    "sg:address":"1614 Hwy 469 S",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 0759",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13CYrl1ec4iQFa8RTa4nHj_32.065970_-90.136301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129553,
+    "wof:geomhash":"7d9c665b7e53713323f630b4ce15f150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857439125
+        }
+    ],
+    "wof:id":857439125,
+    "wof:lastmodified":1464129553,
+    "wof:name":"Fragrant Flames",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.136301,
+    32.06597,
+    -90.136301,
+    32.06597
+],
+  "geometry": {"coordinates":[-90.136301,32.06597],"type":"Point"}
+}

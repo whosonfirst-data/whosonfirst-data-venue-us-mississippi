@@ -1,0 +1,73 @@
+{
+  "id": 857332079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.025728,34.503243,-89.025728,34.503243",
+    "geom:latitude":34.503243,
+    "geom:longitude":-89.025728,
+    "iso:country":"US",
+    "sg:address":"110 Brittany Dr",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 9013",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_115A8ZGl77sg0QoVnnhrQR_34.503243_-89.025728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127102,
+    "wof:geomhash":"0a6a94370df2425e4404d8840468bd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857332079
+        }
+    ],
+    "wof:id":857332079,
+    "wof:lastmodified":1464127102,
+    "wof:name":"Bishops Photography",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -89.025728,
+    34.503243,
+    -89.025728,
+    34.503243
+],
+  "geometry": {"coordinates":[-89.025728,34.503243],"type":"Point"}
+}

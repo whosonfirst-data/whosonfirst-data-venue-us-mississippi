@@ -1,0 +1,71 @@
+{
+  "id": 857250597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.535968,30.379958,-88.535968,30.379958",
+    "geom:latitude":30.379958,
+    "geom:longitude":-88.535968,
+    "iso:country":"US",
+    "sg:address":"2406 Catalpa Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 0818",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LzBODSAqkpCE40d7gGhzW_30.379958_-88.535968@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125257,
+    "wof:geomhash":"023eadbc532c280bbae4c9b1b4cddd71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857250597
+        }
+    ],
+    "wof:id":857250597,
+    "wof:lastmodified":1464125257,
+    "wof:name":"Ms Coast Endoscopy Surgery Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.535968,
+    30.379958,
+    -88.535968,
+    30.379958
+],
+  "geometry": {"coordinates":[-88.535968,30.379958],"type":"Point"}
+}

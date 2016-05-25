@@ -1,0 +1,73 @@
+{
+  "id": 857162579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.642662,33.616164,-88.642662,33.616164",
+    "geom:latitude":33.616164,
+    "geom:longitude":-88.642662,
+    "iso:country":"US",
+    "sg:address":"730 Center St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 7167",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SdvKqDzO1nlav8IYwQdAz_33.616164_-88.642662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123416,
+    "wof:geomhash":"1235042f8f3f4b27f8656f2df55dec77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857162579
+        }
+    ],
+    "wof:id":857162579,
+    "wof:lastmodified":1464123416,
+    "wof:name":"Skin & Allergy Clinic",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.642662,
+    33.616164,
+    -88.642662,
+    33.616164
+],
+  "geometry": {"coordinates":[-88.642662,33.616164],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857391269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527335,30.368391,-88.527335,30.368391",
+    "geom:latitude":30.368391,
+    "geom:longitude":-88.527335,
+    "iso:country":"US",
+    "sg:address":"3426 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 934 2447",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pfk6lIxbBfmGoYOzQEqo7_30.368391_-88.527335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128454,
+    "wof:geomhash":"df791a1626c4899cd85baca22bc1e884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857391269
+        }
+    ],
+    "wof:id":857391269,
+    "wof:lastmodified":1464128454,
+    "wof:name":"Bentwrench Automotive",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.527335,
+    30.368391,
+    -88.527335,
+    30.368391
+],
+  "geometry": {"coordinates":[-88.52733499999999,30.368391],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857298599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.851102,32.331507,-90.851102,32.331507",
+    "geom:latitude":32.331507,
+    "geom:longitude":-90.851102,
+    "iso:country":"US",
+    "sg:address":"205 Avalon Ct",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7996",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FxOEekfmuELxxDVXKFShp_32.331507_-90.851102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126379,
+    "wof:geomhash":"17e4f253c397218b251c7b2f44616dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857298599
+        }
+    ],
+    "wof:id":857298599,
+    "wof:lastmodified":1464126379,
+    "wof:name":"Horizon Properties Vicksburg",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.851102,
+    32.331507,
+    -90.851102,
+    32.331507
+],
+  "geometry": {"coordinates":[-90.851102,32.331507],"type":"Point"}
+}

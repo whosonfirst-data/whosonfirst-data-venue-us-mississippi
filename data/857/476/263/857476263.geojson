@@ -1,0 +1,75 @@
+{
+  "id": 857476263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575378,34.200936,-90.575378,34.200936",
+    "geom:latitude":34.200936,
+    "geom:longitude":-90.575378,
+    "iso:country":"US",
+    "sg:address":"121 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 8139",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "city",
+        "police"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OOlgY4UptRnthAzIo67SO_34.201057_-90.575464@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130301,
+    "wof:geomhash":"391e918ac645d6f2a54d94fec26132d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857476263
+        }
+    ],
+    "wof:id":857476263,
+    "wof:lastmodified":1464130301,
+    "wof:name":"Clarksdale City Of",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "city",
+        "police"
+    ]
+},
+  "bbox": [
+    -90.575378,
+    34.200936,
+    -90.575378,
+    34.200936
+],
+  "geometry": {"coordinates":[-90.575378,34.200936],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857213539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.850353,32.337676,-90.850353,32.337676",
+    "geom:latitude":32.337676,
+    "geom:longitude":-90.850353,
+    "iso:country":"US",
+    "sg:address":"3506 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7970",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Y4Z3OQ7EkOZviE2X878V_32.337676_-90.850353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124474,
+    "wof:geomhash":"8485ce7efd5c33f9fd562c0e38964f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857213539
+        }
+    ],
+    "wof:id":857213539,
+    "wof:lastmodified":1464124474,
+    "wof:name":"US Marine Corps Recruiting",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -90.850353,
+    32.337676,
+    -90.850353,
+    32.337676
+],
+  "geometry": {"coordinates":[-90.850353,32.337676],"type":"Point"}
+}

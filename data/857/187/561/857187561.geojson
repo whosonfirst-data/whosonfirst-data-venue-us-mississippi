@@ -1,0 +1,73 @@
+{
+  "id": 857187561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655729,30.404982,-88.655729,30.404982",
+    "geom:latitude":30.404982,
+    "geom:longitude":-88.655729,
+    "iso:country":"US",
+    "sg:address":"4401 Gautier Vancleave Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 4295",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wRhbSBYO98jtPWqukDzmL_30.404982_-88.655729@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123943,
+    "wof:geomhash":"487ff6b3b78e4bd26dd2cc6a2d5fd7cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857187561
+        }
+    ],
+    "wof:id":857187561,
+    "wof:lastmodified":1464123943,
+    "wof:name":"Town & Country Veterinary Hosp",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -88.655729,
+    30.404982,
+    -88.655729,
+    30.404982
+],
+  "geometry": {"coordinates":[-88.65572899999999,30.404982],"type":"Point"}
+}

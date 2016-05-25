@@ -1,0 +1,77 @@
+{
+  "id": 857110541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.31046,31.310927,-89.31046,31.310927",
+    "geom:latitude":31.310927,
+    "geom:longitude":-89.31046,
+    "iso:country":"US",
+    "sg:address":"1801 Corinne St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 2346",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nzeh2pqgJiXtSeTqCWEwW_31.310927_-89.310460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122182,
+    "wof:geomhash":"3687498363f35491e025c5be371abde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857110541
+        }
+    ],
+    "wof:id":857110541,
+    "wof:lastmodified":1464122182,
+    "wof:name":"Touchstone Motor Sales Inc",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.31046,
+    31.310927,
+    -89.31046,
+    31.310927
+],
+  "geometry": {"coordinates":[-89.31046000000001,31.310927],"type":"Point"}
+}

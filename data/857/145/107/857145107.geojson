@@ -1,0 +1,71 @@
+{
+  "id": 857145107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.223308,32.711722,-90.223308,32.711722",
+    "geom:latitude":32.711722,
+    "geom:longitude":-90.223308,
+    "iso:country":"US",
+    "sg:address":"6715 Scotland Rd",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 673 1001",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3emsONWmHUDeHOQNbCGycm_32.711722_-90.223308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123044,
+    "wof:geomhash":"243dccb94d20f1b9e83d0a9c2db0e861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857145107
+        }
+    ],
+    "wof:id":857145107,
+    "wof:lastmodified":1464123044,
+    "wof:name":"Knight Market & Grocery",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.223308,
+    32.711722,
+    -90.223308,
+    32.711722
+],
+  "geometry": {"coordinates":[-90.223308,32.711722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857168255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.538081,30.410224,-88.538081,30.410224",
+    "geom:latitude":30.410224,
+    "geom:longitude":-88.538081,
+    "iso:country":"US",
+    "sg:address":"4412 Welch Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 1151",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a9495VDOUkrKVO3HO6nfk_30.410224_-88.538081@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123538,
+    "wof:geomhash":"717ca9399622a96f2ee6b638fa85786f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857168255
+        }
+    ],
+    "wof:id":857168255,
+    "wof:lastmodified":1464123538,
+    "wof:name":"Dept of Water Works",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -88.538081,
+    30.410224,
+    -88.538081,
+    30.410224
+],
+  "geometry": {"coordinates":[-88.53808100000001,30.410224],"type":"Point"}
+}

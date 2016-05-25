@@ -1,0 +1,73 @@
+{
+  "id": 857340453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428911,33.521642,-88.428911,33.521642",
+    "geom:latitude":33.521642,
+    "geom:longitude":-88.428911,
+    "iso:country":"US",
+    "sg:address":"2320 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0079",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photofinishing",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32dIDTERYkBMGv0RKhAmUq_33.521642_-88.428911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127287,
+    "wof:geomhash":"d3fd6af700141f587dbeb020a23e8669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857340453
+        }
+    ],
+    "wof:id":857340453,
+    "wof:lastmodified":1464127287,
+    "wof:name":"Super Sav",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photofinishing",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.428911,
+    33.521642,
+    -88.428911,
+    33.521642
+],
+  "geometry": {"coordinates":[-88.428911,33.521642],"type":"Point"}
+}

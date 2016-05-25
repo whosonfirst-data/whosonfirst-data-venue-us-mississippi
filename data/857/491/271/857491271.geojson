@@ -1,0 +1,80 @@
+{
+  "id": 857491271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288858,31.324516,-89.288858,31.324516",
+    "geom:latitude":31.324516,
+    "geom:longitude":-89.288858,
+    "iso:country":"US",
+    "sg:address":"115 Walnut St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2202",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grill",
+        "italian",
+        "steak",
+        "bar",
+        "house"
+    ],
+    "sg:website":"http://www.walnutcirclegrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AxoXpak2p7pipe4cbiw0N_31.324516_-89.288858@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130627,
+    "wof:geomhash":"df622d240c30080e6d2f394986df5d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857491271
+        }
+    ],
+    "wof:id":857491271,
+    "wof:lastmodified":1464130627,
+    "wof:name":"Walnut Circle Grill",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "italian",
+        "steak",
+        "bar",
+        "house"
+    ]
+},
+  "bbox": [
+    -89.288858,
+    31.324516,
+    -89.288858,
+    31.324516
+],
+  "geometry": {"coordinates":[-89.288858,31.324516],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857469955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.80248,33.454525,-88.80248,33.454525",
+    "geom:latitude":33.454525,
+    "geom:longitude":-88.80248,
+    "iso:country":"US",
+    "sg:address":"341 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 8484",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bNGokZe6K7LUn5GRblpij_33.454525_-88.802480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130171,
+    "wof:geomhash":"bbd04ce04c2de3b3b9207f418e433284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857469955
+        }
+    ],
+    "wof:id":857469955,
+    "wof:lastmodified":1464130171,
+    "wof:name":"Tri-County Narcotics Task Forc",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.80248,
+    33.454525,
+    -88.80248,
+    33.454525
+],
+  "geometry": {"coordinates":[-88.80248,33.454525],"type":"Point"}
+}

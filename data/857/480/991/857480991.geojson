@@ -1,0 +1,74 @@
+{
+  "id": 857480991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71989,34.219707,-88.71989,34.219707",
+    "geom:latitude":34.219707,
+    "geom:longitude":-88.71989,
+    "iso:country":"US",
+    "sg:address":"1710 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/old-union/211982-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9600",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UtypMVctrCCsfOeOcf9GC_34.219707_-88.719890@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130387,
+    "wof:geomhash":"4f9069e298ff22f7a46ecfc41016136b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857480991
+        }
+    ],
+    "wof:id":857480991,
+    "wof:lastmodified":1464130387,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.71989,
+    34.219707,
+    -88.71989,
+    34.219707
+],
+  "geometry": {"coordinates":[-88.71989000000001,34.219707],"type":"Point"}
+}

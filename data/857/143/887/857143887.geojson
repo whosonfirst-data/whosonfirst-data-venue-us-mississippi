@@ -1,0 +1,71 @@
+{
+  "id": 857143887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274966,31.325138,-89.274966,31.325138",
+    "geom:latitude":31.325138,
+    "geom:longitude":-89.274966,
+    "iso:country":"US",
+    "sg:address":"1520 E Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 9772",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XenQDeQ62jb1njR0bjSqF_31.325138_-89.274966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122996,
+    "wof:geomhash":"a49348a5167c01a8bcc3b7c22ef43c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857143887
+        }
+    ],
+    "wof:id":857143887,
+    "wof:lastmodified":1464122996,
+    "wof:name":"Jack's Seafood & Food Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -89.274966,
+    31.325138,
+    -89.274966,
+    31.325138
+],
+  "geometry": {"coordinates":[-89.27496600000001,31.325138],"type":"Point"}
+}

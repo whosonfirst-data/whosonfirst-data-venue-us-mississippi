@@ -1,0 +1,77 @@
+{
+  "id": 857251309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.009859,30.401127,-89.009859,30.401127",
+    "geom:latitude":30.401127,
+    "geom:longitude":-89.009859,
+    "iso:country":"US",
+    "sg:address":"2044 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 897 7788",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5umU9luwApk3QfO2sRtihL_30.401127_-89.009859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125277,
+    "wof:geomhash":"45370751066a805471390b5a27f5f2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857251309
+        }
+    ],
+    "wof:id":857251309,
+    "wof:lastmodified":1464125277,
+    "wof:name":"Gulfport Pets Grooming & Supls",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -89.009859,
+    30.401127,
+    -89.009859,
+    30.401127
+],
+  "geometry": {"coordinates":[-89.00985900000001,30.401127],"type":"Point"}
+}

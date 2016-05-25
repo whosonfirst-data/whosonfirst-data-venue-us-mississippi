@@ -1,0 +1,71 @@
+{
+  "id": 857189993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.326686,33.381194,-88.326686,33.381194",
+    "geom:latitude":33.381194,
+    "geom:longitude":-88.326686,
+    "iso:country":"US",
+    "sg:address":"695 Halbert Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 5217",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cF59SU6CtKTYuV1HB4ISh_33.381194_-88.326686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123990,
+    "wof:geomhash":"a4752ee7b61829a7e47ee396bb93c83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857189993
+        }
+    ],
+    "wof:id":857189993,
+    "wof:lastmodified":1464123990,
+    "wof:name":"Dewey Camp Logging",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -88.326686,
+    33.381194,
+    -88.326686,
+    33.381194
+],
+  "geometry": {"coordinates":[-88.326686,33.381194],"type":"Point"}
+}

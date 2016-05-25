@@ -1,0 +1,69 @@
+{
+  "id": 857286467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.005552,32.382014,-90.005552,32.382014",
+    "geom:latitude":32.382014,
+    "geom:longitude":-90.005552,
+    "iso:country":"US",
+    "sg:address":"705 Audubon Point Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 1177",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jrVRzML9dPjvx7SPD8dt4_32.382014_-90.005552@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126054,
+    "wof:geomhash":"2db7740bbd3d84b28f39f7f7a14deaae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857286467
+        }
+    ],
+    "wof:id":857286467,
+    "wof:lastmodified":1464126054,
+    "wof:name":"Mississippi Restaurant Svc Inc",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -90.005552,
+    32.382014,
+    -90.005552,
+    32.382014
+],
+  "geometry": {"coordinates":[-90.00555199999999,32.382014],"type":"Point"}
+}

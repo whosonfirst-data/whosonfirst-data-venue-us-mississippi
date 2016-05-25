@@ -1,0 +1,73 @@
+{
+  "id": 857381095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.377478,31.417166,-89.377478,31.417166",
+    "geom:latitude":31.417166,
+    "geom:longitude":-89.377478,
+    "iso:country":"US",
+    "sg:address":"507 Peps Point Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 4280",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FsPAaBPgYWEAyWG7s56fu_31.417166_-89.377478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128152,
+    "wof:geomhash":"729d7f20d28d558a811c357d267fa80e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857381095
+        }
+    ],
+    "wof:id":857381095,
+    "wof:lastmodified":1464128152,
+    "wof:name":"Tucker Machine Svc",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.377478,
+    31.417166,
+    -89.377478,
+    31.417166
+],
+  "geometry": {"coordinates":[-89.377478,31.417166],"type":"Point"}
+}

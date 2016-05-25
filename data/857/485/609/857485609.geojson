@@ -1,0 +1,76 @@
+{
+  "id": 857485609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.556977,34.363854,-89.556977,34.363854",
+    "geom:latitude":34.363854,
+    "geom:longitude":-89.556977,
+    "iso:country":"US",
+    "sg:address":"1904 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/182241-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9207",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Oo73scKEuLBdNGiIUwlT_34.363868_-89.556940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130478,
+    "wof:geomhash":"7231beb98bd9641ac7d537b25b82649a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857485609
+        }
+    ],
+    "wof:id":857485609,
+    "wof:lastmodified":1464130478,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.556977,
+    34.363854,
+    -89.556977,
+    34.363854
+],
+  "geometry": {"coordinates":[-89.556977,34.363854],"type":"Point"}
+}

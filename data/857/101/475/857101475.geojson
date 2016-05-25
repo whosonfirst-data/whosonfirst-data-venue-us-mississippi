@@ -1,0 +1,73 @@
+{
+  "id": 857101475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.177552,30.338841,-89.177552,30.338841",
+    "geom:latitude":30.338841,
+    "geom:longitude":-89.177552,
+    "iso:country":"US",
+    "sg:address":"105 Marcie Dr",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 822 0030",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46aREOhu1YUq4ZkCQgh27D_30.338841_-89.177552@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121951,
+    "wof:geomhash":"ff930d514380f9b1eb78193e647517f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857101475
+        }
+    ],
+    "wof:id":857101475,
+    "wof:lastmodified":1464121951,
+    "wof:name":"Sand Properties Ltd Partnr",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.177552,
+    30.338841,
+    -89.177552,
+    30.338841
+],
+  "geometry": {"coordinates":[-89.17755200000001,30.338841],"type":"Point"}
+}

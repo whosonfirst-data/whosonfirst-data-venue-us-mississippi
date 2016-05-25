@@ -1,0 +1,73 @@
+{
+  "id": 857108599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795006,34.898077,-89.795006,34.898077",
+    "geom:latitude":34.898077,
+    "geom:longitude":-89.795006,
+    "iso:country":"US",
+    "sg:address":"2412 Bethel Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 2414",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JbWIAmqubebkFjJOINP3y_34.898077_-89.795006@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122105,
+    "wof:geomhash":"b3b3e25827bb5f4ccfb0b6dce1ad09df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857108599
+        }
+    ],
+    "wof:id":857108599,
+    "wof:lastmodified":1464122105,
+    "wof:name":"Stone Shacklee Distributors",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -89.795006,
+    34.898077,
+    -89.795006,
+    34.898077
+],
+  "geometry": {"coordinates":[-89.795006,34.898077],"type":"Point"}
+}

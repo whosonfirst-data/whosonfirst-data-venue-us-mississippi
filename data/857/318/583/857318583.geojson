@@ -1,0 +1,73 @@
+{
+  "id": 857318583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.657411,34.252121,-88.657411,34.252121",
+    "geom:latitude":34.252121,
+    "geom:longitude":-88.657411,
+    "iso:country":"US",
+    "sg:address":"4248 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8949",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I8zGxuvbB9oCbf98isEb9_34.252121_-88.657411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126823,
+    "wof:geomhash":"baea042799d1c4a4877e7b5db6ca865a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857318583
+        }
+    ],
+    "wof:id":857318583,
+    "wof:lastmodified":1464126823,
+    "wof:name":"Plastic Surgery Of N Ms",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.657411,
+    34.252121,
+    -88.657411,
+    34.252121
+],
+  "geometry": {"coordinates":[-88.657411,34.252121],"type":"Point"}
+}

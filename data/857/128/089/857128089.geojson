@@ -1,0 +1,75 @@
+{
+  "id": 857128089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.742015,34.993226,-89.742015,34.993226",
+    "geom:latitude":34.993226,
+    "geom:longitude":-89.742015,
+    "iso:country":"US",
+    "sg:address":"9105 Center Hill Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3393",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ko1BHvfsYWzWMfuON0bSr_34.993226_-89.742015@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122628,
+    "wof:geomhash":"c41ec9e338c7ded1402c514c65c259be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857128089
+        }
+    ],
+    "wof:id":857128089,
+    "wof:lastmodified":1464122628,
+    "wof:name":"Ronnie Loonwy",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.742015,
+    34.993226,
+    -89.742015,
+    34.993226
+],
+  "geometry": {"coordinates":[-89.74201499999999,34.993226],"type":"Point"}
+}

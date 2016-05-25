@@ -1,0 +1,73 @@
+{
+  "id": 857210329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.688532,32.391773,-88.688532,32.391773",
+    "geom:latitude":32.391773,
+    "geom:longitude":-88.688532,
+    "iso:country":"US",
+    "sg:address":"517 33rd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3916",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pl90nzqb0F48Xy3N3p7rP_32.391773_-88.688532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124396,
+    "wof:geomhash":"77056541663fc38d520ca4099ac66f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857210329
+        }
+    ],
+    "wof:id":857210329,
+    "wof:lastmodified":1464124396,
+    "wof:name":"Meridian Community Living Ctr",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.688532,
+    32.391773,
+    -88.688532,
+    32.391773
+],
+  "geometry": {"coordinates":[-88.688532,32.391773],"type":"Point"}
+}

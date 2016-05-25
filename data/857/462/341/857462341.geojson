@@ -1,0 +1,73 @@
+{
+  "id": 857462341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.293051,33.647157,-88.293051,33.647157",
+    "geom:latitude":33.647157,
+    "geom:longitude":-88.293051,
+    "iso:country":"US",
+    "sg:address":"144 Sanctuary Loop",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6636",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "membership",
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zrPdlq7IArbOO9i0F59Bb_33.647157_-88.293051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129996,
+    "wof:geomhash":"0ed6144e40f4f753c3c094189655b19f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857462341
+        }
+    ],
+    "wof:id":857462341,
+    "wof:lastmodified":1464129996,
+    "wof:name":"Cedar Hill Animal Sanctuary",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -88.293051,
+    33.647157,
+    -88.293051,
+    33.647157
+],
+  "geometry": {"coordinates":[-88.29305100000001,33.647157],"type":"Point"}
+}

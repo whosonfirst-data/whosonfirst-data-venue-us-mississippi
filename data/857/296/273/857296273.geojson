@@ -1,0 +1,75 @@
+{
+  "id": 857296273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41125,32.861993,-90.41125,32.861993",
+    "geom:latitude":32.861993,
+    "geom:longitude":-90.41125,
+    "iso:country":"US",
+    "sg:address":"901 Dr Martin Luther King Jr Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6214",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KBRkKGyjV5nO5ozp6EAaY_32.861993_-90.411250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126331,
+    "wof:geomhash":"63705ef9a2bbe45dfd9405b82de876c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857296273
+        }
+    ],
+    "wof:id":857296273,
+    "wof:lastmodified":1464126331,
+    "wof:name":"Nate's One Stop Auto Repair",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.41125,
+    32.861993,
+    -90.41125,
+    32.861993
+],
+  "geometry": {"coordinates":[-90.41125,32.861993],"type":"Point"}
+}

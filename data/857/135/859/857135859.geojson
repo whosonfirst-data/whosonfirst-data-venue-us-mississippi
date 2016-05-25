@@ -1,0 +1,75 @@
+{
+  "id": 857135859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71997,34.221823,-88.71997,34.221823",
+    "geom:latitude":34.221823,
+    "geom:longitude":-88.71997,
+    "iso:country":"US",
+    "sg:address":"1606 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3238",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Drnfm3aT67c7kNvaL1aDq_34.221823_-88.719970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122802,
+    "wof:geomhash":"6eaac009d2504976952f60cbe830b906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857135859
+        }
+    ],
+    "wof:id":857135859,
+    "wof:lastmodified":1464122802,
+    "wof:name":"South Gloster Body Shop Inc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.71997,
+    34.221823,
+    -88.71997,
+    34.221823
+],
+  "geometry": {"coordinates":[-88.71997,34.221823],"type":"Point"}
+}

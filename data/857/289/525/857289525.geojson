@@ -1,0 +1,71 @@
+{
+  "id": 857289525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.521374,34.367106,-89.521374,34.367106",
+    "geom:latitude":34.367106,
+    "geom:longitude":-89.521374,
+    "iso:country":"US",
+    "sg:address":"113 S 9th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1269",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R4RIWXc1655tOOOWRsUZO_34.367106_-89.521374@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126135,
+    "wof:geomhash":"e0a053ebe739ba9b3c591762124ec4a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857289525
+        }
+    ],
+    "wof:id":857289525,
+    "wof:lastmodified":1464126135,
+    "wof:name":"St Peter's Episcopal Church",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.521374,
+    34.367106,
+    -89.521374,
+    34.367106
+],
+  "geometry": {"coordinates":[-89.52137399999999,34.367106],"type":"Point"}
+}

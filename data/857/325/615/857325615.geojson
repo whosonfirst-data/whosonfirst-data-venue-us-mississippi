@@ -1,0 +1,86 @@
+{
+  "id": 857325615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.181909,32.31093,-90.181909,32.31093",
+    "geom:latitude":32.31093,
+    "geom:longitude":-90.181909,
+    "iso:country":"US",
+    "sg:address":"950 N West St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 948 6220",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "information",
+        "program",
+        "administrative",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s7MXgqPC8yOgCh4KsLLHM_32.310930_-90.181909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126962,
+    "wof:geomhash":"5aa54e4572bc6e31a779d5794d22c00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857325615
+        }
+    ],
+    "wof:id":857325615,
+    "wof:lastmodified":1464126962,
+    "wof:name":"Alcohol Services Center",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "program",
+        "administrative",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -90.181909,
+    32.31093,
+    -90.181909,
+    32.31093
+],
+  "geometry": {"coordinates":[-90.181909,32.31093],"type":"Point"}
+}

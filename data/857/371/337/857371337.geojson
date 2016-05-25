@@ -1,0 +1,75 @@
+{
+  "id": 857371337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.191381,30.376094,-89.191381,30.376094",
+    "geom:latitude":30.376094,
+    "geom:longitude":-89.191381,
+    "iso:country":"US",
+    "sg:address":"6194 Wisewood Ln",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 867 8995",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mlOcnsFU1qo4SbrGCD4qJ_30.376094_-89.191381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127931,
+    "wof:geomhash":"c906cf5e6542e951ab179ef1a731d7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857371337
+        }
+    ],
+    "wof:id":857371337,
+    "wof:lastmodified":1464127931,
+    "wof:name":"Clear Vision Windshield Repair",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -89.191381,
+    30.376094,
+    -89.191381,
+    30.376094
+],
+  "geometry": {"coordinates":[-89.19138100000001,30.376094],"type":"Point"}
+}

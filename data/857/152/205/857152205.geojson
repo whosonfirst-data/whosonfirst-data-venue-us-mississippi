@@ -1,0 +1,73 @@
+{
+  "id": 857152205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435982,33.497478,-88.435982,33.497478",
+    "geom:latitude":33.497478,
+    "geom:longitude":-88.435982,
+    "iso:country":"US",
+    "sg:address":"326 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 243 2299",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lwIUlqjujc7GyxkN3txxa_33.497478_-88.435982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123190,
+    "wof:geomhash":"17d5e33141845387e81b58b3ac7edbc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857152205
+        }
+    ],
+    "wof:id":857152205,
+    "wof:lastmodified":1464123190,
+    "wof:name":"Coffee Plantation",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -88.435982,
+    33.497478,
+    -88.435982,
+    33.497478
+],
+  "geometry": {"coordinates":[-88.435982,33.497478],"type":"Point"}
+}

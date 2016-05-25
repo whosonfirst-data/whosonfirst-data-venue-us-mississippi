@@ -1,0 +1,75 @@
+{
+  "id": 857126867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.89322,32.289196,-90.89322,32.289196",
+    "geom:latitude":32.289196,
+    "geom:longitude":-90.89322,
+    "iso:country":"US",
+    "sg:address":"2500 Dana Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 7759",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85851213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kja5nNjwprn6WlXcKwp71_32.289196_-90.893220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122604,
+    "wof:geomhash":"0587296a25fc577fa38ad240616b955e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85851213,
+            "region_id":85688579,
+            "venue_id":857126867
+        }
+    ],
+    "wof:id":857126867,
+    "wof:lastmodified":1464122604,
+    "wof:name":"Southall Properties",
+    "wof:parent_id":85851213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.89322,
+    32.289196,
+    -90.89322,
+    32.289196
+],
+  "geometry": {"coordinates":[-90.89322,32.289196],"type":"Point"}
+}

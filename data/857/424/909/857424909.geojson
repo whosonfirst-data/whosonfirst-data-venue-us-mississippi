@@ -1,0 +1,71 @@
+{
+  "id": 857424909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636846,32.302072,-88.636846,32.302072",
+    "geom:latitude":32.302072,
+    "geom:longitude":-88.636846,
+    "iso:country":"US",
+    "sg:address":"903 J Reynolds Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3487",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1veJs3crRp4GGwwozuHcs6_32.302072_-88.636846@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129221,
+    "wof:geomhash":"e39752c21a18fb344541f61b747b489d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857424909
+        }
+    ],
+    "wof:id":857424909,
+    "wof:lastmodified":1464129221,
+    "wof:name":"Reynolds Appliance Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.636846,
+    32.302072,
+    -88.636846,
+    32.302072
+],
+  "geometry": {"coordinates":[-88.63684600000001,32.302072],"type":"Point"}
+}

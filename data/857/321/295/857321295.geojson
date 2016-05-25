@@ -1,0 +1,73 @@
+{
+  "id": 857321295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.227663,32.327534,-90.227663,32.327534",
+    "geom:latitude":32.327534,
+    "geom:longitude":-90.227663,
+    "iso:country":"US",
+    "sg:address":"20 Gymnasium Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 9696",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X7a6QZHtvVky9IpJPAIgH_32.327534_-90.227663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126876,
+    "wof:geomhash":"6f46f3077d0fb6011e8b42e52a12c8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857321295
+        }
+    ],
+    "wof:id":857321295,
+    "wof:lastmodified":1464126876,
+    "wof:name":"ABC Towing & Repairs",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.227663,
+    32.327534,
+    -90.227663,
+    32.327534
+],
+  "geometry": {"coordinates":[-90.22766300000001,32.327534],"type":"Point"}
+}

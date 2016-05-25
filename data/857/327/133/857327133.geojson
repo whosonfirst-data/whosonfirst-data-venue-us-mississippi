@@ -1,0 +1,71 @@
+{
+  "id": 857327133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.688333,32.413637,-88.688333,32.413637",
+    "geom:latitude":32.413637,
+    "geom:longitude":-88.688333,
+    "iso:country":"US",
+    "sg:address":"910 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 1877",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V2OBEjflUASKhQQu1Tzsl_32.413637_-88.688333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126993,
+    "wof:geomhash":"24b0b01d1fa2871cc43000fdb61d5447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857327133
+        }
+    ],
+    "wof:id":857327133,
+    "wof:lastmodified":1464126993,
+    "wof:name":"Meridian Fire Dept",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.688333,
+    32.413637,
+    -88.688333,
+    32.413637
+],
+  "geometry": {"coordinates":[-88.688333,32.413637],"type":"Point"}
+}

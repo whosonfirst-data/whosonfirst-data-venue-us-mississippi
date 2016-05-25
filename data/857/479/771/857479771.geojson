@@ -1,0 +1,74 @@
+{
+  "id": 857479771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.542285,34.206392,-90.542285,34.206392",
+    "geom:latitude":34.206392,
+    "geom:longitude":-90.542285,
+    "iso:country":"US",
+    "sg:address":"581 Medical Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7163",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.sonix.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BiKWnhJgCLT6WytJWU2bh_34.206328_-90.542394@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130366,
+    "wof:geomhash":"b861dc2fd90471ddf8c3732b591dc867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857479771
+        }
+    ],
+    "wof:id":857479771,
+    "wof:lastmodified":1464130366,
+    "wof:name":"Cancer Center",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.542285,
+    34.206392,
+    -90.542285,
+    34.206392
+],
+  "geometry": {"coordinates":[-90.54228500000001,34.206392],"type":"Point"}
+}

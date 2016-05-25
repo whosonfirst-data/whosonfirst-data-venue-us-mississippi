@@ -1,0 +1,71 @@
+{
+  "id": 857213049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.344608,31.340421,-89.344608,31.340421",
+    "geom:latitude":31.340421,
+    "geom:longitude":-89.344608,
+    "iso:country":"US",
+    "sg:address":"1246 Beverly Hills Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 261 3377",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J3gz1jkihD3RrSu6w7Diz_31.340421_-89.344608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124464,
+    "wof:geomhash":"4f636c45ce2e83da1af6ca259a8db166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857213049
+        }
+    ],
+    "wof:id":857213049,
+    "wof:lastmodified":1464124464,
+    "wof:name":"Townevilla Apartments",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.344608,
+    31.340421,
+    -89.344608,
+    31.340421
+],
+  "geometry": {"coordinates":[-89.34460799999999,31.340421],"type":"Point"}
+}

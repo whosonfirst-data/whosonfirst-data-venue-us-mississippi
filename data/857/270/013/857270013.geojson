@@ -1,0 +1,71 @@
+{
+  "id": 857270013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.323509,33.683068,-88.323509,33.683068",
+    "geom:latitude":33.683068,
+    "geom:longitude":-88.323509,
+    "iso:country":"US",
+    "sg:address":"818 Main St",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6017",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r5dzS9MPif7M4Fwokua7P_33.683068_-88.323509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125685,
+    "wof:geomhash":"1d42e4dbb881d5e13565f2516709748b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857270013
+        }
+    ],
+    "wof:id":857270013,
+    "wof:lastmodified":1464125685,
+    "wof:name":"Church Of Christ At Calendonia",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.323509,
+    33.683068,
+    -88.323509,
+    33.683068
+],
+  "geometry": {"coordinates":[-88.323509,33.683068],"type":"Point"}
+}

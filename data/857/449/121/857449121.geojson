@@ -1,0 +1,84 @@
+{
+  "id": 857449121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.681267,32.376637,-88.681267,32.376637",
+    "geom:latitude":32.376637,
+    "geom:longitude":-88.681267,
+    "iso:country":"US",
+    "sg:address":"1815 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 0474",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "control",
+        "fitness",
+        "physical",
+        "weight",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DZXkoNyEk0EPercCCPs4i_32.376637_-88.681267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129739,
+    "wof:geomhash":"a27c8b14edd638d68439cdc5cebca025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857449121
+        }
+    ],
+    "wof:id":857449121,
+    "wof:lastmodified":1464129739,
+    "wof:name":"Diet Center",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "fitness",
+        "physical",
+        "weight",
+        "facility"
+    ]
+},
+  "bbox": [
+    -88.681267,
+    32.376637,
+    -88.681267,
+    32.376637
+],
+  "geometry": {"coordinates":[-88.68126700000001,32.376637],"type":"Point"}
+}

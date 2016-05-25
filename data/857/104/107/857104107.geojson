@@ -1,0 +1,75 @@
+{
+  "id": 857104107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.177598,32.350078,-90.177598,32.350078",
+    "geom:latitude":32.350078,
+    "geom:longitude":-90.177598,
+    "iso:country":"US",
+    "sg:address":"3913 Northview Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 9700",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56LG3MXdp4oOU86dESfc3J_32.350078_-90.177598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122008,
+    "wof:geomhash":"d86d5ba13e135d0474962a59379983cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857104107
+        }
+    ],
+    "wof:id":857104107,
+    "wof:lastmodified":1464122008,
+    "wof:name":"Jack's Junk",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.177598,
+    32.350078,
+    -90.177598,
+    32.350078
+],
+  "geometry": {"coordinates":[-90.177598,32.350078],"type":"Point"}
+}

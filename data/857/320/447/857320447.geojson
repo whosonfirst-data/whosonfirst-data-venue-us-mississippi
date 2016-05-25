@@ -1,0 +1,69 @@
+{
+  "id": 857320447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08149,32.339048,-90.08149,32.339048",
+    "geom:latitude":32.339048,
+    "geom:longitude":-90.08149,
+    "iso:country":"US",
+    "sg:address":"3508 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 9037",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:website":"www.carlisle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85831643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RbrDHXKEVhnXqas6ej19Y_32.339048_-90.081490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126858,
+    "wof:geomhash":"14ab116f9c62572665ab5a6b74d510c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85831643,
+            "region_id":85688579,
+            "venue_id":857320447
+        }
+    ],
+    "wof:id":857320447,
+    "wof:lastmodified":1464126858,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85831643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.08149,
+    32.339048,
+    -90.08149,
+    32.339048
+],
+  "geometry": {"coordinates":[-90.08149,32.339048],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857250665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.557308,34.390151,-89.557308,34.390151",
+    "geom:latitude":34.390151,
+    "geom:longitude":-89.557308,
+    "iso:country":"US",
+    "sg:address":"211 Cedar St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9249",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house",
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k0P4YnKuviJtJM2WREop8_34.390151_-89.557308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125259,
+    "wof:geomhash":"e8904458266d3ae07361ce04ee568240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857250665
+        }
+    ],
+    "wof:id":857250665,
+    "wof:lastmodified":1464125259,
+    "wof:name":"Wayne Estes Builder",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -89.557308,
+    34.390151,
+    -89.557308,
+    34.390151
+],
+  "geometry": {"coordinates":[-89.55730800000001,34.390151],"type":"Point"}
+}

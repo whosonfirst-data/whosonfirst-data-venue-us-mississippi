@@ -1,0 +1,73 @@
+{
+  "id": 857144343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.651532,32.380834,-90.651532,32.380834",
+    "geom:latitude":32.380834,
+    "geom:longitude":-90.651532,
+    "iso:country":"US",
+    "sg:address":"295 Walton Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 0352",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ghZCCdhmFFEACK5w8D3jm_32.380834_-90.651532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123019,
+    "wof:geomhash":"b0a527aff10f6d3c931f5b7535e58162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857144343
+        }
+    ],
+    "wof:id":857144343,
+    "wof:lastmodified":1464123019,
+    "wof:name":"Walton Bulldozer Service",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.651532,
+    32.380834,
+    -90.651532,
+    32.380834
+],
+  "geometry": {"coordinates":[-90.651532,32.380834],"type":"Point"}
+}

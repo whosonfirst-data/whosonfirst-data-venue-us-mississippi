@@ -1,0 +1,71 @@
+{
+  "id": 857116725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.31911,33.31805,-88.31911,33.31805",
+    "geom:latitude":33.31805,
+    "geom:longitude":-88.31911,
+    "iso:country":"US",
+    "sg:address":"195 Riverside Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3022",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "textile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SVcp5TAR4jJnq6SsDlcZz_33.318050_-88.319110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122371,
+    "wof:geomhash":"018e5bb6975941e35b9f4348949d035b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857116725
+        }
+    ],
+    "wof:id":857116725,
+    "wof:lastmodified":1464122371,
+    "wof:name":"Qst Industries Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile"
+    ]
+},
+  "bbox": [
+    -88.31911,
+    33.31805,
+    -88.31911,
+    33.31805
+],
+  "geometry": {"coordinates":[-88.31910999999999,33.31805],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857219129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.305771,31.33281,-89.305771,31.33281",
+    "geom:latitude":31.33281,
+    "geom:longitude":-89.305771,
+    "iso:country":"US",
+    "sg:address":"408 North St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0180",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OQLpZFcypNRgFAot3nT7K_31.332810_-89.305771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124599,
+    "wof:geomhash":"8ac4e2a08d920f251d561e18dc317cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857219129
+        }
+    ],
+    "wof:id":857219129,
+    "wof:lastmodified":1464124599,
+    "wof:name":"Moore's Lock & Key Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.305771,
+    31.33281,
+    -89.305771,
+    31.33281
+],
+  "geometry": {"coordinates":[-89.30577099999999,31.33281],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857436883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.715316,34.284487,-88.715316,34.284487",
+    "geom:latitude":34.284487,
+    "geom:longitude":-88.715316,
+    "iso:country":"US",
+    "sg:address":"1725 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9144",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KNM3bNd2G6GKAa08Fz5Ig_34.284487_-88.715316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129509,
+    "wof:geomhash":"18b2205f473089f38a2380590734c63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857436883
+        }
+    ],
+    "wof:id":857436883,
+    "wof:lastmodified":1464129509,
+    "wof:name":"Breeze-N-Minit Mart & Barbeque",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.715316,
+    34.284487,
+    -88.715316,
+    34.284487
+],
+  "geometry": {"coordinates":[-88.715316,34.284487],"type":"Point"}
+}

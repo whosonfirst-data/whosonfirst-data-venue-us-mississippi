@@ -1,0 +1,74 @@
+{
+  "id": 857480413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795183,34.973278,-89.795183,34.973278",
+    "geom:latitude":34.973278,
+    "geom:longitude":-89.795183,
+    "iso:country":"US",
+    "sg:address":"7685 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/133096-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 2580",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K5M7rmoOTOynzjwflNB31_34.973278_-89.795183@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130377,
+    "wof:geomhash":"e09a2e1aa98e1069868cebadcbef7086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857480413
+        }
+    ],
+    "wof:id":857480413,
+    "wof:lastmodified":1464130377,
+    "wof:name":"Subway",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.795183,
+    34.973278,
+    -89.795183,
+    34.973278
+],
+  "geometry": {"coordinates":[-89.79518299999999,34.973278],"type":"Point"}
+}

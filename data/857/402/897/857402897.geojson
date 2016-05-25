@@ -1,0 +1,73 @@
+{
+  "id": 857402897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.444943,34.388278,-89.444943,34.388278",
+    "geom:latitude":34.388278,
+    "geom:longitude":-89.444943,
+    "iso:country":"US",
+    "sg:address":"463 Hwy 30 E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7574",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_296mK89we7wpBw98BRbe7k_34.388278_-89.444943@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128682,
+    "wof:geomhash":"1bc7aedfec7473d07f328345ff73f835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857402897
+        }
+    ],
+    "wof:id":857402897,
+    "wof:lastmodified":1464128682,
+    "wof:name":"Ingram Electric & Plumbing",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.444943,
+    34.388278,
+    -89.444943,
+    34.388278
+],
+  "geometry": {"coordinates":[-89.44494299999999,34.388278],"type":"Point"}
+}

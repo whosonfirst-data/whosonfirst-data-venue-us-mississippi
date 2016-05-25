@@ -1,0 +1,75 @@
+{
+  "id": 857279081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.89096,30.424588,-88.89096,30.424588",
+    "geom:latitude":30.424588,
+    "geom:longitude":-88.89096,
+    "iso:country":"US",
+    "sg:address":"9392 Central Ave",
+    "sg:city":"Diberville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 7670",
+    "sg:postcode":"39540",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ShQFuZ5wUkQ2LlNbpgr8g_30.424588_-88.890960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125898,
+    "wof:geomhash":"7e908ff3ceb52a2780dc47beb98dc0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857279081
+        }
+    ],
+    "wof:id":857279081,
+    "wof:lastmodified":1464125898,
+    "wof:name":"D'Iberville Cold Storage",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.89096,
+    30.424588,
+    -88.89096,
+    30.424588
+],
+  "geometry": {"coordinates":[-88.89096000000001,30.424588],"type":"Point"}
+}

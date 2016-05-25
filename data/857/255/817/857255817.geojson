@@ -1,0 +1,71 @@
+{
+  "id": 857255817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435296,33.520683,-88.435296,33.520683",
+    "geom:latitude":33.520683,
+    "geom:longitude":-88.435296,
+    "iso:country":"US",
+    "sg:address":"805 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8777",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5buXG1N657tpczR8ebUGRm_33.520683_-88.435296@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125391,
+    "wof:geomhash":"37d0d6d9135064109c5b185ac4db4ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857255817
+        }
+    ],
+    "wof:id":857255817,
+    "wof:lastmodified":1464125391,
+    "wof:name":"TACS-Tax Accounting Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.435296,
+    33.520683,
+    -88.435296,
+    33.520683
+],
+  "geometry": {"coordinates":[-88.43529599999999,33.520683],"type":"Point"}
+}

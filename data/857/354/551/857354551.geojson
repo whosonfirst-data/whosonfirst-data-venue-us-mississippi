@@ -1,0 +1,71 @@
+{
+  "id": 857354551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.500847,30.379066,-88.500847,30.379066",
+    "geom:latitude":30.379066,
+    "geom:longitude":-88.500847,
+    "iso:country":"US",
+    "sg:address":"601 Industrial Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3210",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fy8L1TWQaVUnCabeKIo0n_30.379066_-88.500847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127585,
+    "wof:geomhash":"2c282f476715da89e66065783db1d642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857354551
+        }
+    ],
+    "wof:id":857354551,
+    "wof:lastmodified":1464127585,
+    "wof:name":"Mississippi Phosphates Corp",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -88.500847,
+    30.379066,
+    -88.500847,
+    30.379066
+],
+  "geometry": {"coordinates":[-88.50084699999999,30.379066],"type":"Point"}
+}

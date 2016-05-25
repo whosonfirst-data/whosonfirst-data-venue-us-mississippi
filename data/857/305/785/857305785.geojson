@@ -1,0 +1,71 @@
+{
+  "id": 857305785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.415765,31.322034,-89.415765,31.322034",
+    "geom:latitude":31.322034,
+    "geom:longitude":-89.415765,
+    "iso:country":"US",
+    "sg:address":"2 Courtland Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 9711",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u8cm5LdX4zRZjN063GZf8_31.322034_-89.415765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126534,
+    "wof:geomhash":"5c4c08f2a4fcb565201534f2860e5a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857305785
+        }
+    ],
+    "wof:id":857305785,
+    "wof:lastmodified":1464126534,
+    "wof:name":"Alden Pointe Assisted Living",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -89.415765,
+    31.322034,
+    -89.415765,
+    31.322034
+],
+  "geometry": {"coordinates":[-89.41576499999999,31.322034],"type":"Point"}
+}

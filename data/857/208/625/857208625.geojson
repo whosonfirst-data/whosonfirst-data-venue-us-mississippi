@@ -1,0 +1,83 @@
+{
+  "id": 857208625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.100211,30.454061,-89.100211,30.454061",
+    "geom:latitude":30.454061,
+    "geom:longitude":-89.100211,
+    "iso:country":"US",
+    "sg:address":"11435 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 9333",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14FBxEz3yavU0AQmXvkRSn_30.454061_-89.100211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124363,
+    "wof:geomhash":"626e9f374ba3486b97c3d6fe27bd5ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857208625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857208625
+        }
+    ],
+    "wof:id":857208625,
+    "wof:lastmodified":1464124363,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.100211,
+    30.454061,
+    -89.100211,
+    30.454061
+],
+  "geometry": {"coordinates":[-89.100211,30.454061],"type":"Point"}
+}

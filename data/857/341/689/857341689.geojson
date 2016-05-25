@@ -1,0 +1,71 @@
+{
+  "id": 857341689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684324,32.4526,-88.684324,32.4526",
+    "geom:latitude":32.4526,
+    "geom:longitude":-88.684324,
+    "iso:country":"US",
+    "sg:address":"7816 Poplar Springs Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 6200",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kotqRfDBwRsyTauFx8ui_32.452600_-88.684324@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127309,
+    "wof:geomhash":"a537bc810c872ffee6a5d6b64bdc1726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857341689
+        }
+    ],
+    "wof:id":857341689,
+    "wof:lastmodified":1464127309,
+    "wof:name":"Kutter's Korner",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.684324,
+    32.4526,
+    -88.684324,
+    32.4526
+],
+  "geometry": {"coordinates":[-88.684324,32.4526],"type":"Point"}
+}

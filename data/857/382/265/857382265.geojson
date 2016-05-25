@@ -1,0 +1,71 @@
+{
+  "id": 857382265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67598,34.298221,-88.67598,34.298221",
+    "geom:latitude":34.298221,
+    "geom:longitude":-88.67598,
+    "iso:country":"US",
+    "sg:address":"126 Jean Cir",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3614",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QS3rdbzTVcY7rHVet0p3S_34.298221_-88.675980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128191,
+    "wof:geomhash":"eecbc154fdcf616b93efd7128d879161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857382265
+        }
+    ],
+    "wof:id":857382265,
+    "wof:lastmodified":1464128191,
+    "wof:name":"Wedding Shop",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -88.67598,
+    34.298221,
+    -88.67598,
+    34.298221
+],
+  "geometry": {"coordinates":[-88.67598,34.298221],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857126721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.553761,33.872891,-88.553761,33.872891",
+    "geom:latitude":33.872891,
+    "geom:longitude":-88.553761,
+    "iso:country":"US",
+    "sg:address":"20028 Vfw Post Dr",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 9012",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21VDKyK4EVJhDzwGu17181_33.872891_-88.553761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122601,
+    "wof:geomhash":"94720f7bccdfc5d796de2136460e1c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857126721
+        }
+    ],
+    "wof:id":857126721,
+    "wof:lastmodified":1464122601,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -88.553761,
+    33.872891,
+    -88.553761,
+    33.872891
+],
+  "geometry": {"coordinates":[-88.55376099999999,33.872891],"type":"Point"}
+}

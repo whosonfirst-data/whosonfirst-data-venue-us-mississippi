@@ -1,0 +1,73 @@
+{
+  "id": 857138585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655993,34.261502,-88.655993,34.261502",
+    "geom:latitude":34.261502,
+    "geom:longitude":-88.655993,
+    "iso:country":"US",
+    "sg:address":"237 N Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 9485",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yVPypjeDE56M48bCUimBp_34.261502_-88.655993@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122862,
+    "wof:geomhash":"7a2c93ea61453392ba25a4abf85ace0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857138585
+        }
+    ],
+    "wof:id":857138585,
+    "wof:lastmodified":1464122862,
+    "wof:name":"Tupelo Children's Mansion",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -88.655993,
+    34.261502,
+    -88.655993,
+    34.261502
+],
+  "geometry": {"coordinates":[-88.655993,34.261502],"type":"Point"}
+}

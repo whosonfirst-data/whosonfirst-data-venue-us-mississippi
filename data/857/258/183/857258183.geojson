@@ -1,0 +1,66 @@
+{
+  "id": 857258183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.369824,33.405429,-88.369824,33.405429",
+    "geom:latitude":33.405429,
+    "geom:longitude":-88.369824,
+    "iso:country":"US",
+    "sg:address":"52 Shady Ln",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8870",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oc1vzRDzk8dxZRk0j5Kp1_33.405429_-88.369824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125455,
+    "wof:geomhash":"da96d01891f05b56e77d4b7fe6882241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857258183
+        }
+    ],
+    "wof:id":857258183,
+    "wof:lastmodified":1464125455,
+    "wof:name":"Cindy's Country Store & Deli",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.369824,
+    33.405429,
+    -88.369824,
+    33.405429
+],
+  "geometry": {"coordinates":[-88.36982399999999,33.405429],"type":"Point"}
+}

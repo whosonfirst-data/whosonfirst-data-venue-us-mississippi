@@ -1,0 +1,71 @@
+{
+  "id": 857110003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559328,34.202761,-90.559328,34.202761",
+    "geom:latitude":34.202761,
+    "geom:longitude":-90.559328,
+    "iso:country":"US",
+    "sg:address":"1316 4th St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5400",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01aspIWDhGQfatkAVrsI9c_34.202761_-90.559328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122166,
+    "wof:geomhash":"05ce8e6ee01f624015cd8b7ac8a931d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857110003
+        }
+    ],
+    "wof:id":857110003,
+    "wof:lastmodified":1464122166,
+    "wof:name":"Church Of The Lord Jesus",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.559328,
+    34.202761,
+    -90.559328,
+    34.202761
+],
+  "geometry": {"coordinates":[-90.55932799999999,34.202761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857415647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.775683,32.395792,-90.775683,32.395792",
+    "geom:latitude":32.395792,
+    "geom:longitude":-90.775683,
+    "iso:country":"US",
+    "sg:address":"138 Woodstone Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 6962",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x9ItbTplU172YY05RAUb9_32.395792_-90.775683@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128992,
+    "wof:geomhash":"3480e08c9952c307625c3bc124754e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857415647
+        }
+    ],
+    "wof:id":857415647,
+    "wof:lastmodified":1464128992,
+    "wof:name":"Nutrition Menu Inc",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -90.775683,
+    32.395792,
+    -90.775683,
+    32.395792
+],
+  "geometry": {"coordinates":[-90.775683,32.395792],"type":"Point"}
+}

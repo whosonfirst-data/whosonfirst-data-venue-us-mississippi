@@ -1,0 +1,77 @@
+{
+  "id": 857403389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.419272,33.50775,-88.419272,33.50775",
+    "geom:latitude":33.50775,
+    "geom:longitude":-88.419272,
+    "iso:country":"US",
+    "sg:address":"1215 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7235",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qtAusBALP0AXew0834erG_33.507750_-88.419272@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128689,
+    "wof:geomhash":"511e555e475ba8166105d374b6a7fb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857403389
+        }
+    ],
+    "wof:id":857403389,
+    "wof:lastmodified":1464128689,
+    "wof:name":"Hill's Pressure Washing Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -88.419272,
+    33.50775,
+    -88.419272,
+    33.50775
+],
+  "geometry": {"coordinates":[-88.41927200000001,33.50775],"type":"Point"}
+}

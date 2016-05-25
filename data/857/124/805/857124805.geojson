@@ -1,0 +1,68 @@
+{
+  "id": 857124805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.868599,32.343945,-90.868599,32.343945",
+    "geom:latitude":32.343945,
+    "geom:longitude":-90.868599,
+    "iso:country":"US",
+    "sg:address":"1630 Baldwin Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 3981",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ydpt2Ti69JGLt0Sep7zAx_32.343945_-90.868599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122566,
+    "wof:geomhash":"b978f89ac16d6399fbcad296a39e3ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857124805
+        }
+    ],
+    "wof:id":857124805,
+    "wof:lastmodified":1464122566,
+    "wof:name":"Warren Central Junior High Sch",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.868599,
+    32.343945,
+    -90.868599,
+    32.343945
+],
+  "geometry": {"coordinates":[-90.868599,32.343945],"type":"Point"}
+}

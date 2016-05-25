@@ -1,0 +1,74 @@
+{
+  "id": 857250553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827744,30.407558,-88.827744,30.407558",
+    "geom:latitude":30.407558,
+    "geom:longitude":-88.827744,
+    "iso:country":"US",
+    "sg:address":"206 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5647",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "sg:website":"www.moranconsultants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RhnSm5mF2gKhtIc0guDwB_30.407558_-88.827744@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125255,
+    "wof:geomhash":"eae51122eefb4d7a3ee625b57fda89fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857250553
+        }
+    ],
+    "wof:id":857250553,
+    "wof:lastmodified":1464125255,
+    "wof:name":"Moran Consultants",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -88.827744,
+    30.407558,
+    -88.827744,
+    30.407558
+],
+  "geometry": {"coordinates":[-88.827744,30.407558],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857251193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.134905,32.26021,-90.134905,32.26021",
+    "geom:latitude":32.26021,
+    "geom:longitude":-90.134905,
+    "iso:country":"US",
+    "sg:address":"200 Colony Park Dr",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 3660",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xP147mac16JZWzea5rmZL_32.260210_-90.134905@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125275,
+    "wof:geomhash":"1cf836313ac3db0ae8e0922bd44d32b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857251193
+        }
+    ],
+    "wof:id":857251193,
+    "wof:lastmodified":1464125275,
+    "wof:name":"Colony Park Apartments",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.134905,
+    32.26021,
+    -90.134905,
+    32.26021
+],
+  "geometry": {"coordinates":[-90.134905,32.26021],"type":"Point"}
+}

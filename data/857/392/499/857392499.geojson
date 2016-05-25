@@ -1,0 +1,77 @@
+{
+  "id": 857392499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.031747,30.449671,-89.031747,30.449671",
+    "geom:latitude":30.449671,
+    "geom:longitude":-89.031747,
+    "iso:country":"US",
+    "sg:address":"11549 Dedeaux Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 9351",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_655Kycs0UUs3Tbw2TbNJKf_30.449671_-89.031747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128474,
+    "wof:geomhash":"e6d5ace719bc334cde01805ef159b493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857392499
+        }
+    ],
+    "wof:id":857392499,
+    "wof:lastmodified":1464128474,
+    "wof:name":"Gulf South Pipeline Co",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -89.031747,
+    30.449671,
+    -89.031747,
+    30.449671
+],
+  "geometry": {"coordinates":[-89.031747,30.449671],"type":"Point"}
+}

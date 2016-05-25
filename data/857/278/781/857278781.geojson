@@ -1,0 +1,66 @@
+{
+  "id": 857278781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.257653,31.344046,-89.257653,31.344046",
+    "geom:latitude":31.344046,
+    "geom:longitude":-89.257653,
+    "iso:country":"US",
+    "sg:address":"109 Charles St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 5889",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33DE86UDPF9SFVZxFragZh_31.344046_-89.257653@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125886,
+    "wof:geomhash":"db7f229c5fa69ee22989a0fa00383e38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857278781
+        }
+    ],
+    "wof:id":857278781,
+    "wof:lastmodified":1464125886,
+    "wof:name":"South Mississippi Janitor Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.257653,
+    31.344046,
+    -89.257653,
+    31.344046
+],
+  "geometry": {"coordinates":[-89.257653,31.344046],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857082729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.522633,34.35669,-89.522633,34.35669",
+    "geom:latitude":34.35669,
+    "geom:longitude":-89.522633,
+    "iso:country":"US",
+    "sg:address":"1502 S 10th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4252",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06qiObwtfUntuu98cK9zpa_34.356690_-89.522633@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121478,
+    "wof:geomhash":"3a831896906da0206eb6644b8436072b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857082729
+        }
+    ],
+    "wof:id":857082729,
+    "wof:lastmodified":1464121478,
+    "wof:name":"Jim Matthews Insurance Adjstr",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -89.522633,
+    34.35669,
+    -89.522633,
+    34.35669
+],
+  "geometry": {"coordinates":[-89.522633,34.35669],"type":"Point"}
+}

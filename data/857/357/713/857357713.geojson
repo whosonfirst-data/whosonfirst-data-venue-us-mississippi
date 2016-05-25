@@ -1,0 +1,71 @@
+{
+  "id": 857357713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.627792,30.386453,-88.627792,30.386453",
+    "geom:latitude":30.386453,
+    "geom:longitude":-88.627792,
+    "iso:country":"US",
+    "sg:address":"1207 Old Spanish Trl",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 1635",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MP6chdTiwgTkqVBEAs03Q_30.386453_-88.627792@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127651,
+    "wof:geomhash":"f2b026c67f91ec73dde2952a983eaf30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857357713
+        }
+    ],
+    "wof:id":857357713,
+    "wof:lastmodified":1464127651,
+    "wof:name":"Nails 4U",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -88.627792,
+    30.386453,
+    -88.627792,
+    30.386453
+],
+  "geometry": {"coordinates":[-88.627792,30.386453],"type":"Point"}
+}

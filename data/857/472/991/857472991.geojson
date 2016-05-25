@@ -1,0 +1,71 @@
+{
+  "id": 857472991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.681656,32.375488,-88.681656,32.375488",
+    "geom:latitude":32.375488,
+    "geom:longitude":-88.681656,
+    "iso:country":"US",
+    "sg:address":"1702 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6305",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UtURjwV7HdYvkr5fBudti_32.375488_-88.681656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130237,
+    "wof:geomhash":"1e25776a5908f7270033c9e829fb8036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857472991
+        }
+    ],
+    "wof:id":857472991,
+    "wof:lastmodified":1464130237,
+    "wof:name":"Republic Finance LLC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -88.681656,
+    32.375488,
+    -88.681656,
+    32.375488
+],
+  "geometry": {"coordinates":[-88.681656,32.375488],"type":"Point"}
+}

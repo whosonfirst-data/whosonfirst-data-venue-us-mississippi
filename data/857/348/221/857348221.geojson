@@ -1,0 +1,71 @@
+{
+  "id": 857348221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.716471,34.236038,-88.716471,34.236038",
+    "geom:latitude":34.236038,
+    "geom:longitude":-88.716471,
+    "iso:country":"US",
+    "sg:address":"1542 Medical Park Cir",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 4740",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tB7v25ohYYQLxhw06aPBQ_34.236038_-88.716471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127445,
+    "wof:geomhash":"9da940c220f48fee84e4b3be7076df44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857348221
+        }
+    ],
+    "wof:id":857348221,
+    "wof:lastmodified":1464127445,
+    "wof:name":"Northeast Ms Peritoneal Dialys",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.716471,
+    34.236038,
+    -88.716471,
+    34.236038
+],
+  "geometry": {"coordinates":[-88.716471,34.236038],"type":"Point"}
+}

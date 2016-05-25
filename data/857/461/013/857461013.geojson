@@ -1,0 +1,73 @@
+{
+  "id": 857461013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895791,34.954398,-89.895791,34.954398",
+    "geom:latitude":34.954398,
+    "geom:longitude":-89.895791,
+    "iso:country":"US",
+    "sg:address":"6625 Masters Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 3614",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CSDZJ8ukIXIFNZKOgZQjn_34.954398_-89.895791@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129971,
+    "wof:geomhash":"1d53500b52f661f3c3d30501e98a666c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857461013
+        }
+    ],
+    "wof:id":857461013,
+    "wof:lastmodified":1464129971,
+    "wof:name":"Industrial Applications",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -89.895791,
+    34.954398,
+    -89.895791,
+    34.954398
+],
+  "geometry": {"coordinates":[-89.895791,34.954398],"type":"Point"}
+}

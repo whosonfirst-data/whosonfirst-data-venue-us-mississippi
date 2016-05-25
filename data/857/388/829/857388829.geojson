@@ -1,0 +1,74 @@
+{
+  "id": 857388829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702655,32.369863,-88.702655,32.369863",
+    "geom:latitude":32.369863,
+    "geom:longitude":-88.702655,
+    "iso:country":"US",
+    "sg:address":"1203 24th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 5862",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.meridianradiology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQztQovhplJ374pDEm5Jr_32.369863_-88.702655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128403,
+    "wof:geomhash":"4e9b721ebd4a26eb53902b5aead37c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857388829
+        }
+    ],
+    "wof:id":857388829,
+    "wof:lastmodified":1464128403,
+    "wof:name":"Meridian Radiology Assoc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.702655,
+    32.369863,
+    -88.702655,
+    32.369863
+],
+  "geometry": {"coordinates":[-88.70265499999999,32.369863],"type":"Point"}
+}

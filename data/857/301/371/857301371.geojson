@@ -1,0 +1,68 @@
+{
+  "id": 857301371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.036726,34.498588,-89.036726,34.498588",
+    "geom:latitude":34.498588,
+    "geom:longitude":-89.036726,
+    "iso:country":"US",
+    "sg:address":"514 Cherry Blvd",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 0787",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43F4g8myBp02yCeWGjlBFg_34.498588_-89.036726@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126442,
+    "wof:geomhash":"3ec9867dbba63af444eb73e5c614ee49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857301371
+        }
+    ],
+    "wof:id":857301371,
+    "wof:lastmodified":1464126442,
+    "wof:name":"Huddle House",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.036726,
+    34.498588,
+    -89.036726,
+    34.498588
+],
+  "geometry": {"coordinates":[-89.036726,34.498588],"type":"Point"}
+}

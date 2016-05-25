@@ -1,0 +1,72 @@
+{
+  "id": 857486841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.564585,34.195781,-90.564585,34.195781",
+    "geom:latitude":34.195781,
+    "geom:longitude":-90.564585,
+    "iso:country":"US",
+    "sg:address":"706 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1100",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "restaurant"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bDlm0tuhPxO5y2mOOfqR_34.195781_-90.564585@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130500,
+    "wof:geomhash":"a1cfb75b542c02288c0130b747194483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486841
+        }
+    ],
+    "wof:id":857486841,
+    "wof:lastmodified":1464130500,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -90.564585,
+    34.195781,
+    -90.564585,
+    34.195781
+],
+  "geometry": {"coordinates":[-90.56458499999999,34.195781],"type":"Point"}
+}

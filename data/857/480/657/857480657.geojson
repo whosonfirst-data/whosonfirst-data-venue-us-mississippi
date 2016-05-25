@@ -1,0 +1,76 @@
+{
+  "id": 857480657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.97935,34.962715,-89.97935,34.962715",
+    "geom:latitude":34.962715,
+    "geom:longitude":-89.97935,
+    "iso:country":"US",
+    "sg:address":"568 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/southaven/133072-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 3660",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dbsffaCs60h7DkrYa7PQa_34.962715_-89.979350@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130381,
+    "wof:geomhash":"11d11d6353df61128dfdd3c8210629a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857480657
+        }
+    ],
+    "wof:id":857480657,
+    "wof:lastmodified":1464130381,
+    "wof:name":"Subway",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.97935,
+    34.962715,
+    -89.97935,
+    34.962715
+],
+  "geometry": {"coordinates":[-89.97935,34.962715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857443317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.556218,34.440559,-89.556218,34.440559",
+    "geom:latitude":34.440559,
+    "geom:longitude":-89.556218,
+    "iso:country":"US",
+    "sg:address":"162 Co Rd 103",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8073",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lxgHSeoGw4upRoVLzP77B_34.440559_-89.556218@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129628,
+    "wof:geomhash":"b3dda5dc5181ab067a04e7edf8a24c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857443317
+        }
+    ],
+    "wof:id":857443317,
+    "wof:lastmodified":1464129628,
+    "wof:name":"Fireplace Shop",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.556218,
+    34.440559,
+    -89.556218,
+    34.440559
+],
+  "geometry": {"coordinates":[-89.556218,34.440559],"type":"Point"}
+}

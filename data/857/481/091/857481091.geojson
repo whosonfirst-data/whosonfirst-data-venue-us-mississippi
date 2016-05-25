@@ -1,0 +1,74 @@
+{
+  "id": 857481091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706267,34.322196,-88.706267,34.322196",
+    "geom:latitude":34.322196,
+    "geom:longitude":-88.706267,
+    "iso:country":"US",
+    "sg:address":"3588 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/100819-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 7440",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uyhakSXYy8UF7DPbxKI0H_34.322196_-88.706267@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130389,
+    "wof:geomhash":"607bf851933a0d5d7da98a4e7128d311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481091
+        }
+    ],
+    "wof:id":857481091,
+    "wof:lastmodified":1464130389,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.706267,
+    34.322196,
+    -88.706267,
+    34.322196
+],
+  "geometry": {"coordinates":[-88.706267,34.322196],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857087125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.221425,32.705481,-90.221425,32.705481",
+    "geom:latitude":32.705481,
+    "geom:longitude":-90.221425,
+    "iso:country":"US",
+    "sg:address":"109 Creel Ln",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 673 9242",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iRJsxoX1omUYTkxCvNz63_32.705481_-90.221425@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121584,
+    "wof:geomhash":"5e1ed9fde248732fd9e4fd72ae865d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857087125
+        }
+    ],
+    "wof:id":857087125,
+    "wof:lastmodified":1464121584,
+    "wof:name":"Creel & Son Land Surveying",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -90.221425,
+    32.705481,
+    -90.221425,
+    32.705481
+],
+  "geometry": {"coordinates":[-90.221425,32.705481],"type":"Point"}
+}

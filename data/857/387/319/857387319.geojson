@@ -1,0 +1,71 @@
+{
+  "id": 857387319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.797509,33.459984,-88.797509,33.459984",
+    "geom:latitude":33.459984,
+    "geom:longitude":-88.797509,
+    "iso:country":"US",
+    "sg:address":"632 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 2562",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FZrIJ1yqZ4SN1vLDxVVxi_33.459984_-88.797509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128368,
+    "wof:geomhash":"c78082a076c0407032fd5ac5e9619204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857387319
+        }
+    ],
+    "wof:id":857387319,
+    "wof:lastmodified":1464128368,
+    "wof:name":"Corkeys Party Place",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -88.797509,
+    33.459984,
+    -88.797509,
+    33.459984
+],
+  "geometry": {"coordinates":[-88.79750900000001,33.459984],"type":"Point"}
+}

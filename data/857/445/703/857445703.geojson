@@ -1,0 +1,80 @@
+{
+  "id": 857445703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575211,34.190807,-90.575211,34.190807",
+    "geom:latitude":34.190807,
+    "geom:longitude":-90.575211,
+    "iso:country":"US",
+    "sg:address":"431 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2062",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s0ekPZYfHgqoviNrfMacA_34.190807_-90.575211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129676,
+    "wof:geomhash":"88247fe01f406c016f26b30ef8d4aadb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857445703
+        }
+    ],
+    "wof:id":857445703,
+    "wof:lastmodified":1464129676,
+    "wof:name":"Tobacco Superstore 21",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.575211,
+    34.190807,
+    -90.575211,
+    34.190807
+],
+  "geometry": {"coordinates":[-90.575211,34.190807],"type":"Point"}
+}

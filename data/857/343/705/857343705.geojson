@@ -1,0 +1,71 @@
+{
+  "id": 857343705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.762099,34.250541,-88.762099,34.250541",
+    "geom:latitude":34.250541,
+    "geom:longitude":-88.762099,
+    "iso:country":"US",
+    "sg:address":"3425 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 8802",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L4YGCho79P9QENuuhtuMk_34.250541_-88.762099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127347,
+    "wof:geomhash":"fca46b5e2d9e4b33017f87e1914d922e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857343705
+        }
+    ],
+    "wof:id":857343705,
+    "wof:lastmodified":1464127347,
+    "wof:name":"Merchants & Farmers Bank",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -88.762099,
+    34.250541,
+    -88.762099,
+    34.250541
+],
+  "geometry": {"coordinates":[-88.76209900000001,34.250541],"type":"Point"}
+}

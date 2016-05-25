@@ -1,0 +1,73 @@
+{
+  "id": 857402455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.260948,31.345587,-89.260948,31.345587",
+    "geom:latitude":31.345587,
+    "geom:longitude":-89.260948,
+    "iso:country":"US",
+    "sg:address":"121 Morris St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 3618",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VM1dfXuzNIl4thDdq5iAe_31.345587_-89.260948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128675,
+    "wof:geomhash":"68e8ed329cdc272a916f2c09c8510e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857402455
+        }
+    ],
+    "wof:id":857402455,
+    "wof:lastmodified":1464128675,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.260948,
+    31.345587,
+    -89.260948,
+    31.345587
+],
+  "geometry": {"coordinates":[-89.260948,31.345587],"type":"Point"}
+}

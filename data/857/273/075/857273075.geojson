@@ -1,0 +1,73 @@
+{
+  "id": 857273075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.829778,30.416132,-88.829778,30.416132",
+    "geom:latitude":30.416132,
+    "geom:longitude":-88.829778,
+    "iso:country":"US",
+    "sg:address":"811 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 3381",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hiYkSfsXSa5dKP0wqy132_30.416132_-88.829778@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125747,
+    "wof:geomhash":"6acc6d0a3d2f67df2625c7d341c0fff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857273075
+        }
+    ],
+    "wof:id":857273075,
+    "wof:lastmodified":1464125747,
+    "wof:name":"Union Planters Bank",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.829778,
+    30.416132,
+    -88.829778,
+    30.416132
+],
+  "geometry": {"coordinates":[-88.829778,30.416132],"type":"Point"}
+}

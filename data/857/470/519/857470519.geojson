@@ -1,0 +1,71 @@
+{
+  "id": 857470519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691288,32.35066,-88.691288,32.35066",
+    "geom:latitude":32.35066,
+    "geom:longitude":-88.691288,
+    "iso:country":"US",
+    "sg:address":"1400 Roebuck Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 2300",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jLBTA5QxwhhFHA6QSGVJ8_32.350660_-88.691288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130180,
+    "wof:geomhash":"e3cac0812df828e5645f5bb319f80928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857470519
+        }
+    ],
+    "wof:id":857470519,
+    "wof:lastmodified":1464130180,
+    "wof:name":"Baymont Inns & Suites",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.691288,
+    32.35066,
+    -88.691288,
+    32.35066
+],
+  "geometry": {"coordinates":[-88.691288,32.35066],"type":"Point"}
+}

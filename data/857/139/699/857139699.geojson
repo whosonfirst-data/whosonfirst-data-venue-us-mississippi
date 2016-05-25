@@ -1,0 +1,71 @@
+{
+  "id": 857139699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.244903,31.086456,-89.244903,31.086456",
+    "geom:latitude":31.086456,
+    "geom:longitude":-89.244903,
+    "iso:country":"US",
+    "sg:address":"8 Attix Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8498",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zrlnk1zx9TSdSyUirq5Mu_31.086456_-89.244903@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122886,
+    "wof:geomhash":"78c285ff1f516cb0462f06a70b77ea47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857139699
+        }
+    ],
+    "wof:id":857139699,
+    "wof:lastmodified":1464122886,
+    "wof:name":"Cedarbrook II",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.244903,
+    31.086456,
+    -89.244903,
+    31.086456
+],
+  "geometry": {"coordinates":[-89.24490299999999,31.086456],"type":"Point"}
+}

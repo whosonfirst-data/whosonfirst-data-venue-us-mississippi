@@ -1,0 +1,71 @@
+{
+  "id": 857316081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.800059,30.415363,-88.800059,30.415363",
+    "geom:latitude":30.415363,
+    "geom:longitude":-88.800059,
+    "iso:country":"US",
+    "sg:address":"2420 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 385 5500",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48mXvMwXRhF41mxnXoDTkG_30.415363_-88.800059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126747,
+    "wof:geomhash":"925161b1eb24787e6b7b72c1db10cd1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857316081
+        }
+    ],
+    "wof:id":857316081,
+    "wof:lastmodified":1464126747,
+    "wof:name":"Ocean Springs Office",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -88.800059,
+    30.415363,
+    -88.800059,
+    30.415363
+],
+  "geometry": {"coordinates":[-88.800059,30.415363],"type":"Point"}
+}

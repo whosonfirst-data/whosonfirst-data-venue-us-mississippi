@@ -1,0 +1,75 @@
+{
+  "id": 857473811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.678872,32.408415,-88.678872,32.408415",
+    "geom:latitude":32.408415,
+    "geom:longitude":-88.678872,
+    "iso:country":"US",
+    "sg:address":"4940 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2864",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qYNw3bbnWPQyWptfnzfbp_32.408415_-88.678872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130252,
+    "wof:geomhash":"90172b15fb8d2d2b733aa601f1cdb693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857473811
+        }
+    ],
+    "wof:id":857473811,
+    "wof:lastmodified":1464130252,
+    "wof:name":"Family Counseling Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -88.678872,
+    32.408415,
+    -88.678872,
+    32.408415
+],
+  "geometry": {"coordinates":[-88.678872,32.408415],"type":"Point"}
+}

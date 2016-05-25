@@ -1,0 +1,73 @@
+{
+  "id": 857207895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.147599,30.383705,-89.147599,30.383705",
+    "geom:latitude":30.383705,
+    "geom:longitude":-89.147599,
+    "iso:country":"US",
+    "sg:address":"18401 28th St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 7403",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IU9aL94EYxKNHwrY76cav_30.383705_-89.147599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124348,
+    "wof:geomhash":"240fd443cde568854bcfe492b552d5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857207895
+        }
+    ],
+    "wof:id":857207895,
+    "wof:lastmodified":1464124348,
+    "wof:name":"ABC Towing",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.147599,
+    30.383705,
+    -89.147599,
+    30.383705
+],
+  "geometry": {"coordinates":[-89.147599,30.383705],"type":"Point"}
+}

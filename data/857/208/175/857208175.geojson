@@ -1,0 +1,71 @@
+{
+  "id": 857208175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542654,33.822799,-88.542654,33.822799",
+    "geom:latitude":33.822799,
+    "geom:longitude":-88.542654,
+    "iso:country":"US",
+    "sg:address":"205 E Jefferson St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8518",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2utVDZ0rWzJr3XfqxpUnc1_33.822799_-88.542654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124354,
+    "wof:geomhash":"e5a97e73982b00086d373e750790eab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857208175
+        }
+    ],
+    "wof:id":857208175,
+    "wof:lastmodified":1464124354,
+    "wof:name":"Thomas M Brahan",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.542654,
+    33.822799,
+    -88.542654,
+    33.822799
+],
+  "geometry": {"coordinates":[-88.542654,33.822799],"type":"Point"}
+}

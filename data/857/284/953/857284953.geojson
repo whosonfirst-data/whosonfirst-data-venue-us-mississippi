@@ -1,0 +1,71 @@
+{
+  "id": 857284953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652839,33.604811,-88.652839,33.604811",
+    "geom:latitude":33.604811,
+    "geom:longitude":-88.652839,
+    "iso:country":"US",
+    "sg:address":"200 W Broad St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1658",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kvvfwTfsVNVgxlXaP3DEo_33.604811_-88.652839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126021,
+    "wof:geomhash":"1676cdb0463a02aa99bfc8e14caf2b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857284953
+        }
+    ],
+    "wof:id":857284953,
+    "wof:lastmodified":1464126021,
+    "wof:name":"First United Methodist Church",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.652839,
+    33.604811,
+    -88.652839,
+    33.604811
+],
+  "geometry": {"coordinates":[-88.652839,33.604811],"type":"Point"}
+}

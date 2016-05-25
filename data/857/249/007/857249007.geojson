@@ -1,0 +1,71 @@
+{
+  "id": 857249007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.54495,33.825321,-88.54495,33.825321",
+    "geom:latitude":33.825321,
+    "geom:longitude":-88.54495,
+    "iso:country":"US",
+    "sg:address":"105 W Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8691",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sSg8PlTbl67X29TeGrU03_33.825321_-88.544950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125222,
+    "wof:geomhash":"5768a4ad0cf2bcc55b6d97ddd858ca8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857249007
+        }
+    ],
+    "wof:id":857249007,
+    "wof:lastmodified":1464125222,
+    "wof:name":"Jonas & Blalock",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.54495,
+    33.825321,
+    -88.54495,
+    33.825321
+],
+  "geometry": {"coordinates":[-88.54495,33.825321],"type":"Point"}
+}

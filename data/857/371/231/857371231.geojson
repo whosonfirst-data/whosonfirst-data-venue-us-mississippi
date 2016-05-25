@@ -1,0 +1,73 @@
+{
+  "id": 857371231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.41973,33.5068,-88.41973,33.5068",
+    "geom:latitude":33.5068,
+    "geom:longitude":-88.41973,
+    "iso:country":"US",
+    "sg:address":"1124 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 0414",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_549hCC262MsihFylL5R4fy_33.506800_-88.419730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127929,
+    "wof:geomhash":"370addbe6e1f8db0a06ebedfd91ff56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857371231
+        }
+    ],
+    "wof:id":857371231,
+    "wof:lastmodified":1464127929,
+    "wof:name":"M M Tax Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -88.41973,
+    33.5068,
+    -88.41973,
+    33.5068
+],
+  "geometry": {"coordinates":[-88.41973,33.5068],"type":"Point"}
+}

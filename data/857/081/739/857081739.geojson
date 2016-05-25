@@ -1,0 +1,71 @@
+{
+  "id": 857081739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.74202,34.988482,-89.74202,34.988482",
+    "geom:latitude":34.988482,
+    "geom:longitude":-89.74202,
+    "iso:country":"US",
+    "sg:address":"8787 Center Hill Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3878",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_166OOqtorcuD48xrrAOgWd_34.988482_-89.742020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121444,
+    "wof:geomhash":"7151693e30664e246fc3d9f905ca9f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857081739
+        }
+    ],
+    "wof:id":857081739,
+    "wof:lastmodified":1464121444,
+    "wof:name":"Center Hill Baptist Church",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.74202,
+    34.988482,
+    -89.74202,
+    34.988482
+],
+  "geometry": {"coordinates":[-89.74202,34.988482],"type":"Point"}
+}

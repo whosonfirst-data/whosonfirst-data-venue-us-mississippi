@@ -1,0 +1,76 @@
+{
+  "id": 857084657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.75068,30.428749,-88.75068,30.428749",
+    "geom:latitude":30.428749,
+    "geom:longitude":-88.75068,
+    "iso:country":"US",
+    "sg:address":"5801 Toche Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8146",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instrument",
+        "optical",
+        "lense"
+    ],
+    "sg:website":"www.ferson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cjLHhhcIP56M8RHKF2XOh_30.428749_-88.750680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121523,
+    "wof:geomhash":"61814e6cfb7156519cefc599f54b5659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857084657
+        }
+    ],
+    "wof:id":857084657,
+    "wof:lastmodified":1464121523,
+    "wof:name":"Ferson Technologies Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "optical",
+        "lense"
+    ]
+},
+  "bbox": [
+    -88.75068,
+    30.428749,
+    -88.75068,
+    30.428749
+],
+  "geometry": {"coordinates":[-88.75068,30.428749],"type":"Point"}
+}

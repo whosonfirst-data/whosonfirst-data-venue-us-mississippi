@@ -1,0 +1,73 @@
+{
+  "id": 857118919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.135841,32.18107,-90.135841,32.18107",
+    "geom:latitude":32.18107,
+    "geom:longitude":-90.135841,
+    "iso:country":"US",
+    "sg:address":"458 Hwy 49 S",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 2472",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VGSoTHK1PTnyMM1MiyCKU_32.181070_-90.135841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122428,
+    "wof:geomhash":"839e0cbfd71970cc130759fbb41ef708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857118919
+        }
+    ],
+    "wof:id":857118919,
+    "wof:lastmodified":1464122428,
+    "wof:name":"Hawkins Automotive Machine",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.135841,
+    32.18107,
+    -90.135841,
+    32.18107
+],
+  "geometry": {"coordinates":[-90.135841,32.18107],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857146417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.543973,34.376093,-89.543973,34.376093",
+    "geom:latitude":34.376093,
+    "geom:longitude":-89.543973,
+    "iso:country":"US",
+    "sg:address":"103 Ole Miss Dr",
+    "sg:city":"University",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 915 7461",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JAIRx8s2zdy9GT3vqfzRD_34.376093_-89.543973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123068,
+    "wof:geomhash":"5e9508372adabaed5147855378bcd3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857146417
+        }
+    ],
+    "wof:id":857146417,
+    "wof:lastmodified":1464123068,
+    "wof:name":"Campus Mail Service",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -89.543973,
+    34.376093,
+    -89.543973,
+    34.376093
+],
+  "geometry": {"coordinates":[-89.54397299999999,34.376093],"type":"Point"}
+}

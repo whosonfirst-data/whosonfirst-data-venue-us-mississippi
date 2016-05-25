@@ -1,0 +1,71 @@
+{
+  "id": 857453005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.797165,34.966918,-89.797165,34.966918",
+    "geom:latitude":34.966918,
+    "geom:longitude":-89.797165,
+    "iso:country":"US",
+    "sg:address":"10862 Nichols Blvd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 6374",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N7Z3PvzVr1TFcCqgbI46x_34.966918_-89.797165@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129816,
+    "wof:geomhash":"47714733bccddf48d2db945c001cec9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857453005
+        }
+    ],
+    "wof:id":857453005,
+    "wof:lastmodified":1464129816,
+    "wof:name":"Event Outfitters",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -89.797165,
+    34.966918,
+    -89.797165,
+    34.966918
+],
+  "geometry": {"coordinates":[-89.79716500000001,34.966918],"type":"Point"}
+}

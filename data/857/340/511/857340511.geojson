@@ -1,0 +1,71 @@
+{
+  "id": 857340511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47316,32.851492,-90.47316,32.851492",
+    "geom:latitude":32.851492,
+    "geom:longitude":-90.47316,
+    "iso:country":"US",
+    "sg:address":"112 Coleman Ln",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4001",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FFs3qIE37qVxAeCBUrKgv_32.851492_-90.473160@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127288,
+    "wof:geomhash":"7da61adff0e4e5c7ad91a23c70ace145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857340511
+        }
+    ],
+    "wof:id":857340511,
+    "wof:lastmodified":1464127288,
+    "wof:name":"Smith & Casey Beauty Salon",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.47316,
+    32.851492,
+    -90.47316,
+    32.851492
+],
+  "geometry": {"coordinates":[-90.47315999999999,32.851492],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857264059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.451173,31.410649,-89.451173,31.410649",
+    "geom:latitude":31.410649,
+    "geom:longitude":-89.451173,
+    "iso:country":"US",
+    "sg:address":"10 Taylor Trl",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 6448",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YpeOVIY3nXg9QiaZvUu0u_31.410649_-89.451173@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125575,
+    "wof:geomhash":"f5731a18e887275f8fbcdb829a3866b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857264059
+        }
+    ],
+    "wof:id":857264059,
+    "wof:lastmodified":1464125575,
+    "wof:name":"Mark Hust",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -89.451173,
+    31.410649,
+    -89.451173,
+    31.410649
+],
+  "geometry": {"coordinates":[-89.451173,31.410649],"type":"Point"}
+}

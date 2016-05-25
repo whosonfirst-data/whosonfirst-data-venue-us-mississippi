@@ -1,0 +1,82 @@
+{
+  "id": 857270339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.094203,30.39946,-89.094203,30.39946",
+    "geom:latitude":30.39946,
+    "geom:longitude":-89.094203,
+    "iso:country":"US",
+    "sg:address":"4005 Arkansas Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 2999",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tube",
+        "tire",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHr6xz0b3iIDQtVhvKG36_30.399460_-89.094203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125693,
+    "wof:geomhash":"2ed5861c82181014bc14da6e4bdc1dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857270339
+        }
+    ],
+    "wof:id":857270339,
+    "wof:lastmodified":1464125693,
+    "wof:name":"Ken's Custom",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tube",
+        "tire",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.094203,
+    30.39946,
+    -89.094203,
+    30.39946
+],
+  "geometry": {"coordinates":[-89.09420299999999,30.39946],"type":"Point"}
+}

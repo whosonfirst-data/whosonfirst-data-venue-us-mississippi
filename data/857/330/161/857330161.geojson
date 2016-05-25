@@ -1,0 +1,73 @@
+{
+  "id": 857330161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756777,30.385844,-88.756777,30.385844",
+    "geom:latitude":30.385844,
+    "geom:longitude":-88.756777,
+    "iso:country":"US",
+    "sg:address":"8900 Live Oak Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0185",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s24XsErmzhMdcDI0RKjSK_30.385844_-88.756777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127057,
+    "wof:geomhash":"4805c76cb68f38fb4980a5199dd0b8ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857330161
+        }
+    ],
+    "wof:id":857330161,
+    "wof:lastmodified":1464127057,
+    "wof:name":"Hugos Restaurant & Lounge",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.756777,
+    30.385844,
+    -88.756777,
+    30.385844
+],
+  "geometry": {"coordinates":[-88.756777,30.385844],"type":"Point"}
+}

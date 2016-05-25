@@ -1,0 +1,73 @@
+{
+  "id": 857321097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.82697,34.961091,-89.82697,34.961091",
+    "geom:latitude":34.961091,
+    "geom:longitude":-89.82697,
+    "iso:country":"US",
+    "sg:address":"9245 Pigeon Roost Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4111",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVJskOfhT2w7Ks4oIHN5U_34.961091_-89.826970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126871,
+    "wof:geomhash":"75bf8c582a59599d4ed082c8c81c540d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857321097
+        }
+    ],
+    "wof:id":857321097,
+    "wof:lastmodified":1464126871,
+    "wof:name":"Police Department",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.82697,
+    34.961091,
+    -89.82697,
+    34.961091
+],
+  "geometry": {"coordinates":[-89.82697,34.961091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857316417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.316163,31.376118,-89.316163,31.376118",
+    "geom:latitude":31.376118,
+    "geom:longitude":-89.316163,
+    "iso:country":"US",
+    "sg:address":"197 Anita Dr",
+    "sg:city":"Richton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 989 2466",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZSAfG3lGN5h28OVbU8ECm_31.376118_-89.316163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126754,
+    "wof:geomhash":"d6056579d95555fe4ecc282f7dac7000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857316417
+        }
+    ],
+    "wof:id":857316417,
+    "wof:lastmodified":1464126754,
+    "wof:name":"Dan Brewer's Dozier Svc",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.316163,
+    31.376118,
+    -89.316163,
+    31.376118
+],
+  "geometry": {"coordinates":[-89.316163,31.376118],"type":"Point"}
+}

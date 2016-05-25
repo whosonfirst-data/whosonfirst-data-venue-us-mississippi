@@ -1,0 +1,71 @@
+{
+  "id": 857425289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680883,32.32811,-88.680883,32.32811",
+    "geom:latitude":32.32811,
+    "geom:longitude":-88.680883,
+    "iso:country":"US",
+    "sg:address":"3343 Skyland Pl",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6525",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51WdXPp1oE3RA4aaqNrHoJ_32.328110_-88.680883@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129233,
+    "wof:geomhash":"725e362d861539532089e3f2582b09f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857425289
+        }
+    ],
+    "wof:id":857425289,
+    "wof:lastmodified":1464129233,
+    "wof:name":"Charlies Limousine Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -88.680883,
+    32.32811,
+    -88.680883,
+    32.32811
+],
+  "geometry": {"coordinates":[-88.68088299999999,32.32811],"type":"Point"}
+}

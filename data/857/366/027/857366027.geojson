@@ -1,0 +1,73 @@
+{
+  "id": 857366027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.849901,32.308852,-90.849901,32.308852",
+    "geom:latitude":32.308852,
+    "geom:longitude":-90.849901,
+    "iso:country":"US",
+    "sg:address":"100 Montaign Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8208",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hyurwbs5Ds6AyctV2e8TM_32.308852_-90.849901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127825,
+    "wof:geomhash":"53992b1da5d7ef8804f93984d0966936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857366027
+        }
+    ],
+    "wof:id":857366027,
+    "wof:lastmodified":1464127825,
+    "wof:name":"Redmon Family Revocable Trust",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -90.849901,
+    32.308852,
+    -90.849901,
+    32.308852
+],
+  "geometry": {"coordinates":[-90.849901,32.308852],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857457993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680735,34.457798,-88.680735,34.457798",
+    "geom:latitude":34.457798,
+    "geom:longitude":-88.680735,
+    "iso:country":"US",
+    "sg:address":"970 Co Rd 833",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 2539",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W2ZUWW9n2iRP73TvCnFRW_34.457798_-88.680735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129916,
+    "wof:geomhash":"d7f98fe561693a7243a5d4b4b9ec70c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857457993
+        }
+    ],
+    "wof:id":857457993,
+    "wof:lastmodified":1464129916,
+    "wof:name":"Guntown Cell Site",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.680735,
+    34.457798,
+    -88.680735,
+    34.457798
+],
+  "geometry": {"coordinates":[-88.680735,34.457798],"type":"Point"}
+}

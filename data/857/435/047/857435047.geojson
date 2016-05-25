@@ -1,0 +1,71 @@
+{
+  "id": 857435047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.565827,34.200408,-90.565827,34.200408",
+    "geom:latitude":34.200408,
+    "geom:longitude":-90.565827,
+    "iso:country":"US",
+    "sg:address":"423 Mississippi Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9332",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ehkimWS0cpvSmD6thSG5_34.200408_-90.565827@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129468,
+    "wof:geomhash":"6bba2330fe45b7ec65edee001b88d33d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857435047
+        }
+    ],
+    "wof:id":857435047,
+    "wof:lastmodified":1464129468,
+    "wof:name":"Dorseys Day Care",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -90.565827,
+    34.200408,
+    -90.565827,
+    34.200408
+],
+  "geometry": {"coordinates":[-90.565827,34.200408],"type":"Point"}
+}

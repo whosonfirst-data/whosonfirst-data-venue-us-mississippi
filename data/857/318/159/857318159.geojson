@@ -1,0 +1,73 @@
+{
+  "id": 857318159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.943835,30.471524,-88.943835,30.471524",
+    "geom:latitude":30.471524,
+    "geom:longitude":-88.943835,
+    "iso:country":"US",
+    "sg:address":"12431 Old Hwy 67",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 9388",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TPpesm1n0G7MMYFlXMrbh_30.471524_-88.943835@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126815,
+    "wof:geomhash":"4b73fe1933298553eef2c9d386be0ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857318159
+        }
+    ],
+    "wof:id":857318159,
+    "wof:lastmodified":1464126815,
+    "wof:name":"B P Country Store",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.943835,
+    30.471524,
+    -88.943835,
+    30.471524
+],
+  "geometry": {"coordinates":[-88.94383500000001,30.471524],"type":"Point"}
+}

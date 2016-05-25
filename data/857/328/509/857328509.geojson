@@ -1,0 +1,75 @@
+{
+  "id": 857328509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648683,33.606691,-88.648683,33.606691",
+    "geom:latitude":33.606691,
+    "geom:longitude":-88.648683,
+    "iso:country":"US",
+    "sg:address":"133 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1079",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "retirement",
+        "hotel",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H5tdvbQwCTdbBLaK66sdK_33.606691_-88.648683@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127022,
+    "wof:geomhash":"54716219ad571be706d19a803dcbaef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857328509
+        }
+    ],
+    "wof:id":857328509,
+    "wof:lastmodified":1464127022,
+    "wof:name":"Henry Clay Hotel Retirement Co",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retirement",
+        "hotel",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.648683,
+    33.606691,
+    -88.648683,
+    33.606691
+],
+  "geometry": {"coordinates":[-88.64868300000001,33.606691],"type":"Point"}
+}

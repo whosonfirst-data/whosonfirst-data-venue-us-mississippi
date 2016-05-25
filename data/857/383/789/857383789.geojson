@@ -1,0 +1,73 @@
+{
+  "id": 857383789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.412307,33.510656,-88.412307,33.510656",
+    "geom:latitude":33.510656,
+    "geom:longitude":-88.412307,
+    "iso:country":"US",
+    "sg:address":"1910 N 14th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9227",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ax60dYLqJOuzyO4pjNHl2_33.510656_-88.412307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128236,
+    "wof:geomhash":"24415d45c079b68eae246213773741c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857383789
+        }
+    ],
+    "wof:id":857383789,
+    "wof:lastmodified":1464128236,
+    "wof:name":"FM Request Line",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -88.412307,
+    33.510656,
+    -88.412307,
+    33.510656
+],
+  "geometry": {"coordinates":[-88.412307,33.510656],"type":"Point"}
+}

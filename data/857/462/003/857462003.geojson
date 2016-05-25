@@ -1,0 +1,73 @@
+{
+  "id": 857462003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684988,34.23601,-88.684988,34.23601",
+    "geom:latitude":34.23601,
+    "geom:longitude":-88.684988,
+    "iso:country":"US",
+    "sg:address":"1396 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5840",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M6ojyl6g09JTg9atImeXE_34.236010_-88.684988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129990,
+    "wof:geomhash":"79774e4d6d8681e61067c18e97911d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857462003
+        }
+    ],
+    "wof:id":857462003,
+    "wof:lastmodified":1464129990,
+    "wof:name":"Davis Property Management",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.684988,
+    34.23601,
+    -88.684988,
+    34.23601
+],
+  "geometry": {"coordinates":[-88.684988,34.23601],"type":"Point"}
+}

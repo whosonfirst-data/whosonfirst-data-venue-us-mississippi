@@ -1,0 +1,79 @@
+{
+  "id": 857485867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.093704,32.421602,-90.093704,32.421602",
+    "geom:latitude":32.421602,
+    "geom:longitude":-90.093704,
+    "iso:country":"US",
+    "sg:address":"116 Conestoga Rd",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/madison/157869-shuckers-oyster-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 0105",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wXurRTLkKcb9C3dQzlLP8_32.421982_-90.093606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130482,
+    "wof:geomhash":"4373cf2e1b1cd85acd4c8e79ee968458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857485867
+        }
+    ],
+    "wof:id":857485867,
+    "wof:lastmodified":1464130482,
+    "wof:name":"Shucker's Oyster Bar",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.093704,
+    32.421602,
+    -90.093704,
+    32.421602
+],
+  "geometry": {"coordinates":[-90.093704,32.421602],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857131239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539787,30.413998,-88.539787,30.413998",
+    "geom:latitude":30.413998,
+    "geom:longitude":-88.539787,
+    "iso:country":"US",
+    "sg:address":"5013 Park St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 5546",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uIQKkpfbfcSaBb2YVcKxD_30.413998_-88.539787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122706,
+    "wof:geomhash":"337290e0239e3c31450cbcff719b5016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857131239
+        }
+    ],
+    "wof:id":857131239,
+    "wof:lastmodified":1464122706,
+    "wof:name":"Hope Hospice",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -88.539787,
+    30.413998,
+    -88.539787,
+    30.413998
+],
+  "geometry": {"coordinates":[-88.539787,30.413998],"type":"Point"}
+}

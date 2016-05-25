@@ -1,0 +1,71 @@
+{
+  "id": 857081321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.186506,32.151617,-90.186506,32.151617",
+    "geom:latitude":32.151617,
+    "geom:longitude":-90.186506,
+    "iso:country":"US",
+    "sg:address":"1065 Mullican Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 6214",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DU70VtnRAe0AQh4Iz2lhP_32.151617_-90.186506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121432,
+    "wof:geomhash":"5b04c93707d2ab6ccae16f8a75765e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857081321
+        }
+    ],
+    "wof:id":857081321,
+    "wof:lastmodified":1464121432,
+    "wof:name":"Robert L Jones",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -90.186506,
+    32.151617,
+    -90.186506,
+    32.151617
+],
+  "geometry": {"coordinates":[-90.18650599999999,32.151617],"type":"Point"}
+}

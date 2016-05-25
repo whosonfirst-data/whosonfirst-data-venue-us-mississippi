@@ -1,0 +1,73 @@
+{
+  "id": 857472503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71984,32.389961,-88.71984,32.389961",
+    "geom:latitude":32.389961,
+    "geom:longitude":-88.71984,
+    "iso:country":"US",
+    "sg:address":"4400 32nd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 4094",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FVJ8lJuW2mQ9wHV8GKp9w_32.389961_-88.719840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130228,
+    "wof:geomhash":"9691fc3ad80346f0c8063e95769ee9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857472503
+        }
+    ],
+    "wof:id":857472503,
+    "wof:lastmodified":1464130228,
+    "wof:name":"Northwest Jr High",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -88.71984,
+    32.389961,
+    -88.71984,
+    32.389961
+],
+  "geometry": {"coordinates":[-88.71984,32.389961],"type":"Point"}
+}

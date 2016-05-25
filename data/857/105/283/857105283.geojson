@@ -1,0 +1,73 @@
+{
+  "id": 857105283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.687749,30.530219,-88.687749,30.530219",
+    "geom:latitude":30.530219,
+    "geom:longitude":-88.687749,
+    "iso:country":"US",
+    "sg:address":"12609 State Hwy 57",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 0022",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16KSJUwh7iuXD2RaWOciLE_30.530219_-88.687749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122031,
+    "wof:geomhash":"216771fe2d4beb3f5e764ae6094392ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857105283
+        }
+    ],
+    "wof:id":857105283,
+    "wof:lastmodified":1464122031,
+    "wof:name":"TNT Video 2",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.687749,
+    30.530219,
+    -88.687749,
+    30.530219
+],
+  "geometry": {"coordinates":[-88.687749,30.530219],"type":"Point"}
+}

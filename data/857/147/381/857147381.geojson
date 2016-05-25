@@ -1,0 +1,73 @@
+{
+  "id": 857147381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.458954,33.375558,-88.458954,33.375558",
+    "geom:latitude":33.375558,
+    "geom:longitude":-88.458954,
+    "iso:country":"US",
+    "sg:address":"3012 E Lindsey Ferry Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4382",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ha3xHmVANsglO1H4mrBHI_33.375558_-88.458954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123085,
+    "wof:geomhash":"1dd24227e6e91e1b40a227686d7a879c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857147381
+        }
+    ],
+    "wof:id":857147381,
+    "wof:lastmodified":1464123085,
+    "wof:name":"Hill's Cabinets",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -88.458954,
+    33.375558,
+    -88.458954,
+    33.375558
+],
+  "geometry": {"coordinates":[-88.45895400000001,33.375558],"type":"Point"}
+}

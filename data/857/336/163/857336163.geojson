@@ -1,0 +1,71 @@
+{
+  "id": 857336163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.923117,33.477692,-88.923117,33.477692",
+    "geom:latitude":33.477692,
+    "geom:longitude":-88.923117,
+    "iso:country":"US",
+    "sg:address":"1527 Hwy 82 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6812",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ba9w1gZavVM7wVThrZFQU_33.477692_-88.923117@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127190,
+    "wof:geomhash":"edbf5554072e585de22c695edff7c43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857336163
+        }
+    ],
+    "wof:id":857336163,
+    "wof:lastmodified":1464127190,
+    "wof:name":"Evans Sitting Svc",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting"
+    ]
+},
+  "bbox": [
+    -88.923117,
+    33.477692,
+    -88.923117,
+    33.477692
+],
+  "geometry": {"coordinates":[-88.923117,33.477692],"type":"Point"}
+}

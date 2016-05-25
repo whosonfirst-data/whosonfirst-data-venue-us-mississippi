@@ -1,0 +1,73 @@
+{
+  "id": 857118761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.828121,33.443781,-88.828121,33.443781",
+    "geom:latitude":33.443781,
+    "geom:longitude":-88.828121,
+    "iso:country":"US",
+    "sg:address":"130 Helen Cir",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 615 0505",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85857241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GXx6vqLI0LcMejpzWq49V_33.443781_-88.828121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122425,
+    "wof:geomhash":"bb37e0b710635b8081d5461dcbd74662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85857241,
+            "region_id":85688579,
+            "venue_id":857118761
+        }
+    ],
+    "wof:id":857118761,
+    "wof:lastmodified":1464122425,
+    "wof:name":"Sallie Mae",
+    "wof:parent_id":85857241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.828121,
+    33.443781,
+    -88.828121,
+    33.443781
+],
+  "geometry": {"coordinates":[-88.828121,33.443781],"type":"Point"}
+}

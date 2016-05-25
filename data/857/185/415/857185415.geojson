@@ -1,0 +1,72 @@
+{
+  "id": 857185415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402614,32.857331,-90.402614,32.857331",
+    "geom:latitude":32.857331,
+    "geom:longitude":-90.402614,
+    "iso:country":"US",
+    "sg:address":"715 Jackson Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1232",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.lahcg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OvHdvSh7GeLEJR2VHae4P_32.857331_-90.402614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123905,
+    "wof:geomhash":"05f48322aa2e51ca0641aaa2eac35efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857185415
+        }
+    ],
+    "wof:id":857185415,
+    "wof:lastmodified":1464123905,
+    "wof:name":"Mississippi Homecare",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -90.402614,
+    32.857331,
+    -90.402614,
+    32.857331
+],
+  "geometry": {"coordinates":[-90.402614,32.857331],"type":"Point"}
+}

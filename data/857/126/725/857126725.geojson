@@ -1,0 +1,75 @@
+{
+  "id": 857126725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529146,32.375197,-88.529146,32.375197",
+    "geom:latitude":32.375197,
+    "geom:longitude":-88.529146,
+    "iso:country":"US",
+    "sg:address":"3409 Koa Campground Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 632 4197",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MMDTf262Cz5jSuKtOXMAh_32.375197_-88.529146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122601,
+    "wof:geomhash":"5094ce5e47dee65491de047b50fa7442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857126725
+        }
+    ],
+    "wof:id":857126725,
+    "wof:lastmodified":1464122601,
+    "wof:name":"Townsend Body Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.529146,
+    32.375197,
+    -88.529146,
+    32.375197
+],
+  "geometry": {"coordinates":[-88.529146,32.375197],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857305137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.331984,33.493389,-88.331984,33.493389",
+    "geom:latitude":33.493389,
+    "geom:longitude":-88.331984,
+    "iso:country":"US",
+    "sg:address":"47 Baker Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9300",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SGRJubFZIlUW9QtzV0zIr_33.493389_-88.331984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126522,
+    "wof:geomhash":"847c1c6aea7b55c1e4291d630a44f1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857305137
+        }
+    ],
+    "wof:id":857305137,
+    "wof:lastmodified":1464126522,
+    "wof:name":"Cyr Bruce & Kim",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.331984,
+    33.493389,
+    -88.331984,
+    33.493389
+],
+  "geometry": {"coordinates":[-88.33198400000001,33.493389],"type":"Point"}
+}

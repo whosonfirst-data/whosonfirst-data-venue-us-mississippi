@@ -1,0 +1,66 @@
+{
+  "id": 857255541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42652,33.51281,-88.42652,33.51281",
+    "geom:latitude":33.51281,
+    "geom:longitude":-88.42652,
+    "iso:country":"US",
+    "sg:address":"1600 N 6th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 7087",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EWusXeT4EDivFWvmiQCcl_33.512810_-88.426520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125387,
+    "wof:geomhash":"fd00966d15f7f00e75caf2a72a5cd96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857255541
+        }
+    ],
+    "wof:id":857255541,
+    "wof:lastmodified":1464125387,
+    "wof:name":"Williams Investors LLC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.42652,
+    33.51281,
+    -88.42652,
+    33.51281
+],
+  "geometry": {"coordinates":[-88.42652,33.51281],"type":"Point"}
+}

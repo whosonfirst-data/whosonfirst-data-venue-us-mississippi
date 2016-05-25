@@ -1,0 +1,73 @@
+{
+  "id": 857281503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520931,34.347827,-89.520931,34.347827",
+    "geom:latitude":34.347827,
+    "geom:longitude":-89.520931,
+    "iso:country":"US",
+    "sg:address":"1203 Belk Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2900",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T6UKSTj0HnwKFwqIHkYgO_34.347827_-89.520931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125951,
+    "wof:geomhash":"4277c5a03cf0e71721271e4b016849c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857281503
+        }
+    ],
+    "wof:id":857281503,
+    "wof:lastmodified":1464125951,
+    "wof:name":"Nephrology & Hypertension Assc",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.520931,
+    34.347827,
+    -89.520931,
+    34.347827
+],
+  "geometry": {"coordinates":[-89.520931,34.347827],"type":"Point"}
+}

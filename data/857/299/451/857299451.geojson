@@ -1,0 +1,73 @@
+{
+  "id": 857299451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.713897,32.373145,-88.713897,32.373145",
+    "geom:latitude":32.373145,
+    "geom:longitude":-88.713897,
+    "iso:country":"US",
+    "sg:address":"3522 16th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0966",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oxV1Tk8wrcS1NEVeZXVvY_32.373145_-88.713897@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126399,
+    "wof:geomhash":"87e20706c6494c69575661edaebf6a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857299451
+        }
+    ],
+    "wof:id":857299451,
+    "wof:lastmodified":1464126399,
+    "wof:name":"Jim Hutchinson Plumbing",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.713897,
+    32.373145,
+    -88.713897,
+    32.373145
+],
+  "geometry": {"coordinates":[-88.713897,32.373145],"type":"Point"}
+}

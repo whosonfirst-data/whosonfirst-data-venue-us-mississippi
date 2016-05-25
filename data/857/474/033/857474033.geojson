@@ -1,0 +1,73 @@
+{
+  "id": 857474033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53367,30.370739,-88.53367,30.370739",
+    "geom:latitude":30.370739,
+    "geom:longitude":-88.53367,
+    "iso:country":"US",
+    "sg:address":"3615 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1602",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOI8eoqk7zKm1Tas5Ybu1_30.370739_-88.533670@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130257,
+    "wof:geomhash":"95360669b8a7e9c292a6cd76df682b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857474033
+        }
+    ],
+    "wof:id":857474033,
+    "wof:lastmodified":1464130257,
+    "wof:name":"Singing River Physical Thrpy",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.53367,
+    30.370739,
+    -88.53367,
+    30.370739
+],
+  "geometry": {"coordinates":[-88.53367,30.370739],"type":"Point"}
+}

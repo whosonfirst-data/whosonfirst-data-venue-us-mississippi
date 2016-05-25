@@ -1,0 +1,71 @@
+{
+  "id": 857177067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55249,33.825707,-88.55249,33.825707",
+    "geom:latitude":33.825707,
+    "geom:longitude":-88.55249,
+    "iso:country":"US",
+    "sg:address":"606 W Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4083",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rLImkkXn6QaW91wZQNwaW_33.825707_-88.552490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123734,
+    "wof:geomhash":"3c6eb7a55ccb2c8182db426040dd0b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857177067
+        }
+    ],
+    "wof:id":857177067,
+    "wof:lastmodified":1464123734,
+    "wof:name":"Watson Animal Hospital",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.55249,
+    33.825707,
+    -88.55249,
+    33.825707
+],
+  "geometry": {"coordinates":[-88.55249000000001,33.825707],"type":"Point"}
+}

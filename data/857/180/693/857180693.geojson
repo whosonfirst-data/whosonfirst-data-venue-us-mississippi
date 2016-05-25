@@ -1,0 +1,69 @@
+{
+  "id": 857180693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.008674,32.37474,-90.008674,32.37474",
+    "geom:latitude":32.37474,
+    "geom:longitude":-90.008674,
+    "iso:country":"US",
+    "sg:address":"2232 Spillway Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 2657",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CLVlGTPi7B9YE6B5p15vs_32.374740_-90.008674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123809,
+    "wof:geomhash":"b87dcccffc664693f29698982834e85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857180693
+        }
+    ],
+    "wof:id":857180693,
+    "wof:lastmodified":1464123809,
+    "wof:name":"Reservoir Fire Dept",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.008674,
+    32.37474,
+    -90.008674,
+    32.37474
+],
+  "geometry": {"coordinates":[-90.008674,32.37474],"type":"Point"}
+}

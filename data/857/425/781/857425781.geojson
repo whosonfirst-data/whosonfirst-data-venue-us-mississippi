@@ -1,0 +1,66 @@
+{
+  "id": 857425781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405512,32.857765,-90.405512,32.857765",
+    "geom:latitude":32.857765,
+    "geom:longitude":-90.405512,
+    "iso:country":"US",
+    "sg:address":"723 Calhoun Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 4695",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XhouM4OgjQLXcVS8tqFEy_32.857765_-90.405512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129249,
+    "wof:geomhash":"537a8ae3c3ac4ad8511756fe3ed94ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857425781
+        }
+    ],
+    "wof:id":857425781,
+    "wof:lastmodified":1464129249,
+    "wof:name":"Smitty's Beauty Salon",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.405512,
+    32.857765,
+    -90.405512,
+    32.857765
+],
+  "geometry": {"coordinates":[-90.405512,32.857765],"type":"Point"}
+}

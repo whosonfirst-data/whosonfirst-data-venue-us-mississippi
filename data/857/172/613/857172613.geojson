@@ -1,0 +1,71 @@
+{
+  "id": 857172613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.540205,34.380725,-89.540205,34.380725",
+    "geom:latitude":34.380725,
+    "geom:longitude":-89.540205,
+    "iso:country":"US",
+    "sg:address":"598 McElroy Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6001",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MMj38fnZ3Io7hcKJgK76m_34.380725_-89.540205@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123643,
+    "wof:geomhash":"50d9ffc1f33fdf0c7193242fe6d99e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857172613
+        }
+    ],
+    "wof:id":857172613,
+    "wof:lastmodified":1464123643,
+    "wof:name":"Natural Resources Conservation",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -89.540205,
+    34.380725,
+    -89.540205,
+    34.380725
+],
+  "geometry": {"coordinates":[-89.540205,34.380725],"type":"Point"}
+}

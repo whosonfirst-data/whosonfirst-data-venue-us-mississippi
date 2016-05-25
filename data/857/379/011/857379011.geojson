@@ -1,0 +1,68 @@
+{
+  "id": 857379011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.22292,32.347729,-90.22292,32.347729",
+    "geom:latitude":32.347729,
+    "geom:longitude":-90.22292,
+    "iso:country":"US",
+    "sg:address":"5714 Medgar Evers Blvd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 1830",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85838363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cIobJEyvE1GxnbEGCJbbE_32.347729_-90.222920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128095,
+    "wof:geomhash":"64c0c3ba38e660d477b5b9f5ff1f829d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85838363,
+            "region_id":85688579,
+            "venue_id":857379011
+        }
+    ],
+    "wof:id":857379011,
+    "wof:lastmodified":1464128095,
+    "wof:name":"Fleet Morris Petroleum",
+    "wof:parent_id":85838363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.22292,
+    32.347729,
+    -90.22292,
+    32.347729
+],
+  "geometry": {"coordinates":[-90.22292,32.347729],"type":"Point"}
+}

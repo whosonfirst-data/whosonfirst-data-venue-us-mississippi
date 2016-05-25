@@ -1,0 +1,66 @@
+{
+  "id": 857329895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.2968,33.491881,-88.2968,33.491881",
+    "geom:latitude":33.491881,
+    "geom:longitude":-88.2968,
+    "iso:country":"US",
+    "sg:address":"7803 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 6605",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q7eAhEnhPDbVEybY7zYrP_33.491881_-88.296800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127052,
+    "wof:geomhash":"e0d584e2d7543547bdffe4673931d895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857329895
+        }
+    ],
+    "wof:id":857329895,
+    "wof:lastmodified":1464127052,
+    "wof:name":"Sprint Mart",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.2968,
+    33.491881,
+    -88.2968,
+    33.491881
+],
+  "geometry": {"coordinates":[-88.2968,33.491881],"type":"Point"}
+}

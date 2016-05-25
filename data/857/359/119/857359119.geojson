@@ -1,0 +1,71 @@
+{
+  "id": 857359119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.829474,34.947809,-89.829474,34.947809",
+    "geom:latitude":34.947809,
+    "geom:longitude":-89.829474,
+    "iso:country":"US",
+    "sg:address":"9035 E Sandidge Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 7338",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NR3ZDjcJWSfjEZEBBjxxr_34.947809_-89.829474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127680,
+    "wof:geomhash":"1cec6d767dd6c2bc20a69ef2791a96d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857359119
+        }
+    ],
+    "wof:id":857359119,
+    "wof:lastmodified":1464127680,
+    "wof:name":"W A Thames Dmd",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.829474,
+    34.947809,
+    -89.829474,
+    34.947809
+],
+  "geometry": {"coordinates":[-89.829474,34.947809],"type":"Point"}
+}

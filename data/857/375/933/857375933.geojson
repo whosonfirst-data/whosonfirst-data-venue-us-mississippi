@@ -1,0 +1,73 @@
+{
+  "id": 857375933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.558521,34.363368,-89.558521,34.363368",
+    "geom:latitude":34.363368,
+    "geom:longitude":-89.558521,
+    "iso:country":"US",
+    "sg:address":"2101 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 7811",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H4WVDd5IRowY5sJAtsPWW_34.363368_-89.558521@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128032,
+    "wof:geomhash":"169f464a34827c645542c58f134d639e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857375933
+        }
+    ],
+    "wof:id":857375933,
+    "wof:lastmodified":1464128032,
+    "wof:name":"Advanced Lubrication Ctr",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -89.558521,
+    34.363368,
+    -89.558521,
+    34.363368
+],
+  "geometry": {"coordinates":[-89.558521,34.363368],"type":"Point"}
+}

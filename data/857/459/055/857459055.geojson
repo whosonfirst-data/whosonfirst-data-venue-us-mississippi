@@ -1,0 +1,66 @@
+{
+  "id": 857459055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.2093,30.330187,-89.2093,30.330187",
+    "geom:latitude":30.330187,
+    "geom:longitude":-89.2093,
+    "iso:country":"US",
+    "sg:address":"905 E 2nd St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 4225",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XEMPTtXUcBRQ1Gq4BtFNf_30.330187_-89.209300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129934,
+    "wof:geomhash":"13027f63f7639de198b66b4501fdf2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857459055
+        }
+    ],
+    "wof:id":857459055,
+    "wof:lastmodified":1464129934,
+    "wof:name":"Fox's Den",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2093,
+    30.330187,
+    -89.2093,
+    30.330187
+],
+  "geometry": {"coordinates":[-89.2093,30.330187],"type":"Point"}
+}

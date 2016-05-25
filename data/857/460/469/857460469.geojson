@@ -1,0 +1,71 @@
+{
+  "id": 857460469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.850308,32.342216,-90.850308,32.342216",
+    "geom:latitude":32.342216,
+    "geom:longitude":-90.850308,
+    "iso:country":"US",
+    "sg:address":"60 Old Hwy 27",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 0606",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYXRODhVI0leES7S8cry6_32.342216_-90.850308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129961,
+    "wof:geomhash":"aaab8865e9cbb2227572ab9d25d9af0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857460469
+        }
+    ],
+    "wof:id":857460469,
+    "wof:lastmodified":1464129961,
+    "wof:name":"Old South Caterers Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.850308,
+    32.342216,
+    -90.850308,
+    32.342216
+],
+  "geometry": {"coordinates":[-90.850308,32.342216],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857419505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.556049,30.368679,-88.556049,30.368679",
+    "geom:latitude":30.368679,
+    "geom:longitude":-88.556049,
+    "iso:country":"US",
+    "sg:address":"3423 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6882",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NJ6HHvNsxMbSQoOYl4rc4_30.368679_-88.556049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129086,
+    "wof:geomhash":"5a961e62d680c96167e842763b6acf1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857419505
+        }
+    ],
+    "wof:id":857419505,
+    "wof:lastmodified":1464129086,
+    "wof:name":"Town & Country Storage",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.556049,
+    30.368679,
+    -88.556049,
+    30.368679
+],
+  "geometry": {"coordinates":[-88.556049,30.368679],"type":"Point"}
+}

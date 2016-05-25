@@ -1,0 +1,68 @@
+{
+  "id": 857190417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.722929,32.360498,-88.722929,32.360498",
+    "geom:latitude":32.360498,
+    "geom:longitude":-88.722929,
+    "iso:country":"US",
+    "sg:address":"4421 5th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9681",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0veWtARwhBpj0ftKDRp4yR_32.360498_-88.722929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123996,
+    "wof:geomhash":"e6671834325a0fc32e8551de6bc113bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857190417
+        }
+    ],
+    "wof:id":857190417,
+    "wof:lastmodified":1464123996,
+    "wof:name":"Suds Laundromat Westside",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.722929,
+    32.360498,
+    -88.722929,
+    32.360498
+],
+  "geometry": {"coordinates":[-88.72292899999999,32.360498],"type":"Point"}
+}

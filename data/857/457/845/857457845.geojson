@@ -1,0 +1,71 @@
+{
+  "id": 857457845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.650564,33.607024,-88.650564,33.607024",
+    "geom:latitude":33.607024,
+    "geom:longitude":-88.650564,
+    "iso:country":"US",
+    "sg:address":"110 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 9936",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rfJo3WDASUPhpIqRQtQuB_33.607024_-88.650564@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129914,
+    "wof:geomhash":"ad556890edf68af737f5243d409c1f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857457845
+        }
+    ],
+    "wof:id":857457845,
+    "wof:lastmodified":1464129914,
+    "wof:name":"Lady Doris Salon Of Beauty",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.650564,
+    33.607024,
+    -88.650564,
+    33.607024
+],
+  "geometry": {"coordinates":[-88.650564,33.607024],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857088029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.801672,33.457922,-88.801672,33.457922",
+    "geom:latitude":33.457922,
+    "geom:longitude":-88.801672,
+    "iso:country":"US",
+    "sg:address":"505 Russell St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8031",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bp5y0MOiGfRYQMJuYW2xP_33.457922_-88.801672@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121614,
+    "wof:geomhash":"7855b01217f15f461a3b1a9dd96159ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857088029
+        }
+    ],
+    "wof:id":857088029,
+    "wof:lastmodified":1464121614,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -88.801672,
+    33.457922,
+    -88.801672,
+    33.457922
+],
+  "geometry": {"coordinates":[-88.801672,33.457922],"type":"Point"}
+}

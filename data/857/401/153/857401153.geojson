@@ -1,0 +1,73 @@
+{
+  "id": 857401153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56892,34.202351,-90.56892,34.202351",
+    "geom:latitude":34.202351,
+    "geom:longitude":-90.56892,
+    "iso:country":"US",
+    "sg:address":"506 3rd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2011",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nuunP99sCfh6jJzd8r6Jx_34.202351_-90.568920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128646,
+    "wof:geomhash":"2cbc8ffc2e9cb21eb068d57bf90b8d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857401153
+        }
+    ],
+    "wof:id":857401153,
+    "wof:lastmodified":1464128646,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.56892,
+    34.202351,
+    -90.56892,
+    34.202351
+],
+  "geometry": {"coordinates":[-90.56892000000001,34.202351],"type":"Point"}
+}

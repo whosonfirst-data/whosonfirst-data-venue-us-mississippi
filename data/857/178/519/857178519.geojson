@@ -1,0 +1,71 @@
+{
+  "id": 857178519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.815087,30.413656,-88.815087,30.413656",
+    "geom:latitude":30.413656,
+    "geom:longitude":-88.815087,
+    "iso:country":"US",
+    "sg:address":"2113 Government St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 8771",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RZIyyICfHaYCQX8KpMeOK_30.413656_-88.815087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123762,
+    "wof:geomhash":"4712c5c78a39aa0b87cce652658f8948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857178519
+        }
+    ],
+    "wof:id":857178519,
+    "wof:lastmodified":1464123762,
+    "wof:name":"Donald K Butcher MD",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.815087,
+    30.413656,
+    -88.815087,
+    30.413656
+],
+  "geometry": {"coordinates":[-88.81508700000001,30.413656],"type":"Point"}
+}

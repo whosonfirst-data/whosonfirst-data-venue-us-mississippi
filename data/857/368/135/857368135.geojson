@@ -1,0 +1,78 @@
+{
+  "id": 857368135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756577,30.408545,-88.756577,30.408545",
+    "geom:latitude":30.408545,
+    "geom:longitude":-88.756577,
+    "iso:country":"US",
+    "sg:address":"1211 Parktown Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 0837",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0epfqrQwDjdtJsqWGAaNQz_30.408545_-88.756577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127865,
+    "wof:geomhash":"e4ab6d4138895c2b806a6019a99851b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857368135
+        }
+    ],
+    "wof:id":857368135,
+    "wof:lastmodified":1464127865,
+    "wof:name":"Plumb Clean Drain Service",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.756577,
+    30.408545,
+    -88.756577,
+    30.408545
+],
+  "geometry": {"coordinates":[-88.75657699999999,30.408545],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857089219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639054,30.411572,-88.639054,30.411572",
+    "geom:latitude":30.411572,
+    "geom:longitude":-88.639054,
+    "iso:country":"US",
+    "sg:address":"4916 Forestwood Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 2906",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bxWs7QpHPfueNAT4oHW8p_30.411572_-88.639054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121649,
+    "wof:geomhash":"32ead4b547eeb4ff6fb6e5f7c73d1f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857089219
+        }
+    ],
+    "wof:id":857089219,
+    "wof:lastmodified":1464121649,
+    "wof:name":"Superior Vending LLC",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.639054,
+    30.411572,
+    -88.639054,
+    30.411572
+],
+  "geometry": {"coordinates":[-88.639054,30.411572],"type":"Point"}
+}

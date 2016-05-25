@@ -1,0 +1,71 @@
+{
+  "id": 857267161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567624,34.193458,-90.567624,34.193458",
+    "geom:latitude":34.193458,
+    "geom:longitude":-90.567624,
+    "iso:country":"US",
+    "sg:address":"344 State Hwy 322",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4381",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gqy1ccjRtQO1Y4Z2l3496_34.193458_-90.567624@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125632,
+    "wof:geomhash":"5c90571e702618c75144143ba6cc4179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857267161
+        }
+    ],
+    "wof:id":857267161,
+    "wof:lastmodified":1464125632,
+    "wof:name":"Region One Work Activity Ctr",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.567624,
+    34.193458,
+    -90.567624,
+    34.193458
+],
+  "geometry": {"coordinates":[-90.567624,34.193458],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857403833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416593,32.835771,-90.416593,32.835771",
+    "geom:latitude":32.835771,
+    "geom:longitude":-90.416593,
+    "iso:country":"US",
+    "sg:address":"81 Ridge Road Cir",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5548",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dbscgaQpmiuDVou3yexMG_32.835771_-90.416593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128700,
+    "wof:geomhash":"9adc0c6880131a0509c2dc855c9b71a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857403833
+        }
+    ],
+    "wof:id":857403833,
+    "wof:lastmodified":1464128700,
+    "wof:name":"Carl Dees",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.416593,
+    32.835771,
+    -90.416593,
+    32.835771
+],
+  "geometry": {"coordinates":[-90.41659300000001,32.835771],"type":"Point"}
+}

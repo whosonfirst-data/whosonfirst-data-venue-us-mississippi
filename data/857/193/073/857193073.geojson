@@ -1,0 +1,73 @@
+{
+  "id": 857193073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.81002,34.191628,-88.81002,34.191628",
+    "geom:latitude":34.191628,
+    "geom:longitude":-88.81002,
+    "iso:country":"US",
+    "sg:address":"420 Palmetto Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 9289",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14C1uunDZWh9206tGAItEI_34.191628_-88.810020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124043,
+    "wof:geomhash":"79eb91ae4c297368b72a232c033b1587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857193073
+        }
+    ],
+    "wof:id":857193073,
+    "wof:lastmodified":1464124043,
+    "wof:name":"Pennington Farms",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.81002,
+    34.191628,
+    -88.81002,
+    34.191628
+],
+  "geometry": {"coordinates":[-88.81001999999999,34.191628],"type":"Point"}
+}

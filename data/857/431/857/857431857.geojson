@@ -1,0 +1,71 @@
+{
+  "id": 857431857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571954,34.198144,-90.571954,34.198144",
+    "geom:latitude":34.198144,
+    "geom:longitude":-90.571954,
+    "iso:country":"US",
+    "sg:address":"429 Yazoo Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4161",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28iQSFhrX916ntiEUTMxob_34.198144_-90.571954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129385,
+    "wof:geomhash":"2917a40eac0791d7b40e4e94bc9c72c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857431857
+        }
+    ],
+    "wof:id":857431857,
+    "wof:lastmodified":1464129385,
+    "wof:name":"Delta Burial Corp",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -90.571954,
+    34.198144,
+    -90.571954,
+    34.198144
+],
+  "geometry": {"coordinates":[-90.57195400000001,34.198144],"type":"Point"}
+}

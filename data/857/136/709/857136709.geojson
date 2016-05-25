@@ -1,0 +1,75 @@
+{
+  "id": 857136709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.87973,30.480025,-88.87973,30.480025",
+    "geom:latitude":30.480025,
+    "geom:longitude":-88.87973,
+    "iso:country":"US",
+    "sg:address":"15912 McClellan Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 0065",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "e",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66kD0TgOhSYfhLmZCf1jaY_30.480025_-88.879730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122824,
+    "wof:geomhash":"320419d1ca6013ccd1fe4afeef82c405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857136709
+        }
+    ],
+    "wof:id":857136709,
+    "wof:lastmodified":1464122824,
+    "wof:name":"Tapper Security Systems",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "e",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.87973,
+    30.480025,
+    -88.87973,
+    30.480025
+],
+  "geometry": {"coordinates":[-88.87973,30.480025],"type":"Point"}
+}

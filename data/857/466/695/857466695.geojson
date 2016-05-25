@@ -1,0 +1,77 @@
+{
+  "id": 857466695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.526844,30.437708,-88.526844,30.437708",
+    "geom:latitude":30.437708,
+    "geom:longitude":-88.526844,
+    "iso:country":"US",
+    "sg:address":"5912 State Hwy 63",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7070",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969591,
+        102083161,
+        85819755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AemwjQyR78mIEHeYDOgJl_30.437708_-88.526844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130101,
+    "wof:geomhash":"f1c72aea8b6ce73f0e38ee060dc10d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85819755,
+            "region_id":85688579,
+            "venue_id":857466695
+        }
+    ],
+    "wof:id":857466695,
+    "wof:lastmodified":1464130101,
+    "wof:name":"First Class Detail",
+    "wof:parent_id":85819755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -88.526844,
+    30.437708,
+    -88.526844,
+    30.437708
+],
+  "geometry": {"coordinates":[-88.526844,30.437708],"type":"Point"}
+}

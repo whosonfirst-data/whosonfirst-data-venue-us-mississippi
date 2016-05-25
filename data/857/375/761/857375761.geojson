@@ -1,0 +1,73 @@
+{
+  "id": 857375761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.605373,34.102776,-90.605373,34.102776",
+    "geom:latitude":34.102776,
+    "geom:longitude":-90.605373,
+    "iso:country":"US",
+    "sg:address":"3515 Reinhart Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3938",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85826271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OTqv82GCvqEXc1rxtis2H_34.102776_-90.605373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128028,
+    "wof:geomhash":"62d55962e7edd2b392b78057d3e792e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85826271,
+            "region_id":85688579,
+            "venue_id":857375761
+        }
+    ],
+    "wof:id":857375761,
+    "wof:lastmodified":1464128028,
+    "wof:name":"Gable Land Leveling Co",
+    "wof:parent_id":85826271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.605373,
+    34.102776,
+    -90.605373,
+    34.102776
+],
+  "geometry": {"coordinates":[-90.605373,34.102776],"type":"Point"}
+}

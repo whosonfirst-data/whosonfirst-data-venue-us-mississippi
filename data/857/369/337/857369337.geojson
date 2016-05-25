@@ -1,0 +1,73 @@
+{
+  "id": 857369337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.622011,34.509254,-88.622011,34.509254",
+    "geom:latitude":34.509254,
+    "geom:longitude":-88.622011,
+    "iso:country":"US",
+    "sg:address":"100 East St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8778",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mGXC9npnl4EiJNQlGH7Fd_34.509254_-88.622011@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127888,
+    "wof:geomhash":"28f7e7bc3e4690b731df58fd12ad49dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857369337
+        }
+    ],
+    "wof:id":857369337,
+    "wof:lastmodified":1464127888,
+    "wof:name":"Eastview Apts",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.622011,
+    34.509254,
+    -88.622011,
+    34.509254
+],
+  "geometry": {"coordinates":[-88.622011,34.509254],"type":"Point"}
+}

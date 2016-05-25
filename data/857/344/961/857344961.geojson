@@ -1,0 +1,73 @@
+{
+  "id": 857344961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.616388,30.384615,-88.616388,30.384615",
+    "geom:latitude":30.384615,
+    "geom:longitude":-88.616388,
+    "iso:country":"US",
+    "sg:address":"409 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 1171",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aruVSYe6KZ6eXqVNPzSeH_30.384615_-88.616388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127370,
+    "wof:geomhash":"e7bd88dd5b13578e70de7fe9ce40e8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857344961
+        }
+    ],
+    "wof:id":857344961,
+    "wof:lastmodified":1464127370,
+    "wof:name":"Consignment City",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.616388,
+    30.384615,
+    -88.616388,
+    30.384615
+],
+  "geometry": {"coordinates":[-88.616388,30.384615],"type":"Point"}
+}

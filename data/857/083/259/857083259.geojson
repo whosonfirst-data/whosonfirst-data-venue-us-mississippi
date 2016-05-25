@@ -1,0 +1,71 @@
+{
+  "id": 857083259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.769735,30.385622,-88.769735,30.385622",
+    "geom:latitude":30.385622,
+    "geom:longitude":-88.769735,
+    "iso:country":"US",
+    "sg:address":"9621 Oak Crest Ln",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 6826",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iCLT2RdP7C91lbvWGDvdm_30.385622_-88.769735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121492,
+    "wof:geomhash":"57bb002ce69452c5ef820a2e36313b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857083259
+        }
+    ],
+    "wof:id":857083259,
+    "wof:lastmodified":1464121492,
+    "wof:name":"Gulfcoast Orthopedic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.769735,
+    30.385622,
+    -88.769735,
+    30.385622
+],
+  "geometry": {"coordinates":[-88.769735,30.385622],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857110785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.277018,31.303127,-89.277018,31.303127",
+    "geom:latitude":31.303127,
+    "geom:longitude":-89.277018,
+    "iso:country":"US",
+    "sg:address":"1301 James St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3141",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ],
+    "sg:website":"www.marshalldurbin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WkC1YkE1utrWEqqbFtqA3_31.303127_-89.277018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122192,
+    "wof:geomhash":"1f0f83c975c173b34445a7c69dc368a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857110785
+        }
+    ],
+    "wof:id":857110785,
+    "wof:lastmodified":1464122192,
+    "wof:name":"Marshall Durbin Poultry Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [
+    -89.277018,
+    31.303127,
+    -89.277018,
+    31.303127
+],
+  "geometry": {"coordinates":[-89.277018,31.303127],"type":"Point"}
+}

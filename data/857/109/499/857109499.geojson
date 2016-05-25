@@ -1,0 +1,71 @@
+{
+  "id": 857109499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.509861,30.352031,-88.509861,30.352031",
+    "geom:latitude":30.352031,
+    "geom:longitude":-88.509861,
+    "iso:country":"US",
+    "sg:address":"5301 Ladner Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0884",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wwctvuFlvyCbmIGs8gIgD_30.352031_-88.509861@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122140,
+    "wof:geomhash":"d4cd384bf01f4f85253462f1039fa243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857109499
+        }
+    ],
+    "wof:id":857109499,
+    "wof:lastmodified":1464122140,
+    "wof:name":"Dockside Seafood",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -88.509861,
+    30.352031,
+    -88.509861,
+    30.352031
+],
+  "geometry": {"coordinates":[-88.509861,30.352031],"type":"Point"}
+}

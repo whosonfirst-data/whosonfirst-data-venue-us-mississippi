@@ -1,0 +1,73 @@
+{
+  "id": 857318387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685319,32.413811,-88.685319,32.413811",
+    "geom:latitude":32.413811,
+    "geom:longitude":-88.685319,
+    "iso:country":"US",
+    "sg:address":"720 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 216 501 4400",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TMEehuTIVT9sNXQy4JQMy_32.413811_-88.685319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126818,
+    "wof:geomhash":"a9f92910b7b48a7335597533147a383c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857318387
+        }
+    ],
+    "wof:id":857318387,
+    "wof:lastmodified":1464126818,
+    "wof:name":"Continental Airlines",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -88.685319,
+    32.413811,
+    -88.685319,
+    32.413811
+],
+  "geometry": {"coordinates":[-88.68531900000001,32.413811],"type":"Point"}
+}

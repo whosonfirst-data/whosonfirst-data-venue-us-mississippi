@@ -1,0 +1,75 @@
+{
+  "id": 857122463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.810187,30.41392,-88.810187,30.41392",
+    "geom:latitude":30.41392,
+    "geom:longitude":-88.810187,
+    "iso:country":"US",
+    "sg:address":"809 Holcomb Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 0288",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "electric",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zkQMQBQa0U50aQ0RJxwYQ_30.413920_-88.810187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122511,
+    "wof:geomhash":"b7fce6d64bea9ddc5bebfdc8672a2302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857122463
+        }
+    ],
+    "wof:id":857122463,
+    "wof:lastmodified":1464122511,
+    "wof:name":"J & K Auto Electric",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.810187,
+    30.41392,
+    -88.810187,
+    30.41392
+],
+  "geometry": {"coordinates":[-88.810187,30.41392],"type":"Point"}
+}

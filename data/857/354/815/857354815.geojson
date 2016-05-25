@@ -1,0 +1,78 @@
+{
+  "id": 857354815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.966912,32.349043,-89.966912,32.349043",
+    "geom:latitude":32.349043,
+    "geom:longitude":-89.966912,
+    "iso:country":"US",
+    "sg:address":"44 Napoleon Cir",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 1052",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dBzmPDviJY3btoFdaNxvt_32.349043_-89.966912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127590,
+    "wof:geomhash":"b7209bf82b3f208fd59d288e1ab6bc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857354815
+        }
+    ],
+    "wof:id":857354815,
+    "wof:lastmodified":1464127590,
+    "wof:name":"Action Prsuit Games of Brandon",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.966912,
+    32.349043,
+    -89.966912,
+    32.349043
+],
+  "geometry": {"coordinates":[-89.96691199999999,32.349043],"type":"Point"}
+}

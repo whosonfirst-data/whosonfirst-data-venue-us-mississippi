@@ -1,0 +1,68 @@
+{
+  "id": 857390357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.870079,32.32357,-90.870079,32.32357",
+    "geom:latitude":32.32357,
+    "geom:longitude":-90.870079,
+    "iso:country":"US",
+    "sg:address":"3206 Wisconsin Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 4487",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oif3CkpMU9GpDBhiz1APd_32.323570_-90.870079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128437,
+    "wof:geomhash":"838e0c76def47072a68aad85f88c4ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857390357
+        }
+    ],
+    "wof:id":857390357,
+    "wof:lastmodified":1464128437,
+    "wof:name":"A Wild Hair",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.870079,
+    32.32357,
+    -90.870079,
+    32.32357
+],
+  "geometry": {"coordinates":[-90.870079,32.32357],"type":"Point"}
+}

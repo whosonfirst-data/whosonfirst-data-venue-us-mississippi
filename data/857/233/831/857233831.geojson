@@ -1,0 +1,75 @@
+{
+  "id": 857233831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838664,33.449149,-88.838664,33.449149",
+    "geom:latitude":33.449149,
+    "geom:longitude":-88.838664,
+    "iso:country":"US",
+    "sg:address":"825 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3250",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43yVzVucda46rkjtr3BX4Y_33.449149_-88.838664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124876,
+    "wof:geomhash":"9fa91f0ad1571450feea02349f6cf1e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857233831
+        }
+    ],
+    "wof:id":857233831,
+    "wof:lastmodified":1464124876,
+    "wof:name":"Smith's Custom Body & Glass",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.838664,
+    33.449149,
+    -88.838664,
+    33.449149
+],
+  "geometry": {"coordinates":[-88.83866399999999,33.449149],"type":"Point"}
+}

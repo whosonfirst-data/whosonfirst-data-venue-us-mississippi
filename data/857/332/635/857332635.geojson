@@ -1,0 +1,73 @@
+{
+  "id": 857332635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.76639,34.094836,-88.76639,34.094836",
+    "geom:latitude":34.094836,
+    "geom:longitude":-88.76639,
+    "iso:country":"US",
+    "sg:address":"668 Co Rd 154",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 9115",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KQ8eg5rt3fRNYowoHxuwP_34.094836_-88.766390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127115,
+    "wof:geomhash":"4571c97259effe16a9426e577e5f4369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857332635
+        }
+    ],
+    "wof:id":857332635,
+    "wof:lastmodified":1464127115,
+    "wof:name":"South Lee Fire Department",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -88.76639,
+    34.094836,
+    -88.76639,
+    34.094836
+],
+  "geometry": {"coordinates":[-88.76639,34.094836],"type":"Point"}
+}

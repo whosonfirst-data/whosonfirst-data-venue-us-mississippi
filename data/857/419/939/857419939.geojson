@@ -1,0 +1,73 @@
+{
+  "id": 857419939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.804045,32.312296,-89.804045,32.312296",
+    "geom:latitude":32.312296,
+    "geom:longitude":-89.804045,
+    "iso:country":"US",
+    "sg:address":"518 2nd St",
+    "sg:city":"Pelahatchie",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 854 6922",
+    "sg:postcode":"39145",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kJiw0QQ3icyZCnCY2cPsQ_32.312296_-89.804045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129093,
+    "wof:geomhash":"ec05e17dc68853bfb678863c15f6bc35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857419939
+        }
+    ],
+    "wof:id":857419939,
+    "wof:lastmodified":1464129093,
+    "wof:name":"Ritter Electric Co",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.804045,
+    32.312296,
+    -89.804045,
+    32.312296
+],
+  "geometry": {"coordinates":[-89.804045,32.312296],"type":"Point"}
+}

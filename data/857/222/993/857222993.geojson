@@ -1,0 +1,73 @@
+{
+  "id": 857222993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.884478,34.962151,-89.884478,34.962151",
+    "geom:latitude":34.962151,
+    "geom:longitude":-89.884478,
+    "iso:country":"US",
+    "sg:address":"5979 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3164",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMOJVNhKX4RALhdyfx2vG_34.962151_-89.884478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124674,
+    "wof:geomhash":"5e4419c9c094c9ff0f19dfc1bdf52d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857222993
+        }
+    ],
+    "wof:id":857222993,
+    "wof:lastmodified":1464124674,
+    "wof:name":"Hughey Body Shop",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.884478,
+    34.962151,
+    -89.884478,
+    34.962151
+],
+  "geometry": {"coordinates":[-89.884478,34.962151],"type":"Point"}
+}

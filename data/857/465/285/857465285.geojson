@@ -1,0 +1,73 @@
+{
+  "id": 857465285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.997666,30.392306,-88.997666,30.392306",
+    "geom:latitude":30.392306,
+    "geom:longitude":-88.997666,
+    "iso:country":"US",
+    "sg:address":"190 Gateway Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 385 7800",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77eXEx2ePLAhi3vciEwbEP_30.392306_-88.997666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130073,
+    "wof:geomhash":"a8710c388bc7b920a921ccca78348cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857465285
+        }
+    ],
+    "wof:id":857465285,
+    "wof:lastmodified":1464130073,
+    "wof:name":"Royal Gulf Apartments",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.997666,
+    30.392306,
+    -88.997666,
+    30.392306
+],
+  "geometry": {"coordinates":[-88.997666,30.392306],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857390189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.102687,32.331175,-90.102687,32.331175",
+    "geom:latitude":32.331175,
+    "geom:longitude":-90.102687,
+    "iso:country":"US",
+    "sg:address":"1037 N Flowood Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 0302",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ultrasound",
+        "surgeon",
+        "testing",
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wFjT3CxXpwWTvxoIMSDqP_32.331175_-90.102687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128434,
+    "wof:geomhash":"6c466cdea3a9e92dd84c9cf6084ad197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857390189
+        }
+    ],
+    "wof:id":857390189,
+    "wof:lastmodified":1464128434,
+    "wof:name":"Southern Diagnostic Imaging",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ultrasound",
+        "surgeon",
+        "testing",
+        "physician"
+    ]
+},
+  "bbox": [
+    -90.102687,
+    32.331175,
+    -90.102687,
+    32.331175
+],
+  "geometry": {"coordinates":[-90.102687,32.331175],"type":"Point"}
+}

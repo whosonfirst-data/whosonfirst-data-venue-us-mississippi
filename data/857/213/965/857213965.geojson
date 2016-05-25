@@ -1,0 +1,71 @@
+{
+  "id": 857213965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.062609,32.472185,-90.062609,32.472185",
+    "geom:latitude":32.472185,
+    "geom:longitude":-90.062609,
+    "iso:country":"US",
+    "sg:address":"404 Old Rice Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 1057",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IzD34OE5MNlGiBuQ8TYlk_32.472185_-90.062609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124485,
+    "wof:geomhash":"98c859927853590b4dfe49bbbec31f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857213965
+        }
+    ],
+    "wof:id":857213965,
+    "wof:lastmodified":1464124485,
+    "wof:name":"Communication Consultants Inc",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.062609,
+    32.472185,
+    -90.062609,
+    32.472185
+],
+  "geometry": {"coordinates":[-90.06260899999999,32.472185],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857471659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547827,30.470864,-88.547827,30.470864",
+    "geom:latitude":30.470864,
+    "geom:longitude":-88.547827,
+    "iso:country":"US",
+    "sg:address":"3737 Buttonwood",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7345",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "outboard",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OVdiCx72yFBMk3GWYis69_30.470864_-88.547827@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130208,
+    "wof:geomhash":"5dc94c1bffc1a3d7bf1295e0ca67ea28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857471659
+        }
+    ],
+    "wof:id":857471659,
+    "wof:lastmodified":1464130208,
+    "wof:name":"Spicer's Outboard Repair",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outboard",
+        "motor"
+    ]
+},
+  "bbox": [
+    -88.547827,
+    30.470864,
+    -88.547827,
+    30.470864
+],
+  "geometry": {"coordinates":[-88.547827,30.470864],"type":"Point"}
+}

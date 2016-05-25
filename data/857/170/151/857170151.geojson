@@ -1,0 +1,71 @@
+{
+  "id": 857170151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583538,34.187452,-90.583538,34.187452",
+    "geom:latitude":34.187452,
+    "geom:longitude":-90.583538,
+    "iso:country":"US",
+    "sg:address":"856 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 3686",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45BvQgHAMSC3z6CgfnCVtj_34.187452_-90.583538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123588,
+    "wof:geomhash":"1598038c1f1161c4cb35d92928834328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857170151
+        }
+    ],
+    "wof:id":857170151,
+    "wof:lastmodified":1464123588,
+    "wof:name":"Nails First",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.583538,
+    34.187452,
+    -90.583538,
+    34.187452
+],
+  "geometry": {"coordinates":[-90.583538,34.187452],"type":"Point"}
+}

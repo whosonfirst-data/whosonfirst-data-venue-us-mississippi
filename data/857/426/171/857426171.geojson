@@ -1,0 +1,69 @@
+{
+  "id": 857426171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.926502,31.913316,-90.926502,31.913316",
+    "geom:latitude":31.913316,
+    "geom:longitude":-90.926502,
+    "iso:country":"US",
+    "sg:address":"6166 State Hwy 547",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 5532",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J2xtBHtL5KjzykVvpSaJC_31.913316_-90.926502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129260,
+    "wof:geomhash":"8369bbc7d574b65495342ee730ad5d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857426171
+        }
+    ],
+    "wof:id":857426171,
+    "wof:lastmodified":1464129260,
+    "wof:name":"Jims Body Shop",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.926502,
+    31.913316,
+    -90.926502,
+    31.913316
+],
+  "geometry": {"coordinates":[-90.926502,31.913316],"type":"Point"}
+}

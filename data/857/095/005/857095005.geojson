@@ -1,0 +1,71 @@
+{
+  "id": 857095005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.543923,32.680208,-90.543923,32.680208",
+    "geom:latitude":32.680208,
+    "geom:longitude":-90.543923,
+    "iso:country":"US",
+    "sg:address":"725 River Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3283",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2pO1cET0YVAPt9eecloi_32.680208_-90.543923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121789,
+    "wof:geomhash":"f3f11a77b2983c5a4c760d2b4b46b19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857095005
+        }
+    ],
+    "wof:id":857095005,
+    "wof:lastmodified":1464121789,
+    "wof:name":"H A Scott Riverside Apartments",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.543923,
+    32.680208,
+    -90.543923,
+    32.680208
+],
+  "geometry": {"coordinates":[-90.54392300000001,32.680208],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857161851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429548,33.494822,-88.429548,33.494822",
+    "geom:latitude":33.494822,
+    "geom:longitude":-88.429548,
+    "iso:country":"US",
+    "sg:address":"116 S 4th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 5142",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IePqlusTo7oZwm2uXK2Zz_33.494822_-88.429548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123401,
+    "wof:geomhash":"b0f7bd90480b2b9653edf438dd50bec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857161851
+        }
+    ],
+    "wof:id":857161851,
+    "wof:lastmodified":1464123401,
+    "wof:name":"Music Alley",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -88.429548,
+    33.494822,
+    -88.429548,
+    33.494822
+],
+  "geometry": {"coordinates":[-88.429548,33.494822],"type":"Point"}
+}

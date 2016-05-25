@@ -1,0 +1,71 @@
+{
+  "id": 857140633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.860422,30.443029,-88.860422,30.443029",
+    "geom:latitude":30.443029,
+    "geom:longitude":-88.860422,
+    "iso:country":"US",
+    "sg:address":"15005 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 3241",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XneJ5o21Dv6RMTVAQNP7r_30.443029_-88.860422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122908,
+    "wof:geomhash":"a7c8ce1d4d0edd91837def6c19feee5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857140633
+        }
+    ],
+    "wof:id":857140633,
+    "wof:lastmodified":1464122908,
+    "wof:name":"Lemoyne Boulevard Baptist Chr",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.860422,
+    30.443029,
+    -88.860422,
+    30.443029
+],
+  "geometry": {"coordinates":[-88.860422,30.443029],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857450065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182466,32.30507,-90.182466,32.30507",
+    "geom:latitude":32.30507,
+    "geom:longitude":-90.182466,
+    "iso:country":"US",
+    "sg:address":"450 High St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 359 6766",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nob9il7AD6uopDBTar8I7_32.305070_-90.182466@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129756,
+    "wof:geomhash":"581380e8d1261d91cedce4aed248a36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878393,
+            "region_id":85688579,
+            "venue_id":857450065
+        }
+    ],
+    "wof:id":857450065,
+    "wof:lastmodified":1464129756,
+    "wof:name":"Crime Victim Compensation",
+    "wof:parent_id":85878393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -90.182466,
+    32.30507,
+    -90.182466,
+    32.30507
+],
+  "geometry": {"coordinates":[-90.18246600000001,32.30507],"type":"Point"}
+}

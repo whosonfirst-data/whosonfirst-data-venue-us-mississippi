@@ -1,0 +1,73 @@
+{
+  "id": 857277371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574856,34.21922,-90.574856,34.21922",
+    "geom:latitude":34.21922,
+    "geom:longitude":-90.574856,
+    "iso:country":"US",
+    "sg:address":"40 Westover Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5598",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XLbrA9z3GSfj8kA6X8HYl_34.219220_-90.574856@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125855,
+    "wof:geomhash":"a017267902b1d44f65f83cc5c856499d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857277371
+        }
+    ],
+    "wof:id":857277371,
+    "wof:lastmodified":1464125855,
+    "wof:name":"Marv Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.574856,
+    34.21922,
+    -90.574856,
+    34.21922
+],
+  "geometry": {"coordinates":[-90.574856,34.21922],"type":"Point"}
+}

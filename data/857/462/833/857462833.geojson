@@ -1,0 +1,73 @@
+{
+  "id": 857462833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.421306,33.498168,-88.421306,33.498168",
+    "geom:latitude":33.498168,
+    "geom:longitude":-88.421306,
+    "iso:country":"US",
+    "sg:address":"217 N 11th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1910",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d9mgRpOE3PYjANTM4nRbG_33.498168_-88.421306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130005,
+    "wof:geomhash":"21814cc68e55754f3ba054e5d74ff169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857462833
+        }
+    ],
+    "wof:id":857462833,
+    "wof:lastmodified":1464130005,
+    "wof:name":"Little Duchess Beauty Salon",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -88.421306,
+    33.498168,
+    -88.421306,
+    33.498168
+],
+  "geometry": {"coordinates":[-88.421306,33.498168],"type":"Point"}
+}

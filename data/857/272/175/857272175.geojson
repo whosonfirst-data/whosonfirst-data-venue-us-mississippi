@@ -1,0 +1,72 @@
+{
+  "id": 857272175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.047513,33.343298,-89.047513,33.343298",
+    "geom:latitude":33.343298,
+    "geom:longitude":-89.047513,
+    "iso:country":"US",
+    "sg:address":"3851 Hwy 12 W",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 465 7970",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.sturgisms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5egi9IrGlWSK24ELDYXd7g_33.343298_-89.047513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125729,
+    "wof:geomhash":"2973ac198060c473bfb86d353e79ab94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857272175
+        }
+    ],
+    "wof:id":857272175,
+    "wof:lastmodified":1464125729,
+    "wof:name":"Sturgis Mayor's Office",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -89.047513,
+    33.343298,
+    -89.047513,
+    33.343298
+],
+  "geometry": {"coordinates":[-89.047513,33.343298],"type":"Point"}
+}

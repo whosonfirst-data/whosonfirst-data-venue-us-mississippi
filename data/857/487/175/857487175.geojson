@@ -1,0 +1,71 @@
+{
+  "id": 857487175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.640409,34.174965,-90.640409,34.174965",
+    "geom:latitude":34.174965,
+    "geom:longitude":-90.640409,
+    "iso:country":"US",
+    "sg:address":"30 Davenport Main St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 280 9030",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46COos6Tada0or7cbZtUAp_34.174965_-90.640409@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130508,
+    "wof:geomhash":"fe3cbedf2b9f0ef65773e900988740b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487175
+        }
+    ],
+    "wof:id":857487175,
+    "wof:lastmodified":1464130508,
+    "wof:name":"Mary M Webb",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -90.640409,
+    34.174965,
+    -90.640409,
+    34.174965
+],
+  "geometry": {"coordinates":[-90.64040900000001,34.174965],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857365103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.54254,33.843102,-88.54254,33.843102",
+    "geom:latitude":33.843102,
+    "geom:longitude":-88.54254,
+    "iso:country":"US",
+    "sg:address":"20051 Blue Bluff Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2832",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ntUJIoDYqQwAZvgdcPwTe_33.843102_-88.542540@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127807,
+    "wof:geomhash":"764e756d6907c9f5a9f7fe1ffdb23000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857365103
+        }
+    ],
+    "wof:id":857365103,
+    "wof:lastmodified":1464127807,
+    "wof:name":"Blue Bluff Recreation Area",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -88.54254,
+    33.843102,
+    -88.54254,
+    33.843102
+],
+  "geometry": {"coordinates":[-88.54254,33.843102],"type":"Point"}
+}

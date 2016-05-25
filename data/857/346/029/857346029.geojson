@@ -1,0 +1,82 @@
+{
+  "id": 857346029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.294461,31.326237,-89.294461,31.326237",
+    "geom:latitude":31.326237,
+    "geom:longitude":-89.294461,
+    "iso:country":"US",
+    "sg:address":"255 Mc Leod St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 0406",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "fence",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HyzNRIRgAA6TX4qpKAygr_31.326237_-89.294461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127395,
+    "wof:geomhash":"6bc567d4c1c01b45b614b440703b2975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857346029
+        }
+    ],
+    "wof:id":857346029,
+    "wof:lastmodified":1464127395,
+    "wof:name":"United Fence Company",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "fence",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.294461,
+    31.326237,
+    -89.294461,
+    31.326237
+],
+  "geometry": {"coordinates":[-89.294461,31.326237],"type":"Point"}
+}

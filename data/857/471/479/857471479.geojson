@@ -1,0 +1,77 @@
+{
+  "id": 857471479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.721148,32.399121,-88.721148,32.399121",
+    "geom:latitude":32.399121,
+    "geom:longitude":-88.721148,
+    "iso:country":"US",
+    "sg:address":"4100 40th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 1124",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12BiTU1xMttO7HVsDjalZf_32.399121_-88.721148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130206,
+    "wof:geomhash":"e398e916b12ecbba3567258dbde85f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857471479
+        }
+    ],
+    "wof:id":857471479,
+    "wof:lastmodified":1464130206,
+    "wof:name":"Colonial Apartments",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "operator"
+    ]
+},
+  "bbox": [
+    -88.721148,
+    32.399121,
+    -88.721148,
+    32.399121
+],
+  "geometry": {"coordinates":[-88.721148,32.399121],"type":"Point"}
+}

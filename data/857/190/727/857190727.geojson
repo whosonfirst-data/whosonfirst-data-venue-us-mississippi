@@ -1,0 +1,71 @@
+{
+  "id": 857190727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430312,33.528403,-88.430312,33.528403",
+    "geom:latitude":33.528403,
+    "geom:longitude":-88.430312,
+    "iso:country":"US",
+    "sg:address":"636 N 31st Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9471",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72gK3GapXdmaMMSkm3IxRs_33.528403_-88.430312@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124002,
+    "wof:geomhash":"d7fb0c1f6ae7617d9700e9dd30fa8fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857190727
+        }
+    ],
+    "wof:id":857190727,
+    "wof:lastmodified":1464124002,
+    "wof:name":"Pear Orchard Apartments",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.430312,
+    33.528403,
+    -88.430312,
+    33.528403
+],
+  "geometry": {"coordinates":[-88.430312,33.528403],"type":"Point"}
+}

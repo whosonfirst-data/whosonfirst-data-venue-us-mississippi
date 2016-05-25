@@ -1,0 +1,71 @@
+{
+  "id": 857394343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.396708,32.85901,-90.396708,32.85901",
+    "geom:latitude":32.85901,
+    "geom:longitude":-90.396708,
+    "iso:country":"US",
+    "sg:address":"1040 Grady Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2213",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gArzvBzn5qgmxpvMnLOIM_32.859010_-90.396708@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128510,
+    "wof:geomhash":"6ff8a6fdfb70c10fe09d368670817f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857394343
+        }
+    ],
+    "wof:id":857394343,
+    "wof:lastmodified":1464128510,
+    "wof:name":"Yazoo County Supervisor-Beat 5",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -90.396708,
+    32.85901,
+    -90.396708,
+    32.85901
+],
+  "geometry": {"coordinates":[-90.396708,32.85901],"type":"Point"}
+}

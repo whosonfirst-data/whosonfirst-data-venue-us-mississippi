@@ -1,0 +1,73 @@
+{
+  "id": 857279071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.773215,32.345602,-90.773215,32.345602",
+    "geom:latitude":32.345602,
+    "geom:longitude":-90.773215,
+    "iso:country":"US",
+    "sg:address":"3650 Warriors Trl",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8524",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yMXWw982CFj6gU2Wa7vx1_32.345602_-90.773215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125898,
+    "wof:geomhash":"95ceb9eeabcf8b15733f437f5ffe0920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857279071
+        }
+    ],
+    "wof:id":857279071,
+    "wof:lastmodified":1464125898,
+    "wof:name":"Arnold Electrical Svc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.773215,
+    32.345602,
+    -90.773215,
+    32.345602
+],
+  "geometry": {"coordinates":[-90.77321499999999,32.345602],"type":"Point"}
+}

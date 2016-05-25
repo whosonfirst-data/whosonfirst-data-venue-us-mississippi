@@ -1,0 +1,75 @@
+{
+  "id": 857359915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.890991,33.520208,-88.890991,33.520208",
+    "geom:latitude":33.520208,
+    "geom:longitude":-88.890991,
+    "iso:country":"US",
+    "sg:address":"1779 Wade Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6453",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46iCPwf6zJUwFmsLDD5Zrm_33.520208_-88.890991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127695,
+    "wof:geomhash":"d7fe3af4935f42ccbd97f5affd7a8a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857359915
+        }
+    ],
+    "wof:id":857359915,
+    "wof:lastmodified":1464127695,
+    "wof:name":"Sammy Turner",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.890991,
+    33.520208,
+    -88.890991,
+    33.520208
+],
+  "geometry": {"coordinates":[-88.890991,33.520208],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857282177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518884,34.365281,-89.518884,34.365281",
+    "geom:latitude":34.365281,
+    "geom:longitude":-89.518884,
+    "iso:country":"US",
+    "sg:address":"309 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2337",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_038wrF4wC8hIavXO1DrIL9_34.365281_-89.518884@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125966,
+    "wof:geomhash":"80141aa3acf11bbbd3bb07093d8f8bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857282177
+        }
+    ],
+    "wof:id":857282177,
+    "wof:lastmodified":1464125966,
+    "wof:name":"Adcom Inc",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -89.518884,
+    34.365281,
+    -89.518884,
+    34.365281
+],
+  "geometry": {"coordinates":[-89.518884,34.365281],"type":"Point"}
+}

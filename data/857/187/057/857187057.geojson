@@ -1,0 +1,78 @@
+{
+  "id": 857187057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659028,33.627062,-88.659028,33.627062",
+    "geom:latitude":33.627062,
+    "geom:longitude":-88.659028,
+    "iso:country":"US",
+    "sg:address":"1245 Hwy 45 N",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 5462",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "all",
+        "terrain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSuRajjDpCKiIE7j3jTM7_33.627062_-88.659028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123934,
+    "wof:geomhash":"ada97eeb0a44edae69be526905105769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857187057
+        }
+    ],
+    "wof:id":857187057,
+    "wof:lastmodified":1464123934,
+    "wof:name":"Adventure Atv",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "all",
+        "terrain"
+    ]
+},
+  "bbox": [
+    -88.659028,
+    33.627062,
+    -88.659028,
+    33.627062
+],
+  "geometry": {"coordinates":[-88.65902800000001,33.627062],"type":"Point"}
+}

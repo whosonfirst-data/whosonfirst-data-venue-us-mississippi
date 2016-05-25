@@ -1,0 +1,77 @@
+{
+  "id": 857280769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.304364,31.342237,-89.304364,31.342237",
+    "geom:latitude":31.342237,
+    "geom:longitude":-89.304364,
+    "iso:country":"US",
+    "sg:address":"1410 Stanley St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 9985",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BAO3bs21GShyEYr85lUgj_31.342237_-89.304364@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125936,
+    "wof:geomhash":"77312525325a94c19452bbce2816b6d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857280769
+        }
+    ],
+    "wof:id":857280769,
+    "wof:lastmodified":1464125936,
+    "wof:name":"Square D Metal Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.304364,
+    31.342237,
+    -89.304364,
+    31.342237
+],
+  "geometry": {"coordinates":[-89.30436400000001,31.342237],"type":"Point"}
+}

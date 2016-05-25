@@ -1,0 +1,71 @@
+{
+  "id": 857258529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.713163,32.366786,-88.713163,32.366786",
+    "geom:latitude":32.366786,
+    "geom:longitude":-88.713163,
+    "iso:country":"US",
+    "sg:address":"903 35th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 2674",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vUmrituxYneHErvoMXoZi_32.366786_-88.713163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125464,
+    "wof:geomhash":"3aa9c47a853ab3cebcfd3dd72ac43ff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857258529
+        }
+    ],
+    "wof:id":857258529,
+    "wof:lastmodified":1464125464,
+    "wof:name":"Highland Place",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.713163,
+    32.366786,
+    -88.713163,
+    32.366786
+],
+  "geometry": {"coordinates":[-88.71316299999999,32.366786],"type":"Point"}
+}

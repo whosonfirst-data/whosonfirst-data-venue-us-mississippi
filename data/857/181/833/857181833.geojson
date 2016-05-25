@@ -1,0 +1,73 @@
+{
+  "id": 857181833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816476,33.462714,-88.816476,33.462714",
+    "geom:latitude":33.462714,
+    "geom:longitude":-88.816476,
+    "iso:country":"US",
+    "sg:address":"101 E Lampkin St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8564",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "youth"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85823781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63fbnAwUxLlAbs3u61RC1k_33.462714_-88.816476@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123832,
+    "wof:geomhash":"2dabacf5a6293af2f2251c99495b2680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85823781,
+            "region_id":85688579,
+            "venue_id":857181833
+        }
+    ],
+    "wof:id":857181833,
+    "wof:lastmodified":1464123832,
+    "wof:name":"Youth Services",
+    "wof:parent_id":85823781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth"
+    ]
+},
+  "bbox": [
+    -88.816476,
+    33.462714,
+    -88.816476,
+    33.462714
+],
+  "geometry": {"coordinates":[-88.81647599999999,33.462714],"type":"Point"}
+}

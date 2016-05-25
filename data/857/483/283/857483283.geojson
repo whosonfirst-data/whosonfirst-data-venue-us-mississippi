@@ -1,0 +1,78 @@
+{
+  "id": 857483283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.744577,32.366533,-88.744577,32.366533",
+    "geom:latitude":32.366533,
+    "geom:longitude":-88.744577,
+    "iso:country":"US",
+    "sg:address":"1515 65th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/76311-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 3278",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qiCDhf3NpxERCQ1Isy4r9_32.366533_-88.744577@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130433,
+    "wof:geomhash":"0ab9193ce7a2fe968183bdceb0e4f013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857483283
+        }
+    ],
+    "wof:id":857483283,
+    "wof:lastmodified":1464130433,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.744577,
+    32.366533,
+    -88.744577,
+    32.366533
+],
+  "geometry": {"coordinates":[-88.74457700000001,32.366533],"type":"Point"}
+}

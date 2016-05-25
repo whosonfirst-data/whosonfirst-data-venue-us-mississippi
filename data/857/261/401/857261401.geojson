@@ -1,0 +1,66 @@
+{
+  "id": 857261401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.665129,34.215493,-88.665129,34.215493",
+    "geom:latitude":34.215493,
+    "geom:longitude":-88.665129,
+    "iso:country":"US",
+    "sg:address":"2540 Main St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2096",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xxEpPQITYQhv8oGaaD4Na_34.215493_-88.665129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125524,
+    "wof:geomhash":"457f369ed3d7bdae2a9832a560b0648d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857261401
+        }
+    ],
+    "wof:id":857261401,
+    "wof:lastmodified":1464125524,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.665129,
+    34.215493,
+    -88.665129,
+    34.215493
+],
+  "geometry": {"coordinates":[-88.66512899999999,34.215493],"type":"Point"}
+}

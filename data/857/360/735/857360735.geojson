@@ -1,0 +1,71 @@
+{
+  "id": 857360735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383562,32.837812,-90.383562,32.837812",
+    "geom:latitude":32.837812,
+    "geom:longitude":-90.383562,
+    "iso:country":"US",
+    "sg:address":"230 Bus Station Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7352",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o4ZRem6ZGCYiYpc0bBuTr_32.837812_-90.383562@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127717,
+    "wof:geomhash":"23de44b88e8da0d0c4538270c2f60329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857360735
+        }
+    ],
+    "wof:id":857360735,
+    "wof:lastmodified":1464127717,
+    "wof:name":"Highway Department",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -90.383562,
+    32.837812,
+    -90.383562,
+    32.837812
+],
+  "geometry": {"coordinates":[-90.383562,32.837812],"type":"Point"}
+}

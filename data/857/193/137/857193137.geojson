@@ -1,0 +1,73 @@
+{
+  "id": 857193137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719977,34.213155,-88.719977,34.213155",
+    "geom:latitude":34.213155,
+    "geom:longitude":-88.719977,
+    "iso:country":"US",
+    "sg:address":"2216 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 2454",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64iJgsIGWq5S9XPntCbfEG_34.213155_-88.719977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124044,
+    "wof:geomhash":"93d5c3a4bcb0aba65e61fc6711d0ca01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857193137
+        }
+    ],
+    "wof:id":857193137,
+    "wof:lastmodified":1464124044,
+    "wof:name":"First South Farm Credit ACA",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -88.719977,
+    34.213155,
+    -88.719977,
+    34.213155
+],
+  "geometry": {"coordinates":[-88.719977,34.213155],"type":"Point"}
+}

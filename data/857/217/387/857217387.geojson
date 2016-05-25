@@ -1,0 +1,71 @@
+{
+  "id": 857217387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.800755,33.374032,-88.800755,33.374032",
+    "geom:latitude":33.374032,
+    "geom:longitude":-88.800755,
+    "iso:country":"US",
+    "sg:address":"732 Mount Olive Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8175",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xkadNSKebUsS1cUliH0MP_33.374032_-88.800755@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124561,
+    "wof:geomhash":"6ec56eeda54bc0d9d05abf5e5aebd9eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857217387
+        }
+    ],
+    "wof:id":857217387,
+    "wof:lastmodified":1464124561,
+    "wof:name":"Country Home Printing",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -88.800755,
+    33.374032,
+    -88.800755,
+    33.374032
+],
+  "geometry": {"coordinates":[-88.800755,33.374032],"type":"Point"}
+}

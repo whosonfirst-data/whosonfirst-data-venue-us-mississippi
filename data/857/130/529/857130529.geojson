@@ -1,0 +1,66 @@
+{
+  "id": 857130529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659213,33.607038,-88.659213,33.607038",
+    "geom:latitude":33.607038,
+    "geom:longitude":-88.659213,
+    "iso:country":"US",
+    "sg:address":"1201 W Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 8315",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nNKuM3IF6dzs5BZxlu9FH_33.607038_-88.659213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122692,
+    "wof:geomhash":"b02fb53d23dca1202939549ffacd377e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857130529
+        }
+    ],
+    "wof:id":857130529,
+    "wof:lastmodified":1464122692,
+    "wof:name":"Express Shop",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.659213,
+    33.607038,
+    -88.659213,
+    33.607038
+],
+  "geometry": {"coordinates":[-88.65921299999999,33.607038],"type":"Point"}
+}

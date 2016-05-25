@@ -1,0 +1,73 @@
+{
+  "id": 857267815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.615384,30.375359,-88.615384,30.375359",
+    "geom:latitude":30.375359,
+    "geom:longitude":-88.615384,
+    "iso:country":"US",
+    "sg:address":"400 Graveline Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 6587",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zegi9RBxwvEYiV5uOu74U_30.375359_-88.615384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125645,
+    "wof:geomhash":"3df7392e848527ec6a2c2d8bad3de4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857267815
+        }
+    ],
+    "wof:id":857267815,
+    "wof:lastmodified":1464125645,
+    "wof:name":"Complete Telephone Service",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.615384,
+    30.375359,
+    -88.615384,
+    30.375359
+],
+  "geometry": {"coordinates":[-88.61538400000001,30.375359],"type":"Point"}
+}

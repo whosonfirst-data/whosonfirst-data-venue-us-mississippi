@@ -1,0 +1,66 @@
+{
+  "id": 857208923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.533906,34.381055,-89.533906,34.381055",
+    "geom:latitude":34.381055,
+    "geom:longitude":-89.533906,
+    "iso:country":"US",
+    "sg:address":"401 McElroy Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5615",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H2Ed3WssvqMsg6IWWy5CS_34.381055_-89.533906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124368,
+    "wof:geomhash":"bc4188f0e890a3cfd44e38f0e2380c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857208923
+        }
+    ],
+    "wof:id":857208923,
+    "wof:lastmodified":1464124368,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.533906,
+    34.381055,
+    -89.533906,
+    34.381055
+],
+  "geometry": {"coordinates":[-89.533906,34.381055],"type":"Point"}
+}

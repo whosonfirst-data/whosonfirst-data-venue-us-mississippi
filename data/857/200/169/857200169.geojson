@@ -1,0 +1,73 @@
+{
+  "id": 857200169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.159818,30.348135,-89.159818,30.348135",
+    "geom:latitude":30.348135,
+    "geom:longitude":-89.159818,
+    "iso:country":"US",
+    "sg:address":"422 W Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 2820",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6730MTJaJH4R9mWUS6ASEu_30.348135_-89.159818@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124179,
+    "wof:geomhash":"166a971d876b44078b1c64bd8ae2300a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857200169
+        }
+    ],
+    "wof:id":857200169,
+    "wof:lastmodified":1464124179,
+    "wof:name":"All-Tech Mini Storage",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.159818,
+    30.348135,
+    -89.159818,
+    30.348135
+],
+  "geometry": {"coordinates":[-89.159818,30.348135],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857345745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.402984,31.28703,-89.402984,31.28703",
+    "geom:latitude":31.28703,
+    "geom:longitude":-89.402984,
+    "iso:country":"US",
+    "sg:address":"98 Wilson Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 297 8549",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZUYBMOueX59NjLkG84e6A_31.287030_-89.402984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127388,
+    "wof:geomhash":"f9e142c6d7152ca5b8b785a68c260abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857345745
+        }
+    ],
+    "wof:id":857345745,
+    "wof:lastmodified":1464127388,
+    "wof:name":"Homesafe Inspection South",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -89.402984,
+    31.28703,
+    -89.402984,
+    31.28703
+],
+  "geometry": {"coordinates":[-89.402984,31.28703],"type":"Point"}
+}

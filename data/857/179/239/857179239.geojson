@@ -1,0 +1,73 @@
+{
+  "id": 857179239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.56649,34.463931,-88.56649,34.463931",
+    "geom:latitude":34.463931,
+    "geom:longitude":-88.56649,
+    "iso:country":"US",
+    "sg:address":"135 Golston Dr",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8292",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31TiGpMBgt5ayYk1ssLqkD_34.463931_-88.566490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123780,
+    "wof:geomhash":"f9482d90038f3754e71e9586dd105445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857179239
+        }
+    ],
+    "wof:id":857179239,
+    "wof:lastmodified":1464123780,
+    "wof:name":"Gholston Keylon",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.56649,
+    34.463931,
+    -88.56649,
+    34.463931
+],
+  "geometry": {"coordinates":[-88.56649,34.463931],"type":"Point"}
+}

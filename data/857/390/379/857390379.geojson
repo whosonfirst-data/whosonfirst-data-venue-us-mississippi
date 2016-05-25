@@ -1,0 +1,71 @@
+{
+  "id": 857390379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.611426,34.458718,-89.611426,34.458718",
+    "geom:latitude":34.458718,
+    "geom:longitude":-89.611426,
+    "iso:country":"US",
+    "sg:address":"664 Co Rd 102",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8351",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cb4yP4at4wYV0BGk4JyPI_34.458718_-89.611426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128438,
+    "wof:geomhash":"0e72e0f3d447402f071ba5cca13d0523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857390379
+        }
+    ],
+    "wof:id":857390379,
+    "wof:lastmodified":1464128438,
+    "wof:name":"Hopes Child Care Learning",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -89.611426,
+    34.458718,
+    -89.611426,
+    34.458718
+],
+  "geometry": {"coordinates":[-89.61142599999999,34.458718],"type":"Point"}
+}

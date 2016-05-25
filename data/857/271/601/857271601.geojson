@@ -1,0 +1,73 @@
+{
+  "id": 857271601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.089965,30.443576,-89.089965,30.443576",
+    "geom:latitude":30.443576,
+    "geom:longitude":-89.089965,
+    "iso:country":"US",
+    "sg:address":"130 Darran St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 4111",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5In5V7rm5Pnf5g2iNJq5fr_30.443576_-89.089965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125719,
+    "wof:geomhash":"42db81f59464363ad3c8e3448abe8a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857271601
+        }
+    ],
+    "wof:id":857271601,
+    "wof:lastmodified":1464125719,
+    "wof:name":"Marshall Nyron T MD",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.089965,
+    30.443576,
+    -89.089965,
+    30.443576
+],
+  "geometry": {"coordinates":[-89.08996500000001,30.443576],"type":"Point"}
+}

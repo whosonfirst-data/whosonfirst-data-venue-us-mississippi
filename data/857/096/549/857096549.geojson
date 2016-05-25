@@ -1,0 +1,73 @@
+{
+  "id": 857096549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.235428,31.030631,-89.235428,31.030631",
+    "geom:latitude":31.030631,
+    "geom:longitude":-89.235428,
+    "iso:country":"US",
+    "sg:address":"1 Kahl Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 598 2454",
+    "sg:postcode":"39425",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B9MwK5I9FQAgjEEshqdoY_31.030631_-89.235428@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121824,
+    "wof:geomhash":"9b8195f1fd3aca6aa8b60fdbefe32016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857096549
+        }
+    ],
+    "wof:id":857096549,
+    "wof:lastmodified":1464121824,
+    "wof:name":"Atmospheric Research & Analis",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.235428,
+    31.030631,
+    -89.235428,
+    31.030631
+],
+  "geometry": {"coordinates":[-89.235428,31.030631],"type":"Point"}
+}

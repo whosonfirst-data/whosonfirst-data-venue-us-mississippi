@@ -1,0 +1,66 @@
+{
+  "id": 857284145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.551543,34.199186,-90.551543,34.199186",
+    "geom:latitude":34.199186,
+    "geom:longitude":-90.551543,
+    "iso:country":"US",
+    "sg:address":"1909 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6628",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kNO9Zw6rLVNRCyZUdV67t_34.199186_-90.551543@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126003,
+    "wof:geomhash":"c64b07e9b57937bb20bf19c4f587919f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857284145
+        }
+    ],
+    "wof:id":857284145,
+    "wof:lastmodified":1464126003,
+    "wof:name":"Double Quick",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.551543,
+    34.199186,
+    -90.551543,
+    34.199186
+],
+  "geometry": {"coordinates":[-90.551543,34.199186],"type":"Point"}
+}

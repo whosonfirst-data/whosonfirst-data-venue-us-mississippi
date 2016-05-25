@@ -1,0 +1,71 @@
+{
+  "id": 857386193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510001,34.382146,-89.510001,34.382146",
+    "geom:latitude":34.382146,
+    "geom:longitude":-89.510001,
+    "iso:country":"US",
+    "sg:address":"1333 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5238",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DkwM16YkDWJCeZhagYVNc_34.382146_-89.510001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128333,
+    "wof:geomhash":"d9673cc4d815a60fa47c02cc39a50b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857386193
+        }
+    ],
+    "wof:id":857386193,
+    "wof:lastmodified":1464128333,
+    "wof:name":"Shivers Towing",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.510001,
+    34.382146,
+    -89.510001,
+    34.382146
+],
+  "geometry": {"coordinates":[-89.510001,34.382146],"type":"Point"}
+}

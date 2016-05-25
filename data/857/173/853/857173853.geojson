@@ -1,0 +1,71 @@
+{
+  "id": 857173853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.282222,33.523967,-88.282222,33.523967",
+    "geom:latitude":33.523967,
+    "geom:longitude":-88.282222,
+    "iso:country":"US",
+    "sg:address":"388 Lacy Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8448",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48X5Ry7njMypULqfnjCQyO_33.523967_-88.282222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123672,
+    "wof:geomhash":"abf2b8d3e5099332e4a14a6c5cdb93a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857173853
+        }
+    ],
+    "wof:id":857173853,
+    "wof:lastmodified":1464123672,
+    "wof:name":"American Pool Construction",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.282222,
+    33.523967,
+    -88.282222,
+    33.523967
+],
+  "geometry": {"coordinates":[-88.282222,33.523967],"type":"Point"}
+}

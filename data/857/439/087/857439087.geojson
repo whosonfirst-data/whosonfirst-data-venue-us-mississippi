@@ -1,0 +1,71 @@
+{
+  "id": 857439087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.626176,34.0899,-88.626176,34.0899",
+    "geom:latitude":34.0899,
+    "geom:longitude":-88.626176,
+    "iso:country":"US",
+    "sg:address":"142 Tupelo Ave",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 3091",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VGQ4c2mDxacUxDwBDYHiI_34.089900_-88.626176@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129552,
+    "wof:geomhash":"0ffa484950185ea68939a64f503349c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857439087
+        }
+    ],
+    "wof:id":857439087,
+    "wof:lastmodified":1464129552,
+    "wof:name":"Watson First Call Removal Svc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -88.626176,
+    34.0899,
+    -88.626176,
+    34.0899
+],
+  "geometry": {"coordinates":[-88.626176,34.0899],"type":"Point"}
+}

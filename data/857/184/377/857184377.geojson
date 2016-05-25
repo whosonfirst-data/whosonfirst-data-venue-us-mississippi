@@ -1,0 +1,71 @@
+{
+  "id": 857184377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.50909,34.362447,-89.50909,34.362447",
+    "geom:latitude":34.362447,
+    "geom:longitude":-89.50909,
+    "iso:country":"US",
+    "sg:address":"1916 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 0990",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j80jOqgq9ORw6Og7o7ewb_34.362447_-89.509090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123887,
+    "wof:geomhash":"3a16eb5d009d96ac63096f5100a56623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857184377
+        }
+    ],
+    "wof:id":857184377,
+    "wof:lastmodified":1464123887,
+    "wof:name":"Discount Terminals",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.50909,
+    34.362447,
+    -89.50909,
+    34.362447
+],
+  "geometry": {"coordinates":[-89.50909,34.362447],"type":"Point"}
+}

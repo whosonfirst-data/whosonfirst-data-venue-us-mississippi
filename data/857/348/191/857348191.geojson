@@ -1,0 +1,71 @@
+{
+  "id": 857348191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.517049,32.519633,-88.517049,32.519633",
+    "geom:latitude":32.519633,
+    "geom:longitude":-88.517049,
+    "iso:country":"US",
+    "sg:address":"9752 Old Hwy 45 N",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 5265",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FdX4hS7ppo30StaRlEEv7_32.519633_-88.517049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127444,
+    "wof:geomhash":"79f5c108f67a7821a712eb77f29d223c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857348191
+        }
+    ],
+    "wof:id":857348191,
+    "wof:lastmodified":1464127444,
+    "wof:name":"J R Harris Grocery",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.517049,
+    32.519633,
+    -88.517049,
+    32.519633
+],
+  "geometry": {"coordinates":[-88.517049,32.519633],"type":"Point"}
+}

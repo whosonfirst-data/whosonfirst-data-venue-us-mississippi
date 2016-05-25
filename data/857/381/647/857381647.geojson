@@ -1,0 +1,71 @@
+{
+  "id": 857381647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.589989,34.253857,-88.589989,34.253857",
+    "geom:latitude":34.253857,
+    "geom:longitude":-88.589989,
+    "iso:country":"US",
+    "sg:address":"1419 State Park Rd",
+    "sg:city":"Mooreville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 9425",
+    "sg:postcode":"38857",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61sKNKJ8zYApVFUBjLq98D_34.253857_-88.589989@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128168,
+    "wof:geomhash":"7a4c99150a8f3903d780528e04fcda52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857381647
+        }
+    ],
+    "wof:id":857381647,
+    "wof:lastmodified":1464128168,
+    "wof:name":"Magnolia Professional Sitters",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.589989,
+    34.253857,
+    -88.589989,
+    34.253857
+],
+  "geometry": {"coordinates":[-88.589989,34.253857],"type":"Point"}
+}

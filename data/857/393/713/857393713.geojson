@@ -1,0 +1,74 @@
+{
+  "id": 857393713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684966,34.239344,-88.684966,34.239344",
+    "geom:latitude":34.239344,
+    "geom:longitude":-88.684966,
+    "iso:country":"US",
+    "sg:address":"1118 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 6500",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "assistant"
+    ],
+    "sg:website":"www.inter-pac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gHRuDd8wDLASy81uN6Vse_34.239344_-88.684966@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128497,
+    "wof:geomhash":"255b47108358d838f1c181631d13c056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857393713
+        }
+    ],
+    "wof:id":857393713,
+    "wof:lastmodified":1464128497,
+    "wof:name":"Inter Pac Inc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -88.684966,
+    34.239344,
+    -88.684966,
+    34.239344
+],
+  "geometry": {"coordinates":[-88.684966,34.239344],"type":"Point"}
+}

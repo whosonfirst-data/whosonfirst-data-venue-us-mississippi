@@ -1,0 +1,75 @@
+{
+  "id": 857423265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.8222,33.437414,-88.8222,33.437414",
+    "geom:latitude":33.437414,
+    "geom:longitude":-88.8222,
+    "iso:country":"US",
+    "sg:address":"1212 Hwy 25 S",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 9074",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85858519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N5grZ2Wgfz3awEe3zqUii_33.437414_-88.822200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129172,
+    "wof:geomhash":"3fbbb92c6eec334de5c1e457041b5c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85858519,
+            "region_id":85688579,
+            "venue_id":857423265
+        }
+    ],
+    "wof:id":857423265,
+    "wof:lastmodified":1464129172,
+    "wof:name":"Triangle Birchwood Townhouses",
+    "wof:parent_id":85858519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.8222,
+    33.437414,
+    -88.8222,
+    33.437414
+],
+  "geometry": {"coordinates":[-88.8222,33.437414],"type":"Point"}
+}

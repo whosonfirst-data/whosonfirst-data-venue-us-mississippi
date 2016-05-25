@@ -1,0 +1,75 @@
+{
+  "id": 857432143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331163,31.313368,-89.331163,31.313368",
+    "geom:latitude":31.313368,
+    "geom:longitude":-89.331163,
+    "iso:country":"US",
+    "sg:address":"620 S 28th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 6173",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VZC3syD8V5q3d9pPJsQj8_31.313368_-89.331163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129395,
+    "wof:geomhash":"1586f878c7783d87ddc3b52d62db0372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857432143
+        }
+    ],
+    "wof:id":857432143,
+    "wof:lastmodified":1464129395,
+    "wof:name":"South Miss",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.331163,
+    31.313368,
+    -89.331163,
+    31.313368
+],
+  "geometry": {"coordinates":[-89.331163,31.313368],"type":"Point"}
+}

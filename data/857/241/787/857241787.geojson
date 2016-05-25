@@ -1,0 +1,71 @@
+{
+  "id": 857241787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683196,32.381916,-88.683196,32.381916",
+    "geom:latitude":32.381916,
+    "geom:longitude":-88.683196,
+    "iso:country":"US",
+    "sg:address":"2403 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 8307",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_623hdUNkkJF1MknbwZZP9w_32.381916_-88.683196@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125053,
+    "wof:geomhash":"a706c334dbbe8f9c4231c57103b47d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857241787
+        }
+    ],
+    "wof:id":857241787,
+    "wof:lastmodified":1464125053,
+    "wof:name":"Psychology Associates",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -88.683196,
+    32.381916,
+    -88.683196,
+    32.381916
+],
+  "geometry": {"coordinates":[-88.683196,32.381916],"type":"Point"}
+}

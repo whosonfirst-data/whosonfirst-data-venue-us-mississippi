@@ -1,0 +1,72 @@
+{
+  "id": 857485007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547703,30.370973,-88.547703,30.370973",
+    "geom:latitude":30.370973,
+    "geom:longitude":-88.547703,
+    "iso:country":"US",
+    "sg:address":"1423 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/141751-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7959",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XVrKiqQhfhxk5U0MClDa5_30.370973_-88.547703@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130468,
+    "wof:geomhash":"07db45ec8cab056a37568bddad4f8080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857485007
+        }
+    ],
+    "wof:id":857485007,
+    "wof:lastmodified":1464130468,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.547703,
+    30.370973,
+    -88.547703,
+    30.370973
+],
+  "geometry": {"coordinates":[-88.547703,30.370973],"type":"Point"}
+}

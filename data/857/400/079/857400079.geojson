@@ -1,0 +1,71 @@
+{
+  "id": 857400079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589328,34.186301,-90.589328,34.186301",
+    "geom:latitude":34.186301,
+    "geom:longitude":-90.589328,
+    "iso:country":"US",
+    "sg:address":"160 Anderson Blvd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4430",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wg7SbT1p4G7XaGxatmYQz_34.186301_-90.589328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128624,
+    "wof:geomhash":"475eec07b571f0ed32fda0276efaf728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857400079
+        }
+    ],
+    "wof:id":857400079,
+    "wof:lastmodified":1464128624,
+    "wof:name":"Mid-South Hospice",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -90.589328,
+    34.186301,
+    -90.589328,
+    34.186301
+],
+  "geometry": {"coordinates":[-90.58932799999999,34.186301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857189333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.416342,33.516171,-88.416342,33.516171",
+    "geom:latitude":33.516171,
+    "geom:longitude":-88.416342,
+    "iso:country":"US",
+    "sg:address":"1930 Military Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9222",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BABnA9vKqmG6pwcpvX2KT_33.516171_-88.416342@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123973,
+    "wof:geomhash":"1ce4093a3e3ea8b01cc94f963dcab050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857189333
+        }
+    ],
+    "wof:id":857189333,
+    "wof:lastmodified":1464123973,
+    "wof:name":"Jordan's 1930 Shoe Shine",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shining"
+    ]
+},
+  "bbox": [
+    -88.416342,
+    33.516171,
+    -88.416342,
+    33.516171
+],
+  "geometry": {"coordinates":[-88.416342,33.516171],"type":"Point"}
+}

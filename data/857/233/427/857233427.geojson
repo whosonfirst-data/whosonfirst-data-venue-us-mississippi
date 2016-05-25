@@ -1,0 +1,74 @@
+{
+  "id": 857233427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746314,34.254699,-88.746314,34.254699",
+    "geom:latitude":34.254699,
+    "geom:longitude":-88.746314,
+    "iso:country":"US",
+    "sg:address":"94 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9511",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.liftcaa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_129qWKuTGr8e1vcZYVYaqE_34.254699_-88.746314@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124868,
+    "wof:geomhash":"96724b787e87987a46e222c1b94cce99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857233427
+        }
+    ],
+    "wof:id":857233427,
+    "wof:lastmodified":1464124868,
+    "wof:name":"Lift Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -88.746314,
+    34.254699,
+    -88.746314,
+    34.254699
+],
+  "geometry": {"coordinates":[-88.746314,34.254699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857403357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.550201,34.203311,-90.550201,34.203311",
+    "geom:latitude":34.203311,
+    "geom:longitude":-90.550201,
+    "iso:country":"US",
+    "sg:address":"785 Ohio Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2027",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aWzVVMHRaZdOzkpJTnpgx_34.203311_-90.550201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128689,
+    "wof:geomhash":"a34a80769e9891f229e6b2def76572e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857403357
+        }
+    ],
+    "wof:id":857403357,
+    "wof:lastmodified":1464128689,
+    "wof:name":"Leonel Lacayo MD",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.550201,
+    34.203311,
+    -90.550201,
+    34.203311
+],
+  "geometry": {"coordinates":[-90.550201,34.203311],"type":"Point"}
+}

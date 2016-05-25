@@ -1,0 +1,68 @@
+{
+  "id": 857214167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.015125,30.400991,-89.015125,30.400991",
+    "geom:latitude":30.400991,
+    "geom:longitude":-89.015125,
+    "iso:country":"US",
+    "sg:address":"1832 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 896 8726",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ZgxeNNiCJSGIV7bUsf0d_30.400991_-89.015125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124492,
+    "wof:geomhash":"1aa336c52f34baa51d9ac09bdd215193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857214167
+        }
+    ],
+    "wof:id":857214167,
+    "wof:lastmodified":1464124492,
+    "wof:name":"Sera-TEC Plasma Center",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.015125,
+    30.400991,
+    -89.015125,
+    30.400991
+],
+  "geometry": {"coordinates":[-89.015125,30.400991],"type":"Point"}
+}

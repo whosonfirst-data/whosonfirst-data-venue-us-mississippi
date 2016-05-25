@@ -1,0 +1,71 @@
+{
+  "id": 857198161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.732388,34.229791,-88.732388,34.229791",
+    "geom:latitude":34.229791,
+    "geom:longitude":-88.732388,
+    "iso:country":"US",
+    "sg:address":"1403 Ruffwood Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6999",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L5VWgTT5jGX31WyxQSS1S_34.229791_-88.732388@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124143,
+    "wof:geomhash":"a28e62e12873785d153002a35e7da87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857198161
+        }
+    ],
+    "wof:id":857198161,
+    "wof:lastmodified":1464124143,
+    "wof:name":"C Lamar Crocker",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -88.732388,
+    34.229791,
+    -88.732388,
+    34.229791
+],
+  "geometry": {"coordinates":[-88.732388,34.229791],"type":"Point"}
+}

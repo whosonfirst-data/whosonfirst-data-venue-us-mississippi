@@ -1,0 +1,73 @@
+{
+  "id": 857391805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.561854,34.362443,-89.561854,34.362443",
+    "geom:latitude":34.362443,
+    "geom:longitude":-89.561854,
+    "iso:country":"US",
+    "sg:address":"2204 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 9904",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TTzQcLVcTazlvOmf0Kq3Z_34.362443_-89.561854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128463,
+    "wof:geomhash":"3485fc059cf8a534ea048b0feb20baed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857391805
+        }
+    ],
+    "wof:id":857391805,
+    "wof:lastmodified":1464128463,
+    "wof:name":"EB Games",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -89.561854,
+    34.362443,
+    -89.561854,
+    34.362443
+],
+  "geometry": {"coordinates":[-89.561854,34.362443],"type":"Point"}
+}

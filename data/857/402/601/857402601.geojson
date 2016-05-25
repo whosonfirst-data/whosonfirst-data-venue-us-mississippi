@@ -1,0 +1,75 @@
+{
+  "id": 857402601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794815,34.921016,-89.794815,34.921016",
+    "geom:latitude":34.921016,
+    "geom:longitude":-89.794815,
+    "iso:country":"US",
+    "sg:address":"4740 Bethel Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 0486",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33dbbY9zrCN3U5wZWVyUPU_34.921016_-89.794815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128677,
+    "wof:geomhash":"c920bb1d2e2e0966c51f3925e63375f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857402601
+        }
+    ],
+    "wof:id":857402601,
+    "wof:lastmodified":1464128677,
+    "wof:name":"Country Market",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -89.794815,
+    34.921016,
+    -89.794815,
+    34.921016
+],
+  "geometry": {"coordinates":[-89.794815,34.921016],"type":"Point"}
+}

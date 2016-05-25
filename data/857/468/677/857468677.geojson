@@ -1,0 +1,73 @@
+{
+  "id": 857468677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.718675,32.4022,-88.718675,32.4022",
+    "geom:latitude":32.4022,
+    "geom:longitude":-88.718675,
+    "iso:country":"US",
+    "sg:address":"4401 40th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 4541",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LAtb3JZHRs8U0L71uK3PC_32.402200_-88.718675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130141,
+    "wof:geomhash":"c5a2d2316f08e5c3d78d0012ea06efc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857468677
+        }
+    ],
+    "wof:id":857468677,
+    "wof:lastmodified":1464130141,
+    "wof:name":"North Hills Manor Apartments",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.718675,
+    32.4022,
+    -88.718675,
+    32.4022
+],
+  "geometry": {"coordinates":[-88.718675,32.4022],"type":"Point"}
+}

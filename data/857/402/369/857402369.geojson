@@ -1,0 +1,71 @@
+{
+  "id": 857402369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302699,31.340356,-89.302699,31.340356",
+    "geom:latitude":31.340356,
+    "geom:longitude":-89.302699,
+    "iso:country":"US",
+    "sg:address":"1528 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 4064",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cy6X04SwIstQnVFvEQIge_31.340356_-89.302699@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128673,
+    "wof:geomhash":"5255c8b93f181d4478491ad6aa118409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857402369
+        }
+    ],
+    "wof:id":857402369,
+    "wof:lastmodified":1464128673,
+    "wof:name":"Transmission Center Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.302699,
+    31.340356,
+    -89.302699,
+    31.340356
+],
+  "geometry": {"coordinates":[-89.302699,31.340356],"type":"Point"}
+}

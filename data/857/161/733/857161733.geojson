@@ -1,0 +1,73 @@
+{
+  "id": 857161733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971428,32.330435,-89.971428,32.330435",
+    "geom:latitude":32.330435,
+    "geom:longitude":-89.971428,
+    "iso:country":"US",
+    "sg:address":"302 Woods Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 824 0873",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GCkRjC3MCichm4ONgQ7l2_32.330435_-89.971428@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123398,
+    "wof:geomhash":"589787b9f4a134276f25b549d43e440c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857161733
+        }
+    ],
+    "wof:id":857161733,
+    "wof:lastmodified":1464123398,
+    "wof:name":"Home Craft",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.971428,
+    32.330435,
+    -89.971428,
+    32.330435
+],
+  "geometry": {"coordinates":[-89.971428,32.330435],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857422879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636927,34.507303,-88.636927,34.507303",
+    "geom:latitude":34.507303,
+    "geom:longitude":-88.636927,
+    "iso:country":"US",
+    "sg:address":"309 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 5330",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VQYuiALlFAXHabO80Hhfu_34.507303_-88.636927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129165,
+    "wof:geomhash":"3642f0b40e24a454366353099196b72c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857422879
+        }
+    ],
+    "wof:id":857422879,
+    "wof:lastmodified":1464129165,
+    "wof:name":"Baldwyn Finance Co",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -88.636927,
+    34.507303,
+    -88.636927,
+    34.507303
+],
+  "geometry": {"coordinates":[-88.636927,34.507303],"type":"Point"}
+}

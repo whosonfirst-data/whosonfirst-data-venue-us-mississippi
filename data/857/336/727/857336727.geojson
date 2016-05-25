@@ -1,0 +1,73 @@
+{
+  "id": 857336727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.682477,32.38122,-88.682477,32.38122",
+    "geom:latitude":32.38122,
+    "geom:longitude":-88.682477,
+    "iso:country":"US",
+    "sg:address":"2217 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5012",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C0TuLUes19A2dZJC60fWc_32.381220_-88.682477@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127203,
+    "wof:geomhash":"57398276a59f68be9dca78735b7eb425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857336727
+        }
+    ],
+    "wof:id":857336727,
+    "wof:lastmodified":1464127203,
+    "wof:name":"PDN Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -88.682477,
+    32.38122,
+    -88.682477,
+    32.38122
+],
+  "geometry": {"coordinates":[-88.68247700000001,32.38122],"type":"Point"}
+}

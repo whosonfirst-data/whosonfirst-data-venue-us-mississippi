@@ -1,0 +1,71 @@
+{
+  "id": 857213805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64061,32.374542,-88.64061,32.374542",
+    "geom:latitude":32.374542,
+    "geom:longitude":-88.64061,
+    "iso:country":"US",
+    "sg:address":"534 Pippens Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 3190",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19UOTaGV7WBS9HV4o1LLYI_32.374542_-88.640610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124480,
+    "wof:geomhash":"5b97e17665c7bc38f19799d060cc0789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857213805
+        }
+    ],
+    "wof:id":857213805,
+    "wof:lastmodified":1464124480,
+    "wof:name":"Lord Teddy Bear Daycare Center",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.64061,
+    32.374542,
+    -88.64061,
+    32.374542
+],
+  "geometry": {"coordinates":[-88.64061,32.374542],"type":"Point"}
+}

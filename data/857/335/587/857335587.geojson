@@ -1,0 +1,71 @@
+{
+  "id": 857335587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.465259,33.32559,-88.465259,33.32559",
+    "geom:latitude":33.32559,
+    "geom:longitude":-88.465259,
+    "iso:country":"US",
+    "sg:address":"1446 Whispering Pines Rd",
+    "sg:city":"Crawford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2793",
+    "sg:postcode":"39743",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOVT9AMGsVrCI9VMXbBmX_33.325590_-88.465259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127179,
+    "wof:geomhash":"ba0b0edb264a55552208020f355d1ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857335587
+        }
+    ],
+    "wof:id":857335587,
+    "wof:lastmodified":1464127179,
+    "wof:name":"Fairview Mb Church",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.465259,
+    33.32559,
+    -88.465259,
+    33.32559
+],
+  "geometry": {"coordinates":[-88.465259,33.32559],"type":"Point"}
+}

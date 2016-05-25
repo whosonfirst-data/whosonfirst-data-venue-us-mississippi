@@ -1,0 +1,73 @@
+{
+  "id": 857280421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.421673,33.500426,-88.421673,33.500426",
+    "geom:latitude":33.500426,
+    "geom:longitude":-88.421673,
+    "iso:country":"US",
+    "sg:address":"1005 5th Ave N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 9500",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ta3gsCTBXubhOp5i6h6R1_33.500426_-88.421673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125929,
+    "wof:geomhash":"c779dcdbe55df840d0c61a4bc16c46ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857280421
+        }
+    ],
+    "wof:id":857280421,
+    "wof:lastmodified":1464125929,
+    "wof:name":"Mayfield Best For Less Auto",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.421673,
+    33.500426,
+    -88.421673,
+    33.500426
+],
+  "geometry": {"coordinates":[-88.421673,33.500426],"type":"Point"}
+}

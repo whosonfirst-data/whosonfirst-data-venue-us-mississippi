@@ -1,0 +1,73 @@
+{
+  "id": 857464341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.116445,32.441424,-90.116445,32.441424",
+    "geom:latitude":32.441424,
+    "geom:longitude":-90.116445,
+    "iso:country":"US",
+    "sg:address":"537 Brookstone Cir",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 3278",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21VuzBX59KHNdmlcmRhuNR_32.441424_-90.116445@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130046,
+    "wof:geomhash":"cf8afa2b137f4d709c17f1428cbd53ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857464341
+        }
+    ],
+    "wof:id":857464341,
+    "wof:lastmodified":1464130046,
+    "wof:name":"JLC Corp",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.116445,
+    32.441424,
+    -90.116445,
+    32.441424
+],
+  "geometry": {"coordinates":[-90.116445,32.441424],"type":"Point"}
+}

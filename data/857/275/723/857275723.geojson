@@ -1,0 +1,71 @@
+{
+  "id": 857275723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.615153,34.358832,-89.615153,34.358832",
+    "geom:latitude":34.358832,
+    "geom:longitude":-89.615153,
+    "iso:country":"US",
+    "sg:address":"549 Hwy 6 W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6481",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UHeR9AjVoDgljCGvpFDQq_34.358832_-89.615153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125805,
+    "wof:geomhash":"45fa0efe20fdf0d033567a501ccac7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857275723
+        }
+    ],
+    "wof:id":857275723,
+    "wof:lastmodified":1464125805,
+    "wof:name":"Stone Rental Properties",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.615153,
+    34.358832,
+    -89.615153,
+    34.358832
+],
+  "geometry": {"coordinates":[-89.61515300000001,34.358832],"type":"Point"}
+}

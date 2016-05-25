@@ -1,0 +1,77 @@
+{
+  "id": 857219809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.881529,32.346557,-90.881529,32.346557",
+    "geom:latitude":32.346557,
+    "geom:longitude":-90.881529,
+    "iso:country":"US",
+    "sg:address":"1621 Walnut St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 0312",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawnmowers",
+        "lawn",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KbuLBDpuDXwnpEdMPqYw0_32.346557_-90.881529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124610,
+    "wof:geomhash":"e99ca57c46b74c94c8540180077454cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857219809
+        }
+    ],
+    "wof:id":857219809,
+    "wof:lastmodified":1464124610,
+    "wof:name":"KATZ Brothers Inc",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawnmowers",
+        "lawn",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -90.881529,
+    32.346557,
+    -90.881529,
+    32.346557
+],
+  "geometry": {"coordinates":[-90.881529,32.346557],"type":"Point"}
+}

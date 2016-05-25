@@ -1,0 +1,75 @@
+{
+  "id": 857290343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.813959,33.468218,-88.813959,33.468218",
+    "geom:latitude":33.468218,
+    "geom:longitude":-88.813959,
+    "iso:country":"US",
+    "sg:address":"217 N Jackson St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1507",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40hF0vFnbGvM3inEsTh9Q9_33.468218_-88.813959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126155,
+    "wof:geomhash":"66b76b25f85f85fdc18d373fb1fa382e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857290343
+        }
+    ],
+    "wof:id":857290343,
+    "wof:lastmodified":1464126155,
+    "wof:name":"Three Generations",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.813959,
+    33.468218,
+    -88.813959,
+    33.468218
+],
+  "geometry": {"coordinates":[-88.813959,33.468218],"type":"Point"}
+}

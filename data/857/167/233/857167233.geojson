@@ -1,0 +1,71 @@
+{
+  "id": 857167233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816059,33.393859,-88.816059,33.393859",
+    "geom:latitude":33.393859,
+    "geom:longitude":-88.816059,
+    "iso:country":"US",
+    "sg:address":"815 Lincoln Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 0114",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SkdANaQWf4j9zO8RtBjgH_33.393859_-88.816059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123515,
+    "wof:geomhash":"d54d2af20b3849078992fd12e0ef5f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857167233
+        }
+    ],
+    "wof:id":857167233,
+    "wof:lastmodified":1464123515,
+    "wof:name":"Miles Tax Svc",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.816059,
+    33.393859,
+    -88.816059,
+    33.393859
+],
+  "geometry": {"coordinates":[-88.816059,33.393859],"type":"Point"}
+}

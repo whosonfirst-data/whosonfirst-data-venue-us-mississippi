@@ -1,0 +1,75 @@
+{
+  "id": 857111331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.163141,31.36018,-89.163141,31.36018",
+    "geom:latitude":31.36018,
+    "geom:longitude":-89.163141,
+    "iso:country":"US",
+    "sg:address":"30 Magnolia Dr",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8806",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ONmp6w8EzTfpPRGo9Ym9K_31.360180_-89.163141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122216,
+    "wof:geomhash":"32cf0111a849a1d408b609f02108403e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857111331
+        }
+    ],
+    "wof:id":857111331,
+    "wof:lastmodified":1464122216,
+    "wof:name":"Clement Electric",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.163141,
+    31.36018,
+    -89.163141,
+    31.36018
+],
+  "geometry": {"coordinates":[-89.163141,31.36018],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857236997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.576121,34.205767,-90.576121,34.205767",
+    "geom:latitude":34.205767,
+    "geom:longitude":-90.576121,
+    "iso:country":"US",
+    "sg:address":"7 Sunflower Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6534",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40XqlsgUwfdL4atH9bLNWu_34.205767_-90.576121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124945,
+    "wof:geomhash":"25212680e92f6b96756b7b423bce42c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857236997
+        }
+    ],
+    "wof:id":857236997,
+    "wof:lastmodified":1464124945,
+    "wof:name":"William L Walters CPA",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -90.576121,
+    34.205767,
+    -90.576121,
+    34.205767
+],
+  "geometry": {"coordinates":[-90.576121,34.205767],"type":"Point"}
+}

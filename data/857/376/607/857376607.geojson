@@ -1,0 +1,71 @@
+{
+  "id": 857376607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405371,32.85504,-90.405371,32.85504",
+    "geom:latitude":32.85504,
+    "geom:longitude":-90.405371,
+    "iso:country":"US",
+    "sg:address":"514 Grand Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5999",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RmYJqYWZvjwv4ySIVWUGc_32.855040_-90.405371@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128050,
+    "wof:geomhash":"f0bf7f195013c21ecf6e08d7c52e08cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857376607
+        }
+    ],
+    "wof:id":857376607,
+    "wof:lastmodified":1464128050,
+    "wof:name":"John I Donaldson",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.405371,
+    32.85504,
+    -90.405371,
+    32.85504
+],
+  "geometry": {"coordinates":[-90.405371,32.85504],"type":"Point"}
+}

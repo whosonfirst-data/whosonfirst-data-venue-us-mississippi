@@ -1,0 +1,71 @@
+{
+  "id": 857365071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41658,32.848336,-90.41658,32.848336",
+    "geom:latitude":32.848336,
+    "geom:longitude":-90.41658,
+    "iso:country":"US",
+    "sg:address":"319 W Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 716 0827",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43AEsCYeesp3lHfH7f0wXT_32.848336_-90.416580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127806,
+    "wof:geomhash":"4aed08f30acf6b325077fc7d3a05aff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857365071
+        }
+    ],
+    "wof:id":857365071,
+    "wof:lastmodified":1464127806,
+    "wof:name":"Broadway Upholstery",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -90.41658,
+    32.848336,
+    -90.41658,
+    32.848336
+],
+  "geometry": {"coordinates":[-90.41658,32.848336],"type":"Point"}
+}

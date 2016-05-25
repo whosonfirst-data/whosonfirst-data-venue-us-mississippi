@@ -1,0 +1,82 @@
+{
+  "id": 857487367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566828,34.19388,-90.566828,34.19388",
+    "geom:latitude":34.19388,
+    "geom:longitude":-90.566828,
+    "iso:country":"US",
+    "sg:address":"419 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8601",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74AJOXM1muhIdPeHnHSf4F_34.193880_-90.566828@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130514,
+    "wof:geomhash":"28a9d21e7ce722a04a7b94dfacc3d426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487367
+        }
+    ],
+    "wof:id":857487367,
+    "wof:lastmodified":1464130514,
+    "wof:name":"Rest Haven",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.566828,
+    34.19388,
+    -90.566828,
+    34.19388
+],
+  "geometry": {"coordinates":[-90.566828,34.19388],"type":"Point"}
+}

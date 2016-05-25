@@ -1,0 +1,73 @@
+{
+  "id": 857365847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520742,34.351581,-89.520742,34.351581",
+    "geom:latitude":34.351581,
+    "geom:longitude":-89.520742,
+    "iso:country":"US",
+    "sg:address":"2161 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1791",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4xG4X3ljcUSB8wvQF9pw_34.351581_-89.520742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127821,
+    "wof:geomhash":"13120fcea67243cf2ebe63fc73f72c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857365847
+        }
+    ],
+    "wof:id":857365847,
+    "wof:lastmodified":1464127821,
+    "wof:name":"Oxford Medical Clinic",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.520742,
+    34.351581,
+    -89.520742,
+    34.351581
+],
+  "geometry": {"coordinates":[-89.520742,34.351581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857250699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.837104,33.449894,-88.837104,33.449894",
+    "geom:latitude":33.449894,
+    "geom:longitude":-88.837104,
+    "iso:country":"US",
+    "sg:address":"110 Industrial Park Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 3198",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z0XPOHISq3v0B06lqR2RU_33.449894_-88.837104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125260,
+    "wof:geomhash":"53d2d3f07b75438e2b33d06032f34ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857250699
+        }
+    ],
+    "wof:id":857250699,
+    "wof:lastmodified":1464125260,
+    "wof:name":"Earthgrains Baking Co Inc",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -88.837104,
+    33.449894,
+    -88.837104,
+    33.449894
+],
+  "geometry": {"coordinates":[-88.837104,33.449894],"type":"Point"}
+}

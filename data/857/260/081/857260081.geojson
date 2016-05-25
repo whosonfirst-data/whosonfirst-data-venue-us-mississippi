@@ -1,0 +1,73 @@
+{
+  "id": 857260081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55021,30.369336,-88.55021,30.369336",
+    "geom:latitude":30.369336,
+    "geom:longitude":-88.55021,
+    "iso:country":"US",
+    "sg:address":"1316 Live Oak Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7500",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MnoVOyE0jinw0A5yWdIEp_30.369336_-88.550210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125491,
+    "wof:geomhash":"2f6a36524f6dad773acee9f617bef1a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857260081
+        }
+    ],
+    "wof:id":857260081,
+    "wof:lastmodified":1464125491,
+    "wof:name":"A1 Denture Laboratory",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -88.55021,
+    30.369336,
+    -88.55021,
+    30.369336
+],
+  "geometry": {"coordinates":[-88.55021000000001,30.369336],"type":"Point"}
+}

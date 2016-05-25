@@ -1,0 +1,75 @@
+{
+  "id": 857292159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.449722,33.812222,-88.449722,33.812222",
+    "geom:latitude":33.812222,
+    "geom:longitude":-88.449722,
+    "iso:country":"US",
+    "sg:address":"40098 Malone Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6100",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03XADMIuIei3xREjLiRHKI_33.812222_-88.449722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126201,
+    "wof:geomhash":"d787427de7c729524e7418f7c6d63a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857292159
+        }
+    ],
+    "wof:id":857292159,
+    "wof:lastmodified":1464126201,
+    "wof:name":"Malone Loyd",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.449722,
+    33.812222,
+    -88.449722,
+    33.812222
+],
+  "geometry": {"coordinates":[-88.44972199999999,33.812222],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857327325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.508201,34.371939,-89.508201,34.371939",
+    "geom:latitude":34.371939,
+    "geom:longitude":-89.508201,
+    "iso:country":"US",
+    "sg:address":"224 Bramlett Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 3541",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "elementary",
+        "high",
+        "five",
+        "operates"
+    ],
+    "sg:website":"www.oxford.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q08Yxdpyh8bLCAdSiBP8W_34.371939_-89.508201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126997,
+    "wof:geomhash":"4890a9343cea051b9bb625d06cabef25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857327325
+        }
+    ],
+    "wof:id":857327325,
+    "wof:lastmodified":1464126997,
+    "wof:name":"Oxford City Schools District",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "high",
+        "five",
+        "operates"
+    ]
+},
+  "bbox": [
+    -89.508201,
+    34.371939,
+    -89.508201,
+    34.371939
+],
+  "geometry": {"coordinates":[-89.508201,34.371939],"type":"Point"}
+}

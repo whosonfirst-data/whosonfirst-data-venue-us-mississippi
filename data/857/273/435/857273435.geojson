@@ -1,0 +1,73 @@
+{
+  "id": 857273435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539714,33.824291,-88.539714,33.824291",
+    "geom:latitude":33.824291,
+    "geom:longitude":-88.539714,
+    "iso:country":"US",
+    "sg:address":"109 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8580",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f84AISDEjDRyjkIH4numI_33.824291_-88.539714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125754,
+    "wof:geomhash":"7c1e969318de8073e733b6a71ccdfe91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857273435
+        }
+    ],
+    "wof:id":857273435,
+    "wof:lastmodified":1464125754,
+    "wof:name":"Monroe County WIC Nutritional",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -88.539714,
+    33.824291,
+    -88.539714,
+    33.824291
+],
+  "geometry": {"coordinates":[-88.539714,33.824291],"type":"Point"}
+}

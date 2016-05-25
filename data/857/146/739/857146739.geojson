@@ -1,0 +1,71 @@
+{
+  "id": 857146739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.383094,33.455704,-88.383094,33.455704",
+    "geom:latitude":33.455704,
+    "geom:longitude":-88.383094,
+    "iso:country":"US",
+    "sg:address":"62 Dauphine Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4834",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nJmrKV5XEw2Wz5B5JKf59_33.455704_-88.383094@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123073,
+    "wof:geomhash":"7539fd7831bd4a6c5eace03e64b9f9c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857146739
+        }
+    ],
+    "wof:id":857146739,
+    "wof:lastmodified":1464123073,
+    "wof:name":"Walker Building Repair",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.383094,
+    33.455704,
+    -88.383094,
+    33.455704
+],
+  "geometry": {"coordinates":[-88.383094,33.455704],"type":"Point"}
+}

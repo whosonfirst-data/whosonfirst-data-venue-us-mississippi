@@ -1,0 +1,74 @@
+{
+  "id": 857158861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035033,32.281224,-90.035033,32.281224",
+    "geom:latitude":32.281224,
+    "geom:longitude":-90.035033,
+    "iso:country":"US",
+    "sg:address":"201 Octavia Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 2801",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.graydaniels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17CLMywDvF77Ef57LnHarX_32.281224_-90.035033@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123324,
+    "wof:geomhash":"4f28f0ec68f0fc876a27eb818cc7b026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857158861
+        }
+    ],
+    "wof:id":857158861,
+    "wof:lastmodified":1464123324,
+    "wof:name":"Gray-Daniels Ford",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.035033,
+    32.281224,
+    -90.035033,
+    32.281224
+],
+  "geometry": {"coordinates":[-90.035033,32.281224],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857162891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690976,33.781337,-88.690976,33.781337",
+    "geom:latitude":33.781337,
+    "geom:longitude":-88.690976,
+    "iso:country":"US",
+    "sg:address":"10127 Baptist Grove Rd",
+    "sg:city":"Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6296",
+    "sg:postcode":"39756",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4onbbFLjsiPCyiRUnQ3wlM_33.781337_-88.690976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123421,
+    "wof:geomhash":"3126247d61eaccc8e1942bc6c0ccffcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857162891
+        }
+    ],
+    "wof:id":857162891,
+    "wof:lastmodified":1464123421,
+    "wof:name":"David Johnson Auto Repair",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.690976,
+    33.781337,
+    -88.690976,
+    33.781337
+],
+  "geometry": {"coordinates":[-88.69097600000001,33.781337],"type":"Point"}
+}

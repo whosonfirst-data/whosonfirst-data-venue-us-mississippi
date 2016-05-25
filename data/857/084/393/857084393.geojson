@@ -1,0 +1,73 @@
+{
+  "id": 857084393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772811,34.25314,-88.772811,34.25314",
+    "geom:latitude":34.25314,
+    "geom:longitude":-88.772811,
+    "iso:country":"US",
+    "sg:address":"277 S Coley Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2844",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W8ugyNoGgWsnPBPwH4olx_34.253140_-88.772811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121518,
+    "wof:geomhash":"3c779d27a84bf9d9ef92f767b11407af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857084393
+        }
+    ],
+    "wof:id":857084393,
+    "wof:lastmodified":1464121518,
+    "wof:name":"Frito-Lay Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -88.772811,
+    34.25314,
+    -88.772811,
+    34.25314
+],
+  "geometry": {"coordinates":[-88.772811,34.25314],"type":"Point"}
+}

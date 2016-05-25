@@ -1,0 +1,75 @@
+{
+  "id": 857282015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830473,34.8835,-89.830473,34.8835",
+    "geom:latitude":34.8835,
+    "geom:longitude":-89.830473,
+    "iso:country":"US",
+    "sg:address":"1905 Hwy 305 N",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 812 3099",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nsYP01fuT7SFG7tmMSGtB_34.883500_-89.830473@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125963,
+    "wof:geomhash":"a824ec71b4d3ec9752015ab2062f32b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857282015
+        }
+    ],
+    "wof:id":857282015,
+    "wof:lastmodified":1464125963,
+    "wof:name":"Warren Custom Tile & Hardwood",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.830473,
+    34.8835,
+    -89.830473,
+    34.8835
+],
+  "geometry": {"coordinates":[-89.830473,34.8835],"type":"Point"}
+}

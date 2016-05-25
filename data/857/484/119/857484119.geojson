@@ -1,0 +1,76 @@
+{
+  "id": 857484119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.093178,30.380441,-89.093178,30.380441",
+    "geom:latitude":30.380441,
+    "geom:longitude":-89.093178,
+    "iso:country":"US",
+    "sg:address":"2511 25th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/gulfport/282166-samurai-japanese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 214 4049",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2faLZlPP7W4B3DHSKQwcnu_30.380441_-89.093178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130447,
+    "wof:geomhash":"e4d4b58da97804f493999b8f7356a48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857484119
+        }
+    ],
+    "wof:id":857484119,
+    "wof:lastmodified":1464130447,
+    "wof:name":"Samurai Japanese Restaurant",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -89.093178,
+    30.380441,
+    -89.093178,
+    30.380441
+],
+  "geometry": {"coordinates":[-89.09317799999999,30.380441],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857200637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.333802,33.441001,-88.333802,33.441001",
+    "geom:latitude":33.441001,
+    "geom:longitude":-88.333802,
+    "iso:country":"US",
+    "sg:address":"1586 Lake Lowndes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1022",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ZobrJTUEcKTjuVL512Wn_33.441001_-88.333802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124187,
+    "wof:geomhash":"dfada177fcf6f6cc12f4af06a0fefabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857200637
+        }
+    ],
+    "wof:id":857200637,
+    "wof:lastmodified":1464124187,
+    "wof:name":"Mr John's Place",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.333802,
+    33.441001,
+    -88.333802,
+    33.441001
+],
+  "geometry": {"coordinates":[-88.33380200000001,33.441001],"type":"Point"}
+}

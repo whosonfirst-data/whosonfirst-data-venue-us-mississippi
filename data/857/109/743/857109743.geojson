@@ -1,0 +1,73 @@
+{
+  "id": 857109743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6018,34.206027,-90.6018,34.206027",
+    "geom:latitude":34.206027,
+    "geom:longitude":-90.6018,
+    "iso:country":"US",
+    "sg:address":"1113 Rose Cir",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3904",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nvMNgcx7MUDLGSvjP3NDD_34.206027_-90.601800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122153,
+    "wof:geomhash":"ae92e87d75e1f513160ee639d8dbee64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857109743
+        }
+    ],
+    "wof:id":857109743,
+    "wof:lastmodified":1464122153,
+    "wof:name":"Pullen Contractors",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.6018,
+    34.206027,
+    -90.6018,
+    34.206027
+],
+  "geometry": {"coordinates":[-90.6018,34.206027],"type":"Point"}
+}

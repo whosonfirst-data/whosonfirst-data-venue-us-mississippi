@@ -1,0 +1,74 @@
+{
+  "id": 857480505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.567241,34.361895,-89.567241,34.361895",
+    "geom:latitude":34.361895,
+    "geom:longitude":-89.567241,
+    "iso:country":"US",
+    "sg:address":"2530 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/oxford/133006-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 4142",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZJaqYPVgXu53Dyl8Mw2Gc_34.361895_-89.567241@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130379,
+    "wof:geomhash":"0461aec5729e27ec48e921d6f5340fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480505
+        }
+    ],
+    "wof:id":857480505,
+    "wof:lastmodified":1464130379,
+    "wof:name":"Subway",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.567241,
+    34.361895,
+    -89.567241,
+    34.361895
+],
+  "geometry": {"coordinates":[-89.567241,34.361895],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857229149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.663944,32.368763,-88.663944,32.368763",
+    "geom:latitude":32.368763,
+    "geom:longitude":-88.663944,
+    "iso:country":"US",
+    "sg:address":"515 Bonita Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3524",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cell",
+        "phone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zeE8Qld7ldIWRiZciLIYJ_32.368763_-88.663944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124792,
+    "wof:geomhash":"d265bd4c4801c7b3e9c517328be7a196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857229149
+        }
+    ],
+    "wof:id":857229149,
+    "wof:lastmodified":1464124792,
+    "wof:name":"Bellsouth",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cell",
+        "phone"
+    ]
+},
+  "bbox": [
+    -88.663944,
+    32.368763,
+    -88.663944,
+    32.368763
+],
+  "geometry": {"coordinates":[-88.663944,32.368763],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857483527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.250404,31.184985,-89.250404,31.184985",
+    "geom:latitude":31.184985,
+    "geom:longitude":-89.250404,
+    "iso:country":"US",
+    "sg:address":"3984 U S Highway 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/133045-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7527",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lEWow5usnH27YMgl160n2_31.184985_-89.250404@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130437,
+    "wof:geomhash":"c7b1acaa68b2306574b28eb1f31f692b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857483527
+        }
+    ],
+    "wof:id":857483527,
+    "wof:lastmodified":1464130437,
+    "wof:name":"Subway",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.250404,
+    31.184985,
+    -89.250404,
+    31.184985
+],
+  "geometry": {"coordinates":[-89.250404,31.184985],"type":"Point"}
+}

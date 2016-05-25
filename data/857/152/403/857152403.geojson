@@ -1,0 +1,71 @@
+{
+  "id": 857152403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.186922,30.354989,-89.186922,30.354989",
+    "geom:latitude":30.354989,
+    "geom:longitude":-89.186922,
+    "iso:country":"US",
+    "sg:address":"5048 Beatline Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 1415",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wrzwxWKT3uTUzAPs6KFDM_30.354989_-89.186922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123193,
+    "wof:geomhash":"fe91b7f0c15e27a32cea18a6c1bc31dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857152403
+        }
+    ],
+    "wof:id":857152403,
+    "wof:lastmodified":1464123193,
+    "wof:name":"Mr D's Appliance Repair",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -89.186922,
+    30.354989,
+    -89.186922,
+    30.354989
+],
+  "geometry": {"coordinates":[-89.186922,30.354989],"type":"Point"}
+}

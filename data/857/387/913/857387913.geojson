@@ -1,0 +1,71 @@
+{
+  "id": 857387913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543772,33.823066,-88.543772,33.823066",
+    "geom:latitude":33.823066,
+    "geom:longitude":-88.543772,
+    "iso:country":"US",
+    "sg:address":"304 S Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8800",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QrytayFpvQ98RgLiCDHlg_33.823066_-88.543772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128378,
+    "wof:geomhash":"f6ea86281a4f78dda5c4c0cb5e27a5d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857387913
+        }
+    ],
+    "wof:id":857387913,
+    "wof:lastmodified":1464128378,
+    "wof:name":"Stark Law Firm",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.543772,
+    33.823066,
+    -88.543772,
+    33.823066
+],
+  "geometry": {"coordinates":[-88.543772,33.823066],"type":"Point"}
+}

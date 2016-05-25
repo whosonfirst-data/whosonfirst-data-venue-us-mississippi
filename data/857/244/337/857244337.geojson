@@ -1,0 +1,73 @@
+{
+  "id": 857244337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527592,30.37785,-88.527592,30.37785",
+    "geom:latitude":30.37785,
+    "geom:longitude":-88.527592,
+    "iso:country":"US",
+    "sg:address":"4115 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 8751",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ipno6l0GKSQA8H3C726vg_30.377850_-88.527592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125118,
+    "wof:geomhash":"05bcc089eb81922abc908f445c8c6da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857244337
+        }
+    ],
+    "wof:id":857244337,
+    "wof:lastmodified":1464125118,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -88.527592,
+    30.37785,
+    -88.527592,
+    30.37785
+],
+  "geometry": {"coordinates":[-88.527592,30.37785],"type":"Point"}
+}

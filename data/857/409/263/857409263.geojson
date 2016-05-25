@@ -1,0 +1,73 @@
+{
+  "id": 857409263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.81892,30.416304,-88.81892,30.416304",
+    "geom:latitude":30.416304,
+    "geom:longitude":-88.81892,
+    "iso:country":"US",
+    "sg:address":"1109 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 4858",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bEvI34j9HitxANo2c2ru6_30.416304_-88.818920@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128817,
+    "wof:geomhash":"90d9eebdd3214563bf7fb41da15b95fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857409263
+        }
+    ],
+    "wof:id":857409263,
+    "wof:lastmodified":1464128817,
+    "wof:name":"T & D Auto Repair",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.81892,
+    30.416304,
+    -88.81892,
+    30.416304
+],
+  "geometry": {"coordinates":[-88.81892000000001,30.416304],"type":"Point"}
+}

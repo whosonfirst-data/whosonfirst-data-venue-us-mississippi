@@ -1,0 +1,71 @@
+{
+  "id": 857468881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528902,30.368552,-88.528902,30.368552",
+    "geom:latitude":30.368552,
+    "geom:longitude":-88.528902,
+    "iso:country":"US",
+    "sg:address":"3103 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7990",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d40lvbzudv6cONQZ7jb44_30.368552_-88.528902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130147,
+    "wof:geomhash":"f0e329293dd0d8e4cc6544197d0c7273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857468881
+        }
+    ],
+    "wof:id":857468881,
+    "wof:lastmodified":1464130147,
+    "wof:name":"Rum Tran",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.528902,
+    30.368552,
+    -88.528902,
+    30.368552
+],
+  "geometry": {"coordinates":[-88.528902,30.368552],"type":"Point"}
+}

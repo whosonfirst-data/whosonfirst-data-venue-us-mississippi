@@ -1,0 +1,75 @@
+{
+  "id": 857364465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285604,31.288362,-89.285604,31.288362",
+    "geom:latitude":31.288362,
+    "geom:longitude":-89.285604,
+    "iso:country":"US",
+    "sg:address":"2298 Edwards St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7960",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dLlQEdCzytx7xd3gXgd42_31.288362_-89.285604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127794,
+    "wof:geomhash":"3034845edc6c26ac0c74133f0129f43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857364465
+        }
+    ],
+    "wof:id":857364465,
+    "wof:lastmodified":1464127794,
+    "wof:name":"U Store All Mini Warehouses",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.285604,
+    31.288362,
+    -89.285604,
+    31.288362
+],
+  "geometry": {"coordinates":[-89.28560400000001,31.288362],"type":"Point"}
+}

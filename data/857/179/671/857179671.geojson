@@ -1,0 +1,71 @@
+{
+  "id": 857179671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.552612,33.810005,-88.552612,33.810005",
+    "geom:latitude":33.810005,
+    "geom:longitude":-88.552612,
+    "iso:country":"US",
+    "sg:address":"1304 S Matubba St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6940",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LYRcDIsESGXxw1oKziI7I_33.810005_-88.552612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123787,
+    "wof:geomhash":"7741fe64a6b35f3be5d8f75a893d4ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857179671
+        }
+    ],
+    "wof:id":857179671,
+    "wof:lastmodified":1464123787,
+    "wof:name":"South Matubba Church Of Christ",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.552612,
+    33.810005,
+    -88.552612,
+    33.810005
+],
+  "geometry": {"coordinates":[-88.552612,33.810005],"type":"Point"}
+}

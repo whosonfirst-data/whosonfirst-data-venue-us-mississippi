@@ -1,0 +1,75 @@
+{
+  "id": 857339959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960615,34.860544,-89.960615,34.860544",
+    "geom:latitude":34.860544,
+    "geom:longitude":-89.960615,
+    "iso:country":"US",
+    "sg:address":"1658 Green T Rd E",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 429 5478",
+    "sg:postcode":"38632",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d4DGGLvf22aBiwVTesc7l_34.860544_-89.960615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127276,
+    "wof:geomhash":"3e083e5b09a1521f6aaebe1e42a0b658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857339959
+        }
+    ],
+    "wof:id":857339959,
+    "wof:lastmodified":1464127276,
+    "wof:name":"Knight Construction",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.960615,
+    34.860544,
+    -89.960615,
+    34.860544
+],
+  "geometry": {"coordinates":[-89.960615,34.860544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857205611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636046,33.859751,-88.636046,33.859751",
+    "geom:latitude":33.859751,
+    "geom:longitude":-88.636046,
+    "iso:country":"US",
+    "sg:address":"20505 Old Houston Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8284",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lCHxSgnbdfYNhTIdR17Nk_33.859751_-88.636046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124305,
+    "wof:geomhash":"e61ab7112b0cf946d672dc4e592fdca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857205611
+        }
+    ],
+    "wof:id":857205611,
+    "wof:lastmodified":1464124305,
+    "wof:name":"Vasser's Beauty Shop",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.636046,
+    33.859751,
+    -88.636046,
+    33.859751
+],
+  "geometry": {"coordinates":[-88.63604599999999,33.859751],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857487469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56359,34.195086,-90.56359,34.195086",
+    "geom:latitude":34.195086,
+    "geom:longitude":-90.56359,
+    "iso:country":"US",
+    "sg:address":"616 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9947",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "barbecue",
+        "caterer"
+    ],
+    "sg:website":"http://www.abesbbq.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wocwwm9icBaK9ZLM6AU38_34.195086_-90.563590@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130517,
+    "wof:geomhash":"7587adad4ca7fcfc5ea08ddc321c5abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487469
+        }
+    ],
+    "wof:id":857487469,
+    "wof:lastmodified":1464130517,
+    "wof:name":"Abe's Bar-B-Q Drive In",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -90.56359,
+    34.195086,
+    -90.56359,
+    34.195086
+],
+  "geometry": {"coordinates":[-90.56359,34.195086],"type":"Point"}
+}

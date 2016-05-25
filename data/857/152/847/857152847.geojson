@@ -1,0 +1,76 @@
+{
+  "id": 857152847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.523082,34.367406,-89.523082,34.367406",
+    "geom:latitude":34.367406,
+    "geom:longitude":-89.523082,
+    "iso:country":"US",
+    "sg:address":"814 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7042",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eSuhVTqgnCIvJrf7IUubI_34.367406_-89.523082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123202,
+    "wof:geomhash":"1256b9f310c9b6ff5600dcc86258308b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857152847
+        }
+    ],
+    "wof:id":857152847,
+    "wof:lastmodified":1464123202,
+    "wof:name":"Goolsby's Hair World",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.523082,
+    34.367406,
+    -89.523082,
+    34.367406
+],
+  "geometry": {"coordinates":[-89.523082,34.367406],"type":"Point"}
+}

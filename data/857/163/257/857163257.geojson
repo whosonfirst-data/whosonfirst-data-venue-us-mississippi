@@ -1,0 +1,71 @@
+{
+  "id": 857163257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.802622,33.459101,-88.802622,33.459101",
+    "geom:latitude":33.459101,
+    "geom:longitude":-88.802622,
+    "iso:country":"US",
+    "sg:address":"203 Maxwell St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5010",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66HH9umFf8bkAWMcgvGd49_33.459101_-88.802622@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123427,
+    "wof:geomhash":"d4833e38da9f81c084999388dffa1101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857163257
+        }
+    ],
+    "wof:id":857163257,
+    "wof:lastmodified":1464123427,
+    "wof:name":"Today's Headlines",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.802622,
+    33.459101,
+    -88.802622,
+    33.459101
+],
+  "geometry": {"coordinates":[-88.802622,33.459101],"type":"Point"}
+}

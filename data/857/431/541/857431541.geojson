@@ -1,0 +1,73 @@
+{
+  "id": 857431541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42324,33.495849,-88.42324,33.495849",
+    "geom:latitude":33.495849,
+    "geom:longitude":-88.42324,
+    "iso:country":"US",
+    "sg:address":"921 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 6111",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CrSxHvebW7mnTAEYCmjpq_33.495849_-88.423240@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129377,
+    "wof:geomhash":"725c8af1e279ff48200fe35d2ff0dbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857431541
+        }
+    ],
+    "wof:id":857431541,
+    "wof:lastmodified":1464129377,
+    "wof:name":"Frazier's Clinic",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.42324,
+    33.495849,
+    -88.42324,
+    33.495849
+],
+  "geometry": {"coordinates":[-88.42324000000001,33.495849],"type":"Point"}
+}

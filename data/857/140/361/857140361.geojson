@@ -1,0 +1,67 @@
+{
+  "id": 857140361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.265373,31.277721,-89.265373,31.277721",
+    "geom:latitude":31.277721,
+    "geom:longitude":-89.265373,
+    "iso:country":"US",
+    "sg:address":"174 Tatum Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0536",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:website":"www.hpsd.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YPiHc6WKQbsP3rueDBCID_31.277721_-89.265373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122903,
+    "wof:geomhash":"7ce24d3e6b85dba8679ee1a4c8a9359f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857140361
+        }
+    ],
+    "wof:id":857140361,
+    "wof:lastmodified":1464122903,
+    "wof:name":"Hattiesburg Middle School",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.265373,
+    31.277721,
+    -89.265373,
+    31.277721
+],
+  "geometry": {"coordinates":[-89.265373,31.277721],"type":"Point"}
+}

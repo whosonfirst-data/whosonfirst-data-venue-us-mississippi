@@ -1,0 +1,71 @@
+{
+  "id": 857353117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533411,30.368471,-88.533411,30.368471",
+    "geom:latitude":30.368471,
+    "geom:longitude":-88.533411,
+    "iso:country":"US",
+    "sg:address":"3200 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7601",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZHRelizoR5A1AoyUe1eg9_30.368471_-88.533411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127556,
+    "wof:geomhash":"f9d65903a5a7f33946300b3436aea78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857353117
+        }
+    ],
+    "wof:id":857353117,
+    "wof:lastmodified":1464127556,
+    "wof:name":"Sunchase Apartments",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.533411,
+    30.368471,
+    -88.533411,
+    30.368471
+],
+  "geometry": {"coordinates":[-88.533411,30.368471],"type":"Point"}
+}

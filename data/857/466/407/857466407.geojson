@@ -1,0 +1,74 @@
+{
+  "id": 857466407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.830258,30.45042,-88.830258,30.45042",
+    "geom:latitude":30.45042,
+    "geom:longitude":-88.830258,
+    "iso:country":"US",
+    "sg:address":"7312 Rose Farm Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 3898",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "sewer"
+    ],
+    "sg:website":"www.wjcud.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oh7n6D2ytO0nmVzuDHPvP_30.450420_-88.830258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130096,
+    "wof:geomhash":"ca8bc28df7fbfdf056f26629ab7c575c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857466407
+        }
+    ],
+    "wof:id":857466407,
+    "wof:lastmodified":1464130096,
+    "wof:name":"West Jackson County Utility",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -88.830258,
+    30.45042,
+    -88.830258,
+    30.45042
+],
+  "geometry": {"coordinates":[-88.830258,30.45042],"type":"Point"}
+}

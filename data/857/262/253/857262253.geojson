@@ -1,0 +1,71 @@
+{
+  "id": 857262253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288858,31.32427,-89.288858,31.32427",
+    "geom:latitude":31.32427,
+    "geom:longitude":-89.288858,
+    "iso:country":"US",
+    "sg:address":"150 Walnut St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0097",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mhgtXNF7wHSXLF8SWgVCh_31.324270_-89.288858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125540,
+    "wof:geomhash":"6a4b36cfcebd093fe98dfae8de9c2909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857262253
+        }
+    ],
+    "wof:id":857262253,
+    "wof:lastmodified":1464125540,
+    "wof:name":"HMP Management Corp",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel"
+    ]
+},
+  "bbox": [
+    -89.288858,
+    31.32427,
+    -89.288858,
+    31.32427
+],
+  "geometry": {"coordinates":[-89.288858,31.32427],"type":"Point"}
+}

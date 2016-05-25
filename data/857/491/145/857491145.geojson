@@ -1,0 +1,66 @@
+{
+  "id": 857491145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.579364,32.23327,-88.579364,32.23327",
+    "geom:latitude":32.23327,
+    "geom:longitude":-88.579364,
+    "iso:country":"US",
+    "sg:address":"6773 B W Johnson Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3752",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NaHvx6IhS64dkhKAKdZm3_32.233270_-88.579364@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130623,
+    "wof:geomhash":"f525f494bebc2ed502c338c7adf4ed0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491145
+        }
+    ],
+    "wof:id":857491145,
+    "wof:lastmodified":1464130623,
+    "wof:name":"Sullivan's Food Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.579364,
+    32.23327,
+    -88.579364,
+    32.23327
+],
+  "geometry": {"coordinates":[-88.579364,32.23327],"type":"Point"}
+}

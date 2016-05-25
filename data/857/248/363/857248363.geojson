@@ -1,0 +1,73 @@
+{
+  "id": 857248363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.709748,32.348712,-88.709748,32.348712",
+    "geom:latitude":32.348712,
+    "geom:longitude":-88.709748,
+    "iso:country":"US",
+    "sg:address":"3035 S Frontage Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 3020",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FTpHU72TPHZKpWpRRTdLn_32.348712_-88.709748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125208,
+    "wof:geomhash":"90f7297581c814789e84f01f2b8fd8e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857248363
+        }
+    ],
+    "wof:id":857248363,
+    "wof:lastmodified":1464125208,
+    "wof:name":"RSC 138",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -88.709748,
+    32.348712,
+    -88.709748,
+    32.348712
+],
+  "geometry": {"coordinates":[-88.709748,32.348712],"type":"Point"}
+}

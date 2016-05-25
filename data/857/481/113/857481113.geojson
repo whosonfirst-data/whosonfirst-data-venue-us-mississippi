@@ -1,0 +1,72 @@
+{
+  "id": 857481113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706665,34.31321,-88.706665,34.31321",
+    "geom:latitude":34.31321,
+    "geom:longitude":-88.706665,
+    "iso:country":"US",
+    "sg:address":"3990 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/105269-ryans-grill-buffet--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9700",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OQOdhSMrcXp1r2LODTrUX_34.313210_-88.706665@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130390,
+    "wof:geomhash":"09e76d0e01e61d4f498c312ba24aee19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481113
+        }
+    ],
+    "wof:id":857481113,
+    "wof:lastmodified":1464130390,
+    "wof:name":"Ryan's Grill Buffet & Bakery",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.706665,
+    34.31321,
+    -88.706665,
+    34.31321
+],
+  "geometry": {"coordinates":[-88.706665,34.31321],"type":"Point"}
+}

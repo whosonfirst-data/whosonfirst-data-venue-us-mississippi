@@ -1,0 +1,71 @@
+{
+  "id": 857370145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.293151,31.310703,-89.293151,31.310703",
+    "geom:latitude":31.310703,
+    "geom:longitude":-89.293151,
+    "iso:country":"US",
+    "sg:address":"306 Ruby Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7933",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MwRiJw4Bl1u5UqqmR8oRC_31.310703_-89.293151@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127908,
+    "wof:geomhash":"3c436b7d30d39705c63f51728f6c58cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857370145
+        }
+    ],
+    "wof:id":857370145,
+    "wof:lastmodified":1464127908,
+    "wof:name":"Katies Etc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -89.293151,
+    31.310703,
+    -89.293151,
+    31.310703
+],
+  "geometry": {"coordinates":[-89.29315099999999,31.310703],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857391657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.722386,34.211139,-88.722386,34.211139",
+    "geom:latitude":34.211139,
+    "geom:longitude":-88.722386,
+    "iso:country":"US",
+    "sg:address":"2458 S Green St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3368",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7joI7MNp4P1lvp4Z4aVJst_34.211139_-88.722386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128461,
+    "wof:geomhash":"4b62ed48a250127d2b92be7add3a081c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857391657
+        }
+    ],
+    "wof:id":857391657,
+    "wof:lastmodified":1464128461,
+    "wof:name":"Dent TEC",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.722386,
+    34.211139,
+    -88.722386,
+    34.211139
+],
+  "geometry": {"coordinates":[-88.722386,34.211139],"type":"Point"}
+}

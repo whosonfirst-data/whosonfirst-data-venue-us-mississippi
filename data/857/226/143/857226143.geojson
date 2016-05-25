@@ -1,0 +1,73 @@
+{
+  "id": 857226143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520698,34.351413,-89.520698,34.351413",
+    "geom:latitude":34.351413,
+    "geom:longitude":-89.520698,
+    "iso:country":"US",
+    "sg:address":"2167 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 6683",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "optical",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02V2IgxCRZpYXhVBb6xztl_34.351413_-89.520698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124732,
+    "wof:geomhash":"6736e24a8ee61bccdc0137fcf2325c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857226143
+        }
+    ],
+    "wof:id":857226143,
+    "wof:lastmodified":1464124732,
+    "wof:name":"Oxford Eye Clinic",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical",
+        "good"
+    ]
+},
+  "bbox": [
+    -89.520698,
+    34.351413,
+    -89.520698,
+    34.351413
+],
+  "geometry": {"coordinates":[-89.520698,34.351413],"type":"Point"}
+}

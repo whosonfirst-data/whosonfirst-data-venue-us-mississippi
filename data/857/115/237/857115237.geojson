@@ -1,0 +1,71 @@
+{
+  "id": 857115237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.826792,32.299483,-90.826792,32.299483",
+    "geom:latitude":32.299483,
+    "geom:longitude":-90.826792,
+    "iso:country":"US",
+    "sg:address":"140 Vines Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 9775",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eUpm42J2vw4O9XQEDetha_32.299483_-90.826792@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122318,
+    "wof:geomhash":"b9448ae28eb682de8138c59c929ce7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857115237
+        }
+    ],
+    "wof:id":857115237,
+    "wof:lastmodified":1464122318,
+    "wof:name":"Southern Plumbing Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.826792,
+    32.299483,
+    -90.826792,
+    32.299483
+],
+  "geometry": {"coordinates":[-90.826792,32.299483],"type":"Point"}
+}

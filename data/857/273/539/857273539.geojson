@@ -1,0 +1,73 @@
+{
+  "id": 857273539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.319676,31.323023,-89.319676,31.323023",
+    "geom:latitude":31.323023,
+    "geom:longitude":-89.319676,
+    "iso:country":"US",
+    "sg:address":"110 Patton Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1111",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z1OABsA8rWn2hvV5q2ZvY_31.323023_-89.319676@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125756,
+    "wof:geomhash":"33cc521a0cffc0f8bf9cab5cd4775984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857273539
+        }
+    ],
+    "wof:id":857273539,
+    "wof:lastmodified":1464125756,
+    "wof:name":"Pine Belt Children's Svc",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -89.319676,
+    31.323023,
+    -89.319676,
+    31.323023
+],
+  "geometry": {"coordinates":[-89.319676,31.323023],"type":"Point"}
+}

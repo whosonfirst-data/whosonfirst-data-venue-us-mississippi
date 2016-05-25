@@ -1,0 +1,69 @@
+{
+  "id": 857473143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.511936,34.397885,-89.511936,34.397885",
+    "geom:latitude":34.397885,
+    "geom:longitude":-89.511936,
+    "iso:country":"US",
+    "sg:address":"304 Co Rd 101",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1101",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32AYEcq3pq6x1BbiABXvDO_34.397885_-89.511936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130240,
+    "wof:geomhash":"e9f2441e5227690e15ad6e147d167b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857473143
+        }
+    ],
+    "wof:id":857473143,
+    "wof:lastmodified":1464130240,
+    "wof:name":"North Oxford Baptist Church",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.511936,
+    34.397885,
+    -89.511936,
+    34.397885
+],
+  "geometry": {"coordinates":[-89.51193600000001,34.397885],"type":"Point"}
+}

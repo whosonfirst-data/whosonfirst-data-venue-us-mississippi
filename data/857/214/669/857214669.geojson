@@ -1,0 +1,71 @@
+{
+  "id": 857214669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.79784,30.415001,-88.79784,30.415001",
+    "geom:latitude":30.415001,
+    "geom:longitude":-88.79784,
+    "iso:country":"US",
+    "sg:address":"2552 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 0531",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cosmetologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7luSZ9qYFXREEqoaWQVzPb_30.415001_-88.797840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124503,
+    "wof:geomhash":"87518b400c1428534f8d513266e56213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857214669
+        }
+    ],
+    "wof:id":857214669,
+    "wof:lastmodified":1464124503,
+    "wof:name":"Permanent Cosmetic Clinic",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetologist"
+    ]
+},
+  "bbox": [
+    -88.79784,
+    30.415001,
+    -88.79784,
+    30.415001
+],
+  "geometry": {"coordinates":[-88.79783999999999,30.415001],"type":"Point"}
+}

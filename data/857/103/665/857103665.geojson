@@ -1,0 +1,73 @@
+{
+  "id": 857103665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.643665,30.390451,-88.643665,30.390451",
+    "geom:latitude":30.390451,
+    "geom:longitude":-88.643665,
+    "iso:country":"US",
+    "sg:address":"2015 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 522 3800",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QrXbUcf1qvkAhJ0iUw53o_30.390451_-88.643665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121996,
+    "wof:geomhash":"21d4bd3a8447e0160e9dcf3f87791ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857103665
+        }
+    ],
+    "wof:id":857103665,
+    "wof:lastmodified":1464121996,
+    "wof:name":"Homeport Auto Sales",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.643665,
+    30.390451,
+    -88.643665,
+    30.390451
+],
+  "geometry": {"coordinates":[-88.643665,30.390451],"type":"Point"}
+}

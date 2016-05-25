@@ -1,0 +1,71 @@
+{
+  "id": 857253207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.523962,33.875654,-88.523962,33.875654",
+    "geom:latitude":33.875654,
+    "geom:longitude":-88.523962,
+    "iso:country":"US",
+    "sg:address":"50060 Sunset Point Dr",
+    "sg:city":"Amory",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7575",
+    "sg:postcode":"38821",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OIcnWobvstEfjr7O7Gnol_33.875654_-88.523962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125325,
+    "wof:geomhash":"15e844055e9e44667b9accb9d4b9591e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857253207
+        }
+    ],
+    "wof:id":857253207,
+    "wof:lastmodified":1464125325,
+    "wof:name":"Hh Sports",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy"
+    ]
+},
+  "bbox": [
+    -88.523962,
+    33.875654,
+    -88.523962,
+    33.875654
+],
+  "geometry": {"coordinates":[-88.523962,33.875654],"type":"Point"}
+}

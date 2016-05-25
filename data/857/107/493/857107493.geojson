@@ -1,0 +1,73 @@
+{
+  "id": 857107493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679666,32.384999,-88.679666,32.384999",
+    "geom:latitude":32.384999,
+    "geom:longitude":-88.679666,
+    "iso:country":"US",
+    "sg:address":"2428 Old Marion Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 4110",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S3yhrdbuHjRw8pWBt00zN_32.384999_-88.679666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122078,
+    "wof:geomhash":"b46dc1f368ed43c71b3df38cbc92a683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857107493
+        }
+    ],
+    "wof:id":857107493,
+    "wof:lastmodified":1464122078,
+    "wof:name":"Marion Road Apartments Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.679666,
+    32.384999,
+    -88.679666,
+    32.384999
+],
+  "geometry": {"coordinates":[-88.679666,32.384999],"type":"Point"}
+}

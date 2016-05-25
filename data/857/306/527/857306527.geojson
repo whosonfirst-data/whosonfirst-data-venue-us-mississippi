@@ -1,0 +1,71 @@
+{
+  "id": 857306527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659366,34.444363,-88.659366,34.444363",
+    "geom:latitude":34.444363,
+    "geom:longitude":-88.659366,
+    "iso:country":"US",
+    "sg:address":"1617 Main St",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 5711",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3avTR6dqUhDQZ4pgdOBrQ2_34.444363_-88.659366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126549,
+    "wof:geomhash":"7da681e1939a00de53c9b3185ec2a73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857306527
+        }
+    ],
+    "wof:id":857306527,
+    "wof:lastmodified":1464126549,
+    "wof:name":"Guntown First Baptist Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.659366,
+    34.444363,
+    -88.659366,
+    34.444363
+],
+  "geometry": {"coordinates":[-88.65936600000001,34.444363],"type":"Point"}
+}

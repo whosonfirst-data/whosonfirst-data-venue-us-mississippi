@@ -1,0 +1,71 @@
+{
+  "id": 857332519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.537945,30.400503,-88.537945,30.400503",
+    "geom:latitude":30.400503,
+    "geom:longitude":-88.537945,
+    "iso:country":"US",
+    "sg:address":"4014 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 7645",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lJAzcI8O0RAyd1ennfuhC_30.400503_-88.537945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127111,
+    "wof:geomhash":"c037742c249c59e32d8c3a5447350243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857332519
+        }
+    ],
+    "wof:id":857332519,
+    "wof:lastmodified":1464127111,
+    "wof:name":"Family Dental Center",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.537945,
+    30.400503,
+    -88.537945,
+    30.400503
+],
+  "geometry": {"coordinates":[-88.53794499999999,30.400503],"type":"Point"}
+}

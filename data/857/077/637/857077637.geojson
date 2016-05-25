@@ -1,0 +1,71 @@
+{
+  "id": 857077637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.084566,33.554549,-89.084566,33.554549",
+    "geom:latitude":33.554549,
+    "geom:longitude":-89.084566,
+    "iso:country":"US",
+    "sg:address":"2527 Maben Starkville Rd",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 8111",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iPbGvb8dpblch5xIEZvoH_33.554549_-89.084566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121347,
+    "wof:geomhash":"19ac9a3c6bc64517e118ad4e19d06fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857077637
+        }
+    ],
+    "wof:id":857077637,
+    "wof:lastmodified":1464121347,
+    "wof:name":"Cole Electric & Refrigeration",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -89.084566,
+    33.554549,
+    -89.084566,
+    33.554549
+],
+  "geometry": {"coordinates":[-89.084566,33.554549],"type":"Point"}
+}

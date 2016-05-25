@@ -1,0 +1,73 @@
+{
+  "id": 857143267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.59603,33.865679,-88.59603,33.865679",
+    "geom:latitude":33.865679,
+    "geom:longitude":-88.59603,
+    "iso:country":"US",
+    "sg:address":"7293 Hwy 45 N",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 2131",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lu23DkzmLs0LomMXuln4v_33.865679_-88.596030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122970,
+    "wof:geomhash":"7b583afeea9d6481d04de1157deeb175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857143267
+        }
+    ],
+    "wof:id":857143267,
+    "wof:lastmodified":1464122970,
+    "wof:name":"Riley Construction Inc",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.59603,
+    33.865679,
+    -88.59603,
+    33.865679
+],
+  "geometry": {"coordinates":[-88.59603,33.865679],"type":"Point"}
+}

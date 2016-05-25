@@ -1,0 +1,71 @@
+{
+  "id": 857307593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702346,32.365143,-88.702346,32.365143",
+    "geom:latitude":32.365143,
+    "geom:longitude":-88.702346,
+    "iso:country":"US",
+    "sg:address":"2320 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 5353",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ticket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jGORay2lRHFwIgBxgiFGO_32.365143_-88.702346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126570,
+    "wof:geomhash":"3bce26c448e143c631724c7b728ca02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857307593
+        }
+    ],
+    "wof:id":857307593,
+    "wof:lastmodified":1464126570,
+    "wof:name":"Hamasa Shrine Box Office",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket"
+    ]
+},
+  "bbox": [
+    -88.702346,
+    32.365143,
+    -88.702346,
+    32.365143
+],
+  "geometry": {"coordinates":[-88.70234600000001,32.365143],"type":"Point"}
+}

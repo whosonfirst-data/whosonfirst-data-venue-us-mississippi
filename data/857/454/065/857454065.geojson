@@ -1,0 +1,75 @@
+{
+  "id": 857454065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690747,32.371892,-88.690747,32.371892",
+    "geom:latitude":32.371892,
+    "geom:longitude":-88.690747,
+    "iso:country":"US",
+    "sg:address":"1408 12th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 7594",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ToIG5abfxTEdOp3WJJ95L_32.371892_-88.690747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129838,
+    "wof:geomhash":"f5d3225404bf993733083650a953c956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857454065
+        }
+    ],
+    "wof:id":857454065,
+    "wof:lastmodified":1464129838,
+    "wof:name":"T & N Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -88.690747,
+    32.371892,
+    -88.690747,
+    32.371892
+],
+  "geometry": {"coordinates":[-88.690747,32.371892],"type":"Point"}
+}

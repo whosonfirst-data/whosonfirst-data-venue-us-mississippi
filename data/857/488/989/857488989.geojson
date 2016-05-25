@@ -1,0 +1,85 @@
+{
+  "id": 857488989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.936768,34.965177,-89.936768,34.965177",
+    "geom:latitude":34.965177,
+    "geom:longitude":-89.936768,
+    "iso:country":"US",
+    "sg:address":"7165 Getwell Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 349 7676",
+    "sg:postcode":"38672",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35lTVPt5743jvFGr58Mh7Q_34.965177_-89.936768@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130560,
+    "wof:geomhash":"cd50118425536f4b268f98eb0e26c16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857488989
+        }
+    ],
+    "wof:id":857488989,
+    "wof:lastmodified":1464130560,
+    "wof:name":"Northwest Mississippi Otolaryngology, Head & Neck Surgery, LLC",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ]
+},
+  "bbox": [
+    -89.936768,
+    34.965177,
+    -89.936768,
+    34.965177
+],
+  "geometry": {"coordinates":[-89.936768,34.965177],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857211109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.187415,31.384468,-89.187415,31.384468",
+    "geom:latitude":31.384468,
+    "geom:longitude":-89.187415,
+    "iso:country":"US",
+    "sg:address":"2480 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 1400",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nu7bm7gFRLHJQwoCvQUXo_31.384468_-89.187415@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124416,
+    "wof:geomhash":"a79e42d20f3473fc4ed072d771310c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857211109
+        }
+    ],
+    "wof:id":857211109,
+    "wof:lastmodified":1464124416,
+    "wof:name":"Stephens Feed & Seed",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -89.187415,
+    31.384468,
+    -89.187415,
+    31.384468
+],
+  "geometry": {"coordinates":[-89.187415,31.384468],"type":"Point"}
+}

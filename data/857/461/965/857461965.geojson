@@ -1,0 +1,73 @@
+{
+  "id": 857461965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.311709,31.374572,-89.311709,31.374572",
+    "geom:latitude":31.374572,
+    "geom:longitude":-89.311709,
+    "iso:country":"US",
+    "sg:address":"3209 Moye Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2962",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "florist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gmezuWpnDHISIh4yeKLJ8_31.374572_-89.311709@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129990,
+    "wof:geomhash":"94b2f5a4ad01318cf366cc2f8835502a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857461965
+        }
+    ],
+    "wof:id":857461965,
+    "wof:lastmodified":1464129990,
+    "wof:name":"John's Wholesale Florist",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.311709,
+    31.374572,
+    -89.311709,
+    31.374572
+],
+  "geometry": {"coordinates":[-89.31170899999999,31.374572],"type":"Point"}
+}

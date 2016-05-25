@@ -1,0 +1,71 @@
+{
+  "id": 857400573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.776412,34.248473,-88.776412,34.248473",
+    "geom:latitude":34.248473,
+    "geom:longitude":-88.776412,
+    "iso:country":"US",
+    "sg:address":"4097 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 1668",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KGvqtKqBTacmgeEAlCtsE_34.248473_-88.776412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128635,
+    "wof:geomhash":"8d6f0824d61244fd4f193061743ccc06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857400573
+        }
+    ],
+    "wof:id":857400573,
+    "wof:lastmodified":1464128635,
+    "wof:name":"Jewels By Lori",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -88.776412,
+    34.248473,
+    -88.776412,
+    34.248473
+],
+  "geometry": {"coordinates":[-88.77641199999999,34.248473],"type":"Point"}
+}

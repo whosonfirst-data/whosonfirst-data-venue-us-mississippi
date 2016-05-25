@@ -1,0 +1,73 @@
+{
+  "id": 857403519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.326973,33.461085,-88.326973,33.461085",
+    "geom:latitude":33.461085,
+    "geom:longitude":-88.326973,
+    "iso:country":"US",
+    "sg:address":"2275 New Hope Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2719",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "membership",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cODqsXDRCz3ikd7KRu6yH_33.461085_-88.326973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128692,
+    "wof:geomhash":"cf004c107f113b4cbac42b243c498250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857403519
+        }
+    ],
+    "wof:id":857403519,
+    "wof:lastmodified":1464128692,
+    "wof:name":"Sons of Confederate Veter",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "social"
+    ]
+},
+  "bbox": [
+    -88.326973,
+    33.461085,
+    -88.326973,
+    33.461085
+],
+  "geometry": {"coordinates":[-88.326973,33.461085],"type":"Point"}
+}

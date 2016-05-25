@@ -1,0 +1,71 @@
+{
+  "id": 857453023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.226985,31.128248,-89.226985,31.128248",
+    "geom:latitude":31.128248,
+    "geom:longitude":-89.226985,
+    "iso:country":"US",
+    "sg:address":"3200 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 7333",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74zl1xh0Mz2BhCpAzeqFmS_31.128248_-89.226985@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129816,
+    "wof:geomhash":"e7ed2bf38e0aea36bcbcf8764cd52063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857453023
+        }
+    ],
+    "wof:id":857453023,
+    "wof:lastmodified":1464129816,
+    "wof:name":"Arbys",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.226985,
+    31.128248,
+    -89.226985,
+    31.128248
+],
+  "geometry": {"coordinates":[-89.226985,31.128248],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857483149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671898,32.36048,-88.671898,32.36048",
+    "geom:latitude":32.36048,
+    "geom:longitude":-88.671898,
+    "iso:country":"US",
+    "sg:address":"1000 Bonita Lakes Cir",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/72485-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 553 0570",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oaBIUmUiMXDeMizHAGES6_32.360480_-88.671898@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130431,
+    "wof:geomhash":"834f9c5f9fe97a5dd4c75fddf6f1c9f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483149
+        }
+    ],
+    "wof:id":857483149,
+    "wof:lastmodified":1464130431,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.671898,
+    32.36048,
+    -88.671898,
+    32.36048
+],
+  "geometry": {"coordinates":[-88.671898,32.36048],"type":"Point"}
+}

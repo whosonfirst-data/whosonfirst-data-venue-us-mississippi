@@ -1,0 +1,71 @@
+{
+  "id": 857470915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525738,30.370262,-88.525738,30.370262",
+    "geom:latitude":30.370262,
+    "geom:longitude":-88.525738,
+    "iso:country":"US",
+    "sg:address":"3104 Chicago Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 6237",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GJlIanIE1JrH5qqXTKMEW_30.370262_-88.525738@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130189,
+    "wof:geomhash":"6a7522b7c26429045d976777d5ad3f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857470915
+        }
+    ],
+    "wof:id":857470915,
+    "wof:lastmodified":1464130189,
+    "wof:name":"Bill & Bettys Shear Magic Hair",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.525738,
+    30.370262,
+    -88.525738,
+    30.370262
+],
+  "geometry": {"coordinates":[-88.525738,30.370262],"type":"Point"}
+}

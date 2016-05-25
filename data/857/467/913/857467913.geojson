@@ -1,0 +1,69 @@
+{
+  "id": 857467913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.526971,31.29281,-89.526971,31.29281",
+    "geom:latitude":31.29281,
+    "geom:longitude":-89.526971,
+    "iso:country":"US",
+    "sg:address":"62 Midway Church Rd",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 753 9229",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e9NeaIo8n1y4k9gVKYYgo_31.292810_-89.526971@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130122,
+    "wof:geomhash":"e7525648c5f8d4af920d0800f766c58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857467913
+        }
+    ],
+    "wof:id":857467913,
+    "wof:lastmodified":1464130122,
+    "wof:name":"Midway Baptist Church",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.526971,
+    31.29281,
+    -89.526971,
+    31.29281
+],
+  "geometry": {"coordinates":[-89.526971,31.29281],"type":"Point"}
+}

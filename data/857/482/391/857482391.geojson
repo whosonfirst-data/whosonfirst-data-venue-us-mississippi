@@ -1,0 +1,74 @@
+{
+  "id": 857482391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.411437,32.846169,-90.411437,32.846169",
+    "geom:latitude":32.846169,
+    "geom:longitude":-90.411437,
+    "iso:country":"US",
+    "sg:address":"310 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/yazoo-city/183274-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 746 9062",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XdBrHk65Fxk5EkG8zyOwH_32.846169_-90.411437@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130416,
+    "wof:geomhash":"75982a3bc5d653ae34179aa69e39552a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857482391
+        }
+    ],
+    "wof:id":857482391,
+    "wof:lastmodified":1464130416,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.411437,
+    32.846169,
+    -90.411437,
+    32.846169
+],
+  "geometry": {"coordinates":[-90.41143700000001,32.846169],"type":"Point"}
+}

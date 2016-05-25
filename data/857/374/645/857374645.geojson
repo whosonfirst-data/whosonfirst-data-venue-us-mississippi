@@ -1,0 +1,71 @@
+{
+  "id": 857374645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746389,34.250108,-88.746389,34.250108",
+    "geom:latitude":34.250108,
+    "geom:longitude":-88.746389,
+    "iso:country":"US",
+    "sg:address":"507 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 3825",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FG8SLpKnxpFaDiUV3F5gF_34.250108_-88.746389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128001,
+    "wof:geomhash":"54a51e839e2f33bea5753bde17fc5dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857374645
+        }
+    ],
+    "wof:id":857374645,
+    "wof:lastmodified":1464128001,
+    "wof:name":"GAB Robins Business Svc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -88.746389,
+    34.250108,
+    -88.746389,
+    34.250108
+],
+  "geometry": {"coordinates":[-88.74638899999999,34.250108],"type":"Point"}
+}

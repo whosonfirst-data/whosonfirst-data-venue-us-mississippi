@@ -1,0 +1,71 @@
+{
+  "id": 857167657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.850291,32.332891,-90.850291,32.332891",
+    "geom:latitude":32.332891,
+    "geom:longitude":-90.850291,
+    "iso:country":"US",
+    "sg:address":"3365 Porters Chapel Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8121",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6etcHBECZa9ykZEaFjDUmt_32.332891_-90.850291@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123525,
+    "wof:geomhash":"71c47c700820c2bc50a927e639df5fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857167657
+        }
+    ],
+    "wof:id":857167657,
+    "wof:lastmodified":1464123525,
+    "wof:name":"Trinity Baptist Church Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.850291,
+    32.332891,
+    -90.850291,
+    32.332891
+],
+  "geometry": {"coordinates":[-90.850291,32.332891],"type":"Point"}
+}

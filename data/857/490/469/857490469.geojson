@@ -1,0 +1,85 @@
+{
+  "id": 857490469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.051857,32.37122,-90.051857,32.37122",
+    "geom:latitude":32.37122,
+    "geom:longitude":-90.051857,
+    "iso:country":"US",
+    "sg:address":"1301 Old Fannin Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 2345",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "favors",
+        "planning",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WO1lJSxKwbQB70lyjZfDD_32.371220_-90.051857@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130603,
+    "wof:geomhash":"30f9fb1efd23c3d32d1d10fe3f084d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857490469
+        }
+    ],
+    "wof:id":857490469,
+    "wof:lastmodified":1464130603,
+    "wof:name":"T Parties",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "favors",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -90.051857,
+    32.37122,
+    -90.051857,
+    32.37122
+],
+  "geometry": {"coordinates":[-90.051857,32.37122],"type":"Point"}
+}

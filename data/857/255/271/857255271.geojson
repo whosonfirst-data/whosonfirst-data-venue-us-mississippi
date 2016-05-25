@@ -1,0 +1,73 @@
+{
+  "id": 857255271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.997988,32.254097,-89.997988,32.254097",
+    "geom:latitude":32.254097,
+    "geom:longitude":-89.997988,
+    "iso:country":"US",
+    "sg:address":"300 Hwy 468",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 955 1420",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14I0gsdreoFSkxd2SJwHEn_32.254097_-89.997988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125381,
+    "wof:geomhash":"40e8cf4320b1366ae53db5f662b4d0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857255271
+        }
+    ],
+    "wof:id":857255271,
+    "wof:lastmodified":1464125381,
+    "wof:name":"Army National Guard Recruiter",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -89.997988,
+    32.254097,
+    -89.997988,
+    32.254097
+],
+  "geometry": {"coordinates":[-89.99798800000001,32.254097],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857487851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.967049,34.988974,-89.967049,34.988974",
+    "geom:latitude":34.988974,
+    "geom:longitude":-89.967049,
+    "iso:country":"US",
+    "sg:address":"8835 Commerce Dr",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 393 7780",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "scooters-parts",
+        "instruction",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ccyxm1pkWN4XJuIA2eise_34.988974_-89.967049@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130534,
+    "wof:geomhash":"6cec32a32ecf1aa3273b7e2f8ad50a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857487851
+        }
+    ],
+    "wof:id":857487851,
+    "wof:lastmodified":1464130534,
+    "wof:name":"Motosport Inc",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-parts",
+        "instruction",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.967049,
+    34.988974,
+    -89.967049,
+    34.988974
+],
+  "geometry": {"coordinates":[-89.967049,34.988974],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857111847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.433977,32.844277,-90.433977,32.844277",
+    "geom:latitude":32.844277,
+    "geom:longitude":-90.433977,
+    "iso:country":"US",
+    "sg:address":"700 S Industrial Pkwy",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3795",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zKGsxPEAmLUVFo78JkEgn_32.844277_-90.433977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122230,
+    "wof:geomhash":"92f3ea6d9a2835e40250d1d5baa5f987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857111847
+        }
+    ],
+    "wof:id":857111847,
+    "wof:lastmodified":1464122230,
+    "wof:name":"Mechanicsburg Lumber Co",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -90.433977,
+    32.844277,
+    -90.433977,
+    32.844277
+],
+  "geometry": {"coordinates":[-90.433977,32.844277],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857181841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533442,30.370462,-88.533442,30.370462",
+    "geom:latitude":30.370462,
+    "geom:longitude":-88.533442,
+    "iso:country":"US",
+    "sg:address":"3608 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 1284",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34fltuDIYPyhM3i57Gaadi_30.370462_-88.533442@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123832,
+    "wof:geomhash":"36bc50febbc6270503868b4869029102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857181841
+        }
+    ],
+    "wof:id":857181841,
+    "wof:lastmodified":1464123832,
+    "wof:name":"Cut Masters Barber & Style",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -88.533442,
+    30.370462,
+    -88.533442,
+    30.370462
+],
+  "geometry": {"coordinates":[-88.53344199999999,30.370462],"type":"Point"}
+}

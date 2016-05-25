@@ -1,0 +1,73 @@
+{
+  "id": 857148953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.821822,33.474914,-88.821822,33.474914",
+    "geom:latitude":33.474914,
+    "geom:longitude":-88.821822,
+    "iso:country":"US",
+    "sg:address":"501 Hospital Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3162",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cEklb1br0EILrLQ1mVSlE_33.474914_-88.821822@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123122,
+    "wof:geomhash":"3403d56de7b6ea97b03d1ddbeee04508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857148953
+        }
+    ],
+    "wof:id":857148953,
+    "wof:lastmodified":1464123122,
+    "wof:name":"Family Clinic",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.821822,
+    33.474914,
+    -88.821822,
+    33.474914
+],
+  "geometry": {"coordinates":[-88.821822,33.474914],"type":"Point"}
+}

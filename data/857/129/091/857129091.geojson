@@ -1,0 +1,71 @@
+{
+  "id": 857129091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.137617,32.185841,-90.137617,32.185841",
+    "geom:latitude":32.185841,
+    "geom:longitude":-90.137617,
+    "iso:country":"US",
+    "sg:address":"406 Hwy 49 S",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 5151",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qOZN1RNsXSD2QNVOiHVcI_32.185841_-90.137617@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122649,
+    "wof:geomhash":"a22c8d0a4dc19048bcfe4d39213d118b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857129091
+        }
+    ],
+    "wof:id":857129091,
+    "wof:lastmodified":1464122649,
+    "wof:name":"Puckett Rents",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -90.137617,
+    32.185841,
+    -90.137617,
+    32.185841
+],
+  "geometry": {"coordinates":[-90.13761700000001,32.185841],"type":"Point"}
+}

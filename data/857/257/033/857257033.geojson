@@ -1,0 +1,71 @@
+{
+  "id": 857257033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.718579,34.350225,-89.718579,34.350225",
+    "geom:latitude":34.350225,
+    "geom:longitude":-89.718579,
+    "iso:country":"US",
+    "sg:address":"333 Hwy 6 W",
+    "sg:city":"Batesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 563 2287",
+    "sg:postcode":"38606",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77I9xMVAkbNrFgmas4xvMh_34.350225_-89.718579@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125427,
+    "wof:geomhash":"246fe79f1dfa14e4feb27670844736a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857257033
+        }
+    ],
+    "wof:id":857257033,
+    "wof:lastmodified":1464125427,
+    "wof:name":"Community Loans Of America",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -89.718579,
+    34.350225,
+    -89.718579,
+    34.350225
+],
+  "geometry": {"coordinates":[-89.71857900000001,34.350225],"type":"Point"}
+}

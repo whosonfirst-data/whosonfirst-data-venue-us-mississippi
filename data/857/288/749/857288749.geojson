@@ -1,0 +1,75 @@
+{
+  "id": 857288749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.745643,32.357371,-88.745643,32.357371",
+    "geom:latitude":32.357371,
+    "geom:longitude":-88.745643,
+    "iso:country":"US",
+    "sg:address":"7100 Old Hwy 80 W",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 8803",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S0PfKiOgx5jz9UiMF8uO0_32.357371_-88.745643@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126104,
+    "wof:geomhash":"c9e495c483482540c9fc4c98eeacfece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857288749
+        }
+    ],
+    "wof:id":857288749,
+    "wof:lastmodified":1464126104,
+    "wof:name":"Cedar Bend Apartments",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.745643,
+    32.357371,
+    -88.745643,
+    32.357371
+],
+  "geometry": {"coordinates":[-88.745643,32.357371],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857421151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.131864,32.378182,-90.131864,32.378182",
+    "geom:latitude":32.378182,
+    "geom:longitude":-90.131864,
+    "iso:country":"US",
+    "sg:address":"1150 Briarwood Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 991 1956",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WKrkmm0xYO58vy2AT9Yk0_32.378182_-90.131864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129132,
+    "wof:geomhash":"ae68ddb98090156fdff96e597fd9d5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857421151
+        }
+    ],
+    "wof:id":857421151,
+    "wof:lastmodified":1464129132,
+    "wof:name":"A & C Transportation",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.131864,
+    32.378182,
+    -90.131864,
+    32.378182
+],
+  "geometry": {"coordinates":[-90.13186399999999,32.378182],"type":"Point"}
+}

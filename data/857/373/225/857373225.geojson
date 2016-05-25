@@ -1,0 +1,71 @@
+{
+  "id": 857373225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512186,34.376555,-89.512186,34.376555",
+    "geom:latitude":34.376555,
+    "geom:longitude":-89.512186,
+    "iso:country":"US",
+    "sg:address":"1107 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 1946",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pG4mglsyDVmVOSYI1WZXl_34.376555_-89.512186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127975,
+    "wof:geomhash":"d5ba0ec35a74091ac7f4d7fe843e073e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857373225
+        }
+    ],
+    "wof:id":857373225,
+    "wof:lastmodified":1464127975,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.512186,
+    34.376555,
+    -89.512186,
+    34.376555
+],
+  "geometry": {"coordinates":[-89.512186,34.376555],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857368531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.849305,32.331943,-90.849305,32.331943",
+    "geom:latitude":32.331943,
+    "geom:longitude":-90.849305,
+    "iso:country":"US",
+    "sg:address":"60 Shady Lawn Pl",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 1448",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZfvkX30MbsuPouP20DEtU_32.331943_-90.849305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127874,
+    "wof:geomhash":"9e15fbe86efd855032d17bd967bfd04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857368531
+        }
+    ],
+    "wof:id":857368531,
+    "wof:lastmodified":1464127874,
+    "wof:name":"Shady Lawn Nursing Home",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.849305,
+    32.331943,
+    -90.849305,
+    32.331943
+],
+  "geometry": {"coordinates":[-90.849305,32.331943],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857381461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547489,30.359065,-88.547489,30.359065",
+    "geom:latitude":30.359065,
+    "geom:longitude":-88.547489,
+    "iso:country":"US",
+    "sg:address":"1612 Polk Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9703",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uPin3OmrFdGDkUUvUkj7C_30.359065_-88.547489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128164,
+    "wof:geomhash":"7c4eabad3ac1b2341274dd7775bf4107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857381461
+        }
+    ],
+    "wof:id":857381461,
+    "wof:lastmodified":1464128164,
+    "wof:name":"Roy's Bar",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -88.547489,
+    30.359065,
+    -88.547489,
+    30.359065
+],
+  "geometry": {"coordinates":[-88.547489,30.359065],"type":"Point"}
+}

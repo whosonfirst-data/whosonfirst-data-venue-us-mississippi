@@ -1,0 +1,75 @@
+{
+  "id": 857297377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.535122,30.401057,-88.535122,30.401057",
+    "geom:latitude":30.401057,
+    "geom:longitude":-88.535122,
+    "iso:country":"US",
+    "sg:address":"4413 Jackson St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 1424",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HL1O50FrfkYswuNAVvYMX_30.401057_-88.535122@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126352,
+    "wof:geomhash":"4a447672796c007b995e647ea86f978b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857297377
+        }
+    ],
+    "wof:id":857297377,
+    "wof:lastmodified":1464126352,
+    "wof:name":"Holbrook's Garage",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.535122,
+    30.401057,
+    -88.535122,
+    30.401057
+],
+  "geometry": {"coordinates":[-88.535122,30.401057],"type":"Point"}
+}

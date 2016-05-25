@@ -1,0 +1,71 @@
+{
+  "id": 857158603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158509,32.230175,-90.158509,32.230175",
+    "geom:latitude":32.230175,
+    "geom:longitude":-90.158509,
+    "iso:country":"US",
+    "sg:address":"151 Linda Jo Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 1877",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nx0KhzmzK2SeslYtEwWuZ_32.230175_-90.158509@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123318,
+    "wof:geomhash":"f5fbfc63eaf8323856e940545c8055d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857158603
+        }
+    ],
+    "wof:id":857158603,
+    "wof:lastmodified":1464123318,
+    "wof:name":"Neelys Starter &ALt Auto Elec",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.158509,
+    32.230175,
+    -90.158509,
+    32.230175
+],
+  "geometry": {"coordinates":[-90.158509,32.230175],"type":"Point"}
+}

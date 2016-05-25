@@ -1,0 +1,73 @@
+{
+  "id": 857471501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405439,32.862205,-90.405439,32.862205",
+    "geom:latitude":32.862205,
+    "geom:longitude":-90.405439,
+    "iso:country":"US",
+    "sg:address":"121 Lindsey Lawn Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2226",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zGGKEDrxb47aakzN7nRzl_32.862205_-90.405439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130206,
+    "wof:geomhash":"bbfd056d20dc332f4baf6224518199f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857471501
+        }
+    ],
+    "wof:id":857471501,
+    "wof:lastmodified":1464130206,
+    "wof:name":"Yazoo City Housing Authority",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -90.405439,
+    32.862205,
+    -90.405439,
+    32.862205
+],
+  "geometry": {"coordinates":[-90.405439,32.862205],"type":"Point"}
+}

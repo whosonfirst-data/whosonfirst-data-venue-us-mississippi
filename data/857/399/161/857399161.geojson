@@ -1,0 +1,73 @@
+{
+  "id": 857399161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.558019,34.363805,-89.558019,34.363805",
+    "geom:latitude":34.363805,
+    "geom:longitude":-89.558019,
+    "iso:country":"US",
+    "sg:address":"117 Heritage Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8110",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55qNnQY0I6xfqzdk4yBNMx_34.363805_-89.558019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128608,
+    "wof:geomhash":"a3beaa4ebbd9320f8004d8294dd74229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857399161
+        }
+    ],
+    "wof:id":857399161,
+    "wof:lastmodified":1464128608,
+    "wof:name":"Check Into Cash",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -89.558019,
+    34.363805,
+    -89.558019,
+    34.363805
+],
+  "geometry": {"coordinates":[-89.558019,34.363805],"type":"Point"}
+}

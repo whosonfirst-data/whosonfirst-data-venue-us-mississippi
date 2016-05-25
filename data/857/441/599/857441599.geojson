@@ -1,0 +1,73 @@
+{
+  "id": 857441599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512523,34.363138,-89.512523,34.363138",
+    "geom:latitude":34.363138,
+    "geom:longitude":-89.512523,
+    "iso:country":"US",
+    "sg:address":"1735 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8060",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y57EByM36UhXyMWlZ0e8n_34.363138_-89.512523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129598,
+    "wof:geomhash":"2aaba10f9263b7ed7399aa28e24748fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857441599
+        }
+    ],
+    "wof:id":857441599,
+    "wof:lastmodified":1464129598,
+    "wof:name":"Callahans Quick Print Inc",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -89.512523,
+    34.363138,
+    -89.512523,
+    34.363138
+],
+  "geometry": {"coordinates":[-89.512523,34.363138],"type":"Point"}
+}

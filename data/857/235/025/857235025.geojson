@@ -1,0 +1,80 @@
+{
+  "id": 857235025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.716573,33.411853,-88.716573,33.411853",
+    "geom:latitude":33.411853,
+    "geom:longitude":-88.716573,
+    "iso:country":"US",
+    "sg:address":"2364 Turkey Creek Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 1200",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y0fQaVU9AWIFFKeGB0LdM_33.411853_-88.716573@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124903,
+    "wof:geomhash":"d05df13733c16a000d60797e43ddcba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857235025
+        }
+    ],
+    "wof:id":857235025,
+    "wof:lastmodified":1464124903,
+    "wof:name":"R & F Dairy Supply Inc",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -88.716573,
+    33.411853,
+    -88.716573,
+    33.411853
+],
+  "geometry": {"coordinates":[-88.716573,33.411853],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857484869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525906,30.435514,-88.525906,30.435514",
+    "geom:latitude":30.435514,
+    "geom:longitude":-88.525906,
+    "iso:country":"US",
+    "sg:address":"6528 Highway 63",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/coll-town/72927-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 7771",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969591,
+        102083161,
+        85819755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u6l89sjSUS6kQoPPd71Ze_30.435514_-88.525906@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130463,
+    "wof:geomhash":"33a3e02e5372d6570fd8982a03bdb356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85819755,
+            "region_id":85688579,
+            "venue_id":857484869
+        }
+    ],
+    "wof:id":857484869,
+    "wof:lastmodified":1464130463,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85819755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.525906,
+    30.435514,
+    -88.525906,
+    30.435514
+],
+  "geometry": {"coordinates":[-88.52590600000001,30.435514],"type":"Point"}
+}

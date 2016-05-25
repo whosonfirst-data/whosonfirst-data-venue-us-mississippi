@@ -1,0 +1,73 @@
+{
+  "id": 857092975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.24119,31.354973,-89.24119,31.354973",
+    "geom:latitude":31.354973,
+    "geom:longitude":-89.24119,
+    "iso:country":"US",
+    "sg:address":"221 Arkwood Ln",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 9412",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xNLBXTeEBy9dXqBnDM7Eq_31.354973_-89.241190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121750,
+    "wof:geomhash":"faf65cf8be86c186dfa65150f32101cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857092975
+        }
+    ],
+    "wof:id":857092975,
+    "wof:lastmodified":1464121750,
+    "wof:name":"Tim Silkman",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.24119,
+    31.354973,
+    -89.24119,
+    31.354973
+],
+  "geometry": {"coordinates":[-89.24119,31.354973],"type":"Point"}
+}

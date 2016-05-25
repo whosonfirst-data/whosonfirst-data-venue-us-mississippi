@@ -1,0 +1,71 @@
+{
+  "id": 857325793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.296558,31.331971,-89.296558,31.331971",
+    "geom:latitude":31.331971,
+    "geom:longitude":-89.296558,
+    "iso:country":"US",
+    "sg:address":"930 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 1051",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CQImKx6Vx4OD6JoQqJdrp_31.331971_-89.296558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126965,
+    "wof:geomhash":"d63245c7cd275c67542c982d05d355ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857325793
+        }
+    ],
+    "wof:id":857325793,
+    "wof:lastmodified":1464126965,
+    "wof:name":"Percy Watson Law Offices",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.296558,
+    31.331971,
+    -89.296558,
+    31.331971
+],
+  "geometry": {"coordinates":[-89.296558,31.331971],"type":"Point"}
+}

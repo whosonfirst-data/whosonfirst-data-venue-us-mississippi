@@ -1,0 +1,71 @@
+{
+  "id": 857079505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.245094,31.164657,-89.245094,31.164657",
+    "geom:latitude":31.164657,
+    "geom:longitude":-89.245094,
+    "iso:country":"US",
+    "sg:address":"37 Woodland Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 7352",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZNGXO5V0PaHR9DUWQvPbP_31.164657_-89.245094@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121390,
+    "wof:geomhash":"1b686e16844b8ca36de43cd6092d39a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857079505
+        }
+    ],
+    "wof:id":857079505,
+    "wof:lastmodified":1464121390,
+    "wof:name":"Associated Cleaning Svc",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -89.245094,
+    31.164657,
+    -89.245094,
+    31.164657
+],
+  "geometry": {"coordinates":[-89.24509399999999,31.164657],"type":"Point"}
+}

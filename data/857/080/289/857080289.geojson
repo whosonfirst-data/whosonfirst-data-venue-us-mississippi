@@ -1,0 +1,75 @@
+{
+  "id": 857080289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.423957,33.579622,-88.423957,33.579622",
+    "geom:latitude":33.579622,
+    "geom:longitude":-88.423957,
+    "iso:country":"US",
+    "sg:address":"326 Green Oaks Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 6707",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KM7nvztMsbR4iZ4bWWI6G_33.579622_-88.423957@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121411,
+    "wof:geomhash":"8b35ac1025574d9b702f10ed884dca5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857080289
+        }
+    ],
+    "wof:id":857080289,
+    "wof:lastmodified":1464121411,
+    "wof:name":"Maintenance Shop",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -88.423957,
+    33.579622,
+    -88.423957,
+    33.579622
+],
+  "geometry": {"coordinates":[-88.423957,33.579622],"type":"Point"}
+}

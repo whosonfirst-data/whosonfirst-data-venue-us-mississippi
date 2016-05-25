@@ -1,0 +1,71 @@
+{
+  "id": 857243101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542491,33.827822,-88.542491,33.827822",
+    "geom:latitude":33.827822,
+    "geom:longitude":-88.542491,
+    "iso:country":"US",
+    "sg:address":"207 Orange St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6014",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ayCZ6X9eWc4KTHK4gF8Me_33.827822_-88.542491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125084,
+    "wof:geomhash":"4e39f596969928763407072d2189351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857243101
+        }
+    ],
+    "wof:id":857243101,
+    "wof:lastmodified":1464125084,
+    "wof:name":"Coontail Collectibles",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -88.542491,
+    33.827822,
+    -88.542491,
+    33.827822
+],
+  "geometry": {"coordinates":[-88.542491,33.827822],"type":"Point"}
+}

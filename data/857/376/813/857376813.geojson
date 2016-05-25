@@ -1,0 +1,71 @@
+{
+  "id": 857376813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.454361,34.32198,-90.454361,34.32198",
+    "geom:latitude":34.32198,
+    "geom:longitude":-90.454361,
+    "iso:country":"US",
+    "sg:address":"309 Jones Ave",
+    "sg:city":"Jonestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 4777",
+    "sg:postcode":"38639",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fp1BbxwwyaXshwgaR2RSg_34.321980_-90.454361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128053,
+    "wof:geomhash":"12049162adf1c719aba27aaacae4f278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857376813
+        }
+    ],
+    "wof:id":857376813,
+    "wof:lastmodified":1464128053,
+    "wof:name":"S & C Grocery",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.454361,
+    34.32198,
+    -90.454361,
+    34.32198
+],
+  "geometry": {"coordinates":[-90.45436100000001,34.32198],"type":"Point"}
+}

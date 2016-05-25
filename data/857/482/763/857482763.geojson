@@ -1,0 +1,76 @@
+{
+  "id": 857482763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.151076,32.355773,-90.151076,32.355773",
+    "geom:latitude":32.355773,
+    "geom:longitude":-90.151076,
+    "iso:country":"US",
+    "sg:address":"1206 E Northside Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/jackson/132928-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 982 0098",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pkrsidcXZNR1U38zq8pIb_32.355773_-90.151076@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130424,
+    "wof:geomhash":"69e2d08ac4bbdc48f8095f0f9dec12d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857482763
+        }
+    ],
+    "wof:id":857482763,
+    "wof:lastmodified":1464130424,
+    "wof:name":"Subway",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.151076,
+    32.355773,
+    -90.151076,
+    32.355773
+],
+  "geometry": {"coordinates":[-90.151076,32.355773],"type":"Point"}
+}

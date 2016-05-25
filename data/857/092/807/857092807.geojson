@@ -1,0 +1,71 @@
+{
+  "id": 857092807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.308328,31.171131,-89.308328,31.171131",
+    "geom:latitude":31.171131,
+    "geom:longitude":-89.308328,
+    "iso:country":"US",
+    "sg:address":"124 Arnett Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7967",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CHr39Zzkj6Vk0voXXJ3LQ_31.171131_-89.308328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121747,
+    "wof:geomhash":"5b89c7e2a109e107481f33d1518c4551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857092807
+        }
+    ],
+    "wof:id":857092807,
+    "wof:lastmodified":1464121747,
+    "wof:name":"Dixie Home Builders",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.308328,
+    31.171131,
+    -89.308328,
+    31.171131
+],
+  "geometry": {"coordinates":[-89.308328,31.171131],"type":"Point"}
+}

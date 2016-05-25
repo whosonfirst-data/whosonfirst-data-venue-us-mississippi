@@ -1,0 +1,68 @@
+{
+  "id": 857238223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.201341,32.300972,-90.201341,32.300972",
+    "geom:latitude":32.300972,
+    "geom:longitude":-90.201341,
+    "iso:country":"US",
+    "sg:address":"602 Rose St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 944 1003",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KIV7KN9KNrFyq3td8b5vr_32.300972_-90.201341@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124968,
+    "wof:geomhash":"1066964e02668afb51214188ff5817b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857238223
+        }
+    ],
+    "wof:id":857238223,
+    "wof:lastmodified":1464124968,
+    "wof:name":"William's Recreation",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.201341,
+    32.300972,
+    -90.201341,
+    32.300972
+],
+  "geometry": {"coordinates":[-90.201341,32.300972],"type":"Point"}
+}

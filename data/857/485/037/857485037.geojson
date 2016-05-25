@@ -1,0 +1,74 @@
+{
+  "id": 857485037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55865,30.366926,-88.55865,30.366926",
+    "geom:latitude":30.366926,
+    "geom:longitude":-88.55865,
+    "iso:country":"US",
+    "sg:address":"623 Delmas Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/pascagoula/157868-scrantons/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1900",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pi17JlJ1vAnTs47zMvSg4_30.366926_-88.558650@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130468,
+    "wof:geomhash":"629fd9904bc21230ba558a469af35a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857485037
+        }
+    ],
+    "wof:id":857485037,
+    "wof:lastmodified":1464130468,
+    "wof:name":"Scranton's",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -88.55865,
+    30.366926,
+    -88.55865,
+    30.366926
+],
+  "geometry": {"coordinates":[-88.55865,30.366926],"type":"Point"}
+}

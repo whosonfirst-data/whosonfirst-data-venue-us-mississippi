@@ -1,0 +1,76 @@
+{
+  "id": 857485763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71967,34.229675,-88.71967,34.229675",
+    "geom:latitude":34.229675,
+    "geom:longitude":-88.71967,
+    "iso:country":"US",
+    "sg:address":"1221 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/belden/76267-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 0733",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7f9Bob9O2ihHF5bj7GfN_34.229384_-88.719839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130480,
+    "wof:geomhash":"bc8da9c03b93c6d2670c09d06c982bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857485763
+        }
+    ],
+    "wof:id":857485763,
+    "wof:lastmodified":1464130480,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.71967,
+    34.229675,
+    -88.71967,
+    34.229675
+],
+  "geometry": {"coordinates":[-88.71966999999999,34.229675],"type":"Point"}
+}

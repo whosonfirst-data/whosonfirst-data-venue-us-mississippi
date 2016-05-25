@@ -1,0 +1,71 @@
+{
+  "id": 857120951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520892,34.348013,-89.520892,34.348013",
+    "geom:latitude":34.348013,
+    "geom:longitude":-89.520892,
+    "iso:country":"US",
+    "sg:address":"2385 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1014",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W1Asitn0mG9iFK00pwG3F_34.348013_-89.520892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122469,
+    "wof:geomhash":"ff47782b5723bad869b9b15b3ff516ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857120951
+        }
+    ],
+    "wof:id":857120951,
+    "wof:lastmodified":1464122469,
+    "wof:name":"University Baptist Church",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.520892,
+    34.348013,
+    -89.520892,
+    34.348013
+],
+  "geometry": {"coordinates":[-89.520892,34.348013],"type":"Point"}
+}

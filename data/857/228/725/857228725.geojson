@@ -1,0 +1,68 @@
+{
+  "id": 857228725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.8163,33.463752,-88.8163,33.463752",
+    "geom:latitude":33.463752,
+    "geom:longitude":-88.8163,
+    "iso:country":"US",
+    "sg:address":"116 E Main St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 7272",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g4IQovV2ApkeAzoPD9dCT_33.463752_-88.816300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124785,
+    "wof:geomhash":"02cc6be2090373bd8c8e21fd22861814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857228725
+        }
+    ],
+    "wof:id":857228725,
+    "wof:lastmodified":1464124785,
+    "wof:name":"Simple Solutions",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.8163,
+    33.463752,
+    -88.8163,
+    33.463752
+],
+  "geometry": {"coordinates":[-88.8163,33.463752],"type":"Point"}
+}

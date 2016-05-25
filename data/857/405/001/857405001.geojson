@@ -1,0 +1,71 @@
+{
+  "id": 857405001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.784198,34.40294,-88.784198,34.40294",
+    "geom:latitude":34.40294,
+    "geom:longitude":-88.784198,
+    "iso:country":"US",
+    "sg:address":"670 Co Rd 251",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 2245",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29oskxXON1VPiBkN6X25e8_34.402940_-88.784198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128727,
+    "wof:geomhash":"d14d0d2b57ad224c47bc4a345fb9c433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857405001
+        }
+    ],
+    "wof:id":857405001,
+    "wof:lastmodified":1464128727,
+    "wof:name":"Birmingham Baptist Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.784198,
+    34.40294,
+    -88.784198,
+    34.40294
+],
+  "geometry": {"coordinates":[-88.784198,34.40294],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857198157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.706702,34.313979,-88.706702,34.313979",
+    "geom:latitude":34.313979,
+    "geom:longitude":-88.706702,
+    "iso:country":"US",
+    "sg:address":"3936 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 2226",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42GISlH6qTh394ohZou342_34.313979_-88.706702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124143,
+    "wof:geomhash":"74165ad35969bf8f56524fc618025fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857198157
+        }
+    ],
+    "wof:id":857198157,
+    "wof:lastmodified":1464124143,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.706702,
+    34.313979,
+    -88.706702,
+    34.313979
+],
+  "geometry": {"coordinates":[-88.70670200000001,34.313979],"type":"Point"}
+}

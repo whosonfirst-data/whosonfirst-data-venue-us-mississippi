@@ -1,0 +1,73 @@
+{
+  "id": 857259811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.141937,30.354007,-89.141937,30.354007",
+    "geom:latitude":30.354007,
+    "geom:longitude":-89.141937,
+    "iso:country":"US",
+    "sg:address":"528 E Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 6006",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lPUkxHI41xIUPKwnD618y_30.354007_-89.141937@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125486,
+    "wof:geomhash":"f5bd082a68516244a766fe67cd8d704b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857259811
+        }
+    ],
+    "wof:id":857259811,
+    "wof:lastmodified":1464125486,
+    "wof:name":"Children's Imagination Station",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.141937,
+    30.354007,
+    -89.141937,
+    30.354007
+],
+  "geometry": {"coordinates":[-89.141937,30.354007],"type":"Point"}
+}

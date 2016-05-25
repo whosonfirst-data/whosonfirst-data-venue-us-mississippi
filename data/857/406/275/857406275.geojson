@@ -1,0 +1,73 @@
+{
+  "id": 857406275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.555527,34.364519,-89.555527,34.364519",
+    "geom:latitude":34.364519,
+    "geom:longitude":-89.555527,
+    "iso:country":"US",
+    "sg:address":"1801 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2311",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RjXQrJTPwSDZlOH55EYTz_34.364519_-89.555527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128756,
+    "wof:geomhash":"fcdd5fca438e6b02538e7dd9a43f6f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857406275
+        }
+    ],
+    "wof:id":857406275,
+    "wof:lastmodified":1464128756,
+    "wof:name":"Grisanti Rebel Motors",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.555527,
+    34.364519,
+    -89.555527,
+    34.364519
+],
+  "geometry": {"coordinates":[-89.555527,34.364519],"type":"Point"}
+}

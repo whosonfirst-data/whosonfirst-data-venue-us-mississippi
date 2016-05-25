@@ -1,0 +1,73 @@
+{
+  "id": 857134189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.977987,30.457354,-88.977987,30.457354",
+    "geom:latitude":30.457354,
+    "geom:longitude":-88.977987,
+    "iso:country":"US",
+    "sg:address":"8400 W Oaklawn Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 0561",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CTKySWAN9yjRQJIEsuXkn_30.457354_-88.977987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122768,
+    "wof:geomhash":"d3569d8e725e9c16a63789e9ef9e06c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857134189
+        }
+    ],
+    "wof:id":857134189,
+    "wof:lastmodified":1464122768,
+    "wof:name":"Tom Fergusons Towing",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.977987,
+    30.457354,
+    -88.977987,
+    30.457354
+],
+  "geometry": {"coordinates":[-88.977987,30.457354],"type":"Point"}
+}

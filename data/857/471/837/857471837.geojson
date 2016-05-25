@@ -1,0 +1,71 @@
+{
+  "id": 857471837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698482,32.359329,-88.698482,32.359329",
+    "geom:latitude":32.359329,
+    "geom:longitude":-88.698482,
+    "iso:country":"US",
+    "sg:address":"2415 B St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 5090",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3PLtGorbreB5J86cFkNE_32.359329_-88.698482@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130212,
+    "wof:geomhash":"c3025adc8c9670d757f5c4b054419c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857471837
+        }
+    ],
+    "wof:id":857471837,
+    "wof:lastmodified":1464130212,
+    "wof:name":"Total Finance Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.698482,
+    32.359329,
+    -88.698482,
+    32.359329
+],
+  "geometry": {"coordinates":[-88.698482,32.359329],"type":"Point"}
+}

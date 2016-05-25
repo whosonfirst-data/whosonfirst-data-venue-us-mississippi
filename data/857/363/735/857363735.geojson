@@ -1,0 +1,78 @@
+{
+  "id": 857363735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.136953,32.421658,-90.136953,32.421658",
+    "geom:latitude":32.421658,
+    "geom:longitude":-90.136953,
+    "iso:country":"US",
+    "sg:address":"281 Commerce Park Dr",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 9758",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "test",
+        "med",
+        "laboratory"
+    ],
+    "sg:website":"www.labcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17BgOxgQw94W7kcsN1sUiv_32.421658_-90.136953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127780,
+    "wof:geomhash":"3363eabdf7dca7238bb9126e697ab972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857363735
+        }
+    ],
+    "wof:id":857363735,
+    "wof:lastmodified":1464127780,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "med",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.136953,
+    32.421658,
+    -90.136953,
+    32.421658
+],
+  "geometry": {"coordinates":[-90.13695300000001,32.421658],"type":"Point"}
+}

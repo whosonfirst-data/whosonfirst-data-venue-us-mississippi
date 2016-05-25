@@ -1,0 +1,75 @@
+{
+  "id": 857256215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680279,32.378665,-88.680279,32.378665",
+    "geom:latitude":32.378665,
+    "geom:longitude":-88.680279,
+    "iso:country":"US",
+    "sg:address":"2003 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 1432",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A96kYit8n7E3331N3ktV2_32.378665_-88.680279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125410,
+    "wof:geomhash":"477c2a7a2bbdf14e533768c52157333c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857256215
+        }
+    ],
+    "wof:id":857256215,
+    "wof:lastmodified":1464125410,
+    "wof:name":"Eastgate Tire & Svc Ctr",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -88.680279,
+    32.378665,
+    -88.680279,
+    32.378665
+],
+  "geometry": {"coordinates":[-88.680279,32.378665],"type":"Point"}
+}

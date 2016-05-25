@@ -1,0 +1,74 @@
+{
+  "id": 857370019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702745,34.312683,-88.702745,34.312683",
+    "geom:latitude":34.312683,
+    "geom:longitude":-88.702745,
+    "iso:country":"US",
+    "sg:address":"4360 Mall Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9955",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "woman",
+        "store"
+    ],
+    "sg:website":"www.dressbarn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YO21UoU7x57CqWDN6GHHv_34.312683_-88.702745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127906,
+    "wof:geomhash":"61d9a395413bdf6166eb85c4b1562779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857370019
+        }
+    ],
+    "wof:id":857370019,
+    "wof:lastmodified":1464127906,
+    "wof:name":"Dress Barn",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.702745,
+    34.312683,
+    -88.702745,
+    34.312683
+],
+  "geometry": {"coordinates":[-88.70274499999999,34.312683],"type":"Point"}
+}

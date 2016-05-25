@@ -1,0 +1,71 @@
+{
+  "id": 857473991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414239,32.844553,-90.414239,32.844553",
+    "geom:latitude":32.844553,
+    "geom:longitude":-90.414239,
+    "iso:country":"US",
+    "sg:address":"114 E Commercial St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2668",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uB7x9oOlh1xwUrezu8CY2_32.844553_-90.414239@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130255,
+    "wof:geomhash":"b29e7c2a9d1bafdab3533dd9f70215f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857473991
+        }
+    ],
+    "wof:id":857473991,
+    "wof:lastmodified":1464130255,
+    "wof:name":"Dew Drop Inn",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -90.414239,
+    32.844553,
+    -90.414239,
+    32.844553
+],
+  "geometry": {"coordinates":[-90.41423899999999,32.844553],"type":"Point"}
+}

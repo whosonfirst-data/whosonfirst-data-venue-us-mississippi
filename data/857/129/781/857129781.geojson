@@ -1,0 +1,71 @@
+{
+  "id": 857129781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.420271,32.849876,-90.420271,32.849876",
+    "geom:latitude":32.849876,
+    "geom:longitude":-90.420271,
+    "iso:country":"US",
+    "sg:address":"605 W Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 3300",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Mq2IzXage0yERtcY1thz_32.849876_-90.420271@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122676,
+    "wof:geomhash":"53a2dffa063df64e9a48db8e1b32eef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857129781
+        }
+    ],
+    "wof:id":857129781,
+    "wof:lastmodified":1464122676,
+    "wof:name":"Jays Oriental Food",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.420271,
+    32.849876,
+    -90.420271,
+    32.849876
+],
+  "geometry": {"coordinates":[-90.420271,32.849876],"type":"Point"}
+}

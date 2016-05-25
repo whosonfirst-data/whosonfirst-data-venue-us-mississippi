@@ -1,0 +1,75 @@
+{
+  "id": 857216695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.881855,32.35201,-90.881855,32.35201",
+    "geom:latitude":32.35201,
+    "geom:longitude":-90.881855,
+    "iso:country":"US",
+    "sg:address":"1108 Washington St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 883 1083",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K1NPtVJXRu5jQfNs8ToD6_32.352010_-90.881855@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124545,
+    "wof:geomhash":"3bd3abadffab5210ace1c14388946766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857216695
+        }
+    ],
+    "wof:id":857216695,
+    "wof:lastmodified":1464124545,
+    "wof:name":"Mississippi River Tours LLC",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -90.881855,
+    32.35201,
+    -90.881855,
+    32.35201
+],
+  "geometry": {"coordinates":[-90.881855,32.35201],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857276777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.2922,33.425158,-88.2922,33.425158",
+    "geom:latitude":33.425158,
+    "geom:longitude":-88.2922,
+    "iso:country":"US",
+    "sg:address":"6 Yellow Brick Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2227",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6347CoWhKtrPgO2SjHWD1K_33.425158_-88.292200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125835,
+    "wof:geomhash":"cdc1a75cfa5df864f360fd92c02f5bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857276777
+        }
+    ],
+    "wof:id":857276777,
+    "wof:lastmodified":1464125835,
+    "wof:name":"Thomas Pritchard Trucking",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.2922,
+    33.425158,
+    -88.2922,
+    33.425158
+],
+  "geometry": {"coordinates":[-88.29219999999999,33.425158],"type":"Point"}
+}

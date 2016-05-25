@@ -1,0 +1,80 @@
+{
+  "id": 857481157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70674,34.314661,-88.70674,34.314661",
+    "geom:latitude":34.314661,
+    "geom:longitude":-88.70674,
+    "iso:country":"US",
+    "sg:address":"3196 N Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/110329-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 620 8883",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wr7GL9nvuxxvDFMP4mWOs_34.314661_-88.706740@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130391,
+    "wof:geomhash":"ee40a35bd4e57713ec3e227327a452e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481157
+        }
+    ],
+    "wof:id":857481157,
+    "wof:lastmodified":1464130391,
+    "wof:name":"Chili's",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.70674,
+    34.314661,
+    -88.70674,
+    34.314661
+],
+  "geometry": {"coordinates":[-88.70674,34.314661],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857421455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.40548,31.138992,-89.40548,31.138992",
+    "geom:latitude":31.138992,
+    "geom:longitude":-89.40548,
+    "iso:country":"US",
+    "sg:address":"5882 US Hwy 11",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 6904",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bVPC8Epebb95SbXynFzYe_31.138992_-89.405480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129136,
+    "wof:geomhash":"8f0d32b86f33570278d374c561587cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857421455
+        }
+    ],
+    "wof:id":857421455,
+    "wof:lastmodified":1464129136,
+    "wof:name":"Watts Wrecker Svc",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.40548,
+    31.138992,
+    -89.40548,
+    31.138992
+],
+  "geometry": {"coordinates":[-89.40548,31.138992],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857413231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.29588,33.807951,-88.29588,33.807951",
+    "geom:latitude":33.807951,
+    "geom:longitude":-88.29588,
+    "iso:country":"US",
+    "sg:address":"40461 Wolfe Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6294",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0viDfteCxmLa6swmmtm1oD_33.807951_-88.295880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128928,
+    "wof:geomhash":"d2dc39b54fc489d7f0aecafa3fb3f120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857413231
+        }
+    ],
+    "wof:id":857413231,
+    "wof:lastmodified":1464128928,
+    "wof:name":"Bartahatchie Volunteer Fire De",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -88.29588,
+    33.807951,
+    -88.29588,
+    33.807951
+],
+  "geometry": {"coordinates":[-88.29588,33.807951],"type":"Point"}
+}

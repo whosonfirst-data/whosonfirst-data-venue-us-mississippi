@@ -1,0 +1,74 @@
+{
+  "id": 857484857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.538121,30.396757,-88.538121,30.396757",
+    "geom:latitude":30.396757,
+    "geom:longitude":-88.538121,
+    "iso:country":"US",
+    "sg:address":"3831 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/13159-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 8395",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HBlsTawSSeUH8rR8G6Qd5_30.396757_-88.538121@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130463,
+    "wof:geomhash":"6547944156cfcb2226b9afac6233f9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857484857
+        }
+    ],
+    "wof:id":857484857,
+    "wof:lastmodified":1464130463,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -88.538121,
+    30.396757,
+    -88.538121,
+    30.396757
+],
+  "geometry": {"coordinates":[-88.538121,30.396757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857251151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.782114,34.259387,-88.782114,34.259387",
+    "geom:latitude":34.259387,
+    "geom:longitude":-88.782114,
+    "iso:country":"US",
+    "sg:address":"4685 Meadow Ridge Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0586",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TiQCZsKJ8MIyVxglLs1Mr_34.259387_-88.782114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125274,
+    "wof:geomhash":"5f406696d1aa36efd4a472e0ef3f8ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857251151
+        }
+    ],
+    "wof:id":857251151,
+    "wof:lastmodified":1464125274,
+    "wof:name":"Sage Properties LLC",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.782114,
+    34.259387,
+    -88.782114,
+    34.259387
+],
+  "geometry": {"coordinates":[-88.78211400000001,34.259387],"type":"Point"}
+}

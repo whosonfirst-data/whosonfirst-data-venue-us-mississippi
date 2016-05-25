@@ -1,0 +1,73 @@
+{
+  "id": 857458489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429427,33.544381,-88.429427,33.544381",
+    "geom:latitude":33.544381,
+    "geom:longitude":-88.429427,
+    "iso:country":"US",
+    "sg:address":"100 Dickerson Ln",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7527",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J9QD6eWMWACMW6OkSX83w_33.544381_-88.429427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129925,
+    "wof:geomhash":"05447c51247086df8e3f0fdacb090137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857458489
+        }
+    ],
+    "wof:id":857458489,
+    "wof:lastmodified":1464129925,
+    "wof:name":"Waldrop Tree Farms",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.429427,
+    33.544381,
+    -88.429427,
+    33.544381
+],
+  "geometry": {"coordinates":[-88.429427,33.544381],"type":"Point"}
+}

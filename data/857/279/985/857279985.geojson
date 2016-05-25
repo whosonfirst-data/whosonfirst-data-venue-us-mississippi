@@ -1,0 +1,74 @@
+{
+  "id": 857279985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.680052,34.260065,-88.680052,34.260065",
+    "geom:latitude":34.260065,
+    "geom:longitude":-88.680052,
+    "iso:country":"US",
+    "sg:address":"306 Elvis Presley Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 1245",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attraction",
+        "tourist"
+    ],
+    "sg:website":"www.elvispresleybirthplace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DBSuEUxPLxv1swgzEh0uM_34.260065_-88.680052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125920,
+    "wof:geomhash":"7c869952bd7c21439faf52b8474923db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857279985
+        }
+    ],
+    "wof:id":857279985,
+    "wof:lastmodified":1464125920,
+    "wof:name":"Elvis Presley Birthplace",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -88.680052,
+    34.260065,
+    -88.680052,
+    34.260065
+],
+  "geometry": {"coordinates":[-88.680052,34.260065],"type":"Point"}
+}

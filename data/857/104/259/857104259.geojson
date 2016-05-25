@@ -1,0 +1,69 @@
+{
+  "id": 857104259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.999969,32.377227,-89.999969,32.377227",
+    "geom:latitude":32.377227,
+    "geom:longitude":-89.999969,
+    "iso:country":"US",
+    "sg:address":"255 Magnolia Trl",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 5966",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iMLcnentP0rMObh2i4xFN_32.377227_-89.999969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122011,
+    "wof:geomhash":"3591227a44f15a2aefc57c1f9c8da4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857104259
+        }
+    ],
+    "wof:id":857104259,
+    "wof:lastmodified":1464122011,
+    "wof:name":"Hometeam Inspection Svc",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -89.999969,
+    32.377227,
+    -89.999969,
+    32.377227
+],
+  "geometry": {"coordinates":[-89.99996899999999,32.377227],"type":"Point"}
+}

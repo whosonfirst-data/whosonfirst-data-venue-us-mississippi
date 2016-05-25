@@ -1,0 +1,73 @@
+{
+  "id": 857264875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.129107,32.13267,-90.129107,32.13267",
+    "geom:latitude":32.13267,
+    "geom:longitude":-90.129107,
+    "iso:country":"US",
+    "sg:address":"106 Townsend Dr",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 7708",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QopradXzl29zlDOIhz8ev_32.132670_-90.129107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125590,
+    "wof:geomhash":"40ff942377a5fae6abc087076d8615f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857264875
+        }
+    ],
+    "wof:id":857264875,
+    "wof:lastmodified":1464125590,
+    "wof:name":"Stephens Printing LLC",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.129107,
+    32.13267,
+    -90.129107,
+    32.13267
+],
+  "geometry": {"coordinates":[-90.129107,32.13267],"type":"Point"}
+}

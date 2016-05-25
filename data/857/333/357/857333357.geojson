@@ -1,0 +1,75 @@
+{
+  "id": 857333357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.26665,31.358087,-89.26665,31.358087",
+    "geom:latitude":31.358087,
+    "geom:longitude":-89.26665,
+    "iso:country":"US",
+    "sg:address":"320 Barron St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 7126",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g0ol2Fvkjj25ZbZve9p7u_31.358087_-89.266650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127131,
+    "wof:geomhash":"e847c34faaa0ad656e8cb18ec667284d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857333357
+        }
+    ],
+    "wof:id":857333357,
+    "wof:lastmodified":1464127131,
+    "wof:name":"Al's Lawn & Leaf Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -89.26665,
+    31.358087,
+    -89.26665,
+    31.358087
+],
+  "geometry": {"coordinates":[-89.26665,31.358087],"type":"Point"}
+}

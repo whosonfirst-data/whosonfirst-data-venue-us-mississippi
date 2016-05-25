@@ -1,0 +1,71 @@
+{
+  "id": 857418905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.6246,30.460566,-88.6246,30.460566",
+    "geom:latitude":30.460566,
+    "geom:longitude":-88.6246,
+    "iso:country":"US",
+    "sg:address":"8121 Spanish Oak Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 6999",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46hFQr6XA9cEhuSuhmQR13_30.460566_-88.624600@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129075,
+    "wof:geomhash":"ce5fb7b42b393c2560c0d0f7787d5a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857418905
+        }
+    ],
+    "wof:id":857418905,
+    "wof:lastmodified":1464129075,
+    "wof:name":"Shumpert Consulting Svc Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.6246,
+    30.460566,
+    -88.6246,
+    30.460566
+],
+  "geometry": {"coordinates":[-88.6246,30.460566],"type":"Point"}
+}

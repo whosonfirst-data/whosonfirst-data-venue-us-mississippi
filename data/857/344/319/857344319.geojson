@@ -1,0 +1,75 @@
+{
+  "id": 857344319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589558,34.186707,-90.589558,34.186707",
+    "geom:latitude":34.186707,
+    "geom:longitude":-90.589558,
+    "iso:country":"US",
+    "sg:address":"144 Anderson Blvd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2637",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I50VLHzvsdA2LG4Pphmyi_34.186707_-90.589558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127359,
+    "wof:geomhash":"3bc48ab5cfff09fdae709cd46a952d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857344319
+        }
+    ],
+    "wof:id":857344319,
+    "wof:lastmodified":1464127359,
+    "wof:name":"Roger's Auto Sales",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.589558,
+    34.186707,
+    -90.589558,
+    34.186707
+],
+  "geometry": {"coordinates":[-90.589558,34.186707],"type":"Point"}
+}

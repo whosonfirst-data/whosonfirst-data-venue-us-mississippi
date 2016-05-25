@@ -1,0 +1,71 @@
+{
+  "id": 857095643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.515481,34.363597,-89.515481,34.363597",
+    "geom:latitude":34.363597,
+    "geom:longitude":-89.515481,
+    "iso:country":"US",
+    "sg:address":"1537 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4143",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YE8whl6VHTpYabYOyEi8_34.363597_-89.515481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121804,
+    "wof:geomhash":"929cdf618d1a6bbf8013c9d77cd32c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857095643
+        }
+    ],
+    "wof:id":857095643,
+    "wof:lastmodified":1464121804,
+    "wof:name":"Wells Fargo Financial Accptnce",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -89.515481,
+    34.363597,
+    -89.515481,
+    34.363597
+],
+  "geometry": {"coordinates":[-89.51548099999999,34.363597],"type":"Point"}
+}

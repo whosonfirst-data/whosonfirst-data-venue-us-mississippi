@@ -1,0 +1,73 @@
+{
+  "id": 857150409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.537017,33.823583,-88.537017,33.823583",
+    "geom:latitude":33.823583,
+    "geom:longitude":-88.537017,
+    "iso:country":"US",
+    "sg:address":"609 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2609",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BHF9M73yPXJK6dLWMzNma_33.823583_-88.537017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123155,
+    "wof:geomhash":"688d11a5b747f523188655250d2d0a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857150409
+        }
+    ],
+    "wof:id":857150409,
+    "wof:lastmodified":1464123155,
+    "wof:name":"Roberts Electric Svc",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.537017,
+    33.823583,
+    -88.537017,
+    33.823583
+],
+  "geometry": {"coordinates":[-88.53701700000001,33.823583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857169995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.82888,34.947457,-89.82888,34.947457",
+    "geom:latitude":34.947457,
+    "geom:longitude":-89.82888,
+    "iso:country":"US",
+    "sg:address":"9075 E Sandidge Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4949",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D57VDdY3xbSKSLjtJFCzC_34.947457_-89.828880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123585,
+    "wof:geomhash":"0c709ba8cebbffb06b4b583373d22854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857169995
+        }
+    ],
+    "wof:id":857169995,
+    "wof:lastmodified":1464123585,
+    "wof:name":"Olive Branch Family Medical",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.82888,
+    34.947457,
+    -89.82888,
+    34.947457
+],
+  "geometry": {"coordinates":[-89.82888,34.947457],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857402715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684988,34.234577,-88.684988,34.234577",
+    "geom:latitude":34.234577,
+    "geom:longitude":-88.684988,
+    "iso:country":"US",
+    "sg:address":"1478 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 0435",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BQ52B5mZMxqulzz5FWueK_34.234577_-88.684988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128679,
+    "wof:geomhash":"434a445d51d72e11d66e0a836265efa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857402715
+        }
+    ],
+    "wof:id":857402715,
+    "wof:lastmodified":1464128679,
+    "wof:name":"Ryder Truck Rental One Way",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.684988,
+    34.234577,
+    -88.684988,
+    34.234577
+],
+  "geometry": {"coordinates":[-88.684988,34.234577],"type":"Point"}
+}

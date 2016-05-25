@@ -1,0 +1,71 @@
+{
+  "id": 857433801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.666677,34.257677,-88.666677,34.257677",
+    "geom:latitude":34.257677,
+    "geom:longitude":-88.666677,
+    "iso:country":"US",
+    "sg:address":"1806 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 9301",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yxHnUSObvUEjxLBpJbwKK_34.257677_-88.666677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129443,
+    "wof:geomhash":"c4e6a5abf4897835826a2857c0f2e3a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857433801
+        }
+    ],
+    "wof:id":857433801,
+    "wof:lastmodified":1464129443,
+    "wof:name":"Tupelo Wrecker Svc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -88.666677,
+    34.257677,
+    -88.666677,
+    34.257677
+],
+  "geometry": {"coordinates":[-88.66667700000001,34.257677],"type":"Point"}
+}

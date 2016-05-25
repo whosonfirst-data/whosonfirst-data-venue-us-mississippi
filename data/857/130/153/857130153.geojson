@@ -1,0 +1,73 @@
+{
+  "id": 857130153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.404647,32.859173,-90.404647,32.859173",
+    "geom:latitude":32.859173,
+    "geom:longitude":-90.404647,
+    "iso:country":"US",
+    "sg:address":"823 Calhoun Ave",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9244",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o1jxOyBpa1rSjPjEfISSg_32.859173_-90.404647@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122684,
+    "wof:geomhash":"9d09ab1b229ae9fec745cdf5a5c0a839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857130153
+        }
+    ],
+    "wof:id":857130153,
+    "wof:lastmodified":1464122684,
+    "wof:name":"Bolivar County Council-Aging",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.404647,
+    32.859173,
+    -90.404647,
+    32.859173
+],
+  "geometry": {"coordinates":[-90.404647,32.859173],"type":"Point"}
+}

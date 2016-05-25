@@ -1,0 +1,71 @@
+{
+  "id": 857102257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518204,34.349623,-89.518204,34.349623",
+    "geom:latitude":34.349623,
+    "geom:longitude":-89.518204,
+    "iso:country":"US",
+    "sg:address":"1304 Elliott Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1486",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qeYldWlWh2w5910A0ahEN_34.349623_-89.518204@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121966,
+    "wof:geomhash":"d436398fb962cc32b8c611c4b1601f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857102257
+        }
+    ],
+    "wof:id":857102257,
+    "wof:lastmodified":1464121966,
+    "wof:name":"Lafayette Courts Apartments",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.518204,
+    34.349623,
+    -89.518204,
+    34.349623
+],
+  "geometry": {"coordinates":[-89.518204,34.349623],"type":"Point"}
+}

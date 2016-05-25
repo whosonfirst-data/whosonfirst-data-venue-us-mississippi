@@ -1,0 +1,76 @@
+{
+  "id": 857483143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671912,32.360865,-88.671912,32.360865",
+    "geom:latitude":32.360865,
+    "geom:longitude":-88.671912,
+    "iso:country":"US",
+    "sg:address":"534 Bonita Lakes Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/93048-mcalisters-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0966",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iuaJ3TrCAwWao0OxVe8uc_32.360865_-88.671912@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130430,
+    "wof:geomhash":"4effd08068c788e3e183aa71f81d9241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483143
+        }
+    ],
+    "wof:id":857483143,
+    "wof:lastmodified":1464130430,
+    "wof:name":"Mcalister's Deli",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.671912,
+    32.360865,
+    -88.671912,
+    32.360865
+],
+  "geometry": {"coordinates":[-88.67191200000001,32.360865],"type":"Point"}
+}

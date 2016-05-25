@@ -1,0 +1,73 @@
+{
+  "id": 857463929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707886,32.404333,-88.707886,32.404333",
+    "geom:latitude":32.404333,
+    "geom:longitude":-88.707886,
+    "iso:country":"US",
+    "sg:address":"2705 45th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3975",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nV87NuzIF4OzposYLyC5L_32.404333_-88.707886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130033,
+    "wof:geomhash":"d64628bb52e059d0b3e8acbc2c9eb828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857463929
+        }
+    ],
+    "wof:id":857463929,
+    "wof:lastmodified":1464130033,
+    "wof:name":"Four Fountain APT",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.707886,
+    32.404333,
+    -88.707886,
+    32.404333
+],
+  "geometry": {"coordinates":[-88.707886,32.404333],"type":"Point"}
+}

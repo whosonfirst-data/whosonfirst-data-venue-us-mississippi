@@ -1,0 +1,80 @@
+{
+  "id": 857372403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.599058,32.273484,-88.599058,32.273484",
+    "geom:latitude":32.273484,
+    "geom:longitude":-88.599058,
+    "iso:country":"US",
+    "sg:address":"1747 Skyline Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 8431",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46zU35xX0LWoEZFRmfyjoN_32.273484_-88.599058@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127958,
+    "wof:geomhash":"a591c0b3ca71f962472030bd9fd76f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857372403
+        }
+    ],
+    "wof:id":857372403,
+    "wof:lastmodified":1464127958,
+    "wof:name":"Cherokee Electric Co Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.599058,
+    32.273484,
+    -88.599058,
+    32.273484
+],
+  "geometry": {"coordinates":[-88.599058,32.273484],"type":"Point"}
+}

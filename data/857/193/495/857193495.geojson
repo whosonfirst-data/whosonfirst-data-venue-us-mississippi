@@ -1,0 +1,73 @@
+{
+  "id": 857193495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.77282,34.256317,-88.77282,34.256317",
+    "geom:latitude":34.256317,
+    "geom:longitude":-88.77282,
+    "iso:country":"US",
+    "sg:address":"143 S Coley Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 620 7378",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bedding",
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2taDvo44o8JUXIAMEUTS7d_34.256317_-88.772820@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124050,
+    "wof:geomhash":"4de66a24eb2a60a5fe7c4511b517b86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857193495
+        }
+    ],
+    "wof:id":857193495,
+    "wof:lastmodified":1464124050,
+    "wof:name":"Mattress Direct",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedding",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -88.77282,
+    34.256317,
+    -88.77282,
+    34.256317
+],
+  "geometry": {"coordinates":[-88.77282,34.256317],"type":"Point"}
+}

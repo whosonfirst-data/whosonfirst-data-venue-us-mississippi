@@ -1,0 +1,74 @@
+{
+  "id": 857091567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.087601,30.368387,-89.087601,30.368387",
+    "geom:latitude":30.368387,
+    "geom:longitude":-89.087601,
+    "iso:country":"US",
+    "sg:address":"2120 14th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 8501",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.fbcgulfport.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wxGVBZx7ZhurWQYDYtCXP_30.368387_-89.087601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121724,
+    "wof:geomhash":"470d4390b1a8c61591989fde7233219a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857091567
+        }
+    ],
+    "wof:id":857091567,
+    "wof:lastmodified":1464121724,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.087601,
+    30.368387,
+    -89.087601,
+    30.368387
+],
+  "geometry": {"coordinates":[-89.08760100000001,30.368387],"type":"Point"}
+}

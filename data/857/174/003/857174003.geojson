@@ -1,0 +1,71 @@
+{
+  "id": 857174003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57322,34.217643,-90.57322,34.217643",
+    "geom:latitude":34.217643,
+    "geom:longitude":-90.57322,
+    "iso:country":"US",
+    "sg:address":"110 Lee Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4296",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fgLm1s9DLWpA0jhSEqr59_34.217643_-90.573220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123675,
+    "wof:geomhash":"6e11f09f73f3e5420340f2d5037edc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857174003
+        }
+    ],
+    "wof:id":857174003,
+    "wof:lastmodified":1464123675,
+    "wof:name":"Express Tax",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -90.57322,
+    34.217643,
+    -90.57322,
+    34.217643
+],
+  "geometry": {"coordinates":[-90.57322000000001,34.217643],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857129559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704698,32.366872,-88.704698,32.366872",
+    "geom:latitude":32.366872,
+    "geom:longitude":-88.704698,
+    "iso:country":"US",
+    "sg:address":"2600 10th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 4381",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:website":"www.rogersfloristinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DHFU0juGlQA5fg0NFqzfO_32.366872_-88.704698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122667,
+    "wof:geomhash":"64aba39665bbd1e6e2933a2ac4a492d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857129559
+        }
+    ],
+    "wof:id":857129559,
+    "wof:lastmodified":1464122667,
+    "wof:name":"Rogers Florist",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.704698,
+    32.366872,
+    -88.704698,
+    32.366872
+],
+  "geometry": {"coordinates":[-88.70469799999999,32.366872],"type":"Point"}
+}

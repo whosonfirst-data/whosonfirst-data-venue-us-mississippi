@@ -1,0 +1,73 @@
+{
+  "id": 857255405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.25932,31.346715,-89.25932,31.346715",
+    "geom:latitude":31.346715,
+    "geom:longitude":-89.25932,
+    "iso:country":"US",
+    "sg:address":"100 E Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0193",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Q4jPCE2Uw4tcixT8eEEK_31.346715_-89.259320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125384,
+    "wof:geomhash":"ffe7fb36aa52940bb16467c499b4e2b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857255405
+        }
+    ],
+    "wof:id":857255405,
+    "wof:lastmodified":1464125384,
+    "wof:name":"Jr Food Market",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -89.25932,
+    31.346715,
+    -89.25932,
+    31.346715
+],
+  "geometry": {"coordinates":[-89.25932,31.346715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857095889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.187003,30.371857,-89.187003,30.371857",
+    "geom:latitude":30.371857,
+    "geom:longitude":-89.187003,
+    "iso:country":"US",
+    "sg:address":"6083 Beatline Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 865 1696",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LxoNJmmtlZmeG86BO8fRe_30.371857_-89.187003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121810,
+    "wof:geomhash":"8088a25eb048f83ff82c139ba8ff4ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857095889
+        }
+    ],
+    "wof:id":857095889,
+    "wof:lastmodified":1464121810,
+    "wof:name":"Beatline Oaks Veterinary Hosp",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.187003,
+    30.371857,
+    -89.187003,
+    30.371857
+],
+  "geometry": {"coordinates":[-89.187003,30.371857],"type":"Point"}
+}

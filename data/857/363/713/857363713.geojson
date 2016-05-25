@@ -1,0 +1,73 @@
+{
+  "id": 857363713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.565064,34.196429,-90.565064,34.196429",
+    "geom:latitude":34.196429,
+    "geom:longitude":-90.565064,
+    "iso:country":"US",
+    "sg:address":"713 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 9348",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SkFNZtWjJ47rY7NFUfvNd_34.196429_-90.565064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127779,
+    "wof:geomhash":"7912ae0dfaf15ce2c39647381813a71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857363713
+        }
+    ],
+    "wof:id":857363713,
+    "wof:lastmodified":1464127779,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.565064,
+    34.196429,
+    -90.565064,
+    34.196429
+],
+  "geometry": {"coordinates":[-90.56506400000001,34.196429],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857159663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.749554,34.904828,-89.749554,34.904828",
+    "geom:latitude":34.904828,
+    "geom:longitude":-89.749554,
+    "iso:country":"US",
+    "sg:address":"13885 Old Hwy 78",
+    "sg:city":"Byhalia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 838 4320",
+    "sg:postcode":"38611",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H35XHDRJ7s8QIACqKTIpX_34.904828_-89.749554@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123338,
+    "wof:geomhash":"d233f75b061bda36f7ad0f19a0d1f5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857159663
+        }
+    ],
+    "wof:id":857159663,
+    "wof:lastmodified":1464123338,
+    "wof:name":"Taylor Express",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.749554,
+    34.904828,
+    -89.749554,
+    34.904828
+],
+  "geometry": {"coordinates":[-89.749554,34.904828],"type":"Point"}
+}

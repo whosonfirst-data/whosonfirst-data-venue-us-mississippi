@@ -1,0 +1,71 @@
+{
+  "id": 857206525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.714082,32.378087,-88.714082,32.378087",
+    "geom:latitude":32.378087,
+    "geom:longitude":-88.714082,
+    "iso:country":"US",
+    "sg:address":"3502 20th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 7175",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4koICH2ammlH4ZI00QNS1o_32.378087_-88.714082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124322,
+    "wof:geomhash":"ab9d43b3320634da3f64da5bd47c58ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857206525
+        }
+    ],
+    "wof:id":857206525,
+    "wof:lastmodified":1464124322,
+    "wof:name":"Creative Hair Designs",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.714082,
+    32.378087,
+    -88.714082,
+    32.378087
+],
+  "geometry": {"coordinates":[-88.714082,32.378087],"type":"Point"}
+}

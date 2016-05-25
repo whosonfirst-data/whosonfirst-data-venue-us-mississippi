@@ -1,0 +1,71 @@
+{
+  "id": 857408003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573765,34.202521,-90.573765,34.202521",
+    "geom:latitude":34.202521,
+    "geom:longitude":-90.573765,
+    "iso:country":"US",
+    "sg:address":"225 Yazoo Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6411",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zmq4c0UfaflYz7GhG59DH_34.202521_-90.573765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128795,
+    "wof:geomhash":"bd1a99cf49f281aac75f4f5f6baa96d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857408003
+        }
+    ],
+    "wof:id":857408003,
+    "wof:lastmodified":1464128795,
+    "wof:name":"Kim's Pawn Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -90.573765,
+    34.202521,
+    -90.573765,
+    34.202521
+],
+  "geometry": {"coordinates":[-90.57376499999999,34.202521],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857091257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.748957,34.238483,-88.748957,34.238483",
+    "geom:latitude":34.238483,
+    "geom:longitude":-88.748957,
+    "iso:country":"US",
+    "sg:address":"2664 Columbine Pl",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 4429",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h94nXuTdurAPlrc52OgcT_34.238483_-88.748957@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121718,
+    "wof:geomhash":"29d7f03641e79f87658dce0b766b3be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857091257
+        }
+    ],
+    "wof:id":857091257,
+    "wof:lastmodified":1464121718,
+    "wof:name":"Hanson Appraisal Svc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -88.748957,
+    34.238483,
+    -88.748957,
+    34.238483
+],
+  "geometry": {"coordinates":[-88.748957,34.238483],"type":"Point"}
+}

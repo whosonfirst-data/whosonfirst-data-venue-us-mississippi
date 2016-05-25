@@ -1,0 +1,84 @@
+{
+  "id": 857472403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384384,32.849454,-90.384384,32.849454",
+    "geom:latitude":32.849454,
+    "geom:longitude":-90.384384,
+    "iso:country":"US",
+    "sg:address":"416 Moonmist Cir",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5851",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Kr94EZ8zMreN1u3LcCP0_32.849454_-90.384384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130226,
+    "wof:geomhash":"979fe50798f0f533eba5617d23c4647a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857472403
+        }
+    ],
+    "wof:id":857472403,
+    "wof:lastmodified":1464130226,
+    "wof:name":"Yazoo Plumbing Service Inc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.384384,
+    32.849454,
+    -90.384384,
+    32.849454
+],
+  "geometry": {"coordinates":[-90.384384,32.849454],"type":"Point"}
+}

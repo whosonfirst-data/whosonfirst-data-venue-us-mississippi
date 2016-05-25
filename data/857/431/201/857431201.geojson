@@ -1,0 +1,73 @@
+{
+  "id": 857431201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.34226,33.572883,-88.34226,33.572883",
+    "geom:latitude":33.572883,
+    "geom:longitude":-88.34226,
+    "iso:country":"US",
+    "sg:address":"621 Jemison Mill Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 9167",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PEWzJKn1bvy1FJ77nPeLQ_33.572883_-88.342260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129370,
+    "wof:geomhash":"e5f9bde854a38978fa4053abc4001917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857431201
+        }
+    ],
+    "wof:id":857431201,
+    "wof:lastmodified":1464129370,
+    "wof:name":"Mike Christian Landscaping",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.34226,
+    33.572883,
+    -88.34226,
+    33.572883
+],
+  "geometry": {"coordinates":[-88.34226,33.572883],"type":"Point"}
+}

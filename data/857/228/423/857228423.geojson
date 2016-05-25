@@ -1,0 +1,73 @@
+{
+  "id": 857228423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.215088,31.415535,-89.215088,31.415535",
+    "geom:latitude":31.415535,
+    "geom:longitude":-89.215088,
+    "iso:country":"US",
+    "sg:address":"240 Eastabuchie Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 543 0926",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ODOyRiKHMR2MVedkq8Mp6_31.415535_-89.215088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124780,
+    "wof:geomhash":"08a2805abd160f82c9099906ef8eb2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857228423
+        }
+    ],
+    "wof:id":857228423,
+    "wof:lastmodified":1464124780,
+    "wof:name":"Golden Electric Co",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.215088,
+    31.415535,
+    -89.215088,
+    31.415535
+],
+  "geometry": {"coordinates":[-89.21508799999999,31.415535],"type":"Point"}
+}

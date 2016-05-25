@@ -1,0 +1,73 @@
+{
+  "id": 857154185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520373,34.37291,-89.520373,34.37291",
+    "geom:latitude":34.37291,
+    "geom:longitude":-89.520373,
+    "iso:country":"US",
+    "sg:address":"108 Sivley St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2461",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KVO0RguXL5YaNOoO3F8gf_34.372910_-89.520373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123230,
+    "wof:geomhash":"3fc1db1d73ab6019fd7f05478600d4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857154185
+        }
+    ],
+    "wof:id":857154185,
+    "wof:lastmodified":1464123230,
+    "wof:name":"Tiki Properties LLC",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.520373,
+    34.37291,
+    -89.520373,
+    34.37291
+],
+  "geometry": {"coordinates":[-89.52037300000001,34.37291],"type":"Point"}
+}

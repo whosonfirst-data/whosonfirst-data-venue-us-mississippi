@@ -1,0 +1,73 @@
+{
+  "id": 857343523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.174841,32.353087,-90.174841,32.353087",
+    "geom:latitude":32.353087,
+    "geom:longitude":-90.174841,
+    "iso:country":"US",
+    "sg:address":"208 Triangle Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 9022",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZtZXfyeueEMra5jEIvzfT_32.353087_-90.174841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127344,
+    "wof:geomhash":"b32cca6d865aaca41239725ee10f92f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857343523
+        }
+    ],
+    "wof:id":857343523,
+    "wof:lastmodified":1464127344,
+    "wof:name":"Triangle Mart Package Store",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -90.174841,
+    32.353087,
+    -90.174841,
+    32.353087
+],
+  "geometry": {"coordinates":[-90.174841,32.353087],"type":"Point"}
+}

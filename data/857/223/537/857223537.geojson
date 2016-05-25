@@ -1,0 +1,71 @@
+{
+  "id": 857223537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.608753,34.333811,-88.608753,34.333811",
+    "geom:latitude":34.333811,
+    "geom:longitude":-88.608753,
+    "iso:country":"US",
+    "sg:address":"270 Co Rd 1742",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 0746",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "restoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qWMO4g7GlxNxYMdmALJSz_34.333811_-88.608753@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124685,
+    "wof:geomhash":"02eaafdf1f4412df5ab43580cbc1c03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857223537
+        }
+    ],
+    "wof:id":857223537,
+    "wof:lastmodified":1464124685,
+    "wof:name":"J & M Autobody Restoration",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration"
+    ]
+},
+  "bbox": [
+    -88.608753,
+    34.333811,
+    -88.608753,
+    34.333811
+],
+  "geometry": {"coordinates":[-88.60875299999999,34.333811],"type":"Point"}
+}

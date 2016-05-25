@@ -1,0 +1,68 @@
+{
+  "id": 857239459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.31046,31.301286,-89.31046,31.301286",
+    "geom:latitude":31.301286,
+    "geom:longitude":-89.31046,
+    "iso:country":"US",
+    "sg:address":"5726 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1900",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h9IsG2nyMdOWU0bXY5Dmr_31.301286_-89.310460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124990,
+    "wof:geomhash":"c504608ab3a7c337e0271932b6e3f62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857239459
+        }
+    ],
+    "wof:id":857239459,
+    "wof:lastmodified":1464124990,
+    "wof:name":"Images By Erica",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31046,
+    31.301286,
+    -89.31046,
+    31.301286
+],
+  "geometry": {"coordinates":[-89.31046000000001,31.301286],"type":"Point"}
+}

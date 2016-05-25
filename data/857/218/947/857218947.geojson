@@ -1,0 +1,82 @@
+{
+  "id": 857218947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.05625,30.390631,-89.05625,30.390631",
+    "geom:latitude":30.390631,
+    "geom:longitude":-89.05625,
+    "iso:country":"US",
+    "sg:address":"351 Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 8586",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uqwouxH1FFtE7WHvr6opy_30.390631_-89.056250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124595,
+    "wof:geomhash":"9cee8376bd219cbab8eb950ff0cb42e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857218947
+        }
+    ],
+    "wof:id":857218947,
+    "wof:lastmodified":1464124595,
+    "wof:name":"C & C Vacuum & Sewing",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -89.05625,
+    30.390631,
+    -89.05625,
+    30.390631
+],
+  "geometry": {"coordinates":[-89.05625000000001,30.390631],"type":"Point"}
+}

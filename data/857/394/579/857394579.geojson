@@ -1,0 +1,75 @@
+{
+  "id": 857394579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540295,33.822279,-88.540295,33.822279",
+    "geom:latitude":33.822279,
+    "geom:longitude":-88.540295,
+    "iso:country":"US",
+    "sg:address":"301 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2779",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qwDJBHnw4Vt16VyL8n1v_33.822279_-88.540295@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128515,
+    "wof:geomhash":"fe6f7c52aa412aa866a8626d787101ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857394579
+        }
+    ],
+    "wof:id":857394579,
+    "wof:lastmodified":1464128515,
+    "wof:name":"Corrections DEPT",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.540295,
+    33.822279,
+    -88.540295,
+    33.822279
+],
+  "geometry": {"coordinates":[-88.540295,33.822279],"type":"Point"}
+}

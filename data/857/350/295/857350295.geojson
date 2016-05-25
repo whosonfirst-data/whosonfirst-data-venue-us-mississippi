@@ -1,0 +1,75 @@
+{
+  "id": 857350295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.724754,34.281257,-88.724754,34.281257",
+    "geom:latitude":34.281257,
+    "geom:longitude":-88.724754,
+    "iso:country":"US",
+    "sg:address":"2004 Country Club Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 0065",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fo2ksbcYUFYFoc0Uga3EO_34.281257_-88.724754@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127490,
+    "wof:geomhash":"5ff33507654afa21a33c5daf3cb47cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857350295
+        }
+    ],
+    "wof:id":857350295,
+    "wof:lastmodified":1464127490,
+    "wof:name":"Delta Security Systems",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.724754,
+    34.281257,
+    -88.724754,
+    34.281257
+],
+  "geometry": {"coordinates":[-88.724754,34.281257],"type":"Point"}
+}

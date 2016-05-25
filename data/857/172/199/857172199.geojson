@@ -1,0 +1,68 @@
+{
+  "id": 857172199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.31289,31.310438,-89.31289,31.310438",
+    "geom:latitude":31.310438,
+    "geom:longitude":-89.31289,
+    "iso:country":"US",
+    "sg:address":"934 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 7733",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Xx01qEMYcYSMCmGL1bpW_31.310438_-89.312890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123631,
+    "wof:geomhash":"ab21825a413039b606eb60e09152c662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857172199
+        }
+    ],
+    "wof:id":857172199,
+    "wof:lastmodified":1464123631,
+    "wof:name":"Direct General Ins Agency",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31289,
+    31.310438,
+    -89.31289,
+    31.310438
+],
+  "geometry": {"coordinates":[-89.31289,31.310438],"type":"Point"}
+}

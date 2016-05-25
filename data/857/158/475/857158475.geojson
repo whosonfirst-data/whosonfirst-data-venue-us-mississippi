@@ -1,0 +1,71 @@
+{
+  "id": 857158475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652545,32.442882,-88.652545,32.442882",
+    "geom:latitude":32.442882,
+    "geom:longitude":-88.652545,
+    "iso:country":"US",
+    "sg:address":"548 Old Country Club Rd E",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8129",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k7mW4hmBxJWLiRvDga8XM_32.442882_-88.652545@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123315,
+    "wof:geomhash":"01c38c13890172b0ae9d834b82d49f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857158475
+        }
+    ],
+    "wof:id":857158475,
+    "wof:lastmodified":1464123315,
+    "wof:name":"Valley Ridge Apartments",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.652545,
+    32.442882,
+    -88.652545,
+    32.442882
+],
+  "geometry": {"coordinates":[-88.652545,32.442882],"type":"Point"}
+}

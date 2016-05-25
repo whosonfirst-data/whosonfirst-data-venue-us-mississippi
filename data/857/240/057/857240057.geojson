@@ -1,0 +1,73 @@
+{
+  "id": 857240057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.783227,34.1188,-88.783227,34.1188",
+    "geom:latitude":34.1188,
+    "geom:longitude":-88.783227,
+    "iso:country":"US",
+    "sg:address":"582 Co Rd 300",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 3231",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oo1DjwDWbD9et7zlbRD4g_34.118800_-88.783227@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125011,
+    "wof:geomhash":"613b5eb96a69d6c75370fbbc02816ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857240057
+        }
+    ],
+    "wof:id":857240057,
+    "wof:lastmodified":1464125011,
+    "wof:name":"Keith's Hydraulics",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -88.783227,
+    34.1188,
+    -88.783227,
+    34.1188
+],
+  "geometry": {"coordinates":[-88.783227,34.1188],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857342315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.549839,30.365183,-88.549839,30.365183",
+    "geom:latitude":30.365183,
+    "geom:longitude":-88.549839,
+    "iso:country":"US",
+    "sg:address":"1410 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2020",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "wholesaling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EqARc9X8FFC1kU0TzCi3D_30.365183_-88.549839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127321,
+    "wof:geomhash":"293985ae5383cc965161d87fde5e6dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857342315
+        }
+    ],
+    "wof:id":857342315,
+    "wof:lastmodified":1464127321,
+    "wof:name":"Jackson Avenue Auto Sales",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "wholesaling"
+    ]
+},
+  "bbox": [
+    -88.549839,
+    30.365183,
+    -88.549839,
+    30.365183
+],
+  "geometry": {"coordinates":[-88.54983900000001,30.365183],"type":"Point"}
+}

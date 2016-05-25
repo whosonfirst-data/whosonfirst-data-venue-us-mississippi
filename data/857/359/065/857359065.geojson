@@ -1,0 +1,73 @@
+{
+  "id": 857359065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.112048,32.39248,-90.112048,32.39248",
+    "geom:latitude":32.39248,
+    "geom:longitude":-90.112048,
+    "iso:country":"US",
+    "sg:address":"6295 Old Canton Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 2603",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85845725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0npKzOpWQmfz1QpRW8AcL8_32.392480_-90.112048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127679,
+    "wof:geomhash":"a8edc361970910e18d95e610145681a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85845725,
+            "region_id":85688579,
+            "venue_id":857359065
+        }
+    ],
+    "wof:id":857359065,
+    "wof:lastmodified":1464127679,
+    "wof:name":"Northpointe Village",
+    "wof:parent_id":85845725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.112048,
+    32.39248,
+    -90.112048,
+    32.39248
+],
+  "geometry": {"coordinates":[-90.112048,32.39248],"type":"Point"}
+}

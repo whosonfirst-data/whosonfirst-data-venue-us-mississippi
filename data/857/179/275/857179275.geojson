@@ -1,0 +1,71 @@
+{
+  "id": 857179275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795249,34.974918,-89.795249,34.974918",
+    "geom:latitude":34.974918,
+    "geom:longitude":-89.795249,
+    "iso:country":"US",
+    "sg:address":"7861 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 1609",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tvDdohvwa9hQIzwGXJEA9_34.974918_-89.795249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123780,
+    "wof:geomhash":"e3eaaff242a52eefc783465877e4cf4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857179275
+        }
+    ],
+    "wof:id":857179275,
+    "wof:lastmodified":1464123780,
+    "wof:name":"Swift Transportation Co",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.795249,
+    34.974918,
+    -89.795249,
+    34.974918
+],
+  "geometry": {"coordinates":[-89.795249,34.974918],"type":"Point"}
+}

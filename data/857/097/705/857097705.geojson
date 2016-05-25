@@ -1,0 +1,73 @@
+{
+  "id": 857097705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.636343,34.35357,-89.636343,34.35357",
+    "geom:latitude":34.35357,
+    "geom:longitude":-89.636343,
+    "iso:country":"US",
+    "sg:address":"53 Co Rd 311",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 5277",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CLQ5CCDHVRIJpbbbiVd1r_34.353570_-89.636343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121851,
+    "wof:geomhash":"401504454d252defbd2918d0607690b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857097705
+        }
+    ],
+    "wof:id":857097705,
+    "wof:lastmodified":1464121851,
+    "wof:name":"Gyln's Refinishing Touch",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -89.636343,
+    34.35357,
+    -89.636343,
+    34.35357
+],
+  "geometry": {"coordinates":[-89.636343,34.35357],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857090041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403906,32.850006,-90.403906,32.850006",
+    "geom:latitude":32.850006,
+    "geom:longitude":-90.403906,
+    "iso:country":"US",
+    "sg:address":"708 Fillmore St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1120",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MgW2LhNfokVcKJHCIWFPD_32.850006_-90.403906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121678,
+    "wof:geomhash":"9ee100bbc2f097f9d44154c6bce70bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857090041
+        }
+    ],
+    "wof:id":857090041,
+    "wof:lastmodified":1464121678,
+    "wof:name":"Allens Recycling",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -90.403906,
+    32.850006,
+    -90.403906,
+    32.850006
+],
+  "geometry": {"coordinates":[-90.40390600000001,32.850006],"type":"Point"}
+}

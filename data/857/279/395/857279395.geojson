@@ -1,0 +1,73 @@
+{
+  "id": 857279395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640318,34.501373,-88.640318,34.501373",
+    "geom:latitude":34.501373,
+    "geom:longitude":-88.640318,
+    "iso:country":"US",
+    "sg:address":"734 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 7180",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WLut9vdvUnqYfX4Qo4v2A_34.501373_-88.640318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125907,
+    "wof:geomhash":"999d59bd2e7d612b1952d6a451769223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857279395
+        }
+    ],
+    "wof:id":857279395,
+    "wof:lastmodified":1464125907,
+    "wof:name":"Magnolia Dry Cleaners",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -88.640318,
+    34.501373,
+    -88.640318,
+    34.501373
+],
+  "geometry": {"coordinates":[-88.64031799999999,34.501373],"type":"Point"}
+}

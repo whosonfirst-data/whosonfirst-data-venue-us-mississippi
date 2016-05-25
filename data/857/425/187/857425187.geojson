@@ -1,0 +1,68 @@
+{
+  "id": 857425187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.141209,32.470661,-90.141209,32.470661",
+    "geom:latitude":32.470661,
+    "geom:longitude":-90.141209,
+    "iso:country":"US",
+    "sg:address":"208 Key Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 5534",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tw5lX0pXl3GrME3IzcqIf_32.470661_-90.141209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129232,
+    "wof:geomhash":"70703b8dae941381c09e240b20ee217d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857425187
+        }
+    ],
+    "wof:id":857425187,
+    "wof:lastmodified":1464129232,
+    "wof:name":"Briggs Properties LLC",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.141209,
+    32.470661,
+    -90.141209,
+    32.470661
+],
+  "geometry": {"coordinates":[-90.141209,32.470661],"type":"Point"}
+}

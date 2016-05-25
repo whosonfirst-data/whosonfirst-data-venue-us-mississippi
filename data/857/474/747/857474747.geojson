@@ -1,0 +1,72 @@
+{
+  "id": 857474747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.766661,34.226077,-88.766661,34.226077",
+    "geom:latitude":34.226077,
+    "geom:longitude":-88.766661,
+    "iso:country":"US",
+    "sg:address":"3390 Jeff Homan St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 3151",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.con-way.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gnq8tvYjN9BKdeL6pxhb7_34.226077_-88.766661@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130270,
+    "wof:geomhash":"e77e9889d318adf167f9663d220972ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857474747
+        }
+    ],
+    "wof:id":857474747,
+    "wof:lastmodified":1464130270,
+    "wof:name":"Con-Way Southwest Express",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.766661,
+    34.226077,
+    -88.766661,
+    34.226077
+],
+  "geometry": {"coordinates":[-88.766661,34.226077],"type":"Point"}
+}

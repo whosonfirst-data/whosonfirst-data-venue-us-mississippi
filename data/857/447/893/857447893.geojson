@@ -1,0 +1,73 @@
+{
+  "id": 857447893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.864253,30.443134,-88.864253,30.443134",
+    "geom:latitude":30.443134,
+    "geom:longitude":-88.864253,
+    "iso:country":"US",
+    "sg:address":"15312 Lemoyne Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 396 1955",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GZL4M9gaY9kcgn4hbYc7l_30.443134_-88.864253@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129719,
+    "wof:geomhash":"b682d0ec542195769568a442dedae809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857447893
+        }
+    ],
+    "wof:id":857447893,
+    "wof:lastmodified":1464129719,
+    "wof:name":"South Palm Villas",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.864253,
+    30.443134,
+    -88.864253,
+    30.443134
+],
+  "geometry": {"coordinates":[-88.86425300000001,30.443134],"type":"Point"}
+}

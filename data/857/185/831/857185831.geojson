@@ -1,0 +1,76 @@
+{
+  "id": 857185831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520518,34.350343,-89.520518,34.350343",
+    "geom:latitude":34.350343,
+    "geom:longitude":-89.520518,
+    "iso:country":"US",
+    "sg:address":"2211 S Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1192",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5baUPXiDqtRXpd4UBvN6Db_34.350343_-89.520518@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123912,
+    "wof:geomhash":"e051b1a3f1a29bd897f713a4086c3548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857185831
+        }
+    ],
+    "wof:id":857185831,
+    "wof:lastmodified":1464123912,
+    "wof:name":"L & P Durable Medical Equip",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -89.520518,
+    34.350343,
+    -89.520518,
+    34.350343
+],
+  "geometry": {"coordinates":[-89.520518,34.350343],"type":"Point"}
+}

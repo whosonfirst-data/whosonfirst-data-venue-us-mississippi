@@ -1,0 +1,71 @@
+{
+  "id": 857225683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.521322,34.366417,-89.521322,34.366417",
+    "geom:latitude":34.366417,
+    "geom:longitude":-89.521322,
+    "iso:country":"US",
+    "sg:address":"923 Van Buren Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 5000",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LzNEGn7qzpgpZ7Hi1u1ds_34.366417_-89.521322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124724,
+    "wof:geomhash":"2102470281ce7832e7cb0b120c34d7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857225683
+        }
+    ],
+    "wof:id":857225683,
+    "wof:lastmodified":1464124724,
+    "wof:name":"Bottlefree Bakery",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.521322,
+    34.366417,
+    -89.521322,
+    34.366417
+],
+  "geometry": {"coordinates":[-89.521322,34.366417],"type":"Point"}
+}

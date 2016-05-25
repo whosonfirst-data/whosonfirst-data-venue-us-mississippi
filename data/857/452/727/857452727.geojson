@@ -1,0 +1,66 @@
+{
+  "id": 857452727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652189,30.396645,-88.652189,30.396645",
+    "geom:latitude":30.396645,
+    "geom:longitude":-88.652189,
+    "iso:country":"US",
+    "sg:address":"3600 Gautier Vancleave Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 6055",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fUXfz2MRwV0v2hhxS5T6b_30.396645_-88.652189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129812,
+    "wof:geomhash":"175cb1bf605a836dbdcd044fc4f3b7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857452727
+        }
+    ],
+    "wof:id":857452727,
+    "wof:lastmodified":1464129812,
+    "wof:name":"Fast Trac",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.652189,
+    30.396645,
+    -88.652189,
+    30.396645
+],
+  "geometry": {"coordinates":[-88.65218900000001,30.396645],"type":"Point"}
+}

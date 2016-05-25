@@ -1,0 +1,69 @@
+{
+  "id": 857468069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.726896,33.477111,-88.726896,33.477111",
+    "geom:latitude":33.477111,
+    "geom:longitude":-88.726896,
+    "iso:country":"US",
+    "sg:address":"1675 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 9329",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05kGBA2aGVbcbS7pG4pyc0_33.477111_-88.726896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130126,
+    "wof:geomhash":"064a47b4254a112e4b3b67ad8a22e2fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857468069
+        }
+    ],
+    "wof:id":857468069,
+    "wof:lastmodified":1464130126,
+    "wof:name":"Rite Way Upholstery Inc",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -88.726896,
+    33.477111,
+    -88.726896,
+    33.477111
+],
+  "geometry": {"coordinates":[-88.726896,33.477111],"type":"Point"}
+}

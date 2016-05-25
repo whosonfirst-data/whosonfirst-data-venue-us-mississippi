@@ -1,0 +1,73 @@
+{
+  "id": 857407407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.712263,32.364976,-88.712263,32.364976",
+    "geom:latitude":32.364976,
+    "geom:longitude":-88.712263,
+    "iso:country":"US",
+    "sg:address":"3304 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2232",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Za82timjX2yJUq1ASY32i_32.364976_-88.712263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128782,
+    "wof:geomhash":"ed8f14effb97ed92edaf1f4ab4aa1ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857407407
+        }
+    ],
+    "wof:id":857407407,
+    "wof:lastmodified":1464128782,
+    "wof:name":"Triple B Automotive",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.712263,
+    32.364976,
+    -88.712263,
+    32.364976
+],
+  "geometry": {"coordinates":[-88.71226299999999,32.364976],"type":"Point"}
+}

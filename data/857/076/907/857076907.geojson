@@ -1,0 +1,73 @@
+{
+  "id": 857076907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683701,34.429026,-88.683701,34.429026",
+    "geom:latitude":34.429026,
+    "geom:longitude":-88.683701,
+    "iso:country":"US",
+    "sg:address":"296 Co Rd 2446",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 3152",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N6YZo5YUlC6i6KBfRHt7Z_34.429026_-88.683701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121331,
+    "wof:geomhash":"776ceba313fb8e53bc54984fd1832cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857076907
+        }
+    ],
+    "wof:id":857076907,
+    "wof:lastmodified":1464121331,
+    "wof:name":"CBS Electric",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.683701,
+    34.429026,
+    -88.683701,
+    34.429026
+],
+  "geometry": {"coordinates":[-88.683701,34.429026],"type":"Point"}
+}

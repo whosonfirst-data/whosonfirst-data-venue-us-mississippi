@@ -1,0 +1,73 @@
+{
+  "id": 857474871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.551033,30.537742,-88.551033,30.537742",
+    "geom:latitude":30.537742,
+    "geom:longitude":-88.551033,
+    "iso:country":"US",
+    "sg:address":"13208 Hudson Subdivision Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 6351",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cake",
+        "funnel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mK7EYO4adnloTR7bsZXPG_30.537742_-88.551033@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130274,
+    "wof:geomhash":"8fb85ed54d6a16d768833109d176a4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857474871
+        }
+    ],
+    "wof:id":857474871,
+    "wof:lastmodified":1464130274,
+    "wof:name":"Fat Charlies Funnel Cakes",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "funnel"
+    ]
+},
+  "bbox": [
+    -88.551033,
+    30.537742,
+    -88.551033,
+    30.537742
+],
+  "geometry": {"coordinates":[-88.551033,30.537742],"type":"Point"}
+}

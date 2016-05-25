@@ -1,0 +1,73 @@
+{
+  "id": 857341163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.783105,33.374109,-88.783105,33.374109",
+    "geom:latitude":33.374109,
+    "geom:longitude":-88.783105,
+    "iso:country":"US",
+    "sg:address":"974 Mount Olive Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 6363",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19aFIA3GYyIjn64NiE02HE_33.374109_-88.783105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127300,
+    "wof:geomhash":"128bde3b45bc0c09a5abbc54254fcc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857341163
+        }
+    ],
+    "wof:id":857341163,
+    "wof:lastmodified":1464127300,
+    "wof:name":"Starkville Toys & Hobbies",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.783105,
+    33.374109,
+    -88.783105,
+    33.374109
+],
+  "geometry": {"coordinates":[-88.78310500000001,33.374109],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857402773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.718547,34.350243,-89.718547,34.350243",
+    "geom:latitude":34.350243,
+    "geom:longitude":-89.718547,
+    "iso:country":"US",
+    "sg:address":"319 Hwy 6 W",
+    "sg:city":"Batesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 563 5515",
+    "sg:postcode":"38606",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07FEhPjAH6y8gbPOhVi447_34.350243_-89.718547@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128680,
+    "wof:geomhash":"468d2ded9b3f6cfaccca30e1c3c8daaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857402773
+        }
+    ],
+    "wof:id":857402773,
+    "wof:lastmodified":1464128680,
+    "wof:name":"Klean-N-Press",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.718547,
+    34.350243,
+    -89.718547,
+    34.350243
+],
+  "geometry": {"coordinates":[-89.718547,34.350243],"type":"Point"}
+}

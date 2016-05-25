@@ -1,0 +1,71 @@
+{
+  "id": 857161491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719497,34.23168,-88.719497,34.23168",
+    "geom:latitude":34.23168,
+    "geom:longitude":-88.719497,
+    "iso:country":"US",
+    "sg:address":"1159 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0914",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xppE9V3twJJX2P4pvZW8t_34.231680_-88.719497@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123391,
+    "wof:geomhash":"1263c029f5e38e9355c5289294f42f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857161491
+        }
+    ],
+    "wof:id":857161491,
+    "wof:lastmodified":1464123391,
+    "wof:name":"South Gloster Chevron",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.719497,
+    34.23168,
+    -88.719497,
+    34.23168
+],
+  "geometry": {"coordinates":[-88.719497,34.23168],"type":"Point"}
+}

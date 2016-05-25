@@ -1,0 +1,71 @@
+{
+  "id": 857146721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.715363,34.239811,-88.715363,34.239811",
+    "geom:latitude":34.239811,
+    "geom:longitude":-88.715363,
+    "iso:country":"US",
+    "sg:address":"605 Garfield St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 605 5565",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AZhGGtuRhNuXFMqhmU4J6_34.239811_-88.715363@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123073,
+    "wof:geomhash":"d9deea21e6ac15cc28496bb61886e018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857146721
+        }
+    ],
+    "wof:id":857146721,
+    "wof:lastmodified":1464123073,
+    "wof:name":"John Philips MD",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -88.715363,
+    34.239811,
+    -88.715363,
+    34.239811
+],
+  "geometry": {"coordinates":[-88.715363,34.239811],"type":"Point"}
+}

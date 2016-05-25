@@ -1,0 +1,71 @@
+{
+  "id": 857410827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.56386,30.362222,-88.56386,30.362222",
+    "geom:latitude":30.362222,
+    "geom:longitude":-88.56386,
+    "iso:country":"US",
+    "sg:address":"2607 Front St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 3160",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EUeACtSdVT8zEUjcar7Yn_30.362222_-88.563860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128867,
+    "wof:geomhash":"8547538f95b1a50b5d0d792c665e9313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857410827
+        }
+    ],
+    "wof:id":857410827,
+    "wof:lastmodified":1464128867,
+    "wof:name":"Jackson Cnty Sheriff-Narcotics",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -88.56386,
+    30.362222,
+    -88.56386,
+    30.362222
+],
+  "geometry": {"coordinates":[-88.56386000000001,30.362222],"type":"Point"}
+}

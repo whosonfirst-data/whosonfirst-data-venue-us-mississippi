@@ -1,0 +1,73 @@
+{
+  "id": 857108901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.45156,33.617,-88.45156,33.617",
+    "geom:latitude":33.617,
+    "geom:longitude":-88.45156,
+    "iso:country":"US",
+    "sg:address":"4009 Hwy 373",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 8969",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zR6hZQeJsJWZRpdPfLbfQ_33.617000_-88.451560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122116,
+    "wof:geomhash":"b7639da7928a3c7071a1ab6ba5cbdb3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857108901
+        }
+    ],
+    "wof:id":857108901,
+    "wof:lastmodified":1464122116,
+    "wof:name":"Robert's Auto Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.45156,
+    33.617,
+    -88.45156,
+    33.617
+],
+  "geometry": {"coordinates":[-88.45156,33.617],"type":"Point"}
+}

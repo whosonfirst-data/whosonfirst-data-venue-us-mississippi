@@ -1,0 +1,73 @@
+{
+  "id": 857133389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.454348,30.425082,-88.454348,30.425082",
+    "geom:latitude":30.425082,
+    "geom:longitude":-88.454348,
+    "iso:country":"US",
+    "sg:address":"9116 Old Stage Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 0673",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4azFqu4zawHlN2mJedOUAt_30.425082_-88.454348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122749,
+    "wof:geomhash":"e4561657c0faf9cf0ce078962b3aed48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857133389
+        }
+    ],
+    "wof:id":857133389,
+    "wof:lastmodified":1464122749,
+    "wof:name":"Oaks",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.454348,
+    30.425082,
+    -88.454348,
+    30.425082
+],
+  "geometry": {"coordinates":[-88.454348,30.425082],"type":"Point"}
+}

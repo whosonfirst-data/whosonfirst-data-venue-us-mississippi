@@ -1,0 +1,71 @@
+{
+  "id": 857260793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.17265,30.34468,-89.17265,30.34468",
+    "geom:latitude":30.34468,
+    "geom:longitude":-89.17265,
+    "iso:country":"US",
+    "sg:address":"306 Church St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 4408",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iLSxVaFOM6cb67o4cmewt_30.344680_-89.172650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125505,
+    "wof:geomhash":"daf713b2f58ca64aa0972d54912e5fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857260793
+        }
+    ],
+    "wof:id":857260793,
+    "wof:lastmodified":1464125505,
+    "wof:name":"Mount Pilgrims Baptist Church",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.17265,
+    30.34468,
+    -89.17265,
+    30.34468
+],
+  "geometry": {"coordinates":[-89.17265,30.34468],"type":"Point"}
+}

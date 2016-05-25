@@ -1,0 +1,71 @@
+{
+  "id": 857378289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.458327,33.771201,-88.458327,33.771201",
+    "geom:latitude":33.771201,
+    "geom:longitude":-88.458327,
+    "iso:country":"US",
+    "sg:address":"40004 Stovall Crossing Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 8003",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OIt1wCC9Ztq5VjgTGgRtp_33.771201_-88.458327@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128081,
+    "wof:geomhash":"eecdb21f91f75accde9859f868d04380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857378289
+        }
+    ],
+    "wof:id":857378289,
+    "wof:lastmodified":1464128081,
+    "wof:name":"River Rats Art Depot",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -88.458327,
+    33.771201,
+    -88.458327,
+    33.771201
+],
+  "geometry": {"coordinates":[-88.458327,33.771201],"type":"Point"}
+}

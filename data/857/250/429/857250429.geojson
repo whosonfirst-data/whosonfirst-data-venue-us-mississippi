@@ -1,0 +1,73 @@
+{
+  "id": 857250429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.880921,32.348861,-90.880921,32.348861",
+    "geom:latitude":32.348861,
+    "geom:longitude":-90.880921,
+    "iso:country":"US",
+    "sg:address":"820 Crawford St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 629 9809",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dBNZazLUeVLjehNRaY2Mc_32.348861_-90.880921@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125253,
+    "wof:geomhash":"1e8afc535731ddaccbc0d0f6f89505db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857250429
+        }
+    ],
+    "wof:id":857250429,
+    "wof:lastmodified":1464125253,
+    "wof:name":"Duckworth Co",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.880921,
+    32.348861,
+    -90.880921,
+    32.348861
+],
+  "geometry": {"coordinates":[-90.880921,32.348861],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857445199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442038,31.581807,-90.442038,31.581807",
+    "geom:latitude":31.581807,
+    "geom:longitude":-90.442038,
+    "iso:country":"US",
+    "sg:address":"230 N Whitworth Ave",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 823 3400",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JSJKeN0cL7luuhhxiLkEA_31.581807_-90.442038@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129663,
+    "wof:geomhash":"33e040b1f5d2054e64c78fa4fe27ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857445199
+        }
+    ],
+    "wof:id":857445199,
+    "wof:lastmodified":1464129663,
+    "wof:name":"Congressman Charles Pickering",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.442038,
+    31.581807,
+    -90.442038,
+    31.581807
+],
+  "geometry": {"coordinates":[-90.442038,31.581807],"type":"Point"}
+}

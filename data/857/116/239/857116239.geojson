@@ -1,0 +1,73 @@
+{
+  "id": 857116239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.78293,30.414357,-88.78293,30.414357",
+    "geom:latitude":30.414357,
+    "geom:longitude":-88.78293,
+    "iso:country":"US",
+    "sg:address":"15 Marks Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5585",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35DaseVOqzbvVGkab7vYRM_30.414357_-88.782930@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122353,
+    "wof:geomhash":"0a9a591de344b65ca33c761df3ef6324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857116239
+        }
+    ],
+    "wof:id":857116239,
+    "wof:lastmodified":1464122353,
+    "wof:name":"Coast Cardiovascular Conslnts",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.78293,
+    30.414357,
+    -88.78293,
+    30.414357
+],
+  "geometry": {"coordinates":[-88.78292999999999,30.414357],"type":"Point"}
+}

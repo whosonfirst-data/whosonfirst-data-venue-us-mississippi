@@ -1,0 +1,75 @@
+{
+  "id": 857240663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.096569,30.367136,-89.096569,30.367136",
+    "geom:latitude":30.367136,
+    "geom:longitude":-89.096569,
+    "iso:country":"US",
+    "sg:address":"2800 13th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 822 0100",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rd0FA4znQYH4aoS0PSgPc_30.367136_-89.096569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125021,
+    "wof:geomhash":"129da962864782073e401e047d7c47af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857240663
+        }
+    ],
+    "wof:id":857240663,
+    "wof:lastmodified":1464125021,
+    "wof:name":"Import Performance Inc",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.096569,
+    30.367136,
+    -89.096569,
+    30.367136
+],
+  "geometry": {"coordinates":[-89.096569,30.367136],"type":"Point"}
+}

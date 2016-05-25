@@ -1,0 +1,71 @@
+{
+  "id": 857220897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.355304,33.421056,-88.355304,33.421056",
+    "geom:latitude":33.421056,
+    "geom:longitude":-88.355304,
+    "iso:country":"US",
+    "sg:address":"133 Bryant Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9004",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ay8W4te4R8876KqVUg7Z4_33.421056_-88.355304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124631,
+    "wof:geomhash":"4f435adeb6d06dca6c90484114a723cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857220897
+        }
+    ],
+    "wof:id":857220897,
+    "wof:lastmodified":1464124631,
+    "wof:name":"Drummond American Corp",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [
+    -88.355304,
+    33.421056,
+    -88.355304,
+    33.421056
+],
+  "geometry": {"coordinates":[-88.355304,33.421056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857101043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579014,34.210083,-90.579014,34.210083",
+    "geom:latitude":34.210083,
+    "geom:longitude":-90.579014,
+    "iso:country":"US",
+    "sg:address":"140 Ritch St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 578 7400",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XMZV3f7xrOIRtfyU5UN1p_34.210083_-90.579014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121941,
+    "wof:geomhash":"34a459396b532f8db88ecc1abb04cfee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857101043
+        }
+    ],
+    "wof:id":857101043,
+    "wof:lastmodified":1464121941,
+    "wof:name":"Mary Joe's Mini Storage",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.579014,
+    34.210083,
+    -90.579014,
+    34.210083
+],
+  "geometry": {"coordinates":[-90.579014,34.210083],"type":"Point"}
+}

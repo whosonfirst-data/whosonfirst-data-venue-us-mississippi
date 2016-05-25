@@ -1,0 +1,74 @@
+{
+  "id": 857264027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773005,34.249902,-88.773005,34.249902",
+    "geom:latitude":34.249902,
+    "geom:longitude":-88.773005,
+    "iso:country":"US",
+    "sg:address":"4008 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 1869",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "sg:website":"www.tac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fasaDguC0Hk8gupX4Etb7_34.249902_-88.773005@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125574,
+    "wof:geomhash":"693ba888b20dd96c752e21f588f351f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857264027
+        }
+    ],
+    "wof:id":857264027,
+    "wof:lastmodified":1464125574,
+    "wof:name":"Total Health Care Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.773005,
+    34.249902,
+    -88.773005,
+    34.249902
+],
+  "geometry": {"coordinates":[-88.773005,34.249902],"type":"Point"}
+}

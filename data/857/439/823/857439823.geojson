@@ -1,0 +1,71 @@
+{
+  "id": 857439823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.731345,33.469361,-88.731345,33.469361",
+    "geom:latitude":33.469361,
+    "geom:longitude":-88.731345,
+    "iso:country":"US",
+    "sg:address":"1481 Frye Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3981",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lj7YrsyF10AEhuRq5GPJM_33.469361_-88.731345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129567,
+    "wof:geomhash":"28956a94377bead63e18e3ea816cbeac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857439823
+        }
+    ],
+    "wof:id":857439823,
+    "wof:lastmodified":1464129567,
+    "wof:name":"Mastec",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.731345,
+    33.469361,
+    -88.731345,
+    33.469361
+],
+  "geometry": {"coordinates":[-88.731345,33.469361],"type":"Point"}
+}

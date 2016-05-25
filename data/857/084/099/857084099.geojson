@@ -1,0 +1,71 @@
+{
+  "id": 857084099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.271347,31.346669,-89.271347,31.346669",
+    "geom:latitude":31.346669,
+    "geom:longitude":-89.271347,
+    "iso:country":"US",
+    "sg:address":"306 W Central Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 0885",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b5ZRhJ7jgnWIp2cYN1Vzc_31.346669_-89.271347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121512,
+    "wof:geomhash":"7a42eb6b1f06a36b93a81990bc70a340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857084099
+        }
+    ],
+    "wof:id":857084099,
+    "wof:lastmodified":1464121512,
+    "wof:name":"American Mortgages Co Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -89.271347,
+    31.346669,
+    -89.271347,
+    31.346669
+],
+  "geometry": {"coordinates":[-89.27134700000001,31.346669],"type":"Point"}
+}

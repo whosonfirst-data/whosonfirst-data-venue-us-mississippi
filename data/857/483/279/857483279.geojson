@@ -1,0 +1,76 @@
+{
+  "id": 857483279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.705925,32.409216,-88.705925,32.409216",
+    "geom:latitude":32.409216,
+    "geom:longitude":-88.705925,
+    "iso:country":"US",
+    "sg:address":"4909 27th Pl",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/meridian/93047-mcalisters-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 9100",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmREg7ZTI1Zmo0IU6RkN4_32.409216_-88.705925@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130433,
+    "wof:geomhash":"87113456a5a9058d16fa35d5f5306bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857483279
+        }
+    ],
+    "wof:id":857483279,
+    "wof:lastmodified":1464130433,
+    "wof:name":"Mcalister's Deli",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.705925,
+    32.409216,
+    -88.705925,
+    32.409216
+],
+  "geometry": {"coordinates":[-88.70592499999999,32.409216],"type":"Point"}
+}

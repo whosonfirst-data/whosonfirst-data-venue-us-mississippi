@@ -1,0 +1,77 @@
+{
+  "id": 857436689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.327153,32.301802,-90.327153,32.301802",
+    "geom:latitude":32.301802,
+    "geom:longitude":-90.327153,
+    "iso:country":"US",
+    "sg:address":"1219 Springridge Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 922 3001",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sell",
+        "used",
+        "sales",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kXfxmlqlvWpQj4rkxEv4p_32.301802_-90.327153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129505,
+    "wof:geomhash":"ff1507db0065f9c2b3abd3699c77faa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857436689
+        }
+    ],
+    "wof:id":857436689,
+    "wof:lastmodified":1464129505,
+    "wof:name":"B & B Lawn & Tractor",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "used",
+        "sales",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -90.327153,
+    32.301802,
+    -90.327153,
+    32.301802
+],
+  "geometry": {"coordinates":[-90.327153,32.301802],"type":"Point"}
+}

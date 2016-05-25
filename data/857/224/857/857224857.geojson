@@ -1,0 +1,79 @@
+{
+  "id": 857224857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.817389,34.956191,-89.817389,34.956191",
+    "geom:latitude":34.956191,
+    "geom:longitude":-89.817389,
+    "iso:country":"US",
+    "sg:address":"9709 Hwy 178",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 7009",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CcVBistYu29TVh5UC380Z_34.956191_-89.817389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124710,
+    "wof:geomhash":"f5e9ba86fdc8c69fecf20f980fce757b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857224857
+        }
+    ],
+    "wof:id":857224857,
+    "wof:lastmodified":1464124710,
+    "wof:name":"Cross Roads Auto Center",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.817389,
+    34.956191,
+    -89.817389,
+    34.956191
+],
+  "geometry": {"coordinates":[-89.81738900000001,34.956191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857076499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589503,34.197524,-90.589503,34.197524",
+    "geom:latitude":34.197524,
+    "geom:longitude":-90.589503,
+    "iso:country":"US",
+    "sg:address":"643 Spruce St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9433",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q4JSa5Fl9iQFnwlcnPdzu_34.197524_-90.589503@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121322,
+    "wof:geomhash":"24759f72b429a9b82e6ee3fec3b2b8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857076499
+        }
+    ],
+    "wof:id":857076499,
+    "wof:lastmodified":1464121322,
+    "wof:name":"Taylors Roofing",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.589503,
+    34.197524,
+    -90.589503,
+    34.197524
+],
+  "geometry": {"coordinates":[-90.58950299999999,34.197524],"type":"Point"}
+}

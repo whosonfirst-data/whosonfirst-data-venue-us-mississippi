@@ -1,0 +1,79 @@
+{
+  "id": 857371627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.954166,30.402645,-88.954166,30.402645",
+    "geom:latitude":30.402645,
+    "geom:longitude":-88.954166,
+    "iso:country":"US",
+    "sg:address":"1989 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 385 2544",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rS0JohgqXVM3ZQhLwF8RE_30.402645_-88.954166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127938,
+    "wof:geomhash":"70e96e8645da1c6ec79c1acba9296cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857371627
+        }
+    ],
+    "wof:id":857371627,
+    "wof:lastmodified":1464127938,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.954166,
+    30.402645,
+    -88.954166,
+    30.402645
+],
+  "geometry": {"coordinates":[-88.954166,30.402645],"type":"Point"}
+}

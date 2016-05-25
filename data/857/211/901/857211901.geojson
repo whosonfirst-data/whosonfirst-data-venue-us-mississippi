@@ -1,0 +1,71 @@
+{
+  "id": 857211901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.536381,30.392748,-88.536381,30.392748",
+    "geom:latitude":30.392748,
+    "geom:longitude":-88.536381,
+    "iso:country":"US",
+    "sg:address":"3420 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 8523",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bc4LsMBx6yfGhxQBnnJps_30.392748_-88.536381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124437,
+    "wof:geomhash":"019583e35bb3db6ddbe730bc16802438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857211901
+        }
+    ],
+    "wof:id":857211901,
+    "wof:lastmodified":1464124437,
+    "wof:name":"Glenco Wireless",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone"
+    ]
+},
+  "bbox": [
+    -88.536381,
+    30.392748,
+    -88.536381,
+    30.392748
+],
+  "geometry": {"coordinates":[-88.53638100000001,30.392748],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857322995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55889,34.196574,-90.55889,34.196574",
+    "geom:latitude":34.196574,
+    "geom:longitude":-90.55889,
+    "iso:country":"US",
+    "sg:address":"723 Florida Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5897",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w5RVLIgUW9S0j4Y7SakjI_34.196574_-90.558890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126912,
+    "wof:geomhash":"973853d5158680fe9d6ca9988df3d7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857322995
+        }
+    ],
+    "wof:id":857322995,
+    "wof:lastmodified":1464126912,
+    "wof:name":"Williams Body Shop",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.55889,
+    34.196574,
+    -90.55889,
+    34.196574
+],
+  "geometry": {"coordinates":[-90.55889000000001,34.196574],"type":"Point"}
+}

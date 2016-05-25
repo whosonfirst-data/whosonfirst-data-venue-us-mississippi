@@ -1,0 +1,66 @@
+{
+  "id": 857205341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.649198,34.241543,-89.649198,34.241543",
+    "geom:latitude":34.241543,
+    "geom:longitude":-89.649198,
+    "iso:country":"US",
+    "sg:address":"826 Co Rd 313",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5997",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78YLP99bGJ3V5g1s3XrBSj_34.241543_-89.649198@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124300,
+    "wof:geomhash":"7e9a8d9953b16d3bbd849d13e4b6b118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857205341
+        }
+    ],
+    "wof:id":857205341,
+    "wof:lastmodified":1464124300,
+    "wof:name":"Varner Home Appliance Repair",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.649198,
+    34.241543,
+    -89.649198,
+    34.241543
+],
+  "geometry": {"coordinates":[-89.649198,34.241543],"type":"Point"}
+}

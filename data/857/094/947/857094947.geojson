@@ -1,0 +1,73 @@
+{
+  "id": 857094947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.853977,32.32117,-90.853977,32.32117",
+    "geom:latitude":32.32117,
+    "geom:longitude":-90.853977,
+    "iso:country":"US",
+    "sg:address":"3305 Raintree Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 8025",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24uEPFgN3zPGLlWuvXGVA7_32.321170_-90.853977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121788,
+    "wof:geomhash":"c1dbe3ad2c5269d77c411ef6f2898498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857094947
+        }
+    ],
+    "wof:id":857094947,
+    "wof:lastmodified":1464121788,
+    "wof:name":"Danny Rice Farms",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.853977,
+    32.32117,
+    -90.853977,
+    32.32117
+],
+  "geometry": {"coordinates":[-90.853977,32.32117],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857122835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701527,32.368823,-88.701527,32.368823",
+    "geom:latitude":32.368823,
+    "geom:longitude":-88.701527,
+    "iso:country":"US",
+    "sg:address":"1100 23rd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 6466",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MVZZKb0P0PvjcNU3LdIT1_32.368823_-88.701527@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122524,
+    "wof:geomhash":"edeb1c08867648a8c4c33bd888121368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857122835
+        }
+    ],
+    "wof:id":857122835,
+    "wof:lastmodified":1464122524,
+    "wof:name":"Witherspoon & Compton",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.701527,
+    32.368823,
+    -88.701527,
+    32.368823
+],
+  "geometry": {"coordinates":[-88.701527,32.368823],"type":"Point"}
+}

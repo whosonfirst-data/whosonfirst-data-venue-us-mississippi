@@ -1,0 +1,71 @@
+{
+  "id": 857195463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.764284,34.233962,-88.764284,34.233962",
+    "geom:latitude":34.233962,
+    "geom:longitude":-88.764284,
+    "iso:country":"US",
+    "sg:address":"1957 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 0019",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lubricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T50JWWOkGMNOD2gOxIhOq_34.233962_-88.764284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124088,
+    "wof:geomhash":"6f423d39abbfc69c299fdadc9324475a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857195463
+        }
+    ],
+    "wof:id":857195463,
+    "wof:lastmodified":1464124088,
+    "wof:name":"Parker's Quick Lube",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating"
+    ]
+},
+  "bbox": [
+    -88.764284,
+    34.233962,
+    -88.764284,
+    34.233962
+],
+  "geometry": {"coordinates":[-88.764284,34.233962],"type":"Point"}
+}

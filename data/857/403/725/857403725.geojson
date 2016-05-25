@@ -1,0 +1,75 @@
+{
+  "id": 857403725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274397,31.324995,-89.274397,31.324995",
+    "geom:latitude":31.324995,
+    "geom:longitude":-89.274397,
+    "iso:country":"US",
+    "sg:address":"1715 E Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8339",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54GYn2qXeFsawU4cs4nhPE_31.324995_-89.274397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128697,
+    "wof:geomhash":"e48c906c576b8e68eacead8583b2a764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857403725
+        }
+    ],
+    "wof:id":857403725,
+    "wof:lastmodified":1464128697,
+    "wof:name":"De Soto's",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.274397,
+    31.324995,
+    -89.274397,
+    31.324995
+],
+  "geometry": {"coordinates":[-89.27439699999999,31.324995],"type":"Point"}
+}

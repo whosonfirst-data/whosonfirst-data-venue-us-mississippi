@@ -1,0 +1,72 @@
+{
+  "id": 857412545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.422498,33.496017,-88.422498,33.496017",
+    "geom:latitude":33.496017,
+    "geom:longitude":-88.422498,
+    "iso:country":"US",
+    "sg:address":"1001 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 9225",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.ccs.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GxmlIDTcrEHSKVEVKkCUd_33.496017_-88.422498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128914,
+    "wof:geomhash":"ad175a8ab514113f4ca679e540156915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857412545
+        }
+    ],
+    "wof:id":857412545,
+    "wof:lastmodified":1464128914,
+    "wof:name":"Community Counseling Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.422498,
+    33.496017,
+    -88.422498,
+    33.496017
+],
+  "geometry": {"coordinates":[-88.422498,33.496017],"type":"Point"}
+}

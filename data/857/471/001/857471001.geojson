@@ -1,0 +1,82 @@
+{
+  "id": 857471001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288423,31.324178,-89.288423,31.324178",
+    "geom:latitude":31.324178,
+    "geom:longitude":-89.288423,
+    "iso:country":"US",
+    "sg:address":"118 Buschman St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2701",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jQveWbeYOv9U7bf7QmP3e_31.324178_-89.288423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130191,
+    "wof:geomhash":"92021430d9492942e30e018527330e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857471001
+        }
+    ],
+    "wof:id":857471001,
+    "wof:lastmodified":1464130191,
+    "wof:name":"Hattiesburg Upholstery Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.288423,
+    31.324178,
+    -89.288423,
+    31.324178
+],
+  "geometry": {"coordinates":[-89.28842299999999,31.324178],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857284367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.508572,34.362539,-89.508572,34.362539",
+    "geom:latitude":34.362539,
+    "geom:longitude":-89.508572,
+    "iso:country":"US",
+    "sg:address":"1929 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0300",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KWquB6gzRYGDibXxDiQP9_34.362539_-89.508572@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126008,
+    "wof:geomhash":"b3855f65ab151e2bfbc026fb2d1b7c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857284367
+        }
+    ],
+    "wof:id":857284367,
+    "wof:lastmodified":1464126008,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -89.508572,
+    34.362539,
+    -89.508572,
+    34.362539
+],
+  "geometry": {"coordinates":[-89.508572,34.362539],"type":"Point"}
+}

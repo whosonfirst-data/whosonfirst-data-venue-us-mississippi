@@ -1,0 +1,75 @@
+{
+  "id": 857220231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.969353,34.991691,-89.969353,34.991691",
+    "geom:latitude":34.991691,
+    "geom:longitude":-89.969353,
+    "iso:country":"US",
+    "sg:address":"1433 Stateline Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 280 8050",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ECYdl6nEs2mNHed8dm01S_34.991691_-89.969353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124617,
+    "wof:geomhash":"dff0ef6626dcae3d97101e0cb70fadb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857220231
+        }
+    ],
+    "wof:id":857220231,
+    "wof:lastmodified":1464124617,
+    "wof:name":"Cordova Concrete",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.969353,
+    34.991691,
+    -89.969353,
+    34.991691
+],
+  "geometry": {"coordinates":[-89.969353,34.991691],"type":"Point"}
+}

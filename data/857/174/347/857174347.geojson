@@ -1,0 +1,73 @@
+{
+  "id": 857174347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756218,33.474046,-88.756218,33.474046",
+    "geom:latitude":33.474046,
+    "geom:longitude":-88.756218,
+    "iso:country":"US",
+    "sg:address":"1311 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 7007",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ksc2OEzpTvdkgatP3rMNq_33.474046_-88.756218@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123681,
+    "wof:geomhash":"9649340490c176f4ae027414eb6de770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857174347
+        }
+    ],
+    "wof:id":857174347,
+    "wof:lastmodified":1464123681,
+    "wof:name":"Mike Latham Body Shop",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.756218,
+    33.474046,
+    -88.756218,
+    33.474046
+],
+  "geometry": {"coordinates":[-88.756218,33.474046],"type":"Point"}
+}

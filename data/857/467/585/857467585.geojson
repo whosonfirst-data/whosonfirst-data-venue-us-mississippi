@@ -1,0 +1,74 @@
+{
+  "id": 857467585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428881,33.520037,-88.428881,33.520037",
+    "geom:latitude":33.520037,
+    "geom:longitude":-88.428881,
+    "iso:country":"US",
+    "sg:address":"2110 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 243 2435",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.westmoreland-derm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M5CGxaoX5HG2IKDI4PqWv_33.520037_-88.428881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130117,
+    "wof:geomhash":"3b9c6f3fdf3bce815b047efab27ec714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857467585
+        }
+    ],
+    "wof:id":857467585,
+    "wof:lastmodified":1464130117,
+    "wof:name":"Westmoreland Dermatology Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.428881,
+    33.520037,
+    -88.428881,
+    33.520037
+],
+  "geometry": {"coordinates":[-88.428881,33.520037],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857460305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.872456,33.368707,-88.872456,33.368707",
+    "geom:latitude":33.368707,
+    "geom:longitude":-88.872456,
+    "iso:country":"US",
+    "sg:address":"2165 Hwy 25 S",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 2490",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X0PZaRsdTlZXxl4fVJlrw_33.368707_-88.872456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129955,
+    "wof:geomhash":"2a735f779b2dc83436a4e3c72d43888c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857460305
+        }
+    ],
+    "wof:id":857460305,
+    "wof:lastmodified":1464129955,
+    "wof:name":"Rives Brothers Logging Co",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -88.872456,
+    33.368707,
+    -88.872456,
+    33.368707
+],
+  "geometry": {"coordinates":[-88.872456,33.368707],"type":"Point"}
+}

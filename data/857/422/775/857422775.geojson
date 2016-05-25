@@ -1,0 +1,75 @@
+{
+  "id": 857422775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.6404,33.301789,-88.6404,33.301789",
+    "geom:latitude":33.301789,
+    "geom:longitude":-88.6404,
+    "iso:country":"US",
+    "sg:address":"1006 Fairport Rd",
+    "sg:city":"Crawford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 272 5674",
+    "sg:postcode":"39743",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62NZi6x8CgoN42M5r8pGS4_33.301789_-88.640400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129163,
+    "wof:geomhash":"a67173926c7940b58a1d2f6d87534a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857422775
+        }
+    ],
+    "wof:id":857422775,
+    "wof:lastmodified":1464129163,
+    "wof:name":"Holcomb Hog Farm",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -88.6404,
+    33.301789,
+    -88.6404,
+    33.301789
+],
+  "geometry": {"coordinates":[-88.6404,33.301789],"type":"Point"}
+}

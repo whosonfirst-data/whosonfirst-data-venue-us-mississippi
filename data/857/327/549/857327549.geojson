@@ -1,0 +1,71 @@
+{
+  "id": 857327549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567347,34.204217,-90.567347,34.204217",
+    "geom:latitude":34.204217,
+    "geom:longitude":-90.567347,
+    "iso:country":"US",
+    "sg:address":"200 Fairland Pl",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2030",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bkUza4upvnei9yoUhtWwW_34.204217_-90.567347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127002,
+    "wof:geomhash":"12ca6433b6494aec935a5fdf1255d9d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857327549
+        }
+    ],
+    "wof:id":857327549,
+    "wof:lastmodified":1464127002,
+    "wof:name":"Children's Treatment Ctr",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -90.567347,
+    34.204217,
+    -90.567347,
+    34.204217
+],
+  "geometry": {"coordinates":[-90.567347,34.204217],"type":"Point"}
+}

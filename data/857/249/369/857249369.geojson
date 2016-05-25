@@ -1,0 +1,71 @@
+{
+  "id": 857249369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.669547,34.257692,-88.669547,34.257692",
+    "geom:latitude":34.257692,
+    "geom:longitude":-88.669547,
+    "iso:country":"US",
+    "sg:address":"1618 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 1771",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HFQvUyn2eWmSORF3ILi2O_34.257692_-88.669547@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125229,
+    "wof:geomhash":"6797e0bc38f41be568c21d4dc516a0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857249369
+        }
+    ],
+    "wof:id":857249369,
+    "wof:lastmodified":1464125229,
+    "wof:name":"Louises Cut & Curl Salon",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.669547,
+    34.257692,
+    -88.669547,
+    34.257692
+],
+  "geometry": {"coordinates":[-88.66954699999999,34.257692],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857149489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.414945,31.320268,-89.414945,31.320268",
+    "geom:latitude":31.320268,
+    "geom:longitude":-89.414945,
+    "iso:country":"US",
+    "sg:address":"41 King Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 288 9393",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eEbqJhYk4RYXWN3BSEaq6_31.320268_-89.414945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123138,
+    "wof:geomhash":"c4064f16e4e9c4e9ecabc1ec73d6939e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857149489
+        }
+    ],
+    "wof:id":857149489,
+    "wof:lastmodified":1464123138,
+    "wof:name":"Instant Credit Auto Sales",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.414945,
+    31.320268,
+    -89.414945,
+    31.320268
+],
+  "geometry": {"coordinates":[-89.414945,31.320268],"type":"Point"}
+}

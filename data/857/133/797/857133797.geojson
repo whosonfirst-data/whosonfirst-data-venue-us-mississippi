@@ -1,0 +1,75 @@
+{
+  "id": 857133797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.972768,34.990723,-89.972768,34.990723",
+    "geom:latitude":34.990723,
+    "geom:longitude":-89.972768,
+    "iso:country":"US",
+    "sg:address":"8928 Swinnea Rd",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 342 6100",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical",
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ct2JlvKaKrDI63bh1A6Tn_34.990723_-89.972768@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122760,
+    "wof:geomhash":"1fbfde622aa5b069445248c3dc6c260d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857133797
+        }
+    ],
+    "wof:id":857133797,
+    "wof:lastmodified":1464122760,
+    "wof:name":"Greenbrook Animal Hospital",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -89.972768,
+    34.990723,
+    -89.972768,
+    34.990723
+],
+  "geometry": {"coordinates":[-89.972768,34.990723],"type":"Point"}
+}

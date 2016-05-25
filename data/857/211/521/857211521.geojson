@@ -1,0 +1,72 @@
+{
+  "id": 857211521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.335416,31.335728,-89.335416,31.335728",
+    "geom:latitude":31.335728,
+    "geom:longitude":-89.335416,
+    "iso:country":"US",
+    "sg:address":"3000 W 7th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 1800",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.mstank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AlRxI92adqkEwMSGRs23s_31.335728_-89.335416@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124428,
+    "wof:geomhash":"db5e2ee8ba313143f5ff9d07ea2fd263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857211521
+        }
+    ],
+    "wof:id":857211521,
+    "wof:lastmodified":1464124428,
+    "wof:name":"Mississippi Tank Co",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.335416,
+    31.335728,
+    -89.335416,
+    31.335728
+],
+  "geometry": {"coordinates":[-89.335416,31.335728],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857433377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307215,31.324809,-89.307215,31.324809",
+    "geom:latitude":31.324809,
+    "geom:longitude":-89.307215,
+    "iso:country":"US",
+    "sg:address":"1007 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2822",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GwyRSFFbJeoE5dOnYyYUX_31.324809_-89.307215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129435,
+    "wof:geomhash":"9ff3534ad75faa5d823116e006cc8edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857433377
+        }
+    ],
+    "wof:id":857433377,
+    "wof:lastmodified":1464129435,
+    "wof:name":"Econotax",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -89.307215,
+    31.324809,
+    -89.307215,
+    31.324809
+],
+  "geometry": {"coordinates":[-89.307215,31.324809],"type":"Point"}
+}

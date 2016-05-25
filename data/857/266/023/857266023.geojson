@@ -1,0 +1,73 @@
+{
+  "id": 857266023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.420606,33.497289,-88.420606,33.497289",
+    "geom:latitude":33.497289,
+    "geom:longitude":-88.420606,
+    "iso:country":"US",
+    "sg:address":"815 N 2nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 7388",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hv58X1BuZrSU4MiVGcKBh_33.497289_-88.420606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125611,
+    "wof:geomhash":"912c62f0fe4119d04fdac9418e5103b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857266023
+        }
+    ],
+    "wof:id":857266023,
+    "wof:lastmodified":1464125611,
+    "wof:name":"Raymond G Overstreet MD",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.420606,
+    33.497289,
+    -88.420606,
+    33.497289
+],
+  "geometry": {"coordinates":[-88.42060600000001,33.497289],"type":"Point"}
+}

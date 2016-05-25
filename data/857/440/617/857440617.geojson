@@ -1,0 +1,73 @@
+{
+  "id": 857440617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.176815,32.167431,-90.176815,32.167431",
+    "geom:latitude":32.167431,
+    "geom:longitude":-90.176815,
+    "iso:country":"US",
+    "sg:address":"2244 Cleary Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 6929",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EuFoRnBofDxDJAYFCPL9k_32.167431_-90.176815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129580,
+    "wof:geomhash":"51cb62a495362206bc377c6c94e9d3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857440617
+        }
+    ],
+    "wof:id":857440617,
+    "wof:lastmodified":1464129580,
+    "wof:name":"Phillips Automotive-Collision",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.176815,
+    32.167431,
+    -90.176815,
+    32.167431
+],
+  "geometry": {"coordinates":[-90.176815,32.167431],"type":"Point"}
+}

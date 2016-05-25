@@ -1,0 +1,71 @@
+{
+  "id": 857335619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.826455,30.411138,-88.826455,30.411138",
+    "geom:latitude":30.411138,
+    "geom:longitude":-88.826455,
+    "iso:country":"US",
+    "sg:address":"525 Dewey Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 1193",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vvvqt38GvWb1IojtBcXDK_30.411138_-88.826455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127179,
+    "wof:geomhash":"d06f790fef930429dbc61d66d137df40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857335619
+        }
+    ],
+    "wof:id":857335619,
+    "wof:lastmodified":1464127179,
+    "wof:name":"Jackson Gorge Regional Lib Sys",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -88.826455,
+    30.411138,
+    -88.826455,
+    30.411138
+],
+  "geometry": {"coordinates":[-88.826455,30.411138],"type":"Point"}
+}

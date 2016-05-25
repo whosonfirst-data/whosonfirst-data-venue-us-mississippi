@@ -1,0 +1,72 @@
+{
+  "id": 857077903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.714742,34.234639,-88.714742,34.234639",
+    "geom:latitude":34.234639,
+    "geom:longitude":-88.714742,
+    "iso:country":"US",
+    "sg:address":"6 Medical Park Cir",
+    "sg:city":"Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 862 7434",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.marquisdentalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69KQxlSIUnOznZFdnUJ7GJ_34.234639_-88.714742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121352,
+    "wof:geomhash":"588e74e777df0c37a67a4b2059a95f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857077903
+        }
+    ],
+    "wof:id":857077903,
+    "wof:lastmodified":1464121352,
+    "wof:name":"Marquis Dental Ctr",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.714742,
+    34.234639,
+    -88.714742,
+    34.234639
+],
+  "geometry": {"coordinates":[-88.714742,34.234639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857177951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571686,34.19847,-90.571686,34.19847",
+    "geom:latitude":34.19847,
+    "geom:longitude":-90.571686,
+    "iso:country":"US",
+    "sg:address":"212 4th St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1734",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WQXo943sxtr2oo0X01klY_34.198470_-90.571686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123749,
+    "wof:geomhash":"486892dc38d8b1b045a7a083fd0c32d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857177951
+        }
+    ],
+    "wof:id":857177951,
+    "wof:lastmodified":1464123749,
+    "wof:name":"White Rose Cleaners",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.571686,
+    34.19847,
+    -90.571686,
+    34.19847
+],
+  "geometry": {"coordinates":[-90.571686,34.19847],"type":"Point"}
+}

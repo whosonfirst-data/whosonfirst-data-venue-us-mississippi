@@ -1,0 +1,73 @@
+{
+  "id": 857138893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.561544,33.828907,-88.561544,33.828907",
+    "geom:latitude":33.828907,
+    "geom:longitude":-88.561544,
+    "iso:country":"US",
+    "sg:address":"117 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4526",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gc6mYd83NDn2aeNJzaqbv_33.828907_-88.561544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122868,
+    "wof:geomhash":"6791c85496cbc19fe31a4ec347d62770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857138893
+        }
+    ],
+    "wof:id":857138893,
+    "wof:lastmodified":1464122868,
+    "wof:name":"First Financial Services",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.561544,
+    33.828907,
+    -88.561544,
+    33.828907
+],
+  "geometry": {"coordinates":[-88.561544,33.828907],"type":"Point"}
+}

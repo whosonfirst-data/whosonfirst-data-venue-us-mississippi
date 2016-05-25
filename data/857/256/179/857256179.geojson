@@ -1,0 +1,71 @@
+{
+  "id": 857256179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.548284,31.418368,-89.548284,31.418368",
+    "geom:latitude":31.418368,
+    "geom:longitude":-89.548284,
+    "iso:country":"US",
+    "sg:address":"102 Center Ave",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 0999",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VIeD896by7fOq75c8Kv1s_31.418368_-89.548284@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125409,
+    "wof:geomhash":"2dedb541550088b239bdbbda26fd5a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857256179
+        }
+    ],
+    "wof:id":857256179,
+    "wof:lastmodified":1464125409,
+    "wof:name":"Sumrall Motors Inc",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.548284,
+    31.418368,
+    -89.548284,
+    31.418368
+],
+  "geometry": {"coordinates":[-89.548284,31.418368],"type":"Point"}
+}

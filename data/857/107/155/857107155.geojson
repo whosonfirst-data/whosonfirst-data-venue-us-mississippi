@@ -1,0 +1,71 @@
+{
+  "id": 857107155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685018,34.232957,-88.685018,34.232957",
+    "geom:latitude":34.232957,
+    "geom:longitude":-88.685018,
+    "iso:country":"US",
+    "sg:address":"1626 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 690 8270",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zwFyVqAzv7fmrWQ8oYt7K_34.232957_-88.685018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122072,
+    "wof:geomhash":"d896c3deb5ecd9e27a8ecbfea633cd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857107155
+        }
+    ],
+    "wof:id":857107155,
+    "wof:lastmodified":1464122072,
+    "wof:name":"Blind Tiger Creek",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.685018,
+    34.232957,
+    -88.685018,
+    34.232957
+],
+  "geometry": {"coordinates":[-88.685018,34.232957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857283103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548619,30.372584,-88.548619,30.372584",
+    "geom:latitude":30.372584,
+    "geom:longitude":-88.548619,
+    "iso:country":"US",
+    "sg:address":"3800 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 202 8226",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photofinishing",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aqLF9b7nnOUSwi47ftj8d_30.372584_-88.548619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125983,
+    "wof:geomhash":"3fbac4a1ad046834798326049efcfafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857283103
+        }
+    ],
+    "wof:id":857283103,
+    "wof:lastmodified":1464125983,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photofinishing",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.548619,
+    30.372584,
+    -88.548619,
+    30.372584
+],
+  "geometry": {"coordinates":[-88.548619,30.372584],"type":"Point"}
+}

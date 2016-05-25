@@ -1,0 +1,71 @@
+{
+  "id": 857375371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827706,30.411511,-88.827706,30.411511",
+    "geom:latitude":30.411511,
+    "geom:longitude":-88.827706,
+    "iso:country":"US",
+    "sg:address":"522 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0441",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0CNVFye6uviYLEzPMDkV_30.411511_-88.827706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128016,
+    "wof:geomhash":"913ef197c0dd5f2bfc6bfb2d9ab42e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857375371
+        }
+    ],
+    "wof:id":857375371,
+    "wof:lastmodified":1464128016,
+    "wof:name":"Texaco Mohler's Svc Station",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.827706,
+    30.411511,
+    -88.827706,
+    30.411511
+],
+  "geometry": {"coordinates":[-88.82770600000001,30.411511],"type":"Point"}
+}

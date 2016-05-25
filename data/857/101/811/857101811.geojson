@@ -1,0 +1,71 @@
+{
+  "id": 857101811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683523,32.483968,-88.683523,32.483968",
+    "geom:latitude":32.483968,
+    "geom:longitude":-88.683523,
+    "iso:country":"US",
+    "sg:address":"8733 Hillview Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 6615",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PHbj9RibhZpQVWM6Hx5oY_32.483968_-88.683523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121958,
+    "wof:geomhash":"81c3ce73a25f828315d37222999870a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857101811
+        }
+    ],
+    "wof:id":857101811,
+    "wof:lastmodified":1464121958,
+    "wof:name":"Briarwood Baptist Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.683523,
+    32.483968,
+    -88.683523,
+    32.483968
+],
+  "geometry": {"coordinates":[-88.68352299999999,32.483968],"type":"Point"}
+}

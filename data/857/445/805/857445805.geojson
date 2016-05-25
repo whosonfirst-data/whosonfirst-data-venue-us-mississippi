@@ -1,0 +1,75 @@
+{
+  "id": 857445805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.884805,32.310974,-90.884805,32.310974",
+    "geom:latitude":32.310974,
+    "geom:longitude":-90.884805,
+    "iso:country":"US",
+    "sg:address":"3530 Pemberton Square Blvd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7662",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85851213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X8CvyRKw8NAs2S6Hk7BsG_32.310974_-90.884805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129679,
+    "wof:geomhash":"1e49588f5b63404a3208a6d6611dbbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85851213,
+            "region_id":85688579,
+            "venue_id":857445805
+        }
+    ],
+    "wof:id":857445805,
+    "wof:lastmodified":1464129679,
+    "wof:name":"T & S Tunnel Express",
+    "wof:parent_id":85851213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.884805,
+    32.310974,
+    -90.884805,
+    32.310974
+],
+  "geometry": {"coordinates":[-90.884805,32.310974],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857194809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.361695,31.143705,-89.361695,31.143705",
+    "geom:latitude":31.143705,
+    "geom:longitude":-89.361695,
+    "iso:country":"US",
+    "sg:address":"3 Hillcrest Ter",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 6862",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02TapqkxunOzgEGnHDZ8uP_31.143705_-89.361695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124077,
+    "wof:geomhash":"0d8206d256978cc0dacb39c47d42e79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857194809
+        }
+    ],
+    "wof:id":857194809,
+    "wof:lastmodified":1464124077,
+    "wof:name":"Eure Contracting Inc",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.361695,
+    31.143705,
+    -89.361695,
+    31.143705
+],
+  "geometry": {"coordinates":[-89.361695,31.143705],"type":"Point"}
+}

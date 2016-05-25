@@ -1,0 +1,75 @@
+{
+  "id": 857325781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.730365,32.395864,-90.730365,32.395864",
+    "geom:latitude":32.395864,
+    "geom:longitude":-90.730365,
+    "iso:country":"US",
+    "sg:address":"4944 Freetown Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 7117",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D33w2fJ74SlpXBqKrY0nO_32.395864_-90.730365@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126965,
+    "wof:geomhash":"31b09e72551ee4e9c5e8d88cbdc53611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857325781
+        }
+    ],
+    "wof:id":857325781,
+    "wof:lastmodified":1464126965,
+    "wof:name":"Greywolf Drilling",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -90.730365,
+    32.395864,
+    -90.730365,
+    32.395864
+],
+  "geometry": {"coordinates":[-90.73036500000001,32.395864],"type":"Point"}
+}

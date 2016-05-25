@@ -1,0 +1,71 @@
+{
+  "id": 857142327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.522115,34.367253,-89.522115,34.367253",
+    "geom:latitude":34.367253,
+    "geom:longitude":-89.522115,
+    "iso:country":"US",
+    "sg:address":"710 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1096",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNi7iXvFgUUlpH6ZdSllc_34.367253_-89.522115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122948,
+    "wof:geomhash":"6190bfa7310d2edba83a23630629fa46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857142327
+        }
+    ],
+    "wof:id":857142327,
+    "wof:lastmodified":1464122948,
+    "wof:name":"Ikon Office Solutions",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -89.522115,
+    34.367253,
+    -89.522115,
+    34.367253
+],
+  "geometry": {"coordinates":[-89.522115,34.367253],"type":"Point"}
+}

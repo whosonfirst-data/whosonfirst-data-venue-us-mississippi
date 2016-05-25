@@ -1,0 +1,73 @@
+{
+  "id": 857196773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.305454,31.324809,-89.305454,31.324809",
+    "geom:latitude":31.324809,
+    "geom:longitude":-89.305454,
+    "iso:country":"US",
+    "sg:address":"905 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 5457",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SZUN7fh494eUulv29ob2y_31.324809_-89.305454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124114,
+    "wof:geomhash":"3d18343e270c328222b84bc151b8c8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857196773
+        }
+    ],
+    "wof:id":857196773,
+    "wof:lastmodified":1464124114,
+    "wof:name":"Central Financial Service",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.305454,
+    31.324809,
+    -89.305454,
+    31.324809
+],
+  "geometry": {"coordinates":[-89.305454,31.324809],"type":"Point"}
+}

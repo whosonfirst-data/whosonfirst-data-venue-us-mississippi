@@ -1,0 +1,71 @@
+{
+  "id": 857226219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.370376,31.380784,-89.370376,31.380784",
+    "geom:latitude":31.380784,
+    "geom:longitude":-89.370376,
+    "iso:country":"US",
+    "sg:address":"21 Rawls Springs Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 2499",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzwtTPH32zKlc0hYfmt0r_31.380784_-89.370376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124733,
+    "wof:geomhash":"0f4fe0f84e8a49743fe90bf3d0dcbe57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857226219
+        }
+    ],
+    "wof:id":857226219,
+    "wof:lastmodified":1464124733,
+    "wof:name":"Cubbyhole Mini Storage",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.370376,
+    31.380784,
+    -89.370376,
+    31.380784
+],
+  "geometry": {"coordinates":[-89.37037599999999,31.380784],"type":"Point"}
+}

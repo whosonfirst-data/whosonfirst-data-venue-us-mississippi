@@ -1,0 +1,72 @@
+{
+  "id": 857485101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528102,30.377619,-88.528102,30.377619",
+    "geom:latitude":30.377619,
+    "geom:longitude":-88.528102,
+    "iso:country":"US",
+    "sg:address":"3223 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/157886-la-fiesta-brava/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 9576",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mediterranean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wa1nyNtHB8XqLe5EZt0A0_30.377619_-88.528102@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130469,
+    "wof:geomhash":"2803276504af3354e2a60b1f74283e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857485101
+        }
+    ],
+    "wof:id":857485101,
+    "wof:lastmodified":1464130469,
+    "wof:name":"La Fiesta Brava",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -88.528102,
+    30.377619,
+    -88.528102,
+    30.377619
+],
+  "geometry": {"coordinates":[-88.528102,30.377619],"type":"Point"}
+}

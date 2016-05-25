@@ -1,0 +1,71 @@
+{
+  "id": 857151977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.287602,33.469567,-88.287602,33.469567",
+    "geom:latitude":33.469567,
+    "geom:longitude":-88.287602,
+    "iso:country":"US",
+    "sg:address":"536 Old McCrary Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 574 0960",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q470ezuZ5JcWNSroX89OV_33.469567_-88.287602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123186,
+    "wof:geomhash":"7b0e4a7775fdcd7d68c0a2fbc42568da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857151977
+        }
+    ],
+    "wof:id":857151977,
+    "wof:lastmodified":1464123186,
+    "wof:name":"Dent Masters",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.287602,
+    33.469567,
+    -88.287602,
+    33.469567
+],
+  "geometry": {"coordinates":[-88.28760200000001,33.469567],"type":"Point"}
+}

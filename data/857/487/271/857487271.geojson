@@ -1,0 +1,71 @@
+{
+  "id": 857487271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.587961,34.203961,-90.587961,34.203961",
+    "geom:latitude":34.203961,
+    "geom:longitude":-90.587961,
+    "iso:country":"US",
+    "sg:address":"528 Lynn Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 902 6774",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ChELti98dWVutRNS1IV55_34.203961_-90.587961@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130511,
+    "wof:geomhash":"dde8aca24d6eb21501a1dde1d4c12eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487271
+        }
+    ],
+    "wof:id":857487271,
+    "wof:lastmodified":1464130511,
+    "wof:name":"Clarksdale Police Dept",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.587961,
+    34.203961,
+    -90.587961,
+    34.203961
+],
+  "geometry": {"coordinates":[-90.58796100000001,34.203961],"type":"Point"}
+}

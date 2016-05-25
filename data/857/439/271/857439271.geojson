@@ -1,0 +1,71 @@
+{
+  "id": 857439271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659132,33.605426,-88.659132,33.605426",
+    "geom:latitude":33.605426,
+    "geom:longitude":-88.659132,
+    "iso:country":"US",
+    "sg:address":"215 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 1731",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Hh4jE3C0GrEClM4oN3qD_33.605426_-88.659132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129555,
+    "wof:geomhash":"4b6d339380a2c8e8b36b511b081948a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857439271
+        }
+    ],
+    "wof:id":857439271,
+    "wof:lastmodified":1464129555,
+    "wof:name":"National Bank of Commerce",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -88.659132,
+    33.605426,
+    -88.659132,
+    33.605426
+],
+  "geometry": {"coordinates":[-88.659132,33.605426],"type":"Point"}
+}

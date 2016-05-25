@@ -1,0 +1,73 @@
+{
+  "id": 857300845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428987,33.525934,-88.428987,33.525934",
+    "geom:latitude":33.525934,
+    "geom:longitude":-88.428987,
+    "iso:country":"US",
+    "sg:address":"2600 5th St N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8410",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17YX5MlU0YdqI6dHxFdLoQ_33.525934_-88.428987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126430,
+    "wof:geomhash":"9aaf4bac04ba909eb8aa0a4453e88efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857300845
+        }
+    ],
+    "wof:id":857300845,
+    "wof:lastmodified":1464126430,
+    "wof:name":"Columbus Childrens Clinic",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -88.428987,
+    33.525934,
+    -88.428987,
+    33.525934
+],
+  "geometry": {"coordinates":[-88.42898700000001,33.525934],"type":"Point"}
+}

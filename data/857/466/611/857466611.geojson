@@ -1,0 +1,75 @@
+{
+  "id": 857466611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.543681,33.831876,-88.543681,33.831876",
+    "geom:latitude":33.831876,
+    "geom:longitude":-88.543681,
+    "iso:country":"US",
+    "sg:address":"700 N Meridian St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4722",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04P9BwANWkee7mFLw3Qi3Q_33.831876_-88.543681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130100,
+    "wof:geomhash":"d5255d9bc0d9a4668f7813736cd5371a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857466611
+        }
+    ],
+    "wof:id":857466611,
+    "wof:lastmodified":1464130100,
+    "wof:name":"Monroe County Jail",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.543681,
+    33.831876,
+    -88.543681,
+    33.831876
+],
+  "geometry": {"coordinates":[-88.54368100000001,33.831876],"type":"Point"}
+}

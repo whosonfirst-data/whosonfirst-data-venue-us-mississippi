@@ -1,0 +1,75 @@
+{
+  "id": 857459587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.990285,34.531877,-88.990285,34.531877",
+    "geom:latitude":34.531877,
+    "geom:longitude":-88.990285,
+    "iso:country":"US",
+    "sg:address":"808 State Hwy 15 N",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 0532",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UWOsY0knfcPh8bVYmVkFY_34.531877_-88.990285@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129942,
+    "wof:geomhash":"78439149c191ef7cb7ecb44818760f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857459587
+        }
+    ],
+    "wof:id":857459587,
+    "wof:lastmodified":1464129942,
+    "wof:name":"Steel-Con Inc",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.990285,
+    34.531877,
+    -88.990285,
+    34.531877
+],
+  "geometry": {"coordinates":[-88.990285,34.531877],"type":"Point"}
+}

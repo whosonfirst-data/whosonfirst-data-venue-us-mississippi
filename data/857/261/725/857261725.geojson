@@ -1,0 +1,71 @@
+{
+  "id": 857261725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746307,34.229478,-88.746307,34.229478",
+    "geom:latitude":34.229478,
+    "geom:longitude":-88.746307,
+    "iso:country":"US",
+    "sg:address":"2096 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 0210",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UClS6vDcBJrJ3yijQDsUN_34.229478_-88.746307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125530,
+    "wof:geomhash":"587ac42d4be59349e614c00317aaa6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857261725
+        }
+    ],
+    "wof:id":857261725,
+    "wof:lastmodified":1464125530,
+    "wof:name":"Tupelo Small Animal Hospital",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.746307,
+    34.229478,
+    -88.746307,
+    34.229478
+],
+  "geometry": {"coordinates":[-88.746307,34.229478],"type":"Point"}
+}

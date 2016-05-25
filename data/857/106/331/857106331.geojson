@@ -1,0 +1,75 @@
+{
+  "id": 857106331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772759,34.246893,-88.772759,34.246893",
+    "geom:latitude":34.246893,
+    "geom:longitude":-88.772759,
+    "iso:country":"US",
+    "sg:address":"4875 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 4053",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z1wbQFx5hWku1gFMWPMVa_34.246893_-88.772759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122056,
+    "wof:geomhash":"ec27fb2469db1ae4ae257870c3764490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857106331
+        }
+    ],
+    "wof:id":857106331,
+    "wof:lastmodified":1464122056,
+    "wof:name":"Timmons Electric Company",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.772759,
+    34.246893,
+    -88.772759,
+    34.246893
+],
+  "geometry": {"coordinates":[-88.77275899999999,34.246893],"type":"Point"}
+}

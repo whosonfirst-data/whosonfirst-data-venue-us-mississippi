@@ -1,0 +1,74 @@
+{
+  "id": 857354005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719256,34.23304,-88.719256,34.23304",
+    "geom:latitude":34.23304,
+    "geom:longitude":-88.719256,
+    "iso:country":"US",
+    "sg:address":"1085 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5671",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.oreillyauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zQsdoTeYQwVuvqiStvaDc_34.233040_-88.719256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127574,
+    "wof:geomhash":"1bf6312cb99e0377e772d75a1d5b240d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857354005
+        }
+    ],
+    "wof:id":857354005,
+    "wof:lastmodified":1464127574,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -88.719256,
+    34.23304,
+    -88.719256,
+    34.23304
+],
+  "geometry": {"coordinates":[-88.719256,34.23304],"type":"Point"}
+}

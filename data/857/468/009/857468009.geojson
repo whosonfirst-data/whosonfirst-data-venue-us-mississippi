@@ -1,0 +1,75 @@
+{
+  "id": 857468009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55688,33.441495,-88.55688,33.441495",
+    "geom:latitude":33.441495,
+    "geom:longitude":-88.55688,
+    "iso:country":"US",
+    "sg:address":"1311 Industrial Park Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 6660",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c0I33lLjrbsM0T5i2Vz09_33.441495_-88.556880@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130124,
+    "wof:geomhash":"cbd4c8d6afdc24be815662a2215c6e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857468009
+        }
+    ],
+    "wof:id":857468009,
+    "wof:lastmodified":1464130124,
+    "wof:name":"Golden Triangle Waste Services",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ]
+},
+  "bbox": [
+    -88.55688,
+    33.441495,
+    -88.55688,
+    33.441495
+],
+  "geometry": {"coordinates":[-88.55688000000001,33.441495],"type":"Point"}
+}

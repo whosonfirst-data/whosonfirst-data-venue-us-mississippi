@@ -1,0 +1,67 @@
+{
+  "id": 857413999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.573051,32.325879,-88.573051,32.325879",
+    "geom:latitude":32.325879,
+    "geom:longitude":-88.573051,
+    "iso:country":"US",
+    "sg:address":"2362 Long Creek Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 5501",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:website":"www.ihigh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZvRpWHzswDyayCkoRkGmo_32.325879_-88.573051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128944,
+    "wof:geomhash":"07f4e2f95b9ec334be5f4a3457c36594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857413999
+        }
+    ],
+    "wof:id":857413999,
+    "wof:lastmodified":1464128944,
+    "wof:name":"Southeast High School",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.573051,
+    32.325879,
+    -88.573051,
+    32.325879
+],
+  "geometry": {"coordinates":[-88.57305100000001,32.325879],"type":"Point"}
+}

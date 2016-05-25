@@ -1,0 +1,73 @@
+{
+  "id": 857210311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.681721,32.375531,-88.681721,32.375531",
+    "geom:latitude":32.375531,
+    "geom:longitude":-88.681721,
+    "iso:country":"US",
+    "sg:address":"1701 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 7530",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yNqqPB7rsMiYnt3vpCLl2_32.375531_-88.681721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124395,
+    "wof:geomhash":"1b41ae62045e8a8d4a4616bb55c427c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857210311
+        }
+    ],
+    "wof:id":857210311,
+    "wof:lastmodified":1464124395,
+    "wof:name":"Williams Auto Sales",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.681721,
+    32.375531,
+    -88.681721,
+    32.375531
+],
+  "geometry": {"coordinates":[-88.681721,32.375531],"type":"Point"}
+}

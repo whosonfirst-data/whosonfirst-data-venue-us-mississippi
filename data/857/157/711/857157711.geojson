@@ -1,0 +1,73 @@
+{
+  "id": 857157711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.824226,33.459558,-88.824226,33.459558",
+    "geom:latitude":33.459558,
+    "geom:longitude":-88.824226,
+    "iso:country":"US",
+    "sg:address":"300 Ward Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1665",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85857241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z5mCVGiQnutiocVwKv9Kv_33.459558_-88.824226@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123297,
+    "wof:geomhash":"a596f968bb79d65423c7b44cafd27b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85857241,
+            "region_id":85688579,
+            "venue_id":857157711
+        }
+    ],
+    "wof:id":857157711,
+    "wof:lastmodified":1464123297,
+    "wof:name":"M D Engineering",
+    "wof:parent_id":85857241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.824226,
+    33.459558,
+    -88.824226,
+    33.459558
+],
+  "geometry": {"coordinates":[-88.824226,33.459558],"type":"Point"}
+}

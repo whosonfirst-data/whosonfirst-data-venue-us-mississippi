@@ -1,0 +1,73 @@
+{
+  "id": 857172607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.354285,33.624013,-88.354285,33.624013",
+    "geom:latitude":33.624013,
+    "geom:longitude":-88.354285,
+    "iso:country":"US",
+    "sg:address":"860 Anderson Grove Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 4411",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2irlDuh31TsbqSgIiZDy2y_33.624013_-88.354285@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123643,
+    "wof:geomhash":"26694b84530430b47629f331cb259f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857172607
+        }
+    ],
+    "wof:id":857172607,
+    "wof:lastmodified":1464123643,
+    "wof:name":"Fellowship Food Center",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -88.354285,
+    33.624013,
+    -88.354285,
+    33.624013
+],
+  "geometry": {"coordinates":[-88.354285,33.624013],"type":"Point"}
+}

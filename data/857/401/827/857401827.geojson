@@ -1,0 +1,68 @@
+{
+  "id": 857401827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.825109,34.962143,-89.825109,34.962143",
+    "geom:latitude":34.962143,
+    "geom:longitude":-89.825109,
+    "iso:country":"US",
+    "sg:address":"9203 Old Hwy 78",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 8711",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DIfzirzNgUvpOLNESo5DB_34.962143_-89.825109@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128664,
+    "wof:geomhash":"b36b3de57a73ef8680257e35b375e300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857401827
+        }
+    ],
+    "wof:id":857401827,
+    "wof:lastmodified":1464128664,
+    "wof:name":"House of Fink Interiors",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.825109,
+    34.962143,
+    -89.825109,
+    34.962143
+],
+  "geometry": {"coordinates":[-89.825109,34.962143],"type":"Point"}
+}

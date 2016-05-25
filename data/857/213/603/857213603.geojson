@@ -1,0 +1,71 @@
+{
+  "id": 857213603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700337,34.153385,-88.700337,34.153385",
+    "geom:latitude":34.153385,
+    "geom:longitude":-88.700337,
+    "iso:country":"US",
+    "sg:address":"172 Co Rd 713",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 9770",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m8gWOeRvnnFIVhSSWdZd1_34.153385_-88.700337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124475,
+    "wof:geomhash":"faab11e1d9d25a48edce202b56cb782b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857213603
+        }
+    ],
+    "wof:id":857213603,
+    "wof:lastmodified":1464124475,
+    "wof:name":"Jennifer's Hair Design",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.700337,
+    34.153385,
+    -88.700337,
+    34.153385
+],
+  "geometry": {"coordinates":[-88.700337,34.153385],"type":"Point"}
+}

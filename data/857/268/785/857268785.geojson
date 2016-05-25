@@ -1,0 +1,74 @@
+{
+  "id": 857268785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.365282,31.286952,-89.365282,31.286952",
+    "geom:latitude":31.286952,
+    "geom:longitude":-89.365282,
+    "iso:country":"US",
+    "sg:address":"89 Sunny Meadows Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 7620",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85820027,
+        102083775,
+        85969939,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28wGEfiAk3t7J98uOsPDYX_31.286952_-89.365282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125662,
+    "wof:geomhash":"41e51a435ce786d39d2df7cf95c6423f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85820027,
+            "region_id":85688579,
+            "venue_id":857268785
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857268785
+        }
+    ],
+    "wof:id":857268785,
+    "wof:lastmodified":1464125662,
+    "wof:name":"Bobs Gun Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.365282,
+    31.286952,
+    -89.365282,
+    31.286952
+],
+  "geometry": {"coordinates":[-89.36528199999999,31.286952],"type":"Point"}
+}

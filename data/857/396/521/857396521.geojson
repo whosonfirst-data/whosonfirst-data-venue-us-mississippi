@@ -1,0 +1,75 @@
+{
+  "id": 857396521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.323887,31.317687,-89.323887,31.317687",
+    "geom:latitude":31.317687,
+    "geom:longitude":-89.323887,
+    "iso:country":"US",
+    "sg:address":"416 S 22nd Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1129",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NR8fRxtwodywBrtqSRyoU_31.317687_-89.323887@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128559,
+    "wof:geomhash":"1eb0c2d2bd9b639c41a43584f459a196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857396521
+        }
+    ],
+    "wof:id":857396521,
+    "wof:lastmodified":1464128559,
+    "wof:name":"Pure Park Properties LLC",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.323887,
+    31.317687,
+    -89.323887,
+    31.317687
+],
+  "geometry": {"coordinates":[-89.323887,31.317687],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857139151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.743214,32.344333,-88.743214,32.344333",
+    "geom:latitude":32.344333,
+    "geom:longitude":-88.743214,
+    "iso:country":"US",
+    "sg:address":"6200 M St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 5111",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jRvPia8hZPZ5V7nib2x1J_32.344333_-88.743214@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122872,
+    "wof:geomhash":"d0b444db60b941b38b2c22bd1c9f83b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857139151
+        }
+    ],
+    "wof:id":857139151,
+    "wof:lastmodified":1464122872,
+    "wof:name":"Roadway Express Inc",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -88.743214,
+    32.344333,
+    -88.743214,
+    32.344333
+],
+  "geometry": {"coordinates":[-88.74321399999999,32.344333],"type":"Point"}
+}

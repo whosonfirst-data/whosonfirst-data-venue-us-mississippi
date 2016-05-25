@@ -1,0 +1,73 @@
+{
+  "id": 857091811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510858,34.362863,-89.510858,34.362863",
+    "geom:latitude":34.362863,
+    "geom:longitude":-89.510858,
+    "iso:country":"US",
+    "sg:address":"1801 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1811",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26uFCE4IlTLg0f7mMBY9U5_34.362863_-89.510858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121728,
+    "wof:geomhash":"e42ec84761a623deb3354647f6f29e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857091811
+        }
+    ],
+    "wof:id":857091811,
+    "wof:lastmodified":1464121728,
+    "wof:name":"Oxford National Guard",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -89.510858,
+    34.362863,
+    -89.510858,
+    34.362863
+],
+  "geometry": {"coordinates":[-89.510858,34.362863],"type":"Point"}
+}

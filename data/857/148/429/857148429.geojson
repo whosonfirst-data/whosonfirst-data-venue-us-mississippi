@@ -1,0 +1,71 @@
+{
+  "id": 857148429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.171206,32.224711,-90.171206,32.224711",
+    "geom:latitude":32.224711,
+    "geom:longitude":-90.171206,
+    "iso:country":"US",
+    "sg:address":"212 Shady Ln",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 664 1440",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lslkz8vhfOG9bCEN3uTcv_32.224711_-90.171206@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123110,
+    "wof:geomhash":"76512350a09088c89aa21844e9c4c3d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857148429
+        }
+    ],
+    "wof:id":857148429,
+    "wof:lastmodified":1464123110,
+    "wof:name":"Moak Trucking Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.171206,
+    32.224711,
+    -90.171206,
+    32.224711
+],
+  "geometry": {"coordinates":[-90.171206,32.224711],"type":"Point"}
+}

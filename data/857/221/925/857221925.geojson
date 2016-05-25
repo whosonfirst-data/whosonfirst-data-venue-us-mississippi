@@ -1,0 +1,71 @@
+{
+  "id": 857221925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648773,33.606901,-88.648773,33.606901",
+    "geom:latitude":33.606901,
+    "geom:longitude":-88.648773,
+    "iso:country":"US",
+    "sg:address":"115 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4332",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SVE1mgjkRc6stU94JzxlX_33.606901_-88.648773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124654,
+    "wof:geomhash":"7ca630a09721c5bb694d071f2643d1b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857221925
+        }
+    ],
+    "wof:id":857221925,
+    "wof:lastmodified":1464124654,
+    "wof:name":"West Point Jewelry",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -88.648773,
+    33.606901,
+    -88.648773,
+    33.606901
+],
+  "geometry": {"coordinates":[-88.64877300000001,33.606901],"type":"Point"}
+}

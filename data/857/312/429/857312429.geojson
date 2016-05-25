@@ -1,0 +1,69 @@
+{
+  "id": 857312429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.50895,34.382347,-89.50895,34.382347",
+    "geom:latitude":34.382347,
+    "geom:longitude":-89.50895,
+    "iso:country":"US",
+    "sg:address":"39 Stewart St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0244",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uaN9i5PIkR4PMSEhWVCax_34.382347_-89.508950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126670,
+    "wof:geomhash":"c780d7b62f2997b3117d9950c2333e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857312429
+        }
+    ],
+    "wof:id":857312429,
+    "wof:lastmodified":1464126670,
+    "wof:name":"Post Oak Apartments",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.50895,
+    34.382347,
+    -89.50895,
+    34.382347
+],
+  "geometry": {"coordinates":[-89.50895,34.382347],"type":"Point"}
+}

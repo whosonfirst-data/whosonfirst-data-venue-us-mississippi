@@ -1,0 +1,71 @@
+{
+  "id": 857246641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.555965,30.369465,-88.555965,30.369465",
+    "geom:latitude":30.369465,
+    "geom:longitude":-88.555965,
+    "iso:country":"US",
+    "sg:address":"3507 Pine St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1705",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PxTUK0XDV4n96viIK37ob_30.369465_-88.555965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125170,
+    "wof:geomhash":"3766ec195039a63189ba6a0206028fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857246641
+        }
+    ],
+    "wof:id":857246641,
+    "wof:lastmodified":1464125170,
+    "wof:name":"St John's Episcopal Church",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.555965,
+    30.369465,
+    -88.555965,
+    30.369465
+],
+  "geometry": {"coordinates":[-88.555965,30.369465],"type":"Point"}
+}

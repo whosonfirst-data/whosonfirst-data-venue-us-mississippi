@@ -1,0 +1,69 @@
+{
+  "id": 857388761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.024862,34.500056,-89.024862,34.500056",
+    "geom:latitude":34.500056,
+    "geom:longitude":-89.024862,
+    "iso:country":"US",
+    "sg:address":"103 State Hwy 30 W",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 8171",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:website":"www.bankofnewalbany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uqpU31C8fKAjmWBQf4w5X_34.500056_-89.024862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128402,
+    "wof:geomhash":"9b2e01be24ca80beb01abcb32fcdead2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857388761
+        }
+    ],
+    "wof:id":857388761,
+    "wof:lastmodified":1464128402,
+    "wof:name":"Bank Of New Albany",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.024862,
+    34.500056,
+    -89.024862,
+    34.500056
+],
+  "geometry": {"coordinates":[-89.024862,34.500056],"type":"Point"}
+}

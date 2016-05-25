@@ -1,0 +1,73 @@
+{
+  "id": 857371481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645983,30.390815,-88.645983,30.390815",
+    "geom:latitude":30.390815,
+    "geom:longitude":-88.645983,
+    "iso:country":"US",
+    "sg:address":"2201 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 5844",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OUBmTgys5OSDTITCo6Sy6_30.390815_-88.645983@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127934,
+    "wof:geomhash":"e862b8a9fb88561d3b025a362b98708f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857371481
+        }
+    ],
+    "wof:id":857371481,
+    "wof:lastmodified":1464127934,
+    "wof:name":"Home Care Supply",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.645983,
+    30.390815,
+    -88.645983,
+    30.390815
+],
+  "geometry": {"coordinates":[-88.645983,30.390815],"type":"Point"}
+}

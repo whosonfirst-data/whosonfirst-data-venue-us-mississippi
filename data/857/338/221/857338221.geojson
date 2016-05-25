@@ -1,0 +1,73 @@
+{
+  "id": 857338221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.85465,34.949145,-89.85465,34.949145",
+    "geom:latitude":34.949145,
+    "geom:longitude":-89.85465,
+    "iso:country":"US",
+    "sg:address":"6162 McNeil Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 7340",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24hHgvxPQMRVpTR3D5WhIu_34.949145_-89.854650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127237,
+    "wof:geomhash":"69c8c9ac7d05650a4fc08c9b43ece497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857338221
+        }
+    ],
+    "wof:id":857338221,
+    "wof:lastmodified":1464127237,
+    "wof:name":"Universal Telecom",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -89.85465,
+    34.949145,
+    -89.85465,
+    34.949145
+],
+  "geometry": {"coordinates":[-89.85465000000001,34.949145],"type":"Point"}
+}

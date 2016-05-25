@@ -1,0 +1,71 @@
+{
+  "id": 857177083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708352,32.408603,-88.708352,32.408603",
+    "geom:latitude":32.408603,
+    "geom:longitude":-88.708352,
+    "iso:country":"US",
+    "sg:address":"2938 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 2009",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wZF4p5mDyYLtUGuotyZ24_32.408603_-88.708352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123734,
+    "wof:geomhash":"565a4f4d5b6efab918461ffdf04d9763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857177083
+        }
+    ],
+    "wof:id":857177083,
+    "wof:lastmodified":1464123734,
+    "wof:name":"T & T Nail Salon",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.708352,
+    32.408603,
+    -88.708352,
+    32.408603
+],
+  "geometry": {"coordinates":[-88.708352,32.408603],"type":"Point"}
+}

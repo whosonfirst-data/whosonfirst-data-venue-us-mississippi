@@ -1,0 +1,71 @@
+{
+  "id": 857207203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.86291,30.445964,-88.86291,30.445964",
+    "geom:latitude":30.445964,
+    "geom:longitude":-88.86291,
+    "iso:country":"US",
+    "sg:address":"7305 McCann Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 9559",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2erm9zTRoKTOwpUpL7Oart_30.445964_-88.862910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124335,
+    "wof:geomhash":"4eddf59efc340afe73d10f8d080d1de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857207203
+        }
+    ],
+    "wof:id":857207203,
+    "wof:lastmodified":1464124335,
+    "wof:name":"Wright's Tree Svc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -88.86291,
+    30.445964,
+    -88.86291,
+    30.445964
+],
+  "geometry": {"coordinates":[-88.86291,30.445964],"type":"Point"}
+}

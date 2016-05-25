@@ -1,0 +1,74 @@
+{
+  "id": 857485421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.842485,33.446792,-88.842485,33.446792",
+    "geom:latitude":33.446792,
+    "geom:longitude":-88.842485,
+    "iso:country":"US",
+    "sg:address":"829 Highway 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/starkville/153711-zaxbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 320 9003",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59vGW6arj3jvF0NLFPCQCY_33.446792_-88.842485@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130475,
+    "wof:geomhash":"fbf4a97d2d92c1168ce51c4270c9605b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857485421
+        }
+    ],
+    "wof:id":857485421,
+    "wof:lastmodified":1464130475,
+    "wof:name":"Zaxby's",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -88.842485,
+    33.446792,
+    -88.842485,
+    33.446792
+],
+  "geometry": {"coordinates":[-88.842485,33.446792],"type":"Point"}
+}

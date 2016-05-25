@@ -1,0 +1,76 @@
+{
+  "id": 857207379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.101385,30.36309,-89.101385,30.36309",
+    "geom:latitude":30.36309,
+    "geom:longitude":-89.101385,
+    "iso:country":"US",
+    "sg:address":"3206 W Beach Blvd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 2229",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "eating"
+    ],
+    "sg:website":"www.vrazel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yyHW4Gz9TlaHNYNiCOE3p_30.363090_-89.101385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124339,
+    "wof:geomhash":"12bc4aa744b34460654cd01c291d272e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857207379
+        }
+    ],
+    "wof:id":857207379,
+    "wof:lastmodified":1464124339,
+    "wof:name":"Vrazel's Fine Food Restaurant",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.101385,
+    30.36309,
+    -89.101385,
+    30.36309
+],
+  "geometry": {"coordinates":[-89.10138499999999,30.36309],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857115829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.718614,34.223339,-88.718614,34.223339",
+    "geom:latitude":34.223339,
+    "geom:longitude":-88.718614,
+    "iso:country":"US",
+    "sg:address":"761 Westmoreland Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 7763",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R3651GgneMVay7bAvt1Za_34.223339_-88.718614@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122337,
+    "wof:geomhash":"f4926495654ff770d0c08a67fe7cb564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857115829
+        }
+    ],
+    "wof:id":857115829,
+    "wof:lastmodified":1464122337,
+    "wof:name":"Westmoreland Auto Body Shop",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.718614,
+    34.223339,
+    -88.718614,
+    34.223339
+],
+  "geometry": {"coordinates":[-88.718614,34.223339],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857472469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.333339,33.49264,-88.333339,33.49264",
+    "geom:latitude":33.49264,
+    "geom:longitude":-88.333339,
+    "iso:country":"US",
+    "sg:address":"5716 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 2438",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_654PifJrKu4eX1DCQQKHJ9_33.492640_-88.333339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130227,
+    "wof:geomhash":"562112ad48bbd628b3fcaccb3298d2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857472469
+        }
+    ],
+    "wof:id":857472469,
+    "wof:lastmodified":1464130227,
+    "wof:name":"West Brothers Construction Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.333339,
+    33.49264,
+    -88.333339,
+    33.49264
+],
+  "geometry": {"coordinates":[-88.333339,33.49264],"type":"Point"}
+}

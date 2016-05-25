@@ -1,0 +1,71 @@
+{
+  "id": 857226273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648241,33.605677,-88.648241,33.605677",
+    "geom:latitude":33.605677,
+    "geom:longitude":-88.648241,
+    "iso:country":"US",
+    "sg:address":"221 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 6470",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2NAT3xYuOuc9WzLp3wH5_33.605677_-88.648241@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124734,
+    "wof:geomhash":"f290ce9b6d750d21d506b2b0775438e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857226273
+        }
+    ],
+    "wof:id":857226273,
+    "wof:lastmodified":1464124734,
+    "wof:name":"HCE",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.648241,
+    33.605677,
+    -88.648241,
+    33.605677
+],
+  "geometry": {"coordinates":[-88.648241,33.605677],"type":"Point"}
+}

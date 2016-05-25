@@ -1,0 +1,75 @@
+{
+  "id": 857440565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.105092,30.373368,-89.105092,30.373368",
+    "geom:latitude":30.373368,
+    "geom:longitude":-89.105092,
+    "iso:country":"US",
+    "sg:address":"3521 19th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 0624",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cWuG0G9Gdu7r6lq94uNkS_30.373368_-89.105092@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129579,
+    "wof:geomhash":"42d48ca4c40b6c84f96500208abccb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857440565
+        }
+    ],
+    "wof:id":857440565,
+    "wof:lastmodified":1464129579,
+    "wof:name":"St Therese Catholic Church",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [
+    -89.105092,
+    30.373368,
+    -89.105092,
+    30.373368
+],
+  "geometry": {"coordinates":[-89.105092,30.373368],"type":"Point"}
+}

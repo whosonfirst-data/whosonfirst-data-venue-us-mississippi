@@ -1,0 +1,69 @@
+{
+  "id": 857150329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854881,32.262782,-90.854881,32.262782",
+    "geom:latitude":32.262782,
+    "geom:longitude":-90.854881,
+    "iso:country":"US",
+    "sg:address":"102 Wedgewood Cir",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 3603",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vlIueoEjR7x1XMAZkQqv5_32.262782_-90.854881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123154,
+    "wof:geomhash":"ec8d8521a6b1e1b22fab31c9177897d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857150329
+        }
+    ],
+    "wof:id":857150329,
+    "wof:lastmodified":1464123154,
+    "wof:name":"Karl Abbott",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -90.854881,
+    32.262782,
+    -90.854881,
+    32.262782
+],
+  "geometry": {"coordinates":[-90.85488100000001,32.262782],"type":"Point"}
+}

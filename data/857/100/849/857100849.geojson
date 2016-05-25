@@ -1,0 +1,73 @@
+{
+  "id": 857100849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.21806,32.295797,-90.21806,32.295797",
+    "geom:latitude":32.295797,
+    "geom:longitude":-90.21806,
+    "iso:country":"US",
+    "sg:address":"1208 Wiggins St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 4721",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JiSOmRdxr1ViKb2DTssk3_32.295797_-90.218060@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121936,
+    "wof:geomhash":"cae594aa63dd70b219872693a8bc8aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857100849
+        }
+    ],
+    "wof:id":857100849,
+    "wof:lastmodified":1464121936,
+    "wof:name":"Community Welfare & Health Ctr",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.21806,
+    32.295797,
+    -90.21806,
+    32.295797
+],
+  "geometry": {"coordinates":[-90.21805999999999,32.295797],"type":"Point"}
+}

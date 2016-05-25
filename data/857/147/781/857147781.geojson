@@ -1,0 +1,73 @@
+{
+  "id": 857147781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.673712,32.466473,-88.673712,32.466473",
+    "geom:latitude":32.466473,
+    "geom:longitude":-88.673712,
+    "iso:country":"US",
+    "sg:address":"8221 Hwy 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 6131",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3To3FvqArwYx1cWd1KkK80_32.466473_-88.673712@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123094,
+    "wof:geomhash":"409958b8bb4b1890ae4fb246abb384ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857147781
+        }
+    ],
+    "wof:id":857147781,
+    "wof:lastmodified":1464123094,
+    "wof:name":"Briarwood Hills APT Office",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.673712,
+    32.466473,
+    -88.673712,
+    32.466473
+],
+  "geometry": {"coordinates":[-88.67371199999999,32.466473],"type":"Point"}
+}

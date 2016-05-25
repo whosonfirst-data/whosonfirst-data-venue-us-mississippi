@@ -1,0 +1,71 @@
+{
+  "id": 857454529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.337102,33.53056,-88.337102,33.53056",
+    "geom:latitude":33.53056,
+    "geom:longitude":-88.337102,
+    "iso:country":"US",
+    "sg:address":"74 N Harrison Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 9595",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fDDYudVaNXXPdl32D15b5_33.530560_-88.337102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129847,
+    "wof:geomhash":"7f3d4d641c4f1a75ddee00b21f9676a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857454529
+        }
+    ],
+    "wof:id":857454529,
+    "wof:lastmodified":1464129847,
+    "wof:name":"Precision Frame & Body Shop",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.337102,
+    33.53056,
+    -88.337102,
+    33.53056
+],
+  "geometry": {"coordinates":[-88.337102,33.53056],"type":"Point"}
+}

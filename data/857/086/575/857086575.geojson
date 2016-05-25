@@ -1,0 +1,72 @@
+{
+  "id": 857086575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.352321,31.362668,-89.352321,31.362668",
+    "geom:latitude":31.362668,
+    "geom:longitude":-89.352321,
+    "iso:country":"US",
+    "sg:address":"6839 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2412",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.hsxp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_376deMlZ7jrt0ZtuL74qKM_31.362668_-89.352321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121573,
+    "wof:geomhash":"25c4e7ce75ac43e4b6067e1b3815d311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857086575
+        }
+    ],
+    "wof:id":857086575,
+    "wof:lastmodified":1464121573,
+    "wof:name":"Hot Shot Express Inc",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -89.352321,
+    31.362668,
+    -89.352321,
+    31.362668
+],
+  "geometry": {"coordinates":[-89.352321,31.362668],"type":"Point"}
+}

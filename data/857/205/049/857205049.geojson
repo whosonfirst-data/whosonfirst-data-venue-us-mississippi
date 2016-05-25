@@ -1,0 +1,71 @@
+{
+  "id": 857205049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.826308,34.942865,-89.826308,34.942865",
+    "geom:latitude":34.942865,
+    "geom:longitude":-89.826308,
+    "iso:country":"US",
+    "sg:address":"9113 US Hwy 78",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3050",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOq9IEODxQhV7gAb8yxaZ_34.942865_-89.826308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124295,
+    "wof:geomhash":"82ca1cb87a5f9b9eaf102ab26cf8520c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857205049
+        }
+    ],
+    "wof:id":857205049,
+    "wof:lastmodified":1464124295,
+    "wof:name":"Olive Branch Printing",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -89.826308,
+    34.942865,
+    -89.826308,
+    34.942865
+],
+  "geometry": {"coordinates":[-89.826308,34.942865],"type":"Point"}
+}

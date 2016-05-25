@@ -1,0 +1,66 @@
+{
+  "id": 857425591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.603795,34.202396,-90.603795,34.202396",
+    "geom:latitude":34.202396,
+    "geom:longitude":-90.603795,
+    "iso:country":"US",
+    "sg:address":"1208 Miller Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3709",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hLngTCpPVEeL30vI2EYgi_34.202396_-90.603795@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129242,
+    "wof:geomhash":"53b19fc3b5df7a909a039a958301c30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857425591
+        }
+    ],
+    "wof:id":857425591,
+    "wof:lastmodified":1464129242,
+    "wof:name":"Toney's Package Store",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.603795,
+    34.202396,
+    -90.603795,
+    34.202396
+],
+  "geometry": {"coordinates":[-90.60379500000001,34.202396],"type":"Point"}
+}

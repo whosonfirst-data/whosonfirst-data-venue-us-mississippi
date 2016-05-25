@@ -1,0 +1,75 @@
+{
+  "id": 857310491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.007506,34.4676,-89.007506,34.4676",
+    "geom:latitude":34.4676,
+    "geom:longitude":-89.007506,
+    "iso:country":"US",
+    "sg:address":"505 State Hwy 15 S",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 9010",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nLXH8Dr9YL91yoUmFJsyi_34.467600_-89.007506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126631,
+    "wof:geomhash":"764184201f381e8b38b16a54675cc6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857310491
+        }
+    ],
+    "wof:id":857310491,
+    "wof:lastmodified":1464126631,
+    "wof:name":"Amoco Food Mart",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.007506,
+    34.4676,
+    -89.007506,
+    34.4676
+],
+  "geometry": {"coordinates":[-89.00750600000001,34.4676],"type":"Point"}
+}

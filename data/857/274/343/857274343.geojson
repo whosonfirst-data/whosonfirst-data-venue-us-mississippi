@@ -1,0 +1,71 @@
+{
+  "id": 857274343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.137087,32.188363,-90.137087,32.188363",
+    "geom:latitude":32.188363,
+    "geom:longitude":-90.137087,
+    "iso:country":"US",
+    "sg:address":"108 Peggy Dr",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 624 9940",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rr7kqlV6ibVXynQys1U2m_32.188363_-90.137087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125777,
+    "wof:geomhash":"f9d101eb575e2870e21b2842df75163e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857274343
+        }
+    ],
+    "wof:id":857274343,
+    "wof:lastmodified":1464125777,
+    "wof:name":"A Touch Of Class Painting Svc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.137087,
+    32.188363,
+    -90.137087,
+    32.188363
+],
+  "geometry": {"coordinates":[-90.13708699999999,32.188363],"type":"Point"}
+}

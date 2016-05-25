@@ -1,0 +1,66 @@
+{
+  "id": 857465161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527876,30.368396,-88.527876,30.368396",
+    "geom:latitude":30.368396,
+    "geom:longitude":-88.527876,
+    "iso:country":"US",
+    "sg:address":"3508 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 7555",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HUDcR3lbDqe4VKVzWnxK1_30.368396_-88.527876@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130070,
+    "wof:geomhash":"3dd0fe2c54b3f7872b467adfd80568b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857465161
+        }
+    ],
+    "wof:id":857465161,
+    "wof:lastmodified":1464130070,
+    "wof:name":"Gas N Go Food Mart",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.527876,
+    30.368396,
+    -88.527876,
+    30.368396
+],
+  "geometry": {"coordinates":[-88.52787600000001,30.368396],"type":"Point"}
+}

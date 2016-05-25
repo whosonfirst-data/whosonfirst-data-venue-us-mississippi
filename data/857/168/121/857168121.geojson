@@ -1,0 +1,67 @@
+{
+  "id": 857168121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.832677,30.416085,-88.832677,30.416085",
+    "geom:latitude":30.416085,
+    "geom:longitude":-88.832677,
+    "iso:country":"US",
+    "sg:address":"705 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 4600",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:website":"www.mcelroysonthebayou.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hrjm9r3cJKkWWTnvUw7ky_30.416085_-88.832677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123534,
+    "wof:geomhash":"0fc86d636bff60ecef0de0678a3237bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857168121
+        }
+    ],
+    "wof:id":857168121,
+    "wof:lastmodified":1464123534,
+    "wof:name":"Mc Elroy's On The Bayou",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.832677,
+    30.416085,
+    -88.832677,
+    30.416085
+],
+  "geometry": {"coordinates":[-88.832677,30.416085],"type":"Point"}
+}

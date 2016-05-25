@@ -1,0 +1,71 @@
+{
+  "id": 857455163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.819469,30.43207,-88.819469,30.43207",
+    "geom:latitude":30.43207,
+    "geom:longitude":-88.819469,
+    "iso:country":"US",
+    "sg:address":"12613 Cambridge Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 3726",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NDgBWjhZufv6YfgAUBhHm_30.432070_-88.819469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129858,
+    "wof:geomhash":"45c59eea8387c9139cd598f4477abd7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857455163
+        }
+    ],
+    "wof:id":857455163,
+    "wof:lastmodified":1464129858,
+    "wof:name":"Coast Wide Security",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -88.819469,
+    30.43207,
+    -88.819469,
+    30.43207
+],
+  "geometry": {"coordinates":[-88.819469,30.43207],"type":"Point"}
+}

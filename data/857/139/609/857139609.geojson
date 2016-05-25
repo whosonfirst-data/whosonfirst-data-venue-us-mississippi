@@ -1,0 +1,75 @@
+{
+  "id": 857139609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.808066,33.478667,-88.808066,33.478667",
+    "geom:latitude":33.478667,
+    "geom:longitude":-88.808066,
+    "iso:country":"US",
+    "sg:address":"107 Tabor St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1420",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carrier",
+        "surety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hy19es4tcej9gVwTw2HwB_33.478667_-88.808066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122884,
+    "wof:geomhash":"3a12671df09fef316607a3dd8c402f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857139609
+        }
+    ],
+    "wof:id":857139609,
+    "wof:lastmodified":1464122884,
+    "wof:name":"Benefits Plus",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "surety"
+    ]
+},
+  "bbox": [
+    -88.808066,
+    33.478667,
+    -88.808066,
+    33.478667
+],
+  "geometry": {"coordinates":[-88.808066,33.478667],"type":"Point"}
+}

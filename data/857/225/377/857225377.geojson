@@ -1,0 +1,71 @@
+{
+  "id": 857225377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416042,32.843839,-90.416042,32.843839",
+    "geom:latitude":32.843839,
+    "geom:longitude":-90.416042,
+    "iso:country":"US",
+    "sg:address":"207 S Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5024",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rG2biwjLSC36HWpkogAMI_32.843839_-90.416042@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124719,
+    "wof:geomhash":"209d28415d3386a1160493c41aa0d9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857225377
+        }
+    ],
+    "wof:id":857225377,
+    "wof:lastmodified":1464124719,
+    "wof:name":"Anderson's Jewelry",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -90.416042,
+    32.843839,
+    -90.416042,
+    32.843839
+],
+  "geometry": {"coordinates":[-90.416042,32.843839],"type":"Point"}
+}

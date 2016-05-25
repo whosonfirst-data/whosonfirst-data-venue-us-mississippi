@@ -1,0 +1,71 @@
+{
+  "id": 857327289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.809064,30.405378,-88.809064,30.405378",
+    "geom:latitude":30.405378,
+    "geom:longitude":-88.809064,
+    "iso:country":"US",
+    "sg:address":"287 Mc Cool St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 4487",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_164V8bsxjZI3H5lULCpiAp_30.405378_-88.809064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126996,
+    "wof:geomhash":"fe1bf37dd859062ecfcb4381388d8de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857327289
+        }
+    ],
+    "wof:id":857327289,
+    "wof:lastmodified":1464126996,
+    "wof:name":"A C-Man Heating & AC Sls",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.809064,
+    30.405378,
+    -88.809064,
+    30.405378
+],
+  "geometry": {"coordinates":[-88.80906400000001,30.405378],"type":"Point"}
+}

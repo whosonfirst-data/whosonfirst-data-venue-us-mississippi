@@ -1,0 +1,66 @@
+{
+  "id": 857211161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.535175,30.388904,-88.535175,30.388904",
+    "geom:latitude":30.388904,
+    "geom:longitude":-88.535175,
+    "iso:country":"US",
+    "sg:address":"5700 Telephone Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1594",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UEhHSu9HcA74lLJkd4wf2_30.388904_-88.535175@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124418,
+    "wof:geomhash":"bb2ca826d515e46a8f508887fbfcbc58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857211161
+        }
+    ],
+    "wof:id":857211161,
+    "wof:lastmodified":1464124418,
+    "wof:name":"Food World 155",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.535175,
+    30.388904,
+    -88.535175,
+    30.388904
+],
+  "geometry": {"coordinates":[-88.535175,30.388904],"type":"Point"}
+}

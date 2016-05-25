@@ -1,0 +1,73 @@
+{
+  "id": 857150225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.62794,30.449428,-88.62794,30.449428",
+    "geom:latitude":30.449428,
+    "geom:longitude":-88.62794,
+    "iso:country":"US",
+    "sg:address":"7426 Riverview Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 9751",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "communications",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AySz36FN7XvZFSclCUbSk_30.449428_-88.627940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123152,
+    "wof:geomhash":"986d03383a18d4ca574e25b7eb0df74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857150225
+        }
+    ],
+    "wof:id":857150225,
+    "wof:lastmodified":1464123152,
+    "wof:name":"Telecommunications Design",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -88.62794,
+    30.449428,
+    -88.62794,
+    30.449428
+],
+  "geometry": {"coordinates":[-88.62794,30.449428],"type":"Point"}
+}

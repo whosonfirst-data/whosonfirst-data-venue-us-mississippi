@@ -1,0 +1,68 @@
+{
+  "id": 857440371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.44225,31.579308,-90.44225,31.579308",
+    "geom:latitude":31.579308,
+    "geom:longitude":-90.44225,
+    "iso:country":"US",
+    "sg:address":"117 S Railroad Ave",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 833 1859",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09n5fBMyaX7N9DxYJkVDa7_31.579308_-90.442250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129576,
+    "wof:geomhash":"f508013c14213b2c2421ebd91959c472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857440371
+        }
+    ],
+    "wof:id":857440371,
+    "wof:lastmodified":1464129576,
+    "wof:name":"Hobbs Realty",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.44225,
+    31.579308,
+    -90.44225,
+    31.579308
+],
+  "geometry": {"coordinates":[-90.44225,31.579308],"type":"Point"}
+}

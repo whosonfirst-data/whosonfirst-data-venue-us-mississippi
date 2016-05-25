@@ -1,0 +1,82 @@
+{
+  "id": 857158993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.397738,32.842299,-90.397738,32.842299",
+    "geom:latitude":32.842299,
+    "geom:longitude":-90.397738,
+    "iso:country":"US",
+    "sg:address":"1300 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1402",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "snack",
+        "confection",
+        "nut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h0yeQlfBHnRJkSpkJ5VJK_32.842299_-90.397738@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123326,
+    "wof:geomhash":"00993c02e57892fcffae8f3770815a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857158993
+        }
+    ],
+    "wof:id":857158993,
+    "wof:lastmodified":1464123326,
+    "wof:name":"Simpson Distributing Company",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "snack",
+        "confection",
+        "nut"
+    ]
+},
+  "bbox": [
+    -90.397738,
+    32.842299,
+    -90.397738,
+    32.842299
+],
+  "geometry": {"coordinates":[-90.397738,32.842299],"type":"Point"}
+}

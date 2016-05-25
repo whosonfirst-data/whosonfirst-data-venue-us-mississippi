@@ -1,0 +1,71 @@
+{
+  "id": 857309687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.247269,30.31539,-89.247269,30.31539",
+    "geom:latitude":30.31539,
+    "geom:longitude":-89.247269,
+    "iso:country":"US",
+    "sg:address":"129 Market St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 5995",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TONSKwTJM5OxzAugcdFtW_30.315390_-89.247269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126612,
+    "wof:geomhash":"1843e161930b5cc976cc1f6a09c0a9f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857309687
+        }
+    ],
+    "wof:id":857309687,
+    "wof:lastmodified":1464126612,
+    "wof:name":"Kimball's Unloading Dock",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -89.247269,
+    30.31539,
+    -89.247269,
+    30.31539
+],
+  "geometry": {"coordinates":[-89.247269,30.31539],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857453713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.983401,31.959795,-90.983401,31.959795",
+    "geom:latitude":31.959795,
+    "geom:longitude":-90.983401,
+    "iso:country":"US",
+    "sg:address":"710 Farmer St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 4261",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GGM9vFLHgolO5mNGhOmDH_31.959795_-90.983401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129832,
+    "wof:geomhash":"e8aa6a346bb8d4d3057fe6f735109db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857453713
+        }
+    ],
+    "wof:id":857453713,
+    "wof:lastmodified":1464129832,
+    "wof:name":"Glenwood Funeral Homes Inc",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -90.983401,
+    31.959795,
+    -90.983401,
+    31.959795
+],
+  "geometry": {"coordinates":[-90.983401,31.959795],"type":"Point"}
+}

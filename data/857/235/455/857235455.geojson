@@ -1,0 +1,75 @@
+{
+  "id": 857235455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557328,34.218937,-90.557328,34.218937",
+    "geom:latitude":34.218937,
+    "geom:longitude":-90.557328,
+    "iso:country":"US",
+    "sg:address":"415 Lee Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7891",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMUrc5KGkUYbSawJJsXgE_34.218937_-90.557328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124911,
+    "wof:geomhash":"d37aca5f63fc6dce4279d384d7722d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857235455
+        }
+    ],
+    "wof:id":857235455,
+    "wof:lastmodified":1464124911,
+    "wof:name":"Lee Academy",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -90.557328,
+    34.218937,
+    -90.557328,
+    34.218937
+],
+  "geometry": {"coordinates":[-90.557328,34.218937],"type":"Point"}
+}

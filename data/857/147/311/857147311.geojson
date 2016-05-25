@@ -1,0 +1,71 @@
+{
+  "id": 857147311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.727761,32.498585,-88.727761,32.498585",
+    "geom:latitude":32.498585,
+    "geom:longitude":-88.727761,
+    "iso:country":"US",
+    "sg:address":"9118 Gum Logging Rd",
+    "sg:city":"Bailey",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 737 4340",
+    "sg:postcode":"39320",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31TPeCRKTUz3x8eM8LWzbo_32.498585_-88.727761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123084,
+    "wof:geomhash":"11e63cf20098ec57e9a1f8c353644085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857147311
+        }
+    ],
+    "wof:id":857147311,
+    "wof:lastmodified":1464123084,
+    "wof:name":"Gumlog Primitive Bapt Church",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.727761,
+    32.498585,
+    -88.727761,
+    32.498585
+],
+  "geometry": {"coordinates":[-88.727761,32.498585],"type":"Point"}
+}

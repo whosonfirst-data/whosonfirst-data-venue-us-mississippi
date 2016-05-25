@@ -1,0 +1,79 @@
+{
+  "id": 857189153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684991,34.236184,-88.684991,34.236184",
+    "geom:latitude":34.236184,
+    "geom:longitude":-88.684991,
+    "iso:country":"US",
+    "sg:address":"1376 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 1799",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "installs",
+        "automobile",
+        "muffler",
+        "system",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nmWDnGoWw9BR03fU6HRaA_34.236184_-88.684991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123972,
+    "wof:geomhash":"ee3ab112f7fac26dd29ff7b140a275ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857189153
+        }
+    ],
+    "wof:id":857189153,
+    "wof:lastmodified":1464123972,
+    "wof:name":"Muffler Master Inc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "automobile",
+        "muffler",
+        "system",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -88.684991,
+    34.236184,
+    -88.684991,
+    34.236184
+],
+  "geometry": {"coordinates":[-88.684991,34.236184],"type":"Point"}
+}

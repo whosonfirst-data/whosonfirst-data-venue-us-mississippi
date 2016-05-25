@@ -1,0 +1,71 @@
+{
+  "id": 857445749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.579419,31.375451,-89.579419,31.375451",
+    "geom:latitude":31.375451,
+    "geom:longitude":-89.579419,
+    "iso:country":"US",
+    "sg:address":"3504 Rocky Branch Rd",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 4040",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w62IkBFoExlLJx8Me82ax_31.375451_-89.579419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129678,
+    "wof:geomhash":"61894f1c3bc82045bd85a709f3de2adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857445749
+        }
+    ],
+    "wof:id":857445749,
+    "wof:lastmodified":1464129678,
+    "wof:name":"V P's Animal Clinic",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.579419,
+    31.375451,
+    -89.579419,
+    31.375451
+],
+  "geometry": {"coordinates":[-89.579419,31.375451],"type":"Point"}
+}

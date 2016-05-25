@@ -1,0 +1,75 @@
+{
+  "id": 857234929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.106339,30.366979,-89.106339,30.366979",
+    "geom:latitude":30.366979,
+    "geom:longitude":-89.106339,
+    "iso:country":"US",
+    "sg:address":"1220 37th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 5644",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a7gQ30CfJ6yvZQChC7ti1_30.366979_-89.106339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124901,
+    "wof:geomhash":"fc3af939083c73d91b577c9b82b2e7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857234929
+        }
+    ],
+    "wof:id":857234929,
+    "wof:lastmodified":1464124901,
+    "wof:name":"Anchor Linen Supply",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.106339,
+    30.366979,
+    -89.106339,
+    30.366979
+],
+  "geometry": {"coordinates":[-89.10633900000001,30.366979],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857152195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.179731,31.340036,-89.179731,31.340036",
+    "geom:latitude":31.340036,
+    "geom:longitude":-89.179731,
+    "iso:country":"US",
+    "sg:address":"995 Sunrise Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 6041",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPqEDLJn3C36tYXG1mAgR_31.340036_-89.179731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123190,
+    "wof:geomhash":"bd496607e6cf83bc5c62fbfebf9b9622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857152195
+        }
+    ],
+    "wof:id":857152195,
+    "wof:lastmodified":1464123190,
+    "wof:name":"Burks BP",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.179731,
+    31.340036,
+    -89.179731,
+    31.340036
+],
+  "geometry": {"coordinates":[-89.179731,31.340036],"type":"Point"}
+}

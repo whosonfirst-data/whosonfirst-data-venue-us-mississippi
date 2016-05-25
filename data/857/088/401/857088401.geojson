@@ -1,0 +1,76 @@
+{
+  "id": 857088401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.836322,33.442021,-88.836322,33.442021",
+    "geom:latitude":33.442021,
+    "geom:longitude":-88.836322,
+    "iso:country":"US",
+    "sg:address":"313 Industrial Park Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 3688",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.dom.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85858519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NH9Db6sBDASyDjCH0ujDs_33.442021_-88.836322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121624,
+    "wof:geomhash":"a0439aa4a2d37113b3fa4d4e1ea74698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85858519,
+            "region_id":85688579,
+            "venue_id":857088401
+        }
+    ],
+    "wof:id":857088401,
+    "wof:lastmodified":1464121624,
+    "wof:name":"Medicaid Division",
+    "wof:parent_id":85858519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -88.836322,
+    33.442021,
+    -88.836322,
+    33.442021
+],
+  "geometry": {"coordinates":[-88.836322,33.442021],"type":"Point"}
+}

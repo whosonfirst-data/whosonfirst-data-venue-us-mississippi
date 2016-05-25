@@ -1,0 +1,66 @@
+{
+  "id": 857333977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.745139,34.224336,-88.745139,34.224336",
+    "geom:latitude":34.224336,
+    "geom:longitude":-88.745139,
+    "iso:country":"US",
+    "sg:address":"1078 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8613",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zjKG2HBPc6w7Ifvsf7MVh_34.224336_-88.745139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127147,
+    "wof:geomhash":"e20044267001c9dee4f0ab904d1e5d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857333977
+        }
+    ],
+    "wof:id":857333977,
+    "wof:lastmodified":1464127147,
+    "wof:name":"Flowers Bakery Thrift Store",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.745139,
+    34.224336,
+    -88.745139,
+    34.224336
+],
+  "geometry": {"coordinates":[-88.74513899999999,34.224336],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857214119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.435986,33.497482,-88.435986,33.497482",
+    "geom:latitude":33.497482,
+    "geom:longitude":-88.435986,
+    "iso:country":"US",
+    "sg:address":"325 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 7702",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23dgQNToclNvL21lEIJbl1_33.497482_-88.435986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124491,
+    "wof:geomhash":"24f2e2055b837c1dcc49a79ae0e80b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857214119
+        }
+    ],
+    "wof:id":857214119,
+    "wof:lastmodified":1464124491,
+    "wof:name":"Frank's Grocery & Deli",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.435986,
+    33.497482,
+    -88.435986,
+    33.497482
+],
+  "geometry": {"coordinates":[-88.435986,33.497482],"type":"Point"}
+}

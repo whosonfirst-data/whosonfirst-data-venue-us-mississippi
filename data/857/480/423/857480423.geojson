@@ -1,0 +1,74 @@
+{
+  "id": 857480423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.85924,34.962171,-89.85924,34.962171",
+    "geom:latitude":34.962171,
+    "geom:longitude":-89.85924,
+    "iso:country":"US",
+    "sg:address":"7545 Goodman Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/91956-back-yard-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 2221",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hkYg4fCr3qBTTmco04GDg_34.962171_-89.859240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130377,
+    "wof:geomhash":"605c2ca2624d8cb3647aaf41af34bdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857480423
+        }
+    ],
+    "wof:id":857480423,
+    "wof:lastmodified":1464130377,
+    "wof:name":"Back Yard Burgers",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.85924,
+    34.962171,
+    -89.85924,
+    34.962171
+],
+  "geometry": {"coordinates":[-89.85924,34.962171],"type":"Point"}
+}

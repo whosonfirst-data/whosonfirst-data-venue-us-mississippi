@@ -1,0 +1,73 @@
+{
+  "id": 857110001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574769,34.201485,-90.574769,34.201485",
+    "geom:latitude":34.201485,
+    "geom:longitude":-90.574769,
+    "iso:country":"US",
+    "sg:address":"257 Delta Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 4460",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "infant",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_182R7ANwGK0uj9fPapusPl_34.201485_-90.574769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122166,
+    "wof:geomhash":"a8ea68fb64f21867a5ac8aa6233846ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857110001
+        }
+    ],
+    "wof:id":857110001,
+    "wof:lastmodified":1464122166,
+    "wof:name":"Best Friends",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infant",
+        "wear"
+    ]
+},
+  "bbox": [
+    -90.574769,
+    34.201485,
+    -90.574769,
+    34.201485
+],
+  "geometry": {"coordinates":[-90.574769,34.201485],"type":"Point"}
+}

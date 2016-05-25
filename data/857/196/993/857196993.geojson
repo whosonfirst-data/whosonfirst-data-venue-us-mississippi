@@ -1,0 +1,75 @@
+{
+  "id": 857196993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540604,33.821301,-88.540604,33.821301",
+    "geom:latitude":33.821301,
+    "geom:longitude":-88.540604,
+    "iso:country":"US",
+    "sg:address":"401 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6977",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical",
+        "meta",
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PnUqz6HJuidtpqj2l7RQy_33.821301_-88.540604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124119,
+    "wof:geomhash":"ea7aae6dac72479d1f767f61d05eec20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857196993
+        }
+    ],
+    "wof:id":857196993,
+    "wof:lastmodified":1464124119,
+    "wof:name":"Arthur Brown MD",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "meta",
+        "machinery"
+    ]
+},
+  "bbox": [
+    -88.540604,
+    33.821301,
+    -88.540604,
+    33.821301
+],
+  "geometry": {"coordinates":[-88.540604,33.821301],"type":"Point"}
+}

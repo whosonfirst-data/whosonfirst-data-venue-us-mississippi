@@ -1,0 +1,77 @@
+{
+  "id": 857442045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.89061,30.395397,-88.89061,30.395397",
+    "geom:latitude":30.395397,
+    "geom:longitude":-88.89061,
+    "iso:country":"US",
+    "sg:address":"147 Reynoir St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 432 5200",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uTUkeEHU47yy21OH3OdOH_30.395397_-88.890610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129606,
+    "wof:geomhash":"e644cf46ddebf5c17906b52dac8f00d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857442045
+        }
+    ],
+    "wof:id":857442045,
+    "wof:lastmodified":1464129606,
+    "wof:name":"Endocrine Care & Education Ctr",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.89061,
+    30.395397,
+    -88.89061,
+    30.395397
+],
+  "geometry": {"coordinates":[-88.89061,30.395397],"type":"Point"}
+}

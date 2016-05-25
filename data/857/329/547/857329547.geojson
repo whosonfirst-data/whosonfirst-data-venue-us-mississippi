@@ -1,0 +1,72 @@
+{
+  "id": 857329547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.520798,34.364548,-89.520798,34.364548",
+    "geom:latitude":34.364548,
+    "geom:longitude":-89.520798,
+    "iso:country":"US",
+    "sg:address":"424 S 10th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5278",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.gmgb-umc.org/ouumc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vaQArirGh0J4owosNtYLb_34.364548_-89.520798@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127044,
+    "wof:geomhash":"af69b3fccf7cb791a5ee999610aea022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857329547
+        }
+    ],
+    "wof:id":857329547,
+    "wof:lastmodified":1464127044,
+    "wof:name":"Oxford-Univ United Meth Church",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.520798,
+    34.364548,
+    -89.520798,
+    34.364548
+],
+  "geometry": {"coordinates":[-89.520798,34.364548],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857380389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.327458,32.33857,-90.327458,32.33857",
+    "geom:latitude":32.33857,
+    "geom:longitude":-90.327458,
+    "iso:country":"US",
+    "sg:address":"102 Clinton Pkwy",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 7900",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yh0WF4M7C851ESOYUfvUw_32.338570_-90.327458@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128133,
+    "wof:geomhash":"e5983e831eb7398be835f3e20a7bc2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857380389
+        }
+    ],
+    "wof:id":857380389,
+    "wof:lastmodified":1464128133,
+    "wof:name":"Baptist Healthplex",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.327458,
+    32.33857,
+    -90.327458,
+    32.33857
+],
+  "geometry": {"coordinates":[-90.32745799999999,32.33857],"type":"Point"}
+}

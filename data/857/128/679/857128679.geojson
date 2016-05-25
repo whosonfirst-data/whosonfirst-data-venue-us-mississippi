@@ -1,0 +1,73 @@
+{
+  "id": 857128679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.457061,34.433666,-89.457061,34.433666",
+    "geom:latitude":34.433666,
+    "geom:longitude":-89.457061,
+    "iso:country":"US",
+    "sg:address":"105 Co Rd 208",
+    "sg:city":"Abbeville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 4285",
+    "sg:postcode":"38601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SGMY8DVgMGWnk1sLU2bsn_34.433666_-89.457061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122639,
+    "wof:geomhash":"c8221047402069fbc7a9bb53548e2df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857128679
+        }
+    ],
+    "wof:id":857128679,
+    "wof:lastmodified":1464122639,
+    "wof:name":"Anything Metal",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.457061,
+    34.433666,
+    -89.457061,
+    34.433666
+],
+  "geometry": {"coordinates":[-89.457061,34.433666],"type":"Point"}
+}

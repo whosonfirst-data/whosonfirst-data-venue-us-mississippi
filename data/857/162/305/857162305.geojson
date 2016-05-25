@@ -1,0 +1,75 @@
+{
+  "id": 857162305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.174456,32.333946,-90.174456,32.333946",
+    "geom:latitude":32.333946,
+    "geom:longitude":-90.174456,
+    "iso:country":"US",
+    "sg:address":"3120 Old Canton Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 9851",
+    "sg:postcode":"39216",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47O7PMsjXpvyZifMuiwR1g_32.333946_-90.174456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123410,
+    "wof:geomhash":"b33ab46ab763c9a6e19a3bff57a7e04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878395,
+            "region_id":85688579,
+            "venue_id":857162305
+        }
+    ],
+    "wof:id":857162305,
+    "wof:lastmodified":1464123410,
+    "wof:name":"Dermatopathology Associates",
+    "wof:parent_id":85878395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.174456,
+    32.333946,
+    -90.174456,
+    32.333946
+],
+  "geometry": {"coordinates":[-90.17445600000001,32.333946],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857485639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.557387,34.363735,-89.557387,34.363735",
+    "geom:latitude":34.363735,
+    "geom:longitude":-89.557387,
+    "iso:country":"US",
+    "sg:address":"1931 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/burgess/85049-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2308",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fqQqpoUUa2SK21O9soi8v_34.363831_-89.557258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130478,
+    "wof:geomhash":"b1e28520a4c53277df58c8c274be4c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857485639
+        }
+    ],
+    "wof:id":857485639,
+    "wof:lastmodified":1464130478,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.557387,
+    34.363735,
+    -89.557387,
+    34.363735
+],
+  "geometry": {"coordinates":[-89.55738700000001,34.363735],"type":"Point"}
+}

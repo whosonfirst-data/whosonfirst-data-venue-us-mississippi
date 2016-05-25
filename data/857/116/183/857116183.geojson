@@ -1,0 +1,71 @@
+{
+  "id": 857116183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.878086,30.515869,-88.878086,30.515869",
+    "geom:latitude":30.515869,
+    "geom:longitude":-88.878086,
+    "iso:country":"US",
+    "sg:address":"16200 Krohn Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 5773",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u2d7Jn6I9ZouYNz3bONBh_30.515869_-88.878086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122351,
+    "wof:geomhash":"10e2b3da0a510350a3de821e820e9f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857116183
+        }
+    ],
+    "wof:id":857116183,
+    "wof:lastmodified":1464122351,
+    "wof:name":"Pro-Tow Wrecker Svc Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -88.878086,
+    30.515869,
+    -88.878086,
+    30.515869
+],
+  "geometry": {"coordinates":[-88.878086,30.515869],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857435735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.565272,34.194529,-90.565272,34.194529",
+    "geom:latitude":34.194529,
+    "geom:longitude":-90.565272,
+    "iso:country":"US",
+    "sg:address":"505 N State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4297",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57L8THdtmFcluMfAxNHs6e_34.194529_-90.565272@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129482,
+    "wof:geomhash":"4fd67ee37275dd7826dea7f7c583b7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857435735
+        }
+    ],
+    "wof:id":857435735,
+    "wof:lastmodified":1464129482,
+    "wof:name":"Ivy Jones Plumbing",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.565272,
+    34.194529,
+    -90.565272,
+    34.194529
+],
+  "geometry": {"coordinates":[-90.56527199999999,34.194529],"type":"Point"}
+}

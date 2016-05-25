@@ -1,0 +1,72 @@
+{
+  "id": 857485759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.748886,34.254703,-88.748886,34.254703",
+    "geom:latitude":34.254703,
+    "geom:longitude":-88.748886,
+    "iso:country":"US",
+    "sg:address":"2606 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/157888-la-fiesta-brava/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 2491",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74I7rhDb9d5cFOCZgYcmHW_34.254760_-88.748826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130480,
+    "wof:geomhash":"8106f92f012e8f8e3c4678331770b295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857485759
+        }
+    ],
+    "wof:id":857485759,
+    "wof:lastmodified":1464130480,
+    "wof:name":"La Fiesta Brava",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.748886,
+    34.254703,
+    -88.748886,
+    34.254703
+],
+  "geometry": {"coordinates":[-88.748886,34.254703],"type":"Point"}
+}

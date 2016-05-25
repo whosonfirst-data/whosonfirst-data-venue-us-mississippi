@@ -1,0 +1,75 @@
+{
+  "id": 857393885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.875989,32.350408,-90.875989,32.350408",
+    "geom:latitude":32.350408,
+    "geom:longitude":-90.875989,
+    "iso:country":"US",
+    "sg:address":"1205 China St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 8838",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YH6ild8pIBCDxe2Y2j1HG_32.350408_-90.875989@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128499,
+    "wof:geomhash":"571d0949860e41d8bd1859ff5efd2991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857393885
+        }
+    ],
+    "wof:id":857393885,
+    "wof:lastmodified":1464128499,
+    "wof:name":"Fredella Village Apartments",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.875989,
+    32.350408,
+    -90.875989,
+    32.350408
+],
+  "geometry": {"coordinates":[-90.875989,32.350408],"type":"Point"}
+}

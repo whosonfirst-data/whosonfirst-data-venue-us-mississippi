@@ -1,0 +1,71 @@
+{
+  "id": 857335475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.96465,32.373446,-89.96465,32.373446",
+    "geom:latitude":32.373446,
+    "geom:longitude":-89.96465,
+    "iso:country":"US",
+    "sg:address":"2092 Hwy 471",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 829 0301",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yANTtr0Cuq6WFoFCAfzva_32.373446_-89.964650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127177,
+    "wof:geomhash":"e0b37ed2908515e310f2632cb7da4bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857335475
+        }
+    ],
+    "wof:id":857335475,
+    "wof:lastmodified":1464127177,
+    "wof:name":"Yates Construction Co",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.96465,
+    32.373446,
+    -89.96465,
+    32.373446
+],
+  "geometry": {"coordinates":[-89.96465000000001,32.373446],"type":"Point"}
+}

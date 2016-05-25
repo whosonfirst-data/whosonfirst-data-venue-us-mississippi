@@ -1,0 +1,72 @@
+{
+  "id": 857252389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.345353,33.492923,-88.345353,33.492923",
+    "geom:latitude":33.492923,
+    "geom:longitude":-88.345353,
+    "iso:country":"US",
+    "sg:address":"5030 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1130",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.lighthousebaptistchurchcolumbus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jAjcPfyCden3t0H5b9Jsg_33.492923_-88.345353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125303,
+    "wof:geomhash":"5cfdcc47f3f2d0d0a6b16cfa54f240cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857252389
+        }
+    ],
+    "wof:id":857252389,
+    "wof:lastmodified":1464125303,
+    "wof:name":"Lighthouse Baptist Church",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.345353,
+    33.492923,
+    -88.345353,
+    33.492923
+],
+  "geometry": {"coordinates":[-88.345353,33.492923],"type":"Point"}
+}

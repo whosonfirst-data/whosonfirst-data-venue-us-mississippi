@@ -1,0 +1,76 @@
+{
+  "id": 857483013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.069597,32.339707,-90.069597,32.339707",
+    "geom:latitude":32.339707,
+    "geom:longitude":-90.069597,
+    "iso:country":"US",
+    "sg:address":"203 Ridge Way",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/fannin/183210-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 919 2155",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85831643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OzhxwGoxwyykKk38BhrnS_32.339707_-90.069597@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130428,
+    "wof:geomhash":"7ff94b926a53a4dfe76b0c2f1d4eba94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85831643,
+            "region_id":85688579,
+            "venue_id":857483013
+        }
+    ],
+    "wof:id":857483013,
+    "wof:lastmodified":1464130428,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85831643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.069597,
+    32.339707,
+    -90.069597,
+    32.339707
+],
+  "geometry": {"coordinates":[-90.069597,32.339707],"type":"Point"}
+}

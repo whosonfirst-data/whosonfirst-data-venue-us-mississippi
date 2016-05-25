@@ -1,0 +1,73 @@
+{
+  "id": 857114299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.533132,34.354404,-89.533132,34.354404",
+    "geom:latitude":34.354404,
+    "geom:longitude":-89.533132,
+    "iso:country":"US",
+    "sg:address":"2100 Old Taylor Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2300",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wNHOiMJ8GaNVL6yFeCzAR_34.354404_-89.533132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122297,
+    "wof:geomhash":"2f8e11a91c248bcb52c9971b6134c822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857114299
+        }
+    ],
+    "wof:id":857114299,
+    "wof:lastmodified":1464122297,
+    "wof:name":"University Commons",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.533132,
+    34.354404,
+    -89.533132,
+    34.354404
+],
+  "geometry": {"coordinates":[-89.53313199999999,34.354404],"type":"Point"}
+}

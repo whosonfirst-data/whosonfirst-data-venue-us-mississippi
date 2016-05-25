@@ -1,0 +1,73 @@
+{
+  "id": 857377999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.132027,32.413101,-90.132027,32.413101",
+    "geom:latitude":32.413101,
+    "geom:longitude":-90.132027,
+    "iso:country":"US",
+    "sg:address":"518 S Wheatley St",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 6904",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fyepfRZu94x01PARdsPyx_32.413101_-90.132027@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128076,
+    "wof:geomhash":"67f522535cf89f86331e547e2e2c54b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857377999
+        }
+    ],
+    "wof:id":857377999,
+    "wof:lastmodified":1464128076,
+    "wof:name":"Nancys Cut & Curl",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.132027,
+    32.413101,
+    -90.132027,
+    32.413101
+],
+  "geometry": {"coordinates":[-90.13202699999999,32.413101],"type":"Point"}
+}

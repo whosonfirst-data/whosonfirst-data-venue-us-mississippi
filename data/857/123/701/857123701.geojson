@@ -1,0 +1,68 @@
+{
+  "id": 857123701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.983748,30.434846,-88.983748,30.434846",
+    "geom:latitude":30.434846,
+    "geom:longitude":-88.983748,
+    "iso:country":"US",
+    "sg:address":"2433 S Shore Dr",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 5105",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D6PEjmcwthqVbxMSF8CGB_30.434846_-88.983748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122543,
+    "wof:geomhash":"e31b76d7f8c081a4a912dd24f9d06e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857123701
+        }
+    ],
+    "wof:id":857123701,
+    "wof:lastmodified":1464122543,
+    "wof:name":"New York Life Insurance Co",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.983748,
+    30.434846,
+    -88.983748,
+    30.434846
+],
+  "geometry": {"coordinates":[-88.98374800000001,30.434846],"type":"Point"}
+}

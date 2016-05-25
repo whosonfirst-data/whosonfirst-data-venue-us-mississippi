@@ -1,0 +1,73 @@
+{
+  "id": 857347825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.200771,32.161479,-90.200771,32.161479",
+    "geom:latitude":32.161479,
+    "geom:longitude":-90.200771,
+    "iso:country":"US",
+    "sg:address":"123 Prentiss St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 7043",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AF9aSU5DAPO6xPfPUdx0X_32.161479_-90.200771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127437,
+    "wof:geomhash":"1fddc72ab2da596da3fb2562e1bf504d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857347825
+        }
+    ],
+    "wof:id":857347825,
+    "wof:lastmodified":1464127437,
+    "wof:name":"Calhoun Security Fence",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.200771,
+    32.161479,
+    -90.200771,
+    32.161479
+],
+  "geometry": {"coordinates":[-90.200771,32.161479],"type":"Point"}
+}

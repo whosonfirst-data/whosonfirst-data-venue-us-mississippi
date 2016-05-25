@@ -1,0 +1,71 @@
+{
+  "id": 857114309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.771448,32.382915,-90.771448,32.382915",
+    "geom:latitude":32.382915,
+    "geom:longitude":-90.771448,
+    "iso:country":"US",
+    "sg:address":"2255 Freetown Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 629 9843",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PC4W5fydIXDpZnNWkFSBI_32.382915_-90.771448@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122297,
+    "wof:geomhash":"c88d36e48f7b38843460d812e8f24442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857114309
+        }
+    ],
+    "wof:id":857114309,
+    "wof:lastmodified":1464122297,
+    "wof:name":"Kirks Paint Works",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.771448,
+    32.382915,
+    -90.771448,
+    32.382915
+],
+  "geometry": {"coordinates":[-90.77144800000001,32.382915],"type":"Point"}
+}

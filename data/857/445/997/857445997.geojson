@@ -1,0 +1,73 @@
+{
+  "id": 857445997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.633945,34.508441,-88.633945,34.508441",
+    "geom:latitude":34.508441,
+    "geom:longitude":-88.633945,
+    "iso:country":"US",
+    "sg:address":"114 E Water St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 0063",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BHU34CMoRPcKYCgRPpvVI_34.508441_-88.633945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129683,
+    "wof:geomhash":"d87310c58ec6dbfdb581ae8359fae1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857445997
+        }
+    ],
+    "wof:id":857445997,
+    "wof:lastmodified":1464129683,
+    "wof:name":"Polo's Cash & Carry",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -88.633945,
+    34.508441,
+    -88.633945,
+    34.508441
+],
+  "geometry": {"coordinates":[-88.633945,34.508441],"type":"Point"}
+}

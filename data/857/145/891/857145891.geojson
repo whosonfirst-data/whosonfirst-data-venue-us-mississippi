@@ -1,0 +1,73 @@
+{
+  "id": 857145891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.777722,30.41601,-88.777722,30.41601",
+    "geom:latitude":30.41601,
+    "geom:longitude":-88.777722,
+    "iso:country":"US",
+    "sg:address":"1228 King Henry Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 0505",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cI9WF6VGYcSf8WJ1IrbOq_30.416010_-88.777722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123058,
+    "wof:geomhash":"06d335c7105f0f180129bdba6c1cc35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857145891
+        }
+    ],
+    "wof:id":857145891,
+    "wof:lastmodified":1464123058,
+    "wof:name":"Troy Vicent Homes",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -88.777722,
+    30.41601,
+    -88.777722,
+    30.41601
+],
+  "geometry": {"coordinates":[-88.777722,30.41601],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857096601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.873683,32.354103,-90.873683,32.354103",
+    "geom:latitude":32.354103,
+    "geom:longitude":-90.873683,
+    "iso:country":"US",
+    "sg:address":"1318 First East St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 6754",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LR1nXgP7gq6TjVIQWcQ3Q_32.354103_-90.873683@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121825,
+    "wof:geomhash":"2fea9dd51971cbb84049b93233f813a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857096601
+        }
+    ],
+    "wof:id":857096601,
+    "wof:lastmodified":1464121825,
+    "wof:name":"Wesley United Methodist Church",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.873683,
+    32.354103,
+    -90.873683,
+    32.354103
+],
+  "geometry": {"coordinates":[-90.873683,32.354103],"type":"Point"}
+}

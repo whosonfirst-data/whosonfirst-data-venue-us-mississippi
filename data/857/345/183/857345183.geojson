@@ -1,0 +1,71 @@
+{
+  "id": 857345183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.642126,30.388132,-88.642126,30.388132",
+    "geom:latitude":30.388132,
+    "geom:longitude":-88.642126,
+    "iso:country":"US",
+    "sg:address":"3219 Stone Gate Cir",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 424 6065",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zx7IFFruwpT024nFkd1EB_30.388132_-88.642126@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127377,
+    "wof:geomhash":"d26f6fa0c059f6ff05fadac11cfaf9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857345183
+        }
+    ],
+    "wof:id":857345183,
+    "wof:lastmodified":1464127377,
+    "wof:name":"Clint Adam",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -88.642126,
+    30.388132,
+    -88.642126,
+    30.388132
+],
+  "geometry": {"coordinates":[-88.642126,30.388132],"type":"Point"}
+}

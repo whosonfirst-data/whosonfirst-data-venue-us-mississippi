@@ -1,0 +1,65 @@
+{
+  "id": 857481731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.044165,32.384162,-90.044165,32.384162",
+    "geom:latitude":32.384162,
+    "geom:longitude":-90.044165,
+    "iso:country":"US",
+    "sg:address":"115 Village Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/fannin/254802-little-willies-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 825 9595",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AwIV75tdQaWq2AAPbT6Zj_32.384162_-90.044165@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130401,
+    "wof:geomhash":"8dee8bc56027536d337e3ca9c9a9240d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857481731
+        }
+    ],
+    "wof:id":857481731,
+    "wof:lastmodified":1464130401,
+    "wof:name":"Little Willie's BBQ",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.044165,
+    32.384162,
+    -90.044165,
+    32.384162
+],
+  "geometry": {"coordinates":[-90.04416500000001,32.384162],"type":"Point"}
+}

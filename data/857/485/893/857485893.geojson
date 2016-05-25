@@ -1,0 +1,72 @@
+{
+  "id": 857485893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.863231,32.32709,-90.863231,32.32709",
+    "geom:latitude":32.32709,
+    "geom:longitude":-90.863231,
+    "iso:country":"US",
+    "sg:address":"2455 N Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/vicksburg/141762-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 631 0670",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_069XkujpnuxFLqIfC2KmmM_32.327575_-90.863046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130483,
+    "wof:geomhash":"904d5197ad525db3dd3eff4550afdc53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857485893
+        }
+    ],
+    "wof:id":857485893,
+    "wof:lastmodified":1464130483,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.863231,
+    32.32709,
+    -90.863231,
+    32.32709
+],
+  "geometry": {"coordinates":[-90.863231,32.32709],"type":"Point"}
+}

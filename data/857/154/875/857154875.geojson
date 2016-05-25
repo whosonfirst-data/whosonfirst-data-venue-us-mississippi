@@ -1,0 +1,73 @@
+{
+  "id": 857154875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123707,32.202978,-90.123707,32.202978",
+    "geom:latitude":32.202978,
+    "geom:longitude":-90.123707,
+    "iso:country":"US",
+    "sg:address":"849 Monterey Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 4008",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MnfS2FsJzF1B3d710uPsF_32.202978_-90.123707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123245,
+    "wof:geomhash":"193b7321d323c98d68ade6e9306ae206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857154875
+        }
+    ],
+    "wof:id":857154875,
+    "wof:lastmodified":1464123245,
+    "wof:name":"George's Furniture",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -90.123707,
+    32.202978,
+    -90.123707,
+    32.202978
+],
+  "geometry": {"coordinates":[-90.123707,32.202978],"type":"Point"}
+}

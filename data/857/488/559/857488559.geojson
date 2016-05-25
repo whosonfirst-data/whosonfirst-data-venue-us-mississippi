@@ -1,0 +1,81 @@
+{
+  "id": 857488559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.975564,34.962687,-89.975564,34.962687",
+    "geom:latitude":34.962687,
+    "geom:longitude":-89.975564,
+    "iso:country":"US",
+    "sg:address":"795 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 536 3334",
+    "sg:postcode":"38671",
+    "sg:province":"MS",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.brustersicecream.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969781,
+        102085895,
+        85842413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aUrImJ7v3eh819hH56hWF_34.962687_-89.975564@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130548,
+    "wof:geomhash":"0360641972466b4c86c30a11099b55bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969781,
+            "neighbourhood_id":85842413,
+            "region_id":85688579,
+            "venue_id":857488559
+        }
+    ],
+    "wof:id":857488559,
+    "wof:lastmodified":1464130548,
+    "wof:name":"Bruster's Real Ice Cream",
+    "wof:parent_id":85842413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -89.975564,
+    34.962687,
+    -89.975564,
+    34.962687
+],
+  "geometry": {"coordinates":[-89.97556400000001,34.962687],"type":"Point"}
+}

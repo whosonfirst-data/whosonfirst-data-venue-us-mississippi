@@ -1,0 +1,71 @@
+{
+  "id": 857342663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41462,32.841695,-90.41462,32.841695",
+    "geom:latitude":32.841695,
+    "geom:longitude":-90.41462,
+    "iso:country":"US",
+    "sg:address":"443 Ridge Rd",
+    "sg:city":"Newhebron",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 792 8370",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qvBD54LjssV3ma2gj3L5j_32.841695_-90.414620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127328,
+    "wof:geomhash":"7abada3adb625f150c7e0a7163c08346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857342663
+        }
+    ],
+    "wof:id":857342663,
+    "wof:lastmodified":1464127328,
+    "wof:name":"Judy's Beauty Shop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.41462,
+    32.841695,
+    -90.41462,
+    32.841695
+],
+  "geometry": {"coordinates":[-90.41462,32.841695],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857341439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.542555,30.366887,-88.542555,30.366887",
+    "geom:latitude":30.366887,
+    "geom:longitude":-88.542555,
+    "iso:country":"US",
+    "sg:address":"2202 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2320",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BGB2DsqjRHBsODrrxHFxU_30.366887_-88.542555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127305,
+    "wof:geomhash":"7724298c2220d3de484fa803e67e2acf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857341439
+        }
+    ],
+    "wof:id":857341439,
+    "wof:lastmodified":1464127305,
+    "wof:name":"James H Halbrook DDS",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.542555,
+    30.366887,
+    -88.542555,
+    30.366887
+],
+  "geometry": {"coordinates":[-88.54255499999999,30.366887],"type":"Point"}
+}

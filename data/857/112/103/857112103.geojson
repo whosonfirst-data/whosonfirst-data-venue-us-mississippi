@@ -1,0 +1,73 @@
+{
+  "id": 857112103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.310576,32.262524,-90.310576,32.262524",
+    "geom:latitude":32.262524,
+    "geom:longitude":-90.310576,
+    "iso:country":"US",
+    "sg:address":"115 Windward Ct",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 371 9900",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rn0xfGqleiYmIKZ98pTsg_32.262524_-90.310576@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122235,
+    "wof:geomhash":"8b9d1954f70f537c08479278b92670b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857112103
+        }
+    ],
+    "wof:id":857112103,
+    "wof:lastmodified":1464122235,
+    "wof:name":"Albritton Group",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -90.310576,
+    32.262524,
+    -90.310576,
+    32.262524
+],
+  "geometry": {"coordinates":[-90.310576,32.262524],"type":"Point"}
+}

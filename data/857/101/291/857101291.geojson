@@ -1,0 +1,71 @@
+{
+  "id": 857101291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684079,33.352682,-88.684079,33.352682",
+    "geom:latitude":33.352682,
+    "geom:longitude":-88.684079,
+    "iso:country":"US",
+    "sg:address":"2740 Crawford Rd",
+    "sg:city":"Crawford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 272 5292",
+    "sg:postcode":"39743",
+    "sg:province":"MS",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vLV2kyZ0eXjnHl1iIXgSd_33.352682_-88.684079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121946,
+    "wof:geomhash":"654571ba4d4483094395ebadefa971c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857101291
+        }
+    ],
+    "wof:id":857101291,
+    "wof:lastmodified":1464121946,
+    "wof:name":"Marine Corps League",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -88.684079,
+    33.352682,
+    -88.684079,
+    33.352682
+],
+  "geometry": {"coordinates":[-88.684079,33.352682],"type":"Point"}
+}

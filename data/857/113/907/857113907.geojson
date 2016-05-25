@@ -1,0 +1,71 @@
+{
+  "id": 857113907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415328,32.848907,-90.415328,32.848907",
+    "geom:latitude":32.848907,
+    "geom:longitude":-90.415328,
+    "iso:country":"US",
+    "sg:address":"113 N Water St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 0632",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A54a9HQknuDddKXTsJXmk_32.848907_-90.415328@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122281,
+    "wof:geomhash":"a47ebde3756ac66f43da8f027d962172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857113907
+        }
+    ],
+    "wof:id":857113907,
+    "wof:lastmodified":1464122281,
+    "wof:name":"G and R Wash",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -90.415328,
+    32.848907,
+    -90.415328,
+    32.848907
+],
+  "geometry": {"coordinates":[-90.415328,32.848907],"type":"Point"}
+}

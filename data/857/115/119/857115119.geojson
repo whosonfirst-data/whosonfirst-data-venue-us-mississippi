@@ -1,0 +1,71 @@
+{
+  "id": 857115119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639399,30.390124,-88.639399,30.390124",
+    "geom:latitude":30.390124,
+    "geom:longitude":-88.639399,
+    "iso:country":"US",
+    "sg:address":"1830 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 5388",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f8Uoe3GvTOQ5bpOsR3lt8_30.390124_-88.639399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122316,
+    "wof:geomhash":"770ce0206e3ace33ac4412b7cfed7b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857115119
+        }
+    ],
+    "wof:id":857115119,
+    "wof:lastmodified":1464122316,
+    "wof:name":"Singing River Animal Medical",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.639399,
+    30.390124,
+    -88.639399,
+    30.390124
+],
+  "geometry": {"coordinates":[-88.639399,30.390124],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857398063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.175791,31.258249,-89.175791,31.258249",
+    "geom:latitude":31.258249,
+    "geom:longitude":-89.175791,
+    "iso:country":"US",
+    "sg:address":"118 Myers Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 8338",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sj9if3Mrjxj5T8NR2gU8B_31.258249_-89.175791@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128589,
+    "wof:geomhash":"ef4519a05e391f07d30b211804e8c059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857398063
+        }
+    ],
+    "wof:id":857398063,
+    "wof:lastmodified":1464128589,
+    "wof:name":"Barrick Fence Company",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -89.175791,
+    31.258249,
+    -89.175791,
+    31.258249
+],
+  "geometry": {"coordinates":[-89.175791,31.258249],"type":"Point"}
+}

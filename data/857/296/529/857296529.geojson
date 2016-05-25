@@ -1,0 +1,71 @@
+{
+  "id": 857296529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.314647,33.698642,-88.314647,33.698642",
+    "geom:latitude":33.698642,
+    "geom:longitude":-88.314647,
+    "iso:country":"US",
+    "sg:address":"204 Flint Hill Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6877",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G8wKvLlu7z8Ugtr4E5eIt_33.698642_-88.314647@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126336,
+    "wof:geomhash":"c4af71df251720805996c2792ad85f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857296529
+        }
+    ],
+    "wof:id":857296529,
+    "wof:lastmodified":1464126336,
+    "wof:name":"Collins & Brock Masonry",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.314647,
+    33.698642,
+    -88.314647,
+    33.698642
+],
+  "geometry": {"coordinates":[-88.31464699999999,33.698642],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857456425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.296049,31.321925,-89.296049,31.321925",
+    "geom:latitude":31.321925,
+    "geom:longitude":-89.296049,
+    "iso:country":"US",
+    "sg:address":"615 W Pine St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2612",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqXkWtKH1P9h2N2q1TbV7_31.321925_-89.296049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129880,
+    "wof:geomhash":"a4a24803167dba2016cdade150fcf9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857456425
+        }
+    ],
+    "wof:id":857456425,
+    "wof:lastmodified":1464129880,
+    "wof:name":"M Ronald Doleac",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.296049,
+    31.321925,
+    -89.296049,
+    31.321925
+],
+  "geometry": {"coordinates":[-89.296049,31.321925],"type":"Point"}
+}

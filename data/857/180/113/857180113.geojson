@@ -1,0 +1,71 @@
+{
+  "id": 857180113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.29878,31.362109,-89.29878,31.362109",
+    "geom:latitude":31.362109,
+    "geom:longitude":-89.29878,
+    "iso:country":"US",
+    "sg:address":"52 Monroe Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 9555",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKV0nH7C5oXemxPn1EfES_31.362109_-89.298780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123798,
+    "wof:geomhash":"97b9f3425f036ad10b84c5a3e2a0ea71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857180113
+        }
+    ],
+    "wof:id":857180113,
+    "wof:lastmodified":1464123798,
+    "wof:name":"B & B Tree Svc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -89.29878,
+    31.362109,
+    -89.29878,
+    31.362109
+],
+  "geometry": {"coordinates":[-89.29877999999999,31.362109],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857213387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816255,30.413258,-88.816255,30.413258",
+    "geom:latitude":30.413258,
+    "geom:longitude":-88.816255,
+    "iso:country":"US",
+    "sg:address":"728 Pine Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 8014",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N9oMkY7Kn3INiUF9WFqD8_30.413258_-88.816255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124471,
+    "wof:geomhash":"899ae9e346824ed4c0ec4759ada22763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857213387
+        }
+    ],
+    "wof:id":857213387,
+    "wof:lastmodified":1464124471,
+    "wof:name":"Ocean Springs Parks & Rec Dept",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -88.816255,
+    30.413258,
+    -88.816255,
+    30.413258
+],
+  "geometry": {"coordinates":[-88.816255,30.413258],"type":"Point"}
+}

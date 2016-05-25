@@ -1,0 +1,73 @@
+{
+  "id": 857193231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66313,34.19899,-88.66313,34.19899",
+    "geom:latitude":34.19899,
+    "geom:longitude":-88.66313,
+    "iso:country":"US",
+    "sg:address":"200 Cedar St",
+    "sg:city":"Plantersville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 9320",
+    "sg:postcode":"38862",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sWucJ1oeRbifonMCxX8J1_34.198990_-88.663130@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124046,
+    "wof:geomhash":"508819e312e98b62b265f4a56eaaf336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857193231
+        }
+    ],
+    "wof:id":857193231,
+    "wof:lastmodified":1464124046,
+    "wof:name":"Plantersville Family L P",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.66313,
+    34.19899,
+    -88.66313,
+    34.19899
+],
+  "geometry": {"coordinates":[-88.66313,34.19899],"type":"Point"}
+}

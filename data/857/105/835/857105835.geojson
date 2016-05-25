@@ -1,0 +1,73 @@
+{
+  "id": 857105835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.806646,30.399175,-88.806646,30.399175",
+    "geom:latitude":30.399175,
+    "geom:longitude":-88.806646,
+    "iso:country":"US",
+    "sg:address":"1201 Stennis Ave",
+    "sg:city":"Bay Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 688 6346",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57BgV0AYJlyAVwf0NKj6Tg_30.399175_-88.806646@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122044,
+    "wof:geomhash":"ba7edfc71674395114996a65bb2c2be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857105835
+        }
+    ],
+    "wof:id":857105835,
+    "wof:lastmodified":1464122044,
+    "wof:name":"Odin Alliance",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -88.806646,
+    30.399175,
+    -88.806646,
+    30.399175
+],
+  "geometry": {"coordinates":[-88.806646,30.399175],"type":"Point"}
+}

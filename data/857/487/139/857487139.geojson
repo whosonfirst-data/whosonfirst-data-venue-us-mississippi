@@ -1,0 +1,82 @@
+{
+  "id": 857487139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.546112,34.204449,-90.546112,34.204449",
+    "geom:latitude":34.204449,
+    "geom:longitude":-90.546112,
+    "iso:country":"US",
+    "sg:address":"2401 6th St Apt 16I",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3312",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rYhlWBZaybzOGu4PHyZiV_34.204449_-90.546112@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130507,
+    "wof:geomhash":"522cd7d3eb51442a809b9892ec05a64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487139
+        }
+    ],
+    "wof:id":857487139,
+    "wof:lastmodified":1464130507,
+    "wof:name":"Windcrest Manor",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -90.546112,
+    34.204449,
+    -90.546112,
+    34.204449
+],
+  "geometry": {"coordinates":[-90.54611199999999,34.204449],"type":"Point"}
+}

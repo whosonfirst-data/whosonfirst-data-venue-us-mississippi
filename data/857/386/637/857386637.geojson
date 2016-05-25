@@ -1,0 +1,69 @@
+{
+  "id": 857386637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.983939,31.95891,-90.983939,31.95891",
+    "geom:latitude":31.95891,
+    "geom:longitude":-90.983939,
+    "iso:country":"US",
+    "sg:address":"806 Farmer St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 5101",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SwqXdev2xu9QspFyCE536_31.958910_-90.983939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128348,
+    "wof:geomhash":"0c8a0b0634fbcc54d2b08f0ed983ab0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857386637
+        }
+    ],
+    "wof:id":857386637,
+    "wof:lastmodified":1464128348,
+    "wof:name":"Port Gibson Police Dept",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.983939,
+    31.95891,
+    -90.983939,
+    31.95891
+],
+  "geometry": {"coordinates":[-90.98393900000001,31.95891],"type":"Point"}
+}

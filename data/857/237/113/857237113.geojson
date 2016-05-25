@@ -1,0 +1,71 @@
+{
+  "id": 857237113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.699045,32.409428,-88.699045,32.409428",
+    "geom:latitude":32.409428,
+    "geom:longitude":-88.699045,
+    "iso:country":"US",
+    "sg:address":"2312 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 2001",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ziyTy9Qqbsz9fNu798rEp_32.409428_-88.699045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124947,
+    "wof:geomhash":"dc9a46305e4145546cdc98e7b233c992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857237113
+        }
+    ],
+    "wof:id":857237113,
+    "wof:lastmodified":1464124947,
+    "wof:name":"Good Vibrations",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.699045,
+    32.409428,
+    -88.699045,
+    32.409428
+],
+  "geometry": {"coordinates":[-88.699045,32.409428],"type":"Point"}
+}

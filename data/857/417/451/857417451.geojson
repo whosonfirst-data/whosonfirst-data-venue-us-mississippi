@@ -1,0 +1,68 @@
+{
+  "id": 857417451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.931146,34.96248,-89.931146,34.96248",
+    "geom:latitude":34.96248,
+    "geom:longitude":-89.931146,
+    "iso:country":"US",
+    "sg:address":"3300 Goodman Rd E",
+    "sg:city":"Southaven",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 393 2376",
+    "sg:postcode":"38672",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tfhO7WVxrITn1kEOy0k45_34.962480_-89.931146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129046,
+    "wof:geomhash":"dd88575a3a8a88ce7065cc38c3165e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857417451
+        }
+    ],
+    "wof:id":857417451,
+    "wof:lastmodified":1464129046,
+    "wof:name":"Grace Electric",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.931146,
+    34.96248,
+    -89.931146,
+    34.96248
+],
+  "geometry": {"coordinates":[-89.931146,34.96248],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857272061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773152,34.249873,-88.773152,34.249873",
+    "geom:latitude":34.249873,
+    "geom:longitude":-88.773152,
+    "iso:country":"US",
+    "sg:address":"4010 W Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 3011",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TNhKzhDX8GpOawGSJgD3Z_34.249873_-88.773152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125727,
+    "wof:geomhash":"97983249380425cd4421b845480355e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857272061
+        }
+    ],
+    "wof:id":857272061,
+    "wof:lastmodified":1464125727,
+    "wof:name":"Boyds Wholesale Florist Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.773152,
+    34.249873,
+    -88.773152,
+    34.249873
+],
+  "geometry": {"coordinates":[-88.773152,34.249873],"type":"Point"}
+}

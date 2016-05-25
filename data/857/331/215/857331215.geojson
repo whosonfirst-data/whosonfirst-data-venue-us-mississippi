@@ -1,0 +1,71 @@
+{
+  "id": 857331215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.219606,31.350319,-89.219606,31.350319",
+    "geom:latitude":31.350319,
+    "geom:longitude":-89.219606,
+    "iso:country":"US",
+    "sg:address":"992 Hwy 42",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3198",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10gx0ShvEfH94oQLxbYBRP_31.350319_-89.219606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127082,
+    "wof:geomhash":"63d52d2d0c639d5048acd1105d86589e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857331215
+        }
+    ],
+    "wof:id":857331215,
+    "wof:lastmodified":1464127082,
+    "wof:name":"First Baptist Church Of Petal",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.219606,
+    31.350319,
+    -89.219606,
+    31.350319
+],
+  "geometry": {"coordinates":[-89.219606,31.350319],"type":"Point"}
+}

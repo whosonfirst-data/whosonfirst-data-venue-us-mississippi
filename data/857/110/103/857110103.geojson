@@ -1,0 +1,73 @@
+{
+  "id": 857110103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559661,34.192282,-90.559661,34.192282",
+    "geom:latitude":34.192282,
+    "geom:longitude":-90.559661,
+    "iso:country":"US",
+    "sg:address":"1002 Mc Kinley St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 6396",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cAgFzpgCJ8jYQUoB5xgs6_34.192282_-90.559661@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122174,
+    "wof:geomhash":"2e1ae8df29b1f64c89f440599e701f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857110103
+        }
+    ],
+    "wof:id":857110103,
+    "wof:lastmodified":1464122174,
+    "wof:name":"Zeta Phi Beta Sorority Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -90.559661,
+    34.192282,
+    -90.559661,
+    34.192282
+],
+  "geometry": {"coordinates":[-90.55966100000001,34.192282],"type":"Point"}
+}

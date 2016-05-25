@@ -1,0 +1,71 @@
+{
+  "id": 857234533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795209,34.963739,-89.795209,34.963739",
+    "geom:latitude":34.963739,
+    "geom:longitude":-89.795209,
+    "iso:country":"US",
+    "sg:address":"7119 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3747",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DLicRjfjS17Ad3glcpebz_34.963739_-89.795209@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124892,
+    "wof:geomhash":"f2d709a7ec08e94b0545ed5d8471e651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857234533
+        }
+    ],
+    "wof:id":857234533,
+    "wof:lastmodified":1464124892,
+    "wof:name":"Olive Branch Bakery Inc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -89.795209,
+    34.963739,
+    -89.795209,
+    34.963739
+],
+  "geometry": {"coordinates":[-89.795209,34.963739],"type":"Point"}
+}

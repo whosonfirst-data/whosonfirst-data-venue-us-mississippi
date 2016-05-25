@@ -1,0 +1,71 @@
+{
+  "id": 857354181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827349,30.432926,-88.827349,30.432926",
+    "geom:latitude":30.432926,
+    "geom:longitude":-88.827349,
+    "iso:country":"US",
+    "sg:address":"6349 Langland Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 2827",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dwpGiCq2HAZZizFZUIjkS_30.432926_-88.827349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127577,
+    "wof:geomhash":"e836be5e2659cb15729def9cf8d08f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857354181
+        }
+    ],
+    "wof:id":857354181,
+    "wof:lastmodified":1464127577,
+    "wof:name":"Modern Maid Cleaning Serv",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.827349,
+    30.432926,
+    -88.827349,
+    30.432926
+],
+  "geometry": {"coordinates":[-88.827349,30.432926],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857134669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.792355,34.930179,-89.792355,34.930179",
+    "geom:latitude":34.930179,
+    "geom:longitude":-89.792355,
+    "iso:country":"US",
+    "sg:address":"11153 Hwy 178",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 8785",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vjH8YGn4KLp058VOT3hpk_34.930179_-89.792355@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122777,
+    "wof:geomhash":"0ba2b8a8545f65d33f72165cfbbd516f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857134669
+        }
+    ],
+    "wof:id":857134669,
+    "wof:lastmodified":1464122777,
+    "wof:name":"Angel's Truck Svc",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.792355,
+    34.930179,
+    -89.792355,
+    34.930179
+],
+  "geometry": {"coordinates":[-89.792355,34.930179],"type":"Point"}
+}

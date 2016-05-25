@@ -1,0 +1,73 @@
+{
+  "id": 857093615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43578,33.52312,-88.43578,33.52312",
+    "geom:latitude":33.52312,
+    "geom:longitude":-88.43578,
+    "iso:country":"US",
+    "sg:address":"901 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 7411",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62ueBfC3qOTuEQO8hE85WJ_33.523120_-88.435780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121763,
+    "wof:geomhash":"e5f11d89d8d573fa4462a34238c6734e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857093615
+        }
+    ],
+    "wof:id":857093615,
+    "wof:lastmodified":1464121763,
+    "wof:name":"Fitzner Pontiac Buick GMC",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.43578,
+    33.52312,
+    -88.43578,
+    33.52312
+],
+  "geometry": {"coordinates":[-88.43577999999999,33.52312],"type":"Point"}
+}

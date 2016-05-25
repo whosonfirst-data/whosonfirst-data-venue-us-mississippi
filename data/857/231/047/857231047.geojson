@@ -1,0 +1,75 @@
+{
+  "id": 857231047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.749335,30.472228,-88.749335,30.472228",
+    "geom:latitude":30.472228,
+    "geom:longitude":-88.749335,
+    "iso:country":"US",
+    "sg:address":"8100 Semmes Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 3639",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gAteSuZZ9hFpeuly72aoL_30.472228_-88.749335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124826,
+    "wof:geomhash":"85a734893cbdae738194f136dd96eac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857231047
+        }
+    ],
+    "wof:id":857231047,
+    "wof:lastmodified":1464124826,
+    "wof:name":"Year Round Lawn Care",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -88.749335,
+    30.472228,
+    -88.749335,
+    30.472228
+],
+  "geometry": {"coordinates":[-88.749335,30.472228],"type":"Point"}
+}

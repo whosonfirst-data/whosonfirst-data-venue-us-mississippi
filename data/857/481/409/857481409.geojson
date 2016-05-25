@@ -1,0 +1,74 @@
+{
+  "id": 857481409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.694177,34.380973,-88.694177,34.380973",
+    "geom:latitude":34.380973,
+    "geom:longitude":-88.694177,
+    "iso:country":"US",
+    "sg:address":"189 Mobile St",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/66371-pizza-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 8630",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hHIfMNExQaqRuzM3uGlSm_34.380973_-88.694177@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130395,
+    "wof:geomhash":"48481da4c2986836ddae32021baa6143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857481409
+        }
+    ],
+    "wof:id":857481409,
+    "wof:lastmodified":1464130395,
+    "wof:name":"Pizza Inn",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.694177,
+    34.380973,
+    -88.694177,
+    34.380973
+],
+  "geometry": {"coordinates":[-88.694177,34.380973],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857472851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.424064,32.852385,-90.424064,32.852385",
+    "geom:latitude":32.852385,
+    "geom:longitude":-90.424064,
+    "iso:country":"US",
+    "sg:address":"321 N Wise St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9114",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X876TBv1Tf50IOJdO2mCh_32.852385_-90.424064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130234,
+    "wof:geomhash":"6c95050cbba380f1d6af75a216982754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857472851
+        }
+    ],
+    "wof:id":857472851,
+    "wof:lastmodified":1464130234,
+    "wof:name":"Yazoo City Senior Apartments",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -90.424064,
+    32.852385,
+    -90.424064,
+    32.852385
+],
+  "geometry": {"coordinates":[-90.424064,32.852385],"type":"Point"}
+}

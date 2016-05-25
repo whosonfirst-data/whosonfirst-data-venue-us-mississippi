@@ -1,0 +1,68 @@
+{
+  "id": 857370055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.186984,32.300107,-90.186984,32.300107",
+    "geom:latitude":32.300107,
+    "geom:longitude":-90.186984,
+    "iso:country":"US",
+    "sg:address":"141 E Capitol St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 5606",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JkBlxTfgNWnGtHfO5Adtj_32.300107_-90.186984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127906,
+    "wof:geomhash":"85daff312274c94d1cb0bff5809186e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878407,
+            "region_id":85688579,
+            "venue_id":857370055
+        }
+    ],
+    "wof:id":857370055,
+    "wof:lastmodified":1464127906,
+    "wof:name":"Elite Restaurant Inc",
+    "wof:parent_id":85878407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.186984,
+    32.300107,
+    -90.186984,
+    32.300107
+],
+  "geometry": {"coordinates":[-90.186984,32.300107],"type":"Point"}
+}

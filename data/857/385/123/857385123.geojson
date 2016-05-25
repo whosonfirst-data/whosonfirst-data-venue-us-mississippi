@@ -1,0 +1,73 @@
+{
+  "id": 857385123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554053,30.354495,-88.554053,30.354495",
+    "geom:latitude":30.354495,
+    "geom:longitude":-88.554053,
+    "iso:country":"US",
+    "sg:address":"1819 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2824",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "presbyterian",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3edF36vRoT9WGuyLUHnWih_30.354495_-88.554053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128274,
+    "wof:geomhash":"45189d5f0f4e8d20bfea031abfbeeb84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857385123
+        }
+    ],
+    "wof:id":857385123,
+    "wof:lastmodified":1464128274,
+    "wof:name":"First Prebysterian",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "presbyterian",
+        "church"
+    ]
+},
+  "bbox": [
+    -88.554053,
+    30.354495,
+    -88.554053,
+    30.354495
+],
+  "geometry": {"coordinates":[-88.554053,30.354495],"type":"Point"}
+}

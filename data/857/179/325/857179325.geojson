@@ -1,0 +1,71 @@
+{
+  "id": 857179325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.932879,33.484342,-88.932879,33.484342",
+    "geom:latitude":33.484342,
+    "geom:longitude":-88.932879,
+    "iso:country":"US",
+    "sg:address":"1348 Sheridan Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 8002",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqrUGUK7LlbEdhc7UAdIn_33.484342_-88.932879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123781,
+    "wof:geomhash":"6079d9ab4a79df1fb40daa92ed9731c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857179325
+        }
+    ],
+    "wof:id":857179325,
+    "wof:lastmodified":1464123781,
+    "wof:name":"Images",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.932879,
+    33.484342,
+    -88.932879,
+    33.484342
+],
+  "geometry": {"coordinates":[-88.932879,33.484342],"type":"Point"}
+}

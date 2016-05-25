@@ -1,0 +1,76 @@
+{
+  "id": 857483053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.094453,32.336934,-90.094453,32.336934",
+    "geom:latitude":32.336934,
+    "geom:longitude":-90.094453,
+    "iso:country":"US",
+    "sg:address":"4245 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/pearl/210364-corkys-ribs--bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 9901",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sN2VUUn5hekZlflbe0bHr_32.336934_-90.094453@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130429,
+    "wof:geomhash":"ed5dbd1057f964a2d882699a6c7718fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857483053
+        }
+    ],
+    "wof:id":857483053,
+    "wof:lastmodified":1464130429,
+    "wof:name":"Corky's Ribs & BBQ",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.094453,
+    32.336934,
+    -90.094453,
+    32.336934
+],
+  "geometry": {"coordinates":[-90.094453,32.336934],"type":"Point"}
+}

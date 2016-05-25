@@ -1,0 +1,73 @@
+{
+  "id": 857206591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.689682,32.364739,-88.689682,32.364739",
+    "geom:latitude":32.364739,
+    "geom:longitude":-88.689682,
+    "iso:country":"US",
+    "sg:address":"1329 B St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 5802",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2abBMlfENcZvdnBGiAdiqa_32.364739_-88.689682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124323,
+    "wof:geomhash":"d7a6b6a93521201adb5820b5810b0834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857206591
+        }
+    ],
+    "wof:id":857206591,
+    "wof:lastmodified":1464124323,
+    "wof:name":"T & T Auto Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.689682,
+    32.364739,
+    -88.689682,
+    32.364739
+],
+  "geometry": {"coordinates":[-88.689682,32.364739],"type":"Point"}
+}

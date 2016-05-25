@@ -1,0 +1,71 @@
+{
+  "id": 857104313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827726,30.41002,-88.827726,30.41002",
+    "geom:latitude":30.41002,
+    "geom:longitude":-88.827726,
+    "iso:country":"US",
+    "sg:address":"424 Washington Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 1234",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l1DlnO95ge3EfDyh79YfT_30.410020_-88.827726@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122012,
+    "wof:geomhash":"44573e02cf651d4408efdbd75a096c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857104313
+        }
+    ],
+    "wof:id":857104313,
+    "wof:lastmodified":1464122012,
+    "wof:name":"Denham Backstrom & Assoc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -88.827726,
+    30.41002,
+    -88.827726,
+    30.41002
+],
+  "geometry": {"coordinates":[-88.827726,30.41002],"type":"Point"}
+}

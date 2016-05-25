@@ -1,0 +1,71 @@
+{
+  "id": 857132443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.838365,32.317324,-90.838365,32.317324",
+    "geom:latitude":32.317324,
+    "geom:longitude":-90.838365,
+    "iso:country":"US",
+    "sg:address":"444 Garden Grove St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 6294",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jSDmG721NqXSS3EJcv654_32.317324_-90.838365@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122727,
+    "wof:geomhash":"5a4d24288931f173143b826d1cd365cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857132443
+        }
+    ],
+    "wof:id":857132443,
+    "wof:lastmodified":1464122727,
+    "wof:name":"Pamela L Jett",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.838365,
+    32.317324,
+    -90.838365,
+    32.317324
+],
+  "geometry": {"coordinates":[-90.838365,32.317324],"type":"Point"}
+}

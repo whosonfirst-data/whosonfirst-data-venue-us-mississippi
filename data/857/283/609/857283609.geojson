@@ -1,0 +1,71 @@
+{
+  "id": 857283609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.349589,33.519387,-88.349589,33.519387",
+    "geom:latitude":33.519387,
+    "geom:longitude":-88.349589,
+    "iso:country":"US",
+    "sg:address":"159 Burns Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3770",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MNO6Ga1D8ppO6x0z4EmZd_33.519387_-88.349589@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125992,
+    "wof:geomhash":"0b4c8aa1429d58265b4b184e1758837a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857283609
+        }
+    ],
+    "wof:id":857283609,
+    "wof:lastmodified":1464125992,
+    "wof:name":"White Picket Fence",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -88.349589,
+    33.519387,
+    -88.349589,
+    33.519387
+],
+  "geometry": {"coordinates":[-88.34958899999999,33.519387],"type":"Point"}
+}

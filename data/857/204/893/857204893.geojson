@@ -1,0 +1,75 @@
+{
+  "id": 857204893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.656502,34.255752,-88.656502,34.255752",
+    "geom:latitude":34.255752,
+    "geom:longitude":-88.656502,
+    "iso:country":"US",
+    "sg:address":"4577 S Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3739",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FP1a5dTbwxDT3VwOIStjS_34.255752_-88.656502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124290,
+    "wof:geomhash":"3ba1c5feedd5903e69274cf259ae6cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857204893
+        }
+    ],
+    "wof:id":857204893,
+    "wof:lastmodified":1464124290,
+    "wof:name":"Ken Lippincott MD",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.656502,
+    34.255752,
+    -88.656502,
+    34.255752
+],
+  "geometry": {"coordinates":[-88.656502,34.255752],"type":"Point"}
+}

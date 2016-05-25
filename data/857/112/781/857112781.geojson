@@ -1,0 +1,71 @@
+{
+  "id": 857112781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707337,34.18477,-88.707337,34.18477",
+    "geom:latitude":34.18477,
+    "geom:longitude":-88.707337,
+    "iso:country":"US",
+    "sg:address":"375 City Point Rd",
+    "sg:city":"Verona",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 1517",
+    "sg:postcode":"38879",
+    "sg:province":"MS",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TrLNIqddzQ18AWvnm33uc_34.184770_-88.707337@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122249,
+    "wof:geomhash":"f1dc5e96662cb6bb790b3e6a85fce936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857112781
+        }
+    ],
+    "wof:id":857112781,
+    "wof:lastmodified":1464122249,
+    "wof:name":"City Of Verona Parks Dept",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -88.707337,
+    34.18477,
+    -88.707337,
+    34.18477
+],
+  "geometry": {"coordinates":[-88.707337,34.18477],"type":"Point"}
+}

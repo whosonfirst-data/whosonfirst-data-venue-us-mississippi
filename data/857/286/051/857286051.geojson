@@ -1,0 +1,71 @@
+{
+  "id": 857286051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42029,33.583603,-88.42029,33.583603",
+    "geom:latitude":33.583603,
+    "geom:longitude":-88.42029,
+    "iso:country":"US",
+    "sg:address":"709 Jess Lyons Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 6488",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04s1jEQx06DwFkHPPqQTN0_33.583603_-88.420290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126046,
+    "wof:geomhash":"9d8999f0ef955ee515c46e867d479ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857286051
+        }
+    ],
+    "wof:id":857286051,
+    "wof:lastmodified":1464126046,
+    "wof:name":"Village Beauty Salon",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.42029,
+    33.583603,
+    -88.42029,
+    33.583603
+],
+  "geometry": {"coordinates":[-88.42028999999999,33.583603],"type":"Point"}
+}

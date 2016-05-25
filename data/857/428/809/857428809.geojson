@@ -1,0 +1,79 @@
+{
+  "id": 857428809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.335325,32.326951,-90.335325,32.326951",
+    "geom:latitude":32.326951,
+    "geom:longitude":-90.335325,
+    "iso:country":"US",
+    "sg:address":"307 Longwood Dr",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 5146",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"www.hiddenfencesystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vls41CXC6GYcA33BNAHJu_32.326951_-90.335325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129312,
+    "wof:geomhash":"f9b4181a066783652d222903d75dff0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857428809
+        }
+    ],
+    "wof:id":857428809,
+    "wof:lastmodified":1464129312,
+    "wof:name":"Hidden Fence Systems Inc",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.335325,
+    32.326951,
+    -90.335325,
+    32.326951
+],
+  "geometry": {"coordinates":[-90.335325,32.326951],"type":"Point"}
+}

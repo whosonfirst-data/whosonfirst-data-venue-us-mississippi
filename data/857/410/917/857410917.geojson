@@ -1,0 +1,73 @@
+{
+  "id": 857410917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.277101,31.322312,-89.277101,31.322312",
+    "geom:latitude":31.322312,
+    "geom:longitude":-89.277101,
+    "iso:country":"US",
+    "sg:address":"300 Klondyke St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 2900",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PqeI67ONhjuL8TaC6c0Ka_31.322312_-89.277101@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128869,
+    "wof:geomhash":"6b81ed96fb37c4da7e61dd1d43ce932c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857410917
+        }
+    ],
+    "wof:id":857410917,
+    "wof:lastmodified":1464128869,
+    "wof:name":"Mitech PPCILC",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.277101,
+    31.322312,
+    -89.277101,
+    31.322312
+],
+  "geometry": {"coordinates":[-89.277101,31.322312],"type":"Point"}
+}

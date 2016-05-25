@@ -1,0 +1,75 @@
+{
+  "id": 857274713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.180044,30.36158,-89.180044,30.36158",
+    "geom:latitude":30.36158,
+    "geom:longitude":-89.180044,
+    "iso:country":"US",
+    "sg:address":"20123 Pineville Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 8290",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48U5YVtXYTKguyNf3dgo0V_30.361580_-89.180044@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125785,
+    "wof:geomhash":"1ecdfd97f098398b3adfdee0862b5779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857274713
+        }
+    ],
+    "wof:id":857274713,
+    "wof:lastmodified":1464125785,
+    "wof:name":"Rockie Top Trucking Inc",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.180044,
+    30.36158,
+    -89.180044,
+    30.36158
+],
+  "geometry": {"coordinates":[-89.180044,30.36158],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857375121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.433879,32.848934,-90.433879,32.848934",
+    "geom:latitude":32.848934,
+    "geom:longitude":-90.433879,
+    "iso:country":"US",
+    "sg:address":"412 S Industrial Pkwy",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9322",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AfcHx26ozKvdWjr0JR7Hm_32.848934_-90.433879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128011,
+    "wof:geomhash":"08d9a5fd673962621eed28cbfe9a8fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857375121
+        }
+    ],
+    "wof:id":857375121,
+    "wof:lastmodified":1464128011,
+    "wof:name":"Davis Auto Sales",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.433879,
+    32.848934,
+    -90.433879,
+    32.848934
+],
+  "geometry": {"coordinates":[-90.433879,32.848934],"type":"Point"}
+}

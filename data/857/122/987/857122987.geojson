@@ -1,0 +1,71 @@
+{
+  "id": 857122987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.308424,31.324659,-89.308424,31.324659",
+    "geom:latitude":31.324659,
+    "geom:longitude":-89.308424,
+    "iso:country":"US",
+    "sg:address":"1204 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 9279",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bhz87IoErgOtYsejbRFqE_31.324659_-89.308424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122529,
+    "wof:geomhash":"1027fed7592a3823eed88b600e8b3a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857122987
+        }
+    ],
+    "wof:id":857122987,
+    "wof:lastmodified":1464122529,
+    "wof:name":"Universal Nail Salon",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.308424,
+    31.324659,
+    -89.308424,
+    31.324659
+],
+  "geometry": {"coordinates":[-89.308424,31.324659],"type":"Point"}
+}

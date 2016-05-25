@@ -1,0 +1,71 @@
+{
+  "id": 857434605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43685,33.525329,-88.43685,33.525329",
+    "geom:latitude":33.525329,
+    "geom:longitude":-88.43685,
+    "iso:country":"US",
+    "sg:address":"2223 Tufline Ln",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5540",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_576C5tpUt0MpnaqlgSgCFG_33.525329_-88.436850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129457,
+    "wof:geomhash":"7c387feb74ae66d3b504af846ef17bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857434605
+        }
+    ],
+    "wof:id":857434605,
+    "wof:lastmodified":1464129457,
+    "wof:name":"Greenline",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -88.43685,
+    33.525329,
+    -88.43685,
+    33.525329
+],
+  "geometry": {"coordinates":[-88.43685000000001,33.525329],"type":"Point"}
+}

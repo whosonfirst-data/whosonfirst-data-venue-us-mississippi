@@ -1,0 +1,71 @@
+{
+  "id": 857311979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.80297,34.897088,-89.80297,34.897088",
+    "geom:latitude":34.897088,
+    "geom:longitude":-89.80297,
+    "iso:country":"US",
+    "sg:address":"10365 Woolsey Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 3121",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F1W90vvWreKDx0wTf9psk_34.897088_-89.802970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126661,
+    "wof:geomhash":"8bb71115754227b6b8c64266fe543c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857311979
+        }
+    ],
+    "wof:id":857311979,
+    "wof:lastmodified":1464126661,
+    "wof:name":"Holiday Landscape",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -89.80297,
+    34.897088,
+    -89.80297,
+    34.897088
+],
+  "geometry": {"coordinates":[-89.80297,34.897088],"type":"Point"}
+}

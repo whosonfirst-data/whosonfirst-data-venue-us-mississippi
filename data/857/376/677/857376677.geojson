@@ -1,0 +1,71 @@
+{
+  "id": 857376677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.892084,32.218026,-90.892084,32.218026",
+    "geom:latitude":32.218026,
+    "geom:longitude":-90.892084,
+    "iso:country":"US",
+    "sg:address":"2358 Redbone Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 630 9295",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PjwXYrTOvlNSp4a9O0xiv_32.218026_-90.892084@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128050,
+    "wof:geomhash":"670aca2d658d4b0009d4099ed362bd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857376677
+        }
+    ],
+    "wof:id":857376677,
+    "wof:lastmodified":1464128050,
+    "wof:name":"Fielder Mfg",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.892084,
+    32.218026,
+    -90.892084,
+    32.218026
+],
+  "geometry": {"coordinates":[-90.892084,32.218026],"type":"Point"}
+}

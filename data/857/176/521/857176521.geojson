@@ -1,0 +1,71 @@
+{
+  "id": 857176521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301481,31.357759,-89.301481,31.357759",
+    "geom:latitude":31.357759,
+    "geom:longitude":-89.301481,
+    "iso:country":"US",
+    "sg:address":"2123 Glendale Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1102",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZK6lxDVSJj66bvFatZFCT_31.357759_-89.301481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123724,
+    "wof:geomhash":"99109c1098b261a167fe5e9b6bdf9cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857176521
+        }
+    ],
+    "wof:id":857176521,
+    "wof:lastmodified":1464123724,
+    "wof:name":"Ladner Testing Laboratories",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.301481,
+    31.357759,
+    -89.301481,
+    31.357759
+],
+  "geometry": {"coordinates":[-89.301481,31.357759],"type":"Point"}
+}

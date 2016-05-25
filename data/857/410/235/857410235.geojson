@@ -1,0 +1,71 @@
+{
+  "id": 857410235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.518171,33.473135,-88.518171,33.473135",
+    "geom:latitude":33.473135,
+    "geom:longitude":-88.518171,
+    "iso:country":"US",
+    "sg:address":"369 Motley Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2808",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWJYSNuPU88xOfxoTKiJ0_33.473135_-88.518171@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128845,
+    "wof:geomhash":"1ba366e64fbfb2fbe60d5378362cd622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857410235
+        }
+    ],
+    "wof:id":857410235,
+    "wof:lastmodified":1464128845,
+    "wof:name":"Robert D Voller Jr MD Pro",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.518171,
+    33.473135,
+    -88.518171,
+    33.473135
+],
+  "geometry": {"coordinates":[-88.518171,33.473135],"type":"Point"}
+}

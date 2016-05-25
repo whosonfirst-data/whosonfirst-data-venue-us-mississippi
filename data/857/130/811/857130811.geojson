@@ -1,0 +1,73 @@
+{
+  "id": 857130811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519712,34.35171,-89.519712,34.35171",
+    "geom:latitude":34.35171,
+    "geom:longitude":-89.519712,
+    "iso:country":"US",
+    "sg:address":"2205 Jefferson Davis Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 238 2800",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58WF4E4iBcFAxElQQ4uJKm_34.351710_-89.519712@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122697,
+    "wof:geomhash":"e948bb5bee1c4c4d9685ba543064b86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857130811
+        }
+    ],
+    "wof:id":857130811,
+    "wof:lastmodified":1464122697,
+    "wof:name":"Cornerstone Rehabilitation",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.519712,
+    34.35171,
+    -89.519712,
+    34.35171
+],
+  "geometry": {"coordinates":[-89.519712,34.35171],"type":"Point"}
+}

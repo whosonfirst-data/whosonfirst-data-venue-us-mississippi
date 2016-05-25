@@ -1,0 +1,71 @@
+{
+  "id": 857405297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512308,34.290292,-90.512308,34.290292",
+    "geom:latitude":34.290292,
+    "geom:longitude":-90.512308,
+    "iso:country":"US",
+    "sg:address":"56 Airport Rd",
+    "sg:city":"Lyon",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 5522",
+    "sg:postcode":"38645",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lVJJlySymK3lXazI4LZ7E_34.290292_-90.512308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128733,
+    "wof:geomhash":"6bc1c0fb9b485830196c7a0f64476a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857405297
+        }
+    ],
+    "wof:id":857405297,
+    "wof:lastmodified":1464128733,
+    "wof:name":"Leist Air Service Inc",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop"
+    ]
+},
+  "bbox": [
+    -90.512308,
+    34.290292,
+    -90.512308,
+    34.290292
+],
+  "geometry": {"coordinates":[-90.512308,34.290292],"type":"Point"}
+}

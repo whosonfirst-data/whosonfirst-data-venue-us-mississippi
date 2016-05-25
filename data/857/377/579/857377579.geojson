@@ -1,0 +1,71 @@
+{
+  "id": 857377579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.287459,33.491642,-88.287459,33.491642",
+    "geom:latitude":33.491642,
+    "geom:longitude":-88.287459,
+    "iso:country":"US",
+    "sg:address":"8295 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1673",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NaEVCDIkMBECDRTdeypGF_33.491642_-88.287459@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128068,
+    "wof:geomhash":"51579da4d99655da61584e87d7b701eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857377579
+        }
+    ],
+    "wof:id":857377579,
+    "wof:lastmodified":1464128068,
+    "wof:name":"Ann Lee Motel",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -88.287459,
+    33.491642,
+    -88.287459,
+    33.491642
+],
+  "geometry": {"coordinates":[-88.287459,33.491642],"type":"Point"}
+}

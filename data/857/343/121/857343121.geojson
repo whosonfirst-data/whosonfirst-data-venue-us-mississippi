@@ -1,0 +1,71 @@
+{
+  "id": 857343121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854043,32.291461,-90.854043,32.291461",
+    "geom:latitude":32.291461,
+    "geom:longitude":-90.854043,
+    "iso:country":"US",
+    "sg:address":"4615 Halls Ferry Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 4654",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O13vMmHKi1uZJXSNJ0YQN_32.291461_-90.854043@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127337,
+    "wof:geomhash":"db3a42689f892d65e75f8d7f1ea93096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857343121
+        }
+    ],
+    "wof:id":857343121,
+    "wof:lastmodified":1464127337,
+    "wof:name":"Wayside Apostolic Church",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.854043,
+    32.291461,
+    -90.854043,
+    32.291461
+],
+  "geometry": {"coordinates":[-90.854043,32.291461],"type":"Point"}
+}

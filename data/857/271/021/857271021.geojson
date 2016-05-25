@@ -1,0 +1,78 @@
+{
+  "id": 857271021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.136096,32.472602,-90.136096,32.472602",
+    "geom:latitude":32.472602,
+    "geom:longitude":-90.136096,
+    "iso:country":"US",
+    "sg:address":"1 Woodgreen Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 1510",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uA2EomZmfUdXvi6hGEvSm_32.472602_-90.136096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125706,
+    "wof:geomhash":"67c0cedc92f6d9bd45baad0c28f7034a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857271021
+        }
+    ],
+    "wof:id":857271021,
+    "wof:lastmodified":1464125706,
+    "wof:name":"Pax Hospice Inc",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -90.136096,
+    32.472602,
+    -90.136096,
+    32.472602
+],
+  "geometry": {"coordinates":[-90.13609599999999,32.472602],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857421407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.338081,33.45658,-88.338081,33.45658",
+    "geom:latitude":33.45658,
+    "geom:longitude":-88.338081,
+    "iso:country":"US",
+    "sg:address":"81 Jones Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0257",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04M7d92XvRgixlZfv1XAFJ_33.456580_-88.338081@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129136,
+    "wof:geomhash":"b5577bedecde720d830fed2708e378e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857421407
+        }
+    ],
+    "wof:id":857421407,
+    "wof:lastmodified":1464129136,
+    "wof:name":"Richards Designs Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer"
+    ]
+},
+  "bbox": [
+    -88.338081,
+    33.45658,
+    -88.338081,
+    33.45658
+],
+  "geometry": {"coordinates":[-88.338081,33.45658],"type":"Point"}
+}

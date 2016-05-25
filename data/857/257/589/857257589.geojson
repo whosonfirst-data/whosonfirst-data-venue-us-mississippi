@@ -1,0 +1,71 @@
+{
+  "id": 857257589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697893,32.369824,-88.697893,32.369824",
+    "geom:latitude":32.369824,
+    "geom:longitude":-88.697893,
+    "iso:country":"US",
+    "sg:address":"1205 19th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 486 2427",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CazNZvcmUHQitZpUiSjJU_32.369824_-88.697893@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125441,
+    "wof:geomhash":"c7c8eb096c9ddf61b6c2818b1ee0dd70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857257589
+        }
+    ],
+    "wof:id":857257589,
+    "wof:lastmodified":1464125441,
+    "wof:name":"HMA",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.697893,
+    32.369824,
+    -88.697893,
+    32.369824
+],
+  "geometry": {"coordinates":[-88.69789299999999,32.369824],"type":"Point"}
+}

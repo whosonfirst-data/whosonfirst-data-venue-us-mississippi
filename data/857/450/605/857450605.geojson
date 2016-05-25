@@ -1,0 +1,75 @@
+{
+  "id": 857450605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158797,32.46337,-90.158797,32.46337",
+    "geom:latitude":32.46337,
+    "geom:longitude":-90.158797,
+    "iso:country":"US",
+    "sg:address":"125 Cypress Lake Blvd S",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 898 3101",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59zMUntiU3nkD3evXytc4b_32.463370_-90.158797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129772,
+    "wof:geomhash":"42adc18aa791e9e04fc30bf2da12c997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857450605
+        }
+    ],
+    "wof:id":857450605,
+    "wof:lastmodified":1464129772,
+    "wof:name":"M & M Contracting",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.158797,
+    32.46337,
+    -90.158797,
+    32.46337
+],
+  "geometry": {"coordinates":[-90.15879700000001,32.46337],"type":"Point"}
+}

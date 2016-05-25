@@ -1,0 +1,73 @@
+{
+  "id": 857215091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087303,32.339351,-90.087303,32.339351",
+    "geom:latitude":32.339351,
+    "geom:longitude":-90.087303,
+    "iso:country":"US",
+    "sg:address":"4235 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 8949",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85831643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N2HnyHXO2EI7cFK7m1HpW_32.339351_-90.087303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124516,
+    "wof:geomhash":"f71450d698741913fa444455c6e01e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85831643,
+            "region_id":85688579,
+            "venue_id":857215091
+        }
+    ],
+    "wof:id":857215091,
+    "wof:lastmodified":1464124516,
+    "wof:name":"Wells Fargo Financial Accptnce",
+    "wof:parent_id":85831643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -90.087303,
+    32.339351,
+    -90.087303,
+    32.339351
+],
+  "geometry": {"coordinates":[-90.08730300000001,32.339351],"type":"Point"}
+}

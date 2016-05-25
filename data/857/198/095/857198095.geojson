@@ -1,0 +1,75 @@
+{
+  "id": 857198095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.780517,33.468526,-88.780517,33.468526",
+    "geom:latitude":33.468526,
+    "geom:longitude":-88.780517,
+    "iso:country":"US",
+    "sg:address":"987 Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5316",
+    "sg:postcode":"39760",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970193,
+        102083159,
+        85811827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n47L6z0Wqo7kLZgcMoQKX_33.468526_-88.780517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124141,
+    "wof:geomhash":"d3c92e168a8c62b037a557d778967f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85811827,
+            "region_id":85688579,
+            "venue_id":857198095
+        }
+    ],
+    "wof:id":857198095,
+    "wof:lastmodified":1464124141,
+    "wof:name":"Drivers License Bureau",
+    "wof:parent_id":85811827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -88.780517,
+    33.468526,
+    -88.780517,
+    33.468526
+],
+  "geometry": {"coordinates":[-88.780517,33.468526],"type":"Point"}
+}

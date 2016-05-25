@@ -1,0 +1,73 @@
+{
+  "id": 857252143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.394837,32.840702,-90.394837,32.840702",
+    "geom:latitude":32.840702,
+    "geom:longitude":-90.394837,
+    "iso:country":"US",
+    "sg:address":"1240 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2513",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UP95x2uUZ2c4sJuOL4uF2_32.840702_-90.394837@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125295,
+    "wof:geomhash":"4dac568720b29f374ce42458136efa3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857252143
+        }
+    ],
+    "wof:id":857252143,
+    "wof:lastmodified":1464125295,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.394837,
+    32.840702,
+    -90.394837,
+    32.840702
+],
+  "geometry": {"coordinates":[-90.394837,32.840702],"type":"Point"}
+}

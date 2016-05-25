@@ -1,0 +1,75 @@
+{
+  "id": 857148333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.192831,32.285427,-90.192831,32.285427",
+    "geom:latitude":32.285427,
+    "geom:longitude":-90.192831,
+    "iso:country":"US",
+    "sg:address":"1318 S Gallatin St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 948 2343",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TE1WSRzMpBCNi6xytzflY_32.285427_-90.192831@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123108,
+    "wof:geomhash":"2e7a91b1bfb38e7e3fe16654df6b7837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857148333
+        }
+    ],
+    "wof:id":857148333,
+    "wof:lastmodified":1464123108,
+    "wof:name":"Neely's Auto Electric Svc Inc",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -90.192831,
+    32.285427,
+    -90.192831,
+    32.285427
+],
+  "geometry": {"coordinates":[-90.192831,32.285427],"type":"Point"}
+}

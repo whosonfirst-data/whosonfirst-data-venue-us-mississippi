@@ -1,0 +1,73 @@
+{
+  "id": 857334907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.230249,32.253468,-90.230249,32.253468",
+    "geom:latitude":32.253468,
+    "geom:longitude":-90.230249,
+    "iso:country":"US",
+    "sg:address":"120 Cooper Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 6381",
+    "sg:postcode":"39212",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DvCaJyPoldY8NWGyiWesI_32.253468_-90.230249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127165,
+    "wof:geomhash":"6361e664b8bf1c2e7add184ddba0b976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857334907
+        }
+    ],
+    "wof:id":857334907,
+    "wof:lastmodified":1464127165,
+    "wof:name":"Richland Discount Drugs",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.230249,
+    32.253468,
+    -90.230249,
+    32.253468
+],
+  "geometry": {"coordinates":[-90.230249,32.253468],"type":"Point"}
+}

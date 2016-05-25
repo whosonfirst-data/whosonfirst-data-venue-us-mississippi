@@ -1,0 +1,75 @@
+{
+  "id": 857252533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639537,30.542683,-88.639537,30.542683",
+    "geom:latitude":30.542683,
+    "geom:longitude":-88.639537,
+    "iso:country":"US",
+    "sg:address":"2324 Holder Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 217 4432",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cjLJbeH5Inz2rJF7xkHF1_30.542683_-88.639537@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125309,
+    "wof:geomhash":"bcc3caf7130025f961f8fce93eab38a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857252533
+        }
+    ],
+    "wof:id":857252533,
+    "wof:lastmodified":1464125309,
+    "wof:name":"Krebs Customozing",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -88.639537,
+    30.542683,
+    -88.639537,
+    30.542683
+],
+  "geometry": {"coordinates":[-88.639537,30.542683],"type":"Point"}
+}

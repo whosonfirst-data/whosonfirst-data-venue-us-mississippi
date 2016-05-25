@@ -1,0 +1,71 @@
+{
+  "id": 857384159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.237236,30.327558,-89.237236,30.327558",
+    "geom:latitude":30.327558,
+    "geom:longitude":-89.237236,
+    "iso:country":"US",
+    "sg:address":"212 Lynn Cir",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 6027",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tnq3vrl8aTBVy4MUbdQqt_30.327558_-89.237236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128245,
+    "wof:geomhash":"6a7a5f68423381202610999d78aa2523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857384159
+        }
+    ],
+    "wof:id":857384159,
+    "wof:lastmodified":1464128245,
+    "wof:name":"Teenies 2-Cool Hair & Beauty",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.237236,
+    30.327558,
+    -89.237236,
+    30.327558
+],
+  "geometry": {"coordinates":[-89.237236,30.327558],"type":"Point"}
+}

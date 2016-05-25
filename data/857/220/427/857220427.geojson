@@ -1,0 +1,73 @@
+{
+  "id": 857220427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.774675,34.111412,-88.774675,34.111412",
+    "geom:latitude":34.111412,
+    "geom:longitude":-88.774675,
+    "iso:country":"US",
+    "sg:address":"968 Co Rd 506",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 8700",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49xCks1PtpvQ3c9CITAyrb_34.111412_-88.774675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124621,
+    "wof:geomhash":"bf94eedc5539b88ab281ac277121499d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857220427
+        }
+    ],
+    "wof:id":857220427,
+    "wof:lastmodified":1464124621,
+    "wof:name":"Pickering Garage",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.774675,
+    34.111412,
+    -88.774675,
+    34.111412
+],
+  "geometry": {"coordinates":[-88.774675,34.111412],"type":"Point"}
+}

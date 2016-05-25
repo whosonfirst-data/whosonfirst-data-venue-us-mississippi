@@ -1,0 +1,71 @@
+{
+  "id": 857135877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.983412,31.959765,-90.983412,31.959765",
+    "geom:latitude":31.959765,
+    "geom:longitude":-90.983412,
+    "iso:country":"US",
+    "sg:address":"713 Farmer St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 8099",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfvVsC8QjnoEEvok3pu7x_31.959765_-90.983412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122802,
+    "wof:geomhash":"8ef20e91c771473564d07da96cf4a571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857135877
+        }
+    ],
+    "wof:id":857135877,
+    "wof:lastmodified":1464122802,
+    "wof:name":"Southern Home Care",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -90.983412,
+    31.959765,
+    -90.983412,
+    31.959765
+],
+  "geometry": {"coordinates":[-90.983412,31.959765],"type":"Point"}
+}

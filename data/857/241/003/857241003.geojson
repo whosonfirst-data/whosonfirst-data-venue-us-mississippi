@@ -1,0 +1,71 @@
+{
+  "id": 857241003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.165997,31.416076,-89.165997,31.416076",
+    "geom:latitude":31.416076,
+    "geom:longitude":-89.165997,
+    "iso:country":"US",
+    "sg:address":"65 Pleasant Trl",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 6705",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zQOutLdVSlZV7DjflzfsN_31.416076_-89.165997@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125028,
+    "wof:geomhash":"7cd751bbdae8d7e30f2e0e018f8d78a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857241003
+        }
+    ],
+    "wof:id":857241003,
+    "wof:lastmodified":1464125028,
+    "wof:name":"Ichiban",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.165997,
+    31.416076,
+    -89.165997,
+    31.416076
+],
+  "geometry": {"coordinates":[-89.165997,31.416076],"type":"Point"}
+}

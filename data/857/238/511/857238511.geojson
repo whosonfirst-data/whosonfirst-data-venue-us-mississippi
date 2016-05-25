@@ -1,0 +1,73 @@
+{
+  "id": 857238511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.444051,33.524714,-88.444051,33.524714",
+    "geom:latitude":33.524714,
+    "geom:longitude":-88.444051,
+    "iso:country":"US",
+    "sg:address":"445 Wilkins-Wise Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 4848",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Nq0JZyaPa5JLzQ468zrh_33.524714_-88.444051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124973,
+    "wof:geomhash":"b482e2ee4879b6f1a0ac6a3b5862435a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857238511
+        }
+    ],
+    "wof:id":857238511,
+    "wof:lastmodified":1464124973,
+    "wof:name":"Mid-American Sewing Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -88.444051,
+    33.524714,
+    -88.444051,
+    33.524714
+],
+  "geometry": {"coordinates":[-88.444051,33.524714],"type":"Point"}
+}

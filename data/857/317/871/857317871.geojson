@@ -1,0 +1,71 @@
+{
+  "id": 857317871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415454,32.847885,-90.415454,32.847885",
+    "geom:latitude":32.847885,
+    "geom:longitude":-90.415454,
+    "iso:country":"US",
+    "sg:address":"211 W Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5214",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EOX5e1dhxsfu62hbYGNAr_32.847885_-90.415454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126793,
+    "wof:geomhash":"65184602f50d67dfe27eb89c569e827e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857317871
+        }
+    ],
+    "wof:id":857317871,
+    "wof:lastmodified":1464126793,
+    "wof:name":"Yazoo County Judge",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -90.415454,
+    32.847885,
+    -90.415454,
+    32.847885
+],
+  "geometry": {"coordinates":[-90.415454,32.847885],"type":"Point"}
+}

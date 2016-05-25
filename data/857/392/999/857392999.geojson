@@ -1,0 +1,73 @@
+{
+  "id": 857392999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.43598,33.51751,-88.43598,33.51751",
+    "geom:latitude":33.51751,
+    "geom:longitude":-88.43598,
+    "iso:country":"US",
+    "sg:address":"212 Lincoln Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1799",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1owF6dmt8BbE8P3ADE541l_33.517510_-88.435980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128483,
+    "wof:geomhash":"f6f57b809b1d00f1f1f89723af2b2094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857392999
+        }
+    ],
+    "wof:id":857392999,
+    "wof:lastmodified":1464128483,
+    "wof:name":"George T Sumrall Transportion",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.43598,
+    33.51751,
+    -88.43598,
+    33.51751
+],
+  "geometry": {"coordinates":[-88.43598,33.51751],"type":"Point"}
+}

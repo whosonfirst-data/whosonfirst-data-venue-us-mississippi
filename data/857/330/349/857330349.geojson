@@ -1,0 +1,71 @@
+{
+  "id": 857330349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.555047,30.359876,-88.555047,30.359876",
+    "geom:latitude":30.359876,
+    "geom:longitude":-88.555047,
+    "iso:country":"US",
+    "sg:address":"2434 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2053",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7meUbLavzZ6jAvmN4XZP2K_30.359876_-88.555047@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127060,
+    "wof:geomhash":"dacc357e3753523101a3c8ab8a66aa5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857330349
+        }
+    ],
+    "wof:id":857330349,
+    "wof:lastmodified":1464127060,
+    "wof:name":"Break Time Vending",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -88.555047,
+    30.359876,
+    -88.555047,
+    30.359876
+],
+  "geometry": {"coordinates":[-88.555047,30.359876],"type":"Point"}
+}

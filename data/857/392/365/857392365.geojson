@@ -1,0 +1,73 @@
+{
+  "id": 857392365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.566839,33.812846,-88.566839,33.812846",
+    "geom:latitude":33.812846,
+    "geom:longitude":-88.566839,
+    "iso:country":"US",
+    "sg:address":"10815 Hwy 25 S",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6550",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PUHWOpYTMQiV2b1w39efS_33.812846_-88.566839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128472,
+    "wof:geomhash":"e6cdbe88d9dc726352c433ef919743d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857392365
+        }
+    ],
+    "wof:id":857392365,
+    "wof:lastmodified":1464128472,
+    "wof:name":"Nason Construction Co",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.566839,
+    33.812846,
+    -88.566839,
+    33.812846
+],
+  "geometry": {"coordinates":[-88.566839,33.812846],"type":"Point"}
+}

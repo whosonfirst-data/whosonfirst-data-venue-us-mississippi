@@ -1,0 +1,78 @@
+{
+  "id": 857228975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.823017,33.462027,-88.823017,33.462027",
+    "geom:latitude":33.462027,
+    "geom:longitude":-88.823017,
+    "iso:country":"US",
+    "sg:address":"401 Greensboro St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 615 0035",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85841087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s4KFU463RB7pPd2Ps1Zke_33.462027_-88.823017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124789,
+    "wof:geomhash":"daaa00f8b50f2fc335d8f2ea4089ee6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85841087,
+            "region_id":85688579,
+            "venue_id":857228975
+        }
+    ],
+    "wof:id":857228975,
+    "wof:lastmodified":1464124789,
+    "wof:name":"Starkville School District",
+    "wof:parent_id":85841087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -88.823017,
+    33.462027,
+    -88.823017,
+    33.462027
+],
+  "geometry": {"coordinates":[-88.82301699999999,33.462027],"type":"Point"}
+}

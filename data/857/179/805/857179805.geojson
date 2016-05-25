@@ -1,0 +1,71 @@
+{
+  "id": 857179805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.427125,33.521182,-88.427125,33.521182",
+    "geom:latitude":33.521182,
+    "geom:longitude":-88.427125,
+    "iso:country":"US",
+    "sg:address":"540 Willowbrook Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4523",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69IyArBIsJ5TiTU6IRcmMw_33.521182_-88.427125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123790,
+    "wof:geomhash":"7b29a9040e9ec730a7dae0126221f7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857179805
+        }
+    ],
+    "wof:id":857179805,
+    "wof:lastmodified":1464123790,
+    "wof:name":"Willowbrook Dental Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.427125,
+    33.521182,
+    -88.427125,
+    33.521182
+],
+  "geometry": {"coordinates":[-88.427125,33.521182],"type":"Point"}
+}

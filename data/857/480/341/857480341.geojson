@@ -1,0 +1,76 @@
+{
+  "id": 857480341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.85643,34.962566,-89.85643,34.962566",
+    "geom:latitude":34.962566,
+    "geom:longitude":-89.85643,
+    "iso:country":"US",
+    "sg:address":"7500 Commerce Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/205108-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4811",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uPt1qLoSq7ET0cWJrBqyY_34.962566_-89.856430@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130376,
+    "wof:geomhash":"7f6a48de2f3948eb3c7db12960afd4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857480341
+        }
+    ],
+    "wof:id":857480341,
+    "wof:lastmodified":1464130376,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.85643,
+    34.962566,
+    -89.85643,
+    34.962566
+],
+  "geometry": {"coordinates":[-89.85643,34.962566],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857264919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.508627,34.383833,-89.508627,34.383833",
+    "geom:latitude":34.383833,
+    "geom:longitude":-89.508627,
+    "iso:country":"US",
+    "sg:address":"1425 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 3900",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rFotnlWipZOqg38KdcU6m_34.383833_-89.508627@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125591,
+    "wof:geomhash":"7e67361c733c60e002f449ad3671ee70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857264919
+        }
+    ],
+    "wof:id":857264919,
+    "wof:lastmodified":1464125591,
+    "wof:name":"Lafayette Cnty Metro Narcotics",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.508627,
+    34.383833,
+    -89.508627,
+    34.383833
+],
+  "geometry": {"coordinates":[-89.508627,34.383833],"type":"Point"}
+}

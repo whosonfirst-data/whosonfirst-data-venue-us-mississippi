@@ -1,0 +1,75 @@
+{
+  "id": 857360307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.150866,32.198263,-90.150866,32.198263",
+    "geom:latitude":32.198263,
+    "geom:longitude":-90.150866,
+    "iso:country":"US",
+    "sg:address":"176 Tami Ave",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 1939",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85842145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nHKQSsWWoCYFNtsWqtCiK_32.198263_-90.150866@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127704,
+    "wof:geomhash":"b286bb59bb1a53bf4b48f24eb6ae38ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85842145,
+            "region_id":85688579,
+            "venue_id":857360307
+        }
+    ],
+    "wof:id":857360307,
+    "wof:lastmodified":1464127704,
+    "wof:name":"Moak Trucking Inc",
+    "wof:parent_id":85842145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.150866,
+    32.198263,
+    -90.150866,
+    32.198263
+],
+  "geometry": {"coordinates":[-90.15086599999999,32.198263],"type":"Point"}
+}

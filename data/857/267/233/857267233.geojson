@@ -1,0 +1,71 @@
+{
+  "id": 857267233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.783032,30.414222,-88.783032,30.414222",
+    "geom:latitude":30.414222,
+    "geom:longitude":-88.783032,
+    "iso:country":"US",
+    "sg:address":"24 Marks Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0066",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TlG96BCI9PA48vxd7iI5d_30.414222_-88.783032@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125633,
+    "wof:geomhash":"9a00d4679edb597c68e9e58e023891e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857267233
+        }
+    ],
+    "wof:id":857267233,
+    "wof:lastmodified":1464125633,
+    "wof:name":"Advanced Skin Care Center",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.783032,
+    30.414222,
+    -88.783032,
+    30.414222
+],
+  "geometry": {"coordinates":[-88.78303200000001,30.414222],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857475209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.537154,30.413175,-88.537154,30.413175",
+    "geom:latitude":30.413175,
+    "geom:longitude":-88.537154,
+    "iso:country":"US",
+    "sg:address":"5001 Morris St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 2345",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05h8vfwkcvmvrriWl0hlpr_30.413175_-88.537154@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130283,
+    "wof:geomhash":"7436113502bec9baf91b96b0b1c39911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857475209
+        }
+    ],
+    "wof:id":857475209,
+    "wof:lastmodified":1464130283,
+    "wof:name":"Moss Point Community Dev",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -88.537154,
+    30.413175,
+    -88.537154,
+    30.413175
+],
+  "geometry": {"coordinates":[-88.537154,30.413175],"type":"Point"}
+}

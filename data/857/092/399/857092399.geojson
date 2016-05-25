@@ -1,0 +1,71 @@
+{
+  "id": 857092399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.333279,33.375339,-88.333279,33.375339",
+    "geom:latitude":33.375339,
+    "geom:longitude":-88.333279,
+    "iso:country":"US",
+    "sg:address":"412 Thaxton Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 2247",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mKq9hnglDsoVi6U0NeFYQ_33.375339_-88.333279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121739,
+    "wof:geomhash":"6a8d97c346e684fabaa60e2745811241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857092399
+        }
+    ],
+    "wof:id":857092399,
+    "wof:lastmodified":1464121739,
+    "wof:name":"Cook Auction & Estate Apprsl",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -88.333279,
+    33.375339,
+    -88.333279,
+    33.375339
+],
+  "geometry": {"coordinates":[-88.333279,33.375339],"type":"Point"}
+}

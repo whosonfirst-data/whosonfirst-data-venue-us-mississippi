@@ -1,0 +1,71 @@
+{
+  "id": 857468017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.777773,32.348302,-90.777773,32.348302",
+    "geom:latitude":32.348302,
+    "geom:longitude":-90.777773,
+    "iso:country":"US",
+    "sg:address":"130 Eighty Pit Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 6245",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qkz2ZTeL0sVHVxL5CAaOq_32.348302_-90.777773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130125,
+    "wof:geomhash":"96b1b53e5e08d935a0eec21512ee31bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857468017
+        }
+    ],
+    "wof:id":857468017,
+    "wof:lastmodified":1464130125,
+    "wof:name":"Highway 80 Gravel Pit",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -90.777773,
+    32.348302,
+    -90.777773,
+    32.348302
+],
+  "geometry": {"coordinates":[-90.777773,32.348302],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857283797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.75396,34.102888,-88.75396,34.102888",
+    "geom:latitude":34.102888,
+    "geom:longitude":-88.75396,
+    "iso:country":"US",
+    "sg:address":"1089 Co Rd 506",
+    "sg:city":"Shannon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 9901",
+    "sg:postcode":"38868",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ze9nztsfsBKacJRDjfwCQ_34.102888_-88.753960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125997,
+    "wof:geomhash":"0f81a81ff47d69b89490d688c488fbde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857283797
+        }
+    ],
+    "wof:id":857283797,
+    "wof:lastmodified":1464125997,
+    "wof:name":"Tri County Septic Tank Svc",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.75396,
+    34.102888,
+    -88.75396,
+    34.102888
+],
+  "geometry": {"coordinates":[-88.75396000000001,34.102888],"type":"Point"}
+}

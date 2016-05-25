@@ -1,0 +1,71 @@
+{
+  "id": 857183759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971141,32.414156,-89.971141,32.414156",
+    "geom:latitude":32.414156,
+    "geom:longitude":-89.971141,
+    "iso:country":"US",
+    "sg:address":"373 Church Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 829 2676",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "machine",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79damRJYGltbH2ktHP5wCk_32.414156_-89.971141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123871,
+    "wof:geomhash":"f21a63d726a5542b21c4efd929e97e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857183759
+        }
+    ],
+    "wof:id":857183759,
+    "wof:lastmodified":1464123871,
+    "wof:name":"Courtney's Machine Svc",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "copying"
+    ]
+},
+  "bbox": [
+    -89.971141,
+    32.414156,
+    -89.971141,
+    32.414156
+],
+  "geometry": {"coordinates":[-89.971141,32.414156],"type":"Point"}
+}

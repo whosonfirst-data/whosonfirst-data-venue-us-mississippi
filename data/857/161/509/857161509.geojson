@@ -1,0 +1,75 @@
+{
+  "id": 857161509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704115,32.365069,-88.704115,32.365069",
+    "geom:latitude":32.365069,
+    "geom:longitude":-88.704115,
+    "iso:country":"US",
+    "sg:address":"2400 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 0012",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YDxEfSBB7KA9OXe0zjge6_32.365069_-88.704115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123391,
+    "wof:geomhash":"7e902fcbec7725d84a9bcd72b5d6ea35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857161509
+        }
+    ],
+    "wof:id":857161509,
+    "wof:lastmodified":1464123391,
+    "wof:name":"Downtime Phillips 66",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.704115,
+    32.365069,
+    -88.704115,
+    32.365069
+],
+  "geometry": {"coordinates":[-88.704115,32.365069],"type":"Point"}
+}

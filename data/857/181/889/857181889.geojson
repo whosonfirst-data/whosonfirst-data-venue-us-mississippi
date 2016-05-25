@@ -1,0 +1,77 @@
+{
+  "id": 857181889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671312,34.257557,-88.671312,34.257557",
+    "geom:latitude":34.257557,
+    "geom:longitude":-88.671312,
+    "iso:country":"US",
+    "sg:address":"1502 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 2700",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fktY7IuFQpOlcUlhHq28z_34.257557_-88.671312@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123833,
+    "wof:geomhash":"bba28198ad879d2e49ff3bdf415a0247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857181889
+        }
+    ],
+    "wof:id":857181889,
+    "wof:lastmodified":1464123833,
+    "wof:name":"East Main Motors",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -88.671312,
+    34.257557,
+    -88.671312,
+    34.257557
+],
+  "geometry": {"coordinates":[-88.671312,34.257557],"type":"Point"}
+}

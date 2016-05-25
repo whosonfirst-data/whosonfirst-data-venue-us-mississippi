@@ -1,0 +1,75 @@
+{
+  "id": 857102099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.146604,30.352489,-89.146604,30.352489",
+    "geom:latitude":30.352489,
+    "geom:longitude":-89.146604,
+    "iso:country":"US",
+    "sg:address":"202 E Railroad St",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 5001",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xg1f6jo1zTCHAGbUh26ot_30.352489_-89.146604@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121963,
+    "wof:geomhash":"b8069699f8cfbbd32ccbc9b1facb2eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857102099
+        }
+    ],
+    "wof:id":857102099,
+    "wof:lastmodified":1464121963,
+    "wof:name":"Check One",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -89.146604,
+    30.352489,
+    -89.146604,
+    30.352489
+],
+  "geometry": {"coordinates":[-89.146604,30.352489],"type":"Point"}
+}

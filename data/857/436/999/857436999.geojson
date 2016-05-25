@@ -1,0 +1,75 @@
+{
+  "id": 857436999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.574221,34.384369,-89.574221,34.384369",
+    "geom:latitude":34.384369,
+    "geom:longitude":-89.574221,
+    "iso:country":"US",
+    "sg:address":"30 Rd 1090",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 9993",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iQmRCOn8P2fiqSNhwTSbb_34.384369_-89.574221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129510,
+    "wof:geomhash":"61b6d01beeeb45a802a96431b30acd88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857436999
+        }
+    ],
+    "wof:id":857436999,
+    "wof:lastmodified":1464129510,
+    "wof:name":"Oxford Mobile Park",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site"
+    ]
+},
+  "bbox": [
+    -89.574221,
+    34.384369,
+    -89.574221,
+    34.384369
+],
+  "geometry": {"coordinates":[-89.57422099999999,34.384369],"type":"Point"}
+}

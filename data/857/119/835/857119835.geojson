@@ -1,0 +1,71 @@
+{
+  "id": 857119835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.734561,34.231062,-88.734561,34.231062",
+    "geom:latitude":34.231062,
+    "geom:longitude":-88.734561,
+    "iso:country":"US",
+    "sg:address":"1501 Ruffwood Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 9710",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68cSHiLx4vH1STLGUfhoSV_34.231062_-88.734561@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122446,
+    "wof:geomhash":"3b7a34cd4e0c78785f1961c57c0d0037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857119835
+        }
+    ],
+    "wof:id":857119835,
+    "wof:lastmodified":1464122446,
+    "wof:name":"Mitchell Sharon Barze MD",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.734561,
+    34.231062,
+    -88.734561,
+    34.231062
+],
+  "geometry": {"coordinates":[-88.734561,34.231062],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857180519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567892,34.192196,-90.567892,34.192196",
+    "geom:latitude":34.192196,
+    "geom:longitude":-90.567892,
+    "iso:country":"US",
+    "sg:address":"217 12th St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 4712",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tx3VqE538cVmLTIgW4aRf_34.192196_-90.567892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123806,
+    "wof:geomhash":"7a8cf95bfbb38eab09a6f2beaebe9584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857180519
+        }
+    ],
+    "wof:id":857180519,
+    "wof:lastmodified":1464123806,
+    "wof:name":"Lamb Of God",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.567892,
+    34.192196,
+    -90.567892,
+    34.192196
+],
+  "geometry": {"coordinates":[-90.567892,34.192196],"type":"Point"}
+}

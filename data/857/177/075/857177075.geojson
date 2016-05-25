@@ -1,0 +1,75 @@
+{
+  "id": 857177075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.546038,30.366099,-88.546038,30.366099",
+    "geom:latitude":30.366099,
+    "geom:longitude":-88.546038,
+    "iso:country":"US",
+    "sg:address":"1903 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 2737",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iq1ZxnWkiwuSdcWNw0Kdj_30.366099_-88.546038@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123734,
+    "wof:geomhash":"bf1c64d5c0dd171e68d54077367fe55d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857177075
+        }
+    ],
+    "wof:id":857177075,
+    "wof:lastmodified":1464123734,
+    "wof:name":"Glenn's Auto & Marine Repair",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.546038,
+    30.366099,
+    -88.546038,
+    30.366099
+],
+  "geometry": {"coordinates":[-88.546038,30.366099],"type":"Point"}
+}

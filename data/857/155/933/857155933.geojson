@@ -1,0 +1,71 @@
+{
+  "id": 857155933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.285636,33.612205,-88.285636,33.612205",
+    "geom:latitude":33.612205,
+    "geom:longitude":-88.285636,
+    "iso:country":"US",
+    "sg:address":"3162 Vaughn Robertson Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 6228",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lu6S1xOwtHBxagk2Gbeas_33.612205_-88.285636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123265,
+    "wof:geomhash":"26d5f7a9aeb1f301f205b3082bf7339a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857155933
+        }
+    ],
+    "wof:id":857155933,
+    "wof:lastmodified":1464123265,
+    "wof:name":"Thorne Refrigeration Inc",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.285636,
+    33.612205,
+    -88.285636,
+    33.612205
+],
+  "geometry": {"coordinates":[-88.285636,33.612205],"type":"Point"}
+}

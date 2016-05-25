@@ -1,0 +1,71 @@
+{
+  "id": 857349097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.559258,30.366075,-88.559258,30.366075",
+    "geom:latitude":30.366075,
+    "geom:longitude":-88.559258,
+    "iso:country":"US",
+    "sg:address":"3103 Magnolia St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 3056",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lQCK88mKEGjbpsjpN86pb_30.366075_-88.559258@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127468,
+    "wof:geomhash":"49bffc2b643fa00ee70bb5bdef29deba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857349097
+        }
+    ],
+    "wof:id":857349097,
+    "wof:lastmodified":1464127468,
+    "wof:name":"Jackson Co Planning",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -88.559258,
+    30.366075,
+    -88.559258,
+    30.366075
+],
+  "geometry": {"coordinates":[-88.559258,30.366075],"type":"Point"}
+}

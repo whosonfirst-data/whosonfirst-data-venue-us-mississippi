@@ -1,0 +1,71 @@
+{
+  "id": 857254685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.417099,33.518309,-88.417099,33.518309",
+    "geom:latitude":33.518309,
+    "geom:longitude":-88.417099,
+    "iso:country":"US",
+    "sg:address":"3502 Bluecutt Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3344",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4an2jlEcbziP0ZhuyPFrpL_33.518309_-88.417099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125369,
+    "wof:geomhash":"90fd232d45cbe932a866fd650b4ff69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857254685
+        }
+    ],
+    "wof:id":857254685,
+    "wof:lastmodified":1464125369,
+    "wof:name":"Healthcare Source",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.417099,
+    33.518309,
+    -88.417099,
+    33.518309
+],
+  "geometry": {"coordinates":[-88.41709899999999,33.518309],"type":"Point"}
+}

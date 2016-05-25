@@ -1,0 +1,71 @@
+{
+  "id": 857415147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285063,31.310138,-89.285063,31.310138",
+    "geom:latitude":31.310138,
+    "geom:longitude":-89.285063,
+    "iso:country":"US",
+    "sg:address":"1001 Edwards St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0938",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25SvyewHNJTZC8KzHA48gn_31.310138_-89.285063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128979,
+    "wof:geomhash":"98ab8ebebec1410c666f315bc9552838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857415147
+        }
+    ],
+    "wof:id":857415147,
+    "wof:lastmodified":1464128979,
+    "wof:name":"Cottrell CME Church",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.285063,
+    31.310138,
+    -89.285063,
+    31.310138
+],
+  "geometry": {"coordinates":[-89.28506299999999,31.310138],"type":"Point"}
+}

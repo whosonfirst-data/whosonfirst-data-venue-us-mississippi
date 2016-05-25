@@ -1,0 +1,73 @@
+{
+  "id": 857086345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.840206,32.326791,-90.840206,32.326791",
+    "geom:latitude":32.326791,
+    "geom:longitude":-90.840206,
+    "iso:country":"US",
+    "sg:address":"902 Blossom Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 5587",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uOCgnsgzXIcl2VW2t3ycB_32.326791_-90.840206@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121569,
+    "wof:geomhash":"4083608bc44a760cf80a1e4342b54315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857086345
+        }
+    ],
+    "wof:id":857086345,
+    "wof:lastmodified":1464121569,
+    "wof:name":"Apple Orchard Apartments",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.840206,
+    32.326791,
+    -90.840206,
+    32.326791
+],
+  "geometry": {"coordinates":[-90.84020599999999,32.326791],"type":"Point"}
+}

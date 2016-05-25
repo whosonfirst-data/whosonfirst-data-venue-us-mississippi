@@ -1,0 +1,71 @@
+{
+  "id": 857159041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.779553,33.464752,-88.779553,33.464752",
+    "geom:latitude":33.464752,
+    "geom:longitude":-88.779553,
+    "iso:country":"US",
+    "sg:address":"1120 E Lee Blvd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 0613",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bOT6YPT3ZQZPbEvc113DN_33.464752_-88.779553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123327,
+    "wof:geomhash":"97ace0633552b138f7b83e36441d8c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857159041
+        }
+    ],
+    "wof:id":857159041,
+    "wof:lastmodified":1464123327,
+    "wof:name":"A Plus Carpet Doctor",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.779553,
+    33.464752,
+    -88.779553,
+    33.464752
+],
+  "geometry": {"coordinates":[-88.77955300000001,33.464752],"type":"Point"}
+}

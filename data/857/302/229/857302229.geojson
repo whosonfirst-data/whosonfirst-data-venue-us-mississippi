@@ -1,0 +1,73 @@
+{
+  "id": 857302229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.805879,33.463751,-88.805879,33.463751",
+    "geom:latitude":33.463751,
+    "geom:longitude":-88.805879,
+    "iso:country":"US",
+    "sg:address":"200 Hartness St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1729",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970193,
+        102083159,
+        85811827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PhO7Avbkyc9xEYxlQbkte_33.463751_-88.805879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126460,
+    "wof:geomhash":"9f2f095afe3b1d7989150e320962f7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85811827,
+            "region_id":85688579,
+            "venue_id":857302229
+        }
+    ],
+    "wof:id":857302229,
+    "wof:lastmodified":1464126460,
+    "wof:name":"Toteff C Adair Dr",
+    "wof:parent_id":85811827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.805879,
+    33.463751,
+    -88.805879,
+    33.463751
+],
+  "geometry": {"coordinates":[-88.805879,33.463751],"type":"Point"}
+}

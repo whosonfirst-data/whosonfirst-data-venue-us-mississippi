@@ -1,0 +1,70 @@
+{
+  "id": 857099125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.425419,31.31677,-89.425419,31.31677",
+    "geom:latitude":31.31677,
+    "geom:longitude":-89.425419,
+    "iso:country":"US",
+    "sg:address":"6610 US Hwy 98",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 261 0912",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.classicconcepts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nU3yzHGq2tY4j6V7QbE5k_31.316770_-89.425419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121884,
+    "wof:geomhash":"78a19c7580e88469d256f021c643b8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857099125
+        }
+    ],
+    "wof:id":857099125,
+    "wof:lastmodified":1464121884,
+    "wof:name":"Classic Concepts",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -89.425419,
+    31.31677,
+    -89.425419,
+    31.31677
+],
+  "geometry": {"coordinates":[-89.42541900000001,31.31677],"type":"Point"}
+}

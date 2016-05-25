@@ -1,0 +1,72 @@
+{
+  "id": 857095827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509906,34.474506,-89.509906,34.474506",
+    "geom:latitude":34.474506,
+    "geom:longitude":-89.509906,
+    "iso:country":"US",
+    "sg:address":"37 Co Rd 115",
+    "sg:city":"Abbeville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5662",
+    "sg:postcode":"38601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "sg:website":"www.ics-hs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AvVyfqmqSbNGD96MSUgo2_34.474506_-89.509906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121808,
+    "wof:geomhash":"a8c7472d7c289bab8f29a32a1c9f1b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857095827
+        }
+    ],
+    "wof:id":857095827,
+    "wof:lastmodified":1464121808,
+    "wof:name":"ICS Headstart",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -89.509906,
+    34.474506,
+    -89.509906,
+    34.474506
+],
+  "geometry": {"coordinates":[-89.509906,34.474506],"type":"Point"}
+}

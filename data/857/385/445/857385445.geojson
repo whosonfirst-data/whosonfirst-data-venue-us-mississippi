@@ -1,0 +1,71 @@
+{
+  "id": 857385445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.564124,34.362108,-89.564124,34.362108",
+    "geom:latitude":34.362108,
+    "geom:longitude":-89.564124,
+    "iso:country":"US",
+    "sg:address":"2302 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7296",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m07Sm6LmQS2rakuFOZpf9_34.362108_-89.564124@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128292,
+    "wof:geomhash":"4b1063b0b23ccb7a3ea22ffa8fe743a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857385445
+        }
+    ],
+    "wof:id":857385445,
+    "wof:lastmodified":1464128292,
+    "wof:name":"First Federal Exchange Inc",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -89.564124,
+    34.362108,
+    -89.564124,
+    34.362108
+],
+  "geometry": {"coordinates":[-89.56412400000001,34.362108],"type":"Point"}
+}

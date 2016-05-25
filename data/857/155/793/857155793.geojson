@@ -1,0 +1,73 @@
+{
+  "id": 857155793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.552048,34.197076,-90.552048,34.197076",
+    "geom:latitude":34.197076,
+    "geom:longitude":-90.552048,
+    "iso:country":"US",
+    "sg:address":"1970 Hospital Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 3479",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "federally",
+        "chartered"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y0HSZRdmleaq0L948MlLc_34.197076_-90.552048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123263,
+    "wof:geomhash":"54b5b2b27132d43bfc54415726c60f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857155793
+        }
+    ],
+    "wof:id":857155793,
+    "wof:lastmodified":1464123263,
+    "wof:name":"Northwest Mississippi FCU",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federally",
+        "chartered"
+    ]
+},
+  "bbox": [
+    -90.552048,
+    34.197076,
+    -90.552048,
+    34.197076
+],
+  "geometry": {"coordinates":[-90.552048,34.197076],"type":"Point"}
+}

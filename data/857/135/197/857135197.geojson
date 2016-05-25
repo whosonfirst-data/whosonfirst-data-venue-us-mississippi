@@ -1,0 +1,71 @@
+{
+  "id": 857135197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.409841,32.844644,-90.409841,32.844644",
+    "geom:latitude":32.844644,
+    "geom:longitude":-90.409841,
+    "iso:country":"US",
+    "sg:address":"128 E Jefferson St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 1401",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kKfc4eZ7r6otvTrV6NOCU_32.844644_-90.409841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122787,
+    "wof:geomhash":"c359bb7fd8a7741e4308a43887ea9d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857135197
+        }
+    ],
+    "wof:id":857135197,
+    "wof:lastmodified":1464122787,
+    "wof:name":"Yazoo City Clerk",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -90.409841,
+    32.844644,
+    -90.409841,
+    32.844644
+],
+  "geometry": {"coordinates":[-90.409841,32.844644],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857441591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.555098,34.405398,-89.555098,34.405398",
+    "geom:latitude":34.405398,
+    "geom:longitude":-89.555098,
+    "iso:country":"US",
+    "sg:address":"147 Co Rd 102",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8625",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WrHcHEwxK8G2Qag1L22QZ_34.405398_-89.555098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129598,
+    "wof:geomhash":"ecc5ce14a018ce91618d4ad3f7069f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857441591
+        }
+    ],
+    "wof:id":857441591,
+    "wof:lastmodified":1464129598,
+    "wof:name":"College Hill Heights Baptist",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.555098,
+    34.405398,
+    -89.555098,
+    34.405398
+],
+  "geometry": {"coordinates":[-89.555098,34.405398],"type":"Point"}
+}

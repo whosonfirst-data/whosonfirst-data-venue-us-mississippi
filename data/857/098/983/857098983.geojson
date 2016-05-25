@@ -1,0 +1,75 @@
+{
+  "id": 857098983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.587652,34.205042,-90.587652,34.205042",
+    "geom:latitude":34.205042,
+    "geom:longitude":-90.587652,
+    "iso:country":"US",
+    "sg:address":"520 Maple Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2438",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ALt5TkWivJgmh4HKqTv2_34.205042_-90.587652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121881,
+    "wof:geomhash":"07ad83641efda2f8ef33f97a3e6d0b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857098983
+        }
+    ],
+    "wof:id":857098983,
+    "wof:lastmodified":1464121881,
+    "wof:name":"Noland Hauling Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.587652,
+    34.205042,
+    -90.587652,
+    34.205042
+],
+  "geometry": {"coordinates":[-90.58765200000001,34.205042],"type":"Point"}
+}

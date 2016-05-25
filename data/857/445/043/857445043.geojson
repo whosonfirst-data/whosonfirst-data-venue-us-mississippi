@@ -1,0 +1,73 @@
+{
+  "id": 857445043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.413222,32.845826,-90.413222,32.845826",
+    "geom:latitude":32.845826,
+    "geom:longitude":-90.413222,
+    "iso:country":"US",
+    "sg:address":"210 S Washington St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2841",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lBIiYSyTyuUAkeyPqEqBe_32.845826_-90.413222@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129659,
+    "wof:geomhash":"2eb0dd38d4a226397ba4dec7d702af59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857445043
+        }
+    ],
+    "wof:id":857445043,
+    "wof:lastmodified":1464129659,
+    "wof:name":"Yazoo City Fire Department",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.413222,
+    32.845826,
+    -90.413222,
+    32.845826
+],
+  "geometry": {"coordinates":[-90.413222,32.845826],"type":"Point"}
+}

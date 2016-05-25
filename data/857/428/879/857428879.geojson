@@ -1,0 +1,73 @@
+{
+  "id": 857428879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.003333,32.280075,-90.003333,32.280075",
+    "geom:latitude":32.280075,
+    "geom:longitude":-90.003333,
+    "iso:country":"US",
+    "sg:address":"1534 W Government St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 824 2278",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KBVZ9dmikVrbXkIqKfdkA_32.280075_-90.003333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129314,
+    "wof:geomhash":"83c0d7ae0c8dc992d3a841374b178f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857428879
+        }
+    ],
+    "wof:id":857428879,
+    "wof:lastmodified":1464129314,
+    "wof:name":"Java Werks",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -90.003333,
+    32.280075,
+    -90.003333,
+    32.280075
+],
+  "geometry": {"coordinates":[-90.003333,32.280075],"type":"Point"}
+}

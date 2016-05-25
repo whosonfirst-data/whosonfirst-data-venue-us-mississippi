@@ -1,0 +1,73 @@
+{
+  "id": 857208377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.561267,33.81975,-88.561267,33.81975",
+    "geom:latitude":33.81975,
+    "geom:longitude":-88.561267,
+    "iso:country":"US",
+    "sg:address":"600 S Thayer Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4012",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cj6HYOW3RXic7h98taAGp_33.819750_-88.561267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124358,
+    "wof:geomhash":"ed060cd8e776f255b7027d50558904c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857208377
+        }
+    ],
+    "wof:id":857208377,
+    "wof:lastmodified":1464124358,
+    "wof:name":"Milton Earl Martin",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.561267,
+    33.81975,
+    -88.561267,
+    33.81975
+],
+  "geometry": {"coordinates":[-88.561267,33.81975],"type":"Point"}
+}

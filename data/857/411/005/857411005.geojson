@@ -1,0 +1,75 @@
+{
+  "id": 857411005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07244,32.430091,-90.07244,32.430091",
+    "geom:latitude":32.430091,
+    "geom:longitude":-90.07244,
+    "iso:country":"US",
+    "sg:address":"104 Dumaine Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 6788",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "farming",
+        "leasing",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ri5mMmsii8Gcs4O3gBS61_32.430091_-90.072440@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128875,
+    "wof:geomhash":"49645a44a9c18918e5ed6529d08dd017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857411005
+        }
+    ],
+    "wof:id":857411005,
+    "wof:lastmodified":1464128875,
+    "wof:name":"Wells Partners LP",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farming",
+        "leasing",
+        "land"
+    ]
+},
+  "bbox": [
+    -90.07244,
+    32.430091,
+    -90.07244,
+    32.430091
+],
+  "geometry": {"coordinates":[-90.07244,32.430091],"type":"Point"}
+}

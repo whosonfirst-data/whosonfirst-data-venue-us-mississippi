@@ -1,0 +1,71 @@
+{
+  "id": 857445439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.332382,33.66085,-88.332382,33.66085",
+    "geom:latitude":33.66085,
+    "geom:longitude":-88.332382,
+    "iso:country":"US",
+    "sg:address":"34 Cedar Point Dr",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 9078",
+    "sg:postcode":"39740",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63tQPMNeoVs5kFwDzM0GCU_33.660850_-88.332382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129671,
+    "wof:geomhash":"740ff3b73fd75f88cc588e10756be7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857445439
+        }
+    ],
+    "wof:id":857445439,
+    "wof:lastmodified":1464129671,
+    "wof:name":"Caledonia Volunteer Fire Stn",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -88.332382,
+    33.66085,
+    -88.332382,
+    33.66085
+],
+  "geometry": {"coordinates":[-88.332382,33.66085],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857291659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.241611,31.158678,-89.241611,31.158678",
+    "geom:latitude":31.158678,
+    "geom:longitude":-89.241611,
+    "iso:country":"US",
+    "sg:address":"40 Nancy Ln",
+    "sg:city":"Lumberton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 796 4000",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bgtfAzMKXf4E1C0a8jGEF_31.158678_-89.241611@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126187,
+    "wof:geomhash":"6a687e93cd18d87f094882347ad69ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857291659
+        }
+    ],
+    "wof:id":857291659,
+    "wof:lastmodified":1464126187,
+    "wof:name":"Riverside Riding Stable",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -89.241611,
+    31.158678,
+    -89.241611,
+    31.158678
+],
+  "geometry": {"coordinates":[-89.24161100000001,31.158678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857142943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.187115,30.360473,-89.187115,30.360473",
+    "geom:latitude":30.360473,
+    "geom:longitude":-89.187115,
+    "iso:country":"US",
+    "sg:address":"5095 Beatline Rd",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 865 3948",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y9zcaLLGNq0svsBe2yHb6_30.360473_-89.187115@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122962,
+    "wof:geomhash":"93f9878e116ee44c3ec62b2d24b821ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857142943
+        }
+    ],
+    "wof:id":857142943,
+    "wof:lastmodified":1464122962,
+    "wof:name":"Southern Medical Billing",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.187115,
+    30.360473,
+    -89.187115,
+    30.360473
+],
+  "geometry": {"coordinates":[-89.18711500000001,30.360473],"type":"Point"}
+}

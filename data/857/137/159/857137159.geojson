@@ -1,0 +1,71 @@
+{
+  "id": 857137159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.319906,32.294498,-90.319906,32.294498",
+    "geom:latitude":32.294498,
+    "geom:longitude":-90.319906,
+    "iso:country":"US",
+    "sg:address":"1644 S McRaven Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 922 9502",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0T0Eqjh4A7oYWrjOFwrg_32.294498_-90.319906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122832,
+    "wof:geomhash":"a92947a42d7d1361392d39149f975729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857137159
+        }
+    ],
+    "wof:id":857137159,
+    "wof:lastmodified":1464122832,
+    "wof:name":"Linda's Warehouse",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -90.319906,
+    32.294498,
+    -90.319906,
+    32.294498
+],
+  "geometry": {"coordinates":[-90.319906,32.294498],"type":"Point"}
+}

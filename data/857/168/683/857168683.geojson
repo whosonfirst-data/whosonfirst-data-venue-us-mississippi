@@ -1,0 +1,73 @@
+{
+  "id": 857168683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.653987,32.886857,-90.653987,32.886857",
+    "geom:latitude":32.886857,
+    "geom:longitude":-90.653987,
+    "iso:country":"US",
+    "sg:address":"102 Wyatt Ln",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 828 3238",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MoUhAtugqGCbRsDWlgunb_32.886857_-90.653987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123553,
+    "wof:geomhash":"e2ee41ed09d531966d183c761eba4ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857168683
+        }
+    ],
+    "wof:id":857168683,
+    "wof:lastmodified":1464123553,
+    "wof:name":"W Wyatt Farm & Timber LP",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.653987,
+    32.886857,
+    -90.653987,
+    32.886857
+],
+  "geometry": {"coordinates":[-90.653987,32.886857],"type":"Point"}
+}

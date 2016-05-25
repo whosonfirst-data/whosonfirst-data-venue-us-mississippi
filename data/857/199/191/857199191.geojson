@@ -1,0 +1,71 @@
+{
+  "id": 857199191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685026,34.252628,-88.685026,34.252628",
+    "geom:latitude":34.252628,
+    "geom:longitude":-88.685026,
+    "iso:country":"US",
+    "sg:address":"264 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 9063",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d6fHzXSJLcgMHUbs13NYG_34.252628_-88.685026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124160,
+    "wof:geomhash":"875f9ba0551fa315c4f8fbe3897d2611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857199191
+        }
+    ],
+    "wof:id":857199191,
+    "wof:lastmodified":1464124160,
+    "wof:name":"Dean Mc Rae Engineering South",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -88.685026,
+    34.252628,
+    -88.685026,
+    34.252628
+],
+  "geometry": {"coordinates":[-88.68502599999999,34.252628],"type":"Point"}
+}

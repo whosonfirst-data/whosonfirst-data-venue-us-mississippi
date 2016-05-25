@@ -1,0 +1,71 @@
+{
+  "id": 857428061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.454986,32.851071,-90.454986,32.851071",
+    "geom:latitude":32.851071,
+    "geom:longitude":-90.454986,
+    "iso:country":"US",
+    "sg:address":"19383 River Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8043",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWGQfEoeyn4Tk5lKM0ekD_32.851071_-90.454986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129298,
+    "wof:geomhash":"e88427614a4f9c41af0459b9bc9744e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857428061
+        }
+    ],
+    "wof:id":857428061,
+    "wof:lastmodified":1464129298,
+    "wof:name":"Cypress Brake Farms",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.454986,
+    32.851071,
+    -90.454986,
+    32.851071
+],
+  "geometry": {"coordinates":[-90.45498600000001,32.851071],"type":"Point"}
+}

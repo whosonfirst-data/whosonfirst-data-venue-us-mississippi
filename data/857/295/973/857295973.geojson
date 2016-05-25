@@ -1,0 +1,73 @@
+{
+  "id": 857295973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.08262,30.444887,-89.08262,30.444887",
+    "geom:latitude":30.444887,
+    "geom:longitude":-89.08262,
+    "iso:country":"US",
+    "sg:address":"138 James Dr",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 539 0778",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lkg3o3oul255kffR9J3Vt_30.444887_-89.082620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126323,
+    "wof:geomhash":"911dcfc3dc4722bbe9481827f5450d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857295973
+        }
+    ],
+    "wof:id":857295973,
+    "wof:lastmodified":1464126323,
+    "wof:name":"Mary Kay Beauty Conslt",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.08262,
+    30.444887,
+    -89.08262,
+    30.444887
+],
+  "geometry": {"coordinates":[-89.08262000000001,30.444887],"type":"Point"}
+}

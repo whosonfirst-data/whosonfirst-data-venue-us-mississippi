@@ -1,0 +1,80 @@
+{
+  "id": 857250913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.167649,32.210828,-90.167649,32.210828",
+    "geom:latitude":32.210828,
+    "geom:longitude":-90.167649,
+    "iso:country":"US",
+    "sg:address":"213 Parkdale Pl",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 5232",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85842145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B27njOUjTlS8KVNNjR3cO_32.210828_-90.167649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125268,
+    "wof:geomhash":"cd32b316c96028d7b95823fb328b04a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85842145,
+            "region_id":85688579,
+            "venue_id":857250913
+        }
+    ],
+    "wof:id":857250913,
+    "wof:lastmodified":1464125268,
+    "wof:name":"Contractors Fence Co",
+    "wof:parent_id":85842145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.167649,
+    32.210828,
+    -90.167649,
+    32.210828
+],
+  "geometry": {"coordinates":[-90.167649,32.210828],"type":"Point"}
+}

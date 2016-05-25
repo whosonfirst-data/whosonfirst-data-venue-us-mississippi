@@ -1,0 +1,81 @@
+{
+  "id": 857486975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573614,34.202913,-90.573614,34.202913",
+    "geom:latitude":34.202913,
+    "geom:longitude":-90.573614,
+    "iso:country":"US",
+    "sg:address":"211 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 3281",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o9DuFnMhSLmIrSG9kiEnZ_34.202913_-90.573614@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130502,
+    "wof:geomhash":"8cb6b7b8cca780299c05574aebde5786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857486975
+        }
+    ],
+    "wof:id":857486975,
+    "wof:lastmodified":1464130502,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.573614,
+    34.202913,
+    -90.573614,
+    34.202913
+],
+  "geometry": {"coordinates":[-90.57361400000001,34.202913],"type":"Point"}
+}

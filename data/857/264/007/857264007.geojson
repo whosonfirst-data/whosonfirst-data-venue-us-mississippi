@@ -1,0 +1,71 @@
+{
+  "id": 857264007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.39711,33.553089,-88.39711,33.553089",
+    "geom:latitude":33.553089,
+    "geom:longitude":-88.39711,
+    "iso:country":"US",
+    "sg:address":"49 Bunkerhill Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 5239",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06GJpQo6kxr5f7nOZNwtTM_33.553089_-88.397110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125574,
+    "wof:geomhash":"b1dd998bbcea8518055f5261a2a9ea8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857264007
+        }
+    ],
+    "wof:id":857264007,
+    "wof:lastmodified":1464125574,
+    "wof:name":"Southern Comfort Stage",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -88.39711,
+    33.553089,
+    -88.39711,
+    33.553089
+],
+  "geometry": {"coordinates":[-88.39711,33.553089],"type":"Point"}
+}

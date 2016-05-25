@@ -1,0 +1,66 @@
+{
+  "id": 857112533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437666,33.533179,-88.437666,33.533179",
+    "geom:latitude":33.533179,
+    "geom:longitude":-88.437666,
+    "iso:country":"US",
+    "sg:address":"2110 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 328 1282",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_647IUiWPfnIRK6XihbuGoD_33.533179_-88.437666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122243,
+    "wof:geomhash":"8660c3c3de3efd61dafe68a7e59bcdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857112533
+        }
+    ],
+    "wof:id":857112533,
+    "wof:lastmodified":1464122243,
+    "wof:name":"Super Soco",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.437666,
+    33.533179,
+    -88.437666,
+    33.533179
+],
+  "geometry": {"coordinates":[-88.43766599999999,33.533179],"type":"Point"}
+}

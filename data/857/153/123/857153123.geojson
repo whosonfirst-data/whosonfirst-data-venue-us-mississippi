@@ -1,0 +1,73 @@
+{
+  "id": 857153123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.316781,32.294238,-90.316781,32.294238",
+    "geom:latitude":32.294238,
+    "geom:longitude":-90.316781,
+    "iso:country":"US",
+    "sg:address":"2025 S McRaven Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 923 2838",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969677,
+        102081407,
+        85852515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vqbqb8LB9r1rLuYUpBqUZ_32.294238_-90.316781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123209,
+    "wof:geomhash":"3da8514e2656cc0e7dd37eca687744bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85852515,
+            "region_id":85688579,
+            "venue_id":857153123
+        }
+    ],
+    "wof:id":857153123,
+    "wof:lastmodified":1464123209,
+    "wof:name":"Kustom Concrete Inc",
+    "wof:parent_id":85852515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.316781,
+    32.294238,
+    -90.316781,
+    32.294238
+],
+  "geometry": {"coordinates":[-90.31678100000001,32.294238],"type":"Point"}
+}

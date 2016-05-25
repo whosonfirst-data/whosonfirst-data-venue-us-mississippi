@@ -1,0 +1,67 @@
+{
+  "id": 857159849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55119,30.39864,-88.55119,30.39864",
+    "geom:latitude":30.39864,
+    "geom:longitude":-88.55119,
+    "iso:country":"US",
+    "sg:address":"3524 Prentiss Ave",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 5656",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:website":"www.mp.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2osyssf17vS6DwAUN0BCVY_30.398640_-88.551190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123342,
+    "wof:geomhash":"7437511ca5dedaa2f30f1f317d4d89ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857159849
+        }
+    ],
+    "wof:id":857159849,
+    "wof:lastmodified":1464123342,
+    "wof:name":"West Elementary School",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55119,
+    30.39864,
+    -88.55119,
+    30.39864
+],
+  "geometry": {"coordinates":[-88.55119000000001,30.39864],"type":"Point"}
+}

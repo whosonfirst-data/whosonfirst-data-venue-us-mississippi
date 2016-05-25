@@ -1,0 +1,75 @@
+{
+  "id": 857208139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.148702,32.380271,-90.148702,32.380271",
+    "geom:latitude":32.380271,
+    "geom:longitude":-90.148702,
+    "iso:country":"US",
+    "sg:address":"405 Briarwood Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 3312",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "program",
+        "scholarship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0klOUV4KXPjwvmusNSm6ur_32.380271_-90.148702@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124353,
+    "wof:geomhash":"d68aaebd41b39af32739a5e03c7dd8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857208139
+        }
+    ],
+    "wof:id":857208139,
+    "wof:lastmodified":1464124353,
+    "wof:name":"Nspa",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "scholarship"
+    ]
+},
+  "bbox": [
+    -90.148702,
+    32.380271,
+    -90.148702,
+    32.380271
+],
+  "geometry": {"coordinates":[-90.148702,32.380271],"type":"Point"}
+}

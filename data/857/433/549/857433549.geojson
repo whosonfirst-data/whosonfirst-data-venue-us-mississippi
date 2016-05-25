@@ -1,0 +1,75 @@
+{
+  "id": 857433549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19368,32.343119,-90.19368,32.343119",
+    "geom:latitude":32.343119,
+    "geom:longitude":-90.19368,
+    "iso:country":"US",
+    "sg:address":"3102 Lampton Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 5645",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sye2cLxnHgH5igDD8V3D1_32.343119_-90.193680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129439,
+    "wof:geomhash":"e57c4385ffb77758fe1aba51fd63a6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857433549
+        }
+    ],
+    "wof:id":857433549,
+    "wof:lastmodified":1464129439,
+    "wof:name":"Willie's Maintenance",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.19368,
+    32.343119,
+    -90.19368,
+    32.343119
+],
+  "geometry": {"coordinates":[-90.19368,32.343119],"type":"Point"}
+}

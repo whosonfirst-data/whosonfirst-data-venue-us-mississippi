@@ -1,0 +1,77 @@
+{
+  "id": 857206767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.832092,30.415806,-88.832092,30.415806",
+    "geom:latitude":30.415806,
+    "geom:longitude":-88.832092,
+    "iso:country":"US",
+    "sg:address":"718 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 5449",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y6JEVw5XDzWXIwbLcAXHv_30.415806_-88.832092@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124326,
+    "wof:geomhash":"52549088dc2de222fcefa822396e995c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857206767
+        }
+    ],
+    "wof:id":857206767,
+    "wof:lastmodified":1464124326,
+    "wof:name":"L D's Detail Shop",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -88.832092,
+    30.415806,
+    -88.832092,
+    30.415806
+],
+  "geometry": {"coordinates":[-88.832092,30.415806],"type":"Point"}
+}

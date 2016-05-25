@@ -1,0 +1,68 @@
+{
+  "id": 857451797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.882143,30.396006,-88.882143,30.396006",
+    "geom:latitude":30.396006,
+    "geom:longitude":-88.882143,
+    "iso:country":"US",
+    "sg:address":"615 Howard Ave",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 374 5821",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DGMf3oikPJyHavjmDdNzw_30.396006_-88.882143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129796,
+    "wof:geomhash":"e9267218bad9b650bd26b5ef9df88565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857451797
+        }
+    ],
+    "wof:id":857451797,
+    "wof:lastmodified":1464129796,
+    "wof:name":"Thong Khanh",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.882143,
+    30.396006,
+    -88.882143,
+    30.396006
+],
+  "geometry": {"coordinates":[-88.882143,30.396006],"type":"Point"}
+}

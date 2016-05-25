@@ -1,0 +1,73 @@
+{
+  "id": 857390195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.808695,32.377128,-90.808695,32.377128",
+    "geom:latitude":32.377128,
+    "geom:longitude":-90.808695,
+    "iso:country":"US",
+    "sg:address":"2501 Culkin Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 0216",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969915,
+        102083779,
+        85828369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_134cbFjhCh8mLmEVFKjOT0_32.377128_-90.808695@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128434,
+    "wof:geomhash":"1eb5aeb845a95a7cc732a132c159f943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85828369,
+            "region_id":85688579,
+            "venue_id":857390195
+        }
+    ],
+    "wof:id":857390195,
+    "wof:lastmodified":1464128434,
+    "wof:name":"Terry Steed",
+    "wof:parent_id":85828369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.808695,
+    32.377128,
+    -90.808695,
+    32.377128
+],
+  "geometry": {"coordinates":[-90.808695,32.377128],"type":"Point"}
+}

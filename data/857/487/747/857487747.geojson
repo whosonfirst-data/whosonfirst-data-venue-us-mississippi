@@ -1,0 +1,71 @@
+{
+  "id": 857487747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.518191,34.368923,-89.518191,34.368923",
+    "geom:latitude":34.368923,
+    "geom:longitude":-89.518191,
+    "iso:country":"US",
+    "sg:address":"428 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 238 3339",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zx61JYDVSg6VURmOPeLTs_34.368923_-89.518191@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130529,
+    "wof:geomhash":"ad0431cc81dd1337914c8a326c7bfcc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857487747
+        }
+    ],
+    "wof:id":857487747,
+    "wof:lastmodified":1464130529,
+    "wof:name":"Pearson Law Firm The",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.518191,
+    34.368923,
+    -89.518191,
+    34.368923
+],
+  "geometry": {"coordinates":[-89.518191,34.368923],"type":"Point"}
+}

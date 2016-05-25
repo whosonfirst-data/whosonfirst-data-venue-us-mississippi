@@ -1,0 +1,71 @@
+{
+  "id": 857083675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.710409,32.412529,-88.710409,32.412529",
+    "geom:latitude":32.412529,
+    "geom:longitude":-88.710409,
+    "iso:country":"US",
+    "sg:address":"5114 Northview Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 3623",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69YM2Vr81QREWgtTs9btzV_32.412529_-88.710409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121504,
+    "wof:geomhash":"03b57c0dacba1545048f22863f5d7dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857083675
+        }
+    ],
+    "wof:id":857083675,
+    "wof:lastmodified":1464121504,
+    "wof:name":"American Fence Company",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.710409,
+    32.412529,
+    -88.710409,
+    32.412529
+],
+  "geometry": {"coordinates":[-88.710409,32.412529],"type":"Point"}
+}

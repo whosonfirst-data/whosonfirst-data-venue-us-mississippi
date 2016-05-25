@@ -1,0 +1,71 @@
+{
+  "id": 857099519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.501797,34.376538,-89.501797,34.376538",
+    "geom:latitude":34.376538,
+    "geom:longitude":-89.501797,
+    "iso:country":"US",
+    "sg:address":"310 Murray St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 1368",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HJIxVIam7PK0MAfd3Ij9K_34.376538_-89.501797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121891,
+    "wof:geomhash":"98e628151836b24b607668fb5fc50ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857099519
+        }
+    ],
+    "wof:id":857099519,
+    "wof:lastmodified":1464121891,
+    "wof:name":"Mid America Aviation Services",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -89.501797,
+    34.376538,
+    -89.501797,
+    34.376538
+],
+  "geometry": {"coordinates":[-89.501797,34.376538],"type":"Point"}
+}

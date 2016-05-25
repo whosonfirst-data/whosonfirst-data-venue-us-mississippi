@@ -1,0 +1,74 @@
+{
+  "id": 857480073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589101,34.18503,-90.589101,34.18503",
+    "geom:latitude":34.18503,
+    "geom:longitude":-90.589101,
+    "iso:country":"US",
+    "sg:address":"1008 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/5/100795-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 8965",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pLY2BhQKPJzdMla6umS3p_34.185030_-90.589101@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130371,
+    "wof:geomhash":"dcfc85459cad04a402d3d9f556ee447f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857480073
+        }
+    ],
+    "wof:id":857480073,
+    "wof:lastmodified":1464130371,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.589101,
+    34.18503,
+    -90.589101,
+    34.18503
+],
+  "geometry": {"coordinates":[-90.589101,34.18503],"type":"Point"}
+}

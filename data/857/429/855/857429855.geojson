@@ -1,0 +1,73 @@
+{
+  "id": 857429855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68529,34.257385,-88.68529,34.257385",
+    "geom:latitude":34.257385,
+    "geom:longitude":-88.68529,
+    "iso:country":"US",
+    "sg:address":"810 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3899",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xb1hhPwDFYrFhlrThTQrX_34.257385_-88.685290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129342,
+    "wof:geomhash":"b073dcb679c3ee93172aa72c5049690c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857429855
+        }
+    ],
+    "wof:id":857429855,
+    "wof:lastmodified":1464129342,
+    "wof:name":"Trueove Service Center",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -88.68529,
+    34.257385,
+    -88.68529,
+    34.257385
+],
+  "geometry": {"coordinates":[-88.68528999999999,34.257385],"type":"Point"}
+}

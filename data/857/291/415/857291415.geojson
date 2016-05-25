@@ -1,0 +1,82 @@
+{
+  "id": 857291415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816259,30.413457,-88.816259,30.413457",
+    "geom:latitude":30.413457,
+    "geom:longitude":-88.816259,
+    "iso:country":"US",
+    "sg:address":"712 Pine Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 3955",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marking",
+        "executive",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dcPkj4Xl1cCIK1oqWFs9r_30.413457_-88.816259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126180,
+    "wof:geomhash":"c2a4f981323c497edb08cbd130703d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857291415
+        }
+    ],
+    "wof:id":857291415,
+    "wof:lastmodified":1464126180,
+    "wof:name":"Ocean Springs Public Works",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "executive",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -88.816259,
+    30.413457,
+    -88.816259,
+    30.413457
+],
+  "geometry": {"coordinates":[-88.816259,30.413457],"type":"Point"}
+}

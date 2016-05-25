@@ -1,0 +1,71 @@
+{
+  "id": 857388289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302804,31.33568,-89.302804,31.33568",
+    "geom:latitude":31.33568,
+    "geom:longitude":-89.302804,
+    "iso:country":"US",
+    "sg:address":"500 W 7th St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 0253",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iHmTd7NooEPo13nd8jpl1_31.335680_-89.302804@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128388,
+    "wof:geomhash":"3a598921c00c3d553b2fc30d26279dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857388289
+        }
+    ],
+    "wof:id":857388289,
+    "wof:lastmodified":1464128388,
+    "wof:name":"Whiteside Oral Arts Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.302804,
+    31.33568,
+    -89.302804,
+    31.33568
+],
+  "geometry": {"coordinates":[-89.30280399999999,31.33568],"type":"Point"}
+}

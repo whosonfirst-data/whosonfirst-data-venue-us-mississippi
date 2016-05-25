@@ -1,0 +1,68 @@
+{
+  "id": 857189769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.723179,32.364625,-88.723179,32.364625",
+    "geom:latitude":32.364625,
+    "geom:longitude":-88.723179,
+    "iso:country":"US",
+    "sg:address":"4516 8th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 5159",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dHMlatR4wxJznzd7RdzFf_32.364625_-88.723179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123986,
+    "wof:geomhash":"85e5555c4d3689f48f119a4981fa10e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857189769
+        }
+    ],
+    "wof:id":857189769,
+    "wof:lastmodified":1464123986,
+    "wof:name":"A G Harrell III Dvm",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.723179,
+    32.364625,
+    -88.723179,
+    32.364625
+],
+  "geometry": {"coordinates":[-88.723179,32.364625],"type":"Point"}
+}

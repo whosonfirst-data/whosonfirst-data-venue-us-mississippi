@@ -1,0 +1,75 @@
+{
+  "id": 857245951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.556984,34.363764,-89.556984,34.363764",
+    "geom:latitude":34.363764,
+    "geom:longitude":-89.556984,
+    "iso:country":"US",
+    "sg:address":"1912 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2266",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KSGyEhg1xeBPnRq0f6fHm_34.363764_-89.556984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125158,
+    "wof:geomhash":"aca1f8e4beacd11b4de137487d0e484e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857245951
+        }
+    ],
+    "wof:id":857245951,
+    "wof:lastmodified":1464125158,
+    "wof:name":"Rainbow Cleaners",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -89.556984,
+    34.363764,
+    -89.556984,
+    34.363764
+],
+  "geometry": {"coordinates":[-89.556984,34.363764],"type":"Point"}
+}

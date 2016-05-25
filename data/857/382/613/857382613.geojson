@@ -1,0 +1,74 @@
+{
+  "id": 857382613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.845216,33.445479,-88.845216,33.445479",
+    "geom:latitude":33.445479,
+    "geom:longitude":-88.845216,
+    "iso:country":"US",
+    "sg:address":"101 Airport Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8021",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "prefabricated"
+    ],
+    "sg:website":"www.gulfstatesmanufacturers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6glXGav590zIo8bL9Qxz9d_33.445479_-88.845216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128200,
+    "wof:geomhash":"e6a8decd43053258943242b2539f2f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857382613
+        }
+    ],
+    "wof:id":857382613,
+    "wof:lastmodified":1464128200,
+    "wof:name":"Gulf States Manufacturers",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "prefabricated"
+    ]
+},
+  "bbox": [
+    -88.845216,
+    33.445479,
+    -88.845216,
+    33.445479
+],
+  "geometry": {"coordinates":[-88.84521599999999,33.445479],"type":"Point"}
+}

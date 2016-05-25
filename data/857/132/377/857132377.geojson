@@ -1,0 +1,71 @@
+{
+  "id": 857132377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.910028,32.240397,-90.910028,32.240397",
+    "geom:latitude":32.240397,
+    "geom:longitude":-90.910028,
+    "iso:country":"US",
+    "sg:address":"102 Ross Ln",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 4562",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ltYoMDN35hrCCUoP8qNRe_32.240397_-90.910028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122725,
+    "wof:geomhash":"7944859d46036fda0fc5787eccff34bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857132377
+        }
+    ],
+    "wof:id":857132377,
+    "wof:lastmodified":1464122725,
+    "wof:name":"Ken's Carpet Svc",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "layer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -90.910028,
+    32.240397,
+    -90.910028,
+    32.240397
+],
+  "geometry": {"coordinates":[-90.910028,32.240397],"type":"Point"}
+}

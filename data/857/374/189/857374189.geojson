@@ -1,0 +1,73 @@
+{
+  "id": 857374189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.332418,33.685493,-88.332418,33.685493",
+    "geom:latitude":33.685493,
+    "geom:longitude":-88.332418,
+    "iso:country":"US",
+    "sg:address":"314 Dove Whitaker St",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 4960",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GiAHvibsB7uY7uT7yyFKo_33.685493_-88.332418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127992,
+    "wof:geomhash":"6d4e289c055de39a6ee3aeee6194a86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857374189
+        }
+    ],
+    "wof:id":857374189,
+    "wof:lastmodified":1464127992,
+    "wof:name":"Dolans Garage",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.332418,
+    33.685493,
+    -88.332418,
+    33.685493
+],
+  "geometry": {"coordinates":[-88.332418,33.685493],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857347145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.330262,33.45843,-88.330262,33.45843",
+    "geom:latitude":33.45843,
+    "geom:longitude":-88.330262,
+    "iso:country":"US",
+    "sg:address":"55 Whispering Trees",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 1854",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qbaM3nQLCsTQbhUGI0LLL_33.458430_-88.330262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127423,
+    "wof:geomhash":"8bb9e0df1cb56f33cd6e2c8fbcbe0c12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857347145
+        }
+    ],
+    "wof:id":857347145,
+    "wof:lastmodified":1464127423,
+    "wof:name":"Meadows Auction Company",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -88.330262,
+    33.45843,
+    -88.330262,
+    33.45843
+],
+  "geometry": {"coordinates":[-88.330262,33.45843],"type":"Point"}
+}

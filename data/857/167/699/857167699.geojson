@@ -1,0 +1,73 @@
+{
+  "id": 857167699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541186,30.437685,-88.541186,30.437685",
+    "geom:latitude":30.437685,
+    "geom:longitude":-88.541186,
+    "iso:country":"US",
+    "sg:address":"3928 Jamestown Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 0527",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vWXkX83gJlXUb7ZCJFP67_30.437685_-88.541186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123526,
+    "wof:geomhash":"1961c7f17c9a52ade0f9ee76b10e7a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857167699
+        }
+    ],
+    "wof:id":857167699,
+    "wof:lastmodified":1464123526,
+    "wof:name":"Creative Dance & Gymnastics",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -88.541186,
+    30.437685,
+    -88.541186,
+    30.437685
+],
+  "geometry": {"coordinates":[-88.541186,30.437685],"type":"Point"}
+}

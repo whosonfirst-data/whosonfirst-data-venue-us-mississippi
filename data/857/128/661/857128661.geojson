@@ -1,0 +1,71 @@
+{
+  "id": 857128661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.825879,30.428615,-88.825879,30.428615",
+    "geom:latitude":30.428615,
+    "geom:longitude":-88.825879,
+    "iso:country":"US",
+    "sg:address":"13003 Hanover Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 2481",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_382BW3ZSsf4B1kxH6g0yhj_30.428615_-88.825879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122639,
+    "wof:geomhash":"58ca859b443c4afbfd2a3b293afa8c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857128661
+        }
+    ],
+    "wof:id":857128661,
+    "wof:lastmodified":1464122639,
+    "wof:name":"Bill Byrd Automotive Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.825879,
+    30.428615,
+    -88.825879,
+    30.428615
+],
+  "geometry": {"coordinates":[-88.825879,30.428615],"type":"Point"}
+}

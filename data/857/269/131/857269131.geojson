@@ -1,0 +1,68 @@
+{
+  "id": 857269131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.329047,32.351726,-90.329047,32.351726",
+    "geom:latitude":32.351726,
+    "geom:longitude":-90.329047,
+    "iso:country":"US",
+    "sg:address":"1113 Monroe St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 6942",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55YgatSt3lTuSoJYYv3EHi_32.351726_-90.329047@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125668,
+    "wof:geomhash":"af4884a759b8588e5598b3af93022667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857269131
+        }
+    ],
+    "wof:id":857269131,
+    "wof:lastmodified":1464125668,
+    "wof:name":"Clinton Connection",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.329047,
+    32.351726,
+    -90.329047,
+    32.351726
+],
+  "geometry": {"coordinates":[-90.329047,32.351726],"type":"Point"}
+}

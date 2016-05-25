@@ -1,0 +1,71 @@
+{
+  "id": 857158617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.524208,30.353829,-88.524208,30.353829",
+    "geom:latitude":30.353829,
+    "geom:longitude":-88.524208,
+    "iso:country":"US",
+    "sg:address":"3601 Mercier Dr",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 5087",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30UJ9lUXoziI5FcjFKO0uo_30.353829_-88.524208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123319,
+    "wof:geomhash":"b1cc257e5c94aefecf2bc12b5b9cd96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857158617
+        }
+    ],
+    "wof:id":857158617,
+    "wof:lastmodified":1464123319,
+    "wof:name":"Arthur Brooks",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.524208,
+    30.353829,
+    -88.524208,
+    30.353829
+],
+  "geometry": {"coordinates":[-88.524208,30.353829],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857213239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.888167,30.396483,-88.888167,30.396483",
+    "geom:latitude":30.396483,
+    "geom:longitude":-88.888167,
+    "iso:country":"US",
+    "sg:address":"750 Howard Ave",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 436 6314",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36p92ErUS0NXPd6mNBo46m_30.396483_-88.888167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124468,
+    "wof:geomhash":"ecc2062a343128d555967db9f9c1d232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857213239
+        }
+    ],
+    "wof:id":857213239,
+    "wof:lastmodified":1464124468,
+    "wof:name":"Ellzey's Hardware Inc",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.888167,
+    30.396483,
+    -88.888167,
+    30.396483
+],
+  "geometry": {"coordinates":[-88.888167,30.396483],"type":"Point"}
+}

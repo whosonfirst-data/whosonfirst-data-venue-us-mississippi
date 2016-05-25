@@ -1,0 +1,77 @@
+{
+  "id": 857220779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.003158,30.400552,-89.003158,30.400552",
+    "geom:latitude":30.400552,
+    "geom:longitude":-89.003158,
+    "iso:country":"US",
+    "sg:address":"2303 E Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 604 4048",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zDHA5HWTGzeVGL1mn9T9B_30.400552_-89.003158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124629,
+    "wof:geomhash":"25d1b0fe7955b13d833f00d4bbe74229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857220779
+        }
+    ],
+    "wof:id":857220779,
+    "wof:lastmodified":1464124629,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85823795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.003158,
+    30.400552,
+    -89.003158,
+    30.400552
+],
+  "geometry": {"coordinates":[-89.003158,30.400552],"type":"Point"}
+}

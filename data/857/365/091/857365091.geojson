@@ -1,0 +1,68 @@
+{
+  "id": 857365091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.876802,32.351523,-90.876802,32.351523",
+    "geom:latitude":32.351523,
+    "geom:longitude":-90.876802,
+    "iso:country":"US",
+    "sg:address":"1121 Grove St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9121",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27IWMZowvqZcEARx1Um9eV_32.351523_-90.876802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127807,
+    "wof:geomhash":"f3eaee784471b44bb315c6278f77a91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857365091
+        }
+    ],
+    "wof:id":857365091,
+    "wof:lastmodified":1464127807,
+    "wof:name":"Christian Economic Corp",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.876802,
+    32.351523,
+    -90.876802,
+    32.351523
+],
+  "geometry": {"coordinates":[-90.876802,32.351523],"type":"Point"}
+}

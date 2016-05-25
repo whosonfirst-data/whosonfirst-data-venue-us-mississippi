@@ -1,0 +1,69 @@
+{
+  "id": 857422975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51219,34.376362,-89.51219,34.376362",
+    "geom:latitude":34.376362,
+    "geom:longitude":-89.51219,
+    "iso:country":"US",
+    "sg:address":"1116 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 4565",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yT4RcQptOp74KvQMiJYVW_34.376362_-89.512190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129167,
+    "wof:geomhash":"2f2a68865e2f9fddb108c7e75f2012ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857422975
+        }
+    ],
+    "wof:id":857422975,
+    "wof:lastmodified":1464129167,
+    "wof:name":"Oxford Paint Supply",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -89.51219,
+    34.376362,
+    -89.51219,
+    34.376362
+],
+  "geometry": {"coordinates":[-89.51219,34.376362],"type":"Point"}
+}

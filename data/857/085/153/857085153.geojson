@@ -1,0 +1,71 @@
+{
+  "id": 857085153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690462,34.376751,-88.690462,34.376751",
+    "geom:latitude":34.376751,
+    "geom:longitude":-88.690462,
+    "iso:country":"US",
+    "sg:address":"311 Mobile St",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 5742",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34nOBcxZzb5jze1tdJJ3Xz_34.376751_-88.690462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121534,
+    "wof:geomhash":"52522af8b227851b83ff3572b3940dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857085153
+        }
+    ],
+    "wof:id":857085153,
+    "wof:lastmodified":1464121534,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.690462,
+    34.376751,
+    -88.690462,
+    34.376751
+],
+  "geometry": {"coordinates":[-88.690462,34.376751],"type":"Point"}
+}

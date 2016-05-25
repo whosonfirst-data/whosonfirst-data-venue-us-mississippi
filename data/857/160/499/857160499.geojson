@@ -1,0 +1,71 @@
+{
+  "id": 857160499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.422238,32.748642,-90.422238,32.748642",
+    "geom:latitude":32.748642,
+    "geom:longitude":-90.422238,
+    "iso:country":"US",
+    "sg:address":"2822 Stevens Rd",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 638 2497",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bqfvZmyG4YlYwshj0Q2dj_32.748642_-90.422238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123353,
+    "wof:geomhash":"bb69b3bfa865be30a54ff7e9b7f77c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857160499
+        }
+    ],
+    "wof:id":857160499,
+    "wof:lastmodified":1464123353,
+    "wof:name":"Providence Baptist Church",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.422238,
+    32.748642,
+    -90.422238,
+    32.748642
+],
+  "geometry": {"coordinates":[-90.42223799999999,32.748642],"type":"Point"}
+}

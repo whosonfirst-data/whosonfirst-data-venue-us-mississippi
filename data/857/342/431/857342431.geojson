@@ -1,0 +1,73 @@
+{
+  "id": 857342431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690344,34.375533,-88.690344,34.375533",
+    "geom:latitude":34.375533,
+    "geom:longitude":-88.690344,
+    "iso:country":"US",
+    "sg:address":"142 Kellum Dr",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 2060",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kr81xEPpVJci3qBOVuRbd_34.375533_-88.690344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127323,
+    "wof:geomhash":"d5f267d1dde29f7a210db6ecf95b2608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857342431
+        }
+    ],
+    "wof:id":857342431,
+    "wof:lastmodified":1464127323,
+    "wof:name":"Paris Roofing",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.690344,
+    34.375533,
+    -88.690344,
+    34.375533
+],
+  "geometry": {"coordinates":[-88.690344,34.375533],"type":"Point"}
+}

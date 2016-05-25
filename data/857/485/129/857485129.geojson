@@ -1,0 +1,74 @@
+{
+  "id": 857485129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529777,30.376562,-88.529777,30.376562",
+    "geom:latitude":30.376562,
+    "geom:longitude":-88.529777,
+    "iso:country":"US",
+    "sg:address":"3225 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/133028-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7708",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ne4uHneA2ZuIyOAdYJdjF_30.376562_-88.529777@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130470,
+    "wof:geomhash":"5a89fb53f3175de6a08ffb570f1c5c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857485129
+        }
+    ],
+    "wof:id":857485129,
+    "wof:lastmodified":1464130470,
+    "wof:name":"Subway",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.529777,
+    30.376562,
+    -88.529777,
+    30.376562
+],
+  "geometry": {"coordinates":[-88.529777,30.376562],"type":"Point"}
+}

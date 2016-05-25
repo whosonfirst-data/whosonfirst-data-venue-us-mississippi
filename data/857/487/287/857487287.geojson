@@ -1,0 +1,66 @@
+{
+  "id": 857487287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.674006,34.261997,-90.674006,34.261997",
+    "geom:latitude":34.261997,
+    "geom:longitude":-90.674006,
+    "iso:country":"US",
+    "sg:address":"4280 Farrell Rd",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7774",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DtAo8HphNrtdW0lwEjvA1_34.261997_-90.674006@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130511,
+    "wof:geomhash":"b12ab352ab3af896e58e4261523a713c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487287
+        }
+    ],
+    "wof:id":857487287,
+    "wof:lastmodified":1464130511,
+    "wof:name":"Katie Groceries",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.674006,
+    34.261997,
+    -90.674006,
+    34.261997
+],
+  "geometry": {"coordinates":[-90.67400600000001,34.261997],"type":"Point"}
+}

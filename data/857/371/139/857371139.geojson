@@ -1,0 +1,77 @@
+{
+  "id": 857371139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.197026,32.288488,-90.197026,32.288488",
+    "geom:latitude":32.288488,
+    "geom:longitude":-90.197026,
+    "iso:country":"US",
+    "sg:address":"662 W Porter St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 0826",
+    "sg:postcode":"39204",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13yk9jIti3UrscROxnzHJi_32.288488_-90.197026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127927,
+    "wof:geomhash":"1de617aeea8d0dd95549046b124e30d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878407,
+            "region_id":85688579,
+            "venue_id":857371139
+        }
+    ],
+    "wof:id":857371139,
+    "wof:lastmodified":1464127927,
+    "wof:name":"Singleton Transport Inc",
+    "wof:parent_id":85878407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.197026,
+    32.288488,
+    -90.197026,
+    32.288488
+],
+  "geometry": {"coordinates":[-90.19702599999999,32.288488],"type":"Point"}
+}

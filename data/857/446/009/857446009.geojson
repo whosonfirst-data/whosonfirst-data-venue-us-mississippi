@@ -1,0 +1,75 @@
+{
+  "id": 857446009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.288062,31.308766,-89.288062,31.308766",
+    "geom:latitude":31.308766,
+    "geom:longitude":-89.288062,
+    "iso:country":"US",
+    "sg:address":"631 Claiborne Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 649 6964",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52vqSJmRu1S1qkzyZHtFf3_31.308766_-89.288062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129683,
+    "wof:geomhash":"f7440270c057c651e229211b26509945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857446009
+        }
+    ],
+    "wof:id":857446009,
+    "wof:lastmodified":1464129683,
+    "wof:name":"Oil & Gas Board Field Inspctr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "utility"
+    ]
+},
+  "bbox": [
+    -89.288062,
+    31.308766,
+    -89.288062,
+    31.308766
+],
+  "geometry": {"coordinates":[-89.288062,31.308766],"type":"Point"}
+}

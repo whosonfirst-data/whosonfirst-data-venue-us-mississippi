@@ -1,0 +1,71 @@
+{
+  "id": 857117139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.045087,33.351372,-89.045087,33.351372",
+    "geom:latitude":33.351372,
+    "geom:longitude":-89.045087,
+    "iso:country":"US",
+    "sg:address":"2675 Sturgis West Point Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 312 1813",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sgPOf7WWFhS622usDPzk4_33.351372_-89.045087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122392,
+    "wof:geomhash":"eda76bcd013e59faa842a77aeac954e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857117139
+        }
+    ],
+    "wof:id":857117139,
+    "wof:lastmodified":1464122392,
+    "wof:name":"Southern Land Services LL",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -89.045087,
+    33.351372,
+    -89.045087,
+    33.351372
+],
+  "geometry": {"coordinates":[-89.045087,33.351372],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857344277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.650481,33.611815,-88.650481,33.611815",
+    "geom:latitude":33.611815,
+    "geom:longitude":-88.650481,
+    "iso:country":"US",
+    "sg:address":"515 N Division St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 5631",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ZH6S3qIczHuCsXgvBRJS_33.611815_-88.650481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127358,
+    "wof:geomhash":"424406ac9accc0bd48a5702f5276bb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857344277
+        }
+    ],
+    "wof:id":857344277,
+    "wof:lastmodified":1464127358,
+    "wof:name":"Maverick Cattle Co",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -88.650481,
+    33.611815,
+    -88.650481,
+    33.611815
+],
+  "geometry": {"coordinates":[-88.650481,33.611815],"type":"Point"}
+}

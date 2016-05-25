@@ -1,0 +1,73 @@
+{
+  "id": 857121909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.011896,32.29266,-90.011896,32.29266",
+    "geom:latitude":32.29266,
+    "geom:longitude":-90.011896,
+    "iso:country":"US",
+    "sg:address":"503 Treeline Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 824 7444",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "arrangement",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MkejL9NespmR4A0IaNETm_32.292660_-90.011896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122493,
+    "wof:geomhash":"9a6b485902734d42e05107fd63dd8650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857121909
+        }
+    ],
+    "wof:id":857121909,
+    "wof:lastmodified":1464122493,
+    "wof:name":"Mercer Transportation Co Inc",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.011896,
+    32.29266,
+    -90.011896,
+    32.29266
+],
+  "geometry": {"coordinates":[-90.01189599999999,32.29266],"type":"Point"}
+}

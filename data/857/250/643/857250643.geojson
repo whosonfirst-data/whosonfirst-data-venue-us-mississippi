@@ -1,0 +1,71 @@
+{
+  "id": 857250643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.302678,33.349014,-88.302678,33.349014",
+    "geom:latitude":33.349014,
+    "geom:longitude":-88.302678,
+    "iso:country":"US",
+    "sg:address":"150 Spurlock Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 241 5280",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZslHIJBT5ugfxBGxgAqyV_33.349014_-88.302678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125258,
+    "wof:geomhash":"7be1c73739c981f0871ff95087592bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857250643
+        }
+    ],
+    "wof:id":857250643,
+    "wof:lastmodified":1464125258,
+    "wof:name":"Union Hopewell Missionary",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.302678,
+    33.349014,
+    -88.302678,
+    33.349014
+],
+  "geometry": {"coordinates":[-88.302678,33.349014],"type":"Point"}
+}

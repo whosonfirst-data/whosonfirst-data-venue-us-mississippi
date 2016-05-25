@@ -1,0 +1,71 @@
+{
+  "id": 857121377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.51912,30.352189,-88.51912,30.352189",
+    "geom:latitude":30.352189,
+    "geom:longitude":-88.51912,
+    "iso:country":"US",
+    "sg:address":"1205 Roswell St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 7870",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oqn3b45FqwDgg46WTLcv0_30.352189_-88.519120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122482,
+    "wof:geomhash":"4b86603abb9795388c5a9a8b8072c4f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857121377
+        }
+    ],
+    "wof:id":857121377,
+    "wof:lastmodified":1464122482,
+    "wof:name":"Rebas Rascals",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.51912,
+    30.352189,
+    -88.51912,
+    30.352189
+],
+  "geometry": {"coordinates":[-88.51912,30.352189],"type":"Point"}
+}

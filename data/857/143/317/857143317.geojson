@@ -1,0 +1,73 @@
+{
+  "id": 857143317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.282015,31.315714,-89.282015,31.315714",
+    "geom:latitude":31.315714,
+    "geom:longitude":-89.282015,
+    "iso:country":"US",
+    "sg:address":"210 Alcorn Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 584 6721",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "miller",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y1bD4D4SNowlM9N98qdMC_31.315714_-89.282015@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122972,
+    "wof:geomhash":"4102f52b3eb9d2a1f6f3d3e31f33da88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857143317
+        }
+    ],
+    "wof:id":857143317,
+    "wof:lastmodified":1464122972,
+    "wof:name":"B W Smith Laboratory",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miller",
+        "drug"
+    ]
+},
+  "bbox": [
+    -89.282015,
+    31.315714,
+    -89.282015,
+    31.315714
+],
+  "geometry": {"coordinates":[-89.282015,31.315714],"type":"Point"}
+}

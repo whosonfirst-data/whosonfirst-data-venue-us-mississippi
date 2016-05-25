@@ -1,0 +1,73 @@
+{
+  "id": 857102509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.602312,32.32346,-88.602312,32.32346",
+    "geom:latitude":32.32346,
+    "geom:longitude":-88.602312,
+    "iso:country":"US",
+    "sg:address":"1471 Long Creek Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 644 9562",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PFqMdLKdj3MZ6HbUqLhbQ_32.323460_-88.602312@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121971,
+    "wof:geomhash":"1bebca2e9ac70a5d07159386efbbcf19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857102509
+        }
+    ],
+    "wof:id":857102509,
+    "wof:lastmodified":1464121971,
+    "wof:name":"Discount Roofing",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.602312,
+    32.32346,
+    -88.602312,
+    32.32346
+],
+  "geometry": {"coordinates":[-88.602312,32.32346],"type":"Point"}
+}

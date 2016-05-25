@@ -1,0 +1,75 @@
+{
+  "id": 857449689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702581,32.368831,-88.702581,32.368831",
+    "geom:latitude":32.368831,
+    "geom:longitude":-88.702581,
+    "iso:country":"US",
+    "sg:address":"1101 24th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 1834",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y47Ha1HazY3K3ebBUv76o_32.368831_-88.702581@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129749,
+    "wof:geomhash":"aa37603c89a9732c3fd1f412f92fec80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857449689
+        }
+    ],
+    "wof:id":857449689,
+    "wof:lastmodified":1464129749,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -88.702581,
+    32.368831,
+    -88.702581,
+    32.368831
+],
+  "geometry": {"coordinates":[-88.702581,32.368831],"type":"Point"}
+}

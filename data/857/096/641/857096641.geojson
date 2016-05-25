@@ -1,0 +1,72 @@
+{
+  "id": 857096641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.175725,30.336264,-89.175725,30.336264",
+    "geom:latitude":30.336264,
+    "geom:longitude":-89.175725,
+    "iso:country":"US",
+    "sg:address":"1000 Arbor Station Dr",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 868 1979",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.apartmentguide.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ehhtgDmKvlZPNddfA4y3g_30.336264_-89.175725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121826,
+    "wof:geomhash":"8ed0e247ab3090e32b2a1d7dc6f80e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857096641
+        }
+    ],
+    "wof:id":857096641,
+    "wof:lastmodified":1464121826,
+    "wof:name":"Arbor Station Apartments",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.175725,
+    30.336264,
+    -89.175725,
+    30.336264
+],
+  "geometry": {"coordinates":[-89.175725,30.336264],"type":"Point"}
+}

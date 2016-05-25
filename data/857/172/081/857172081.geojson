@@ -1,0 +1,66 @@
+{
+  "id": 857172081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.763994,34.233469,-88.763994,34.233469",
+    "geom:latitude":34.233469,
+    "geom:longitude":-88.763994,
+    "iso:country":"US",
+    "sg:address":"1743 Cliff Gookin Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0602",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CCJf3p7kURIvOzEmGBmH3_34.233469_-88.763994@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123627,
+    "wof:geomhash":"642c1be8bf69ca1354a376c01934c7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857172081
+        }
+    ],
+    "wof:id":857172081,
+    "wof:lastmodified":1464123627,
+    "wof:name":"Tupelo Physcl Thrpy/Sprts Rehb",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.763994,
+    34.233469,
+    -88.763994,
+    34.233469
+],
+  "geometry": {"coordinates":[-88.763994,34.233469],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857152283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.596439,34.360044,-89.596439,34.360044",
+    "geom:latitude":34.360044,
+    "geom:longitude":-89.596439,
+    "iso:country":"US",
+    "sg:address":"476 Hwy 6 W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8435",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40n58MmSdGaImzqBSkTpUM_34.360044_-89.596439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123191,
+    "wof:geomhash":"df189a091d5132a329165f1f98010658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857152283
+        }
+    ],
+    "wof:id":857152283,
+    "wof:lastmodified":1464123191,
+    "wof:name":"Penske",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.596439,
+    34.360044,
+    -89.596439,
+    34.360044
+],
+  "geometry": {"coordinates":[-89.596439,34.360044],"type":"Point"}
+}

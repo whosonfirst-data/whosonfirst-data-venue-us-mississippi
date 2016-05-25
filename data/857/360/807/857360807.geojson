@@ -1,0 +1,71 @@
+{
+  "id": 857360807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.422016,33.622768,-88.422016,33.622768",
+    "geom:latitude":33.622768,
+    "geom:longitude":-88.422016,
+    "iso:country":"US",
+    "sg:address":"2159 Land Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 6096",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMN7e3u112zVRFJbCoL69_33.622768_-88.422016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127719,
+    "wof:geomhash":"f98d9bbfde1b1b5d1d0b7223f2e1eeb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857360807
+        }
+    ],
+    "wof:id":857360807,
+    "wof:lastmodified":1464127719,
+    "wof:name":"Airbase Mini Warehouses",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.422016,
+    33.622768,
+    -88.422016,
+    33.622768
+],
+  "geometry": {"coordinates":[-88.422016,33.622768],"type":"Point"}
+}

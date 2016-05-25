@@ -1,0 +1,73 @@
+{
+  "id": 857343131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531257,30.382278,-88.531257,30.382278",
+    "geom:latitude":30.382278,
+    "geom:longitude":-88.531257,
+    "iso:country":"US",
+    "sg:address":"2838 Andrew Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 2345",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XenpK49iEz8uJIw6mx2Jt_30.382278_-88.531257@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127337,
+    "wof:geomhash":"b7db729028b6b22cbb962ceb379028bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857343131
+        }
+    ],
+    "wof:id":857343131,
+    "wof:lastmodified":1464127337,
+    "wof:name":"Physical Therapy Solutions",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.531257,
+    30.382278,
+    -88.531257,
+    30.382278
+],
+  "geometry": {"coordinates":[-88.531257,30.382278],"type":"Point"}
+}

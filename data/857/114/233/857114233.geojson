@@ -1,0 +1,71 @@
+{
+  "id": 857114233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.553394,34.361254,-89.553394,34.361254",
+    "geom:latitude":34.361254,
+    "geom:longitude":-89.553394,
+    "iso:country":"US",
+    "sg:address":"49 Effie Cir",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 7091",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51VCRaViE0MfGDBBB16qxt_34.361254_-89.553394@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122295,
+    "wof:geomhash":"a3cabd3790e6ac29ff059448a50d341a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857114233
+        }
+    ],
+    "wof:id":857114233,
+    "wof:lastmodified":1464122295,
+    "wof:name":"Maplewood Apartments LTD",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.553394,
+    34.361254,
+    -89.553394,
+    34.361254
+],
+  "geometry": {"coordinates":[-89.553394,34.361254],"type":"Point"}
+}

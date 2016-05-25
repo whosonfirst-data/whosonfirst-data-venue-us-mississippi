@@ -1,0 +1,73 @@
+{
+  "id": 857260219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.082401,33.558256,-89.082401,33.558256",
+    "geom:latitude":33.558256,
+    "geom:longitude":-89.082401,
+    "iso:country":"US",
+    "sg:address":"3985 2nd Ave",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 5900",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DXsdT3M7wHYGPn0xoaPTV_33.558256_-89.082401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125494,
+    "wof:geomhash":"de9843598872a35888085c83dd07cf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857260219
+        }
+    ],
+    "wof:id":857260219,
+    "wof:lastmodified":1464125494,
+    "wof:name":"Maben Family Medical Clinic",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.082401,
+    33.558256,
+    -89.082401,
+    33.558256
+],
+  "geometry": {"coordinates":[-89.082401,33.558256],"type":"Point"}
+}

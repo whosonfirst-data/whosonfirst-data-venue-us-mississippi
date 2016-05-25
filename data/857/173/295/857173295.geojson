@@ -1,0 +1,75 @@
+{
+  "id": 857173295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525617,34.35672,-89.525617,34.35672",
+    "geom:latitude":34.35672,
+    "geom:longitude":-89.525617,
+    "iso:country":"US",
+    "sg:address":"705 Old Taylor Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 4729",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qh8qTeIHgEjSnScyx3vQA_34.356720_-89.525617@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123662,
+    "wof:geomhash":"6e9caccdb929ff281b50eaf4b34b17b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857173295
+        }
+    ],
+    "wof:id":857173295,
+    "wof:lastmodified":1464123662,
+    "wof:name":"Sweat Fitness Club",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -89.525617,
+    34.35672,
+    -89.525617,
+    34.35672
+],
+  "geometry": {"coordinates":[-89.525617,34.35672],"type":"Point"}
+}

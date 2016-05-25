@@ -1,0 +1,75 @@
+{
+  "id": 857172233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.71011,34.223421,-88.71011,34.223421",
+    "geom:latitude":34.223421,
+    "geom:longitude":-88.71011,
+    "iso:country":"US",
+    "sg:address":"669 Westmoreland Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 9690",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YGDsyO8lCyudH6lZ3Ny2y_34.223421_-88.710110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123633,
+    "wof:geomhash":"55cd959be58b1a26e661eb8544cb45e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857172233
+        }
+    ],
+    "wof:id":857172233,
+    "wof:lastmodified":1464123633,
+    "wof:name":"Transport International Pool",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -88.71011,
+    34.223421,
+    -88.71011,
+    34.223421
+],
+  "geometry": {"coordinates":[-88.71011,34.223421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857135181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.417043,33.517968,-88.417043,33.517968",
+    "geom:latitude":33.517968,
+    "geom:longitude":-88.417043,
+    "iso:country":"US",
+    "sg:address":"3497 Bluecutt Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 3431",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flV9Wv7WVZGmUSvrKuoUz_33.517968_-88.417043@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122787,
+    "wof:geomhash":"08981d475668e67ab54c2202409b03b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857135181
+        }
+    ],
+    "wof:id":857135181,
+    "wof:lastmodified":1464122787,
+    "wof:name":"Robin H Campassi DDS",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.417043,
+    33.517968,
+    -88.417043,
+    33.517968
+],
+  "geometry": {"coordinates":[-88.41704300000001,33.517968],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857447705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.637973,30.466475,-88.637973,30.466475",
+    "geom:latitude":30.466475,
+    "geom:longitude":-88.637973,
+    "iso:country":"US",
+    "sg:address":"8816 Ferry Point Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 3441",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pxWwglE3DxMV7zGsk0Y6H_30.466475_-88.637973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129716,
+    "wof:geomhash":"d4cafd38f568e776a4211cc40f584806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857447705
+        }
+    ],
+    "wof:id":857447705,
+    "wof:lastmodified":1464129716,
+    "wof:name":"C & D Associates LLC",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.637973,
+    30.466475,
+    -88.637973,
+    30.466475
+],
+  "geometry": {"coordinates":[-88.637973,30.466475],"type":"Point"}
+}

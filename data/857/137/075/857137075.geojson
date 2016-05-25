@@ -1,0 +1,74 @@
+{
+  "id": 857137075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.585663,34.389168,-88.585663,34.389168",
+    "geom:latitude":34.389168,
+    "geom:longitude":-88.585663,
+    "iso:country":"US",
+    "sg:address":"1493 State Hwy 363",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 2277",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ujw54NEjOGCUXIISb6kZ_34.389168_-88.585663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122830,
+    "wof:geomhash":"f748ee21beb788f785d5766588aa80c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857137075
+        }
+    ],
+    "wof:id":857137075,
+    "wof:lastmodified":1464122830,
+    "wof:name":"Mississippi Door LLC",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -88.585663,
+    34.389168,
+    -88.585663,
+    34.389168
+],
+  "geometry": {"coordinates":[-88.585663,34.389168],"type":"Point"}
+}

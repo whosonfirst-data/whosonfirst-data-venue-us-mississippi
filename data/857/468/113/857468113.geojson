@@ -1,0 +1,67 @@
+{
+  "id": 857468113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70276,34.314243,-88.70276,34.314243",
+    "geom:latitude":34.314243,
+    "geom:longitude":-88.70276,
+    "iso:country":"US",
+    "sg:address":"4298 Mall Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 2438",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:website":"www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4064qRNHzYbVKNN64DOCIM_34.314243_-88.702760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130127,
+    "wof:geomhash":"fccfdb3b769e59c868bd11cf72060141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857468113
+        }
+    ],
+    "wof:id":857468113,
+    "wof:lastmodified":1464130127,
+    "wof:name":"T J Maxx",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.70276,
+    34.314243,
+    -88.70276,
+    34.314243
+],
+  "geometry": {"coordinates":[-88.70276,34.314243],"type":"Point"}
+}

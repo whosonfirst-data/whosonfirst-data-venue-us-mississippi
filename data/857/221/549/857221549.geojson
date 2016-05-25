@@ -1,0 +1,72 @@
+{
+  "id": 857221549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.301502,31.324667,-89.301502,31.324667",
+    "geom:latitude":31.324667,
+    "geom:longitude":-89.301502,
+    "iso:country":"US",
+    "sg:address":"704 Hardy St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 1565",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.neel-schaffer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fyTH1xwcJ7iB4wsRlj5up_31.324667_-89.301502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124647,
+    "wof:geomhash":"cbab368fcfdda58918205e9a02671317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857221549
+        }
+    ],
+    "wof:id":857221549,
+    "wof:lastmodified":1464124647,
+    "wof:name":"Neel-Schaffer Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.301502,
+    31.324667,
+    -89.301502,
+    31.324667
+],
+  "geometry": {"coordinates":[-89.301502,31.324667],"type":"Point"}
+}

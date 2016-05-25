@@ -1,0 +1,73 @@
+{
+  "id": 857445451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.890412,30.395327,-88.890412,30.395327",
+    "geom:latitude":30.395327,
+    "geom:longitude":-88.890412,
+    "iso:country":"US",
+    "sg:address":"150 Reynoir St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 436 1477",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iZOPznsmu1P68hTBval3I_30.395327_-88.890412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129671,
+    "wof:geomhash":"2789f7d6c9d0e0cb407b53137e5d1e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857445451
+        }
+    ],
+    "wof:id":857445451,
+    "wof:lastmodified":1464129671,
+    "wof:name":"Seniors Harbor",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.890412,
+    30.395327,
+    -88.890412,
+    30.395327
+],
+  "geometry": {"coordinates":[-88.890412,30.395327],"type":"Point"}
+}

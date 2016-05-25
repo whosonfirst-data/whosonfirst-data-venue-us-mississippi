@@ -1,0 +1,71 @@
+{
+  "id": 857149599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.555373,30.361612,-88.555373,30.361612",
+    "geom:latitude":30.361612,
+    "geom:longitude":-88.555373,
+    "iso:country":"US",
+    "sg:address":"1200 Dupont Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 769 9559",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7akvOrQbDPTqn4nTxhDCcw_30.361612_-88.555373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123140,
+    "wof:geomhash":"fde14b03abad1826d2549162f6f1e56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857149599
+        }
+    ],
+    "wof:id":857149599,
+    "wof:lastmodified":1464123140,
+    "wof:name":"Legal Truckers",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.555373,
+    30.361612,
+    -88.555373,
+    30.361612
+],
+  "geometry": {"coordinates":[-88.555373,30.361612],"type":"Point"}
+}

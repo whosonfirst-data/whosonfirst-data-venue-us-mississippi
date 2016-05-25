@@ -1,0 +1,80 @@
+{
+  "id": 857486919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55379,34.191739,-90.55379,34.191739",
+    "geom:latitude":34.191739,
+    "geom:longitude":-90.55379,
+    "iso:country":"US",
+    "sg:address":"1806 Espy Dr",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 621 1541",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FyIRdWOMEOYMUlcuR69Mo_34.191739_-90.553790@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130501,
+    "wof:geomhash":"1c20da796022b8ef5e1aeffa414ea919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857486919
+        }
+    ],
+    "wof:id":857486919,
+    "wof:lastmodified":1464130501,
+    "wof:name":"Martin J Ellington",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.55379,
+    34.191739,
+    -90.55379,
+    34.191739
+],
+  "geometry": {"coordinates":[-90.55379000000001,34.191739],"type":"Point"}
+}

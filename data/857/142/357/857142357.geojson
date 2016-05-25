@@ -1,0 +1,75 @@
+{
+  "id": 857142357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.671131,34.286735,-89.671131,34.286735",
+    "geom:latitude":34.286735,
+    "geom:longitude":-89.671131,
+    "iso:country":"US",
+    "sg:address":"37 Co Rd 325",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5668",
+    "sg:postcode":"38673",
+    "sg:province":"MS",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_578iUwyKJN5uynSiTFZ5XL_34.286735_-89.671131@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122949,
+    "wof:geomhash":"c129f489830f803933ee71d0b389c23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857142357
+        }
+    ],
+    "wof:id":857142357,
+    "wof:lastmodified":1464122949,
+    "wof:name":"Frank Tatum",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -89.671131,
+    34.286735,
+    -89.671131,
+    34.286735
+],
+  "geometry": {"coordinates":[-89.671131,34.286735],"type":"Point"}
+}

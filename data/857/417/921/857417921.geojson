@@ -1,0 +1,73 @@
+{
+  "id": 857417921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.323038,33.448387,-88.323038,33.448387",
+    "geom:latitude":33.448387,
+    "geom:longitude":-88.323038,
+    "iso:country":"US",
+    "sg:address":"3240 New Hope Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 5223",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5876qC2pEHaSKDfO3IiDnR_33.448387_-88.323038@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129057,
+    "wof:geomhash":"0de7a911fbc134bc65810a3afbb469fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857417921
+        }
+    ],
+    "wof:id":857417921,
+    "wof:lastmodified":1464129057,
+    "wof:name":"Susan's Dance Studio",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -88.323038,
+    33.448387,
+    -88.323038,
+    33.448387
+],
+  "geometry": {"coordinates":[-88.323038,33.448387],"type":"Point"}
+}

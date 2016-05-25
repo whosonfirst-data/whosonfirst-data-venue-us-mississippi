@@ -1,0 +1,82 @@
+{
+  "id": 857092699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.534815,30.386767,-88.534815,30.386767",
+    "geom:latitude":30.386767,
+    "geom:longitude":-88.534815,
+    "iso:country":"US",
+    "sg:address":"5503 Telephone Rd",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3431",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "leasing",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TWV3bcB87drco9zSwNHdx_30.386767_-88.534815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121745,
+    "wof:geomhash":"24db2ea36bfb76c6cf217bd5a8942e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857092699
+        }
+    ],
+    "wof:id":857092699,
+    "wof:lastmodified":1464121745,
+    "wof:name":"Krebs Trailer Plaza",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "leasing",
+        "site"
+    ]
+},
+  "bbox": [
+    -88.534815,
+    30.386767,
+    -88.534815,
+    30.386767
+],
+  "geometry": {"coordinates":[-88.53481499999999,30.386767],"type":"Point"}
+}

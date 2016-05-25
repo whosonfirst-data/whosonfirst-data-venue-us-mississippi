@@ -1,0 +1,73 @@
+{
+  "id": 857347113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.976335,34.465712,-88.976335,34.465712",
+    "geom:latitude":34.465712,
+    "geom:longitude":-88.976335,
+    "iso:country":"US",
+    "sg:address":"1010 Hickory Ridge Dr",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 4816",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aV4LEoTolhDf3VcDZVaTz_34.465712_-88.976335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127422,
+    "wof:geomhash":"58b7aa2ce853d0f59e0978441055e637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857347113
+        }
+    ],
+    "wof:id":857347113,
+    "wof:lastmodified":1464127422,
+    "wof:name":"Lane Heard Trucking",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.976335,
+    34.465712,
+    -88.976335,
+    34.465712
+],
+  "geometry": {"coordinates":[-88.97633500000001,34.465712],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857089993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.548962,34.367397,-89.548962,34.367397",
+    "geom:latitude":34.367397,
+    "geom:longitude":-89.548962,
+    "iso:country":"US",
+    "sg:address":"1415 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0800",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hbiipi39e6hvyYSNk0Rvf_34.367397_-89.548962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121675,
+    "wof:geomhash":"975e02d0ae205dbb18322f44c1a11651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857089993
+        }
+    ],
+    "wof:id":857089993,
+    "wof:lastmodified":1464121675,
+    "wof:name":"Opus Land Tattoo Studio",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -89.548962,
+    34.367397,
+    -89.548962,
+    34.367397
+],
+  "geometry": {"coordinates":[-89.548962,34.367397],"type":"Point"}
+}

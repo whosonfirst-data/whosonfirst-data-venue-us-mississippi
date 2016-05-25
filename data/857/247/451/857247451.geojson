@@ -1,0 +1,73 @@
+{
+  "id": 857247451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.118281,30.367694,-89.118281,30.367694",
+    "geom:latitude":30.367694,
+    "geom:longitude":-89.118281,
+    "iso:country":"US",
+    "sg:address":"4502 Old Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 9977",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g1Qk4BNulV1vdeEAmbbrK_30.367694_-89.118281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125188,
+    "wof:geomhash":"4aad24113109abed81139088bacf1c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857247451
+        }
+    ],
+    "wof:id":857247451,
+    "wof:lastmodified":1464125188,
+    "wof:name":"Donald K Gaddy MD",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.118281,
+    30.367694,
+    -89.118281,
+    30.367694
+],
+  "geometry": {"coordinates":[-89.118281,30.367694],"type":"Point"}
+}

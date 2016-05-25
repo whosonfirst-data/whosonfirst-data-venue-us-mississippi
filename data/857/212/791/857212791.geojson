@@ -1,0 +1,71 @@
+{
+  "id": 857212791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.304231,33.355019,-88.304231,33.355019",
+    "geom:latitude":33.355019,
+    "geom:longitude":-88.304231,
+    "iso:country":"US",
+    "sg:address":"11855 Hwy 69 S",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 244 0311",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P2Y9M0gihePtUIhRSjVTr_33.355019_-88.304231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124460,
+    "wof:geomhash":"6331df7670cd5af32f8f723827f59973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857212791
+        }
+    ],
+    "wof:id":857212791,
+    "wof:lastmodified":1464124460,
+    "wof:name":"Lowndes Fire Dept",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.304231,
+    33.355019,
+    -88.304231,
+    33.355019
+],
+  "geometry": {"coordinates":[-88.304231,33.355019],"type":"Point"}
+}

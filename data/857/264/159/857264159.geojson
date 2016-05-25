@@ -1,0 +1,73 @@
+{
+  "id": 857264159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.175356,32.361838,-90.175356,32.361838",
+    "geom:latitude":32.361838,
+    "geom:longitude":-90.175356,
+    "iso:country":"US",
+    "sg:address":"4119 Oaklawn Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 981 1705",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85858753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V5rRATXNxAMWvR5tPYlkC_32.361838_-90.175356@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125576,
+    "wof:geomhash":"07fef1c9a03c0921bbe4c02e82aeb28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85858753,
+            "region_id":85688579,
+            "venue_id":857264159
+        }
+    ],
+    "wof:id":857264159,
+    "wof:lastmodified":1464125576,
+    "wof:name":"Secrets Salon",
+    "wof:parent_id":85858753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.175356,
+    32.361838,
+    -90.175356,
+    32.361838
+],
+  "geometry": {"coordinates":[-90.17535599999999,32.361838],"type":"Point"}
+}

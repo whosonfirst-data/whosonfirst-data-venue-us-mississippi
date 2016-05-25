@@ -1,0 +1,71 @@
+{
+  "id": 857130305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.644967,34.269467,-88.644967,34.269467",
+    "geom:latitude":34.269467,
+    "geom:longitude":-88.644967,
+    "iso:country":"US",
+    "sg:address":"1050 N Eason Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 678 1050",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iyCXdoqnW5GJDpMwW8Apr_34.269467_-88.644967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122688,
+    "wof:geomhash":"206bd37f9c630032a7081feb49cd5948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857130305
+        }
+    ],
+    "wof:id":857130305,
+    "wof:lastmodified":1464122688,
+    "wof:name":"Auburn Family Med Clinic LLC",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.644967,
+    34.269467,
+    -88.644967,
+    34.269467
+],
+  "geometry": {"coordinates":[-88.64496699999999,34.269467],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857434031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.715349,34.239797,-88.715349,34.239797",
+    "geom:latitude":34.239797,
+    "geom:longitude":-88.715349,
+    "iso:country":"US",
+    "sg:address":"607 Garfield St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 5200",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RfdPYi04Il7HRzEloW9cq_34.239797_-88.715349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129448,
+    "wof:geomhash":"51743b1dfc9be7bcbcc4b34c29fa4073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857434031
+        }
+    ],
+    "wof:id":857434031,
+    "wof:lastmodified":1464129448,
+    "wof:name":"Endocrine Clinic",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.715349,
+    34.239797,
+    -88.715349,
+    34.239797
+],
+  "geometry": {"coordinates":[-88.715349,34.239797],"type":"Point"}
+}

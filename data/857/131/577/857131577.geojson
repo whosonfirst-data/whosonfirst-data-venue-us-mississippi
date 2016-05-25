@@ -1,0 +1,71 @@
+{
+  "id": 857131577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.216412,30.352058,-89.216412,30.352058",
+    "geom:latitude":30.352058,
+    "geom:longitude":-89.216412,
+    "iso:country":"US",
+    "sg:address":"4476 Menge Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9902",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TQY2pNAtRfOcgnLtzpcXF_30.352058_-89.216412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122712,
+    "wof:geomhash":"1a64466b285c0ea117814bbe69724da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857131577
+        }
+    ],
+    "wof:id":857131577,
+    "wof:lastmodified":1464122712,
+    "wof:name":"Pineville Presbyterian Church",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.216412,
+    30.352058,
+    -89.216412,
+    30.352058
+],
+  "geometry": {"coordinates":[-89.21641200000001,30.352058],"type":"Point"}
+}

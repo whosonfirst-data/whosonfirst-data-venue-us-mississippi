@@ -1,0 +1,71 @@
+{
+  "id": 857248355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.578569,34.195831,-90.578569,34.195831",
+    "geom:latitude":34.195831,
+    "geom:longitude":-90.578569,
+    "iso:country":"US",
+    "sg:address":"123 Adams Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9973",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c6ImyhHTBtCEXorQuwkzg_34.195831_-90.578569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125207,
+    "wof:geomhash":"e9a0e8b04fe4e20ad652bb131c772f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857248355
+        }
+    ],
+    "wof:id":857248355,
+    "wof:lastmodified":1464125207,
+    "wof:name":"Clarksdale Assoc of Educators",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -90.578569,
+    34.195831,
+    -90.578569,
+    34.195831
+],
+  "geometry": {"coordinates":[-90.578569,34.195831],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857323213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.768142,30.365604,-88.768142,30.365604",
+    "geom:latitude":30.365604,
+    "geom:longitude":-88.768142,
+    "iso:country":"US",
+    "sg:address":"9425 Seacliffe Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 6016",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lYfBw7tiYxAcmkOereKZr_30.365604_-88.768142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126916,
+    "wof:geomhash":"e18a5709928098504fa249dd847be4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857323213
+        }
+    ],
+    "wof:id":857323213,
+    "wof:lastmodified":1464126916,
+    "wof:name":"Baughn Investigation",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -88.768142,
+    30.365604,
+    -88.768142,
+    30.365604
+],
+  "geometry": {"coordinates":[-88.768142,30.365604],"type":"Point"}
+}

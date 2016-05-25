@@ -1,0 +1,73 @@
+{
+  "id": 857121409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.608978,34.4578,-89.608978,34.4578",
+    "geom:latitude":34.4578,
+    "geom:longitude":-89.608978,
+    "iso:country":"US",
+    "sg:address":"544 Co Rd 102",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 1231",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E0HkupkaS0nSbuU4Hm2rn_34.457800_-89.608978@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122483,
+    "wof:geomhash":"84430f09e55b9e6bd5a1b2a51e6414a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857121409
+        }
+    ],
+    "wof:id":857121409,
+    "wof:lastmodified":1464122483,
+    "wof:name":"Franklin's Heating & Air Cond",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.608978,
+    34.4578,
+    -89.608978,
+    34.4578
+],
+  "geometry": {"coordinates":[-89.60897799999999,34.4578],"type":"Point"}
+}

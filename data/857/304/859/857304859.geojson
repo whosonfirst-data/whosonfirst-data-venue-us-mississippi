@@ -1,0 +1,73 @@
+{
+  "id": 857304859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772753,34.256735,-88.772753,34.256735",
+    "geom:latitude":34.256735,
+    "geom:longitude":-88.772753,
+    "iso:country":"US",
+    "sg:address":"456 S Coley Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 678 8090",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31T6JUwXXnec0LU7DDjYBH_34.256735_-88.772753@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126513,
+    "wof:geomhash":"c6f4fcbecdd4244aedbc4ed0916ac1e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857304859
+        }
+    ],
+    "wof:id":857304859,
+    "wof:lastmodified":1464126513,
+    "wof:name":"Bancorpsouth",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.772753,
+    34.256735,
+    -88.772753,
+    34.256735
+],
+  "geometry": {"coordinates":[-88.77275299999999,34.256735],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857091229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.51904,30.354509,-88.51904,30.354509",
+    "geom:latitude":30.354509,
+    "geom:longitude":-88.51904,
+    "iso:country":"US",
+    "sg:address":"1701 Roswell St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0724",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nutrition",
+        "sport",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g2HdMF8VCLISqCsS1pOnl_30.354509_-88.519040@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121718,
+    "wof:geomhash":"10fb12837d54c035481afee3b5ffae5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857091229
+        }
+    ],
+    "wof:id":857091229,
+    "wof:lastmodified":1464121718,
+    "wof:name":"1nutritioncom",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutrition",
+        "sport",
+        "health"
+    ]
+},
+  "bbox": [
+    -88.51904,
+    30.354509,
+    -88.51904,
+    30.354509
+],
+  "geometry": {"coordinates":[-88.51904,30.354509],"type":"Point"}
+}

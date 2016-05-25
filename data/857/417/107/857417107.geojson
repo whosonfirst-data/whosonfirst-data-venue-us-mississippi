@@ -1,0 +1,71 @@
+{
+  "id": 857417107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.276491,33.586825,-88.276491,33.586825",
+    "geom:latitude":33.586825,
+    "geom:longitude":-88.276491,
+    "iso:country":"US",
+    "sg:address":"2647 Steens Vernon Rd",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 4040",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f4j7uB8ZAK4Cvks8laFdh_33.586825_-88.276491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129035,
+    "wof:geomhash":"94c48b20be56b3cf97337b10d988f800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857417107
+        }
+    ],
+    "wof:id":857417107,
+    "wof:lastmodified":1464129035,
+    "wof:name":"Steens Superette",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.276491,
+    33.586825,
+    -88.276491,
+    33.586825
+],
+  "geometry": {"coordinates":[-88.27649099999999,33.586825],"type":"Point"}
+}

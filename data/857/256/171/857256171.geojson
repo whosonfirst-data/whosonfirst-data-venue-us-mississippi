@@ -1,0 +1,73 @@
+{
+  "id": 857256171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.521074,33.8667,-88.521074,33.8667",
+    "geom:latitude":33.8667,
+    "geom:longitude":-88.521074,
+    "iso:country":"US",
+    "sg:address":"50042 Huck Lann Dr",
+    "sg:city":"Amory",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 319 8932",
+    "sg:postcode":"38821",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60wNMEzdjQgNhH2e8TERaS_33.866700_-88.521074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125409,
+    "wof:geomhash":"b25afec8d2c074ae92a11491a51398d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857256171
+        }
+    ],
+    "wof:id":857256171,
+    "wof:lastmodified":1464125409,
+    "wof:name":"Edward Ray Moffett",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.521074,
+    33.8667,
+    -88.521074,
+    33.8667
+],
+  "geometry": {"coordinates":[-88.521074,33.8667],"type":"Point"}
+}

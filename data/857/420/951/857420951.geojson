@@ -1,0 +1,73 @@
+{
+  "id": 857420951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.334138,31.347702,-89.334138,31.347702",
+    "geom:latitude":31.347702,
+    "geom:longitude":-89.334138,
+    "iso:country":"US",
+    "sg:address":"5209 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0843",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KX5pEZHThKE3Qsa627JP0_31.347702_-89.334138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129128,
+    "wof:geomhash":"4cd15bb1e44d88433d79fa531a97ffad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857420951
+        }
+    ],
+    "wof:id":857420951,
+    "wof:lastmodified":1464129128,
+    "wof:name":"Dismas Charities",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -89.334138,
+    31.347702,
+    -89.334138,
+    31.347702
+],
+  "geometry": {"coordinates":[-89.334138,31.347702],"type":"Point"}
+}

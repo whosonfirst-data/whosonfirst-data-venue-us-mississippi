@@ -1,0 +1,74 @@
+{
+  "id": 857481121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700675,34.25752,-88.700675,34.25752",
+    "geom:latitude":34.25752,
+    "geom:longitude":-88.700675,
+    "iso:country":"US",
+    "sg:address":"398 E Main St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/153046-pb-loco/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 823 5626",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969769,
+        102083171,
+        85840757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i0bKkt4OOH9YaPO1mS3PM_34.257520_-88.700675@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130390,
+    "wof:geomhash":"d5398c24d96baa892f9c9e450f6d6efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85840757,
+            "region_id":85688579,
+            "venue_id":857481121
+        }
+    ],
+    "wof:id":857481121,
+    "wof:lastmodified":1464130390,
+    "wof:name":"P.B. Loco",
+    "wof:parent_id":85840757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.700675,
+    34.25752,
+    -88.700675,
+    34.25752
+],
+  "geometry": {"coordinates":[-88.700675,34.25752],"type":"Point"}
+}

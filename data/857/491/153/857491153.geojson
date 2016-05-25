@@ -1,0 +1,73 @@
+{
+  "id": 857491153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675592,32.497756,-88.675592,32.497756",
+    "geom:latitude":32.497756,
+    "geom:longitude":-88.675592,
+    "iso:country":"US",
+    "sg:address":"8505 Highway 39 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 681 6127",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jjbqRVzQlVsVT5invzo5s_32.497756_-88.675592@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464130624,
+    "wof:geomhash":"9e028db73d596ec905b4947daa15f196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857491153
+        }
+    ],
+    "wof:id":857491153,
+    "wof:lastmodified":1464130624,
+    "wof:name":"Express Line",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [
+    -88.675592,
+    32.497756,
+    -88.675592,
+    32.497756
+],
+  "geometry": {"coordinates":[-88.67559199999999,32.497756],"type":"Point"}
+}

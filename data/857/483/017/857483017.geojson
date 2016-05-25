@@ -1,0 +1,80 @@
+{
+  "id": 857483017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123873,32.330089,-90.123873,32.330089",
+    "geom:latitude":32.330089,
+    "geom:longitude":-90.123873,
+    "iso:country":"US",
+    "sg:address":"2389 Lakeland Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/pearl/85043-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 4060",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lOltnfdSnOAahNo6b3HQv_32.330089_-90.123873@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130428,
+    "wof:geomhash":"53627b026504c31ac567300b8b2f55c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857483017
+        }
+    ],
+    "wof:id":857483017,
+    "wof:lastmodified":1464130428,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.123873,
+    32.330089,
+    -90.123873,
+    32.330089
+],
+  "geometry": {"coordinates":[-90.123873,32.330089],"type":"Point"}
+}

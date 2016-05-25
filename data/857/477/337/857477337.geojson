@@ -1,0 +1,74 @@
+{
+  "id": 857477337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566366,34.199073,-90.566366,34.199073",
+    "geom:latitude":34.199073,
+    "geom:longitude":-90.566366,
+    "iso:country":"US",
+    "sg:address":"504 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7884",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment",
+        "rental"
+    ],
+    "sg:website":"http://www.southlandmanagement.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lG224LSEzYjMAZQc1ytwa_34.199091_-90.566350@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130321,
+    "wof:geomhash":"b66c7bc5c8918c54ad5535a14239ad43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857477337
+        }
+    ],
+    "wof:id":857477337,
+    "wof:lastmodified":1464130321,
+    "wof:name":"Southland Management Corp",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -90.566366,
+    34.199073,
+    -90.566366,
+    34.199073
+],
+  "geometry": {"coordinates":[-90.566366,34.199073],"type":"Point"}
+}

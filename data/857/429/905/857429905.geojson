@@ -1,0 +1,71 @@
+{
+  "id": 857429905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53479,30.373335,-88.53479,30.373335",
+    "geom:latitude":30.373335,
+    "geom:longitude":-88.53479,
+    "iso:country":"US",
+    "sg:address":"4311 Hospital St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1457",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6knnFWDvHndz3PLtKuZbiM_30.373335_-88.534790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129343,
+    "wof:geomhash":"ad871becff3f06045b397d054a2fb55d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857429905
+        }
+    ],
+    "wof:id":857429905,
+    "wof:lastmodified":1464129343,
+    "wof:name":"Jackson Cnty Exceptional Schl",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -88.53479,
+    30.373335,
+    -88.53479,
+    30.373335
+],
+  "geometry": {"coordinates":[-88.53479,30.373335],"type":"Point"}
+}

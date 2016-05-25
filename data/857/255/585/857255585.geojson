@@ -1,0 +1,75 @@
+{
+  "id": 857255585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.940344,33.439851,-88.940344,33.439851",
+    "geom:latitude":33.439851,
+    "geom:longitude":-88.940344,
+    "iso:country":"US",
+    "sg:address":"1123 Longview-Adaton Rd S",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 1361",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x64c56tQWxvI82IgNbEB8_33.439851_-88.940344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125388,
+    "wof:geomhash":"d24198b049ec1524649a4b0adaeeebdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857255585
+        }
+    ],
+    "wof:id":857255585,
+    "wof:lastmodified":1464125388,
+    "wof:name":"Mcclelland Buddy Body Shop",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.940344,
+    33.439851,
+    -88.940344,
+    33.439851
+],
+  "geometry": {"coordinates":[-88.940344,33.439851],"type":"Point"}
+}

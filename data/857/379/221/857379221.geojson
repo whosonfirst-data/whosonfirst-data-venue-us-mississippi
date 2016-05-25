@@ -1,0 +1,75 @@
+{
+  "id": 857379221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.954857,33.465893,-88.954857,33.465893",
+    "geom:latitude":33.465893,
+    "geom:longitude":-88.954857,
+    "iso:country":"US",
+    "sg:address":"2299 Brown Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 4404",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oHACYjq1puPsztm9HhmzC_33.465893_-88.954857@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128098,
+    "wof:geomhash":"ef7db1a0ee014e82520bcc85fd61e8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857379221
+        }
+    ],
+    "wof:id":857379221,
+    "wof:lastmodified":1464128098,
+    "wof:name":"Critter Sitters",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -88.954857,
+    33.465893,
+    -88.954857,
+    33.465893
+],
+  "geometry": {"coordinates":[-88.954857,33.465893],"type":"Point"}
+}

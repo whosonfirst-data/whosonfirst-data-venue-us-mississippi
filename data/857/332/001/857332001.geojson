@@ -1,0 +1,73 @@
+{
+  "id": 857332001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.147,30.352992,-89.147,30.352992",
+    "geom:latitude":30.352992,
+    "geom:longitude":-89.147,
+    "iso:country":"US",
+    "sg:address":"111 N Cleveland Ave",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 865 0818",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g15waydCRQEr2X0AZV1ed_30.352992_-89.147000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127101,
+    "wof:geomhash":"8afad4213d67153d65f120af65b9b4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857332001
+        }
+    ],
+    "wof:id":857332001,
+    "wof:lastmodified":1464127101,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video"
+    ]
+},
+  "bbox": [
+    -89.147,
+    30.352992,
+    -89.147,
+    30.352992
+],
+  "geometry": {"coordinates":[-89.14700000000001,30.352992],"type":"Point"}
+}

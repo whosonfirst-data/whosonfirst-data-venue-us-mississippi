@@ -1,0 +1,71 @@
+{
+  "id": 857274757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719475,34.231846,-88.719475,34.231846",
+    "geom:latitude":34.231846,
+    "geom:longitude":-88.719475,
+    "iso:country":"US",
+    "sg:address":"1153 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 6849",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13QjJ2hZF86oIodoYrtqhb_34.231846_-88.719475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125786,
+    "wof:geomhash":"8b3d821fe1654969542d7b54665dcbe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857274757
+        }
+    ],
+    "wof:id":857274757,
+    "wof:lastmodified":1464125786,
+    "wof:name":"A Gold Star Chinese Restaurant",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.719475,
+    34.231846,
+    -88.719475,
+    34.231846
+],
+  "geometry": {"coordinates":[-88.719475,34.231846],"type":"Point"}
+}

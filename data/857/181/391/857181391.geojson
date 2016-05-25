@@ -1,0 +1,73 @@
+{
+  "id": 857181391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.756679,30.408142,-88.756679,30.408142",
+    "geom:latitude":30.408142,
+    "geom:longitude":-88.756679,
+    "iso:country":"US",
+    "sg:address":"4025 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 2993",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1no2fIg8EP6QnlOWkKE3pn_30.408142_-88.756679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123822,
+    "wof:geomhash":"76da9d625c798e786483c7f29e07739b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857181391
+        }
+    ],
+    "wof:id":857181391,
+    "wof:lastmodified":1464123822,
+    "wof:name":"Godwin's Used Auto",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.756679,
+    30.408142,
+    -88.756679,
+    30.408142
+],
+  "geometry": {"coordinates":[-88.75667900000001,30.408142],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857329899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.951559,34.889517,-89.951559,34.889517",
+    "geom:latitude":34.889517,
+    "geom:longitude":-89.951559,
+    "iso:country":"US",
+    "sg:address":"2185 Lester Rd",
+    "sg:city":"Hernando",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 449 0542",
+    "sg:postcode":"38651",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lQiS4fPMoHJyFhCj5qeh2_34.889517_-89.951559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127052,
+    "wof:geomhash":"85516bd4b7874c743c820aff4562fe13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857329899
+        }
+    ],
+    "wof:id":857329899,
+    "wof:lastmodified":1464127052,
+    "wof:name":"Larry's Place",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.951559,
+    34.889517,
+    -89.951559,
+    34.889517
+],
+  "geometry": {"coordinates":[-89.951559,34.889517],"type":"Point"}
+}

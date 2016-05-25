@@ -1,0 +1,73 @@
+{
+  "id": 857240357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.208419,32.158688,-90.208419,32.158688",
+    "geom:latitude":32.158688,
+    "geom:longitude":-90.208419,
+    "iso:country":"US",
+    "sg:address":"217 Hickory Ridge Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 6375",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40Z4u9QCe4Vuk3vjl3rzPg_32.158688_-90.208419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125016,
+    "wof:geomhash":"6504fd4569632bee5d423d5144e75f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857240357
+        }
+    ],
+    "wof:id":857240357,
+    "wof:lastmodified":1464125016,
+    "wof:name":"Cleary Water Sewer & Fire",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -90.208419,
+    32.158688,
+    -90.208419,
+    32.158688
+],
+  "geometry": {"coordinates":[-90.20841900000001,32.158688],"type":"Point"}
+}

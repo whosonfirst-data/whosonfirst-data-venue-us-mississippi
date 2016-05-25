@@ -1,0 +1,73 @@
+{
+  "id": 857410981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528839,30.377061,-88.528839,30.377061",
+    "geom:latitude":30.377061,
+    "geom:longitude":-88.528839,
+    "iso:country":"US",
+    "sg:address":"3301 Denny Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 0429",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lk8pwiO4YcXCTp902T4zx_30.377061_-88.528839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128874,
+    "wof:geomhash":"e8c894114caa25dc7f59c31c54121e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857410981
+        }
+    ],
+    "wof:id":857410981,
+    "wof:lastmodified":1464128874,
+    "wof:name":"Lowe's",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -88.528839,
+    30.377061,
+    -88.528839,
+    30.377061
+],
+  "geometry": {"coordinates":[-88.528839,30.377061],"type":"Point"}
+}

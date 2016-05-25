@@ -1,0 +1,73 @@
+{
+  "id": 857078029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.189592,32.289885,-90.189592,32.289885",
+    "geom:latitude":32.289885,
+    "geom:longitude":-90.189592,
+    "iso:country":"US",
+    "sg:address":"882 S Roach St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 924 9305",
+    "sg:postcode":"39201",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xs4GHl76OyX9FLJUNHifc_32.289885_-90.189592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121354,
+    "wof:geomhash":"eef37801d5037321cb3a805e9e54cd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857078029
+        }
+    ],
+    "wof:id":857078029,
+    "wof:lastmodified":1464121354,
+    "wof:name":"S & E Towing Svc",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.189592,
+    32.289885,
+    -90.189592,
+    32.289885
+],
+  "geometry": {"coordinates":[-90.189592,32.289885],"type":"Point"}
+}

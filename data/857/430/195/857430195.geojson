@@ -1,0 +1,71 @@
+{
+  "id": 857430195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.31351,33.485511,-88.31351,33.485511",
+    "geom:latitude":33.485511,
+    "geom:longitude":-88.31351,
+    "iso:country":"US",
+    "sg:address":"85 Valley Brook Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 328 9086",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_046aGZ5ucGHUesXNjbNgeH_33.485511_-88.313510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129348,
+    "wof:geomhash":"1f0922de4f1b6eae63779fb3956a00ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857430195
+        }
+    ],
+    "wof:id":857430195,
+    "wof:lastmodified":1464129348,
+    "wof:name":"Heritage Designs",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.31351,
+    33.485511,
+    -88.31351,
+    33.485511
+],
+  "geometry": {"coordinates":[-88.31350999999999,33.485511],"type":"Point"}
+}

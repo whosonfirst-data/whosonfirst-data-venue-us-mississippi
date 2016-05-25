@@ -1,0 +1,71 @@
+{
+  "id": 857475215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.248833,31.356487,-89.248833,31.356487",
+    "geom:latitude":31.356487,
+    "geom:longitude":-89.248833,
+    "iso:country":"US",
+    "sg:address":"720 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 3407",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gTCSCffhFJGw4xJIGimib_31.356487_-89.248833@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130283,
+    "wof:geomhash":"1d6348cf3334e5c9acfb4746b914b711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857475215
+        }
+    ],
+    "wof:id":857475215,
+    "wof:lastmodified":1464130283,
+    "wof:name":"First United Pentecostal Chr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.248833,
+    31.356487,
+    -89.248833,
+    31.356487
+],
+  "geometry": {"coordinates":[-89.248833,31.356487],"type":"Point"}
+}

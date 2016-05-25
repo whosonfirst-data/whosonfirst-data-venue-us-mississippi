@@ -1,0 +1,73 @@
+{
+  "id": 857175123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.411199,31.421,-89.411199,31.421",
+    "geom:latitude":31.421,
+    "geom:longitude":-89.411199,
+    "iso:country":"US",
+    "sg:address":"7836 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 1547",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tsTlfO46V5fDUm0HWfoZk_31.421000_-89.411199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123696,
+    "wof:geomhash":"ac119f8c6630ddfcf4b51eda3c7c31fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857175123
+        }
+    ],
+    "wof:id":857175123,
+    "wof:lastmodified":1464123696,
+    "wof:name":"Empire Construction",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.411199,
+    31.421,
+    -89.411199,
+    31.421
+],
+  "geometry": {"coordinates":[-89.411199,31.421],"type":"Point"}
+}

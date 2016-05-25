@@ -1,0 +1,71 @@
+{
+  "id": 857183457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554657,30.357321,-88.554657,30.357321",
+    "geom:latitude":30.357321,
+    "geom:longitude":-88.554657,
+    "iso:country":"US",
+    "sg:address":"2133 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 712 2626",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3izcT3SmddfqMKsKhuxqbR_30.357321_-88.554657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123866,
+    "wof:geomhash":"b9449055895a1d526829c8bdb766a38f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857183457
+        }
+    ],
+    "wof:id":857183457,
+    "wof:lastmodified":1464123866,
+    "wof:name":"Cuevas Detailing Services Inc",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.554657,
+    30.357321,
+    -88.554657,
+    30.357321
+],
+  "geometry": {"coordinates":[-88.55465700000001,30.357321],"type":"Point"}
+}

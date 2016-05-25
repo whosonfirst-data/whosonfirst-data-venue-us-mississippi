@@ -1,0 +1,71 @@
+{
+  "id": 857256937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.5267,30.368535,-88.5267,30.368535",
+    "geom:latitude":30.368535,
+    "geom:longitude":-88.5267,
+    "iso:country":"US",
+    "sg:address":"3331 Old Mobile Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 9575",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fR0KgwGHqQqdHnNS3aOHr_30.368535_-88.526700@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125425,
+    "wof:geomhash":"886fa4bec58d4c8f8a73b84bc96815ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857256937
+        }
+    ],
+    "wof:id":857256937,
+    "wof:lastmodified":1464125425,
+    "wof:name":"Sharp Images Styling Salon",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.5267,
+    30.368535,
+    -88.5267,
+    30.368535
+],
+  "geometry": {"coordinates":[-88.52670000000001,30.368535],"type":"Point"}
+}

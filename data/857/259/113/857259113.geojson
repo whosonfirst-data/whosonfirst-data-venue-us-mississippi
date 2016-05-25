@@ -1,0 +1,75 @@
+{
+  "id": 857259113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.716756,34.221905,-88.716756,34.221905",
+    "geom:latitude":34.221905,
+    "geom:longitude":-88.716756,
+    "iso:country":"US",
+    "sg:address":"711 Senter St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0603",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29pYbWHeggxR3DryVEgXHP_34.221905_-88.716756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125474,
+    "wof:geomhash":"a147fec4a31294d5c1dff55fbcc74bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857259113
+        }
+    ],
+    "wof:id":857259113,
+    "wof:lastmodified":1464125474,
+    "wof:name":"Madison Mobile Storage",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -88.716756,
+    34.221905,
+    -88.716756,
+    34.221905
+],
+  "geometry": {"coordinates":[-88.716756,34.221905],"type":"Point"}
+}

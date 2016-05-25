@@ -1,0 +1,68 @@
+{
+  "id": 857134501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.196788,32.348543,-90.196788,32.348543",
+    "geom:latitude":32.348543,
+    "geom:longitude":-90.196788,
+    "iso:country":"US",
+    "sg:address":"1224 Eminence Row",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 987 3522",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ADrsRlBhj81UBEl3SpQcm_32.348543_-90.196788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122773,
+    "wof:geomhash":"b305ad36a251756a7f19a75df46f4d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857134501
+        }
+    ],
+    "wof:id":857134501,
+    "wof:lastmodified":1464122773,
+    "wof:name":"Morrison Academic Advmt Ctr",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.196788,
+    32.348543,
+    -90.196788,
+    32.348543
+],
+  "geometry": {"coordinates":[-90.196788,32.348543],"type":"Point"}
+}

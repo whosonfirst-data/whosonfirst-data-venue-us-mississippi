@@ -1,0 +1,75 @@
+{
+  "id": 857095975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.012461,33.390144,-89.012461,33.390144",
+    "geom:latitude":33.390144,
+    "geom:longitude":-89.012461,
+    "iso:country":"US",
+    "sg:address":"3235 Pleasant Ridge Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 465 7607",
+    "sg:postcode":"39769",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72n6WOqeZrYXfxJGB0Vyp4_33.390144_-89.012461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121812,
+    "wof:geomhash":"52405a684034161974496b02c5d70723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857095975
+        }
+    ],
+    "wof:id":857095975,
+    "wof:lastmodified":1464121812,
+    "wof:name":"Judge's Garage",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.012461,
+    33.390144,
+    -89.012461,
+    33.390144
+],
+  "geometry": {"coordinates":[-89.012461,33.390144],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857399989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648352,33.420361,-88.648352,33.420361",
+    "geom:latitude":33.420361,
+    "geom:longitude":-88.648352,
+    "iso:country":"US",
+    "sg:address":"100 Church St",
+    "sg:city":"Walthall",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 258 3259",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SrMoq6Pa2yLSRGMNxytiw_33.420361_-88.648352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128623,
+    "wof:geomhash":"2eea6e9c2830754d6f2c994f1227ae85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857399989
+        }
+    ],
+    "wof:id":857399989,
+    "wof:lastmodified":1464128623,
+    "wof:name":"Walthall Baptist Church",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.648352,
+    33.420361,
+    -88.648352,
+    33.420361
+],
+  "geometry": {"coordinates":[-88.648352,33.420361],"type":"Point"}
+}

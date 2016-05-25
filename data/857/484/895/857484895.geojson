@@ -1,0 +1,74 @@
+{
+  "id": 857484895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816883,30.416139,-88.816883,30.416139",
+    "geom:latitude":30.416139,
+    "geom:longitude":-88.816883,
+    "iso:country":"US",
+    "sg:address":"1602 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/132956-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 4535",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FeYLUTeakbRC8YiibKpMm_30.416139_-88.816883@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130465,
+    "wof:geomhash":"cfad9a73ab59abcd05d3f8f8f6efbb07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857484895
+        }
+    ],
+    "wof:id":857484895,
+    "wof:lastmodified":1464130465,
+    "wof:name":"Subway",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.816883,
+    30.416139,
+    -88.816883,
+    30.416139
+],
+  "geometry": {"coordinates":[-88.816883,30.416139],"type":"Point"}
+}

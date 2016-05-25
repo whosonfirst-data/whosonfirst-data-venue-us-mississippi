@@ -1,0 +1,73 @@
+{
+  "id": 857471153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.411944,32.850401,-90.411944,32.850401",
+    "geom:latitude":32.850401,
+    "geom:longitude":-90.411944,
+    "iso:country":"US",
+    "sg:address":"333 N Main St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 6012",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SEPCrkSNlQLqxBowe7H8V_32.850401_-90.411944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130196,
+    "wof:geomhash":"1880f30781defcd37082aa65e9c942c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857471153
+        }
+    ],
+    "wof:id":857471153,
+    "wof:lastmodified":1464130196,
+    "wof:name":"Vocational Rehabilitation Svc",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -90.411944,
+    32.850401,
+    -90.411944,
+    32.850401
+],
+  "geometry": {"coordinates":[-90.41194400000001,32.850401],"type":"Point"}
+}

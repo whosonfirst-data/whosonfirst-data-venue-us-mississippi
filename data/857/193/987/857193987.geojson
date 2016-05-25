@@ -1,0 +1,75 @@
+{
+  "id": 857193987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.049429,32.122222,-90.049429,32.122222",
+    "geom:latitude":32.122222,
+    "geom:longitude":-90.049429,
+    "iso:country":"US",
+    "sg:address":"237 Williams Dr",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 5683",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uMtHynAAhVek8W8eYBow2_32.122222_-90.049429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124059,
+    "wof:geomhash":"1fa75a24f0dcc2fd644490ce07869f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857193987
+        }
+    ],
+    "wof:id":857193987,
+    "wof:lastmodified":1464124059,
+    "wof:name":"Ernie's Culpepper Electric Inc",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.049429,
+    32.122222,
+    -90.049429,
+    32.122222
+],
+  "geometry": {"coordinates":[-90.049429,32.122222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857368973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.88245,30.39938,-88.88245,30.39938",
+    "geom:latitude":30.39938,
+    "geom:longitude":-88.88245,
+    "iso:country":"US",
+    "sg:address":"622 Esters Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 436 9737",
+    "sg:postcode":"39530",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oANMljKdZSRlrooSYillh_30.399380_-88.882450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127882,
+    "wof:geomhash":"792afac3082c0a10b79321edb01f896d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857368973
+        }
+    ],
+    "wof:id":857368973,
+    "wof:lastmodified":1464127882,
+    "wof:name":"Mr Cross General Maintenance",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.88245,
+    30.39938,
+    -88.88245,
+    30.39938
+],
+  "geometry": {"coordinates":[-88.88245000000001,30.39938],"type":"Point"}
+}

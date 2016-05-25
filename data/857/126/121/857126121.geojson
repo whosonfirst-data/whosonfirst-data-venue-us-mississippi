@@ -1,0 +1,75 @@
+{
+  "id": 857126121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539298,30.354851,-88.539298,30.354851",
+    "geom:latitude":30.354851,
+    "geom:longitude":-88.539298,
+    "iso:country":"US",
+    "sg:address":"2426 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 1245",
+    "sg:postcode":"39581",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gtoTXYGIuu1vKqbr4Ohgu_30.354851_-88.539298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122590,
+    "wof:geomhash":"03779be2fb5f14435cd29ee19991f713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857126121
+        }
+    ],
+    "wof:id":857126121,
+    "wof:lastmodified":1464122590,
+    "wof:name":"Paradise Pools",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -88.539298,
+    30.354851,
+    -88.539298,
+    30.354851
+],
+  "geometry": {"coordinates":[-88.539298,30.354851],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857312549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64746,33.604361,-88.64746,33.604361",
+    "geom:latitude":33.604361,
+    "geom:longitude":-88.64746,
+    "iso:country":"US",
+    "sg:address":"338 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4872",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:website":"www.tombigbee.lib.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wi5O0WIyUkzyaMBzV810s_33.604361_-88.647460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126672,
+    "wof:geomhash":"4cb38e534001957eb96a16df9ea7a11f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857312549
+        }
+    ],
+    "wof:id":857312549,
+    "wof:lastmodified":1464126672,
+    "wof:name":"Bryan Public Library",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.64746,
+    33.604361,
+    -88.64746,
+    33.604361
+],
+  "geometry": {"coordinates":[-88.64746,33.604361],"type":"Point"}
+}

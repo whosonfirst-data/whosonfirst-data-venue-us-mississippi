@@ -1,0 +1,68 @@
+{
+  "id": 857264803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.160111,32.378027,-90.160111,32.378027",
+    "geom:latitude":32.378027,
+    "geom:longitude":-90.160111,
+    "iso:country":"US",
+    "sg:address":"208 Culley Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 366 2999",
+    "sg:postcode":"39206",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Cmmiry65WYNydj9SQDnq_32.378027_-90.160111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125589,
+    "wof:geomhash":"9e851349096c8ea9be8a8c852f530d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857264803
+        }
+    ],
+    "wof:id":857264803,
+    "wof:lastmodified":1464125589,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.160111,
+    32.378027,
+    -90.160111,
+    32.378027
+],
+  "geometry": {"coordinates":[-90.160111,32.378027],"type":"Point"}
+}

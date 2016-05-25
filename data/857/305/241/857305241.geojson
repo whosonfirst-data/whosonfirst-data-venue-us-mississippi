@@ -1,0 +1,71 @@
+{
+  "id": 857305241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652663,33.604884,-88.652663,33.604884",
+    "geom:latitude":33.604884,
+    "geom:longitude":-88.652663,
+    "iso:country":"US",
+    "sg:address":"217 W Broad St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 0438",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k8MAxSKvByneEOes6LZEd_33.604884_-88.652663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126524,
+    "wof:geomhash":"4ec3c696a9d876597aedbe82dd059fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857305241
+        }
+    ],
+    "wof:id":857305241,
+    "wof:lastmodified":1464126524,
+    "wof:name":"United Medical",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.652663,
+    33.604884,
+    -88.652663,
+    33.604884
+],
+  "geometry": {"coordinates":[-88.652663,33.604884],"type":"Point"}
+}

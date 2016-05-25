@@ -1,0 +1,73 @@
+{
+  "id": 857149475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.718639,34.236668,-88.718639,34.236668",
+    "geom:latitude":34.236668,
+    "geom:longitude":-88.718639,
+    "iso:country":"US",
+    "sg:address":"963 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 8720",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11e9QGXEo71LKLfjs8lvqp_34.236668_-88.718639@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123138,
+    "wof:geomhash":"8f92ed4b477b470ffd68967d849de758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857149475
+        }
+    ],
+    "wof:id":857149475,
+    "wof:lastmodified":1464123138,
+    "wof:name":"Trustmark National Bank",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.718639,
+    34.236668,
+    -88.718639,
+    34.236668
+],
+  "geometry": {"coordinates":[-88.718639,34.236668],"type":"Point"}
+}

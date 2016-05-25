@@ -1,0 +1,73 @@
+{
+  "id": 857442515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.162982,30.357213,-89.162982,30.357213",
+    "geom:latitude":30.357213,
+    "geom:longitude":-89.162982,
+    "iso:country":"US",
+    "sg:address":"325 Lynwood Cir",
+    "sg:city":"Long Beach",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 4079",
+    "sg:postcode":"39560",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l6vcgcHFyCpk9OPRDPsFR_30.357213_-89.162982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129614,
+    "wof:geomhash":"3c46d05b18b13d9b042daaedf45b3da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857442515
+        }
+    ],
+    "wof:id":857442515,
+    "wof:lastmodified":1464129614,
+    "wof:name":"T D Drugs Inc",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.162982,
+    30.357213,
+    -89.162982,
+    30.357213
+],
+  "geometry": {"coordinates":[-89.162982,30.357213],"type":"Point"}
+}

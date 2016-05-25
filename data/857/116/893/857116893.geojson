@@ -1,0 +1,71 @@
+{
+  "id": 857116893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692259,34.407042,-88.692259,34.407042",
+    "geom:latitude":34.407042,
+    "geom:longitude":-88.692259,
+    "iso:country":"US",
+    "sg:address":"105 Homan Dr",
+    "sg:city":"Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 862 2125",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UDSdhiv2zu9ghI6rb5dao_34.407042_-88.692259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122382,
+    "wof:geomhash":"834b28b266136aab752bc6387fac0f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857116893
+        }
+    ],
+    "wof:id":857116893,
+    "wof:lastmodified":1464122382,
+    "wof:name":"Tri State Lumber Co",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -88.692259,
+    34.407042,
+    -88.692259,
+    34.407042
+],
+  "geometry": {"coordinates":[-88.69225900000001,34.407042],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857361855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.791281,34.986366,-89.791281,34.986366",
+    "geom:latitude":34.986366,
+    "geom:longitude":-89.791281,
+    "iso:country":"US",
+    "sg:address":"11176 Green Valley Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 1110",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qwmrMhL9mtCg7rUn87ET7_34.986366_-89.791281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127739,
+    "wof:geomhash":"ef3a3366c93912eed34751cf464fcf4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857361855
+        }
+    ],
+    "wof:id":857361855,
+    "wof:lastmodified":1464127739,
+    "wof:name":"National Pump Co LLC",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -89.791281,
+    34.986366,
+    -89.791281,
+    34.986366
+],
+  "geometry": {"coordinates":[-89.791281,34.986366],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857267247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.857052,32.346421,-90.857052,32.346421",
+    "geom:latitude":32.346421,
+    "geom:longitude":-90.857052,
+    "iso:country":"US",
+    "sg:address":"2904 Clay St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 9800",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alley"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qr8TKEHClFNOMG4NxmAtV_32.346421_-90.857052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125634,
+    "wof:geomhash":"c638b0a2e8cb5d53f27225845d8ad7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857267247
+        }
+    ],
+    "wof:id":857267247,
+    "wof:lastmodified":1464125634,
+    "wof:name":"Red Carpet Lanes",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alley"
+    ]
+},
+  "bbox": [
+    -90.857052,
+    32.346421,
+    -90.857052,
+    32.346421
+],
+  "geometry": {"coordinates":[-90.857052,32.346421],"type":"Point"}
+}

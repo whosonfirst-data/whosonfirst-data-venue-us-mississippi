@@ -1,0 +1,84 @@
+{
+  "id": 857275889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.079849,33.558331,-89.079849,33.558331",
+    "geom:latitude":33.558331,
+    "geom:longitude":-89.079849,
+    "iso:country":"US",
+    "sg:address":"3893 Louise St",
+    "sg:city":"Maben",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 263 4100",
+    "sg:postcode":"39750",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carwash",
+        "glass",
+        "replacement",
+        "installation",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CtfCatswRaDe5bD9ff38S_33.558331_-89.079849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125808,
+    "wof:geomhash":"55044e0e0f1f209b64acd0240eefae76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857275889
+        }
+    ],
+    "wof:id":857275889,
+    "wof:lastmodified":1464125808,
+    "wof:name":"Whistle Mobile Windshield Repr",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "glass",
+        "replacement",
+        "installation",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.079849,
+    33.558331,
+    -89.079849,
+    33.558331
+],
+  "geometry": {"coordinates":[-89.079849,33.558331],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857208153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695869,34.261486,-88.695869,34.261486",
+    "geom:latitude":34.261486,
+    "geom:longitude":-88.695869,
+    "iso:country":"US",
+    "sg:address":"301 E Franklin St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 5877",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969769,
+        102083171,
+        85840757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c64XFwjI3rpVKlB1HfgLe_34.261486_-88.695869@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124354,
+    "wof:geomhash":"47236c1facc46710748b4d12b2885d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85840757,
+            "region_id":85688579,
+            "venue_id":857208153
+        }
+    ],
+    "wof:id":857208153,
+    "wof:lastmodified":1464124354,
+    "wof:name":"Mississippi Bonding Co",
+    "wof:parent_id":85840757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -88.695869,
+    34.261486,
+    -88.695869,
+    34.261486
+],
+  "geometry": {"coordinates":[-88.695869,34.261486],"type":"Point"}
+}

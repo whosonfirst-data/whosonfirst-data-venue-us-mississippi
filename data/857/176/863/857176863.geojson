@@ -1,0 +1,73 @@
+{
+  "id": 857176863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659064,33.590461,-88.659064,33.590461",
+    "geom:latitude":33.590461,
+    "geom:longitude":-88.659064,
+    "iso:country":"US",
+    "sg:address":"1148 Hwy 45 S",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 4199",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XVb5KDgFolw8udEUaJ3Jz_33.590461_-88.659064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123730,
+    "wof:geomhash":"bbe190ecd87619202ab3586f90a7b64e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857176863
+        }
+    ],
+    "wof:id":857176863,
+    "wof:lastmodified":1464123730,
+    "wof:name":"Mr Bubbles Carwash",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.659064,
+    33.590461,
+    -88.659064,
+    33.590461
+],
+  "geometry": {"coordinates":[-88.659064,33.590461],"type":"Point"}
+}

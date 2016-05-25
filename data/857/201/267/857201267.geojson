@@ -1,0 +1,66 @@
+{
+  "id": 857201267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.595742,33.862936,-88.595742,33.862936",
+    "geom:latitude":33.862936,
+    "geom:longitude":-88.595742,
+    "iso:country":"US",
+    "sg:address":"7148 Hwy 45 N",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 0030",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38YlYOPXZwGo5RVFFRrVV8_33.862936_-88.595742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124199,
+    "wof:geomhash":"64afed55f5c54d7443b1d6e490c1aa2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857201267
+        }
+    ],
+    "wof:id":857201267,
+    "wof:lastmodified":1464124199,
+    "wof:name":"Pit Stop Package Liquor",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.595742,
+    33.862936,
+    -88.595742,
+    33.862936
+],
+  "geometry": {"coordinates":[-88.595742,33.862936],"type":"Point"}
+}

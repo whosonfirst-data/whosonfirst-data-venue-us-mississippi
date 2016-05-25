@@ -1,0 +1,71 @@
+{
+  "id": 857112803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.27987,33.70613,-88.27987,33.70613",
+    "geom:latitude":33.70613,
+    "geom:longitude":-88.27987,
+    "iso:country":"US",
+    "sg:address":"740 Wood Rd",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 356 0234",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lUP2Z5l6QICUIE72N2qJ_33.706130_-88.279870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122249,
+    "wof:geomhash":"abbed311eb5b6f2ca60ac0f669bad130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857112803
+        }
+    ],
+    "wof:id":857112803,
+    "wof:lastmodified":1464122249,
+    "wof:name":"Hanks Construction",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.27987,
+    33.70613,
+    -88.27987,
+    33.70613
+],
+  "geometry": {"coordinates":[-88.27987,33.70613],"type":"Point"}
+}

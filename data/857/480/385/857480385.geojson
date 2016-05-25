@@ -1,0 +1,74 @@
+{
+  "id": 857480385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795167,34.96797,-89.795167,34.96797",
+    "geom:latitude":34.96797,
+    "geom:longitude":-89.795167,
+    "iso:country":"US",
+    "sg:address":"7315 Hacks Cross Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/olive-branch/199506-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 7771",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cd80w3xMNE05TnQoEiNRI_34.967970_-89.795167@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130376,
+    "wof:geomhash":"eee612660c58f20956264482557f0612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857480385
+        }
+    ],
+    "wof:id":857480385,
+    "wof:lastmodified":1464130376,
+    "wof:name":"Sonic",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.795167,
+    34.96797,
+    -89.795167,
+    34.96797
+],
+  "geometry": {"coordinates":[-89.79516700000001,34.96797],"type":"Point"}
+}

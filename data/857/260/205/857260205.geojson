@@ -1,0 +1,68 @@
+{
+  "id": 857260205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.149769,32.363025,-90.149769,32.363025",
+    "geom:latitude":32.363025,
+    "geom:longitude":-90.149769,
+    "iso:country":"US",
+    "sg:address":"1501 Jacksonian Plz",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 000 1111",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85825187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VsULzYFhNyrEDZd1VkDWo_32.363025_-90.149769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125494,
+    "wof:geomhash":"1a0279adc03dd60493b03e6d47df185e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85825187,
+            "region_id":85688579,
+            "venue_id":857260205
+        }
+    ],
+    "wof:id":857260205,
+    "wof:lastmodified":1464125494,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85825187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.149769,
+    32.363025,
+    -90.149769,
+    32.363025
+],
+  "geometry": {"coordinates":[-90.14976900000001,32.363025],"type":"Point"}
+}

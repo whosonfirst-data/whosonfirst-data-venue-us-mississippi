@@ -1,0 +1,71 @@
+{
+  "id": 857284135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854419,32.327675,-90.854419,32.327675",
+    "geom:latitude":32.327675,
+    "geom:longitude":-90.854419,
+    "iso:country":"US",
+    "sg:address":"3300 Indiana Ave",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 0169",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IcbRRDgE3V5joa4MMirdI_32.327675_-90.854419@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126003,
+    "wof:geomhash":"8d5d8f085622b25126447eb650d86e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857284135
+        }
+    ],
+    "wof:id":857284135,
+    "wof:lastmodified":1464126003,
+    "wof:name":"Christian Crosses Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.854419,
+    32.327675,
+    -90.854419,
+    32.327675
+],
+  "geometry": {"coordinates":[-90.85441899999999,32.327675],"type":"Point"}
+}

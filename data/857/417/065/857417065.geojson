@@ -1,0 +1,72 @@
+{
+  "id": 857417065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.375225,31.304369,-89.375225,31.304369",
+    "geom:latitude":31.304369,
+    "geom:longitude":-89.375225,
+    "iso:country":"US",
+    "sg:address":"2703 Oak Grove Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 2854",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.batco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102083775,
+        85855793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SlTxtKeLABSFFVpxlexgK_31.304369_-89.375225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129033,
+    "wof:geomhash":"3a73983baed226fcbdefdf8d0b4754fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "locality_id":85969939,
+            "neighbourhood_id":85855793,
+            "region_id":85688579,
+            "venue_id":857417065
+        }
+    ],
+    "wof:id":857417065,
+    "wof:lastmodified":1464129033,
+    "wof:name":"Bonner Analytical Testing Co",
+    "wof:parent_id":85855793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.375225,
+    31.304369,
+    -89.375225,
+    31.304369
+],
+  "geometry": {"coordinates":[-89.375225,31.304369],"type":"Point"}
+}

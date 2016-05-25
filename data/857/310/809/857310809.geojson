@@ -1,0 +1,71 @@
+{
+  "id": 857310809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.248728,31.356764,-89.248728,31.356764",
+    "geom:latitude":31.356764,
+    "geom:longitude":-89.248728,
+    "iso:country":"US",
+    "sg:address":"711 Old Richton Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 2450",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jY51MdSIY8OT500TpI696_31.356764_-89.248728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126636,
+    "wof:geomhash":"823006ac5c2de593b7bf4680d69d7910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857310809
+        }
+    ],
+    "wof:id":857310809,
+    "wof:lastmodified":1464126636,
+    "wof:name":"Green's Creek Baptist Church",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.248728,
+    31.356764,
+    -89.248728,
+    31.356764
+],
+  "geometry": {"coordinates":[-89.248728,31.356764],"type":"Point"}
+}

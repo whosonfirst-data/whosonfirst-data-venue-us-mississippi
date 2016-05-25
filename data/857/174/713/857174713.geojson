@@ -1,0 +1,71 @@
+{
+  "id": 857174713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.578486,34.369539,-89.578486,34.369539",
+    "geom:latitude":34.369539,
+    "geom:longitude":-89.578486,
+    "iso:country":"US",
+    "sg:address":"835 Maplewood Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0539",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eF9OXqKCoUSGSNMxr6UPS_34.369539_-89.578486@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123687,
+    "wof:geomhash":"066eaa06a0a69601add983b4b3ca12d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857174713
+        }
+    ],
+    "wof:id":857174713,
+    "wof:lastmodified":1464123687,
+    "wof:name":"Kendall Davis Construction",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.578486,
+    34.369539,
+    -89.578486,
+    34.369539
+],
+  "geometry": {"coordinates":[-89.578486,34.369539],"type":"Point"}
+}

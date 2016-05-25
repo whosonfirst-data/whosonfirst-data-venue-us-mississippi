@@ -1,0 +1,71 @@
+{
+  "id": 857333275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.428438,31.316876,-89.428438,31.316876",
+    "geom:latitude":31.316876,
+    "geom:longitude":-89.428438,
+    "iso:country":"US",
+    "sg:address":"6655 US Hwy 98",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 450 1300",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DoBG4sHuIO40WJoqRIKek_31.316876_-89.428438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127130,
+    "wof:geomhash":"3d7855dfbc048d55139bb19f45fb4191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857333275
+        }
+    ],
+    "wof:id":857333275,
+    "wof:lastmodified":1464127130,
+    "wof:name":"J S Auto Sales",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.428438,
+    31.316876,
+    -89.428438,
+    31.316876
+],
+  "geometry": {"coordinates":[-89.428438,31.316876],"type":"Point"}
+}

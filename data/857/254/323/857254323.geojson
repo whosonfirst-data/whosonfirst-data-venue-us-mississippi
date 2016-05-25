@@ -1,0 +1,73 @@
+{
+  "id": 857254323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.718606,34.350209,-89.718606,34.350209",
+    "geom:latitude":34.350209,
+    "geom:longitude":-89.718606,
+    "iso:country":"US",
+    "sg:address":"345 Hwy 6 W",
+    "sg:city":"Batesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 563 4516",
+    "sg:postcode":"38606",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10KzLmAuKUyhyWSZBLpkbB_34.350209_-89.718606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125357,
+    "wof:geomhash":"79adc8a753f355dc64c3dfc6b96fa293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857254323
+        }
+    ],
+    "wof:id":857254323,
+    "wof:lastmodified":1464125357,
+    "wof:name":"Treasurer Loans Of Batesville",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "company"
+    ]
+},
+  "bbox": [
+    -89.718606,
+    34.350209,
+    -89.718606,
+    34.350209
+],
+  "geometry": {"coordinates":[-89.71860599999999,34.350209],"type":"Point"}
+}

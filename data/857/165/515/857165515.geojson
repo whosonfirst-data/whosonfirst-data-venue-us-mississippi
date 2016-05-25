@@ -1,0 +1,71 @@
+{
+  "id": 857165515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.73001,34.213682,-88.73001,34.213682",
+    "geom:latitude":34.213682,
+    "geom:longitude":-88.73001,
+    "iso:country":"US",
+    "sg:address":"1001 Bickerstaff St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7774",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27cDIBFh5I1JO1MRBVrZ1I_34.213682_-88.730010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123475,
+    "wof:geomhash":"81bda6da993beab2eb63a1215e5f595c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857165515
+        }
+    ],
+    "wof:id":857165515,
+    "wof:lastmodified":1464123475,
+    "wof:name":"Harvestime Church",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.73001,
+    34.213682,
+    -88.73001,
+    34.213682
+],
+  "geometry": {"coordinates":[-88.73000999999999,34.213682],"type":"Point"}
+}

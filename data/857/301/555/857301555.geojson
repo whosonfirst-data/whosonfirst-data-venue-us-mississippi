@@ -1,0 +1,75 @@
+{
+  "id": 857301555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.793582,34.983736,-89.793582,34.983736",
+    "geom:latitude":34.983736,
+    "geom:longitude":-89.793582,
+    "iso:country":"US",
+    "sg:address":"11018 High Point Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 0040",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a0gLIEBuor7GIWsU23pHG_34.983736_-89.793582@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126445,
+    "wof:geomhash":"6d7f2e76150dfeee2f35a01ebb36eb54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857301555
+        }
+    ],
+    "wof:id":857301555,
+    "wof:lastmodified":1464126445,
+    "wof:name":"R & R Plumbing & Mech Contrs",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.793582,
+    34.983736,
+    -89.793582,
+    34.983736
+],
+  "geometry": {"coordinates":[-89.793582,34.983736],"type":"Point"}
+}

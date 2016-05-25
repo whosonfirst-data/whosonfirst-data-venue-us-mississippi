@@ -1,0 +1,71 @@
+{
+  "id": 857298603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.558079,34.36394,-89.558079,34.36394",
+    "geom:latitude":34.36394,
+    "geom:longitude":-89.558079,
+    "iso:country":"US",
+    "sg:address":"125 Heritage Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0999",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eS6lmUDck72kazm5RlwwG_34.363940_-89.558079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126379,
+    "wof:geomhash":"e87bd4a5d494718e4be093180c7bf12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857298603
+        }
+    ],
+    "wof:id":857298603,
+    "wof:lastmodified":1464126379,
+    "wof:name":"Tupelo Consignment Music",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -89.558079,
+    34.36394,
+    -89.558079,
+    34.36394
+],
+  "geometry": {"coordinates":[-89.55807900000001,34.36394],"type":"Point"}
+}

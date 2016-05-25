@@ -1,0 +1,71 @@
+{
+  "id": 857203109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.9857,31.954742,-90.9857,31.954742",
+    "geom:latitude":31.954742,
+    "geom:longitude":-90.9857,
+    "iso:country":"US",
+    "sg:address":"1210 Farmer St",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 8976",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25hBJeOxTQe9Fyvkx2OzDw_31.954742_-90.985700@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124237,
+    "wof:geomhash":"889cc9390283b3ea7d4e445f99b5e735",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857203109
+        }
+    ],
+    "wof:id":857203109,
+    "wof:lastmodified":1464124237,
+    "wof:name":"Hometown Chevrolet Buick",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.9857,
+    31.954742,
+    -90.9857,
+    31.954742
+],
+  "geometry": {"coordinates":[-90.98569999999999,31.954742],"type":"Point"}
+}

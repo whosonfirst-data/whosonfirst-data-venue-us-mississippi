@@ -1,0 +1,71 @@
+{
+  "id": 857138777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.494091,34.387562,-89.494091,34.387562",
+    "geom:latitude":34.387562,
+    "geom:longitude":-89.494091,
+    "iso:country":"US",
+    "sg:address":"106 Rd 2057",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4255",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FT1GKELuZCQFuzGIljcaz_34.387562_-89.494091@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122865,
+    "wof:geomhash":"bacfb9c0b75f97a41511bc3c022e9576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857138777
+        }
+    ],
+    "wof:id":857138777,
+    "wof:lastmodified":1464122865,
+    "wof:name":"Child Abuse Prevention Ctr",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -89.494091,
+    34.387562,
+    -89.494091,
+    34.387562
+],
+  "geometry": {"coordinates":[-89.494091,34.387562],"type":"Point"}
+}

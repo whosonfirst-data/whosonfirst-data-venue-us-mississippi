@@ -1,0 +1,73 @@
+{
+  "id": 857278167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.205826,32.291342,-90.205826,32.291342",
+    "geom:latitude":32.291342,
+    "geom:longitude":-90.205826,
+    "iso:country":"US",
+    "sg:address":"1200 Winter St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 5936",
+    "sg:postcode":"39204",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tOQBHXaaXOVhCvWX8UICO_32.291342_-90.205826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125872,
+    "wof:geomhash":"0e5a10cf890d76225c03ca37bafaab80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857278167
+        }
+    ],
+    "wof:id":857278167,
+    "wof:lastmodified":1464125872,
+    "wof:name":"Winter Street Cleaners",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.205826,
+    32.291342,
+    -90.205826,
+    32.291342
+],
+  "geometry": {"coordinates":[-90.205826,32.291342],"type":"Point"}
+}

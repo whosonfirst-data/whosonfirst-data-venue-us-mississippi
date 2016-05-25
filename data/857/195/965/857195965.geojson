@@ -1,0 +1,71 @@
+{
+  "id": 857195965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.634781,34.50909,-88.634781,34.50909",
+    "geom:latitude":34.50909,
+    "geom:longitude":-88.634781,
+    "iso:country":"US",
+    "sg:address":"116 S 3rd St",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 5700",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15jI3dA0TdNLLfcuyV2dkd_34.509090_-88.634781@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124099,
+    "wof:geomhash":"287c568fa2c493c220190eba5acef407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857195965
+        }
+    ],
+    "wof:id":857195965,
+    "wof:lastmodified":1464124099,
+    "wof:name":"Kesler Funeral Home",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -88.634781,
+    34.50909,
+    -88.634781,
+    34.50909
+],
+  "geometry": {"coordinates":[-88.634781,34.50909],"type":"Point"}
+}

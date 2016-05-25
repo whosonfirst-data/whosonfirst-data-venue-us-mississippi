@@ -1,0 +1,68 @@
+{
+  "id": 857382725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.323259,32.337139,-90.323259,32.337139",
+    "geom:latitude":32.337139,
+    "geom:longitude":-90.323259,
+    "iso:country":"US",
+    "sg:address":"400 E College St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 925 4011",
+    "sg:postcode":"39056",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969677,
+        102081407,
+        85808715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_009ZiIcu0M2nH0EvOwIC7Q_32.337139_-90.323259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128202,
+    "wof:geomhash":"98953bf0e22a0b83c2bae981f2a4cf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969677,
+            "neighbourhood_id":85808715,
+            "region_id":85688579,
+            "venue_id":857382725
+        }
+    ],
+    "wof:id":857382725,
+    "wof:lastmodified":1464128202,
+    "wof:name":"Clinton Association",
+    "wof:parent_id":85808715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.323259,
+    32.337139,
+    -90.323259,
+    32.337139
+],
+  "geometry": {"coordinates":[-90.32325899999999,32.337139],"type":"Point"}
+}

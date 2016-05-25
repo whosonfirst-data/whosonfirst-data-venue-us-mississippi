@@ -1,0 +1,85 @@
+{
+  "id": 857100313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.006326,30.463164,-89.006326,30.463164",
+    "geom:latitude":30.463164,
+    "geom:longitude":-89.006326,
+    "iso:country":"US",
+    "sg:address":"12506 Lorraine Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 5524",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85823795,
+        85831413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Se4jxvBYj8KlmyoQ6mR2p_30.463164_-89.006326@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121917,
+    "wof:geomhash":"31ed5eb3eb4eb0c13a147d0eee8fe616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85823795,
+            "region_id":85688579,
+            "venue_id":857100313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85831413,
+            "region_id":85688579,
+            "venue_id":857100313
+        }
+    ],
+    "wof:id":857100313,
+    "wof:lastmodified":1464121917,
+    "wof:name":"Williams Paving Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.006326,
+    30.463164,
+    -89.006326,
+    30.463164
+],
+  "geometry": {"coordinates":[-89.006326,30.463164],"type":"Point"}
+}

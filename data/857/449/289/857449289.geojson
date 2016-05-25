@@ -1,0 +1,68 @@
+{
+  "id": 857449289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.08658,30.385859,-89.08658,30.385859",
+    "geom:latitude":30.385859,
+    "geom:longitude":-89.08658,
+    "iso:country":"US",
+    "sg:address":"2960 20th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 575 4393",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PrBj0r3DkPWXgXJv1lT4g_30.385859_-89.086580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129742,
+    "wof:geomhash":"4f57f1a6cff0f27db41eb275cbad2b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857449289
+        }
+    ],
+    "wof:id":857449289,
+    "wof:lastmodified":1464129742,
+    "wof:name":"Nelson's Restaurant Svc LLC",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08658,
+    30.385859,
+    -89.08658,
+    30.385859
+],
+  "geometry": {"coordinates":[-89.08658,30.385859],"type":"Point"}
+}

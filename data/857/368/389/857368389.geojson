@@ -1,0 +1,71 @@
+{
+  "id": 857368389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059025,32.11793,-90.059025,32.11793",
+    "geom:latitude":32.11793,
+    "geom:longitude":-90.059025,
+    "iso:country":"US",
+    "sg:address":"161 Mount Repose",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 7907",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MgA62ZqOnumZjPQG8FCy3_32.117930_-90.059025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127870,
+    "wof:geomhash":"f77256a026092cf15c855a8c3a7a8fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857368389
+        }
+    ],
+    "wof:id":857368389,
+    "wof:lastmodified":1464127870,
+    "wof:name":"Precision Pool & Spa Services",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.059025,
+    32.11793,
+    -90.059025,
+    32.11793
+],
+  "geometry": {"coordinates":[-90.05902500000001,32.11793],"type":"Point"}
+}

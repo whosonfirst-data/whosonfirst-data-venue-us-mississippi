@@ -1,0 +1,71 @@
+{
+  "id": 857365161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.720904,34.210136,-88.720904,34.210136",
+    "geom:latitude":34.210136,
+    "geom:longitude":-88.720904,
+    "iso:country":"US",
+    "sg:address":"2484 S Green St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 680 9657",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNtwqtHppJwzSpBxU1kSa_34.210136_-88.720904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127808,
+    "wof:geomhash":"de034caa925cb7058aa2483118c94082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857365161
+        }
+    ],
+    "wof:id":857365161,
+    "wof:lastmodified":1464127808,
+    "wof:name":"Rebel Auto Sales",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -88.720904,
+    34.210136,
+    -88.720904,
+    34.210136
+],
+  "geometry": {"coordinates":[-88.720904,34.210136],"type":"Point"}
+}

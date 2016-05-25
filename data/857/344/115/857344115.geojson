@@ -1,0 +1,73 @@
+{
+  "id": 857344115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645685,34.492543,-88.645685,34.492543",
+    "geom:latitude":34.492543,
+    "geom:longitude":-88.645685,
+    "iso:country":"US",
+    "sg:address":"896 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 2198",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RmSLSLbqWGRXGNUEgzyJx_34.492543_-88.645685@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127354,
+    "wof:geomhash":"da8ba33e81fe4e961f84a996381fce57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857344115
+        }
+    ],
+    "wof:id":857344115,
+    "wof:lastmodified":1464127354,
+    "wof:name":"R & S Auto Salvage",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -88.645685,
+    34.492543,
+    -88.645685,
+    34.492543
+],
+  "geometry": {"coordinates":[-88.645685,34.492543],"type":"Point"}
+}

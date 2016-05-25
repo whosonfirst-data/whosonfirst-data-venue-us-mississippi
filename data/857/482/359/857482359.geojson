@@ -1,0 +1,76 @@
+{
+  "id": 857482359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.834899,32.344023,-90.834899,32.344023",
+    "geom:latitude":32.344023,
+    "geom:longitude":-90.834899,
+    "iso:country":"US",
+    "sg:address":"4200 Clay St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/vicksburg/93058-mcalisters-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 619 8222",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1pK56loODwzWwCOdNQkB_32.344023_-90.834899@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130416,
+    "wof:geomhash":"7be2c729daeccaefdf7671dfd1487a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857482359
+        }
+    ],
+    "wof:id":857482359,
+    "wof:lastmodified":1464130416,
+    "wof:name":"Mcalister's Deli",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.834899,
+    32.344023,
+    -90.834899,
+    32.344023
+],
+  "geometry": {"coordinates":[-90.83489899999999,32.344023],"type":"Point"}
+}

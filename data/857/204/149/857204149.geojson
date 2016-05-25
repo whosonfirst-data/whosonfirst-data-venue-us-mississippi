@@ -1,0 +1,73 @@
+{
+  "id": 857204149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.328676,31.32069,-89.328676,31.32069",
+    "geom:latitude":31.32069,
+    "geom:longitude":-89.328676,
+    "iso:country":"US",
+    "sg:address":"6104 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8241",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bLA3RGqSbZFkaSKNQVcO0_31.320690_-89.328676@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124271,
+    "wof:geomhash":"68312bdb4d20293c07875935453489d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857204149
+        }
+    ],
+    "wof:id":857204149,
+    "wof:lastmodified":1464124271,
+    "wof:name":"Cucos Restaurant",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.328676,
+    31.32069,
+    -89.328676,
+    31.32069
+],
+  "geometry": {"coordinates":[-89.328676,31.32069],"type":"Point"}
+}

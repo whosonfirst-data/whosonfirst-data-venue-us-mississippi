@@ -1,0 +1,71 @@
+{
+  "id": 857279283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.5681,34.098255,-88.5681,34.098255",
+    "geom:latitude":34.098255,
+    "geom:longitude":-88.5681,
+    "iso:country":"US",
+    "sg:address":"600 Co Rd 1463",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 9969",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QB9BMEs1evGe7EwNGRq6_34.098255_-88.568100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125904,
+    "wof:geomhash":"378b0ec54b9a87d5201f51afa08b465b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857279283
+        }
+    ],
+    "wof:id":857279283,
+    "wof:lastmodified":1464125904,
+    "wof:name":"Duckworth Construction",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -88.5681,
+    34.098255,
+    -88.5681,
+    34.098255
+],
+  "geometry": {"coordinates":[-88.5681,34.098255],"type":"Point"}
+}

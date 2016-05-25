@@ -1,0 +1,74 @@
+{
+  "id": 857323731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.167352,32.308552,-90.167352,32.308552",
+    "geom:latitude":32.308552,
+    "geom:longitude":-90.167352,
+    "iso:country":"US",
+    "sg:address":"913 Larson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 353 8671",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.jrds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ctOlyDl4ZDPp0xSb9FDoC_32.308552_-90.167352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126926,
+    "wof:geomhash":"b5525cab50bb849068d1b280c6eadaab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878389,
+            "region_id":85688579,
+            "venue_id":857323731
+        }
+    ],
+    "wof:id":857323731,
+    "wof:lastmodified":1464126926,
+    "wof:name":"Rapid Delivery Svc",
+    "wof:parent_id":85878389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.167352,
+    32.308552,
+    -90.167352,
+    32.308552
+],
+  "geometry": {"coordinates":[-90.16735199999999,32.308552],"type":"Point"}
+}

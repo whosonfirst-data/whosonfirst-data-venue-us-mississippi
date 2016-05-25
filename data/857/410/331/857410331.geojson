@@ -1,0 +1,75 @@
+{
+  "id": 857410331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.108056,30.365284,-89.108056,30.365284",
+    "geom:latitude":30.365284,
+    "geom:longitude":-89.108056,
+    "iso:country":"US",
+    "sg:address":"3820 W Railroad St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 3715",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jwf4f4dNW9PWHdZKL7trf_30.365284_-89.108056@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128847,
+    "wof:geomhash":"fc8db28d25cc1557e37d46cd2b589458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857410331
+        }
+    ],
+    "wof:id":857410331,
+    "wof:lastmodified":1464128847,
+    "wof:name":"Ronnie's Automotive & Towing",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.108056,
+    30.365284,
+    -89.108056,
+    30.365284
+],
+  "geometry": {"coordinates":[-89.108056,30.365284],"type":"Point"}
+}

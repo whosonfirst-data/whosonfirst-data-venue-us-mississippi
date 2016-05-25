@@ -1,0 +1,73 @@
+{
+  "id": 857221289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.718844,34.378047,-88.718844,34.378047",
+    "geom:latitude":34.378047,
+    "geom:longitude":-88.718844,
+    "iso:country":"US",
+    "sg:address":"1259 Co Rd 681",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 8531",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LeAhyr06vs9XDJxg1JBFT_34.378047_-88.718844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124643,
+    "wof:geomhash":"cc5c308045ff880291177f45d277e703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857221289
+        }
+    ],
+    "wof:id":857221289,
+    "wof:lastmodified":1464124643,
+    "wof:name":"Hays Co",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.718844,
+    34.378047,
+    -88.718844,
+    34.378047
+],
+  "geometry": {"coordinates":[-88.718844,34.378047],"type":"Point"}
+}

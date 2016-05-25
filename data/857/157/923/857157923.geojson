@@ -1,0 +1,73 @@
+{
+  "id": 857157923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.511529,34.377489,-89.511529,34.377489",
+    "geom:latitude":34.377489,
+    "geom:longitude":-89.511529,
+    "iso:country":"US",
+    "sg:address":"1015 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4111",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b2kAikPuTjvaeuktXHj1o_34.377489_-89.511529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123301,
+    "wof:geomhash":"bd21791f9d3c4956b77732aaace67635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857157923
+        }
+    ],
+    "wof:id":857157923,
+    "wof:lastmodified":1464123301,
+    "wof:name":"Rhonnie Cummins Builder",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.511529,
+    34.377489,
+    -89.511529,
+    34.377489
+],
+  "geometry": {"coordinates":[-89.511529,34.377489],"type":"Point"}
+}

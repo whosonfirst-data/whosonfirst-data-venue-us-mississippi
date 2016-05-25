@@ -1,0 +1,71 @@
+{
+  "id": 857244603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418747,33.739917,-88.418747,33.739917",
+    "geom:latitude":33.739917,
+    "geom:longitude":-88.418747,
+    "iso:country":"US",
+    "sg:address":"40128 Hamilton Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 5129",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kA4YTezxjoQmbylWW6bHK_33.739917_-88.418747@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125125,
+    "wof:geomhash":"f0b792d18cac0dad38965a91f0f4ffac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857244603
+        }
+    ],
+    "wof:id":857244603,
+    "wof:lastmodified":1464125125,
+    "wof:name":"Pioneer Family Med Of Hamilton",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.418747,
+    33.739917,
+    -88.418747,
+    33.739917
+],
+  "geometry": {"coordinates":[-88.418747,33.739917],"type":"Point"}
+}

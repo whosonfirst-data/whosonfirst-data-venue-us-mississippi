@@ -1,0 +1,73 @@
+{
+  "id": 857435205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.771915,34.967993,-89.771915,34.967993",
+    "geom:latitude":34.967993,
+    "geom:longitude":-89.771915,
+    "iso:country":"US",
+    "sg:address":"6942 Stanley Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 5833",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "satellite",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eik7ICE5IndKPwXs8cFIu_34.967993_-89.771915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129470,
+    "wof:geomhash":"b4ed37ca14263dd5f44b0fdccada4ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857435205
+        }
+    ],
+    "wof:id":857435205,
+    "wof:lastmodified":1464129470,
+    "wof:name":"Allen Jana",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "installation"
+    ]
+},
+  "bbox": [
+    -89.771915,
+    34.967993,
+    -89.771915,
+    34.967993
+],
+  "geometry": {"coordinates":[-89.77191500000001,34.967993],"type":"Point"}
+}

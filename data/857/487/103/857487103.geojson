@@ -1,0 +1,83 @@
+{
+  "id": 857487103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569249,34.202379,-90.569249,34.202379",
+    "geom:latitude":34.202379,
+    "geom:longitude":-90.569249,
+    "iso:country":"US",
+    "sg:address":"525 3rd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7871",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.novusglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_324tSZadVk58KRd5O2NZg0_34.202379_-90.569249@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130505,
+    "wof:geomhash":"866f7fb78ef940440247ce856a9ca28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857487103
+        }
+    ],
+    "wof:id":857487103,
+    "wof:lastmodified":1464130505,
+    "wof:name":"Novus Windshield Repair",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -90.569249,
+    34.202379,
+    -90.569249,
+    34.202379
+],
+  "geometry": {"coordinates":[-90.569249,34.202379],"type":"Point"}
+}

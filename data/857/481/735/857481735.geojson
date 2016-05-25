@@ -1,0 +1,65 @@
+{
+  "id": 857481735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.042539,32.381963,-90.042539,32.381963",
+    "geom:latitude":32.381963,
+    "geom:longitude":-90.042539,
+    "iso:country":"US",
+    "sg:address":"1139 Old Fannin Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/fannin/254282-oec-japanese-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 992 2988",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VmaBDSya3QGbZLu8L665x_32.381963_-90.042539@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130401,
+    "wof:geomhash":"4e4d42e3aee289eb666f546c24ef55d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857481735
+        }
+    ],
+    "wof:id":857481735,
+    "wof:lastmodified":1464130401,
+    "wof:name":"O.E.C. Japanese Express",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.042539,
+    32.381963,
+    -90.042539,
+    32.381963
+],
+  "geometry": {"coordinates":[-90.042539,32.381963],"type":"Point"}
+}

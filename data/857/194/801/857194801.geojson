@@ -1,0 +1,71 @@
+{
+  "id": 857194801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574261,34.204734,-90.574261,34.204734",
+    "geom:latitude":34.204734,
+    "geom:longitude":-90.574261,
+    "iso:country":"US",
+    "sg:address":"86 Yazoo Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 9027",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27daeYJfGUPbHDIjs55uVR_34.204734_-90.574261@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124077,
+    "wof:geomhash":"89cc7020a4e5bae77f8c260d8538c845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857194801
+        }
+    ],
+    "wof:id":857194801,
+    "wof:lastmodified":1464124077,
+    "wof:name":"Bell South",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.574261,
+    34.204734,
+    -90.574261,
+    34.204734
+],
+  "geometry": {"coordinates":[-90.57426100000001,34.204734],"type":"Point"}
+}

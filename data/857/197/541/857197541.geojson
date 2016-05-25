@@ -1,0 +1,73 @@
+{
+  "id": 857197541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.218078,30.358788,-89.218078,30.358788",
+    "geom:latitude":30.358788,
+    "geom:longitude":-89.218078,
+    "iso:country":"US",
+    "sg:address":"5181 Menge Ave",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9674",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trMAWCBWXBxW33kAXPLjw_30.358788_-89.218078@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124128,
+    "wof:geomhash":"3a680f339e0dc251f4b6c09285660758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857197541
+        }
+    ],
+    "wof:id":857197541,
+    "wof:lastmodified":1464124128,
+    "wof:name":"Menge Ave Small Engine Repair",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -89.218078,
+    30.358788,
+    -89.218078,
+    30.358788
+],
+  "geometry": {"coordinates":[-89.21807800000001,30.358788],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857253423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.812104,30.402997,-88.812104,30.402997",
+    "geom:latitude":30.402997,
+    "geom:longitude":-88.812104,
+    "iso:country":"US",
+    "sg:address":"104 Simon Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 1136",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yty3Ka95nyJ0I22F8wM06_30.402997_-88.812104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125335,
+    "wof:geomhash":"8c1bfb6fc96b5692be3556acdf0ee6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857253423
+        }
+    ],
+    "wof:id":857253423,
+    "wof:lastmodified":1464125335,
+    "wof:name":"W E Wade Ceramic Tile Co",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.812104,
+    30.402997,
+    -88.812104,
+    30.402997
+],
+  "geometry": {"coordinates":[-88.81210400000001,30.402997],"type":"Point"}
+}

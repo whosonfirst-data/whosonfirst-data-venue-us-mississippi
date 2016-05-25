@@ -1,0 +1,73 @@
+{
+  "id": 857377019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.659387,33.607038,-88.659387,33.607038",
+    "geom:latitude":33.607038,
+    "geom:longitude":-88.659387,
+    "iso:country":"US",
+    "sg:address":"1756 State Hwy 50",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 492 8899",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HhPQoB9tYLXsRSTGOZXBR_33.607038_-88.659387@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128056,
+    "wof:geomhash":"2f1da9cdfbadd02d9d459f8f61b74a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857377019
+        }
+    ],
+    "wof:id":857377019,
+    "wof:lastmodified":1464128056,
+    "wof:name":"Inman's Auto Repair",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.659387,
+    33.607038,
+    -88.659387,
+    33.607038
+],
+  "geometry": {"coordinates":[-88.659387,33.607038],"type":"Point"}
+}

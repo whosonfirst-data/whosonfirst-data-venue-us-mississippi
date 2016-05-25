@@ -1,0 +1,73 @@
+{
+  "id": 857353899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.2873,31.334844,-89.2873,31.334844",
+    "geom:latitude":31.334844,
+    "geom:longitude":-89.2873,
+    "iso:country":"US",
+    "sg:address":"514 Bouie St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 7365",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "scrap",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zF6RvrUOENj2IMw472FWS_31.334844_-89.287300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127571,
+    "wof:geomhash":"fd6f448378b8214869754b5f14b0b2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857353899
+        }
+    ],
+    "wof:id":857353899,
+    "wof:lastmodified":1464127571,
+    "wof:name":"South Mississippi Recycling",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scrap",
+        "product"
+    ]
+},
+  "bbox": [
+    -89.2873,
+    31.334844,
+    -89.2873,
+    31.334844
+],
+  "geometry": {"coordinates":[-89.2873,31.334844],"type":"Point"}
+}

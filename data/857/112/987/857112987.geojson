@@ -1,0 +1,73 @@
+{
+  "id": 857112987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123686,32.375496,-90.123686,32.375496",
+    "geom:latitude":32.375496,
+    "geom:longitude":-90.123686,
+    "iso:country":"US",
+    "sg:address":"5006 Parkway Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 956 4406",
+    "sg:postcode":"39211",
+    "sg:province":"MS",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85845725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FcYRvGnvBkVagGdhrLndN_32.375496_-90.123686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122257,
+    "wof:geomhash":"7c86133c8d14f02154058fb460441f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85845725,
+            "region_id":85688579,
+            "venue_id":857112987
+        }
+    ],
+    "wof:id":857112987,
+    "wof:lastmodified":1464122257,
+    "wof:name":"Great Harvest Bread Co",
+    "wof:parent_id":85845725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.123686,
+    32.375496,
+    -90.123686,
+    32.375496
+],
+  "geometry": {"coordinates":[-90.12368600000001,32.375496],"type":"Point"}
+}

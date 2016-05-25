@@ -1,0 +1,73 @@
+{
+  "id": 857334037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.721367,34.215705,-88.721367,34.215705",
+    "geom:latitude":34.215705,
+    "geom:longitude":-88.721367,
+    "iso:country":"US",
+    "sg:address":"828 Shell St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3412",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "copper",
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qtkQbCV2YjmmH1109xt4J_34.215705_-88.721367@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127148,
+    "wof:geomhash":"cfccd0dccdbd3ab1532c3db270567bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857334037
+        }
+    ],
+    "wof:id":857334037,
+    "wof:lastmodified":1464127148,
+    "wof:name":"Tupelo Metal Cast Impregnation",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "foundry"
+    ]
+},
+  "bbox": [
+    -88.721367,
+    34.215705,
+    -88.721367,
+    34.215705
+],
+  "geometry": {"coordinates":[-88.721367,34.215705],"type":"Point"}
+}

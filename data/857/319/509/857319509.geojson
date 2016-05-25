@@ -1,0 +1,73 @@
+{
+  "id": 857319509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548517,30.350585,-88.548517,30.350585",
+    "geom:latitude":30.350585,
+    "geom:longitude":-88.548517,
+    "iso:country":"US",
+    "sg:address":"1203 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 202 0716",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vz2vfT9b62FwnG8V9MCVo_30.350585_-88.548517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126841,
+    "wof:geomhash":"bcebbd40445eb47af64809c48b433d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857319509
+        }
+    ],
+    "wof:id":857319509,
+    "wof:lastmodified":1464126841,
+    "wof:name":"Total Rehab Plus",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.548517,
+    30.350585,
+    -88.548517,
+    30.350585
+],
+  "geometry": {"coordinates":[-88.548517,30.350585],"type":"Point"}
+}

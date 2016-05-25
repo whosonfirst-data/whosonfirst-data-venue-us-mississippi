@@ -1,0 +1,68 @@
+{
+  "id": 857116675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.098581,30.444826,-89.098581,30.444826",
+    "geom:latitude":30.444826,
+    "geom:longitude":-89.098581,
+    "iso:country":"US",
+    "sg:address":"11006 US Hwy 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 328 2095",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lRese4dZwQp5XtP0oraNy_30.444826_-89.098581@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122368,
+    "wof:geomhash":"f0a7721ad6890e08e12b56ba0791c24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857116675
+        }
+    ],
+    "wof:id":857116675,
+    "wof:lastmodified":1464122368,
+    "wof:name":"Petro Foodmart",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.098581,
+    30.444826,
+    -89.098581,
+    30.444826
+],
+  "geometry": {"coordinates":[-89.098581,30.444826],"type":"Point"}
+}

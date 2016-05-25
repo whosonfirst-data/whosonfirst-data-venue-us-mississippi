@@ -1,0 +1,71 @@
+{
+  "id": 857227713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.32865,31.377011,-89.32865,31.377011",
+    "geom:latitude":31.377011,
+    "geom:longitude":-89.32865,
+    "iso:country":"US",
+    "sg:address":"120 Braswell Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 7099",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WNIduZSLVMXIAKrRg8mMr_31.377011_-89.328650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124766,
+    "wof:geomhash":"75e1a1a6b2d89db6c60b2dab4c994fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857227713
+        }
+    ],
+    "wof:id":857227713,
+    "wof:lastmodified":1464124766,
+    "wof:name":"Club 59",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -89.32865,
+    31.377011,
+    -89.32865,
+    31.377011
+],
+  "geometry": {"coordinates":[-89.32865,31.377011],"type":"Point"}
+}

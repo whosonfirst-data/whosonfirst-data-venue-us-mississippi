@@ -1,0 +1,74 @@
+{
+  "id": 857484839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.538292,30.397611,-88.538292,30.397611",
+    "geom:latitude":30.397611,
+    "geom:longitude":-88.538292,
+    "iso:country":"US",
+    "sg:address":"3906 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/moss-point/133044-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 1311",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hh1sjCQMVDR2MBQ5ySrb7_30.397611_-88.538292@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130462,
+    "wof:geomhash":"e80b868e1b95f623cc35c259205b5370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857484839
+        }
+    ],
+    "wof:id":857484839,
+    "wof:lastmodified":1464130462,
+    "wof:name":"Subway",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.538292,
+    30.397611,
+    -88.538292,
+    30.397611
+],
+  "geometry": {"coordinates":[-88.538292,30.397611],"type":"Point"}
+}

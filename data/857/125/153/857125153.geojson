@@ -1,0 +1,71 @@
+{
+  "id": 857125153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.835037,34.908652,-89.835037,34.908652",
+    "geom:latitude":34.908652,
+    "geom:longitude":-89.835037,
+    "iso:country":"US",
+    "sg:address":"8726 Dunn Ln",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 1295",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I0VpvGiknVihalSnePVaF_34.908652_-89.835037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122572,
+    "wof:geomhash":"53cd3f072b838f3fd156748a9917ddec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857125153
+        }
+    ],
+    "wof:id":857125153,
+    "wof:lastmodified":1464122572,
+    "wof:name":"Peifer Taxidermy",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -89.835037,
+    34.908652,
+    -89.835037,
+    34.908652
+],
+  "geometry": {"coordinates":[-89.835037,34.908652],"type":"Point"}
+}

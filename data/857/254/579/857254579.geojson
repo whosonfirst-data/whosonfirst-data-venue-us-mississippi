@@ -1,0 +1,75 @@
+{
+  "id": 857254579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.119237,30.36158,-89.119237,30.36158",
+    "geom:latitude":30.36158,
+    "geom:longitude":-89.119237,
+    "iso:country":"US",
+    "sg:address":"4540 W Railroad St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 867 6062",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ib3nKoe2w9lxwkHdkCd1j_30.361580_-89.119237@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125366,
+    "wof:geomhash":"6c70132e995bae5d201823bb714d795b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857254579
+        }
+    ],
+    "wof:id":857254579,
+    "wof:lastmodified":1464125366,
+    "wof:name":"Gulf Coast Endocrinology",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.119237,
+    30.36158,
+    -89.119237,
+    30.36158
+],
+  "geometry": {"coordinates":[-89.119237,30.36158],"type":"Point"}
+}

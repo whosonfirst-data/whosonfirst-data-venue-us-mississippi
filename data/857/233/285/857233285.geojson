@@ -1,0 +1,68 @@
+{
+  "id": 857233285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.114321,30.367218,-89.114321,30.367218",
+    "geom:latitude":30.367218,
+    "geom:longitude":-89.114321,
+    "iso:country":"US",
+    "sg:address":"4500 13th St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 865 1372",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CO06YnC5yZk94a9lpMHhs_30.367218_-89.114321@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124866,
+    "wof:geomhash":"89ee966dae589e31ec4b14d8c7c190da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857233285
+        }
+    ],
+    "wof:id":857233285,
+    "wof:lastmodified":1464124866,
+    "wof:name":"Cruthall Healthcare Inc",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.114321,
+    30.367218,
+    -89.114321,
+    30.367218
+],
+  "geometry": {"coordinates":[-89.114321,30.367218],"type":"Point"}
+}

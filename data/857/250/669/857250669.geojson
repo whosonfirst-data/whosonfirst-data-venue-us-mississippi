@@ -1,0 +1,71 @@
+{
+  "id": 857250669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648757,33.606854,-88.648757,33.606854",
+    "geom:latitude":33.606854,
+    "geom:longitude":-88.648757,
+    "iso:country":"US",
+    "sg:address":"119 Commerce St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 4304",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77xv8HGKQKMImTukxhuNeX_33.606854_-88.648757@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125259,
+    "wof:geomhash":"0a7d4ee185d1721123942e98cf5b3d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857250669
+        }
+    ],
+    "wof:id":857250669,
+    "wof:lastmodified":1464125259,
+    "wof:name":"William P Eastman DDS",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.648757,
+    33.606854,
+    -88.648757,
+    33.606854
+],
+  "geometry": {"coordinates":[-88.648757,33.606854],"type":"Point"}
+}

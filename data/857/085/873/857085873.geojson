@@ -1,0 +1,73 @@
+{
+  "id": 857085873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683135,30.357329,-88.683135,30.357329",
+    "geom:latitude":30.357329,
+    "geom:longitude":-88.683135,
+    "iso:country":"US",
+    "sg:address":"910 Canal St",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 872 8723",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70kh22vJagqajJtbPQwwax_30.357329_-88.683135@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121559,
+    "wof:geomhash":"6f9ef9534b31b359a912953be51dff72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857085873
+        }
+    ],
+    "wof:id":857085873,
+    "wof:lastmodified":1464121559,
+    "wof:name":"Arlington Manor",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -88.683135,
+    30.357329,
+    -88.683135,
+    30.357329
+],
+  "geometry": {"coordinates":[-88.68313499999999,30.357329],"type":"Point"}
+}

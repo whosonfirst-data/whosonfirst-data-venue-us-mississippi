@@ -1,0 +1,73 @@
+{
+  "id": 857161699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.757211,34.172616,-88.757211,34.172616",
+    "geom:latitude":34.172616,
+    "geom:longitude":-88.757211,
+    "iso:country":"US",
+    "sg:address":"441 Rd 373",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 767 9079",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64aI0LnhuamF5eXAk4AaSr_34.172616_-88.757211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123397,
+    "wof:geomhash":"06c6cbb95508a7cc13432bf012b6c1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857161699
+        }
+    ],
+    "wof:id":857161699,
+    "wof:lastmodified":1464123397,
+    "wof:name":"Lee Industrial Electric",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.757211,
+    34.172616,
+    -88.757211,
+    34.172616
+],
+  "geometry": {"coordinates":[-88.757211,34.172616],"type":"Point"}
+}

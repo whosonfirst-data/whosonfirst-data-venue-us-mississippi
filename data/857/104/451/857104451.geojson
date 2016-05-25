@@ -1,0 +1,71 @@
+{
+  "id": 857104451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.266119,31.338708,-89.266119,31.338708",
+    "geom:latitude":31.338708,
+    "geom:longitude":-89.266119,
+    "iso:country":"US",
+    "sg:address":"705 Holmes St",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 8545",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqNv6MjSbNHvRJ33YbvWo_31.338708_-89.266119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122015,
+    "wof:geomhash":"8b1863aea55377ae4b60ad0e49760a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857104451
+        }
+    ],
+    "wof:id":857104451,
+    "wof:lastmodified":1464122015,
+    "wof:name":"Precious Years",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -89.266119,
+    31.338708,
+    -89.266119,
+    31.338708
+],
+  "geometry": {"coordinates":[-89.266119,31.338708],"type":"Point"}
+}

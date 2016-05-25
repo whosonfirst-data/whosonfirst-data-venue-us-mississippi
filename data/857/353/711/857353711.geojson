@@ -1,0 +1,71 @@
+{
+  "id": 857353711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.772811,34.252855,-88.772811,34.252855",
+    "geom:latitude":34.252855,
+    "geom:longitude":-88.772811,
+    "iso:country":"US",
+    "sg:address":"289 S Coley Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 0027",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v4CpJvmOwT0aBbvrsVc2F_34.252855_-88.772811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127568,
+    "wof:geomhash":"0aad222d26282d0834074bb32a0b817e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857353711
+        }
+    ],
+    "wof:id":857353711,
+    "wof:lastmodified":1464127568,
+    "wof:name":"Hot Shot Express Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -88.772811,
+    34.252855,
+    -88.772811,
+    34.252855
+],
+  "geometry": {"coordinates":[-88.772811,34.252855],"type":"Point"}
+}

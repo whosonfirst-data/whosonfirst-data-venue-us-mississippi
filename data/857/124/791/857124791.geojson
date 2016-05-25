@@ -1,0 +1,77 @@
+{
+  "id": 857124791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.814574,33.480424,-88.814574,33.480424",
+    "geom:latitude":33.480424,
+    "geom:longitude":-88.814574,
+    "iso:country":"US",
+    "sg:address":"940 N Jackson St",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 5647",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "personal",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nuP000NklSTTBZqCI3V97_33.480424_-88.814574@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122566,
+    "wof:geomhash":"f86ca766dac63b0cd6b2719210597e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857124791
+        }
+    ],
+    "wof:id":857124791,
+    "wof:lastmodified":1464122566,
+    "wof:name":"Rosehill Place",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "personal",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.814574,
+    33.480424,
+    -88.814574,
+    33.480424
+],
+  "geometry": {"coordinates":[-88.81457399999999,33.480424],"type":"Point"}
+}

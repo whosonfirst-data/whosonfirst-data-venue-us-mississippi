@@ -1,0 +1,73 @@
+{
+  "id": 857460785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.538351,30.402409,-88.538351,30.402409",
+    "geom:latitude":30.402409,
+    "geom:longitude":-88.538351,
+    "iso:country":"US",
+    "sg:address":"4217 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 3100",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "currency",
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YrHHHfeO4xoevYJNmPqGF_30.402409_-88.538351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129966,
+    "wof:geomhash":"5df7040624d2d8fed585e025355c1494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857460785
+        }
+    ],
+    "wof:id":857460785,
+    "wof:lastmodified":1464129966,
+    "wof:name":"Pas Point Currency Exchange",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "currency",
+        "exchange"
+    ]
+},
+  "bbox": [
+    -88.538351,
+    30.402409,
+    -88.538351,
+    30.402409
+],
+  "geometry": {"coordinates":[-88.53835100000001,30.402409],"type":"Point"}
+}

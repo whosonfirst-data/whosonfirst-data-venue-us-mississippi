@@ -1,0 +1,71 @@
+{
+  "id": 857389231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684984,34.237644,-88.684984,34.237644",
+    "geom:latitude":34.237644,
+    "geom:longitude":-88.684984,
+    "iso:country":"US",
+    "sg:address":"1250 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 8452",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L3DHiV89pRZKsjhdfE0Ny_34.237644_-88.684984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128414,
+    "wof:geomhash":"8df2c229d44d4ca1309aa0f5066b9e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857389231
+        }
+    ],
+    "wof:id":857389231,
+    "wof:lastmodified":1464128414,
+    "wof:name":"Crafton's",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.684984,
+    34.237644,
+    -88.684984,
+    34.237644
+],
+  "geometry": {"coordinates":[-88.684984,34.237644],"type":"Point"}
+}

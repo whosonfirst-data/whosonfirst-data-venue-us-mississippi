@@ -1,0 +1,76 @@
+{
+  "id": 857321079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.282281,31.315781,-89.282281,31.315781",
+    "geom:latitude":31.315781,
+    "geom:longitude":-89.282281,
+    "iso:country":"US",
+    "sg:address":"112 Alcorn Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 5030",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "sg:website":"www.mdoc.state.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SlGAABfeanpsrGffAd5p5_31.315781_-89.282281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126871,
+    "wof:geomhash":"94418537f6fe5b5c25c90e0940a67926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857321079
+        }
+    ],
+    "wof:id":857321079,
+    "wof:lastmodified":1464126871,
+    "wof:name":"Corrections Dept-Comm Work Ctr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.282281,
+    31.315781,
+    -89.282281,
+    31.315781
+],
+  "geometry": {"coordinates":[-89.282281,31.315781],"type":"Point"}
+}

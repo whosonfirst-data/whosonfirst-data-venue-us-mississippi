@@ -1,0 +1,75 @@
+{
+  "id": 857290799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187398,32.497313,-90.187398,32.497313",
+    "geom:latitude":32.497313,
+    "geom:longitude":-90.187398,
+    "iso:country":"US",
+    "sg:address":"448 Annandale Pkwy",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 1616",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "industry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GugL0YnxUzRZnNtX249E6_32.497313_-90.187398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126163,
+    "wof:geomhash":"74fa93264491c9c5a2077a39e8a063d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857290799
+        }
+    ],
+    "wof:id":857290799,
+    "wof:lastmodified":1464126163,
+    "wof:name":"Hayden Co",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.187398,
+    32.497313,
+    -90.187398,
+    32.497313
+],
+  "geometry": {"coordinates":[-90.187398,32.497313],"type":"Point"}
+}

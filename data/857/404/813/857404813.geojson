@@ -1,0 +1,68 @@
+{
+  "id": 857404813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.196408,32.312603,-90.196408,32.312603",
+    "geom:latitude":32.312603,
+    "geom:longitude":-90.196408,
+    "iso:country":"US",
+    "sg:address":"1202 Martin Luther King Jr Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 352 1828",
+    "sg:postcode":"39203",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25i8m5JkEKfWmBdgt94Nlm_32.312603_-90.196408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128724,
+    "wof:geomhash":"7468e9807f7500d84587e4edbedef46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878399,
+            "region_id":85688579,
+            "venue_id":857404813
+        }
+    ],
+    "wof:id":857404813,
+    "wof:lastmodified":1464128724,
+    "wof:name":"J S Food Mart",
+    "wof:parent_id":85878399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.196408,
+    32.312603,
+    -90.196408,
+    32.312603
+],
+  "geometry": {"coordinates":[-90.19640800000001,32.312603],"type":"Point"}
+}

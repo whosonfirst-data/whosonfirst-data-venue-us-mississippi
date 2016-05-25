@@ -1,0 +1,71 @@
+{
+  "id": 857146341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541396,33.822637,-88.541396,33.822637",
+    "geom:latitude":33.822637,
+    "geom:longitude":-88.541396,
+    "iso:country":"US",
+    "sg:address":"306 E Jefferson St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4752",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Cex0ItMe0Lrf6jk134fY_33.822637_-88.541396@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123067,
+    "wof:geomhash":"d3859a45140cd05349a37b780d3644ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857146341
+        }
+    ],
+    "wof:id":857146341,
+    "wof:lastmodified":1464123067,
+    "wof:name":"First South Farm Credit",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.541396,
+    33.822637,
+    -88.541396,
+    33.822637
+],
+  "geometry": {"coordinates":[-88.54139600000001,33.822637],"type":"Point"}
+}

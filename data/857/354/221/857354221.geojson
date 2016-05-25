@@ -1,0 +1,73 @@
+{
+  "id": 857354221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68228,34.37629,-88.68228,34.37629",
+    "geom:latitude":34.37629,
+    "geom:longitude":-88.68228,
+    "iso:country":"US",
+    "sg:address":"207 S 2nd Ave",
+    "sg:city":"Saltillo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 869 7010",
+    "sg:postcode":"38866",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D6BqOTpH5Etljrm4rH4qF_34.376290_-88.682280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127578,
+    "wof:geomhash":"b8630856a7e61caa3b57b48ee75fc94a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857354221
+        }
+    ],
+    "wof:id":857354221,
+    "wof:lastmodified":1464127578,
+    "wof:name":"Rocks Auto Repair & Tire Svr",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.68228,
+    34.37629,
+    -88.68228,
+    34.37629
+],
+  "geometry": {"coordinates":[-88.68228000000001,34.37629],"type":"Point"}
+}

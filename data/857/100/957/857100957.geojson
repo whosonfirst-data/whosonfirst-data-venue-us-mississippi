@@ -1,0 +1,69 @@
+{
+  "id": 857100957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.494913,34.401779,-89.494913,34.401779",
+    "geom:latitude":34.401779,
+    "geom:longitude":-89.494913,
+    "iso:country":"US",
+    "sg:address":"314 Hwy 7 N",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8090",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KVz1wx4Jy3PTAzkezDeQu_34.401779_-89.494913@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121939,
+    "wof:geomhash":"123661946f9ba6de79883b46da94073a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857100957
+        }
+    ],
+    "wof:id":857100957,
+    "wof:lastmodified":1464121939,
+    "wof:name":"Hilliard Appliance Repair",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -89.494913,
+    34.401779,
+    -89.494913,
+    34.401779
+],
+  "geometry": {"coordinates":[-89.494913,34.401779],"type":"Point"}
+}

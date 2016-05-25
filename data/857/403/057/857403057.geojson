@@ -1,0 +1,71 @@
+{
+  "id": 857403057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575064,34.202676,-90.575064,34.202676",
+    "geom:latitude":34.202676,
+    "geom:longitude":-90.575064,
+    "iso:country":"US",
+    "sg:address":"9 E 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 8004",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nMcGFyeJCjcLSHEyW5Mb4_34.202676_-90.575064@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128684,
+    "wof:geomhash":"758fed43ae5707db6fd141a8a7ec2c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857403057
+        }
+    ],
+    "wof:id":857403057,
+    "wof:lastmodified":1464128684,
+    "wof:name":"Corner Grocery",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.575064,
+    34.202676,
+    -90.575064,
+    34.202676
+],
+  "geometry": {"coordinates":[-90.575064,34.202676],"type":"Point"}
+}

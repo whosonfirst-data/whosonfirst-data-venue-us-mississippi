@@ -1,0 +1,73 @@
+{
+  "id": 857272827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.333167,33.323835,-88.333167,33.323835",
+    "geom:latitude":33.323835,
+    "geom:longitude":-88.333167,
+    "iso:country":"US",
+    "sg:address":"2773 Spurlock Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4985",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "boat",
+        "launching"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KNyT7MWpB9GyIP8YLdeR8_33.323835_-88.333167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125742,
+    "wof:geomhash":"64b641166bb7d7e73c4ccc81bcdf7357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857272827
+        }
+    ],
+    "wof:id":857272827,
+    "wof:lastmodified":1464125742,
+    "wof:name":"Nashville Ferry Landing",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat",
+        "launching"
+    ]
+},
+  "bbox": [
+    -88.333167,
+    33.323835,
+    -88.333167,
+    33.323835
+],
+  "geometry": {"coordinates":[-88.333167,33.323835],"type":"Point"}
+}

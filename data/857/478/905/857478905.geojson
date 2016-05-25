@@ -1,0 +1,71 @@
+{
+  "id": 857478905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567289,34.208549,-90.567289,34.208549",
+    "geom:latitude":34.208549,
+    "geom:longitude":-90.567289,
+    "iso:country":"US",
+    "sg:address":"203 Church St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 2312",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "churches-christian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GIw7J1RtDbq4xfWaEcWlv_34.208056_-90.567010@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130351,
+    "wof:geomhash":"aaf4a3e153958bf1bb959c3184a4307b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857478905
+        }
+    ],
+    "wof:id":857478905,
+    "wof:lastmodified":1464130351,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-christian"
+    ]
+},
+  "bbox": [
+    -90.567289,
+    34.208549,
+    -90.567289,
+    34.208549
+],
+  "geometry": {"coordinates":[-90.567289,34.208549],"type":"Point"}
+}

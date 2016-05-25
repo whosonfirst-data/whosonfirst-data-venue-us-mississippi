@@ -1,0 +1,71 @@
+{
+  "id": 857362771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.272406,31.274232,-89.272406,31.274232",
+    "geom:latitude":31.274232,
+    "geom:longitude":-89.272406,
+    "iso:country":"US",
+    "sg:address":"546 Dawson St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2461",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JmdMSlYU99VUv8nA7WPIZ_31.274232_-89.272406@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127757,
+    "wof:geomhash":"6ad599688e0e41164c6b6ea32ca66536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857362771
+        }
+    ],
+    "wof:id":857362771,
+    "wof:lastmodified":1464127757,
+    "wof:name":"Leggett's Barber Shop",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.272406,
+    31.274232,
+    -89.272406,
+    31.274232
+],
+  "geometry": {"coordinates":[-89.272406,31.274232],"type":"Point"}
+}

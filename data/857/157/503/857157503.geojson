@@ -1,0 +1,71 @@
+{
+  "id": 857157503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.793387,34.259717,-88.793387,34.259717",
+    "geom:latitude":34.259717,
+    "geom:longitude":-88.793387,
+    "iso:country":"US",
+    "sg:address":"290 N Sweet Gum Ln",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 823 2424",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23NJzdBBFo1HFzctKFzBHW_34.259717_-88.793387@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123294,
+    "wof:geomhash":"c19d41f01cf1abba60ddf70b44422b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857157503
+        }
+    ],
+    "wof:id":857157503,
+    "wof:lastmodified":1464123294,
+    "wof:name":"Southern Tradition Inc",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.793387,
+    34.259717,
+    -88.793387,
+    34.259717
+],
+  "geometry": {"coordinates":[-88.793387,34.259717],"type":"Point"}
+}

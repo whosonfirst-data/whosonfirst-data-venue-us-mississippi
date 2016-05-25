@@ -1,0 +1,71 @@
+{
+  "id": 857326637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568452,33.836164,-88.568452,33.836164",
+    "geom:latitude":33.836164,
+    "geom:longitude":-88.568452,
+    "iso:country":"US",
+    "sg:address":"305 Hwy 45 N",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8018",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h4KzAHWNnTZ60jtgBweyS_33.836164_-88.568452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126983,
+    "wof:geomhash":"67ac44e1eb3d4c5e275bc45d029ec552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857326637
+        }
+    ],
+    "wof:id":857326637,
+    "wof:lastmodified":1464126983,
+    "wof:name":"Aberdeen Family Medical Center",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.568452,
+    33.836164,
+    -88.568452,
+    33.836164
+],
+  "geometry": {"coordinates":[-88.56845199999999,33.836164],"type":"Point"}
+}

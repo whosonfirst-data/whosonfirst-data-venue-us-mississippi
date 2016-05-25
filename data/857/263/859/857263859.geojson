@@ -1,0 +1,71 @@
+{
+  "id": 857263859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.073612,32.458525,-90.073612,32.458525",
+    "geom:latitude":32.458525,
+    "geom:longitude":-90.073612,
+    "iso:country":"US",
+    "sg:address":"105 Hidden Hills Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 9795",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lqxzCnI7uFUCT608P9Cc4_32.458525_-90.073612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125571,
+    "wof:geomhash":"d077e0b62d0d419cbea33ce8a706bb69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857263859
+        }
+    ],
+    "wof:id":857263859,
+    "wof:lastmodified":1464125571,
+    "wof:name":"Mc Grew & Assoc",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -90.073612,
+    32.458525,
+    -90.073612,
+    32.458525
+],
+  "geometry": {"coordinates":[-90.073612,32.458525],"type":"Point"}
+}

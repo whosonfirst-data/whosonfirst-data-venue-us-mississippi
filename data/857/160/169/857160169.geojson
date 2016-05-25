@@ -1,0 +1,75 @@
+{
+  "id": 857160169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.009004,34.494092,-89.009004,34.494092",
+    "geom:latitude":34.494092,
+    "geom:longitude":-89.009004,
+    "iso:country":"US",
+    "sg:address":"134 W Bankhead St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 8271",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LLcaZXhGyr2egjDP2lpbC_34.494092_-89.009004@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123347,
+    "wof:geomhash":"7e7b7b45ae1b30cdecd507d133ece332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857160169
+        }
+    ],
+    "wof:id":857160169,
+    "wof:lastmodified":1464123347,
+    "wof:name":"A & W Rental",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -89.009004,
+    34.494092,
+    -89.009004,
+    34.494092
+],
+  "geometry": {"coordinates":[-89.009004,34.494092],"type":"Point"}
+}

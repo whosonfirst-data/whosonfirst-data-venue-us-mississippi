@@ -1,0 +1,71 @@
+{
+  "id": 857383629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.729597,33.511614,-88.729597,33.511614",
+    "geom:latitude":33.511614,
+    "geom:longitude":-88.729597,
+    "iso:country":"US",
+    "sg:address":"1933 Osborn Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6469",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nursery",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14l81mAalt9j2840fa0QCP_33.511614_-88.729597@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128233,
+    "wof:geomhash":"3ef0bc860c2f1eb5690dcd13f2330465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857383629
+        }
+    ],
+    "wof:id":857383629,
+    "wof:lastmodified":1464128233,
+    "wof:name":"Osborn Flower Co",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "tree"
+    ]
+},
+  "bbox": [
+    -88.729597,
+    33.511614,
+    -88.729597,
+    33.511614
+],
+  "geometry": {"coordinates":[-88.729597,33.511614],"type":"Point"}
+}

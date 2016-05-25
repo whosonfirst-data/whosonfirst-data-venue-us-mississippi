@@ -1,0 +1,70 @@
+{
+  "id": 857381019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.736446,33.477194,-88.736446,33.477194",
+    "geom:latitude":33.477194,
+    "geom:longitude":-88.736446,
+    "iso:country":"US",
+    "sg:address":"1520 Old Hwy 82 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 325 3028",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.golfcourse.msstate.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85812519,
+        102083159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZB83ugEa1wZ2yfZA4FMte_33.477194_-88.736446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128150,
+    "wof:geomhash":"747ba559fdb5c7486c36a8079861a6c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "neighbourhood_id":85812519,
+            "region_id":85688579,
+            "venue_id":857381019
+        }
+    ],
+    "wof:id":857381019,
+    "wof:lastmodified":1464128150,
+    "wof:name":"Ms State Golf Course",
+    "wof:parent_id":85812519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -88.736446,
+    33.477194,
+    -88.736446,
+    33.477194
+],
+  "geometry": {"coordinates":[-88.736446,33.477194],"type":"Point"}
+}

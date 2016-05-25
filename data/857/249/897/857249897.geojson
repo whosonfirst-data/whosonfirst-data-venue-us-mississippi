@@ -1,0 +1,75 @@
+{
+  "id": 857249897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.146725,31.325174,-89.146725,31.325174",
+    "geom:latitude":31.325174,
+    "geom:longitude":-89.146725,
+    "iso:country":"US",
+    "sg:address":"9 Goodluck Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 2964",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lcpAcRDGNae2XyJxSJxVw_31.325174_-89.146725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125239,
+    "wof:geomhash":"3941ae40f0e1efa59bab83e915003d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857249897
+        }
+    ],
+    "wof:id":857249897,
+    "wof:lastmodified":1464125239,
+    "wof:name":"Stutts House Moving",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -89.146725,
+    31.325174,
+    -89.146725,
+    31.325174
+],
+  "geometry": {"coordinates":[-89.146725,31.325174],"type":"Point"}
+}

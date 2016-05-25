@@ -1,0 +1,66 @@
+{
+  "id": 857145013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690436,32.298077,-88.690436,32.298077",
+    "geom:latitude":32.298077,
+    "geom:longitude":-88.690436,
+    "iso:country":"US",
+    "sg:address":"1152 Bynum Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 0432",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72irsM0WSU12wB6lCAUzBM_32.298077_-88.690436@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123041,
+    "wof:geomhash":"3fd77bb24279ae4911f23bf96886aa86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857145013
+        }
+    ],
+    "wof:id":857145013,
+    "wof:lastmodified":1464123041,
+    "wof:name":"Bar C Saddle Shop",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.690436,
+    32.298077,
+    -88.690436,
+    32.298077
+],
+  "geometry": {"coordinates":[-88.69043600000001,32.298077],"type":"Point"}
+}

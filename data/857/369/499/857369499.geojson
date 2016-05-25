@@ -1,0 +1,71 @@
+{
+  "id": 857369499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.826456,30.411413,-88.826456,30.411413",
+    "geom:latitude":30.411413,
+    "geom:longitude":-88.826456,
+    "iso:country":"US",
+    "sg:address":"503 Dewey Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 5009",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AnG6abe1T4k9RiF2mR70y_30.411413_-88.826456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127892,
+    "wof:geomhash":"4f6c14e92fe2b59e197520bda6b08770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857369499
+        }
+    ],
+    "wof:id":857369499,
+    "wof:lastmodified":1464127892,
+    "wof:name":"Ocean Springs Court Clerk",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -88.826456,
+    30.411413,
+    -88.826456,
+    30.411413
+],
+  "geometry": {"coordinates":[-88.82645599999999,30.411413],"type":"Point"}
+}

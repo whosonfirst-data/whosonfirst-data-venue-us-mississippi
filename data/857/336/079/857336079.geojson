@@ -1,0 +1,71 @@
+{
+  "id": 857336079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.703235,32.409281,-88.703235,32.409281",
+    "geom:latitude":32.409281,
+    "geom:longitude":-88.703235,
+    "iso:country":"US",
+    "sg:address":"2435 N Hills St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 5541",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wh7lBGmOwSPXxecq4y0Cv_32.409281_-88.703235@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127188,
+    "wof:geomhash":"b52db24631b92e10fc06732d454c94e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857336079
+        }
+    ],
+    "wof:id":857336079,
+    "wof:lastmodified":1464127188,
+    "wof:name":"North Hill Shell",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.703235,
+    32.409281,
+    -88.703235,
+    32.409281
+],
+  "geometry": {"coordinates":[-88.70323500000001,32.409281],"type":"Point"}
+}

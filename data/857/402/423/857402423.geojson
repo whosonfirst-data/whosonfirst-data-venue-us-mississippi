@@ -1,0 +1,73 @@
+{
+  "id": 857402423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.204361,31.263156,-89.204361,31.263156",
+    "geom:latitude":31.263156,
+    "geom:longitude":-89.204361,
+    "iso:country":"US",
+    "sg:address":"746 Old River Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8248",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tvDE3hpzPTgkWWoyBcgJU_31.263156_-89.204361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128674,
+    "wof:geomhash":"4d3fe5937ffdf1a7b60ce32a0cd176f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857402423
+        }
+    ],
+    "wof:id":857402423,
+    "wof:lastmodified":1464128674,
+    "wof:name":"Sims Farm",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.204361,
+    31.263156,
+    -89.204361,
+    31.263156
+],
+  "geometry": {"coordinates":[-89.20436100000001,31.263156],"type":"Point"}
+}

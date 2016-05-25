@@ -1,0 +1,80 @@
+{
+  "id": 857203899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.774507,30.411147,-88.774507,30.411147",
+    "geom:latitude":30.411147,
+    "geom:longitude":-88.774507,
+    "iso:country":"US",
+    "sg:address":"3535 US Hwy 90",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 9817",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "transmission",
+        "general",
+        "automotive",
+        "automobile"
+    ],
+    "sg:website":"www.oceanspringsautocenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H8hR6JM2iLEbWqIWOVqAH_30.411147_-88.774507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124266,
+    "wof:geomhash":"74cdcfb0eb91b0ec5f983c840a90580b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857203899
+        }
+    ],
+    "wof:id":857203899,
+    "wof:lastmodified":1464124266,
+    "wof:name":"Ocean Springs Auto Center",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "transmission",
+        "general",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.774507,
+    30.411147,
+    -88.774507,
+    30.411147
+],
+  "geometry": {"coordinates":[-88.774507,30.411147],"type":"Point"}
+}

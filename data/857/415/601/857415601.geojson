@@ -1,0 +1,71 @@
+{
+  "id": 857415601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.44008,33.619175,-88.44008,33.619175",
+    "geom:latitude":33.619175,
+    "geom:longitude":-88.44008,
+    "iso:country":"US",
+    "sg:address":"1027 Land Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 434 8847",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12HqLyktwflHkjYX1KKRio_33.619175_-88.440080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128991,
+    "wof:geomhash":"9a3c3d0669f92903e96db9066521a62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857415601
+        }
+    ],
+    "wof:id":857415601,
+    "wof:lastmodified":1464128991,
+    "wof:name":"U S P A",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -88.44008,
+    33.619175,
+    -88.44008,
+    33.619175
+],
+  "geometry": {"coordinates":[-88.44007999999999,33.619175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857242213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.668259,32.397768,-88.668259,32.397768",
+    "geom:latitude":32.397768,
+    "geom:longitude":-88.668259,
+    "iso:country":"US",
+    "sg:address":"3848 Old Hwy 45 N",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9944",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DqOqiw3ssNJhxHLGvd8i2_32.397768_-88.668259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125064,
+    "wof:geomhash":"50032f3373fd771e948cd46d6cf9cafd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857242213
+        }
+    ],
+    "wof:id":857242213,
+    "wof:lastmodified":1464125064,
+    "wof:name":"Meridian Regonal Office",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -88.668259,
+    32.397768,
+    -88.668259,
+    32.397768
+],
+  "geometry": {"coordinates":[-88.66825900000001,32.397768],"type":"Point"}
+}

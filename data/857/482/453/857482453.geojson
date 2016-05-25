@@ -1,0 +1,76 @@
+{
+  "id": 857482453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.172426,32.303649,-90.172426,32.303649",
+    "geom:latitude":32.303649,
+    "geom:longitude":-90.172426,
+    "iso:country":"US",
+    "sg:address":"1200 High St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/terry/205101-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 3018",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vpCCefAHpvdvaLhybwGfZ_32.303649_-90.172426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130417,
+    "wof:geomhash":"a4cf5f37ba5050788e1c7e99837c31b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857482453
+        }
+    ],
+    "wof:id":857482453,
+    "wof:lastmodified":1464130417,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.172426,
+    32.303649,
+    -90.172426,
+    32.303649
+],
+  "geometry": {"coordinates":[-90.172426,32.303649],"type":"Point"}
+}

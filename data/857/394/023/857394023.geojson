@@ -1,0 +1,71 @@
+{
+  "id": 857394023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.519906,34.36559,-89.519906,34.36559",
+    "geom:latitude":34.36559,
+    "geom:longitude":-89.519906,
+    "iso:country":"US",
+    "sg:address":"1210 Harrison Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7558",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WiLUt0jbb4ABG5NIzZq5S_34.365590_-89.519906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128502,
+    "wof:geomhash":"178497a3f6df9a5ae0803d098e61f38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857394023
+        }
+    ],
+    "wof:id":857394023,
+    "wof:lastmodified":1464128502,
+    "wof:name":"Murffs",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -89.519906,
+    34.36559,
+    -89.519906,
+    34.36559
+],
+  "geometry": {"coordinates":[-89.51990600000001,34.36559],"type":"Point"}
+}

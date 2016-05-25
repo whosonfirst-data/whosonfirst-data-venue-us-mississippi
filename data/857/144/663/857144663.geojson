@@ -1,0 +1,71 @@
+{
+  "id": 857144663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41031,32.845945,-90.41031,32.845945",
+    "geom:latitude":32.845945,
+    "geom:longitude":-90.41031,
+    "iso:country":"US",
+    "sg:address":"419 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 751 4626",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ti2TTKBL1znBXzicqdqbU_32.845945_-90.410310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123027,
+    "wof:geomhash":"3eefe7ff3969057306f42bb834c717d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857144663
+        }
+    ],
+    "wof:id":857144663,
+    "wof:lastmodified":1464123027,
+    "wof:name":"AIA Mississippi",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -90.41031,
+    32.845945,
+    -90.41031,
+    32.845945
+],
+  "geometry": {"coordinates":[-90.41031,32.845945],"type":"Point"}
+}

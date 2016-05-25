@@ -1,0 +1,71 @@
+{
+  "id": 857158687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.437267,33.531775,-88.437267,33.531775",
+    "geom:latitude":33.531775,
+    "geom:longitude":-88.437267,
+    "iso:country":"US",
+    "sg:address":"1829 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1137",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wBB90E5Gl9Exr0nlI1mIr_33.531775_-88.437267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123321,
+    "wof:geomhash":"757f4ed557e15569c80ca79847d54432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857158687
+        }
+    ],
+    "wof:id":857158687,
+    "wof:lastmodified":1464123321,
+    "wof:name":"Kroger",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -88.437267,
+    33.531775,
+    -88.437267,
+    33.531775
+],
+  "geometry": {"coordinates":[-88.43726700000001,33.531775],"type":"Point"}
+}

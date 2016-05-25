@@ -1,0 +1,71 @@
+{
+  "id": 857232197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.811682,30.420595,-88.811682,30.420595",
+    "geom:latitude":30.420595,
+    "geom:longitude":-88.811682,
+    "iso:country":"US",
+    "sg:address":"1206 Nelson Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0064",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twm4tYWhFxaJe6uriUfN5_30.420595_-88.811682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124846,
+    "wof:geomhash":"81d7ff90499a4be1b992748badd49fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857232197
+        }
+    ],
+    "wof:id":857232197,
+    "wof:lastmodified":1464124846,
+    "wof:name":"D & J Vendors",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -88.811682,
+    30.420595,
+    -88.811682,
+    30.420595
+],
+  "geometry": {"coordinates":[-88.811682,30.420595],"type":"Point"}
+}

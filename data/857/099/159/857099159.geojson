@@ -1,0 +1,75 @@
+{
+  "id": 857099159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.014995,34.495489,-89.014995,34.495489",
+    "geom:latitude":34.495489,
+    "geom:longitude":-89.014995,
+    "iso:country":"US",
+    "sg:address":"215 W Bankhead St",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 534 6311",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fooas4GgOb6yFNabqjDJC_34.495489_-89.014995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121885,
+    "wof:geomhash":"530f7bba1a16efa7ab1fc68da0620609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857099159
+        }
+    ],
+    "wof:id":857099159,
+    "wof:lastmodified":1464121885,
+    "wof:name":"Hill's Lawn & Garden Equipment",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -89.014995,
+    34.495489,
+    -89.014995,
+    34.495489
+],
+  "geometry": {"coordinates":[-89.014995,34.495489],"type":"Point"}
+}

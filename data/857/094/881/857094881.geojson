@@ -1,0 +1,77 @@
+{
+  "id": 857094881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.710861,30.516136,-88.710861,30.516136",
+    "geom:latitude":30.516136,
+    "geom:longitude":-88.710861,
+    "iso:country":"US",
+    "sg:address":"5900 Morningside Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 2857",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heavy",
+        "operator",
+        "construction",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RzeBMy2hfpFcu1GIRYCgj_30.516136_-88.710861@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121787,
+    "wof:geomhash":"be63049d975ee3d1eef2405e09e31f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857094881
+        }
+    ],
+    "wof:id":857094881,
+    "wof:lastmodified":1464121787,
+    "wof:name":"Bruce Pose Construction",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "operator",
+        "construction",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.710861,
+    30.516136,
+    -88.710861,
+    30.516136
+],
+  "geometry": {"coordinates":[-88.71086099999999,30.516136],"type":"Point"}
+}

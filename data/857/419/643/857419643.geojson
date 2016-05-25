@@ -1,0 +1,73 @@
+{
+  "id": 857419643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684884,34.231699,-88.684884,34.231699",
+    "geom:latitude":34.231699,
+    "geom:longitude":-88.684884,
+    "iso:country":"US",
+    "sg:address":"1681 S Veterans Blvd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3788",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OuE4VWhoODuSWENe3Y4aX_34.231699_-88.684884@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129088,
+    "wof:geomhash":"71ea211975c1edcf301922b6604e9fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857419643
+        }
+    ],
+    "wof:id":857419643,
+    "wof:lastmodified":1464129088,
+    "wof:name":"Hill Brothers Construction",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.684884,
+    34.231699,
+    -88.684884,
+    34.231699
+],
+  "geometry": {"coordinates":[-88.684884,34.231699],"type":"Point"}
+}

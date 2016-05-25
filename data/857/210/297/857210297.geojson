@@ -1,0 +1,71 @@
+{
+  "id": 857210297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539087,30.40991,-88.539087,30.40991",
+    "geom:latitude":30.40991,
+    "geom:longitude":-88.539087,
+    "iso:country":"US",
+    "sg:address":"4624 Main St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 1069",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gCdBvP9JBImqDHXARLfIY_30.409910_-88.539087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124395,
+    "wof:geomhash":"03b77793498fd2fff96ddf10bc806771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857210297
+        }
+    ],
+    "wof:id":857210297,
+    "wof:lastmodified":1464124395,
+    "wof:name":"Kids Kastle Academy",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.539087,
+    30.40991,
+    -88.539087,
+    30.40991
+],
+  "geometry": {"coordinates":[-88.53908699999999,30.40991],"type":"Point"}
+}

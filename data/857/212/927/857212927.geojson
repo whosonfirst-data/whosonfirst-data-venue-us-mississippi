@@ -1,0 +1,73 @@
+{
+  "id": 857212927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.335387,31.348153,-89.335387,31.348153",
+    "geom:latitude":31.348153,
+    "geom:longitude":-89.335387,
+    "iso:country":"US",
+    "sg:address":"5232 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 450 2377",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZO8oBgxr2Xbd3iabNve35_31.348153_-89.335387@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124462,
+    "wof:geomhash":"d6c6d696feea835d0832ff94be6d1c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857212927
+        }
+    ],
+    "wof:id":857212927,
+    "wof:lastmodified":1464124462,
+    "wof:name":"Groove Night Club",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -89.335387,
+    31.348153,
+    -89.335387,
+    31.348153
+],
+  "geometry": {"coordinates":[-89.335387,31.348153],"type":"Point"}
+}

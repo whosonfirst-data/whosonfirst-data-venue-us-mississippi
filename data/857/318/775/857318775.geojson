@@ -1,0 +1,71 @@
+{
+  "id": 857318775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.268779,31.364366,-89.268779,31.364366",
+    "geom:latitude":31.364366,
+    "geom:longitude":-89.268779,
+    "iso:country":"US",
+    "sg:address":"18 Chappell Hill Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 2122",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jAkCrNxMu53FLzMPqLhlT_31.364366_-89.268779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126826,
+    "wof:geomhash":"3796a9b7a89879a8473f22dcfcf2966b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857318775
+        }
+    ],
+    "wof:id":857318775,
+    "wof:lastmodified":1464126826,
+    "wof:name":"Dynegy",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refiner"
+    ]
+},
+  "bbox": [
+    -89.268779,
+    31.364366,
+    -89.268779,
+    31.364366
+],
+  "geometry": {"coordinates":[-89.26877899999999,31.364366],"type":"Point"}
+}

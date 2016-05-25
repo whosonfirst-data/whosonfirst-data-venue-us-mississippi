@@ -1,0 +1,75 @@
+{
+  "id": 857475785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686201,33.796579,-88.686201,33.796579",
+    "geom:latitude":33.796579,
+    "geom:longitude":-88.686201,
+    "iso:country":"US",
+    "sg:address":"10064 State Hwy 382",
+    "sg:city":"Prairie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 8170",
+    "sg:postcode":"39756",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2erOewLwrZFukzv1OAdI3p_33.796579_-88.686201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130293,
+    "wof:geomhash":"7021d1a9216f7698060f20940c7bd6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857475785
+        }
+    ],
+    "wof:id":857475785,
+    "wof:lastmodified":1464130293,
+    "wof:name":"Koehn Trucking",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.686201,
+    33.796579,
+    -88.686201,
+    33.796579
+],
+  "geometry": {"coordinates":[-88.686201,33.796579],"type":"Point"}
+}

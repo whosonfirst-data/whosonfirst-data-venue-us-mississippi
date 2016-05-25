@@ -1,0 +1,71 @@
+{
+  "id": 857093249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525068,34.367642,-89.525068,34.367642",
+    "geom:latitude":34.367642,
+    "geom:longitude":-89.525068,
+    "iso:country":"US",
+    "sg:address":"512 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 0480",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vHca239KSfhturkS8yPkE_34.367642_-89.525068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121755,
+    "wof:geomhash":"edfbadba8c88c217b29a195a002f6ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857093249
+        }
+    ],
+    "wof:id":857093249,
+    "wof:lastmodified":1464121755,
+    "wof:name":"Nations Best Catering",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.525068,
+    34.367642,
+    -89.525068,
+    34.367642
+],
+  "geometry": {"coordinates":[-89.525068,34.367642],"type":"Point"}
+}

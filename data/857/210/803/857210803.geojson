@@ -1,0 +1,75 @@
+{
+  "id": 857210803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.52096,34.415427,-89.52096,34.415427",
+    "geom:latitude":34.415427,
+    "geom:longitude":-89.52096,
+    "iso:country":"US",
+    "sg:address":"411 Co Rd 101",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7612",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "motor",
+        "generator",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zxRUsPDx9M96VjR3e5MCr_34.415427_-89.520960@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124409,
+    "wof:geomhash":"244def26c715653d5f4118c8f6a230b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857210803
+        }
+    ],
+    "wof:id":857210803,
+    "wof:lastmodified":1464124409,
+    "wof:name":"Emerson Electric Motor",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motor",
+        "generator",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -89.52096,
+    34.415427,
+    -89.52096,
+    34.415427
+],
+  "geometry": {"coordinates":[-89.52096,34.415427],"type":"Point"}
+}

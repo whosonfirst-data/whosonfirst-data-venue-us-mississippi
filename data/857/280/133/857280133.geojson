@@ -1,0 +1,73 @@
+{
+  "id": 857280133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.122838,32.253832,-90.122838,32.253832",
+    "geom:latitude":32.253832,
+    "geom:longitude":-90.122838,
+    "iso:country":"US",
+    "sg:address":"991 Jenkins St",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 5406",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uoh7aKPLWYYqbwc3BvGvd_32.253832_-90.122838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125923,
+    "wof:geomhash":"2c11683fac4677a8093d8ff4bd626421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857280133
+        }
+    ],
+    "wof:id":857280133,
+    "wof:lastmodified":1464125923,
+    "wof:name":"S K & H",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.122838,
+    32.253832,
+    -90.122838,
+    32.253832
+],
+  "geometry": {"coordinates":[-90.122838,32.253832],"type":"Point"}
+}

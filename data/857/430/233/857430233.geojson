@@ -1,0 +1,73 @@
+{
+  "id": 857430233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57211,34.201344,-90.57211,34.201344",
+    "geom:latitude":34.201344,
+    "geom:longitude":-90.57211,
+    "iso:country":"US",
+    "sg:address":"313 Issaquena Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 358 4563",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kaXoDdOXEnQ46InPCRwso_34.201344_-90.572110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129349,
+    "wof:geomhash":"304c08d7094dfa64c978b7e0e57aa967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857430233
+        }
+    ],
+    "wof:id":857430233,
+    "wof:lastmodified":1464129349,
+    "wof:name":"Coahoma Opportunities Inc",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.57211,
+    34.201344,
+    -90.57211,
+    34.201344
+],
+  "geometry": {"coordinates":[-90.57211,34.201344],"type":"Point"}
+}

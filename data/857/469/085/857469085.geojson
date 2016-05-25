@@ -1,0 +1,75 @@
+{
+  "id": 857469085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.42501,33.491259,-88.42501,33.491259",
+    "geom:latitude":33.491259,
+    "geom:longitude":-88.42501,
+    "iso:country":"US",
+    "sg:address":"501 S 7th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 8788",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XJ3VTpmQh0ZIbNN9n6NIy_33.491259_-88.425010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130152,
+    "wof:geomhash":"00e092a786a7aa44cf68add38b138752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857469085
+        }
+    ],
+    "wof:id":857469085,
+    "wof:lastmodified":1464130152,
+    "wof:name":"Trans Power Corp-Mississippi",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -88.42501,
+    33.491259,
+    -88.42501,
+    33.491259
+],
+  "geometry": {"coordinates":[-88.42501,33.491259],"type":"Point"}
+}

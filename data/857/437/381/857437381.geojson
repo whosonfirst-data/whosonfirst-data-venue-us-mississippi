@@ -1,0 +1,75 @@
+{
+  "id": 857437381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.13258,32.434745,-90.13258,32.434745",
+    "geom:latitude":32.434745,
+    "geom:longitude":-90.13258,
+    "iso:country":"US",
+    "sg:address":"242 Stephens St",
+    "sg:city":"Ridgeland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 856 6290",
+    "sg:postcode":"39157",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t1uILUU1hx2JoE58izgju_32.434745_-90.132580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129518,
+    "wof:geomhash":"fd248629e98375915d9c22623248bc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857437381
+        }
+    ],
+    "wof:id":857437381,
+    "wof:lastmodified":1464129518,
+    "wof:name":"De Money Tile Co",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.13258,
+    32.434745,
+    -90.13258,
+    32.434745
+],
+  "geometry": {"coordinates":[-90.13258,32.434745],"type":"Point"}
+}

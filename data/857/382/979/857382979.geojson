@@ -1,0 +1,75 @@
+{
+  "id": 857382979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.941739,34.889469,-89.941739,34.889469",
+    "geom:latitude":34.889469,
+    "geom:longitude":-89.941739,
+    "iso:country":"US",
+    "sg:address":"2745 Lester Rd",
+    "sg:city":"Nesbit",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 429 4616",
+    "sg:postcode":"38651",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fdu49xKoXPqN06qaXgjLj_34.889469_-89.941739@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128210,
+    "wof:geomhash":"a15763aa9d1dc62ee1a1910cab0fbd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857382979
+        }
+    ],
+    "wof:id":857382979,
+    "wof:lastmodified":1464128210,
+    "wof:name":"R & R Services",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -89.941739,
+    34.889469,
+    -89.941739,
+    34.889469
+],
+  "geometry": {"coordinates":[-89.941739,34.889469],"type":"Point"}
+}

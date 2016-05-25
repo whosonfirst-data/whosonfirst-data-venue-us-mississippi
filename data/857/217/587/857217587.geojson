@@ -1,0 +1,75 @@
+{
+  "id": 857217587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.227366,32.322447,-90.227366,32.322447",
+    "geom:latitude":32.322447,
+    "geom:longitude":-90.227366,
+    "iso:country":"US",
+    "sg:address":"3202 W Capitol St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 969 1181",
+    "sg:postcode":"39209",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85814629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xn4fAQXLHwGBTO307NWYc_32.322447_-90.227366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124566,
+    "wof:geomhash":"899b328b971940172881e329410b9ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85814629,
+            "region_id":85688579,
+            "venue_id":857217587
+        }
+    ],
+    "wof:id":857217587,
+    "wof:lastmodified":1464124566,
+    "wof:name":"Mr Discount Drugs Store",
+    "wof:parent_id":85814629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.227366,
+    32.322447,
+    -90.227366,
+    32.322447
+],
+  "geometry": {"coordinates":[-90.227366,32.322447],"type":"Point"}
+}

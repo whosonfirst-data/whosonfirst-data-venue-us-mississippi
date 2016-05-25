@@ -1,0 +1,71 @@
+{
+  "id": 857325337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.495139,30.384093,-88.495139,30.384093",
+    "geom:latitude":30.384093,
+    "geom:longitude":-88.495139,
+    "iso:country":"US",
+    "sg:address":"6800 Stennis Blvd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 712 3500",
+    "sg:postcode":"39562",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XV2cthH5YT2B7fKfT0F8D_30.384093_-88.495139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126956,
+    "wof:geomhash":"c945497c72cb38013fa00b502d537e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857325337
+        }
+    ],
+    "wof:id":857325337,
+    "wof:lastmodified":1464126956,
+    "wof:name":"B P Corporation North America",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refiner"
+    ]
+},
+  "bbox": [
+    -88.495139,
+    30.384093,
+    -88.495139,
+    30.384093
+],
+  "geometry": {"coordinates":[-88.49513899999999,30.384093],"type":"Point"}
+}

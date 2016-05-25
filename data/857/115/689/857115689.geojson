@@ -1,0 +1,75 @@
+{
+  "id": 857115689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.436758,33.528995,-88.436758,33.528995",
+    "geom:latitude":33.528995,
+    "geom:longitude":-88.436758,
+    "iso:country":"US",
+    "sg:address":"1603 Hwy 45 N",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3113",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zIi3vC2997pLK1eColq6_33.528995_-88.436758@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122331,
+    "wof:geomhash":"86882a10220488ad589820371bd2bee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857115689
+        }
+    ],
+    "wof:id":857115689,
+    "wof:lastmodified":1464122331,
+    "wof:name":"Miller's Ok Svc Ctr",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.436758,
+    33.528995,
+    -88.436758,
+    33.528995
+],
+  "geometry": {"coordinates":[-88.436758,33.528995],"type":"Point"}
+}

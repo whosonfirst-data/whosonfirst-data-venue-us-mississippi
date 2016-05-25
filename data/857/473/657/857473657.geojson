@@ -1,0 +1,73 @@
+{
+  "id": 857473657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.869988,32.321197,-90.869988,32.321197",
+    "geom:latitude":32.321197,
+    "geom:longitude":-90.869988,
+    "iso:country":"US",
+    "sg:address":"3215 Plaza Dr",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 630 0305",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "craft",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IZ1kvhjDLrLzou25X4vea_32.321197_-90.869988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130249,
+    "wof:geomhash":"901ffaa86b73effc0edbf8193748cabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857473657
+        }
+    ],
+    "wof:id":857473657,
+    "wof:lastmodified":1464130249,
+    "wof:name":"Craft Store",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.869988,
+    32.321197,
+    -90.869988,
+    32.321197
+],
+  "geometry": {"coordinates":[-90.86998800000001,32.321197],"type":"Point"}
+}

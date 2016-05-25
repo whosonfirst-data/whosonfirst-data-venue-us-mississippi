@@ -1,0 +1,73 @@
+{
+  "id": 857452745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.710193,34.450675,-88.710193,34.450675",
+    "geom:latitude":34.450675,
+    "geom:longitude":-88.710193,
+    "iso:country":"US",
+    "sg:address":"1131 Hwy 348",
+    "sg:city":"Guntown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 348 5345",
+    "sg:postcode":"38849",
+    "sg:province":"MS",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PHEPQWFjZS6ULXZZNeWJa_34.450675_-88.710193@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129812,
+    "wof:geomhash":"9701e5d6f1165b9dadedc74ef5f7bba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857452745
+        }
+    ],
+    "wof:id":857452745,
+    "wof:lastmodified":1464129812,
+    "wof:name":"David Wiggington",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -88.710193,
+    34.450675,
+    -88.710193,
+    34.450675
+],
+  "geometry": {"coordinates":[-88.710193,34.450675],"type":"Point"}
+}

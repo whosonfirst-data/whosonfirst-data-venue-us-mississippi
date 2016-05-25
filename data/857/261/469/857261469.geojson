@@ -1,0 +1,80 @@
+{
+  "id": 857261469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63315,34.508153,-88.63315,34.508153",
+    "geom:latitude":34.508153,
+    "geom:longitude":-88.63315,
+    "iso:country":"US",
+    "sg:address":"111 Front St S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 5860",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "small",
+        "engine",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46bghc86KFwUblGv0dN59z_34.508153_-88.633150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125525,
+    "wof:geomhash":"ba2af9d6dc6f68f906e0ee8131150d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857261469
+        }
+    ],
+    "wof:id":857261469,
+    "wof:lastmodified":1464125525,
+    "wof:name":"North Mississippi Small Engine",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "engine",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -88.63315,
+    34.508153,
+    -88.63315,
+    34.508153
+],
+  "geometry": {"coordinates":[-88.63315,34.508153],"type":"Point"}
+}

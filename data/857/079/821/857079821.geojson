@@ -1,0 +1,73 @@
+{
+  "id": 857079821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.973686,30.402274,-88.973686,30.402274",
+    "geom:latitude":30.402274,
+    "geom:longitude":-88.973686,
+    "iso:country":"US",
+    "sg:address":"2396 Pass Rd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 385 8828",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T7v38GYOnuGQsGvqbgOlv_30.402274_-88.973686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121399,
+    "wof:geomhash":"c852babe79aa2f0e1595f821a16d39c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857079821
+        }
+    ],
+    "wof:id":857079821,
+    "wof:lastmodified":1464121399,
+    "wof:name":"Burke's Outlet",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.973686,
+    30.402274,
+    -88.973686,
+    30.402274
+],
+  "geometry": {"coordinates":[-88.973686,30.402274],"type":"Point"}
+}

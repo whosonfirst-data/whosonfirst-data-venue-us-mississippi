@@ -1,0 +1,77 @@
+{
+  "id": 857204299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.777506,30.412163,-88.777506,30.412163",
+    "geom:latitude":30.412163,
+    "geom:longitude":-88.777506,
+    "iso:country":"US",
+    "sg:address":"3401 Bienville Blvd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0204",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nwmrcNCa50IeAufG8MvEH_30.412163_-88.777506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124274,
+    "wof:geomhash":"4e9618c849150944ae2cd23e005a3f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857204299
+        }
+    ],
+    "wof:id":857204299,
+    "wof:lastmodified":1464124274,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -88.777506,
+    30.412163,
+    -88.777506,
+    30.412163
+],
+  "geometry": {"coordinates":[-88.777506,30.412163],"type":"Point"}
+}

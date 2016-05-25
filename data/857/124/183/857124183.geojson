@@ -1,0 +1,71 @@
+{
+  "id": 857124183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.418583,33.525605,-88.418583,33.525605",
+    "geom:latitude":33.525605,
+    "geom:longitude":-88.418583,
+    "iso:country":"US",
+    "sg:address":"1245 Choctaw Rd",
+    "sg:city":"Ackerman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 285 6970",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AEkNstk7DAca6kxTjrPcy_33.525605_-88.418583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122555,
+    "wof:geomhash":"a92c050871ef963cfed8b332948de2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857124183
+        }
+    ],
+    "wof:id":857124183,
+    "wof:lastmodified":1464122555,
+    "wof:name":"Memories For A Lifetime",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -88.418583,
+    33.525605,
+    -88.418583,
+    33.525605
+],
+  "geometry": {"coordinates":[-88.418583,33.525605],"type":"Point"}
+}

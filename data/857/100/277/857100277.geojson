@@ -1,0 +1,71 @@
+{
+  "id": 857100277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540384,30.354766,-88.540384,30.354766",
+    "geom:latitude":30.354766,
+    "geom:longitude":-88.540384,
+    "iso:country":"US",
+    "sg:address":"1808 13th St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 696 1910",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69V1Mh8Qw8cblaGyN3wNEe_30.354766_-88.540384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121916,
+    "wof:geomhash":"d84bef14fe2ae38de62fbbbd2daf4f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857100277
+        }
+    ],
+    "wof:id":857100277,
+    "wof:lastmodified":1464121916,
+    "wof:name":"RMS Nutrition Distribution",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -88.540384,
+    30.354766,
+    -88.540384,
+    30.354766
+],
+  "geometry": {"coordinates":[-88.540384,30.354766],"type":"Point"}
+}

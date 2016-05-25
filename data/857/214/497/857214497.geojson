@@ -1,0 +1,73 @@
+{
+  "id": 857214497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.327233,33.447778,-88.327233,33.447778",
+    "geom:latitude":33.447778,
+    "geom:longitude":-88.327233,
+    "iso:country":"US",
+    "sg:address":"3610 New Hope Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 7017",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LNvC85OMQc77tTn9PD192_33.447778_-88.327233@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124500,
+    "wof:geomhash":"fc4de18d25ff7afce018117785d3a85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857214497
+        }
+    ],
+    "wof:id":857214497,
+    "wof:lastmodified":1464124500,
+    "wof:name":"Trustmark National Bank",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.327233,
+    33.447778,
+    -88.327233,
+    33.447778
+],
+  "geometry": {"coordinates":[-88.32723300000001,33.447778],"type":"Point"}
+}

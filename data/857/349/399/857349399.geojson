@@ -1,0 +1,73 @@
+{
+  "id": 857349399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.252049,31.364109,-89.252049,31.364109",
+    "geom:latitude":31.364109,
+    "geom:longitude":-89.252049,
+    "iso:country":"US",
+    "sg:address":"302 Garden Ln",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 0473",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operated",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sy0g8ORLJrcidpU2l08Kz_31.364109_-89.252049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127474,
+    "wof:geomhash":"2e7b88460ec32e699fa2b36afddc5507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857349399
+        }
+    ],
+    "wof:id":857349399,
+    "wof:lastmodified":1464127474,
+    "wof:name":"Russell Coin-Op Laundry Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "coin"
+    ]
+},
+  "bbox": [
+    -89.252049,
+    31.364109,
+    -89.252049,
+    31.364109
+],
+  "geometry": {"coordinates":[-89.252049,31.364109],"type":"Point"}
+}

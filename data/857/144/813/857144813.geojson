@@ -1,0 +1,71 @@
+{
+  "id": 857144813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.833738,30.415951,-88.833738,30.415951",
+    "geom:latitude":30.415951,
+    "geom:longitude":-88.833738,
+    "iso:country":"US",
+    "sg:address":"447 Bienville Blvd",
+    "sg:city":"Pearlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 533 7640",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NuV1SmM4aUzRiV5d1c9CN_30.415951_-88.833738@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123030,
+    "wof:geomhash":"5c057ff92dab77266da9d53b6df73d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857144813
+        }
+    ],
+    "wof:id":857144813,
+    "wof:lastmodified":1464123030,
+    "wof:name":"Hancock Industries-Gulf Coast",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -88.833738,
+    30.415951,
+    -88.833738,
+    30.415951
+],
+  "geometry": {"coordinates":[-88.833738,30.415951],"type":"Point"}
+}

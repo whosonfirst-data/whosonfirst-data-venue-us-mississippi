@@ -1,0 +1,70 @@
+{
+  "id": 857122849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.500967,34.448893,-89.500967,34.448893",
+    "geom:latitude":34.448893,
+    "geom:longitude":-89.500967,
+    "iso:country":"US",
+    "sg:address":"559 Hwy 7 N",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 7631",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.oxfordpets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eD6cYRpc9iaGwmO1gN0XJ_34.448893_-89.500967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122525,
+    "wof:geomhash":"d347074db48f6bb0345153912a0c0cd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857122849
+        }
+    ],
+    "wof:id":857122849,
+    "wof:lastmodified":1464122525,
+    "wof:name":"Oxford Lafayette Humane Soc",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -89.500967,
+    34.448893,
+    -89.500967,
+    34.448893
+],
+  "geometry": {"coordinates":[-89.500967,34.448893],"type":"Point"}
+}

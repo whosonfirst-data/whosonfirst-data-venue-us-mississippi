@@ -1,0 +1,71 @@
+{
+  "id": 857317431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.240055,30.31871,-89.240055,30.31871",
+    "geom:latitude":30.31871,
+    "geom:longitude":-89.240055,
+    "iso:country":"US",
+    "sg:address":"311 E 2nd St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 9408",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s7pab2AsoStRUCJN1ia1L_30.318710_-89.240055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126781,
+    "wof:geomhash":"19d86e028324ae9e297cb10892cf6d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857317431
+        }
+    ],
+    "wof:id":857317431,
+    "wof:lastmodified":1464126781,
+    "wof:name":"Julien K Byrne III",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.240055,
+    30.31871,
+    -89.240055,
+    30.31871
+],
+  "geometry": {"coordinates":[-89.240055,30.31871],"type":"Point"}
+}

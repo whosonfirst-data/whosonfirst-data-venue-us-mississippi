@@ -1,0 +1,71 @@
+{
+  "id": 857216111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133266,32.263143,-90.133266,32.263143",
+    "geom:latitude":32.263143,
+    "geom:longitude":-90.133266,
+    "iso:country":"US",
+    "sg:address":"440 S Pearson Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 3969",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZoquK3pIyxxMGC2pMeGbS_32.263143_-90.133266@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124535,
+    "wof:geomhash":"e73a0b326570a8feb896e65e028e09d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857216111
+        }
+    ],
+    "wof:id":857216111,
+    "wof:lastmodified":1464124535,
+    "wof:name":"Pearson Road Antiques",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.133266,
+    32.263143,
+    -90.133266,
+    32.263143
+],
+  "geometry": {"coordinates":[-90.13326600000001,32.263143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857162747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.838664,33.449149,-88.838664,33.449149",
+    "geom:latitude":33.449149,
+    "geom:longitude":-88.838664,
+    "iso:country":"US",
+    "sg:address":"824 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1993",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NowosRUDUSc0tER5kRAGA_33.449149_-88.838664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123418,
+    "wof:geomhash":"9fa91f0ad1571450feea02349f6cf1e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857162747
+        }
+    ],
+    "wof:id":857162747,
+    "wof:lastmodified":1464123418,
+    "wof:name":"Nails City",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.838664,
+    33.449149,
+    -88.838664,
+    33.449149
+],
+  "geometry": {"coordinates":[-88.83866399999999,33.449149],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857408025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.760166,34.919248,-89.760166,34.919248",
+    "geom:latitude":34.919248,
+    "geom:longitude":-89.760166,
+    "iso:country":"US",
+    "sg:address":"12944 Arbor Dr",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 2944",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EXaelRffuNeCFThs305BJ_34.919248_-89.760166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128796,
+    "wof:geomhash":"d735e4294089c74cb0b9cb0a222706d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857408025
+        }
+    ],
+    "wof:id":857408025,
+    "wof:lastmodified":1464128796,
+    "wof:name":"McGill Home Maintenance",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.760166,
+    34.919248,
+    -89.760166,
+    34.919248
+],
+  "geometry": {"coordinates":[-89.760166,34.919248],"type":"Point"}
+}

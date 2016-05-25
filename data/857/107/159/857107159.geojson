@@ -1,0 +1,66 @@
+{
+  "id": 857107159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.605508,34.200558,-90.605508,34.200558",
+    "geom:latitude":34.200558,
+    "geom:longitude":-90.605508,
+    "iso:country":"US",
+    "sg:address":"1410 W 2nd St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2689",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oDAg60uyKm4etAV46x8O3_34.200558_-90.605508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122072,
+    "wof:geomhash":"1c2963d5fbbb257c94d7e87246c66b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857107159
+        }
+    ],
+    "wof:id":857107159,
+    "wof:lastmodified":1464122072,
+    "wof:name":"Double Quick Grocery",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.605508,
+    34.200558,
+    -90.605508,
+    34.200558
+],
+  "geometry": {"coordinates":[-90.605508,34.200558],"type":"Point"}
+}

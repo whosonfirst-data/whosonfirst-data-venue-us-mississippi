@@ -1,0 +1,71 @@
+{
+  "id": 857255637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.799046,34.95026,-89.799046,34.95026",
+    "geom:latitude":34.95026,
+    "geom:longitude":-89.799046,
+    "iso:country":"US",
+    "sg:address":"10762 Oak Cir S",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 3489",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZHLiFYK15VeFa20IQwQc_34.950260_-89.799046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125388,
+    "wof:geomhash":"1a380321c1a94b81b710213e0a89d29f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857255637
+        }
+    ],
+    "wof:id":857255637,
+    "wof:lastmodified":1464125388,
+    "wof:name":"Universal Telecom",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -89.799046,
+    34.95026,
+    -89.799046,
+    34.95026
+],
+  "geometry": {"coordinates":[-89.799046,34.95026],"type":"Point"}
+}

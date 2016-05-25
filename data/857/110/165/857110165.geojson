@@ -1,0 +1,71 @@
+{
+  "id": 857110165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.125559,32.252658,-90.125559,32.252658",
+    "geom:latitude":32.252658,
+    "geom:longitude":-90.125559,
+    "iso:country":"US",
+    "sg:address":"904 Johnson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 1218",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fBmztfJ6dZbdZjCDfHoEj_32.252658_-90.125559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122175,
+    "wof:geomhash":"65928c501fcdd2358e4d54e0f53fb73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857110165
+        }
+    ],
+    "wof:id":857110165,
+    "wof:lastmodified":1464122175,
+    "wof:name":"Jenkins Sandblasting",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -90.125559,
+    32.252658,
+    -90.125559,
+    32.252658
+],
+  "geometry": {"coordinates":[-90.125559,32.252658],"type":"Point"}
+}

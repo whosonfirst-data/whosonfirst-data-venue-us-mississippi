@@ -1,0 +1,82 @@
+{
+  "id": 857484187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.101741,30.445204,-89.101741,30.445204",
+    "geom:latitude":30.445204,
+    "geom:longitude":-89.101741,
+    "iso:country":"US",
+    "sg:address":"11001 Highway 49",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/gulfport/180110-chick-fil-a/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 831 9599",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_745vYhNqbEVF055p82oxlF_30.445204_-89.101741@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130449,
+    "wof:geomhash":"e9aec6f80162f8ddde31e165c2abaaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857484187
+        }
+    ],
+    "wof:id":857484187,
+    "wof:lastmodified":1464130449,
+    "wof:name":"Chick-fil-A",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -89.101741,
+    30.445204,
+    -89.101741,
+    30.445204
+],
+  "geometry": {"coordinates":[-89.101741,30.445204],"type":"Point"}
+}

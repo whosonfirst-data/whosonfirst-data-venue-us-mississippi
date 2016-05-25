@@ -1,0 +1,75 @@
+{
+  "id": 857161877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.22101,32.347426,-90.22101,32.347426",
+    "geom:latitude":32.347426,
+    "geom:longitude":-90.22101,
+    "iso:country":"US",
+    "sg:address":"3930 Skyview Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 362 9818",
+    "sg:postcode":"39213",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85838363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01aWmEPvEULnsZ10oMiFog_32.347426_-90.221010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123401,
+    "wof:geomhash":"5d0694bdbc162fdf5edec63b2764c618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85838363,
+            "region_id":85688579,
+            "venue_id":857161877
+        }
+    ],
+    "wof:id":857161877,
+    "wof:lastmodified":1464123401,
+    "wof:name":"Christian Brotherhood Homes",
+    "wof:parent_id":85838363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.22101,
+    32.347426,
+    -90.22101,
+    32.347426
+],
+  "geometry": {"coordinates":[-90.22101000000001,32.347426],"type":"Point"}
+}

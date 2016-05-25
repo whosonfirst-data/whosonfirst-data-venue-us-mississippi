@@ -1,0 +1,71 @@
+{
+  "id": 857199001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655829,30.405838,-88.655829,30.405838",
+    "geom:latitude":30.405838,
+    "geom:longitude":-88.655829,
+    "iso:country":"US",
+    "sg:address":"4341 Gautier Vancleave Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 9844",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mv1BBYKEunfTsgZAuaKNf_30.405838_-88.655829@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124157,
+    "wof:geomhash":"e0d1356029c2a65b4514a375de49bc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857199001
+        }
+    ],
+    "wof:id":857199001,
+    "wof:lastmodified":1464124157,
+    "wof:name":"Orthodontic Specialists",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.655829,
+    30.405838,
+    -88.655829,
+    30.405838
+],
+  "geometry": {"coordinates":[-88.655829,30.405838],"type":"Point"}
+}

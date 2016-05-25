@@ -1,0 +1,71 @@
+{
+  "id": 857204717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.757872,34.216033,-88.757872,34.216033",
+    "geom:latitude":34.216033,
+    "geom:longitude":-88.757872,
+    "iso:country":"US",
+    "sg:address":"2890 Moore Ave",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 2527",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iM3wnXOXNnII7vdiMOUBY_34.216033_-88.757872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124284,
+    "wof:geomhash":"5688b930c23e9ce615c27596ab30f846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857204717
+        }
+    ],
+    "wof:id":857204717,
+    "wof:lastmodified":1464124284,
+    "wof:name":"Clean Rite Janitorial Services",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.757872,
+    34.216033,
+    -88.757872,
+    34.216033
+],
+  "geometry": {"coordinates":[-88.75787200000001,34.216033],"type":"Point"}
+}

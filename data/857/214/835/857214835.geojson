@@ -1,0 +1,83 @@
+{
+  "id": 857214835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.107412,30.463928,-89.107412,30.463928",
+    "geom:latitude":30.463928,
+    "geom:longitude":-89.107412,
+    "iso:country":"US",
+    "sg:address":"16123 Robinson Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 3789",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qdCdVKcE19lSgBuWEDpah_30.463928_-89.107412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124506,
+    "wof:geomhash":"84c712038cf7c146fda78eebe9a5d4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857214835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857214835
+        }
+    ],
+    "wof:id":857214835,
+    "wof:lastmodified":1464124506,
+    "wof:name":"Orange Grove Refrigeration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -89.107412,
+    30.463928,
+    -89.107412,
+    30.463928
+],
+  "geometry": {"coordinates":[-89.107412,30.463928],"type":"Point"}
+}

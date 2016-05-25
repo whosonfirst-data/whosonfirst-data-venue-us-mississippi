@@ -1,0 +1,71 @@
+{
+  "id": 857381325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.303916,31.32564,-89.303916,31.32564",
+    "geom:latitude":31.32564,
+    "geom:longitude":-89.303916,
+    "iso:country":"US",
+    "sg:address":"103 Broad St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1825",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43XLX14DwxMq8qd2sT5nDY_31.325640_-89.303916@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128159,
+    "wof:geomhash":"c64b17472fcb4836e127890c23bd9acd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857381325
+        }
+    ],
+    "wof:id":857381325,
+    "wof:lastmodified":1464128159,
+    "wof:name":"Richard Brantley-Land Srvyrs",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -89.303916,
+    31.32564,
+    -89.303916,
+    31.32564
+],
+  "geometry": {"coordinates":[-89.303916,31.32564],"type":"Point"}
+}

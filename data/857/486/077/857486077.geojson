@@ -1,0 +1,72 @@
+{
+  "id": 857486077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.290662,31.325531,-89.290662,31.325531",
+    "geom:latitude":31.325531,
+    "geom:longitude":-89.290662,
+    "iso:country":"US",
+    "sg:address":"206 W Front St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hattiesburg/157741-206-front/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 5677",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32SAgecKD6DvipyIORVSyP_31.325191_-89.290956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130486,
+    "wof:geomhash":"cf60c2d89bdbc71f4efb5adc2f2ac2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857486077
+        }
+    ],
+    "wof:id":857486077,
+    "wof:lastmodified":1464130486,
+    "wof:name":"206 Front",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.290662,
+    31.325531,
+    -89.290662,
+    31.325531
+],
+  "geometry": {"coordinates":[-89.290662,31.325531],"type":"Point"}
+}

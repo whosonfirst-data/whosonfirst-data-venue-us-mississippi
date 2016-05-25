@@ -1,0 +1,71 @@
+{
+  "id": 857207723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.551,34.366422,-89.551,34.366422",
+    "geom:latitude":34.366422,
+    "geom:longitude":-89.551,
+    "iso:country":"US",
+    "sg:address":"1601 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 0311",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RzsfJQQEpouMUo5LJ781F_34.366422_-89.551000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124345,
+    "wof:geomhash":"771d39aecd9af090c48512da4a9e019c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857207723
+        }
+    ],
+    "wof:id":857207723,
+    "wof:lastmodified":1464124345,
+    "wof:name":"Massey Property Mgmt",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -89.551,
+    34.366422,
+    -89.551,
+    34.366422
+],
+  "geometry": {"coordinates":[-89.551,34.366422],"type":"Point"}
+}

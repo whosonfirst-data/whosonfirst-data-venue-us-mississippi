@@ -1,0 +1,73 @@
+{
+  "id": 857211169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.777298,34.938672,-89.777298,34.938672",
+    "geom:latitude":34.938672,
+    "geom:longitude":-89.777298,
+    "iso:country":"US",
+    "sg:address":"4780 Polk Ln",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 895 4145",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38kD8RERAtoUtYUpBZiMsl_34.938672_-89.777298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124418,
+    "wof:geomhash":"0cb4874825bc15ad22472357ac5f6512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857211169
+        }
+    ],
+    "wof:id":857211169,
+    "wof:lastmodified":1464124418,
+    "wof:name":"Perfection Landscape Mgmt",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.777298,
+    34.938672,
+    -89.777298,
+    34.938672
+],
+  "geometry": {"coordinates":[-89.777298,34.938672],"type":"Point"}
+}

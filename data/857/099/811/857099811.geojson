@@ -1,0 +1,75 @@
+{
+  "id": 857099811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.596079,33.866355,-88.596079,33.866355",
+    "geom:latitude":33.866355,
+    "geom:longitude":-88.596079,
+    "iso:country":"US",
+    "sg:address":"6115 Hwy 45 N",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 3777",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KUNAfG79l38WV4FoFSXhG_33.866355_-88.596079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121900,
+    "wof:geomhash":"2e2782a7572ab5d7f84f2775fb3d0527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857099811
+        }
+    ],
+    "wof:id":857099811,
+    "wof:lastmodified":1464121900,
+    "wof:name":"J & S Muffler Shop",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.596079,
+    33.866355,
+    -88.596079,
+    33.866355
+],
+  "geometry": {"coordinates":[-88.596079,33.866355],"type":"Point"}
+}

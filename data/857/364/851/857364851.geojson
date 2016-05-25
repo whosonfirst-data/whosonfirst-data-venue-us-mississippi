@@ -1,0 +1,71 @@
+{
+  "id": 857364851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527624,32.512271,-88.527624,32.512271",
+    "geom:latitude":32.512271,
+    "geom:longitude":-88.527624,
+    "iso:country":"US",
+    "sg:address":"9521 NE Cole Rd",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 8372",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eGuNHXy5nUfeXetPv9yw2_32.512271_-88.527624@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127801,
+    "wof:geomhash":"e689ab028cbdbe3fc58f37a76e6bf3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857364851
+        }
+    ],
+    "wof:id":857364851,
+    "wof:lastmodified":1464127801,
+    "wof:name":"Georgia Portis",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.527624,
+    32.512271,
+    -88.527624,
+    32.512271
+],
+  "geometry": {"coordinates":[-88.527624,32.512271],"type":"Point"}
+}

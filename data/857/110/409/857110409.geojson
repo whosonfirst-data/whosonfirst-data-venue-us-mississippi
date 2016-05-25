@@ -1,0 +1,71 @@
+{
+  "id": 857110409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.510526,34.363792,-89.510526,34.363792",
+    "geom:latitude":34.363792,
+    "geom:longitude":-89.510526,
+    "iso:country":"US",
+    "sg:address":"502 Bramlett Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 2398",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JiOAZvU29NlpHr59Wd9LS_34.363792_-89.510526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122180,
+    "wof:geomhash":"7b149c1dec81c77eb4b434780ff65b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857110409
+        }
+    ],
+    "wof:id":857110409,
+    "wof:lastmodified":1464122180,
+    "wof:name":"Water Treatment Plant",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.510526,
+    34.363792,
+    -89.510526,
+    34.363792
+],
+  "geometry": {"coordinates":[-89.510526,34.363792],"type":"Point"}
+}

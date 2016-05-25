@@ -1,0 +1,74 @@
+{
+  "id": 857480921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746342,34.255616,-88.746342,34.255616",
+    "geom:latitude":34.255616,
+    "geom:longitude":-88.746342,
+    "iso:country":"US",
+    "sg:address":"115 N Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/132920-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 9929",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HLSCSqhd9704fBhDYaFws_34.255616_-88.746342@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130386,
+    "wof:geomhash":"3b27b3b100def10d589452e78659bfdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857480921
+        }
+    ],
+    "wof:id":857480921,
+    "wof:lastmodified":1464130386,
+    "wof:name":"Subway",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.746342,
+    34.255616,
+    -88.746342,
+    34.255616
+],
+  "geometry": {"coordinates":[-88.746342,34.255616],"type":"Point"}
+}

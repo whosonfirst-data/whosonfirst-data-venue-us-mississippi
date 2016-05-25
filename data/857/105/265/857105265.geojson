@@ -1,0 +1,72 @@
+{
+  "id": 857105265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.297392,31.324545,-89.297392,31.324545",
+    "geom:latitude":31.324545,
+    "geom:longitude":-89.297392,
+    "iso:country":"US",
+    "sg:address":"302 2nd Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 3252",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "leasing"
+    ],
+    "sg:website":"www.fclease.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jkHQOx8XI0jyqFYGVMPVU_31.324545_-89.297392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122031,
+    "wof:geomhash":"e856fafa196be565c48fc1e7a50110dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857105265
+        }
+    ],
+    "wof:id":857105265,
+    "wof:lastmodified":1464122031,
+    "wof:name":"First Continental Leasing",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.297392,
+    31.324545,
+    -89.297392,
+    31.324545
+],
+  "geometry": {"coordinates":[-89.297392,31.324545],"type":"Point"}
+}

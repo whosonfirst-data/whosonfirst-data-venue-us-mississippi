@@ -1,0 +1,71 @@
+{
+  "id": 857316183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.043067,32.378759,-90.043067,32.378759",
+    "geom:latitude":32.378759,
+    "geom:longitude":-90.043067,
+    "iso:country":"US",
+    "sg:address":"1188 Old Fannin Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 922 4782",
+    "sg:postcode":"39047",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85807457,
+        102084869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yqxvhng1Ir2FAYGETAz7y_32.378759_-90.043067@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126750,
+    "wof:geomhash":"4fecf9b5b805934a8dc19d68fa8f6e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "neighbourhood_id":85807457,
+            "region_id":85688579,
+            "venue_id":857316183
+        }
+    ],
+    "wof:id":857316183,
+    "wof:lastmodified":1464126750,
+    "wof:name":"Old Fannin Road Self-Storage",
+    "wof:parent_id":85807457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.043067,
+    32.378759,
+    -90.043067,
+    32.378759
+],
+  "geometry": {"coordinates":[-90.04306699999999,32.378759],"type":"Point"}
+}

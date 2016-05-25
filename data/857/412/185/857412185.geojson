@@ -1,0 +1,67 @@
+{
+  "id": 857412185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.643903,33.612857,-88.643903,33.612857",
+    "geom:latitude":33.612857,
+    "geom:longitude":-88.643903,
+    "iso:country":"US",
+    "sg:address":"620 5th St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 2191",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:website":"www.westpoint.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MnjBQnatCemxZnUQbyIFU_33.612857_-88.643903@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128907,
+    "wof:geomhash":"7acaff77606b3db7cc5eab135a0830c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857412185
+        }
+    ],
+    "wof:id":857412185,
+    "wof:lastmodified":1464128907,
+    "wof:name":"Fifth Street School",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.643903,
+    33.612857,
+    -88.643903,
+    33.612857
+],
+  "geometry": {"coordinates":[-88.64390299999999,33.612857],"type":"Point"}
+}

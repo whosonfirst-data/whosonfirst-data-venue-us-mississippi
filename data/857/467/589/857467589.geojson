@@ -1,0 +1,73 @@
+{
+  "id": 857467589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.550927,30.365477,-88.550927,30.365477",
+    "geom:latitude":30.365477,
+    "geom:longitude":-88.550927,
+    "iso:country":"US",
+    "sg:address":"1509 Jackson Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 8541",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lW9aN0VtObxd3ucs8Z2Eh_30.365477_-88.550927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130117,
+    "wof:geomhash":"c79ae67042e1b2b6aa582a44b0aff03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857467589
+        }
+    ],
+    "wof:id":857467589,
+    "wof:lastmodified":1464130117,
+    "wof:name":"American General Corporation",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.550927,
+    30.365477,
+    -88.550927,
+    30.365477
+],
+  "geometry": {"coordinates":[-88.550927,30.365477],"type":"Point"}
+}

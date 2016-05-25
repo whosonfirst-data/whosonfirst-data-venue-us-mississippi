@@ -1,0 +1,71 @@
+{
+  "id": 857112701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.715029,32.38819,-88.715029,32.38819",
+    "geom:latitude":32.38819,
+    "geom:longitude":-88.715029,
+    "iso:country":"US",
+    "sg:address":"3605 29th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 5616",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PM5bnNf4t8aL9f2XzyuTq_32.388190_-88.715029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122246,
+    "wof:geomhash":"a7bcb123abe2f02cf6f2bd2569b8ca24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857112701
+        }
+    ],
+    "wof:id":857112701,
+    "wof:lastmodified":1464122246,
+    "wof:name":"Angelas Beauty Secrets",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.715029,
+    32.38819,
+    -88.715029,
+    32.38819
+],
+  "geometry": {"coordinates":[-88.715029,32.38819],"type":"Point"}
+}

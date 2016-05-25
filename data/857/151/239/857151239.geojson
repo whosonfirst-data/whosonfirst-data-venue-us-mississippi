@@ -1,0 +1,73 @@
+{
+  "id": 857151239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.083069,30.449407,-89.083069,30.449407",
+    "geom:latitude":30.449407,
+    "geom:longitude":-89.083069,
+    "iso:country":"US",
+    "sg:address":"14433 Dedeaux Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 831 1199",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AFk7RQlJw5bXh13muWUyv_30.449407_-89.083069@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123173,
+    "wof:geomhash":"b11451886628664926d35ba9a128672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857151239
+        }
+    ],
+    "wof:id":857151239,
+    "wof:lastmodified":1464123173,
+    "wof:name":"Professional Hair Care",
+    "wof:parent_id":85868905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.083069,
+    30.449407,
+    -89.083069,
+    30.449407
+],
+  "geometry": {"coordinates":[-89.08306899999999,30.449407],"type":"Point"}
+}

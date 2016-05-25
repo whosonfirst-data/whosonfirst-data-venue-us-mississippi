@@ -1,0 +1,80 @@
+{
+  "id": 857174965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.555118,33.871654,-88.555118,33.871654",
+    "geom:latitude":33.871654,
+    "geom:longitude":-88.555118,
+    "iso:country":"US",
+    "sg:address":"20281 Coontail Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 2431",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "parts",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sgTkGumC2cF4zBm8RHEfy_33.871654_-88.555118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123693,
+    "wof:geomhash":"d50509b68478cf4ae1477e8e485e88f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857174965
+        }
+    ],
+    "wof:id":857174965,
+    "wof:lastmodified":1464123693,
+    "wof:name":"Schrock S Auto Parts",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.555118,
+    33.871654,
+    -88.555118,
+    33.871654
+],
+  "geometry": {"coordinates":[-88.55511799999999,33.871654],"type":"Point"}
+}

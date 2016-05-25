@@ -1,0 +1,75 @@
+{
+  "id": 857336519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541759,33.821441,-88.541759,33.821441",
+    "geom:latitude":33.821441,
+    "geom:longitude":-88.541759,
+    "iso:country":"US",
+    "sg:address":"412 Locust St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4532",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body",
+        "auto",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LJUe5GOmialYn3FyzUTMr_33.821441_-88.541759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127197,
+    "wof:geomhash":"bba1c202060be93b2350ca953792f232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857336519
+        }
+    ],
+    "wof:id":857336519,
+    "wof:lastmodified":1464127197,
+    "wof:name":"Terry's Upholstery",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -88.541759,
+    33.821441,
+    -88.541759,
+    33.821441
+],
+  "geometry": {"coordinates":[-88.541759,33.821441],"type":"Point"}
+}

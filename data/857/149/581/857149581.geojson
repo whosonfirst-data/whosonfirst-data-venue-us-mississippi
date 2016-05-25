@@ -1,0 +1,71 @@
+{
+  "id": 857149581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.873787,30.437486,-88.873787,30.437486",
+    "geom:latitude":30.437486,
+    "geom:longitude":-88.873787,
+    "iso:country":"US",
+    "sg:address":"6705 Neshoba St",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 9261",
+    "sg:postcode":"39532",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vWh04hyqnJg5uJttSGK9f_30.437486_-88.873787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123140,
+    "wof:geomhash":"925f91c77d1118e8421713e7bf79df0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857149581
+        }
+    ],
+    "wof:id":857149581,
+    "wof:lastmodified":1464123140,
+    "wof:name":"Joseph C Bosarge",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.873787,
+    30.437486,
+    -88.873787,
+    30.437486
+],
+  "geometry": {"coordinates":[-88.87378699999999,30.437486],"type":"Point"}
+}

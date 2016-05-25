@@ -1,0 +1,71 @@
+{
+  "id": 857436231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.410922,32.863484,-90.410922,32.863484",
+    "geom:latitude":32.863484,
+    "geom:longitude":-90.410922,
+    "iso:country":"US",
+    "sg:address":"398 W 11th St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 5636",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VZL08Q4QhTLYXZ9SPVpJu_32.863484_-90.410922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129494,
+    "wof:geomhash":"095f283ce23f91355c28da592ec331c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857436231
+        }
+    ],
+    "wof:id":857436231,
+    "wof:lastmodified":1464129494,
+    "wof:name":"Jerry Water Bodyshop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.410922,
+    32.863484,
+    -90.410922,
+    32.863484
+],
+  "geometry": {"coordinates":[-90.410922,32.863484],"type":"Point"}
+}

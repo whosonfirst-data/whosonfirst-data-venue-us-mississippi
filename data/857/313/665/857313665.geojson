@@ -1,0 +1,71 @@
+{
+  "id": 857313665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.58303,34.19851,-90.58303,34.19851",
+    "geom:latitude":34.19851,
+    "geom:longitude":-90.58303,
+    "iso:country":"US",
+    "sg:address":"306 Cherry St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1700",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M3j3hMzY8bQlRGAaj06Jx_34.198510_-90.583030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126696,
+    "wof:geomhash":"d49915cd8f6806f06f06ffc9801ee82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857313665
+        }
+    ],
+    "wof:id":857313665,
+    "wof:lastmodified":1464126696,
+    "wof:name":"Dye Day Care",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -90.58303,
+    34.19851,
+    -90.58303,
+    34.19851
+],
+  "geometry": {"coordinates":[-90.58302999999999,34.19851],"type":"Point"}
+}

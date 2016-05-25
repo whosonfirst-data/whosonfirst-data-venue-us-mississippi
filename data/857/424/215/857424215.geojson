@@ -1,0 +1,66 @@
+{
+  "id": 857424215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.48539,33.872221,-88.48539,33.872221",
+    "geom:latitude":33.872221,
+    "geom:longitude":-88.48539,
+    "iso:country":"US",
+    "sg:address":"50068 Airport Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 4800",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EGVAM1qAhhLaryxHPv970_33.872221_-88.485390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129199,
+    "wof:geomhash":"f377310334612f2e1344202ef87033d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857424215
+        }
+    ],
+    "wof:id":857424215,
+    "wof:lastmodified":1464129199,
+    "wof:name":"Monroe County Airport",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.48539,
+    33.872221,
+    -88.48539,
+    33.872221
+],
+  "geometry": {"coordinates":[-88.48539,33.872221],"type":"Point"}
+}

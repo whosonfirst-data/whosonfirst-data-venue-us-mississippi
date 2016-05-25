@@ -1,0 +1,66 @@
+{
+  "id": 857328267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746389,34.25008,-88.746389,34.25008",
+    "geom:latitude":34.25008,
+    "geom:longitude":-88.746389,
+    "iso:country":"US",
+    "sg:address":"515 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 791 8400",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KsaLOmxnSe2g0mQKO07vO_34.250080_-88.746389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127017,
+    "wof:geomhash":"09edabfb9612e537db22de0150053cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857328267
+        }
+    ],
+    "wof:id":857328267,
+    "wof:lastmodified":1464127017,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.746389,
+    34.25008,
+    -88.746389,
+    34.25008
+],
+  "geometry": {"coordinates":[-88.74638899999999,34.25008],"type":"Point"}
+}

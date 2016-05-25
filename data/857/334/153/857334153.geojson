@@ -1,0 +1,71 @@
+{
+  "id": 857334153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.58246,34.187866,-90.58246,34.187866",
+    "geom:latitude":34.187866,
+    "geom:longitude":-90.58246,
+    "iso:country":"US",
+    "sg:address":"808 S State St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9342",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49xTVlIG9IOFZ5ryNvF0DO_34.187866_-90.582460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127150,
+    "wof:geomhash":"6f03f858bcdc9ef73ae9b9e5e00c8465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857334153
+        }
+    ],
+    "wof:id":857334153,
+    "wof:lastmodified":1464127150,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.58246,
+    34.187866,
+    -90.58246,
+    34.187866
+],
+  "geometry": {"coordinates":[-90.58246,34.187866],"type":"Point"}
+}

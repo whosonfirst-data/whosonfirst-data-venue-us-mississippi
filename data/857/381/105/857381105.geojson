@@ -1,0 +1,73 @@
+{
+  "id": 857381105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528062,30.401223,-88.528062,30.401223",
+    "geom:latitude":30.401223,
+    "geom:longitude":-88.528062,
+    "iso:country":"US",
+    "sg:address":"4213 Walter St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 9606",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q7XDclqtVVCTCNd9Hc1XR_30.401223_-88.528062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128152,
+    "wof:geomhash":"0f286626040996c5b2a4ce2f684474db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857381105
+        }
+    ],
+    "wof:id":857381105,
+    "wof:lastmodified":1464128152,
+    "wof:name":"Casa De Lola Assisted Living",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.528062,
+    30.401223,
+    -88.528062,
+    30.401223
+],
+  "geometry": {"coordinates":[-88.52806200000001,30.401223],"type":"Point"}
+}

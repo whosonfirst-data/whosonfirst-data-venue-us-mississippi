@@ -1,0 +1,80 @@
+{
+  "id": 857424993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.215819,32.274431,-90.215819,32.274431",
+    "geom:latitude":32.274431,
+    "geom:longitude":-90.215819,
+    "iso:country":"US",
+    "sg:address":"2301 Terry Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 346 8134",
+    "sg:postcode":"39204",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85830085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mveEUyc0gZumaIdPa7NVS_32.274431_-90.215819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129224,
+    "wof:geomhash":"3ad7b6e7e5fc111f171db43a528c14c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85830085,
+            "region_id":85688579,
+            "venue_id":857424993
+        }
+    ],
+    "wof:id":857424993,
+    "wof:lastmodified":1464129224,
+    "wof:name":"M B Technical Svc Inc",
+    "wof:parent_id":85830085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.215819,
+    32.274431,
+    -90.215819,
+    32.274431
+],
+  "geometry": {"coordinates":[-90.215819,32.274431],"type":"Point"}
+}

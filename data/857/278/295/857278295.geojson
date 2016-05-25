@@ -1,0 +1,71 @@
+{
+  "id": 857278295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554739,30.370315,-88.554739,30.370315",
+    "geom:latitude":30.370315,
+    "geom:longitude":-88.554739,
+    "iso:country":"US",
+    "sg:address":"3676 Pascagoula St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3971",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c9iDRSEpZIwuJz8LdjISl_30.370315_-88.554739@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125875,
+    "wof:geomhash":"9e435aa530ccf4e00e2ed05b76fbf86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857278295
+        }
+    ],
+    "wof:id":857278295,
+    "wof:lastmodified":1464125875,
+    "wof:name":"Annex Restaurant",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.554739,
+    30.370315,
+    -88.554739,
+    30.370315
+],
+  "geometry": {"coordinates":[-88.554739,30.370315],"type":"Point"}
+}

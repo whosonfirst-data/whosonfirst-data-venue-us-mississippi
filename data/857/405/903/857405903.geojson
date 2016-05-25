@@ -1,0 +1,71 @@
+{
+  "id": 857405903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557475,34.205689,-90.557475,34.205689",
+    "geom:latitude":34.205689,
+    "geom:longitude":-90.557475,
+    "iso:country":"US",
+    "sg:address":"200 Louisiana Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 8416",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tNXtE5bVsY9PtdJ56Qt3d_34.205689_-90.557475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128749,
+    "wof:geomhash":"5592bb85ad4a50f2f98a4cdb4afd93cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857405903
+        }
+    ],
+    "wof:id":857405903,
+    "wof:lastmodified":1464128749,
+    "wof:name":"Clarksdale City Shop",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.557475,
+    34.205689,
+    -90.557475,
+    34.205689
+],
+  "geometry": {"coordinates":[-90.557475,34.205689],"type":"Point"}
+}

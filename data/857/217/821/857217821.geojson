@@ -1,0 +1,73 @@
+{
+  "id": 857217821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.777948,30.411671,-88.777948,30.411671",
+    "geom:latitude":30.411671,
+    "geom:longitude":-88.777948,
+    "iso:country":"US",
+    "sg:address":"10 Franklin Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 1565",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OSz3hA3LsiBzUS6DnylYU_30.411671_-88.777948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124571,
+    "wof:geomhash":"040a817ef104b104334e33794722800e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857217821
+        }
+    ],
+    "wof:id":857217821,
+    "wof:lastmodified":1464124571,
+    "wof:name":"Zellner's Import Auto Svc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.777948,
+    30.411671,
+    -88.777948,
+    30.411671
+],
+  "geometry": {"coordinates":[-88.77794799999999,30.411671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857339205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695792,32.376359,-88.695792,32.376359",
+    "geom:latitude":32.376359,
+    "geom:longitude":-88.695792,
+    "iso:country":"US",
+    "sg:address":"1820 17th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 5882",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20eS0O31WBToW0DBsTmamX_32.376359_-88.695792@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127255,
+    "wof:geomhash":"9ea27eaed97fd41a9a1e8730fe90fc3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857339205
+        }
+    ],
+    "wof:id":857339205,
+    "wof:lastmodified":1464127255,
+    "wof:name":"19th Street Package Store",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -88.695792,
+    32.376359,
+    -88.695792,
+    32.376359
+],
+  "geometry": {"coordinates":[-88.695792,32.376359],"type":"Point"}
+}

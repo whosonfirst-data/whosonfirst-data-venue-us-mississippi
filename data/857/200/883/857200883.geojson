@@ -1,0 +1,71 @@
+{
+  "id": 857200883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.644195,30.424299,-88.644195,30.424299",
+    "geom:latitude":30.424299,
+    "geom:longitude":-88.644195,
+    "iso:country":"US",
+    "sg:address":"2109 Prince George Dr",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 5656",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZBTiWx24zihPHFRJJLlk5_30.424299_-88.644195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124191,
+    "wof:geomhash":"0f3801a7c391a5d221aacf42074394a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857200883
+        }
+    ],
+    "wof:id":857200883,
+    "wof:lastmodified":1464124191,
+    "wof:name":"H & K House Paints",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -88.644195,
+    30.424299,
+    -88.644195,
+    30.424299
+],
+  "geometry": {"coordinates":[-88.644195,30.424299],"type":"Point"}
+}

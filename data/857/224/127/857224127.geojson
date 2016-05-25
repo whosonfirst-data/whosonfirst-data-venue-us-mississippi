@@ -1,0 +1,73 @@
+{
+  "id": 857224127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.396462,31.407187,-89.396462,31.407187",
+    "geom:latitude":31.407187,
+    "geom:longitude":-89.396462,
+    "iso:country":"US",
+    "sg:address":"7554 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 2583",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "fluid",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zeApPMWAZyxSR00WH1JYw_31.407187_-89.396462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124694,
+    "wof:geomhash":"f88aa12ec33585744074375b3b7bdba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857224127
+        }
+    ],
+    "wof:id":857224127,
+    "wof:lastmodified":1464124694,
+    "wof:name":"Dairy Fresh Corp",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fluid",
+        "milk"
+    ]
+},
+  "bbox": [
+    -89.396462,
+    31.407187,
+    -89.396462,
+    31.407187
+],
+  "geometry": {"coordinates":[-89.396462,31.407187],"type":"Point"}
+}

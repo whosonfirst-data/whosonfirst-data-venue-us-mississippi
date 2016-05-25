@@ -1,0 +1,73 @@
+{
+  "id": 857306635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.654872,30.592565,-88.654872,30.592565",
+    "geom:latitude":30.592565,
+    "geom:longitude":-88.654872,
+    "iso:country":"US",
+    "sg:address":"17309 Foxwood Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 1879",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "commercial",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nRCZauRT6tFn7UMG4dO87_30.592565_-88.654872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126551,
+    "wof:geomhash":"b4bff4fe006c0158b22fdc3e87812186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857306635
+        }
+    ],
+    "wof:id":857306635,
+    "wof:lastmodified":1464126551,
+    "wof:name":"Precision Coatings",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.654872,
+    30.592565,
+    -88.654872,
+    30.592565
+],
+  "geometry": {"coordinates":[-88.654872,30.592565],"type":"Point"}
+}

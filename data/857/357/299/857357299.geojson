@@ -1,0 +1,73 @@
+{
+  "id": 857357299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158448,32.210085,-90.158448,32.210085",
+    "geom:latitude":32.210085,
+    "geom:longitude":-90.158448,
+    "iso:country":"US",
+    "sg:address":"152 Brandon Ave",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 939 1936",
+    "sg:postcode":"39218",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969941,
+        102084869,
+        85842145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ennfu3ODZtKYJEUtEybnu_32.210085_-90.158448@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127640,
+    "wof:geomhash":"68be215d053d8786308c5ab617d37f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969941,
+            "neighbourhood_id":85842145,
+            "region_id":85688579,
+            "venue_id":857357299
+        }
+    ],
+    "wof:id":857357299,
+    "wof:lastmodified":1464127640,
+    "wof:name":"Richland Fire Dept",
+    "wof:parent_id":85842145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.158448,
+    32.210085,
+    -90.158448,
+    32.210085
+],
+  "geometry": {"coordinates":[-90.15844800000001,32.210085],"type":"Point"}
+}

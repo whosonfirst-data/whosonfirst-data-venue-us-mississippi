@@ -1,0 +1,75 @@
+{
+  "id": 857307043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540698,33.824539,-88.540698,33.824539",
+    "geom:latitude":33.824539,
+    "geom:longitude":-88.540698,
+    "iso:country":"US",
+    "sg:address":"315 E Commerce St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 6450",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85825473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xAy4iRF1O4pLF8D13ncUO_33.824539_-88.540698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126558,
+    "wof:geomhash":"2d99330cb55b8a77bb4f3aa2670aa5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85825473,
+            "region_id":85688579,
+            "venue_id":857307043
+        }
+    ],
+    "wof:id":857307043,
+    "wof:lastmodified":1464126558,
+    "wof:name":"Chevron",
+    "wof:parent_id":85825473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.540698,
+    33.824539,
+    -88.540698,
+    33.824539
+],
+  "geometry": {"coordinates":[-88.54069800000001,33.824539],"type":"Point"}
+}

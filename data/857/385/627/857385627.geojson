@@ -1,0 +1,71 @@
+{
+  "id": 857385627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.76384,34.810139,-89.76384,34.810139",
+    "geom:latitude":34.810139,
+    "geom:longitude":-89.76384,
+    "iso:country":"US",
+    "sg:address":"3403 Red Banks Rd S",
+    "sg:city":"Byhalia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 838 2712",
+    "sg:postcode":"38611",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MWltkQKTJ3e9zyXESZwRm_34.810139_-89.763840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128309,
+    "wof:geomhash":"dd48a4eeef4f0e947e6cba8ad40c6352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857385627
+        }
+    ],
+    "wof:id":857385627,
+    "wof:lastmodified":1464128309,
+    "wof:name":"Ingrams Mill Grocery",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.76384,
+    34.810139,
+    -89.76384,
+    34.810139
+],
+  "geometry": {"coordinates":[-89.76384,34.810139],"type":"Point"}
+}

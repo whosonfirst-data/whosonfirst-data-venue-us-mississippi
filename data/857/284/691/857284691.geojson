@@ -1,0 +1,71 @@
+{
+  "id": 857284691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.51215,31.264391,-89.51215,31.264391",
+    "geom:latitude":31.264391,
+    "geom:longitude":-89.51215,
+    "iso:country":"US",
+    "sg:address":"31 Gussy Nobles Rd",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 1166",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38EIBjfq9x18Cny1zdGa6M_31.264391_-89.512150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126015,
+    "wof:geomhash":"e2df255ce67559f52d356e7b925e8f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857284691
+        }
+    ],
+    "wof:id":857284691,
+    "wof:lastmodified":1464126015,
+    "wof:name":"Lamar Lock & Key",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.51215,
+    31.264391,
+    -89.51215,
+    31.264391
+],
+  "geometry": {"coordinates":[-89.51215000000001,31.264391],"type":"Point"}
+}

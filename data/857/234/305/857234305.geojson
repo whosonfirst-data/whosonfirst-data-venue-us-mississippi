@@ -1,0 +1,71 @@
+{
+  "id": 857234305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.543501,34.379695,-89.543501,34.379695",
+    "geom:latitude":34.379695,
+    "geom:longitude":-89.543501,
+    "iso:country":"US",
+    "sg:address":"807 College Hill Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 8137",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GZIADd1NN25iscDiniEKl_34.379695_-89.543501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124887,
+    "wof:geomhash":"213d424262d40ba7456efa9d04149337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857234305
+        }
+    ],
+    "wof:id":857234305,
+    "wof:lastmodified":1464124887,
+    "wof:name":"Oxford Fluff & Fold",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -89.543501,
+    34.379695,
+    -89.543501,
+    34.379695
+],
+  "geometry": {"coordinates":[-89.54350100000001,34.379695],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857189897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.746384,34.251975,-88.746384,34.251975",
+    "geom:latitude":34.251975,
+    "geom:longitude":-88.746384,
+    "iso:country":"US",
+    "sg:address":"301 S Thomas St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 6814",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tJ9oL13Q8KbcR93q0a5MW_34.251975_-88.746384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123988,
+    "wof:geomhash":"4e2a6144dcc0a0c9ed523a08c667ad97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857189897
+        }
+    ],
+    "wof:id":857189897,
+    "wof:lastmodified":1464123988,
+    "wof:name":"Tupelo Training Center",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -88.746384,
+    34.251975,
+    -88.746384,
+    34.251975
+],
+  "geometry": {"coordinates":[-88.74638400000001,34.251975],"type":"Point"}
+}

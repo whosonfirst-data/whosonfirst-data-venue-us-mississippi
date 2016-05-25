@@ -1,0 +1,68 @@
+{
+  "id": 857336645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.307101,31.315471,-89.307101,31.315471",
+    "geom:latitude":31.315471,
+    "geom:longitude":-89.307101,
+    "iso:country":"US",
+    "sg:address":"408 Broadway Dr",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 2669",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969939,
+        102086673,
+        85857239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G39cia3F4k6W8kwRsi7br_31.315471_-89.307101@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127200,
+    "wof:geomhash":"649bb57a4c7f7ccf57ad04ee2e4342de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85857239,
+            "region_id":85688579,
+            "venue_id":857336645
+        }
+    ],
+    "wof:id":857336645,
+    "wof:lastmodified":1464127200,
+    "wof:name":"Advantage Insurance Inc",
+    "wof:parent_id":85857239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.307101,
+    31.315471,
+    -89.307101,
+    31.315471
+],
+  "geometry": {"coordinates":[-89.307101,31.315471],"type":"Point"}
+}

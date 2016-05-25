@@ -1,0 +1,71 @@
+{
+  "id": 857167175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.646516,30.371694,-88.646516,30.371694",
+    "geom:latitude":30.371694,
+    "geom:longitude":-88.646516,
+    "iso:country":"US",
+    "sg:address":"1916 Ladnier Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 9911",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qNpZrhVcpfaCaLnRVVBDg_30.371694_-88.646516@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123515,
+    "wof:geomhash":"e114ce6869eb25bfa3f039b19a37b0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857167175
+        }
+    ],
+    "wof:id":857167175,
+    "wof:lastmodified":1464123515,
+    "wof:name":"Missions To Military",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -88.646516,
+    30.371694,
+    -88.646516,
+    30.371694
+],
+  "geometry": {"coordinates":[-88.64651600000001,30.371694],"type":"Point"}
+}

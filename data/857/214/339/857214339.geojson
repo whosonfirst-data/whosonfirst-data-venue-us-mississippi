@@ -1,0 +1,74 @@
+{
+  "id": 857214339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692132,32.328254,-88.692132,32.328254",
+    "geom:latitude":32.328254,
+    "geom:longitude":-88.692132,
+    "iso:country":"US",
+    "sg:address":"1151 Crestview Cir",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 485 3030",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.wmdn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_407ViCZtEssCl3jswQBqPR_32.328254_-88.692132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124496,
+    "wof:geomhash":"abdc0a5a252a18fcd0739055fb8e6e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857214339
+        }
+    ],
+    "wof:id":857214339,
+    "wof:lastmodified":1464124496,
+    "wof:name":"WGBC",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -88.692132,
+    32.328254,
+    -88.692132,
+    32.328254
+],
+  "geometry": {"coordinates":[-88.692132,32.328254],"type":"Point"}
+}

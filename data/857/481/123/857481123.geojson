@@ -1,0 +1,76 @@
+{
+  "id": 857481123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693193,34.315557,-88.693193,34.315557",
+    "geom:latitude":34.315557,
+    "geom:longitude":-88.693193,
+    "iso:country":"US",
+    "sg:address":"885 Barnes Crossing Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/saltillo/85057-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 4009",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838449,
+        102083171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bt1lXaq6rLatdAj5FxfNG_34.315557_-88.693193@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130390,
+    "wof:geomhash":"c8f4d6dc7e2160c9236ff8a00667c329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "neighbourhood_id":85838449,
+            "region_id":85688579,
+            "venue_id":857481123
+        }
+    ],
+    "wof:id":857481123,
+    "wof:lastmodified":1464130390,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85838449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.693193,
+    34.315557,
+    -88.693193,
+    34.315557
+],
+  "geometry": {"coordinates":[-88.69319299999999,34.315557],"type":"Point"}
+}

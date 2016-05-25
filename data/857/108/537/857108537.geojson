@@ -1,0 +1,71 @@
+{
+  "id": 857108537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.707344,34.302729,-88.707344,34.302729",
+    "geom:latitude":34.302729,
+    "geom:longitude":-88.707344,
+    "iso:country":"US",
+    "sg:address":"3286 Hwy 145 N",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 841 2719",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ux77rng7G2eQM1NSaBaZR_34.302729_-88.707344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122102,
+    "wof:geomhash":"7fc68f18ffe9b4f52e1bcc41f40ec7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857108537
+        }
+    ],
+    "wof:id":857108537,
+    "wof:lastmodified":1464122102,
+    "wof:name":"Tupelo Seniors Apartment",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.707344,
+    34.302729,
+    -88.707344,
+    34.302729
+],
+  "geometry": {"coordinates":[-88.70734400000001,34.302729],"type":"Point"}
+}

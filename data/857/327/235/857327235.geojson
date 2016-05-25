@@ -1,0 +1,71 @@
+{
+  "id": 857327235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.125492,32.153874,-90.125492,32.153874",
+    "geom:latitude":32.153874,
+    "geom:longitude":-90.125492,
+    "iso:country":"US",
+    "sg:address":"125 E Main St",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 845 7349",
+    "sg:postcode":"39073",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gPrQ360mVnk1wUHbZtaXo_32.153874_-90.125492@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126995,
+    "wof:geomhash":"c360a2f509b0e967b15e1e734abbc960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857327235
+        }
+    ],
+    "wof:id":857327235,
+    "wof:lastmodified":1464126995,
+    "wof:name":"Ringer & Simmons",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.125492,
+    32.153874,
+    -90.125492,
+    32.153874
+],
+  "geometry": {"coordinates":[-90.12549199999999,32.153874],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857275661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.623213,30.386455,-88.623213,30.386455",
+    "geom:latitude":30.386455,
+    "geom:longitude":-88.623213,
+    "iso:country":"US",
+    "sg:address":"810 US Hwy 90",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 3323",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VQ1wxByTFK0yLWAn6r5E1_30.386455_-88.623213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125803,
+    "wof:geomhash":"ae4c4fbb2caee65933f41223a8c31186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857275661
+        }
+    ],
+    "wof:id":857275661,
+    "wof:lastmodified":1464125803,
+    "wof:name":"Shades of Summer",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -88.623213,
+    30.386455,
+    -88.623213,
+    30.386455
+],
+  "geometry": {"coordinates":[-88.62321300000001,30.386455],"type":"Point"}
+}

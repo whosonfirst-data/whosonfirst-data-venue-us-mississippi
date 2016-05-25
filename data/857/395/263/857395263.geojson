@@ -1,0 +1,73 @@
+{
+  "id": 857395263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.863457,32.347575,-90.863457,32.347575",
+    "geom:latitude":32.347575,
+    "geom:longitude":-90.863457,
+    "iso:country":"US",
+    "sg:address":"1302 Mission 66",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 7775",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60znaPDzSWlm34LjMyJgyv_32.347575_-90.863457@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128530,
+    "wof:geomhash":"44d85bd7da7c36e4c71dc9c13e1e5445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857395263
+        }
+    ],
+    "wof:id":857395263,
+    "wof:lastmodified":1464128530,
+    "wof:name":"Vicksburg Cleaners",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.863457,
+    32.347575,
+    -90.863457,
+    32.347575
+],
+  "geometry": {"coordinates":[-90.863457,32.347575],"type":"Point"}
+}

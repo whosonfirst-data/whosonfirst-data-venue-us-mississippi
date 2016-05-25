@@ -1,0 +1,71 @@
+{
+  "id": 857423785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.843195,30.431003,-88.843195,30.431003",
+    "geom:latitude":30.431003,
+    "geom:longitude":-88.843195,
+    "iso:country":"US",
+    "sg:address":"14105 W el Bonito Dr",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 818 5969",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OufHYP60v5UexytzKg5TD_30.431003_-88.843195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129185,
+    "wof:geomhash":"1c6e8cd77a98ffae513a9e3de4ed91a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857423785
+        }
+    ],
+    "wof:id":857423785,
+    "wof:lastmodified":1464129185,
+    "wof:name":"Premier Homes",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.843195,
+    30.431003,
+    -88.843195,
+    30.431003
+],
+  "geometry": {"coordinates":[-88.84319499999999,30.431003],"type":"Point"}
+}

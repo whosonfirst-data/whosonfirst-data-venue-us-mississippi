@@ -1,0 +1,73 @@
+{
+  "id": 857452373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.339183,31.256422,-89.339183,31.256422",
+    "geom:latitude":31.256422,
+    "geom:longitude":-89.339183,
+    "iso:country":"US",
+    "sg:address":"4080 US Hwy 11",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 5911",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "management",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MT2RjkFJF7Gy4Lg5u0eRH_31.256422_-89.339183@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129806,
+    "wof:geomhash":"6483b0a47ee9970b4b2e05d6856a0fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857452373
+        }
+    ],
+    "wof:id":857452373,
+    "wof:lastmodified":1464129806,
+    "wof:name":"Forrest County Emergency MGT",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -89.339183,
+    31.256422,
+    -89.339183,
+    31.256422
+],
+  "geometry": {"coordinates":[-89.33918300000001,31.256422],"type":"Point"}
+}

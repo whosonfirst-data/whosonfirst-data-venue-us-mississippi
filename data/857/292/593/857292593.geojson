@@ -1,0 +1,71 @@
+{
+  "id": 857292593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695216,32.283356,-88.695216,32.283356",
+    "geom:latitude":32.283356,
+    "geom:longitude":-88.695216,
+    "iso:country":"US",
+    "sg:address":"5412 Hwy 145",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 481 1963",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60p28apROBjNRoxRPB7cYz_32.283356_-88.695216@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126213,
+    "wof:geomhash":"d141a6a6538939971cb5d82814eb161f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857292593
+        }
+    ],
+    "wof:id":857292593,
+    "wof:lastmodified":1464126213,
+    "wof:name":"Dale Clark Fire and Rescue",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.695216,
+    32.283356,
+    -88.695216,
+    32.283356
+],
+  "geometry": {"coordinates":[-88.695216,32.283356],"type":"Point"}
+}

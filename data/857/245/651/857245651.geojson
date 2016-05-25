@@ -1,0 +1,71 @@
+{
+  "id": 857245651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773036,34.250794,-88.773036,34.250794",
+    "geom:latitude":34.250794,
+    "geom:longitude":-88.773036,
+    "iso:country":"US",
+    "sg:address":"4020 Westside Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 5953",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85852479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wjNhOHVNsTEOuBB5Z6RJ0_34.250794_-88.773036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125152,
+    "wof:geomhash":"9e0f66d6572cf79ef8270f8283616b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85852479,
+            "region_id":85688579,
+            "venue_id":857245651
+        }
+    ],
+    "wof:id":857245651,
+    "wof:lastmodified":1464125152,
+    "wof:name":"Checkmate",
+    "wof:parent_id":85852479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -88.773036,
+    34.250794,
+    -88.773036,
+    34.250794
+],
+  "geometry": {"coordinates":[-88.773036,34.250794],"type":"Point"}
+}

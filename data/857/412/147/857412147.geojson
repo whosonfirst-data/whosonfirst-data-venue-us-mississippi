@@ -1,0 +1,66 @@
+{
+  "id": 857412147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.514186,34.363233,-89.514186,34.363233",
+    "geom:latitude":34.363233,
+    "geom:longitude":-89.514186,
+    "iso:country":"US",
+    "sg:address":"1614 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 2555",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YPgEyOB0ueyH8v73UgD42_34.363233_-89.514186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128906,
+    "wof:geomhash":"9f4e40553dc5f09183e94e9d2fc3e50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857412147
+        }
+    ],
+    "wof:id":857412147,
+    "wof:lastmodified":1464128906,
+    "wof:name":"Mississippi Real Est Exchange",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.514186,
+    34.363233,
+    -89.514186,
+    34.363233
+],
+  "geometry": {"coordinates":[-89.514186,34.363233],"type":"Point"}
+}

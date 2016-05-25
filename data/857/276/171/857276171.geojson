@@ -1,0 +1,67 @@
+{
+  "id": 857276171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.622395,34.103905,-88.622395,34.103905",
+    "geom:latitude":34.103905,
+    "geom:longitude":-88.622395,
+    "iso:country":"US",
+    "sg:address":"4386 Union Ave",
+    "sg:city":"Nettleton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 963 2360",
+    "sg:postcode":"38858",
+    "sg:province":"MS",
+    "sg:website":"www.nettleton.k12.ms.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ig2XMTrPhmKIGWVepobrS_34.103905_-88.622395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125816,
+    "wof:geomhash":"b63bfb61415b460b79aafc5434bdbf29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857276171
+        }
+    ],
+    "wof:id":857276171,
+    "wof:lastmodified":1464125816,
+    "wof:name":"Nettleton Primary School",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.622395,
+    34.103905,
+    -88.622395,
+    34.103905
+],
+  "geometry": {"coordinates":[-88.622395,34.103905],"type":"Point"}
+}

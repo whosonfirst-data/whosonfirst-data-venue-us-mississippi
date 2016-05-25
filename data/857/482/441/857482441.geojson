@@ -1,0 +1,78 @@
+{
+  "id": 857482441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.172127,32.303611,-90.172127,32.303611",
+    "geom:latitude":32.303611,
+    "geom:longitude":-90.172127,
+    "iso:country":"US",
+    "sg:address":"1240 High St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/terry/182128-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 961 1713",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38BFSJIVo89TNk3MFBnLgx_32.303611_-90.172127@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130417,
+    "wof:geomhash":"5aba7e9ae536c7ccf37b835b7c37f0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878391,
+            "region_id":85688579,
+            "venue_id":857482441
+        }
+    ],
+    "wof:id":857482441,
+    "wof:lastmodified":1464130417,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85878391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.172127,
+    32.303611,
+    -90.172127,
+    32.303611
+],
+  "geometry": {"coordinates":[-90.172127,32.303611],"type":"Point"}
+}

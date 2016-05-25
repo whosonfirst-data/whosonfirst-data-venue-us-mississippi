@@ -1,0 +1,75 @@
+{
+  "id": 857220937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.102512,32.329926,-90.102512,32.329926",
+    "geom:latitude":32.329926,
+    "geom:longitude":-90.102512,
+    "iso:country":"US",
+    "sg:address":"1030 N Flowood Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 932 8637",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_451YExGGoV7AahtM6ZQYAw_32.329926_-90.102512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124631,
+    "wof:geomhash":"5b5caec1b870200c1eae0f7183ab289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857220937
+        }
+    ],
+    "wof:id":857220937,
+    "wof:lastmodified":1464124631,
+    "wof:name":"Breast & Thyroid Ctr",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.102512,
+    32.329926,
+    -90.102512,
+    32.329926
+],
+  "geometry": {"coordinates":[-90.102512,32.329926],"type":"Point"}
+}

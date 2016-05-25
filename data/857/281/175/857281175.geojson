@@ -1,0 +1,77 @@
+{
+  "id": 857281175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.517987,30.398869,-88.517987,30.398869",
+    "geom:latitude":30.398869,
+    "geom:longitude":-88.517987,
+    "iso:country":"US",
+    "sg:address":"5509 Frederick St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 2843",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fpp1dfBDQOC0By74d6sgY_30.398869_-88.517987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125945,
+    "wof:geomhash":"562e97ed41ccfff0c54c4313921366a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857281175
+        }
+    ],
+    "wof:id":857281175,
+    "wof:lastmodified":1464125945,
+    "wof:name":"Community Cleaners",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -88.517987,
+    30.398869,
+    -88.517987,
+    30.398869
+],
+  "geometry": {"coordinates":[-88.51798700000001,30.398869],"type":"Point"}
+}

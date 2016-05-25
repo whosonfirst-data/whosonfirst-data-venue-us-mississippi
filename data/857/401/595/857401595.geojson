@@ -1,0 +1,71 @@
+{
+  "id": 857401595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.406743,31.416546,-89.406743,31.416546",
+    "geom:latitude":31.416546,
+    "geom:longitude":-89.406743,
+    "iso:country":"US",
+    "sg:address":"7758 US Hwy 49",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 271 2949",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85855649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3unqDYOWZiers7UG1qMszd_31.416546_-89.406743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128659,
+    "wof:geomhash":"7303a7d2a1cedf7f4c2185de5cb5ee0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85855649,
+            "region_id":85688579,
+            "venue_id":857401595
+        }
+    ],
+    "wof:id":857401595,
+    "wof:lastmodified":1464128659,
+    "wof:name":"Mitchell Tools",
+    "wof:parent_id":85855649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -89.406743,
+    31.416546,
+    -89.406743,
+    31.416546
+],
+  "geometry": {"coordinates":[-89.40674300000001,31.416546],"type":"Point"}
+}

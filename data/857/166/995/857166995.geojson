@@ -1,0 +1,66 @@
+{
+  "id": 857166995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.303357,33.491894,-88.303357,33.491894",
+    "geom:latitude":33.491894,
+    "geom:longitude":-88.303357,
+    "iso:country":"US",
+    "sg:address":"7456 Hwy 182 E",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 1872",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09q2pNF6FPXZcro36TIYqb_33.491894_-88.303357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123510,
+    "wof:geomhash":"d2652f29df65065d3f4ab1d80eb639ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857166995
+        }
+    ],
+    "wof:id":857166995,
+    "wof:lastmodified":1464123510,
+    "wof:name":"Country Mart",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.303357,
+    33.491894,
+    -88.303357,
+    33.491894
+],
+  "geometry": {"coordinates":[-88.30335700000001,33.491894],"type":"Point"}
+}

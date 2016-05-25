@@ -1,0 +1,71 @@
+{
+  "id": 857212629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.525132,34.367729,-89.525132,34.367729",
+    "geom:latitude":34.367729,
+    "geom:longitude":-89.525132,
+    "iso:country":"US",
+    "sg:address":"501 Jackson Ave E",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 281 1484",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AsLxYnM2SeWXYAUNJ7EyC_34.367729_-89.525132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124456,
+    "wof:geomhash":"90f70c70f3f36bbbc5afed13aa999212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857212629
+        }
+    ],
+    "wof:id":857212629,
+    "wof:lastmodified":1464124456,
+    "wof:name":"Christ Temple CME",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.525132,
+    34.367729,
+    -89.525132,
+    34.367729
+],
+  "geometry": {"coordinates":[-89.525132,34.367729],"type":"Point"}
+}

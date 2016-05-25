@@ -1,0 +1,73 @@
+{
+  "id": 857359483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.412286,31.144571,-89.412286,31.144571",
+    "geom:latitude":31.144571,
+    "geom:longitude":-89.412286,
+    "iso:country":"US",
+    "sg:address":"201 Main St",
+    "sg:city":"Purvis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 794 1088",
+    "sg:postcode":"39475",
+    "sg:province":"MS",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85838663,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iF7zX2g52T3JyAL0eBjb3_31.144571_-89.412286@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127687,
+    "wof:geomhash":"548fdbbb9fb73e4ea9acc515b7523b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85838663,
+            "region_id":85688579,
+            "venue_id":857359483
+        }
+    ],
+    "wof:id":857359483,
+    "wof:lastmodified":1464127687,
+    "wof:name":"Lamar County Jail",
+    "wof:parent_id":85838663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.412286,
+    31.144571,
+    -89.412286,
+    31.144571
+],
+  "geometry": {"coordinates":[-89.41228599999999,31.144571],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857289319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.580805,34.205644,-90.580805,34.205644",
+    "geom:latitude":34.205644,
+    "geom:longitude":-90.580805,
+    "iso:country":"US",
+    "sg:address":"121 Elm Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 1477",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "plumbing",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05KzFDT8T9JQn4DXyrsjDV_34.205644_-90.580805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126123,
+    "wof:geomhash":"e132458ae852a50c5ff70430bf4d0e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857289319
+        }
+    ],
+    "wof:id":857289319,
+    "wof:lastmodified":1464126123,
+    "wof:name":"Sudduth Plumbing",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "work"
+    ]
+},
+  "bbox": [
+    -90.580805,
+    34.205644,
+    -90.580805,
+    34.205644
+],
+  "geometry": {"coordinates":[-90.580805,34.205644],"type":"Point"}
+}

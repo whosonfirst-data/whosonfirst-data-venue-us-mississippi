@@ -1,0 +1,73 @@
+{
+  "id": 857280169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.493096,30.413409,-88.493096,30.413409",
+    "geom:latitude":30.413409,
+    "geom:longitude":-88.493096,
+    "iso:country":"US",
+    "sg:address":"7030 Grierson St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 9880",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtOs4CnkQKC3E4pecCP8S_30.413409_-88.493096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125924,
+    "wof:geomhash":"ed69de8c01c2fd1b4b4be60ee4c0d2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857280169
+        }
+    ],
+    "wof:id":857280169,
+    "wof:lastmodified":1464125924,
+    "wof:name":"Mill Automotive",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.493096,
+    30.413409,
+    -88.493096,
+    30.413409
+],
+  "geometry": {"coordinates":[-88.49309599999999,30.413409],"type":"Point"}
+}

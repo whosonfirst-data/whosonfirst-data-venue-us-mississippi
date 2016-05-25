@@ -1,0 +1,71 @@
+{
+  "id": 857291505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.228884,30.3329,-89.228884,30.3329",
+    "geom:latitude":30.3329,
+    "geom:longitude":-89.228884,
+    "iso:country":"US",
+    "sg:address":"713 E North St",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 0804",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OSazBZKyuUfiCxYowiqKb_30.332900_-89.228884@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126182,
+    "wof:geomhash":"5fe18f032b838bba9e174b97edc3c64e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857291505
+        }
+    ],
+    "wof:id":857291505,
+    "wof:lastmodified":1464126182,
+    "wof:name":"Matthews Marine Inc",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy"
+    ]
+},
+  "bbox": [
+    -89.228884,
+    30.3329,
+    -89.228884,
+    30.3329
+],
+  "geometry": {"coordinates":[-89.22888399999999,30.3329],"type":"Point"}
+}

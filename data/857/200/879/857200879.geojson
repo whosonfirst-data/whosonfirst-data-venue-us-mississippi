@@ -1,0 +1,75 @@
+{
+  "id": 857200879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530892,30.400187,-88.530892,30.400187",
+    "geom:latitude":30.400187,
+    "geom:longitude":-88.530892,
+    "iso:country":"US",
+    "sg:address":"4707 King St",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 475 2582",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vOyze7I4muHJrkDoTlNQ5_30.400187_-88.530892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124191,
+    "wof:geomhash":"000ebfb5c38481fcfb5254dbbbceda21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857200879
+        }
+    ],
+    "wof:id":857200879,
+    "wof:lastmodified":1464124191,
+    "wof:name":"Youth Complex",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.530892,
+    30.400187,
+    -88.530892,
+    30.400187
+],
+  "geometry": {"coordinates":[-88.53089199999999,30.400187],"type":"Point"}
+}

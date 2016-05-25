@@ -1,0 +1,75 @@
+{
+  "id": 857103749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.392389,32.839639,-90.392389,32.839639",
+    "geom:latitude":32.839639,
+    "geom:longitude":-90.392389,
+    "iso:country":"US",
+    "sg:address":"1415 E Broadway St",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 8921",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23FKKbUAnnn7dyrc3MACTA_32.839639_-90.392389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121998,
+    "wof:geomhash":"dc6dc3bf33602d4c8d48ad4066e16e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857103749
+        }
+    ],
+    "wof:id":857103749,
+    "wof:lastmodified":1464121998,
+    "wof:name":"Yazoo KWIK Stop",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.392389,
+    32.839639,
+    -90.392389,
+    32.839639
+],
+  "geometry": {"coordinates":[-90.39238899999999,32.839639],"type":"Point"}
+}

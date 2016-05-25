@@ -1,0 +1,71 @@
+{
+  "id": 857260655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.555511,34.361245,-89.555511,34.361245",
+    "geom:latitude":34.361245,
+    "geom:longitude":-89.555511,
+    "iso:country":"US",
+    "sg:address":"3036 Davis Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 4749",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z7vngmekdeZKcwZzbi8bj_34.361245_-89.555511@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125502,
+    "wof:geomhash":"06f76df511bf85cfe68e57f8e9eb5410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857260655
+        }
+    ],
+    "wof:id":857260655,
+    "wof:lastmodified":1464125502,
+    "wof:name":"Oak Grove Apartments",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.555511,
+    34.361245,
+    -89.555511,
+    34.361245
+],
+  "geometry": {"coordinates":[-89.555511,34.361245],"type":"Point"}
+}

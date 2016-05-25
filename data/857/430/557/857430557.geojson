@@ -1,0 +1,71 @@
+{
+  "id": 857430557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.802323,33.460856,-88.802323,33.460856",
+    "geom:latitude":33.460856,
+    "geom:longitude":-88.802323,
+    "iso:country":"US",
+    "sg:address":"705 University Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 8004",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OfNhI0KNlZoMO2IgmosS7_33.460856_-88.802323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129356,
+    "wof:geomhash":"f7c69e4457d43ff3ff4bea5f6ff83229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857430557
+        }
+    ],
+    "wof:id":857430557,
+    "wof:lastmodified":1464129356,
+    "wof:name":"Chuck's Bp",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.802323,
+    33.460856,
+    -88.802323,
+    33.460856
+],
+  "geometry": {"coordinates":[-88.802323,33.460856],"type":"Point"}
+}

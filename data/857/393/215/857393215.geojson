@@ -1,0 +1,66 @@
+{
+  "id": 857393215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67511,34.239702,-88.67511,34.239702",
+    "geom:latitude":34.239702,
+    "geom:longitude":-88.67511,
+    "iso:country":"US",
+    "sg:address":"1931 Briar Ridge Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 5780",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kz7jBrqDzPXEB3MpLUJra_34.239702_-88.675110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128488,
+    "wof:geomhash":"0aa01bc82da38deb07f28fa5fa76d7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857393215
+        }
+    ],
+    "wof:id":857393215,
+    "wof:lastmodified":1464128488,
+    "wof:name":"Briar Ridge Quick Stop",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.67511,
+    34.239702,
+    -88.67511,
+    34.239702
+],
+  "geometry": {"coordinates":[-88.67511,34.239702],"type":"Point"}
+}

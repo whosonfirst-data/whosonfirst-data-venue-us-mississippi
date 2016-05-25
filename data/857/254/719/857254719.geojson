@@ -1,0 +1,73 @@
+{
+  "id": 857254719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719945,34.206183,-88.719945,34.206183",
+    "geom:latitude":34.206183,
+    "geom:longitude":-88.719945,
+    "iso:country":"US",
+    "sg:address":"2713 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 566 7011",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xXhPdtEUdzZ2mDVJ8mKeR_34.206183_-88.719945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125370,
+    "wof:geomhash":"24128b757161031012bae6a29310f612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857254719
+        }
+    ],
+    "wof:id":857254719,
+    "wof:lastmodified":1464125370,
+    "wof:name":"Southern Motor Co",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.719945,
+    34.206183,
+    -88.719945,
+    34.206183
+],
+  "geometry": {"coordinates":[-88.719945,34.206183],"type":"Point"}
+}

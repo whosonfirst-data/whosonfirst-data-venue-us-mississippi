@@ -1,0 +1,75 @@
+{
+  "id": 857237153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.103663,32.332984,-90.103663,32.332984",
+    "geom:latitude":32.332984,
+    "geom:longitude":-90.103663,
+    "iso:country":"US",
+    "sg:address":"1227 Pin Oak Dr",
+    "sg:city":"Flowood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 4947",
+    "sg:postcode":"39232",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969949,
+        102084869,
+        85855043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d6zhvht0SdFk8nIh0OtpX_32.332984_-90.103663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124948,
+    "wof:geomhash":"dd74e9f6c0f02608cbb8c2f11e950f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969949,
+            "neighbourhood_id":85855043,
+            "region_id":85688579,
+            "venue_id":857237153
+        }
+    ],
+    "wof:id":857237153,
+    "wof:lastmodified":1464124948,
+    "wof:name":"Cypress Pointe Apartments",
+    "wof:parent_id":85855043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.103663,
+    32.332984,
+    -90.103663,
+    32.332984
+],
+  "geometry": {"coordinates":[-90.103663,32.332984],"type":"Point"}
+}

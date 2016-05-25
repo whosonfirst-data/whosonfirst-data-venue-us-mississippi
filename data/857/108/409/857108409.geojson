@@ -1,0 +1,71 @@
+{
+  "id": 857108409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.517633,34.366692,-89.517633,34.366692",
+    "geom:latitude":34.366692,
+    "geom:longitude":-89.517633,
+    "iso:country":"US",
+    "sg:address":"105 N 13th St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 6288",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D8eB1ODRkYTOgtIFv2eAU_34.366692_-89.517633@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122097,
+    "wof:geomhash":"0053186de1abbf2d52de32bb56da7093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857108409
+        }
+    ],
+    "wof:id":857108409,
+    "wof:lastmodified":1464122097,
+    "wof:name":"H2O Oxford Oriental Cafe",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -89.517633,
+    34.366692,
+    -89.517633,
+    34.366692
+],
+  "geometry": {"coordinates":[-89.517633,34.366692],"type":"Point"}
+}

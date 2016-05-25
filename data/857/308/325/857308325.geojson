@@ -1,0 +1,73 @@
+{
+  "id": 857308325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.016814,34.55389,-89.016814,34.55389",
+    "geom:latitude":34.55389,
+    "geom:longitude":-89.016814,
+    "iso:country":"US",
+    "sg:address":"1458 Co Rd 81",
+    "sg:city":"New Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 538 5511",
+    "sg:postcode":"38652",
+    "sg:province":"MS",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970017,
+        102081017,
+        85821919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yR0dkorVuZDLHhpc3lajF_34.553890_-89.016814@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126584,
+    "wof:geomhash":"d5544e19dd1936a14cb6bc08cb6baf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081017,
+            "locality_id":85970017,
+            "neighbourhood_id":85821919,
+            "region_id":85688579,
+            "venue_id":857308325
+        }
+    ],
+    "wof:id":857308325,
+    "wof:lastmodified":1464126584,
+    "wof:name":"Bob's Upholstery",
+    "wof:parent_id":85821919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -89.016814,
+    34.55389,
+    -89.016814,
+    34.55389
+],
+  "geometry": {"coordinates":[-89.016814,34.55389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857293307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.512701,34.363167,-89.512701,34.363167",
+    "geom:latitude":34.363167,
+    "geom:longitude":-89.512701,
+    "iso:country":"US",
+    "sg:address":"1727 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 8028",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "naval"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPOsL13xgVoF9ceUK6Ioj_34.363167_-89.512701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126227,
+    "wof:geomhash":"b6fa5b644d1fbb12d422d60289ac45d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857293307
+        }
+    ],
+    "wof:id":857293307,
+    "wof:lastmodified":1464126227,
+    "wof:name":"Naval Recruiting",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "naval"
+    ]
+},
+  "bbox": [
+    -89.512701,
+    34.363167,
+    -89.512701,
+    34.363167
+],
+  "geometry": {"coordinates":[-89.51270100000001,34.363167],"type":"Point"}
+}

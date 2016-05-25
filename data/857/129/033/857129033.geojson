@@ -1,0 +1,75 @@
+{
+  "id": 857129033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.133143,32.262933,-90.133143,32.262933",
+    "geom:latitude":32.262933,
+    "geom:longitude":-90.133143,
+    "iso:country":"US",
+    "sg:address":"511 S Pearson Rd",
+    "sg:city":"Pearl",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 936 3066",
+    "sg:postcode":"39208",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969947,
+        102084869,
+        85822509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ha4Oqy85dlP98jgQzJ5qA_32.262933_-90.133143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122648,
+    "wof:geomhash":"62808026b72ea31b6054a8331a5ad6d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969947,
+            "neighbourhood_id":85822509,
+            "region_id":85688579,
+            "venue_id":857129033
+        }
+    ],
+    "wof:id":857129033,
+    "wof:lastmodified":1464122648,
+    "wof:name":"Mississippi Cat Fanciers",
+    "wof:parent_id":85822509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -90.133143,
+    32.262933,
+    -90.133143,
+    32.262933
+],
+  "geometry": {"coordinates":[-90.133143,32.262933],"type":"Point"}
+}

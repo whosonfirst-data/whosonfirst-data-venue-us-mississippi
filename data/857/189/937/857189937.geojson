@@ -1,0 +1,71 @@
+{
+  "id": 857189937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636167,34.508851,-88.636167,34.508851",
+    "geom:latitude":34.508851,
+    "geom:longitude":-88.636167,
+    "iso:country":"US",
+    "sg:address":"205 Hwy 145 S",
+    "sg:city":"Baldwyn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 365 8712",
+    "sg:postcode":"38824",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85810531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mq58Pld1OhMZKQIFcTHQB_34.508851_-88.636167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123989,
+    "wof:geomhash":"843ef0d9b458c2a3d7b921025965099a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85810531,
+            "region_id":85688579,
+            "venue_id":857189937
+        }
+    ],
+    "wof:id":857189937,
+    "wof:lastmodified":1464123989,
+    "wof:name":"Collier-Windham Construction",
+    "wof:parent_id":85810531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.636167,
+    34.508851,
+    -88.636167,
+    34.508851
+],
+  "geometry": {"coordinates":[-88.636167,34.508851],"type":"Point"}
+}

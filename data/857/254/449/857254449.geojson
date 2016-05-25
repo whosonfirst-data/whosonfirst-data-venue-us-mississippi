@@ -1,0 +1,71 @@
+{
+  "id": 857254449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.660263,34.227945,-88.660263,34.227945",
+    "geom:latitude":34.227945,
+    "geom:longitude":-88.660263,
+    "iso:country":"US",
+    "sg:address":"170 Rd 1050",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 1081",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uC8eObDoyS26QdrOe5h3Y_34.227945_-88.660263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125361,
+    "wof:geomhash":"20aeef661c686e5bec0716aac1fbe0dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857254449
+        }
+    ],
+    "wof:id":857254449,
+    "wof:lastmodified":1464125361,
+    "wof:name":"Williams Engineering Inc",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -88.660263,
+    34.227945,
+    -88.660263,
+    34.227945
+],
+  "geometry": {"coordinates":[-88.660263,34.227945],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857445421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.866791,32.323009,-90.866791,32.323009",
+    "geom:latitude":32.323009,
+    "geom:longitude":-90.866791,
+    "iso:country":"US",
+    "sg:address":"2086 S Frontage Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 634 4340",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Aj5TYJZIWIyL4cgTTAXSM_32.323009_-90.866791@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129671,
+    "wof:geomhash":"0582a22d0697f595035d9af660ac9186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857445421
+        }
+    ],
+    "wof:id":857445421,
+    "wof:lastmodified":1464129671,
+    "wof:name":"Bancorpsouth",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.866791,
+    32.323009,
+    -90.866791,
+    32.323009
+],
+  "geometry": {"coordinates":[-90.86679100000001,32.323009],"type":"Point"}
+}

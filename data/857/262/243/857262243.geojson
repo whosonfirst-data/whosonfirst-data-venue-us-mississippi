@@ -1,0 +1,74 @@
+{
+  "id": 857262243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.508351,34.383866,-89.508351,34.383866",
+    "geom:latitude":34.383866,
+    "geom:longitude":-89.508351,
+    "iso:country":"US",
+    "sg:address":"1420 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 4843",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "diabetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pdo5zUJudxfthikmDot2z_34.383866_-89.508351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125540,
+    "wof:geomhash":"b29ad23a95b926fe5745d01fe23af8b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857262243
+        }
+    ],
+    "wof:id":857262243,
+    "wof:lastmodified":1464125540,
+    "wof:name":"+gathright-reed Medical Supply",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diabetic"
+    ]
+},
+  "bbox": [
+    -89.508351,
+    34.383866,
+    -89.508351,
+    34.383866
+],
+  "geometry": {"coordinates":[-89.508351,34.383866],"type":"Point"}
+}

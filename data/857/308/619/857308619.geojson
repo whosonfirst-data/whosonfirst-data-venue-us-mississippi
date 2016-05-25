@@ -1,0 +1,71 @@
+{
+  "id": 857308619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.803526,33.4614,-88.803526,33.4614",
+    "geom:latitude":33.4614,
+    "geom:longitude":-88.803526,
+    "iso:country":"US",
+    "sg:address":"612 University Dr",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 338 0003",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K0iCr1gEhs3E83oSTGpMO_33.461400_-88.803526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126590,
+    "wof:geomhash":"22c38f515e48968d35aad6242ff795cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857308619
+        }
+    ],
+    "wof:id":857308619,
+    "wof:lastmodified":1464126590,
+    "wof:name":"District Salon",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.803526,
+    33.4614,
+    -88.803526,
+    33.4614
+],
+  "geometry": {"coordinates":[-88.80352600000001,33.4614],"type":"Point"}
+}

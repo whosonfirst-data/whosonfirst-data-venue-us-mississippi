@@ -1,0 +1,73 @@
+{
+  "id": 857378787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651282,33.479654,-88.651282,33.479654",
+    "geom:latitude":33.479654,
+    "geom:longitude":-88.651282,
+    "iso:country":"US",
+    "sg:address":"8731 S Frontage Rd",
+    "sg:city":"Mayhew",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 243 1912",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iZL9gPHxijA98ynaHuKQW_33.479654_-88.651282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128091,
+    "wof:geomhash":"6585266789626baa11039944d50f53b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857378787
+        }
+    ],
+    "wof:id":857378787,
+    "wof:lastmodified":1464128091,
+    "wof:name":"Electrical",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.651282,
+    33.479654,
+    -88.651282,
+    33.479654
+],
+  "geometry": {"coordinates":[-88.65128199999999,33.479654],"type":"Point"}
+}

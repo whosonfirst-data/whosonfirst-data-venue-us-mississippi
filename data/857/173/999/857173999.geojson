@@ -1,0 +1,71 @@
+{
+  "id": 857173999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41118,32.853969,-90.41118,32.853969",
+    "geom:latitude":32.853969,
+    "geom:longitude":-90.41118,
+    "iso:country":"US",
+    "sg:address":"101 Dr Martin Luther King Jr Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 2665",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cUhL7OvypCdIMmFU1rblM_32.853969_-90.411180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123675,
+    "wof:geomhash":"31dbb055f67bd916fd09fbf55d126429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857173999
+        }
+    ],
+    "wof:id":857173999,
+    "wof:lastmodified":1464123675,
+    "wof:name":"Gilbert's Gourmet & Gifts",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.41118,
+    32.853969,
+    -90.41118,
+    32.853969
+],
+  "geometry": {"coordinates":[-90.41118,32.853969],"type":"Point"}
+}

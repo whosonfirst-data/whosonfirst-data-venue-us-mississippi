@@ -1,0 +1,71 @@
+{
+  "id": 857320729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.182612,31.057948,-89.182612,31.057948",
+    "geom:latitude":31.057948,
+    "geom:longitude":-89.182612,
+    "iso:country":"US",
+    "sg:address":"44 Brooklyn Janice Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 582 1188",
+    "sg:postcode":"39425",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RJe7w7kAUimG5wwATeHY9_31.057948_-89.182612@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126864,
+    "wof:geomhash":"2e06f515df88abe5dc9da857ed9aa4ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857320729
+        }
+    ],
+    "wof:id":857320729,
+    "wof:lastmodified":1464126864,
+    "wof:name":"Brooklyn Family Health Ctr",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.182612,
+    31.057948,
+    -89.182612,
+    31.057948
+],
+  "geometry": {"coordinates":[-89.18261200000001,31.057948],"type":"Point"}
+}

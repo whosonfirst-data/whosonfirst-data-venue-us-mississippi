@@ -1,0 +1,82 @@
+{
+  "id": 857190781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.511098,34.378371,-89.511098,34.378371",
+    "geom:latitude":34.378371,
+    "geom:longitude":-89.511098,
+    "iso:country":"US",
+    "sg:address":"1307 N Lamar Blvd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 2104",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "glass",
+        "window",
+        "automotive",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85834727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W7dQZG8Wrxk27UQ2CH8C6_34.378371_-89.511098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124002,
+    "wof:geomhash":"aa79c1528f1d58edd695ef7661e74d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85834727,
+            "region_id":85688579,
+            "venue_id":857190781
+        }
+    ],
+    "wof:id":857190781,
+    "wof:lastmodified":1464124002,
+    "wof:name":"Windshield Magician Inc",
+    "wof:parent_id":85834727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "automotive",
+        "plate"
+    ]
+},
+  "bbox": [
+    -89.511098,
+    34.378371,
+    -89.511098,
+    34.378371
+],
+  "geometry": {"coordinates":[-89.511098,34.378371],"type":"Point"}
+}

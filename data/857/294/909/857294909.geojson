@@ -1,0 +1,71 @@
+{
+  "id": 857294909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.516508,32.56442,-90.516508,32.56442",
+    "geom:latitude":32.56442,
+    "geom:longitude":-90.516508,
+    "iso:country":"US",
+    "sg:address":"3846 Hebron Church Rd",
+    "sg:city":"Bentonia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 755 8698",
+    "sg:postcode":"39040",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ax83kZUDz7kokgu5gkw5j_32.564420_-90.516508@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126287,
+    "wof:geomhash":"58a9a26b2e6f6c31e4948bd8a0a38470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857294909
+        }
+    ],
+    "wof:id":857294909,
+    "wof:lastmodified":1464126287,
+    "wof:name":"Hebron Baptist Church",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.516508,
+    32.56442,
+    -90.516508,
+    32.56442
+],
+  "geometry": {"coordinates":[-90.516508,32.56442],"type":"Point"}
+}

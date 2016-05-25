@@ -1,0 +1,69 @@
+{
+  "id": 857178987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.544671,31.416551,-89.544671,31.416551",
+    "geom:latitude":31.416551,
+    "geom:longitude":-89.544671,
+    "iso:country":"US",
+    "sg:address":"12 Water Ave",
+    "sg:city":"Sumrall",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 758 0911",
+    "sg:postcode":"39482",
+    "sg:province":"MS",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85829187,
+        102083775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3awQ8lD61P53XJXiC029B6_31.416551_-89.544671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123774,
+    "wof:geomhash":"fee5c70bfb12ba1a5a78d3e4cb3c8bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083775,
+            "neighbourhood_id":85829187,
+            "region_id":85688579,
+            "venue_id":857178987
+        }
+    ],
+    "wof:id":857178987,
+    "wof:lastmodified":1464123774,
+    "wof:name":"Sumrall City Office",
+    "wof:parent_id":85829187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.544671,
+    31.416551,
+    -89.544671,
+    31.416551
+],
+  "geometry": {"coordinates":[-89.54467099999999,31.416551],"type":"Point"}
+}

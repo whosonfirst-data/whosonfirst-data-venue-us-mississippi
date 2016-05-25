@@ -1,0 +1,73 @@
+{
+  "id": 857361509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.839274,32.259219,-90.839274,32.259219",
+    "geom:latitude":32.259219,
+    "geom:longitude":-90.839274,
+    "iso:country":"US",
+    "sg:address":"4813 Nailor Rd",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 638 6021",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85850283,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xDcKlls3ggnn9k6Tn4ww0_32.259219_-90.839274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127731,
+    "wof:geomhash":"12b4055cae0ada34c9efae00fc21273a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "neighbourhood_id":85850283,
+            "region_id":85688579,
+            "venue_id":857361509
+        }
+    ],
+    "wof:id":857361509,
+    "wof:lastmodified":1464127731,
+    "wof:name":"Vicksburg Alarm Svc",
+    "wof:parent_id":85850283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.839274,
+    32.259219,
+    -90.839274,
+    32.259219
+],
+  "geometry": {"coordinates":[-90.839274,32.259219],"type":"Point"}
+}

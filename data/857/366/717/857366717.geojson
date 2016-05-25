@@ -1,0 +1,71 @@
+{
+  "id": 857366717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.517615,34.363749,-89.517615,34.363749",
+    "geom:latitude":34.363749,
+    "geom:longitude":-89.517615,
+    "iso:country":"US",
+    "sg:address":"1304 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 5537",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tRLf3HWg42669poPYMUWD_34.363749_-89.517615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127839,
+    "wof:geomhash":"4202d59e8ca1db819d8a8ca7cacb0d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857366717
+        }
+    ],
+    "wof:id":857366717,
+    "wof:lastmodified":1464127839,
+    "wof:name":"Pizza Den",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.517615,
+    34.363749,
+    -89.517615,
+    34.363749
+],
+  "geometry": {"coordinates":[-89.51761500000001,34.363749],"type":"Point"}
+}

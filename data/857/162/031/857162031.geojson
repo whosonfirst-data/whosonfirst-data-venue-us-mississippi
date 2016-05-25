@@ -1,0 +1,81 @@
+{
+  "id": 857162031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.112959,32.511537,-90.112959,32.511537",
+    "geom:latitude":32.511537,
+    "geom:longitude":-90.112959,
+    "iso:country":"US",
+    "sg:address":"140 Enterprise Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 2751",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor",
+        "land",
+        "reclamation",
+        "levee",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WnidLoTtHqPvVvmKuwYJP_32.511537_-90.112959@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123405,
+    "wof:geomhash":"ceabc9ba44ee7396e5ec290052df3d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857162031
+        }
+    ],
+    "wof:id":857162031,
+    "wof:lastmodified":1464123405,
+    "wof:name":"Mid East Contractors Inc",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "land",
+        "reclamation",
+        "levee",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.112959,
+    32.511537,
+    -90.112959,
+    32.511537
+],
+  "geometry": {"coordinates":[-90.112959,32.511537],"type":"Point"}
+}

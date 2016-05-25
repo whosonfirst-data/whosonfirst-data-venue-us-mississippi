@@ -1,0 +1,73 @@
+{
+  "id": 857252469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.702473,32.368755,-88.702473,32.368755",
+    "geom:latitude":32.368755,
+    "geom:longitude":-88.702473,
+    "iso:country":"US",
+    "sg:address":"2313 12th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 553 0541",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57tI9DUjAZmU9eY5Gzn0Ju_32.368755_-88.702473@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125308,
+    "wof:geomhash":"b851691b29537e1fda56215ecd4335c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857252469
+        }
+    ],
+    "wof:id":857252469,
+    "wof:lastmodified":1464125308,
+    "wof:name":"Primebilt Dental Lab",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -88.702473,
+    32.368755,
+    -88.702473,
+    32.368755
+],
+  "geometry": {"coordinates":[-88.702473,32.368755],"type":"Point"}
+}

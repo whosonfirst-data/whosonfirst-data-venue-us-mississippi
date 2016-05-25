@@ -1,0 +1,71 @@
+{
+  "id": 857243679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.420306,33.739926,-88.420306,33.739926",
+    "geom:latitude":33.739926,
+    "geom:longitude":-88.420306,
+    "iso:country":"US",
+    "sg:address":"40116 Hamilton Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 5600",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NZo9dflm3kc2bSO6OJ3Zi_33.739926_-88.420306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125098,
+    "wof:geomhash":"27e9b857fea3026b5439c93959bbca4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857243679
+        }
+    ],
+    "wof:id":857243679,
+    "wof:lastmodified":1464125098,
+    "wof:name":"Hamilton Volunteer Fire Dept",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -88.420306,
+    33.739926,
+    -88.420306,
+    33.739926
+],
+  "geometry": {"coordinates":[-88.420306,33.739926],"type":"Point"}
+}

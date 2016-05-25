@@ -1,0 +1,73 @@
+{
+  "id": 857451523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.091606,30.370486,-89.091606,30.370486",
+    "geom:latitude":30.370486,
+    "geom:longitude":-89.091606,
+    "iso:country":"US",
+    "sg:address":"1607 24th Ave",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 575 8473",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vUMYofWgtz74LZzjJ14bi_30.370486_-89.091606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129792,
+    "wof:geomhash":"8571e688b50222f8ba01f758d3342ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857451523
+        }
+    ],
+    "wof:id":857451523,
+    "wof:lastmodified":1464129792,
+    "wof:name":"Mississippi Center For Legal",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -89.091606,
+    30.370486,
+    -89.091606,
+    30.370486
+],
+  "geometry": {"coordinates":[-89.091606,30.370486],"type":"Point"}
+}

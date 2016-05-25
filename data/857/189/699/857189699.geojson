@@ -1,0 +1,71 @@
+{
+  "id": 857189699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.623306,30.384177,-88.623306,30.384177",
+    "geom:latitude":30.384177,
+    "geom:longitude":-88.623306,
+    "iso:country":"US",
+    "sg:address":"2917 Chamberlain Rd",
+    "sg:city":"Gautier",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 497 9007",
+    "sg:postcode":"39553",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_712WE3nq0CUFMFZ9CqCepV_30.384177_-88.623306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123984,
+    "wof:geomhash":"5f75840fdb24928d68ac61561e82ac9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857189699
+        }
+    ],
+    "wof:id":857189699,
+    "wof:lastmodified":1464123984,
+    "wof:name":"St Stephen United Methodist",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.623306,
+    30.384177,
+    -88.623306,
+    30.384177
+],
+  "geometry": {"coordinates":[-88.623306,30.384177],"type":"Point"}
+}

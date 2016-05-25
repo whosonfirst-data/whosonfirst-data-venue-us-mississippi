@@ -1,0 +1,71 @@
+{
+  "id": 857342981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.664187,32.486277,-88.664187,32.486277",
+    "geom:latitude":32.486277,
+    "geom:longitude":-88.664187,
+    "iso:country":"US",
+    "sg:address":"355 Ponta Hills Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 679 8860",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2baEGaAtNC17s9cV90kUGt_32.486277_-88.664187@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127334,
+    "wof:geomhash":"bd953fd78fb6816f0f11931d10c11b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857342981
+        }
+    ],
+    "wof:id":857342981,
+    "wof:lastmodified":1464127334,
+    "wof:name":"Meridian Irrigation",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -88.664187,
+    32.486277,
+    -88.664187,
+    32.486277
+],
+  "geometry": {"coordinates":[-88.664187,32.486277],"type":"Point"}
+}

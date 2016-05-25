@@ -1,0 +1,73 @@
+{
+  "id": 857283383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.743898,34.229723,-88.743898,34.229723",
+    "geom:latitude":34.229723,
+    "geom:longitude":-88.743898,
+    "iso:country":"US",
+    "sg:address":"1878 Cedar Grove Rd",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 7934",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rnkY4y4npjW3ehuIYSZAl_34.229723_-88.743898@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125988,
+    "wof:geomhash":"bb820d1830e81d0081318a58ecca605b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857283383
+        }
+    ],
+    "wof:id":857283383,
+    "wof:lastmodified":1464125988,
+    "wof:name":"Gum Pond Property LLC",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.743898,
+    34.229723,
+    -88.743898,
+    34.229723
+],
+  "geometry": {"coordinates":[-88.743898,34.229723],"type":"Point"}
+}

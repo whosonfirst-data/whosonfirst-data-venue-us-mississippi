@@ -1,0 +1,73 @@
+{
+  "id": 857147899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.818147,33.476272,-88.818147,33.476272",
+    "geom:latitude":33.476272,
+    "geom:longitude":-88.818147,
+    "iso:country":"US",
+    "sg:address":"104 Doctor's Park",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 1097",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969577,
+        102083159,
+        85814517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MiJyv2x9ItT1VRdlTdWOn_33.476272_-88.818147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123096,
+    "wof:geomhash":"21ddcd4af27456d1751db3d463a50815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85814517,
+            "region_id":85688579,
+            "venue_id":857147899
+        }
+    ],
+    "wof:id":857147899,
+    "wof:lastmodified":1464123096,
+    "wof:name":"Starkville Urology Clinic",
+    "wof:parent_id":85814517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.818147,
+    33.476272,
+    -88.818147,
+    33.476272
+],
+  "geometry": {"coordinates":[-88.818147,33.476272],"type":"Point"}
+}

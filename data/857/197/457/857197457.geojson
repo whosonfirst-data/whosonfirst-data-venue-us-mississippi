@@ -1,0 +1,71 @@
+{
+  "id": 857197457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.719899,34.216488,-88.719899,34.216488",
+    "geom:latitude":34.216488,
+    "geom:longitude":-88.719899,
+    "iso:country":"US",
+    "sg:address":"1906 S Gloster St",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 842 7635",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62P3diWTqCRkvGeFdU63Pu_34.216488_-88.719899@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124127,
+    "wof:geomhash":"25a2f3c93f07f8b147d05868c9d6b184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857197457
+        }
+    ],
+    "wof:id":857197457,
+    "wof:lastmodified":1464124127,
+    "wof:name":"Tombigbee Electric Power Assn",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -88.719899,
+    34.216488,
+    -88.719899,
+    34.216488
+],
+  "geometry": {"coordinates":[-88.719899,34.216488],"type":"Point"}
+}

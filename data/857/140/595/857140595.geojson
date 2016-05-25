@@ -1,0 +1,73 @@
+{
+  "id": 857140595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.341761,33.457144,-88.341761,33.457144",
+    "geom:latitude":33.457144,
+    "geom:longitude":-88.341761,
+    "iso:country":"US",
+    "sg:address":"78 Powers Pl",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 0159",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ozU1XQFylAL6WvMZKkTjg_33.457144_-88.341761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122907,
+    "wof:geomhash":"2187fcd45c275200f4c0c017d8365dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857140595
+        }
+    ],
+    "wof:id":857140595,
+    "wof:lastmodified":1464122907,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -88.341761,
+    33.457144,
+    -88.341761,
+    33.457144
+],
+  "geometry": {"coordinates":[-88.34176100000001,33.457144],"type":"Point"}
+}

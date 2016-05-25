@@ -1,0 +1,73 @@
+{
+  "id": 857451481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182273,32.320377,-90.182273,32.320377",
+    "geom:latitude":32.320377,
+    "geom:longitude":-90.182273,
+    "iso:country":"US",
+    "sg:address":"1505 N West St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 354 8659",
+    "sg:postcode":"39202",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969693,
+        102081407,
+        85878397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p9snyewVzzMo4JEFtbHwk_32.320377_-90.182273@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129791,
+    "wof:geomhash":"d4de70e3236675293d3ad0142e48caa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081407,
+            "locality_id":85969693,
+            "neighbourhood_id":85878397,
+            "region_id":85688579,
+            "venue_id":857451481
+        }
+    ],
+    "wof:id":857451481,
+    "wof:lastmodified":1464129791,
+    "wof:name":"Seville Apartments",
+    "wof:parent_id":85878397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.182273,
+    32.320377,
+    -90.182273,
+    32.320377
+],
+  "geometry": {"coordinates":[-90.182273,32.320377],"type":"Point"}
+}

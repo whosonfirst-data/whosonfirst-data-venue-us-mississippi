@@ -1,0 +1,71 @@
+{
+  "id": 857275067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.805368,33.326898,-88.805368,33.326898",
+    "geom:latitude":33.326898,
+    "geom:longitude":-88.805368,
+    "iso:country":"US",
+    "sg:address":"783 Blocker Rd",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 324 0789",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KFUHqFIHsklKzr4Ql0UaK_33.326898_-88.805368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125792,
+    "wof:geomhash":"2c815eda36d5aad14e4fe403a8b1a321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822925,
+            "region_id":85688579,
+            "venue_id":857275067
+        }
+    ],
+    "wof:id":857275067,
+    "wof:lastmodified":1464125792,
+    "wof:name":"Zion Franklin United Methodist",
+    "wof:parent_id":85822925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.805368,
+    33.326898,
+    -88.805368,
+    33.326898
+],
+  "geometry": {"coordinates":[-88.805368,33.326898],"type":"Point"}
+}

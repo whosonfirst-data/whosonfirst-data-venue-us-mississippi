@@ -1,0 +1,71 @@
+{
+  "id": 857455553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.851881,33.441864,-88.851881,33.441864",
+    "geom:latitude":33.441864,
+    "geom:longitude":-88.851881,
+    "iso:country":"US",
+    "sg:address":"1012 Hwy 12 W",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 338 5324",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969577,
+        102083159,
+        85822859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yDYde8Q31jUqh2OSTbv17_33.441864_-88.851881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129864,
+    "wof:geomhash":"b5b072ff58a15e40a4f69e6cc31efd34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85969577,
+            "neighbourhood_id":85822859,
+            "region_id":85688579,
+            "venue_id":857455553
+        }
+    ],
+    "wof:id":857455553,
+    "wof:lastmodified":1464129864,
+    "wof:name":"Murphy Oil USA Inc",
+    "wof:parent_id":85822859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.851881,
+    33.441864,
+    -88.851881,
+    33.441864
+],
+  "geometry": {"coordinates":[-88.85188100000001,33.441864],"type":"Point"}
+}

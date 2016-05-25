@@ -1,0 +1,75 @@
+{
+  "id": 857227763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.685374,30.542028,-88.685374,30.542028",
+    "geom:latitude":30.542028,
+    "geom:longitude":-88.685374,
+    "iso:country":"US",
+    "sg:address":"4708 Breland Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 826 5694",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P2z8S5GTXWfIBrzvcMN8R_30.542028_-88.685374@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124767,
+    "wof:geomhash":"0328e589b974a38421b0cad31b022c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857227763
+        }
+    ],
+    "wof:id":857227763,
+    "wof:lastmodified":1464124767,
+    "wof:name":"F & H Trucking LLC",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.685374,
+    30.542028,
+    -88.685374,
+    30.542028
+],
+  "geometry": {"coordinates":[-88.685374,30.542028],"type":"Point"}
+}

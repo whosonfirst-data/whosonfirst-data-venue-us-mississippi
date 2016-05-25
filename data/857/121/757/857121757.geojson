@@ -1,0 +1,71 @@
+{
+  "id": 857121757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.212136,31.307264,-89.212136,31.307264",
+    "geom:latitude":31.307264,
+    "geom:longitude":-89.212136,
+    "iso:country":"US",
+    "sg:address":"1071 Luther Carter Rd",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 544 1071",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dgf6lTlz3XJJ0xX4TQfHD_31.307264_-89.212136@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122491,
+    "wof:geomhash":"54bb1fccea606049e9278b8c8fe01443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857121757
+        }
+    ],
+    "wof:id":857121757,
+    "wof:lastmodified":1464122491,
+    "wof:name":"Sunrise Vfd",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.212136,
+    31.307264,
+    -89.212136,
+    31.307264
+],
+  "geometry": {"coordinates":[-89.212136,31.307264],"type":"Point"}
+}

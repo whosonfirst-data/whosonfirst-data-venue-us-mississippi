@@ -1,0 +1,73 @@
+{
+  "id": 857414195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.759956,30.367032,-88.759956,30.367032",
+    "geom:latitude":30.367032,
+    "geom:longitude":-88.759956,
+    "iso:country":"US",
+    "sg:address":"9020 Warbler Ave",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 0404",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "marine",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73d0DG1Qz6XYxvHKEUlikW_30.367032_-88.759956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128947,
+    "wof:geomhash":"20ed48656d9a1de825287294613de662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857414195
+        }
+    ],
+    "wof:id":857414195,
+    "wof:lastmodified":1464128947,
+    "wof:name":"Ramon Marine Services",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.759956,
+    30.367032,
+    -88.759956,
+    30.367032
+],
+  "geometry": {"coordinates":[-88.759956,30.367032],"type":"Point"}
+}

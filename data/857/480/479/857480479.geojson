@@ -1,0 +1,76 @@
+{
+  "id": 857480479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.509184,34.362608,-89.509184,34.362608",
+    "geom:latitude":34.362608,
+    "geom:longitude":-89.509184,
+    "iso:country":"US",
+    "sg:address":"1921 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/hickory-flat/235098-roly-poly-sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 513 0404",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1189NX8XWFFfUhr7R7e5FC_34.362608_-89.509184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130378,
+    "wof:geomhash":"c167cd175382dfe79e0469e46c51abf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857480479
+        }
+    ],
+    "wof:id":857480479,
+    "wof:lastmodified":1464130378,
+    "wof:name":"Roly Poly Sandwiches",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.509184,
+    34.362608,
+    -89.509184,
+    34.362608
+],
+  "geometry": {"coordinates":[-89.509184,34.362608],"type":"Point"}
+}

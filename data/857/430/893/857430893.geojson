@@ -1,0 +1,75 @@
+{
+  "id": 857430893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.620056,32.643455,-90.620056,32.643455",
+    "geom:latitude":32.643455,
+    "geom:longitude":-90.620056,
+    "iso:country":"US",
+    "sg:address":"3043 Dixie Farm Rd",
+    "sg:city":"Satartia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 9834",
+    "sg:postcode":"39162",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t33t4LJy06sBoknpLN9zp_32.643455_-90.620056@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129362,
+    "wof:geomhash":"ae9a7ff914dff95744075d35a511ba3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857430893
+        }
+    ],
+    "wof:id":857430893,
+    "wof:lastmodified":1464129362,
+    "wof:name":"Hucks Trucking",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.620056,
+    32.643455,
+    -90.620056,
+    32.643455
+],
+  "geometry": {"coordinates":[-90.62005600000001,32.643455],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857445143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.447866,33.75037,-88.447866,33.75037",
+    "geom:latitude":33.75037,
+    "geom:longitude":-88.447866,
+    "iso:country":"US",
+    "sg:address":"40622 Old Hwy 45 S",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 343 8322",
+    "sg:postcode":"39746",
+    "sg:province":"MS",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OqWzVfGJGWiaf1de3Jx6c_33.750370_-88.447866@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129661,
+    "wof:geomhash":"b37488274852a659e126d8d18114a634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857445143
+        }
+    ],
+    "wof:id":857445143,
+    "wof:lastmodified":1464129661,
+    "wof:name":"Mitch's Gun Shop",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -88.447866,
+    33.75037,
+    -88.447866,
+    33.75037
+],
+  "geometry": {"coordinates":[-88.447866,33.75037],"type":"Point"}
+}

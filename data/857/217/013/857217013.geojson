@@ -1,0 +1,71 @@
+{
+  "id": 857217013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.763269,34.965524,-89.763269,34.965524",
+    "geom:latitude":34.965524,
+    "geom:longitude":-89.763269,
+    "iso:country":"US",
+    "sg:address":"7204 Fox Trot Cove",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 2100",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c4RYZuQIntaGi93aBFXRb_34.965524_-89.763269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124551,
+    "wof:geomhash":"a79e313ae867698871bd1fbe60587cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857217013
+        }
+    ],
+    "wof:id":857217013,
+    "wof:lastmodified":1464124551,
+    "wof:name":"Anthony Turf",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -89.763269,
+    34.965524,
+    -89.763269,
+    34.965524
+],
+  "geometry": {"coordinates":[-89.76326899999999,34.965524],"type":"Point"}
+}

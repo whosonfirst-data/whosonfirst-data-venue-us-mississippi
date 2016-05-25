@@ -1,0 +1,71 @@
+{
+  "id": 857127449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.429644,33.49503,-88.429644,33.49503",
+    "geom:latitude":33.49503,
+    "geom:longitude":-88.429644,
+    "iso:country":"US",
+    "sg:address":"623 Main St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 2886",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OdzwqV6Cz014YzVhesfQw_33.495030_-88.429644@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122617,
+    "wof:geomhash":"6c9bb48a4ea242f2303f9f95176ff80e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857127449
+        }
+    ],
+    "wof:id":857127449,
+    "wof:lastmodified":1464122617,
+    "wof:name":"Taylor Made Professional Pntrs",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.429644,
+    33.49503,
+    -88.429644,
+    33.49503
+],
+  "geometry": {"coordinates":[-88.429644,33.49503],"type":"Point"}
+}

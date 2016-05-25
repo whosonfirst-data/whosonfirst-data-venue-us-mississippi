@@ -1,0 +1,73 @@
+{
+  "id": 857135995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.881075,32.348835,-90.881075,32.348835",
+    "geom:latitude":32.348835,
+    "geom:longitude":-90.881075,
+    "iso:country":"US",
+    "sg:address":"1413 Walnut St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 631 2996",
+    "sg:postcode":"39180",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969915,
+        102083779,
+        85850453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03shFxBFvQDfPqrv64oMGG_32.348835_-90.881075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122805,
+    "wof:geomhash":"7089c7ecbaa670495425294bb6f1ee42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "neighbourhood_id":85850453,
+            "region_id":85688579,
+            "venue_id":857135995
+        }
+    ],
+    "wof:id":857135995,
+    "wof:lastmodified":1464122805,
+    "wof:name":"Vicksburg Police-Internal Affr",
+    "wof:parent_id":85850453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.881075,
+    32.348835,
+    -90.881075,
+    32.348835
+],
+  "geometry": {"coordinates":[-90.881075,32.348835],"type":"Point"}
+}

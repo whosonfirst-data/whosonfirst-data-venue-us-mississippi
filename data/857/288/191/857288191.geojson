@@ -1,0 +1,75 @@
+{
+  "id": 857288191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.206135,32.522593,-90.206135,32.522593",
+    "geom:latitude":32.522593,
+    "geom:longitude":-90.206135,
+    "iso:country":"US",
+    "sg:address":"110 Dogwood Ct",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 853 7018",
+    "sg:postcode":"39110",
+    "sg:province":"MS",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969903,
+        102085905,
+        85850859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xhx6NmNKMCP6SiuXhimZn_32.522593_-90.206135@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126088,
+    "wof:geomhash":"0409d327e8c4f45e7fe2b782c24531d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969903,
+            "neighbourhood_id":85850859,
+            "region_id":85688579,
+            "venue_id":857288191
+        }
+    ],
+    "wof:id":857288191,
+    "wof:lastmodified":1464126088,
+    "wof:name":"Cantrell Construction Company",
+    "wof:parent_id":85850859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.206135,
+    32.522593,
+    -90.206135,
+    32.522593
+],
+  "geometry": {"coordinates":[-90.206135,32.522593],"type":"Point"}
+}

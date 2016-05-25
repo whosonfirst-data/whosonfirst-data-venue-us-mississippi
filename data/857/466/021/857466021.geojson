@@ -1,0 +1,71 @@
+{
+  "id": 857466021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.428142,34.419969,-89.428142,34.419969",
+    "geom:latitude":34.419969,
+    "geom:longitude":-89.428142,
+    "iso:country":"US",
+    "sg:address":"201 Co Rd 202",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 9002",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85868907,
+        102083165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0scnSpn6fc2eRxLiEkVsB6_34.419969_-89.428142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130089,
+    "wof:geomhash":"38eef5b005c16af46a5c6fc3bf802cc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "neighbourhood_id":85868907,
+            "region_id":85688579,
+            "venue_id":857466021
+        }
+    ],
+    "wof:id":857466021,
+    "wof:lastmodified":1464130089,
+    "wof:name":"Will Smith Trucking",
+    "wof:parent_id":85868907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.428142,
+    34.419969,
+    -89.428142,
+    34.419969
+],
+  "geometry": {"coordinates":[-89.42814199999999,34.419969],"type":"Point"}
+}

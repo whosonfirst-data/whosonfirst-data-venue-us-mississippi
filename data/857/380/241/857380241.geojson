@@ -1,0 +1,66 @@
+{
+  "id": 857380241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.284185,30.945669,-89.284185,30.945669",
+    "geom:latitude":30.945669,
+    "geom:longitude":-89.284185,
+    "iso:country":"US",
+    "sg:address":"264 Nova Johnson Rd",
+    "sg:city":"Lumberton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 528 9038",
+    "sg:postcode":"39455",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dvBHXU7uU0c0k1jlTFkIy_30.945669_-89.284185@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128127,
+    "wof:geomhash":"4c58c9d3d047de700e19dec4fceb458f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857380241
+        }
+    ],
+    "wof:id":857380241,
+    "wof:lastmodified":1464128127,
+    "wof:name":"Doctor Drain",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.284185,
+    30.945669,
+    -89.284185,
+    30.945669
+],
+  "geometry": {"coordinates":[-89.28418499999999,30.945669],"type":"Point"}
+}

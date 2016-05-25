@@ -1,0 +1,71 @@
+{
+  "id": 857237379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.7288,34.233874,-88.7288,34.233874",
+    "geom:latitude":34.233874,
+    "geom:longitude":-88.7288,
+    "iso:country":"US",
+    "sg:address":"2173 Lawndale Dr",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 844 3844",
+    "sg:postcode":"38801",
+    "sg:province":"MS",
+    "sg:tags":[
+        "disability"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85830115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Na9iHvaH7POvJqWeJ1Pss_34.233874_-88.728800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124953,
+    "wof:geomhash":"116abed16ca266c5e9f9d79abcb2cc91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85830115,
+            "region_id":85688579,
+            "venue_id":857237379
+        }
+    ],
+    "wof:id":857237379,
+    "wof:lastmodified":1464124953,
+    "wof:name":"North Mississippi Regional Ctr",
+    "wof:parent_id":85830115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability"
+    ]
+},
+  "bbox": [
+    -88.7288,
+    34.233874,
+    -88.7288,
+    34.233874
+],
+  "geometry": {"coordinates":[-88.72880000000001,34.233874],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857348563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553968,34.195525,-90.553968,34.195525",
+    "geom:latitude":34.195525,
+    "geom:longitude":-90.553968,
+    "iso:country":"US",
+    "sg:address":"864 Ritchie Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 5593",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P1jg7kl1o9YjGaq1YlxUR_34.195525_-90.553968@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127454,
+    "wof:geomhash":"14a80a30797dd754b9a1b17b769fe0fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857348563
+        }
+    ],
+    "wof:id":857348563,
+    "wof:lastmodified":1464127454,
+    "wof:name":"Clarksdale Radiology",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.553968,
+    34.195525,
+    -90.553968,
+    34.195525
+],
+  "geometry": {"coordinates":[-90.553968,34.195525],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857479835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57119,34.20294,-90.57119,34.20294",
+    "geom:latitude":34.20294,
+    "geom:longitude":-90.57119,
+    "iso:country":"US",
+    "sg:address":"233 Sharkey Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 624 6018",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "force",
+        "armed",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ERBHJlETvdJnURbXPablu_34.202922_-90.571271@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130367,
+    "wof:geomhash":"37d7864a14118ddbc2c24e5bec15572f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857479835
+        }
+    ],
+    "wof:id":857479835,
+    "wof:lastmodified":1464130367,
+    "wof:name":"US Navy Recruiting",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "force",
+        "armed",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -90.57119,
+    34.20294,
+    -90.57119,
+    34.20294
+],
+  "geometry": {"coordinates":[-90.57119,34.20294],"type":"Point"}
+}

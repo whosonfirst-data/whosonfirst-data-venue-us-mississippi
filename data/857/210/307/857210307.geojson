@@ -1,0 +1,75 @@
+{
+  "id": 857210307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.327425,33.528763,-88.327425,33.528763",
+    "geom:latitude":33.528763,
+    "geom:longitude":-88.327425,
+    "iso:country":"US",
+    "sg:address":"5107 Hwy 50 E",
+    "sg:city":"Steens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 6337",
+    "sg:postcode":"39766",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51NYFgmThKA3y23vI2l8Zd_33.528763_-88.327425@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124395,
+    "wof:geomhash":"54ae6d26eca1c110dd90f0fc2c6920a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857210307
+        }
+    ],
+    "wof:id":857210307,
+    "wof:lastmodified":1464124395,
+    "wof:name":"John Holliman Construction",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.327425,
+    33.528763,
+    -88.327425,
+    33.528763
+],
+  "geometry": {"coordinates":[-88.32742500000001,33.528763],"type":"Point"}
+}

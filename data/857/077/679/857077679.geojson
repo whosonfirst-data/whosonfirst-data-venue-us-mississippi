@@ -1,0 +1,71 @@
+{
+  "id": 857077679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.546215,30.362405,-88.546215,30.362405",
+    "geom:latitude":30.362405,
+    "geom:longitude":-88.546215,
+    "iso:country":"US",
+    "sg:address":"1719 Tucker Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 938 6727",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p684zAZuSgEQFtu7D5Glh_30.362405_-88.546215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121347,
+    "wof:geomhash":"9d83c31da6167df34f8166c215586add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857077679
+        }
+    ],
+    "wof:id":857077679,
+    "wof:lastmodified":1464121347,
+    "wof:name":"Pascagoula Dixie Youth Basebll",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -88.546215,
+    30.362405,
+    -88.546215,
+    30.362405
+],
+  "geometry": {"coordinates":[-88.546215,30.362405],"type":"Point"}
+}

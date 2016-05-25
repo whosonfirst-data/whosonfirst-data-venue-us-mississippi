@@ -1,0 +1,83 @@
+{
+  "id": 857486597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554031,34.193915,-90.554031,34.193915",
+    "geom:latitude":34.193915,
+    "geom:longitude":-90.554031,
+    "iso:country":"US",
+    "sg:address":"924 Ritchie Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 7411",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ],
+    "sg:website":"http://www.arng.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1q9bJTQ6kIU6Im34a0Je_34.193915_-90.554031@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130496,
+    "wof:geomhash":"636cb55911a903be03158d1207114316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857486597
+        }
+    ],
+    "wof:id":857486597,
+    "wof:lastmodified":1464130496,
+    "wof:name":"National Guard Armory",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -90.554031,
+    34.193915,
+    -90.554031,
+    34.193915
+],
+  "geometry": {"coordinates":[-90.55403099999999,34.193915],"type":"Point"}
+}

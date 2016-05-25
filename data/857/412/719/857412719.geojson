@@ -1,0 +1,71 @@
+{
+  "id": 857412719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640153,34.264442,-88.640153,34.264442",
+    "geom:latitude":34.264442,
+    "geom:longitude":-88.640153,
+    "iso:country":"US",
+    "sg:address":"2810 Hwy 178",
+    "sg:city":"Tupelo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 840 1111",
+    "sg:postcode":"38804",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969769,
+        102083171,
+        85847891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qNPVxi418PcWvu13Ebuyp_34.264442_-88.640153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128917,
+    "wof:geomhash":"9e7405f32cc2ddaae6a917a7bdbf27be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083171,
+            "locality_id":85969769,
+            "neighbourhood_id":85847891,
+            "region_id":85688579,
+            "venue_id":857412719
+        }
+    ],
+    "wof:id":857412719,
+    "wof:lastmodified":1464128917,
+    "wof:name":"Skyline Super C",
+    "wof:parent_id":85847891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.640153,
+    34.264442,
+    -88.640153,
+    34.264442
+],
+  "geometry": {"coordinates":[-88.640153,34.264442],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857303387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.331114,31.300677,-89.331114,31.300677",
+    "geom:latitude":31.300677,
+    "geom:longitude":-89.331114,
+    "iso:country":"US",
+    "sg:address":"1420 S 28th Ave",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 264 3937",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.southerneyecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SrYS8pXk45pOWNtlNr8jb_31.300677_-89.331114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126484,
+    "wof:geomhash":"decdfe542b01bb807a6f0501b44481cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857303387
+        }
+    ],
+    "wof:id":857303387,
+    "wof:lastmodified":1464126484,
+    "wof:name":"Southern Eye Ctr",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.331114,
+    31.300677,
+    -89.331114,
+    31.300677
+],
+  "geometry": {"coordinates":[-89.331114,31.300677],"type":"Point"}
+}

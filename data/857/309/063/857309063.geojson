@@ -1,0 +1,71 @@
+{
+  "id": 857309063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.648381,33.603539,-88.648381,33.603539",
+    "geom:latitude":33.603539,
+    "geom:longitude":-88.648381,
+    "iso:country":"US",
+    "sg:address":"306 E Westbrook St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 494 8693",
+    "sg:postcode":"39773",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969879,
+        102082439,
+        85838287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66p3OiEJPA1VGxlujZQndl_33.603539_-88.648381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126600,
+    "wof:geomhash":"3e2f177254796dab17b7a657c8b62fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082439,
+            "locality_id":85969879,
+            "neighbourhood_id":85838287,
+            "region_id":85688579,
+            "venue_id":857309063
+        }
+    ],
+    "wof:id":857309063,
+    "wof:lastmodified":1464126600,
+    "wof:name":"Bryan Youth Ctr",
+    "wof:parent_id":85838287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.648381,
+    33.603539,
+    -88.648381,
+    33.603539
+],
+  "geometry": {"coordinates":[-88.648381,33.603539],"type":"Point"}
+}

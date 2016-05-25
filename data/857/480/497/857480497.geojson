@@ -1,0 +1,72 @@
+{
+  "id": 857480497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.562055,34.362376,-89.562055,34.362376",
+    "geom:latitude":34.362376,
+    "geom:longitude":-89.562055,
+    "iso:country":"US",
+    "sg:address":"2204 Jackson Ave W",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ms/oxford/227143-dippin-dots/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 232 8820",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IXUQzvQSQnCQuHVa8YH8n_34.362376_-89.562055@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130378,
+    "wof:geomhash":"2caa89cb8d49376a95deb7761220026f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857480497
+        }
+    ],
+    "wof:id":857480497,
+    "wof:lastmodified":1464130378,
+    "wof:name":"Dippin' Dots",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.562055,
+    34.362376,
+    -89.562055,
+    34.362376
+],
+  "geometry": {"coordinates":[-89.562055,34.362376],"type":"Point"}
+}

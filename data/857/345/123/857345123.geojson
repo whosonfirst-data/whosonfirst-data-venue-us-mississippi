@@ -1,0 +1,75 @@
+{
+  "id": 857345123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.985923,32.272803,-89.985923,32.272803",
+    "geom:latitude":32.272803,
+    "geom:longitude":-89.985923,
+    "iso:country":"US",
+    "sg:address":"208 Courtyard",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 591 4900",
+    "sg:postcode":"39042",
+    "sg:province":"MS",
+    "sg:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969955,
+        102084869,
+        85853479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4L5jPfteYPZp2IYrUJ4w_32.272803_-89.985923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127371,
+    "wof:geomhash":"bb3f5bef56134d578e41bbcd95cfa2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084869,
+            "locality_id":85969955,
+            "neighbourhood_id":85853479,
+            "region_id":85688579,
+            "venue_id":857345123
+        }
+    ],
+    "wof:id":857345123,
+    "wof:lastmodified":1464127371,
+    "wof:name":"Mississippi Waste Water",
+    "wof:parent_id":85853479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -89.985923,
+    32.272803,
+    -89.985923,
+    32.272803
+],
+  "geometry": {"coordinates":[-89.985923,32.272803],"type":"Point"}
+}

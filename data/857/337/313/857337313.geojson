@@ -1,0 +1,71 @@
+{
+  "id": 857337313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.428489,33.521301,-88.428489,33.521301",
+    "geom:latitude":33.521301,
+    "geom:longitude":-88.428489,
+    "iso:country":"US",
+    "sg:address":"515 Willowbrook Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 7525",
+    "sg:postcode":"39705",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZcsgvUBZOzgiL7xztAH4C_33.521301_-88.428489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127218,
+    "wof:geomhash":"435a84617a5e9fbdd1cb56825b326585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857337313
+        }
+    ],
+    "wof:id":857337313,
+    "wof:lastmodified":1464127218,
+    "wof:name":"Alan T Williams MD",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.428489,
+    33.521301,
+    -88.428489,
+    33.521301
+],
+  "geometry": {"coordinates":[-88.428489,33.521301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857195279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.263678,31.337258,-89.263678,31.337258",
+    "geom:latitude":31.337258,
+    "geom:longitude":-89.263678,
+    "iso:country":"US",
+    "sg:address":"109 W 8th Ave",
+    "sg:city":"Petal",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 545 8208",
+    "sg:postcode":"39465",
+    "sg:province":"MS",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i4QMfDjLQGwaEJFdlaHAg_31.337258_-89.263678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124085,
+    "wof:geomhash":"009b933428ab16402e72de34b9044917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857195279
+        }
+    ],
+    "wof:id":857195279,
+    "wof:lastmodified":1464124085,
+    "wof:name":"Petal Fire Dept #1",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.263678,
+    31.337258,
+    -89.263678,
+    31.337258
+],
+  "geometry": {"coordinates":[-89.263678,31.337258],"type":"Point"}
+}

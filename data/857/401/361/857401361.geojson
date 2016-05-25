@@ -1,0 +1,74 @@
+{
+  "id": 857401361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.548558,30.356036,-88.548558,30.356036",
+    "geom:latitude":30.356036,
+    "geom:longitude":-88.548558,
+    "iso:country":"US",
+    "sg:address":"2203 Market St",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 3533",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.estabrooktoyota.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55dRd53EtPROMitfYPvkGj_30.356036_-88.548558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128652,
+    "wof:geomhash":"db230f1d888b5764167a85fac2f4e6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857401361
+        }
+    ],
+    "wof:id":857401361,
+    "wof:lastmodified":1464128652,
+    "wof:name":"Estabrook Toyota",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.548558,
+    30.356036,
+    -88.548558,
+    30.356036
+],
+  "geometry": {"coordinates":[-88.548558,30.356036],"type":"Point"}
+}

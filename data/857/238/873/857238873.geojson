@@ -1,0 +1,71 @@
+{
+  "id": 857238873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414596,32.864175,-90.414596,32.864175",
+    "geom:latitude":32.864175,
+    "geom:longitude":-90.414596,
+    "iso:country":"US",
+    "sg:address":"450 Shady Dr",
+    "sg:city":"Yazoo City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 746 7664",
+    "sg:postcode":"39194",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970027,
+        102086661,
+        85827605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0yeF6e3hClOPm1yzdnwY_32.864175_-90.414596@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124980,
+    "wof:geomhash":"e051f67613fd22502738a44cec48b683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086661,
+            "locality_id":85970027,
+            "neighbourhood_id":85827605,
+            "region_id":85688579,
+            "venue_id":857238873
+        }
+    ],
+    "wof:id":857238873,
+    "wof:lastmodified":1464124980,
+    "wof:name":"Neighborhood Grocery & Diner",
+    "wof:parent_id":85827605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.414596,
+    32.864175,
+    -90.414596,
+    32.864175
+],
+  "geometry": {"coordinates":[-90.414596,32.864175],"type":"Point"}
+}

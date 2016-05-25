@@ -1,0 +1,73 @@
+{
+  "id": 857112593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.303401,31.341019,-89.303401,31.341019",
+    "geom:latitude":31.341019,
+    "geom:longitude":-89.303401,
+    "iso:country":"US",
+    "sg:address":"1502 N Main St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 8933",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k3wso1pMRan8JNTdspjtD_31.341019_-89.303401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122244,
+    "wof:geomhash":"5a1b276549e1e6717837129b0600450c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857112593
+        }
+    ],
+    "wof:id":857112593,
+    "wof:lastmodified":1464122244,
+    "wof:name":"Dynamic Mold & Mfg",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -89.303401,
+    31.341019,
+    -89.303401,
+    31.341019
+],
+  "geometry": {"coordinates":[-89.30340099999999,31.341019],"type":"Point"}
+}

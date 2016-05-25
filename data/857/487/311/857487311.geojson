@@ -1,0 +1,80 @@
+{
+  "id": 857487311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563766,34.194229,-90.563766,34.194229",
+    "geom:latitude":34.194229,
+    "geom:longitude":-90.563766,
+    "iso:country":"US",
+    "sg:address":"819 Desoto Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2114",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85845093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72oCt4l4BLB0ywdfYjJJlY_34.194229_-90.563766@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1464130512,
+    "wof:geomhash":"80fe8e3ba3a485e85975d0106fe9b003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85845093,
+            "region_id":85688579,
+            "venue_id":857487311
+        }
+    ],
+    "wof:id":857487311,
+    "wof:lastmodified":1464130512,
+    "wof:name":"Crossroads Furniture Inc.",
+    "wof:parent_id":85845093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -90.563766,
+    34.194229,
+    -90.563766,
+    34.194229
+],
+  "geometry": {"coordinates":[-90.563766,34.194229],"type":"Point"}
+}

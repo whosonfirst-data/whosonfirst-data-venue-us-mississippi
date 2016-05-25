@@ -1,0 +1,73 @@
+{
+  "id": 857109579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.83983,30.512097,-88.83983,30.512097",
+    "geom:latitude":30.512097,
+    "geom:longitude":-88.83983,
+    "iso:country":"US",
+    "sg:address":"13921 Jim Ramsey Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 392 6300",
+    "sg:postcode":"39565",
+    "sg:province":"MS",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kRmTt8SI4FJmWBVYhv2V7_30.512097_-88.839830@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122144,
+    "wof:geomhash":"2510d7cf8021602865fe508b90215910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857109579
+        }
+    ],
+    "wof:id":857109579,
+    "wof:lastmodified":1464122144,
+    "wof:name":"Technical Solutions and Dev",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.83983,
+    30.512097,
+    -88.83983,
+    30.512097
+],
+  "geometry": {"coordinates":[-88.83983000000001,30.512097],"type":"Point"}
+}

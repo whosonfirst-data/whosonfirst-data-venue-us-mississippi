@@ -1,0 +1,77 @@
+{
+  "id": 857454483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.9904,30.389524,-88.9904,30.389524",
+    "geom:latitude":30.389524,
+    "geom:longitude":-88.9904,
+    "iso:country":"US",
+    "sg:address":"2630 Beach Blvd",
+    "sg:city":"Biloxi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 388 9511",
+    "sg:postcode":"39531",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969861,
+        102087223,
+        85805117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JHVpcX6IdHQ3qT6fW4Znu_30.389524_-88.990400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129846,
+    "wof:geomhash":"c31f38ab2a79119686c24f2088881b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969861,
+            "neighbourhood_id":85805117,
+            "region_id":85688579,
+            "venue_id":857454483
+        }
+    ],
+    "wof:id":857454483,
+    "wof:lastmodified":1464129846,
+    "wof:name":"Edgewater Conoco",
+    "wof:parent_id":85805117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.9904,
+    30.389524,
+    -88.9904,
+    30.389524
+],
+  "geometry": {"coordinates":[-88.99039999999999,30.389524],"type":"Point"}
+}

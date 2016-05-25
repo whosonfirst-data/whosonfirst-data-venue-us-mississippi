@@ -1,0 +1,71 @@
+{
+  "id": 857467617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55979,34.195341,-90.55979,34.195341",
+    "geom:latitude":34.195341,
+    "geom:longitude":-90.55979,
+    "iso:country":"US",
+    "sg:address":"811 Mc Kinley St",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 9285",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RWqbZfZ9Xx6SuRZx2hEb5_34.195341_-90.559790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464130118,
+    "wof:geomhash":"afdc933a1c2860999934c7e8f93b3b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857467617
+        }
+    ],
+    "wof:id":857467617,
+    "wof:lastmodified":1464130118,
+    "wof:name":"Horton Used Cars",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.55979,
+    34.195341,
+    -90.55979,
+    34.195341
+],
+  "geometry": {"coordinates":[-90.55979000000001,34.195341],"type":"Point"}
+}

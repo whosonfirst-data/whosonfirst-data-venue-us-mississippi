@@ -1,0 +1,73 @@
+{
+  "id": 857261425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.285002,31.311841,-89.285002,31.311841",
+    "geom:latitude":31.311841,
+    "geom:longitude":-89.285002,
+    "iso:country":"US",
+    "sg:address":"1024 Edwards St",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 296 1313",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "residential",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85858833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KMN1GwCs6m8iDOpUl0r13_31.311841_-89.285002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125524,
+    "wof:geomhash":"1aacee9118d6f0c314ece02e4cf4421c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85858833,
+            "region_id":85688579,
+            "venue_id":857261425
+        }
+    ],
+    "wof:id":857261425,
+    "wof:lastmodified":1464125524,
+    "wof:name":"Cobb Construction Inc",
+    "wof:parent_id":85858833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -89.285002,
+    31.311841,
+    -89.285002,
+    31.311841
+],
+  "geometry": {"coordinates":[-89.28500200000001,31.311841],"type":"Point"}
+}

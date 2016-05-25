@@ -1,0 +1,71 @@
+{
+  "id": 857136833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.32551,33.440488,-88.32551,33.440488",
+    "geom:latitude":33.440488,
+    "geom:longitude":-88.32551,
+    "iso:country":"US",
+    "sg:address":"2110 Lake Lowndes Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4940",
+    "sg:postcode":"39702",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970251,
+        102081023,
+        85810039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W8WbgsiWczKDz4khHYWJm_33.440488_-88.325510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122826,
+    "wof:geomhash":"830b704c80dbcfae8d3de61e94414a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85970251,
+            "neighbourhood_id":85810039,
+            "region_id":85688579,
+            "venue_id":857136833
+        }
+    ],
+    "wof:id":857136833,
+    "wof:lastmodified":1464122826,
+    "wof:name":"Family Health Clinic New Hope",
+    "wof:parent_id":85810039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.32551,
+    33.440488,
+    -88.32551,
+    33.440488
+],
+  "geometry": {"coordinates":[-88.32550999999999,33.440488],"type":"Point"}
+}

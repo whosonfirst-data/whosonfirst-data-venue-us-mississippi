@@ -1,0 +1,71 @@
+{
+  "id": 857144665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.430788,33.495834,-88.430788,33.495834",
+    "geom:latitude":33.495834,
+    "geom:longitude":-88.430788,
+    "iso:country":"US",
+    "sg:address":"112 N 3rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 5050",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GoGmHRzQySQ2sz51YCFpm_33.495834_-88.430788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123027,
+    "wof:geomhash":"74f427b68b91a6fefe1c97cef02f68bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857144665
+        }
+    ],
+    "wof:id":857144665,
+    "wof:lastmodified":1464123027,
+    "wof:name":"Riverhill Property Management",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.430788,
+    33.495834,
+    -88.430788,
+    33.495834
+],
+  "geometry": {"coordinates":[-88.43078800000001,33.495834],"type":"Point"}
+}

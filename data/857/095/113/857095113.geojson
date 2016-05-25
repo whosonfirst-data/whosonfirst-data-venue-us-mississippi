@@ -1,0 +1,71 @@
+{
+  "id": 857095113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.515116,32.487639,-88.515116,32.487639",
+    "geom:latitude":32.487639,
+    "geom:longitude":-88.515116,
+    "iso:country":"US",
+    "sg:address":"3747 Lake Shore Dr",
+    "sg:city":"Lauderdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 632 4680",
+    "sg:postcode":"39335",
+    "sg:province":"MS",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VQ0s93IAax3KB8PpgcPii_32.487639_-88.515116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121791,
+    "wof:geomhash":"f8e801f96a01fb0e7859575eff3f6190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857095113
+        }
+    ],
+    "wof:id":857095113,
+    "wof:lastmodified":1464121791,
+    "wof:name":"Richardson Construction",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.515116,
+    32.487639,
+    -88.515116,
+    32.487639
+],
+  "geometry": {"coordinates":[-88.51511600000001,32.487639],"type":"Point"}
+}

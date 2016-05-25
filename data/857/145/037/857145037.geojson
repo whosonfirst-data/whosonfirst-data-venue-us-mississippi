@@ -1,0 +1,73 @@
+{
+  "id": 857145037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.548278,34.2083,-90.548278,34.2083",
+    "geom:latitude":34.2083,
+    "geom:longitude":-90.548278,
+    "iso:country":"US",
+    "sg:address":"225 Indiana Ave",
+    "sg:city":"Clarksdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 627 2312",
+    "sg:postcode":"38614",
+    "sg:province":"MS",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970093,
+        102080633,
+        85836181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hTDYRLS2zCkEDnb2UZo6i_34.208300_-90.548278@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123042,
+    "wof:geomhash":"e6296f0756f51173bcb9043203752ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080633,
+            "locality_id":85970093,
+            "neighbourhood_id":85836181,
+            "region_id":85688579,
+            "venue_id":857145037
+        }
+    ],
+    "wof:id":857145037,
+    "wof:lastmodified":1464123042,
+    "wof:name":"Quality Heating & Air & Elec",
+    "wof:parent_id":85836181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.548278,
+    34.2083,
+    -90.548278,
+    34.2083
+],
+  "geometry": {"coordinates":[-90.548278,34.2083],"type":"Point"}
+}

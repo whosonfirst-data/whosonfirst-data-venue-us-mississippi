@@ -1,0 +1,71 @@
+{
+  "id": 857397907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.798203,33.458887,-88.798203,33.458887",
+    "geom:latitude":33.458887,
+    "geom:longitude":-88.798203,
+    "iso:country":"US",
+    "sg:address":"604 Hwy 12 E",
+    "sg:city":"Starkville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 323 6650",
+    "sg:postcode":"39759",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970193,
+        102083159,
+        85836327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWzLAfwzLcbPYqn4Qjb4t_33.458887_-88.798203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128586,
+    "wof:geomhash":"8bcb76b2099bf2cd03996c0b764b850b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083159,
+            "locality_id":85970193,
+            "neighbourhood_id":85836327,
+            "region_id":85688579,
+            "venue_id":857397907
+        }
+    ],
+    "wof:id":857397907,
+    "wof:lastmodified":1464128586,
+    "wof:name":"Tower Loan",
+    "wof:parent_id":85836327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.798203,
+    33.458887,
+    -88.798203,
+    33.458887
+],
+  "geometry": {"coordinates":[-88.798203,33.458887],"type":"Point"}
+}

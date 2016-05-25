@@ -1,0 +1,77 @@
+{
+  "id": 857430359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.444835,31.578636,-90.444835,31.578636",
+    "geom:latitude":31.578636,
+    "geom:longitude":-90.444835,
+    "iso:country":"US",
+    "sg:address":"217 S Jackson St",
+    "sg:city":"Brookhaven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 833 8883",
+    "sg:postcode":"39601",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair",
+        "boot",
+        "shoe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969977,
+        102084871,
+        85841011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4COnedzH3lKaJkwX5OWKLD_31.578636_-90.444835@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129352,
+    "wof:geomhash":"1d7b25cac99ec7df2b271155c1e67a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084871,
+            "locality_id":85969977,
+            "neighbourhood_id":85841011,
+            "region_id":85688579,
+            "venue_id":857430359
+        }
+    ],
+    "wof:id":857430359,
+    "wof:lastmodified":1464129352,
+    "wof:name":"Rushing Shoe Shop",
+    "wof:parent_id":85841011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "boot",
+        "shoe"
+    ]
+},
+  "bbox": [
+    -90.444835,
+    31.578636,
+    -90.444835,
+    31.578636
+],
+  "geometry": {"coordinates":[-90.444835,31.578636],"type":"Point"}
+}

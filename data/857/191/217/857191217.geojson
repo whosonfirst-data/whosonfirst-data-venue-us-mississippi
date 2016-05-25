@@ -1,0 +1,85 @@
+{
+  "id": 857191217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.095373,30.45774,-89.095373,30.45774",
+    "geom:latitude":30.45774,
+    "geom:longitude":-89.095373,
+    "iso:country":"US",
+    "sg:address":"15292 Royal St",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 832 3863",
+    "sg:postcode":"39503",
+    "sg:province":"MS",
+    "sg:tags":[
+        "instructor",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85838583,
+        85868905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A1YvcGwRBhpFnp8PDtqHZ_30.457740_-89.095373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124010,
+    "wof:geomhash":"213b2408e33e3af6c700377114feaf28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85838583,
+            "region_id":85688579,
+            "venue_id":857191217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85868905,
+            "region_id":85688579,
+            "venue_id":857191217
+        }
+    ],
+    "wof:id":857191217,
+    "wof:lastmodified":1464124010,
+    "wof:name":"Janet O Commer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instructor",
+        "music"
+    ]
+},
+  "bbox": [
+    -89.095373,
+    30.45774,
+    -89.095373,
+    30.45774
+],
+  "geometry": {"coordinates":[-89.095373,30.45774],"type":"Point"}
+}

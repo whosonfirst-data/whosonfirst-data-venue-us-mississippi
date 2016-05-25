@@ -1,0 +1,71 @@
+{
+  "id": 857453431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.515586,34.36361,-89.515586,34.36361",
+    "geom:latitude":34.36361,
+    "geom:longitude":-89.515586,
+    "iso:country":"US",
+    "sg:address":"1529 University Ave",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 236 6848",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lY0fFz4NghwrjO0NSrE4q_34.363610_-89.515586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129825,
+    "wof:geomhash":"04b3f4f06aee001521d150b8e33ff0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857453431
+        }
+    ],
+    "wof:id":857453431,
+    "wof:lastmodified":1464129825,
+    "wof:name":"Computer System Products",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -89.515586,
+    34.36361,
+    -89.515586,
+    34.36361
+],
+  "geometry": {"coordinates":[-89.515586,34.36361],"type":"Point"}
+}

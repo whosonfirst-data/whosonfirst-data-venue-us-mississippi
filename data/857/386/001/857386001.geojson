@@ -1,0 +1,68 @@
+{
+  "id": 857386001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.743601,32.365529,-88.743601,32.365529",
+    "geom:latitude":32.365529,
+    "geom:longitude":-88.743601,
+    "iso:country":"US",
+    "sg:address":"802 64th Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 484 7438",
+    "sg:postcode":"39307",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969517,
+        102085897,
+        85847207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJ4G3woCNJPHRX2NLrUuo_32.365529_-88.743601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128324,
+    "wof:geomhash":"baab54255ae1a1acd486d8a756b6c735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85847207,
+            "region_id":85688579,
+            "venue_id":857386001
+        }
+    ],
+    "wof:id":857386001,
+    "wof:lastmodified":1464128324,
+    "wof:name":"Kappa Alpha PSI Frat",
+    "wof:parent_id":85847207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.743601,
+    32.365529,
+    -88.743601,
+    32.365529
+],
+  "geometry": {"coordinates":[-88.743601,32.365529],"type":"Point"}
+}

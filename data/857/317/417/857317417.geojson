@@ -1,0 +1,71 @@
+{
+  "id": 857317417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.540875,33.8202,-88.540875,33.8202",
+    "geom:latitude":33.8202,
+    "geom:longitude":-88.540875,
+    "iso:country":"US",
+    "sg:address":"502 S Chestnut St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 369 7167",
+    "sg:postcode":"39730",
+    "sg:province":"MS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969841,
+        102083163,
+        85852769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Icqz7uULQMiaKp2Edg7km_33.820200_-88.540875@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126781,
+    "wof:geomhash":"c9598517b122835c3c6df043edb43b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083163,
+            "locality_id":85969841,
+            "neighbourhood_id":85852769,
+            "region_id":85688579,
+            "venue_id":857317417
+        }
+    ],
+    "wof:id":857317417,
+    "wof:lastmodified":1464126781,
+    "wof:name":"Aberdeen Physcn Off Wns Group",
+    "wof:parent_id":85852769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.540875,
+    33.8202,
+    -88.540875,
+    33.8202
+],
+  "geometry": {"coordinates":[-88.540875,33.8202],"type":"Point"}
+}

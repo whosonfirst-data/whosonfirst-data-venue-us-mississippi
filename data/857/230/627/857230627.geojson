@@ -1,0 +1,71 @@
+{
+  "id": 857230627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.321885,31.304009,-89.321885,31.304009",
+    "geom:latitude":31.304009,
+    "geom:longitude":-89.321885,
+    "iso:country":"US",
+    "sg:address":"2300 Lincoln Rd",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 268 6770",
+    "sg:postcode":"39402",
+    "sg:province":"MS",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85844401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h4GjaIxvR6RKvOOCKT8gH_31.304009_-89.321885@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124818,
+    "wof:geomhash":"7d093d3ae0ef1bc94af54b419b0b73b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85844401,
+            "region_id":85688579,
+            "venue_id":857230627
+        }
+    ],
+    "wof:id":857230627,
+    "wof:lastmodified":1464124818,
+    "wof:name":"Cedarcrest Apartments",
+    "wof:parent_id":85844401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.321885,
+    31.304009,
+    -89.321885,
+    31.304009
+],
+  "geometry": {"coordinates":[-89.32188499999999,31.304009],"type":"Point"}
+}

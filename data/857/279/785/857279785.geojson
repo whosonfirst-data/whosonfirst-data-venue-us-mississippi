@@ -1,0 +1,73 @@
+{
+  "id": 857279785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.566402,34.368818,-89.566402,34.368818",
+    "geom:latitude":34.368818,
+    "geom:longitude":-89.566402,
+    "iso:country":"US",
+    "sg:address":"211 James Cir",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 915 1601",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "project",
+        "coordinator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85858823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vABCG10nnwR7TTwYRqW6d_34.368818_-89.566402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125916,
+    "wof:geomhash":"f297c69019d8de562a6fbbcf0b475b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85858823,
+            "region_id":85688579,
+            "venue_id":857279785
+        }
+    ],
+    "wof:id":857279785,
+    "wof:lastmodified":1464125916,
+    "wof:name":"Project Coordinator",
+    "wof:parent_id":85858823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project",
+        "coordinator"
+    ]
+},
+  "bbox": [
+    -89.566402,
+    34.368818,
+    -89.566402,
+    34.368818
+],
+  "geometry": {"coordinates":[-89.566402,34.368818],"type":"Point"}
+}

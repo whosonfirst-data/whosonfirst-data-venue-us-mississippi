@@ -1,0 +1,71 @@
+{
+  "id": 857091731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.248615,30.313835,-89.248615,30.313835",
+    "geom:latitude":30.313835,
+    "geom:longitude":-89.248615,
+    "iso:country":"US",
+    "sg:address":"110 W Scenic Dr",
+    "sg:city":"Pass Christian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 452 7920",
+    "sg:postcode":"39571",
+    "sg:province":"MS",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969871,
+        102087223,
+        85852273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hDqcYQQ14YTJHUYH9Mc3b_30.313835_-89.248615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464121727,
+    "wof:geomhash":"c71894b8ec8a74f9462aef3f9c2574f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969871,
+            "neighbourhood_id":85852273,
+            "region_id":85688579,
+            "venue_id":857091731
+        }
+    ],
+    "wof:id":857091731,
+    "wof:lastmodified":1464121727,
+    "wof:name":"Ironsmith",
+    "wof:parent_id":85852273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -89.248615,
+    30.313835,
+    -89.248615,
+    30.313835
+],
+  "geometry": {"coordinates":[-89.248615,30.313835],"type":"Point"}
+}

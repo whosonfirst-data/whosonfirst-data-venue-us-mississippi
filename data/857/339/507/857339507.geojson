@@ -1,0 +1,71 @@
+{
+  "id": 857339507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.523468,34.350341,-89.523468,34.350341",
+    "geom:latitude":34.350341,
+    "geom:longitude":-89.523468,
+    "iso:country":"US",
+    "sg:address":"1115 Mimosa Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 234 7800",
+    "sg:postcode":"38655",
+    "sg:province":"MS",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969753,
+        102083165,
+        85852013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FNUrwrN2ha1iISFkiEaUC_34.350341_-89.523468@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127260,
+    "wof:geomhash":"3b6eb684adbd31f615c13afa7dc80d6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083165,
+            "locality_id":85969753,
+            "neighbourhood_id":85852013,
+            "region_id":85688579,
+            "venue_id":857339507
+        }
+    ],
+    "wof:id":857339507,
+    "wof:lastmodified":1464127260,
+    "wof:name":"Oxford Urology Clinic",
+    "wof:parent_id":85852013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.523468,
+    34.350341,
+    -89.523468,
+    34.350341
+],
+  "geometry": {"coordinates":[-89.52346799999999,34.350341],"type":"Point"}
+}

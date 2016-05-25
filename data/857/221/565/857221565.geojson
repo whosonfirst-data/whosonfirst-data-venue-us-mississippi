@@ -1,0 +1,73 @@
+{
+  "id": 857221565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.787588,30.38698,-88.787588,30.38698",
+    "geom:latitude":30.38698,
+    "geom:longitude":-88.787588,
+    "iso:country":"US",
+    "sg:address":"10721 Eagle Nest Rd",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 875 3121",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "charitable",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p3K868WszPpBB8H3Dz0PK_30.386980_-88.787588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124647,
+    "wof:geomhash":"a6be13ba07ba340baadc96e2836f36f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857221565
+        }
+    ],
+    "wof:id":857221565,
+    "wof:lastmodified":1464124647,
+    "wof:name":"Theocentric Services",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.787588,
+    30.38698,
+    -88.787588,
+    30.38698
+],
+  "geometry": {"coordinates":[-88.787588,30.38698],"type":"Point"}
+}

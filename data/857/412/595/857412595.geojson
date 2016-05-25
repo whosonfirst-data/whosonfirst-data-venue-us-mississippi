@@ -1,0 +1,71 @@
+{
+  "id": 857412595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696872,32.360438,-88.696872,32.360438",
+    "geom:latitude":32.360438,
+    "geom:longitude":-88.696872,
+    "iso:country":"US",
+    "sg:address":"200 22nd Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 693 2791",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LPdu5fQFZAjEUEhFvrEDf_32.360438_-88.696872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128915,
+    "wof:geomhash":"15ec70e2e5c7733ed7d327de8088d041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857412595
+        }
+    ],
+    "wof:id":857412595,
+    "wof:lastmodified":1464128915,
+    "wof:name":"King Loan Svc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.696872,
+    32.360438,
+    -88.696872,
+    32.360438
+],
+  "geometry": {"coordinates":[-88.696872,32.360438],"type":"Point"}
+}

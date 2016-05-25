@@ -1,0 +1,67 @@
+{
+  "id": 857200911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639047,32.368116,-88.639047,32.368116",
+    "geom:latitude":32.368116,
+    "geom:longitude":-88.639047,
+    "iso:country":"US",
+    "sg:address":"1078 Bonita Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8929",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:website":"www.dillards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ksSZvuKRdW2MuJeQLEQkL_32.368116_-88.639047@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464124192,
+    "wof:geomhash":"ab5c682cd01258c242439958fe1783d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857200911
+        }
+    ],
+    "wof:id":857200911,
+    "wof:lastmodified":1464124192,
+    "wof:name":"Dillard's",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.639047,
+    32.368116,
+    -88.639047,
+    32.368116
+],
+  "geometry": {"coordinates":[-88.63904700000001,32.368116],"type":"Point"}
+}

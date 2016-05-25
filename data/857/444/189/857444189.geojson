@@ -1,0 +1,71 @@
+{
+  "id": 857444189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.426565,33.512901,-88.426565,33.512901",
+    "geom:latitude":33.512901,
+    "geom:longitude":-88.426565,
+    "iso:country":"US",
+    "sg:address":"1611 N 6th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 329 4920",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wgLXEeFijKmv5jz8lbpJi_33.512901_-88.426565@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129643,
+    "wof:geomhash":"3728d174fa7a531cb4a9621d1102c84d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857444189
+        }
+    ],
+    "wof:id":857444189,
+    "wof:lastmodified":1464129643,
+    "wof:name":"Petty's Cleaning Svc",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -88.426565,
+    33.512901,
+    -88.426565,
+    33.512901
+],
+  "geometry": {"coordinates":[-88.426565,33.512901],"type":"Point"}
+}

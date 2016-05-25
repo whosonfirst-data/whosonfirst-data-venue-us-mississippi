@@ -1,0 +1,71 @@
+{
+  "id": 857373101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.699023,32.360092,-88.699023,32.360092",
+    "geom:latitude":32.360092,
+    "geom:longitude":-88.699023,
+    "iso:country":"US",
+    "sg:address":"2407 A St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 483 9343",
+    "sg:postcode":"39301",
+    "sg:province":"MS",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZA6kplCW5pxMJ9E63CUud_32.360092_-88.699023@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127971,
+    "wof:geomhash":"a8c8868d9f609d4b8eeb89532d044ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857373101
+        }
+    ],
+    "wof:id":857373101,
+    "wof:lastmodified":1464127971,
+    "wof:name":"Goldman Enterprises Inc",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -88.699023,
+    32.360092,
+    -88.699023,
+    32.360092
+],
+  "geometry": {"coordinates":[-88.699023,32.360092],"type":"Point"}
+}

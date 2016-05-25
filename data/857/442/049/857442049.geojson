@@ -1,0 +1,73 @@
+{
+  "id": 857442049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.819385,34.94765,-89.819385,34.94765",
+    "geom:latitude":34.94765,
+    "geom:longitude":-89.819385,
+    "iso:country":"US",
+    "sg:address":"9835 E Sandidge Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 893 0200",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969779,
+        102085895,
+        85818521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32iMqoQ8Rv0eC27BPQAC49_34.947650_-89.819385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129606,
+    "wof:geomhash":"63f0a15aa46e09510f17917a31ef048e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85969779,
+            "neighbourhood_id":85818521,
+            "region_id":85688579,
+            "venue_id":857442049
+        }
+    ],
+    "wof:id":857442049,
+    "wof:lastmodified":1464129606,
+    "wof:name":"JMC Heating & Air Cond",
+    "wof:parent_id":85818521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.819385,
+    34.94765,
+    -89.819385,
+    34.94765
+],
+  "geometry": {"coordinates":[-89.819385,34.94765],"type":"Point"}
+}

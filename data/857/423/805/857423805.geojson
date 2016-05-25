@@ -1,0 +1,73 @@
+{
+  "id": 857423805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.419307,33.501614,-88.419307,33.501614",
+    "geom:latitude":33.501614,
+    "geom:longitude":-88.419307,
+    "iso:country":"US",
+    "sg:address":"506 N 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 327 3784",
+    "sg:postcode":"39701",
+    "sg:province":"MS",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969825,
+        102081023,
+        85822905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e9dWIQP223BywCpzwtMOM_33.501614_-88.419307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129186,
+    "wof:geomhash":"ffd1658b0c113eb141a19348e4d40885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081023,
+            "locality_id":85969825,
+            "neighbourhood_id":85822905,
+            "region_id":85688579,
+            "venue_id":857423805
+        }
+    ],
+    "wof:id":857423805,
+    "wof:lastmodified":1464129186,
+    "wof:name":"Weathers Refrigeration & Elect",
+    "wof:parent_id":85822905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.419307,
+    33.501614,
+    -88.419307,
+    33.501614
+],
+  "geometry": {"coordinates":[-88.419307,33.501614],"type":"Point"}
+}

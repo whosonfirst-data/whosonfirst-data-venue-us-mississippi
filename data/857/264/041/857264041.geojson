@@ -1,0 +1,75 @@
+{
+  "id": 857264041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.661139,32.36513,-90.661139,32.36513",
+    "geom:latitude":32.36513,
+    "geom:longitude":-90.661139,
+    "iso:country":"US",
+    "sg:address":"600 Port Cir",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 636 2008",
+    "sg:postcode":"39183",
+    "sg:province":"MS",
+    "sg:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85970273,
+        102083779,
+        85829579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uriVCwUQFssV4vaaIxLSX_32.365130_-90.661139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125574,
+    "wof:geomhash":"1096118ba2691d138f884f560aceeb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85970273,
+            "neighbourhood_id":85829579,
+            "region_id":85688579,
+            "venue_id":857264041
+        }
+    ],
+    "wof:id":857264041,
+    "wof:lastmodified":1464125574,
+    "wof:name":"Tyson Foods Inc",
+    "wof:parent_id":85829579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [
+    -90.661139,
+    32.36513,
+    -90.661139,
+    32.36513
+],
+  "geometry": {"coordinates":[-90.66113900000001,32.36513],"type":"Point"}
+}

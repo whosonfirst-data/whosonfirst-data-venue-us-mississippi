@@ -1,0 +1,68 @@
+{
+  "id": 857433475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.062904,30.388489,-89.062904,30.388489",
+    "geom:latitude":30.388489,
+    "geom:longitude":-89.062904,
+    "iso:country":"US",
+    "sg:address":"608 Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 539 7029",
+    "sg:postcode":"39501",
+    "sg:province":"MS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6miDBYDkLI1dn1z9NZlsgs_30.388489_-89.062904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129438,
+    "wof:geomhash":"9fcd87d4f0ad9e84a751376d459c3c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857433475
+        }
+    ],
+    "wof:id":857433475,
+    "wof:lastmodified":1464129438,
+    "wof:name":"Gulf Coast Comm Fed Cu",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.062904,
+    30.388489,
+    -89.062904,
+    30.388489
+],
+  "geometry": {"coordinates":[-89.062904,30.388489],"type":"Point"}
+}

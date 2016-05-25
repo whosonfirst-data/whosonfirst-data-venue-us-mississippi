@@ -1,0 +1,82 @@
+{
+  "id": 857157745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.865948,34.974092,-89.865948,34.974092",
+    "geom:latitude":34.974092,
+    "geom:longitude":-89.865948,
+    "iso:country":"US",
+    "sg:address":"8281 Frontage Rd",
+    "sg:city":"Olive Branch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 662 890 7455",
+    "sg:postcode":"38654",
+    "sg:province":"MS",
+    "sg:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85970237,
+        102085895,
+        85833095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kOuU1t6bFNaky1xjVUYRR_34.974092_-89.865948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123298,
+    "wof:geomhash":"fcea40e48a77072a6863e1c0d9f09e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085895,
+            "locality_id":85970237,
+            "neighbourhood_id":85833095,
+            "region_id":85688579,
+            "venue_id":857157745
+        }
+    ],
+    "wof:id":857157745,
+    "wof:lastmodified":1464123298,
+    "wof:name":"Landgistics Inc",
+    "wof:parent_id":85833095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.865948,
+    34.974092,
+    -89.865948,
+    34.974092
+],
+  "geometry": {"coordinates":[-89.865948,34.974092],"type":"Point"}
+}

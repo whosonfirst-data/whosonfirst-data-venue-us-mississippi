@@ -1,0 +1,80 @@
+{
+  "id": 857423747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.055767,30.390949,-89.055767,30.390949",
+    "geom:latitude":30.390949,
+    "geom:longitude":-89.055767,
+    "iso:country":"US",
+    "sg:address":"388 Pass Rd",
+    "sg:city":"Gulfport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 863 2301",
+    "sg:postcode":"39507",
+    "sg:province":"MS",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        102191575,
+        85633793,
+        85969867,
+        102087223,
+        85834655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kjDTRg7yJvODJbZkosOIT_30.390949_-89.055767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464129184,
+    "wof:geomhash":"96ce32f4fdb5df97430c9a593e09cb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087223,
+            "locality_id":85969867,
+            "neighbourhood_id":85834655,
+            "region_id":85688579,
+            "venue_id":857423747
+        }
+    ],
+    "wof:id":857423747,
+    "wof:lastmodified":1464129184,
+    "wof:name":"Martha's Cleaners & Laundry",
+    "wof:parent_id":85834655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -89.055767,
+    30.390949,
+    -89.055767,
+    30.390949
+],
+  "geometry": {"coordinates":[-89.055767,30.390949],"type":"Point"}
+}

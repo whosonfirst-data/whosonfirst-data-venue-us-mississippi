@@ -1,0 +1,67 @@
+{
+  "id": 857407011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701948,32.404556,-88.701948,32.404556",
+    "geom:latitude":32.404556,
+    "geom:longitude":-88.701948,
+    "iso:country":"US",
+    "sg:address":"4271 Poplar Springs Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 482 8515",
+    "sg:postcode":"39305",
+    "sg:province":"MS",
+    "sg:website":"www.pigfordandcorey.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969517,
+        102085897,
+        85806651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1siXW370K6SsbAEvwSXSQl_32.404556_-88.701948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128768,
+    "wof:geomhash":"7f5c857f1fd0314c9065060c8c1a8a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085897,
+            "locality_id":85969517,
+            "neighbourhood_id":85806651,
+            "region_id":85688579,
+            "venue_id":857407011
+        }
+    ],
+    "wof:id":857407011,
+    "wof:lastmodified":1464128768,
+    "wof:name":"Pigford & Corey Realtors",
+    "wof:parent_id":85806651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.701948,
+    32.404556,
+    -88.701948,
+    32.404556
+],
+  "geometry": {"coordinates":[-88.701948,32.404556],"type":"Point"}
+}

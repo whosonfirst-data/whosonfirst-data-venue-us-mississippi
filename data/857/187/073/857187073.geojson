@@ -1,0 +1,71 @@
+{
+  "id": 857187073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.994811,31.912769,-90.994811,31.912769",
+    "geom:latitude":31.912769,
+    "geom:longitude":-90.994811,
+    "iso:country":"US",
+    "sg:address":"3031 US Hwy 61",
+    "sg:city":"Port Gibson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 437 8293",
+    "sg:postcode":"39150",
+    "sg:province":"MS",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85822851,
+        102081891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H3H8EEDxuoPxdS5odVHDy_31.912769_-90.994811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464123934,
+    "wof:geomhash":"82fa867f1c43b572408df7644b44c540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081891,
+            "neighbourhood_id":85822851,
+            "region_id":85688579,
+            "venue_id":857187073
+        }
+    ],
+    "wof:id":857187073,
+    "wof:lastmodified":1464123934,
+    "wof:name":"Traceway Lube Shop",
+    "wof:parent_id":85822851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -90.994811,
+    31.912769,
+    -90.994811,
+    31.912769
+],
+  "geometry": {"coordinates":[-90.994811,31.912769],"type":"Point"}
+}

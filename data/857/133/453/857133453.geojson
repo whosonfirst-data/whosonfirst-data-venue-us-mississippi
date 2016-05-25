@@ -1,0 +1,76 @@
+{
+  "id": 857133453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.480962,30.408678,-88.480962,30.408678",
+    "geom:latitude":30.408678,
+    "geom:longitude":-88.480962,
+    "iso:country":"US",
+    "sg:address":"7637 Old Stage Rd",
+    "sg:city":"Moss Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 474 7906",
+    "sg:postcode":"39563",
+    "sg:province":"MS",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RHCFa5wo9rUbXAxFghVUb_30.408678_-88.480962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122751,
+    "wof:geomhash":"35fb28e2f315fa128c92bf0a441404d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857133453
+        }
+    ],
+    "wof:id":857133453,
+    "wof:lastmodified":1464122751,
+    "wof:name":"Mike's Truck & Trailer Repair",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.480962,
+    30.408678,
+    -88.480962,
+    30.408678
+],
+  "geometry": {"coordinates":[-88.48096200000001,30.408678],"type":"Point"}
+}

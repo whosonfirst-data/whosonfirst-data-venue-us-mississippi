@@ -1,0 +1,71 @@
+{
+  "id": 857269175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.735515,30.40491,-88.735515,30.40491",
+    "geom:latitude":30.40491,
+    "geom:longitude":-88.735515,
+    "iso:country":"US",
+    "sg:address":"7313 US Hwy 90",
+    "sg:city":"Ocean Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 864 7109",
+    "sg:postcode":"39564",
+    "sg:province":"MS",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969591,
+        102083161,
+        85847223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQKbN8cj4F0FESZqDJ7CM_30.404910_-88.735515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464125669,
+    "wof:geomhash":"fdf901f5262ac51d85dd14eb445f0f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "neighbourhood_id":85847223,
+            "region_id":85688579,
+            "venue_id":857269175
+        }
+    ],
+    "wof:id":857269175,
+    "wof:lastmodified":1464125669,
+    "wof:name":"White's & Sons Tree Svc Inc",
+    "wof:parent_id":85847223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -88.735515,
+    30.40491,
+    -88.735515,
+    30.40491
+],
+  "geometry": {"coordinates":[-88.73551500000001,30.40491],"type":"Point"}
+}

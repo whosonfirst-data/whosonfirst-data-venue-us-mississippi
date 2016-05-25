@@ -1,0 +1,71 @@
+{
+  "id": 857345665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.039481,32.505222,-90.039481,32.505222",
+    "geom:latitude":32.505222,
+    "geom:longitude":-90.039481,
+    "iso:country":"US",
+    "sg:address":"1278 N Old Canton Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 605 2090",
+    "sg:postcode":"39046",
+    "sg:province":"MS",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969905,
+        102085905,
+        85852001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VD6UlU25tbAFTI2onT4kQ_32.505222_-90.039481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464127386,
+    "wof:geomhash":"b614c241450423760f2f9b2c6793a89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085905,
+            "locality_id":85969905,
+            "neighbourhood_id":85852001,
+            "region_id":85688579,
+            "venue_id":857345665
+        }
+    ],
+    "wof:id":857345665,
+    "wof:lastmodified":1464127386,
+    "wof:name":"Fairview Missionary Bapt Chr",
+    "wof:parent_id":85852001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.039481,
+    32.505222,
+    -90.039481,
+    32.505222
+],
+  "geometry": {"coordinates":[-90.03948099999999,32.505222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857390061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.545621,30.354769,-88.545621,30.354769",
+    "geom:latitude":30.354769,
+    "geom:longitude":-88.545621,
+    "iso:country":"US",
+    "sg:address":"1804 Ingalls Ave",
+    "sg:city":"Pascagoula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 228 762 5292",
+    "sg:postcode":"39567",
+    "sg:province":"MS",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969597,
+        102083161,
+        85816787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJ0MVwn7wMxDRwBRWLI6f_30.354769_-88.545621@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464128432,
+    "wof:geomhash":"1ed05ac591dbfe8f9e4d03412fc9a0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969597,
+            "neighbourhood_id":85816787,
+            "region_id":85688579,
+            "venue_id":857390061
+        }
+    ],
+    "wof:id":857390061,
+    "wof:lastmodified":1464128432,
+    "wof:name":"Jerry Lee's Grocery & Market",
+    "wof:parent_id":85816787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.545621,
+    30.354769,
+    -88.545621,
+    30.354769
+],
+  "geometry": {"coordinates":[-88.545621,30.354769],"type":"Point"}
+}

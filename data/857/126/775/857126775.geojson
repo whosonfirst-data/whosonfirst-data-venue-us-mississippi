@@ -1,0 +1,71 @@
+{
+  "id": 857126775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.334055,31.347658,-89.334055,31.347658",
+    "geom:latitude":31.347658,
+    "geom:longitude":-89.334055,
+    "iso:country":"US",
+    "sg:address":"5008 Hwy 42",
+    "sg:city":"Hattiesburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 601 583 0291",
+    "sg:postcode":"39401",
+    "sg:province":"MS",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688579,
+        85633793,
+        85969939,
+        102086673,
+        85848011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pqm6YBsvWLF83VwHCDuZ1_31.347658_-89.334055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464122602,
+    "wof:geomhash":"80912174708b110069aea29fd8fc7994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086673,
+            "locality_id":85969939,
+            "neighbourhood_id":85848011,
+            "region_id":85688579,
+            "venue_id":857126775
+        }
+    ],
+    "wof:id":857126775,
+    "wof:lastmodified":1464122602,
+    "wof:name":"Health Department",
+    "wof:parent_id":85848011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -89.334055,
+    31.347658,
+    -89.334055,
+    31.347658
+],
+  "geometry": {"coordinates":[-89.33405500000001,31.347658],"type":"Point"}
+}
