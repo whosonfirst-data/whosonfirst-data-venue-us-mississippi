@@ -2,13 +2,14 @@
   "id": 403975797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.53259,34.908889,-88.53259,34.908889",
     "geom:latitude":34.908889,
     "geom:longitude":-88.53259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2643 S Harper Rd",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403975797,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1466641058,
     "wof:name":"Corinth Sewage Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-88.53259,34.908889,-88.53259,34.908889],
+  "bbox": [
+    -88.53259,
+    34.908889,
+    -88.53259,
+    34.908889
+],
   "geometry": {"coordinates":[-88.53259,34.908889],"type":"Point"}
 }

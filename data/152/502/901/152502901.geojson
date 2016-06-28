@@ -2,13 +2,14 @@
   "id": 152502901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.207709,34.507904,-88.207709,34.507904",
     "geom:latitude":34.507904,
     "geom:longitude":-88.207709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 2nd St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152502901,
-    "wof:lastmodified":1449046428,
+    "wof:lastmodified":1466641048,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.207709,34.507904,-88.207709,34.507904],
-  "geometry": {"coordinates":[-88.207709,34.507904],"type":"Point"}
+  "bbox": [
+    -88.207709,
+    34.507904,
+    -88.207709,
+    34.507904
+],
+  "geometry": {"coordinates":[-88.20770899999999,34.507904],"type":"Point"}
 }

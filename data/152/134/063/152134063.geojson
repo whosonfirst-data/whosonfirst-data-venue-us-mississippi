@@ -2,13 +2,14 @@
   "id": 152134063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.2075,34.507785,-88.2075,34.507785",
     "geom:latitude":34.507785,
     "geom:longitude":-88.2075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 2nd St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152134063,
-    "wof:lastmodified":1449048662,
+    "wof:lastmodified":1466641041,
     "wof:name":"Spirit Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.2075,34.507785,-88.2075,34.507785],
+  "bbox": [
+    -88.2075,
+    34.507785,
+    -88.2075,
+    34.507785
+],
   "geometry": {"coordinates":[-88.2075,34.507785],"type":"Point"}
 }

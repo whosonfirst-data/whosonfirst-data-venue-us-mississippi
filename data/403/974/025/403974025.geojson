@@ -2,13 +2,14 @@
   "id": 403974025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007555,35.009786,-90.007555,35.009786",
     "geom:latitude":35.009786,
     "geom:longitude":-90.007555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5134 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403974025,
-    "wof:lastmodified":1449055796,
+    "wof:lastmodified":1466641058,
     "wof:name":"Upscale",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.007555,35.009786,-90.007555,35.009786],
+  "bbox": [
+    -90.007555,
+    35.009786,
+    -90.007555,
+    35.009786
+],
   "geometry": {"coordinates":[-90.007555,35.009786],"type":"Point"}
 }

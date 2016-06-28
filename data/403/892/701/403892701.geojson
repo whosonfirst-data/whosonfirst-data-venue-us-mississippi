@@ -2,13 +2,14 @@
   "id": 403892701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007662,35.006426,-90.007662,35.006426",
     "geom:latitude":35.006426,
     "geom:longitude":-90.007662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5170 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403892701,
-    "wof:lastmodified":1449054824,
+    "wof:lastmodified":1466641058,
     "wof:name":"Andrea's Beauty Beautique",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.007662,35.006426,-90.007662,35.006426],
+  "bbox": [
+    -90.007662,
+    35.006426,
+    -90.007662,
+    35.006426
+],
   "geometry": {"coordinates":[-90.007662,35.006426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404176231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.502443,34.93085,-88.502443,34.93085",
     "geom:latitude":34.93085,
     "geom:longitude":-88.502443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Proper St",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404176231,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1466641057,
     "wof:name":"Lee Highway Floral Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.502443,34.93085,-88.502443,34.93085],
+  "bbox": [
+    -88.502443,
+    34.93085,
+    -88.502443,
+    34.93085
+],
   "geometry": {"coordinates":[-88.502443,34.93085],"type":"Point"}
 }

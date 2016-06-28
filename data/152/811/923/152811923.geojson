@@ -2,13 +2,14 @@
   "id": 152811923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.213391,34.516168,-88.213391,34.516168",
     "geom:latitude":34.516168,
     "geom:longitude":-88.213391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 2nd St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152811923,
-    "wof:lastmodified":1449046533,
+    "wof:lastmodified":1466641053,
     "wof:name":"Dickerson Trim Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.213391,34.516168,-88.213391,34.516168],
+  "bbox": [
+    -88.213391,
+    34.516168,
+    -88.213391,
+    34.516168
+],
   "geometry": {"coordinates":[-88.213391,34.516168],"type":"Point"}
 }

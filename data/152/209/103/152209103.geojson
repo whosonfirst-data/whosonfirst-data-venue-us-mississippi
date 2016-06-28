@@ -2,13 +2,14 @@
   "id": 152209103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.213712,34.525532,-88.213712,34.525532",
     "geom:latitude":34.525532,
     "geom:longitude":-88.213712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Old Hwy 25",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152209103,
-    "wof:lastmodified":1449048431,
+    "wof:lastmodified":1466641042,
     "wof:name":"Southeast Surplus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.213712,34.525532,-88.213712,34.525532],
+  "bbox": [
+    -88.213712,
+    34.525532,
+    -88.213712,
+    34.525532
+],
   "geometry": {"coordinates":[-88.213712,34.525532],"type":"Point"}
 }

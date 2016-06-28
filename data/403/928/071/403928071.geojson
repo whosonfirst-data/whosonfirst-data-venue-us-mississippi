@@ -2,13 +2,14 @@
   "id": 403928071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.519529,34.934738,-88.519529,34.934738",
     "geom:latitude":34.934738,
     "geom:longitude":-88.519529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 E Waldron St",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403928071,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466641058,
     "wof:name":"Borroum's Drug Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.519529,34.934738,-88.519529,34.934738],
-  "geometry": {"coordinates":[-88.519529,34.934738],"type":"Point"}
+  "bbox": [
+    -88.519529,
+    34.934738,
+    -88.519529,
+    34.934738
+],
+  "geometry": {"coordinates":[-88.51952900000001,34.934738],"type":"Point"}
 }

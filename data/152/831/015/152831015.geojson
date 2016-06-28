@@ -2,13 +2,14 @@
   "id": 152831015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.207351,34.500114,-88.207351,34.500114",
     "geom:latitude":34.500114,
     "geom:longitude":-88.207351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Main St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152831015,
-    "wof:lastmodified":1449047013,
+    "wof:lastmodified":1466641053,
     "wof:name":"Belmont United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.207351,34.500114,-88.207351,34.500114],
+  "bbox": [
+    -88.207351,
+    34.500114,
+    -88.207351,
+    34.500114
+],
   "geometry": {"coordinates":[-88.207351,34.500114],"type":"Point"}
 }

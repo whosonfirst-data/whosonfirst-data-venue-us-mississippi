@@ -2,13 +2,14 @@
   "id": 404180101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.000887,35.001713,-90.000887,35.001713",
     "geom:latitude":35.001713,
     "geom:longitude":-90.000887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1873 Pomona Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404180101,
-    "wof:lastmodified":1449039115,
+    "wof:lastmodified":1466641057,
     "wof:name":"Tank Entertainment",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-90.000887,35.001713,-90.000887,35.001713],
-  "geometry": {"coordinates":[-90.000887,35.001713],"type":"Point"}
+  "bbox": [
+    -90.000887,
+    35.001713,
+    -90.000887,
+    35.001713
+],
+  "geometry": {"coordinates":[-90.00088700000001,35.001713],"type":"Point"}
 }
