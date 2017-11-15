@@ -2,14 +2,20 @@
   "id": 857119623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"1321",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.310504,31.324797,-89.310504,31.324797",
     "geom:latitude":31.324797,
     "geom:longitude":-89.310504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1321 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WlWAQLoeqGljLGIihnkmX_31.324797_-89.310504@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122442,
-    "wof:geomhash":"6829e6e7478e965fbe3f226a818de749",
+    "wof:geomhash":"17fcf77f8dbc7e891edc7956fd9a042c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857119623,
-    "wof:lastmodified":1466636263,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

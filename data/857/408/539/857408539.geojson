@@ -2,14 +2,20 @@
   "id": 857408539,
   "type": "Feature",
   "properties": {
+    "addr:full":"14045 Airport Rd Gulfport MS 39503",
+    "addr:housenumber":"14045",
+    "addr:postcode":"39503",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.065607,30.419798,-89.065607,30.419798",
     "geom:latitude":30.419798,
     "geom:longitude":-89.065607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14045 Airport Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X0hjWKRoIPYqPwRvpnuYW_30.419798_-89.065607@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128804,
-    "wof:geomhash":"5e22901255bbed672527b16663f369d1",
+    "wof:geomhash":"5936d1cce11297d3910dafe60a537b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857408539,
-    "wof:lastmodified":1466640022,
+    "wof:lastmodified":1510613425,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

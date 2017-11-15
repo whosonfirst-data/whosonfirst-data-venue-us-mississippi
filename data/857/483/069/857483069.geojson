@@ -2,14 +2,20 @@
   "id": 857483069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1065 River Oaks Dr Flowood MS 39232",
+    "addr:housenumber":"1065",
+    "addr:postcode":"39232",
+    "addr:street":"River Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.106457,32.326123,-90.106457,32.326123",
     "geom:latitude":32.326123,
     "geom:longitude":-90.106457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1065 River Oaks Dr",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084869,
         85855043
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M1v3IE28xmVI7bqCcM6Ak_32.326123_-90.106457@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130429,
-    "wof:geomhash":"272ba1daf57d3ac87f94113c61ad4f8b",
+    "wof:geomhash":"f8d9ee4336a82b20b19f802d91212664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857483069,
-    "wof:lastmodified":1466640929,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85855043,
     "wof:placetype":"venue",

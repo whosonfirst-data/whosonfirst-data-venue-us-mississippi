@@ -2,14 +2,20 @@
   "id": 857151733,
   "type": "Feature",
   "properties": {
+    "addr:full":"2363 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2363",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.975854,30.401753,-88.975854,30.401753",
     "geom:latitude":30.401753,
     "geom:longitude":-88.975854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2363 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YqVmx38PpqHKLYEPE5PYv_30.401753_-88.975854@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123182,
-    "wof:geomhash":"f25f3c1df019384a3fdfaf82da13ac75",
+    "wof:geomhash":"0a20b5f3e3136cbd7ecf0ad42ec37146",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857151733,
-    "wof:lastmodified":1466636638,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

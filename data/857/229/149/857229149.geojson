@@ -2,14 +2,20 @@
   "id": 857229149,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Bonita Dr Meridian MS 39301",
+    "addr:housenumber":"515",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.663944,32.368763,-88.663944,32.368763",
     "geom:latitude":32.368763,
     "geom:longitude":-88.663944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 Bonita Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125157561,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zeE8Qld7ldIWRiZciLIYJ_32.368763_-88.663944@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124792,
-    "wof:geomhash":"d265bd4c4801c7b3e9c517328be7a196",
+    "wof:geomhash":"b6b63b65d062203c998946fac561263e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857229149,
-    "wof:lastmodified":1466637399,
+    "wof:lastmodified":1510699303,
     "wof:name":"Bellsouth",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

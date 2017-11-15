@@ -2,14 +2,20 @@
   "id": 857188051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4324 Welch Ave Moss Point MS 39563",
+    "addr:housenumber":"4324",
+    "addr:postcode":"39563",
+    "addr:street":"Welch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.536266,30.409366,-88.536266,30.409366",
     "geom:latitude":30.409366,
     "geom:longitude":-88.536266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4324 Welch Ave",
     "sg:city":"Moss Point",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62G7rBVCOgINkknNi49105_30.409366_-88.536266@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123952,
-    "wof:geomhash":"4785857015f59f40c55adf949af4b23f",
+    "wof:geomhash":"011566213faea48ddcd8b72e3c0f1ea4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857188051,
-    "wof:lastmodified":1466636914,
+    "wof:lastmodified":1510615133,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

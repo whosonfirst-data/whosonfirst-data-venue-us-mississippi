@@ -2,14 +2,20 @@
   "id": 857360029,
   "type": "Feature",
   "properties": {
+    "addr:full":"10606 Diberville Blvd Diberville MS 39540",
+    "addr:housenumber":"10606",
+    "addr:postcode":"39540",
+    "addr:street":"Diberville Blvd Diberville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.898542,30.44122,-88.898542,30.44122",
     "geom:latitude":30.44122,
     "geom:longitude":-88.898542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10606 Diberville Blvd",
     "sg:city":"Diberville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Zf9P2vdyMvZZM7GEn7GG5_30.441220_-88.898542@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127697,
-    "wof:geomhash":"1055e3b8a3393b0579a8aeaa6b92b75e",
+    "wof:geomhash":"7cae30588cd8b7b2044a4201c02f07d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857360029,
-    "wof:lastmodified":1466639280,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

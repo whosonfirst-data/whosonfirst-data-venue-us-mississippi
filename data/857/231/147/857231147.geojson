@@ -2,14 +2,20 @@
   "id": 857231147,
   "type": "Feature",
   "properties": {
+    "addr:full":"6248 Old Canton Rd Jackson MS 39211",
+    "addr:housenumber":"6248",
+    "addr:postcode":"39211",
+    "addr:street":"Old Canton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.112378,32.391567,-90.112378,32.391567",
     "geom:latitude":32.391567,
     "geom:longitude":-90.112378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6248 Old Canton Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85845725
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Uq7uwoE9auBzV47MFH2EX_32.391567_-90.112378@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124827,
-    "wof:geomhash":"7bd91dfcedf3954df9f244dd36e2a0e2",
+    "wof:geomhash":"98a026a67fdb222bae31d80e780a5902",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857231147,
-    "wof:lastmodified":1466637423,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85845725,
     "wof:placetype":"venue",

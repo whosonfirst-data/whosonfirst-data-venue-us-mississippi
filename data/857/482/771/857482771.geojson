@@ -2,14 +2,20 @@
   "id": 857482771,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 I-55 N Jackson MS 39211",
+    "addr:housenumber":"5050",
+    "addr:postcode":"39211",
+    "addr:street":"I-55 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.149129,32.367964,-90.149129,32.367964",
     "geom:latitude":32.367964,
     "geom:longitude":-90.149129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5050 I-55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j3T6Gc42nHII2tshObhPI_32.367964_-90.149129@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130424,
-    "wof:geomhash":"4b2b3dd69696b86801929bddddd49bf8",
+    "wof:geomhash":"7a638d1d36f715c15a789cf1f8939538",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857482771,
-    "wof:lastmodified":1466641034,
+    "wof:lastmodified":1510696975,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

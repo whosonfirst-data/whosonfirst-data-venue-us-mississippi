@@ -2,14 +2,20 @@
   "id": 857332573,
   "type": "Feature",
   "properties": {
+    "addr:full":"3197 Brooks St Tupelo MS 38801",
+    "addr:housenumber":"3197",
+    "addr:postcode":"38801",
+    "addr:street":"Brooks St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.755367,34.213221,-88.755367,34.213221",
     "geom:latitude":34.213221,
     "geom:longitude":-88.755367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3197 Brooks St",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85830115
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33PZ062uEMSb62tFdYzqXe_34.213221_-88.755367@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127114,
-    "wof:geomhash":"2df592a560c37d73b0adcac3ef0a18bb",
+    "wof:geomhash":"a09f1d873c71978f3108d384c65645ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857332573,
-    "wof:lastmodified":1466639006,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85830115,
     "wof:placetype":"venue",

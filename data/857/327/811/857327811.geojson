@@ -2,14 +2,20 @@
   "id": 857327811,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Eckford Dr Starkville MS 39759",
+    "addr:housenumber":"107",
+    "addr:postcode":"39759",
+    "addr:street":"Eckford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.818423,33.453863,-88.818423,33.453863",
     "geom:latitude":33.453863,
     "geom:longitude":-88.818423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Eckford Dr",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083159,
         85841087
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bzkwfgqWkzotux2qVAyAF_33.453863_-88.818423@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127008,
-    "wof:geomhash":"f002ff205bbf5fd7c6e1ea965c28e26b",
+    "wof:geomhash":"c9a4a23d263e440e1d16e52376eb4b31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857327811,
-    "wof:lastmodified":1466638952,
+    "wof:lastmodified":1510695860,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85841087,
     "wof:placetype":"venue",

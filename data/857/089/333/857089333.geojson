@@ -2,14 +2,20 @@
   "id": 857089333,
   "type": "Feature",
   "properties": {
+    "addr:full":"3611 Denny Ave Pascagoula MS 39581",
+    "addr:housenumber":"3611",
+    "addr:postcode":"39581",
+    "addr:street":"Denny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.528433,30.37736,-88.528433,30.37736",
     "geom:latitude":30.37736,
     "geom:longitude":-88.528433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3611 Denny Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E5BVWUetJMUjakg8VznDy_30.377360_-88.528433@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121653,
-    "wof:geomhash":"80c7df9e70e827ba3ddfc4cd84c5d1b3",
+    "wof:geomhash":"cdc6b6f367f9641776c0edf694d33741",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857089333,
-    "wof:lastmodified":1466635833,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

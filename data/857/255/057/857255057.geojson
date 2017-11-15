@@ -2,14 +2,20 @@
   "id": 857255057,
   "type": "Feature",
   "properties": {
+    "addr:full":"534 Hunters Creek Cir Madison MS 39110",
+    "addr:housenumber":"534",
+    "addr:postcode":"39110",
+    "addr:street":"Hunters Creek Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117871,32.471871,-90.117871,32.471871",
     "geom:latitude":32.471871,
     "geom:longitude":-90.117871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"534 Hunters Creek Cir",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JKRzCo1XgjzwUpU0SaNUb_32.471871_-90.117871@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125377,
-    "wof:geomhash":"39e39b06a416fd568ce243215ca82e91",
+    "wof:geomhash":"aab3917e26eefbe69259cdc9549fb660",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":857255057,
-    "wof:lastmodified":1466637766,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

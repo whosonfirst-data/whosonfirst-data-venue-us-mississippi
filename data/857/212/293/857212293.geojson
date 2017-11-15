@@ -2,14 +2,20 @@
   "id": 857212293,
   "type": "Feature",
   "properties": {
+    "addr:full":"971 S Perkins Rd Columbus MS 39705",
+    "addr:housenumber":"971",
+    "addr:postcode":"39705",
+    "addr:street":"S Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.415495,33.572589,-88.415495,33.572589",
     "geom:latitude":33.572589,
     "geom:longitude":-88.415495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"971 S Perkins Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125153143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o0QfAH9acrLpC8fss1ewY_33.572589_-88.415495@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124444,
-    "wof:geomhash":"5c0f511bf301d6febdde244c84196831",
+    "wof:geomhash":"c9c2f83ffa24c4c89ccb2f3680f05dc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857212293,
-    "wof:lastmodified":1466637197,
+    "wof:lastmodified":1510613263,
     "wof:name":"Civitan International",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857455553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 Hwy 12 W Starkville MS 39759",
+    "addr:housenumber":"1012",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.851881,33.441864,-88.851881,33.441864",
     "geom:latitude":33.441864,
     "geom:longitude":-88.851881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1012 Hwy 12 W",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083159,
         85822859
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yDYde8Q31jUqh2OSTbv17_33.441864_-88.851881@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129864,
-    "wof:geomhash":"b5b072ff58a15e40a4f69e6cc31efd34",
+    "wof:geomhash":"be056058071c84a345d5804048605464",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857455553,
-    "wof:lastmodified":1466640623,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85822859,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857429283,
   "type": "Feature",
   "properties": {
+    "addr:full":"7716 State Hwy 613 Moss Point MS 39563",
+    "addr:housenumber":"7716",
+    "addr:postcode":"39563",
+    "addr:street":"State Hwy 613",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.541133,30.455119,-88.541133,30.455119",
     "geom:latitude":30.455119,
     "geom:longitude":-88.541133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7716 State Hwy 613",
     "sg:city":"Moss Point",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_535HV6egUWoOyrx7BkQrxD_30.455119_-88.541133@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129323,
-    "wof:geomhash":"609e6e7b28405c13856aef819cce6ec1",
+    "wof:geomhash":"37ae27e24f5480b44e0ba7813fbef8d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857429283,
-    "wof:lastmodified":1466640283,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

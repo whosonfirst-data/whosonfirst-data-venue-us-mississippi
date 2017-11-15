@@ -2,6 +2,10 @@
   "id": 857437359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 Co Rd 811 Saltillo MS 38801",
+    "addr:housenumber":"1337;811",
+    "addr:postcode":"38801",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857437359,
-    "wof:lastmodified":1466640361,
+    "wof:lastmodified":1472631493,
     "wof:name":"Bea S Beauty Shop",
     "wof:parent_id":85838449,
     "wof:placetype":"venue",

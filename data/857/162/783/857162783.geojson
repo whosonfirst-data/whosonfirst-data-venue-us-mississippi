@@ -2,14 +2,20 @@
   "id": 857162783,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 Vieux Marche Ml Biloxi MS 39530",
+    "addr:housenumber":"760",
+    "addr:postcode":"39530",
+    "addr:street":"Vieux Marche Ml",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.887816,30.396505,-88.887816,30.396505",
     "geom:latitude":30.396505,
     "geom:longitude":-88.887816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"760 Vieux Marche Ml",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t1OSLlssE2bi1f4Ii7Bbu_30.396505_-88.887816@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123419,
-    "wof:geomhash":"3b66e4fa07dae862f1624faa4701fbc9",
+    "wof:geomhash":"4f2973420d3c908e72e4b6ef256f29b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857162783,
-    "wof:lastmodified":1466636745,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

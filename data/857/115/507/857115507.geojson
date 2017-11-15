@@ -2,14 +2,20 @@
   "id": 857115507,
   "type": "Feature",
   "properties": {
+    "addr:full":"19099 Pineville Rd Long Beach MS 39560",
+    "addr:housenumber":"19099",
+    "addr:postcode":"39560",
+    "addr:street":"Pineville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.160505,30.359226,-89.160505,30.359226",
     "geom:latitude":30.359226,
     "geom:longitude":-89.160505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19099 Pineville Rd",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":420575487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zXFrfiOlYdbnrhT68P4W9_30.359226_-89.160505@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122326,
-    "wof:geomhash":"7ca340574bb2b970dc4f98a625240a4c",
+    "wof:geomhash":"daadcd6796bf311504b753935330ff18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857115507,
-    "wof:lastmodified":1466636214,
+    "wof:lastmodified":1510602531,
     "wof:name":"Eckerd Drugs",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

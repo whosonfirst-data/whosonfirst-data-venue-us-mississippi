@@ -2,14 +2,20 @@
   "id": 857182269,
   "type": "Feature",
   "properties": {
+    "addr:full":"10587 Auto Mall Pkwy Diberville MS 39540",
+    "addr:housenumber":"10587",
+    "addr:postcode":"39540",
+    "addr:street":"Auto Mall Pkwy Diberville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.900024,30.440054,-88.900024,30.440054",
     "geom:latitude":30.440054,
     "geom:longitude":-88.900024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10587 Auto Mall Pkwy",
     "sg:city":"Diberville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JRyDNS5myY84QUNYEZ01r_30.440054_-88.900024@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123841,
-    "wof:geomhash":"edcc4bcb891eb3094d7daa96e8343725",
+    "wof:geomhash":"4c7716ebf66e691ffdfe3dc5be83d2e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857182269,
-    "wof:lastmodified":1466636879,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

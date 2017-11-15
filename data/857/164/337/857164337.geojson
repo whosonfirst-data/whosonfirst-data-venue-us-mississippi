@@ -2,14 +2,20 @@
   "id": 857164337,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 N Railroad Ave Brookhaven MS 39601",
+    "addr:housenumber":"102",
+    "addr:postcode":"39601",
+    "addr:street":"N Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.441695,31.580793,-90.441695,31.580793",
     "geom:latitude":31.580793,
     "geom:longitude":-90.441695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 N Railroad Ave",
     "sg:city":"Brookhaven",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084871,
         85841011
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ho4V6dt8ZQ3iFGVpDvxOz_31.580793_-90.441695@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123452,
-    "wof:geomhash":"fd86d1fb113ff43f82769958c9e0e1bd",
+    "wof:geomhash":"ed76fba56ca2c855bb3e9703e137f3d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857164337,
-    "wof:lastmodified":1466636721,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85841011,
     "wof:placetype":"venue",

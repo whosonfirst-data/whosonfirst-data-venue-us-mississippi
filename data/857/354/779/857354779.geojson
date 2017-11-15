@@ -2,14 +2,20 @@
   "id": 857354779,
   "type": "Feature",
   "properties": {
+    "addr:full":"566 E Northside Dr Jackson MS 39206",
+    "addr:housenumber":"566",
+    "addr:postcode":"39206",
+    "addr:street":"E Northside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.163992,32.355806,-90.163992,32.355806",
     "geom:latitude":32.355806,
     "geom:longitude":-90.163992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"566 E Northside Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4she4N42mKzoqjXLYKq8Jl_32.355806_-90.163992@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127589,
-    "wof:geomhash":"1dc8975e85334e6d6c2fb7d9cd2825e9",
+    "wof:geomhash":"0736b30cb9e8204959f5ae45248d1536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857354779,
-    "wof:lastmodified":1466639306,
+    "wof:lastmodified":1510699335,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

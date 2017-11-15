@@ -2,14 +2,20 @@
   "id": 857221611,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 Starlyn Ln New Albany MS 38652",
+    "addr:housenumber":"229",
+    "addr:postcode":"38652",
+    "addr:street":"Starlyn Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.035473,34.496198,-89.035473,34.496198",
     "geom:latitude":34.496198,
     "geom:longitude":-89.035473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 Starlyn Ln",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081017,
         85821919
     ],
+    "wof:brand_id":1125156301,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7yW93chQIEdsWl8Lt8zF_34.496198_-89.035473@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124649,
-    "wof:geomhash":"93e30f047c03982968a876df1d5985ec",
+    "wof:geomhash":"14a5bc558cdfc5fa4e35acafbf1e0f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857221611,
-    "wof:lastmodified":1466637331,
+    "wof:lastmodified":1510698778,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

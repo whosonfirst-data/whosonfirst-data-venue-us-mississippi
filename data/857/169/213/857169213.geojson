@@ -2,14 +2,20 @@
   "id": 857169213,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 Courthouse Rd Gulfport MS 39507",
+    "addr:housenumber":"524",
+    "addr:postcode":"39507",
+    "addr:street":"Courthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.044115,30.388794,-89.044115,30.388794",
     "geom:latitude":30.388794,
     "geom:longitude":-89.044115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"524 Courthouse Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NudfB2K9pUmo3Nog83AAp_30.388794_-89.044115@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123566,
-    "wof:geomhash":"535ec075cff6b638442746b59b2bb94d",
+    "wof:geomhash":"3229bb2ec3b1bad66af20e3d1a20701b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857169213,
-    "wof:lastmodified":1466636727,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

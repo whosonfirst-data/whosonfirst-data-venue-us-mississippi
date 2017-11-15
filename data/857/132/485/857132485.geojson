@@ -2,14 +2,20 @@
   "id": 857132485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 East Ave Vicksburg MS 39180",
+    "addr:housenumber":"1350",
+    "addr:postcode":"39180",
+    "addr:street":"East Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.874188,32.340652,-90.874188,32.340652",
     "geom:latitude":32.340652,
     "geom:longitude":-90.874188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1350 East Ave",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125153791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70qoeGzXoCXkOqSsCfb2Ys_32.340652_-90.874188@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122728,
-    "wof:geomhash":"a2afb605f2d4e5ae356bb04e38e65575",
+    "wof:geomhash":"4973ae75f692d66e5f315958e4d197fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857132485,
-    "wof:lastmodified":1466636376,
+    "wof:lastmodified":1510699996,
     "wof:name":"Mt Calvary Baptist Church",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

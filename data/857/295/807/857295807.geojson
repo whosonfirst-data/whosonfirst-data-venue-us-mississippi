@@ -2,14 +2,20 @@
   "id": 857295807,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 W Commerce St Aberdeen MS 39730",
+    "addr:housenumber":"402",
+    "addr:postcode":"39730",
+    "addr:street":"W Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54855,33.82554,-88.54855,33.82554",
     "geom:latitude":33.82554,
     "geom:longitude":-88.54855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 W Commerce St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083163,
         85825473
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I2mVvkTSIaJ9fNx2sVMR9_33.825540_-88.548550@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126319,
-    "wof:geomhash":"da034b86ba03dbc0f27beae2abe3940d",
+    "wof:geomhash":"fb8cb6d448043476c3a30924a04034b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857295807,
-    "wof:lastmodified":1466638498,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85825473,
     "wof:placetype":"venue",

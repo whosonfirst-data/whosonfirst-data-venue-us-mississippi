@@ -2,14 +2,20 @@
   "id": 857259525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3704 Davis St Meridian MS 39307",
+    "addr:housenumber":"3704",
+    "addr:postcode":"39307",
+    "addr:street":"Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.714783,32.362396,-88.714783,32.362396",
     "geom:latitude":32.362396,
     "geom:longitude":-88.714783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3704 Davis St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sgr7B0b6VxeJPW25iXKtz_32.362396_-88.714783@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125481,
-    "wof:geomhash":"43813221dd8f50da7c92d88c5f6875a0",
+    "wof:geomhash":"d0275d289ddd2ee6ace0a9ff9caee7c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857259525,
-    "wof:lastmodified":1466637945,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

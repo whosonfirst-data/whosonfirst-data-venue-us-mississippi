@@ -2,14 +2,20 @@
   "id": 857392435,
   "type": "Feature",
   "properties": {
+    "addr:full":"12308 State Hwy 57 Ocean Springs MS 39565",
+    "addr:housenumber":"12308",
+    "addr:postcode":"39565",
+    "addr:street":"State Hwy 57",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.690434,30.522025,-88.690434,30.522025",
     "geom:latitude":30.522025,
     "geom:longitude":-88.690434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12308 State Hwy 57",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125154317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JrM6KPIwmKwCllolofdJ4_30.522025_-88.690434@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128473,
-    "wof:geomhash":"a33004a92c06dfdc1dd077bc366c7fd3",
+    "wof:geomhash":"77c6b2b7704e9d9bc0d721d2d64ccb4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857392435,
-    "wof:lastmodified":1466639828,
+    "wof:lastmodified":1510695274,
     "wof:name":"Hair Razors",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

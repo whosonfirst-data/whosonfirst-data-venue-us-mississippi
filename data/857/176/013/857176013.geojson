@@ -2,14 +2,20 @@
   "id": 857176013,
   "type": "Feature",
   "properties": {
+    "addr:full":"14231 Seaway Rd Gulfport MS 39503",
+    "addr:housenumber":"14231",
+    "addr:postcode":"39503",
+    "addr:street":"Seaway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.076586,30.434232,-89.076586,30.434232",
     "geom:latitude":30.434232,
     "geom:longitude":-89.076586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14231 Seaway Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125157201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C4r7JWgCOMoVfb3MzfxDS_30.434232_-89.076586@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123712,
-    "wof:geomhash":"4179a79479df48ca24d732d9aef609e5",
+    "wof:geomhash":"6b6625eef98b3837bec581999e872565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857176013,
-    "wof:lastmodified":1466636789,
+    "wof:lastmodified":1510697244,
     "wof:name":"Masco",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857399619,
   "type": "Feature",
   "properties": {
+    "addr:full":"5816 Hwy 493 Meridian MS 39305",
+    "addr:housenumber":"5816",
+    "addr:postcode":"39305",
+    "addr:street":"Hwy 493",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.701146,32.420463,-88.701146,32.420463",
     "geom:latitude":32.420463,
     "geom:longitude":-88.701146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5816 Hwy 493",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125156655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ywIPhdqNnq0Wyy8RKjOGd_32.420463_-88.701146@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128615,
-    "wof:geomhash":"81238c80771957d60c8fbb715162d007",
+    "wof:geomhash":"5f09a10befda73e9839c97716108d26c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857399619,
-    "wof:lastmodified":1466639918,
+    "wof:lastmodified":1510698682,
     "wof:name":"Speedy Cash",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857483005,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Dogwood Blvd Flowood MS 39232",
+    "addr:housenumber":"275",
+    "addr:postcode":"39232",
+    "addr:street":"Dogwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.063176,32.33865,-90.063176,32.33865",
     "geom:latitude":32.33865,
     "geom:longitude":-90.063176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Dogwood Blvd",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084869,
         85814785
     ],
+    "wof:brand_id":1125154777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QTZ9LQT71tokZeA2ACjKo_32.338650_-90.063176@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130428,
-    "wof:geomhash":"1b8671a87f773dd228be54cd2da5e222",
+    "wof:geomhash":"ccc563cb49935cc11801f23c73825654",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857483005,
-    "wof:lastmodified":1466641125,
+    "wof:lastmodified":1510699041,
     "wof:name":"Mellow Mushroom",
     "wof:parent_id":85814785,
     "wof:placetype":"venue",

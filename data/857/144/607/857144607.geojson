@@ -2,14 +2,20 @@
   "id": 857144607,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 W Government St Brandon MS 39042",
+    "addr:housenumber":"760",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996722,32.275895,-89.996722,32.275895",
     "geom:latitude":32.275895,
     "geom:longitude":-89.996722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"760 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mMEtmbNVaxFXwMvW9Exxo_32.275895_-89.996722@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123024,
-    "wof:geomhash":"7065cbab820ae94fd7b6e0a61d4fb15b",
+    "wof:geomhash":"16c971caa956ef164a84108c6ab1c429",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857144607,
-    "wof:lastmodified":1466636513,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

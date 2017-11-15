@@ -2,14 +2,20 @@
   "id": 857352145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1172 Hwy 49 S Jackson MS 39218",
+    "addr:housenumber":"1172",
+    "addr:postcode":"39218",
+    "addr:street":"Hwy 49 S Jackson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11397,32.149041,-90.11397,32.149041",
     "geom:latitude":32.149041,
     "geom:longitude":-90.11397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1172 Hwy 49 S",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125150215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b5jEJKXKHQtFoZZednF4n_32.149041_-90.113970@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127533,
-    "wof:geomhash":"a47bb55aeaab4d7c09a1420331da8fa2",
+    "wof:geomhash":"4881763412df2243a4b0d361ab3246a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857352145,
-    "wof:lastmodified":1466639189,
+    "wof:lastmodified":1510697720,
     "wof:name":"Mazzio's Pizza",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

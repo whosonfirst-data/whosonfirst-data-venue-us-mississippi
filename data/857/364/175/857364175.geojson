@@ -2,14 +2,20 @@
   "id": 857364175,
   "type": "Feature",
   "properties": {
+    "addr:full":"16103 US Hwy 49 Gulfport MS 39503",
+    "addr:housenumber":"",
+    "addr:postcode":"16103;39503",
+    "addr:street":"Us Hwy 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.108477,30.51511,-89.108477,30.51511",
     "geom:latitude":30.51511,
     "geom:longitude":-89.108477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16103 US Hwy 49",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85831733
     ],
+    "wof:brand_id":1125156569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22QbD1GnlXz75AgU89uxd6_30.515110_-89.108477@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127789,
-    "wof:geomhash":"ca6258f88334a545910b49d9ebbd3c00",
+    "wof:geomhash":"1a9d6f11e948961c6d180b9d97fedc27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857364175,
-    "wof:lastmodified":1466639353,
+    "wof:lastmodified":1510695193,
     "wof:name":"Fleetwood Homes",
     "wof:parent_id":85831733,
     "wof:placetype":"venue",

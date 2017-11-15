@@ -2,14 +2,20 @@
   "id": 857453501,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 State Hwy 322 Clarksdale MS 38614",
+    "addr:housenumber":"135",
+    "addr:postcode":"38614",
+    "addr:street":"State Hwy 322 Clarksdale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.710801,34.210745,-90.710801,34.210745",
     "geom:latitude":34.210745,
     "geom:longitude":-90.710801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 State Hwy 322",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080633,
         85845093
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m8IP5xQJyaEcbKL62Po7w_34.210745_-90.710801@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129827,
-    "wof:geomhash":"1eb2213f4c080b8ce24af86b54c561f7",
+    "wof:geomhash":"9b1081363e5df31d22f16880c3d9b0d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857453501,
-    "wof:lastmodified":1466640638,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

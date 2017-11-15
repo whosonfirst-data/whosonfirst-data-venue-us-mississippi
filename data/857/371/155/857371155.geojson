@@ -2,14 +2,20 @@
   "id": 857371155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4610 8th St Meridian MS 39301",
+    "addr:housenumber":"4610",
+    "addr:postcode":"39301",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.725145,32.364623,-88.725145,32.364623",
     "geom:latitude":32.364623,
     "geom:longitude":-88.725145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4610 8th St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qHP0hl056fGxwSNIjoL8H_32.364623_-88.725145@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127927,
-    "wof:geomhash":"6d76cd1e53e1abfef78af1774f5700f8",
+    "wof:geomhash":"505714d8e99179c5be159bd9cf05078a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857371155,
-    "wof:lastmodified":1466639467,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

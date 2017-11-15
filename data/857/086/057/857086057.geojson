@@ -2,14 +2,20 @@
   "id": 857086057,
   "type": "Feature",
   "properties": {
+    "addr:full":"6716 US Hwy 90 Ocean Springs MS 39564",
+    "addr:housenumber":"6716",
+    "addr:postcode":"39564",
+    "addr:street":"Us Hwy 90",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.720752,30.402788,-88.720752,30.402788",
     "geom:latitude":30.402788,
     "geom:longitude":-88.720752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6716 US Hwy 90",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125155849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XZqTd2mZimkqT5DoJNUoE_30.402788_-88.720752@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121563,
-    "wof:geomhash":"1398cd027df5ed29e27011f5a785fc35",
+    "wof:geomhash":"0047cfeba40f350f3a1257900e5c59c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857086057,
-    "wof:lastmodified":1466635786,
+    "wof:lastmodified":1510697489,
     "wof:name":"St Paul United Methodist Chr",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

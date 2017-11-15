@@ -2,14 +2,20 @@
   "id": 857258671,
   "type": "Feature",
   "properties": {
+    "addr:full":"5834 Ridgewood Rd Jackson MS 39211",
+    "addr:housenumber":"5834",
+    "addr:postcode":"39211",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.14184,32.385441,-90.14184,32.385441",
     "geom:latitude":32.385441,
     "geom:longitude":-90.14184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5834 Ridgewood Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85822959
     ],
+    "wof:brand_id":420574939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OjDGmbXMSm6MxoruonN4S_32.385441_-90.141840@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125466,
-    "wof:geomhash":"c9cdd4b024330bae1a34c794d29e0f42",
+    "wof:geomhash":"6b8d1e505c799fc9cce67a96371a9244",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857258671,
-    "wof:lastmodified":1466637922,
+    "wof:lastmodified":1510603858,
     "wof:name":"Sign-A-Rama",
     "wof:parent_id":85822959,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857259357,
   "type": "Feature",
   "properties": {
+    "addr:full":"12221 Ashley Dr Gulfport MS 39503",
+    "addr:housenumber":"12221",
+    "addr:postcode":"39503",
+    "addr:street":"Ashley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.099682,30.463615,-89.099682,30.463615",
     "geom:latitude":30.463615,
     "geom:longitude":-89.099682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12221 Ashley Dr",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838583,
         85868905
     ],
+    "wof:brand_id":1125153619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cdgBcokxP2unVFfF7QH4A_30.463615_-89.099682@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125479,
-    "wof:geomhash":"2a29ebfb1d32e3674bf34dad30b08cde",
+    "wof:geomhash":"3f5aa38d555e4b728e1dfc5bb928fd55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":857259357,
-    "wof:lastmodified":1466637917,
+    "wof:lastmodified":1510697974,
     "wof:name":"Kansas City Life Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857300613,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Co Rd 75 New Albany MS 38652",
+    "addr:housenumber":"617;75",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857300613,
-    "wof:lastmodified":1466638565,
+    "wof:lastmodified":1472631360,
     "wof:name":"Town & Country Body Shop",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

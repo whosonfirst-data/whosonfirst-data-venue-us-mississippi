@@ -2,14 +2,20 @@
   "id": 857324161,
   "type": "Feature",
   "properties": {
+    "addr:full":"10314 Canal Rd Gulfport MS 39503",
+    "addr:housenumber":"10314",
+    "addr:postcode":"39503",
+    "addr:street":"Canal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.136711,30.434691,-89.136711,30.434691",
     "geom:latitude":30.434691,
     "geom:longitude":-89.136711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10314 Canal Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125153791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11hADWeRlTavPPLIdRz017_30.434691_-89.136711@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126934,
-    "wof:geomhash":"c27791dd18c93f537b48bf4d454e8fb9",
+    "wof:geomhash":"bfafa017fe9104a82700ff3fff62de93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857324161,
-    "wof:lastmodified":1466638821,
+    "wof:lastmodified":1510699996,
     "wof:name":"Mt Calvary Baptist Church",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

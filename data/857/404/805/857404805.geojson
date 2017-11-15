@@ -2,14 +2,20 @@
   "id": 857404805,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 Hwy 12 W Starkville MS 39759",
+    "addr:housenumber":"821",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.838138,33.449408,-88.838138,33.449408",
     "geom:latitude":33.449408,
     "geom:longitude":-88.838138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"821 Hwy 12 W",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083159,
         85822859
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TKZY3AEV1cXP9KeTd3o6H_33.449408_-88.838138@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128724,
-    "wof:geomhash":"0fcc3090a16303a93444bdd6cad5c75c",
+    "wof:geomhash":"18c21a488a7d8b549ce413481fa155e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857404805,
-    "wof:lastmodified":1466640046,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85822859,
     "wof:placetype":"venue",

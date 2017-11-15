@@ -2,14 +2,20 @@
   "id": 857384791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1039 E County Line Rd Jackson MS 39211",
+    "addr:housenumber":"1039",
+    "addr:postcode":"39211",
+    "addr:street":"E County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.142085,32.399485,-90.142085,32.399485",
     "geom:latitude":32.399485,
     "geom:longitude":-90.142085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1039 E County Line Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85822959
     ],
+    "wof:brand_id":1125159663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HPo68kAudROB1cCcLdMSc_32.399485_-90.142085@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128264,
-    "wof:geomhash":"83051e3e1e3e3b8383ba5c4217dd8632",
+    "wof:geomhash":"ed6d48d2ec518d967dbd92d4c044b69c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857384791,
-    "wof:lastmodified":1466639744,
+    "wof:lastmodified":1510694926,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85822959,
     "wof:placetype":"venue",

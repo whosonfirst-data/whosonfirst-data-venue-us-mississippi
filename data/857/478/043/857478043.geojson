@@ -2,14 +2,20 @@
   "id": 857478043,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Highpointe Dr Hattiesburg MS 39402",
+    "addr:housenumber":"53",
+    "addr:postcode":"39402",
+    "addr:street":"Highpointe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.439133,31.320672,-89.439133,31.320672",
     "geom:latitude":31.320672,
     "geom:longitude":-89.439133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53 Highpointe Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         85829187,
         102083775
     ],
+    "wof:brand_id":1125153899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O36eGOWkcNz9QKqpmN5d1_31.320672_-89.439133@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130337,
-    "wof:geomhash":"f455f9bdab67dd0fa66c9dc86d55aac0",
+    "wof:geomhash":"bc769ce036fa866be1c0978a8e0af4be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":857478043,
-    "wof:lastmodified":1466640882,
+    "wof:lastmodified":1510698864,
     "wof:name":"Shell Oil Products U S",
     "wof:parent_id":85829187,
     "wof:placetype":"venue",

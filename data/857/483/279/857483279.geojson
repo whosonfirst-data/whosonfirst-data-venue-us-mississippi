@@ -2,14 +2,20 @@
   "id": 857483279,
   "type": "Feature",
   "properties": {
+    "addr:full":"4909 27th Pl Meridian MS 39305",
+    "addr:housenumber":"4909",
+    "addr:postcode":"39305",
+    "addr:street":"27Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.705925,32.409216,-88.705925,32.409216",
     "geom:latitude":32.409216,
     "geom:longitude":-88.705925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4909 27th Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BmREg7ZTI1Zmo0IU6RkN4_32.409216_-88.705925@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130433,
-    "wof:geomhash":"87113456a5a9058d16fa35d5f5306bbd",
+    "wof:geomhash":"1f5f2f8aa013e5a3ebdbd925ef7f68b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857483279,
-    "wof:lastmodified":1466640957,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

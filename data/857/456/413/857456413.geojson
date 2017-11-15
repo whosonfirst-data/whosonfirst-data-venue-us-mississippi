@@ -2,14 +2,20 @@
   "id": 857456413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1639 E Pass Rd Gulfport MS 39507",
+    "addr:housenumber":"1639",
+    "addr:postcode":"39507",
+    "addr:street":"E Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.020856,30.399946,-89.020856,30.399946",
     "geom:latitude":30.399946,
     "geom:longitude":-89.020856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1639 E Pass Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85823795
     ],
+    "wof:brand_id":1125158441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NvA8ooKqsGIZQxADm5V6K_30.399946_-89.020856@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129880,
-    "wof:geomhash":"7e3672c3c0b16455853a3e89a800a71b",
+    "wof:geomhash":"81f8c351f7945726759b6ef1882d491c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857456413,
-    "wof:lastmodified":1466640609,
+    "wof:lastmodified":1510694227,
     "wof:name":"American Classifieds",
     "wof:parent_id":85823795,
     "wof:placetype":"venue",

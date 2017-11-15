@@ -2,14 +2,20 @@
   "id": 857142327,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Jackson Ave E Oxford MS 38655",
+    "addr:housenumber":"710",
+    "addr:postcode":"38655",
+    "addr:street":"Jackson Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.522115,34.367253,-89.522115,34.367253",
     "geom:latitude":34.367253,
     "geom:longitude":-89.522115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Jackson Ave E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083165,
         85852013
     ],
+    "wof:brand_id":1125156417,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bNi7iXvFgUUlpH6ZdSllc_34.367253_-89.522115@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122948,
-    "wof:geomhash":"6190bfa7310d2edba83a23630629fa46",
+    "wof:geomhash":"311a801bacb7b0fb4ea7bfd4a5a94ee9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857142327,
-    "wof:lastmodified":1466636480,
+    "wof:lastmodified":1510697438,
     "wof:name":"Ikon Office Solutions",
     "wof:parent_id":85852013,
     "wof:placetype":"venue",

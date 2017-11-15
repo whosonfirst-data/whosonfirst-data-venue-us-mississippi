@@ -2,14 +2,20 @@
   "id": 857155121,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 E 2nd St Clarksdale MS 38614",
+    "addr:housenumber":"212",
+    "addr:postcode":"38614",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.573273,34.202896,-90.573273,34.202896",
     "geom:latitude":34.202896,
     "geom:longitude":-90.573273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 E 2nd St",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080633,
         85845093
     ],
+    "wof:brand_id":1125154335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hgfcDTl30KczxzMSgxOGs_34.202896_-90.573273@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123250,
-    "wof:geomhash":"ed519dffff761b44c4a1e09f39c4c9d0",
+    "wof:geomhash":"0719e8c95b26b9af7bac7aa08136c3a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857155121,
-    "wof:lastmodified":1466636585,
+    "wof:lastmodified":1510613551,
     "wof:name":"Lucent Technologies",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

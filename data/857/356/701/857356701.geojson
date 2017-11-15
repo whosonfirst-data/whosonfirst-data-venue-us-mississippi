@@ -2,14 +2,20 @@
   "id": 857356701,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Hardy Ave Gulfport MS 39560",
+    "addr:housenumber":"139",
+    "addr:postcode":"39560",
+    "addr:street":"Hardy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.12936,30.357283,-89.12936,30.357283",
     "geom:latitude":30.357283,
     "geom:longitude":-89.12936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 Hardy Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cQ20rniyAXr6dA1DBhWE1_30.357283_-89.129360@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127629,
-    "wof:geomhash":"04c0df152275eb3c8cebc517a1aae443",
+    "wof:geomhash":"732046f2341f3c35a0b975f57a5455c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857356701,
-    "wof:lastmodified":1466639356,
+    "wof:lastmodified":1510602488,
     "wof:name":"Fred's Store",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

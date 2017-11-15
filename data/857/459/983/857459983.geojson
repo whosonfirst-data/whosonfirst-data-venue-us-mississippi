@@ -2,14 +2,20 @@
   "id": 857459983,
   "type": "Feature",
   "properties": {
+    "addr:full":"13185 Three Rivers Rd Gulfport MS 39503",
+    "addr:housenumber":"13185",
+    "addr:postcode":"39503",
+    "addr:street":"Three Rivers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.069707,30.475145,-89.069707,30.475145",
     "geom:latitude":30.475145,
     "geom:longitude":-89.069707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13185 Three Rivers Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125158633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_084BY6BLu0ZVD3TPi2lEZx_30.475145_-89.069707@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129949,
-    "wof:geomhash":"057f340d2615e408c7b9efe36da4767f",
+    "wof:geomhash":"87a88134a9495c0131c1a2a7b575795b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857459983,
-    "wof:lastmodified":1466640743,
+    "wof:lastmodified":1510699373,
     "wof:name":"Shear Creations",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

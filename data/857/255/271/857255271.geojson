@@ -2,14 +2,20 @@
   "id": 857255271,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Hwy 468 Brandon MS 39042",
+    "addr:housenumber":"300",
+    "addr:postcode":"39042",
+    "addr:street":"Hwy 468",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.997988,32.254097,-89.997988,32.254097",
     "geom:latitude":32.254097,
     "geom:longitude":-89.997988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Hwy 468",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125152567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14I0gsdreoFSkxd2SJwHEn_32.254097_-89.997988@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125381,
-    "wof:geomhash":"40e8cf4320b1366ae53db5f662b4d0b0",
+    "wof:geomhash":"19746fb690e451082cb8caa902f39ef4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857255271,
-    "wof:lastmodified":1466637806,
+    "wof:lastmodified":1510693933,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

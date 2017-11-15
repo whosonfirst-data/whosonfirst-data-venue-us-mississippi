@@ -2,14 +2,20 @@
   "id": 857340803,
   "type": "Feature",
   "properties": {
+    "addr:full":"10605 Factory Shops Blvd Gulfport MS 39503",
+    "addr:housenumber":"10605",
+    "addr:postcode":"39503",
+    "addr:street":"Factory Shops Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.097847,30.427666,-89.097847,30.427666",
     "geom:latitude":30.427666,
     "geom:longitude":-89.097847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10605 Factory Shops Blvd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125156449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0842FGfsntUqxrq5IgmDIA_30.427666_-89.097847@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127293,
-    "wof:geomhash":"56a79a3927de6033f5bfa22a5082a871",
+    "wof:geomhash":"d56398d2c33a12318f0d9c0cae7b47cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857340803,
-    "wof:lastmodified":1466639118,
+    "wof:lastmodified":1510694602,
     "wof:name":"Osh Kosh B'Gosh",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

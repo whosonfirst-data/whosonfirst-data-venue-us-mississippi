@@ -2,6 +2,10 @@
   "id": 857341621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Co Rd 222 Blue Springs MS 38828",
+    "addr:housenumber":"1022;222",
+    "addr:postcode":"38828",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857341621,
-    "wof:lastmodified":1466639113,
+    "wof:lastmodified":1472631404,
     "wof:name":"Kenny Hutcheson Elec Inc",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

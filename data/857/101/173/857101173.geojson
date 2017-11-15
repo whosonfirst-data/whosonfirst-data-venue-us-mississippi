@@ -2,14 +2,20 @@
   "id": 857101173,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 N 7th St Columbus MS 39701",
+    "addr:housenumber":"702",
+    "addr:postcode":"39701",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.427023,33.502782,-88.427023,33.502782",
     "geom:latitude":33.502782,
     "geom:longitude":-88.427023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"702 N 7th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125159005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tJOvjvcbUP4MvPL6mU3a9_33.502782_-88.427023@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121944,
-    "wof:geomhash":"232c66e82bf4ff61c3c7b3f4a0fb90f0",
+    "wof:geomhash":"f2ddb5d2b81dec3bea0dca807a10ec75",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857101173,
-    "wof:lastmodified":1466635962,
+    "wof:lastmodified":1510697156,
     "wof:name":"Hair Palace",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857486185,
   "type": "Feature",
   "properties": {
+    "addr:full":"12046 Highway 49 Gulfport MS 39503",
+    "addr:housenumber":"12046",
+    "addr:postcode":"39503",
+    "addr:street":"Highway 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.100404,30.45775,-89.100404,30.45775",
     "geom:latitude":30.45775,
     "geom:longitude":-89.100404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12046 Highway 49",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85838583,
         85868905
     ],
+    "wof:brand_id":420574111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04SdImBrUR3yLGE1atwnMG_30.457695_-89.100477@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130488,
-    "wof:geomhash":"e43da2c26eea7ff30a2c1c1cc0d2c1e1",
+    "wof:geomhash":"a2670dbf3edb2e92a2841a328e05fbda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":857486185,
-    "wof:lastmodified":1466640987,
+    "wof:lastmodified":1510604813,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

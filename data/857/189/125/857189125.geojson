@@ -2,14 +2,20 @@
   "id": 857189125,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Security Sq Gulfport MS 39507",
+    "addr:housenumber":"400",
+    "addr:postcode":"39507",
+    "addr:street":"Security Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.042707,30.386568,-89.042707,30.386568",
     "geom:latitude":30.386568,
     "geom:longitude":-89.042707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Security Sq",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lZCDQnbBMZrU2oqJkhxw7_30.386568_-89.042707@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123972,
-    "wof:geomhash":"22872c701b3e6aeb1c5d5777063d0b6e",
+    "wof:geomhash":"fd7056fb8d6a03d9b74ef88b8c69db3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857189125,
-    "wof:lastmodified":1466636933,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

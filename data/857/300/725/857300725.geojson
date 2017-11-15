@@ -2,14 +2,20 @@
   "id": 857300725,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 Bounds Rd Sumrall MS 39482",
+    "addr:housenumber":"380",
+    "addr:postcode":"39482",
+    "addr:street":"Bounds Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.511418,31.245812,-89.511418,31.245812",
     "geom:latitude":31.245812,
     "geom:longitude":-89.511418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"380 Bounds Rd",
     "sg:city":"Sumrall",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85838663,
         102083775
     ],
+    "wof:brand_id":1125153133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PmfaYRRpiInCaMUNlXcd7_31.245812_-89.511418@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126428,
-    "wof:geomhash":"b034c4fff76b75336e3f6b5d50cbf134",
+    "wof:geomhash":"adf82df461bd5f43c6fbf97c78c60334",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857300725,
-    "wof:lastmodified":1466638583,
+    "wof:lastmodified":1510698882,
     "wof:name":"Amerada Hess Corporation",
     "wof:parent_id":85838663,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857338535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Pass Rd Gulfport MS 39501",
+    "addr:housenumber":"1900",
+    "addr:postcode":"39501",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.086059,30.380333,-89.086059,30.380333",
     "geom:latitude":30.380333,
     "geom:longitude":-89.086059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 Pass Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125150153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7feZ9fQUzwshKhjbXwJhaR_30.380333_-89.086059@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127243,
-    "wof:geomhash":"c4559e16fbcfd2dd0a1e5cc5cbcbcfa7",
+    "wof:geomhash":"94ace54eda5d10bb2ee4693b6d7df1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857338535,
-    "wof:lastmodified":1466639061,
+    "wof:lastmodified":1510604955,
     "wof:name":"First Franklin Financial Corp",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

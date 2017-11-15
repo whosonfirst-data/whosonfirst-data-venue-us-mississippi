@@ -2,14 +2,20 @@
   "id": 857310491,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 State Hwy 15 S New Albany MS 38652",
+    "addr:housenumber":"505",
+    "addr:postcode":"38652",
+    "addr:street":"State Hwy 15 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.007506,34.4676,-89.007506,34.4676",
     "geom:latitude":34.4676,
     "geom:longitude":-89.007506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 State Hwy 15 S",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081017,
         85821919
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nLXH8Dr9YL91yoUmFJsyi_34.467600_-89.007506@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126631,
-    "wof:geomhash":"764184201f381e8b38b16a54675cc6ed",
+    "wof:geomhash":"6cc08061952592247cec712783f25d43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857310491,
-    "wof:lastmodified":1466638714,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

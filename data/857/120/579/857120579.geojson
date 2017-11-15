@@ -2,14 +2,20 @@
   "id": 857120579,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Halstead Rd Ocean Springs MS 39564",
+    "addr:housenumber":"1000",
+    "addr:postcode":"39564",
+    "addr:street":"N Halstead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.799585,30.414876,-88.799585,30.414876",
     "geom:latitude":30.414876,
     "geom:longitude":-88.799585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N Halstead Rd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125151419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UEReuWMv65lRokTZZEqqf_30.414876_-88.799585@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122460,
-    "wof:geomhash":"d48db1d09041b30a0f7478c0dcecd8af",
+    "wof:geomhash":"bc453fe2ac1008e57bf33e0fb78285b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857120579,
-    "wof:lastmodified":1466636262,
+    "wof:lastmodified":1510698996,
     "wof:name":"First Metropolitan Mortgage",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

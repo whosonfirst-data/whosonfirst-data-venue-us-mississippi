@@ -2,14 +2,20 @@
   "id": 857462183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2103 25th Ave Gulfport MS 39501",
+    "addr:housenumber":"2103",
+    "addr:postcode":"39501",
+    "addr:street":"25Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.093163,30.376677,-89.093163,30.376677",
     "geom:latitude":30.376677,
     "geom:longitude":-89.093163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2103 25th Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125155663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ROcs8LgquNXQY0uxTbONE_30.376677_-89.093163@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129993,
-    "wof:geomhash":"084be494b25657fc05eb52b570f215bd",
+    "wof:geomhash":"5c84be76e0c1eba1a1ff8c0def9aa13c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857462183,
-    "wof:lastmodified":1466640642,
+    "wof:lastmodified":1510698985,
     "wof:name":"Princess Nails",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857296471,
   "type": "Feature",
   "properties": {
+    "addr:full":"10496 US Hwy 49 Gulfport MS 39503",
+    "addr:housenumber":"10496",
+    "addr:postcode":"39503",
+    "addr:street":"Us Hwy 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.097679,30.440296,-89.097679,30.440296",
     "geom:latitude":30.440296,
     "geom:longitude":-89.097679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10496 US Hwy 49",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aVR6t5gNMsyuIZyao7Qar_30.440296_-89.097679@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126334,
-    "wof:geomhash":"1dc679fc542207592b0795e8e09ba4d2",
+    "wof:geomhash":"e2e7b17fe6e1204aaadf356dbd7c4715",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857296471,
-    "wof:lastmodified":1466638490,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

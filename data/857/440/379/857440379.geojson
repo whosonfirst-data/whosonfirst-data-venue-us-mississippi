@@ -2,14 +2,20 @@
   "id": 857440379,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Hwy 11 and 80 Meridian MS 39301",
+    "addr:housenumber":"146;80",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 11 And;Meridian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.67234,32.371186,-88.67234,32.371186",
     "geom:latitude":32.371186,
     "geom:longitude":-88.67234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 Hwy 11 and 80",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125153715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64JzoprbFlPI7ZYGzXEzmY_32.371186_-88.672340@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129576,
-    "wof:geomhash":"3ce72a06787be2c953c76a09c56627c2",
+    "wof:geomhash":"7016ad5a6bd925a303a5bd289d7c3624",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857440379,
-    "wof:lastmodified":1466640450,
+    "wof:lastmodified":1510694612,
     "wof:name":"Rodeway Inn",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

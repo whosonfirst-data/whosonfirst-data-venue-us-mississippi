@@ -2,14 +2,20 @@
   "id": 857117021,
   "type": "Feature",
   "properties": {
+    "addr:full":"2318 Bienville Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"2318",
+    "addr:postcode":"39564",
+    "addr:street":"Bienville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.80544,30.416148,-88.80544,30.416148",
     "geom:latitude":30.416148,
     "geom:longitude":-88.80544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2318 Bienville Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00qIvWzaryZIsq7mwzEVh6_30.416148_-88.805440@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122388,
-    "wof:geomhash":"c405a2805c0f24d8e50962271452641d",
+    "wof:geomhash":"4a15984b4ebb7dd21805da0541acb5bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857117021,
-    "wof:lastmodified":1466636183,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

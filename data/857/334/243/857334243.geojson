@@ -2,14 +2,20 @@
   "id": 857334243,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 B St Meridian MS 39301",
+    "addr:housenumber":"207",
+    "addr:postcode":"39301",
+    "addr:street":"B St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.679724,32.370917,-88.679724,32.370917",
     "geom:latitude":32.370917,
     "geom:longitude":-88.679724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 B St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Yq1qzemHfMS7LOI8paBO6_32.370917_-88.679724@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127152,
-    "wof:geomhash":"80a38415bda84dc099f1a012d9122dde",
+    "wof:geomhash":"9c2a9c7927ad1e6b3e3cba0c6dd8c3c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857334243,
-    "wof:lastmodified":1466638977,
+    "wof:lastmodified":1510695860,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

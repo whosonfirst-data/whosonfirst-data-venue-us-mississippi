@@ -2,14 +2,20 @@
   "id": 857305147,
   "type": "Feature",
   "properties": {
+    "addr:full":"5548 Cliff Gookin Blvd Tupelo MS 38801",
+    "addr:housenumber":"5548",
+    "addr:postcode":"38801",
+    "addr:street":"Cliff Gookin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.772597,34.245862,-88.772597,34.245862",
     "geom:latitude":34.245862,
     "geom:longitude":-88.772597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5548 Cliff Gookin Blvd",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85852479
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ds1a5qkKc8N3mNR1XtVaL_34.245862_-88.772597@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126522,
-    "wof:geomhash":"f01ac53e8d84059bd87711c57ebc2263",
+    "wof:geomhash":"e2214b623a4fc7d51377a89e7b08b19c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857305147,
-    "wof:lastmodified":1466638509,
+    "wof:lastmodified":1510696827,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

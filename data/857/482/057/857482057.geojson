@@ -2,14 +2,20 @@
   "id": 857482057,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 S Pear Orchard Rd Ridgeland MS 39157",
+    "addr:housenumber":"731",
+    "addr:postcode":"39157",
+    "addr:street":"S Pear Orchard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123526,32.406144,-90.123526,32.406144",
     "geom:latitude":32.406144,
     "geom:longitude":-90.123526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"731 S Pear Orchard Rd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v0U0nPR22uAt7lI6eGID1_32.406144_-90.123526@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130410,
-    "wof:geomhash":"e2a0d7f937820d55c1148e3499b81f53",
+    "wof:geomhash":"3f8700ab8e891dfd62c4402e9dca4f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857482057,
-    "wof:lastmodified":1466640930,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

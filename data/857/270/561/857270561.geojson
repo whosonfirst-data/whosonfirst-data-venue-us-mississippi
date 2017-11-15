@@ -2,14 +2,20 @@
   "id": 857270561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 Roebuck Dr Meridian MS 39301",
+    "addr:housenumber":"1303",
+    "addr:postcode":"39301",
+    "addr:street":"Roebuck Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.686845,32.335108,-88.686845,32.335108",
     "geom:latitude":32.335108,
     "geom:longitude":-88.686845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 Roebuck Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cq1pnYjxitOM9fd7aJKs5_32.335108_-88.686845@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125696,
-    "wof:geomhash":"f6165155955e779cb0fa8b7fc6817ff0",
+    "wof:geomhash":"52e9e2a1fd23d24a016473903fcce771",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857270561,
-    "wof:lastmodified":1466638054,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

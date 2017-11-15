@@ -2,14 +2,20 @@
   "id": 857481625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1490 W Government St Brandon MS 39042",
+    "addr:housenumber":"1490",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.018034,32.283815,-90.018034,32.283815",
     "geom:latitude":32.283815,
     "geom:longitude":-90.018034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1490 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6921LnQrFi22UBYnKIG07z_32.283815_-90.018034@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130399,
-    "wof:geomhash":"0eeade26aae4a95d6dd7bbba3f4b261c",
+    "wof:geomhash":"873603b988f3e7f61a9769266bc87e9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857481625,
-    "wof:lastmodified":1466640991,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

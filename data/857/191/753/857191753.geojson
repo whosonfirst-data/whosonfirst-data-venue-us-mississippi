@@ -2,14 +2,20 @@
   "id": 857191753,
   "type": "Feature",
   "properties": {
+    "addr:full":"5248 Old Hwy 11 Hattiesburg MS 39402",
+    "addr:housenumber":"5248",
+    "addr:postcode":"39402",
+    "addr:street":"Old Hwy 11",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.409827,31.307524,-89.409827,31.307524",
     "geom:latitude":31.307524,
     "geom:longitude":-89.409827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5248 Old Hwy 11",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086673,
         85829189
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c7y4wlygxLbOJP3SHVxA3_31.307524_-89.409827@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124020,
-    "wof:geomhash":"710bddf089a4ed805214d74e39c11725",
+    "wof:geomhash":"44ca24b4d118db9845977674ee3d13b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857191753,
-    "wof:lastmodified":1466637052,
+    "wof:lastmodified":1510696671,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85829189,
     "wof:placetype":"venue",

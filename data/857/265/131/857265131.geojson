@@ -2,14 +2,20 @@
   "id": 857265131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2657 Windward Dr Gautier MS 39553",
+    "addr:housenumber":"2657",
+    "addr:postcode":"39553",
+    "addr:street":"Windward Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.66817,30.379917,-88.66817,30.379917",
     "geom:latitude":30.379917,
     "geom:longitude":-88.66817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2657 Windward Dr",
     "sg:city":"Gautier",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125155195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wtnExX3mqtFk5i5X3Sxcj_30.379917_-88.668170@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125595,
-    "wof:geomhash":"0d53b46e3b0af967f409a057e0f88876",
+    "wof:geomhash":"d7addc12aa3c6d3118bb940a5682eee7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857265131,
-    "wof:lastmodified":1466637929,
+    "wof:lastmodified":1510699646,
     "wof:name":"Total Lawn Care",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

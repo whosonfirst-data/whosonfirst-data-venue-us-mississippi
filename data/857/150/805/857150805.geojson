@@ -2,14 +2,20 @@
   "id": 857150805,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 W Pine St Hattiesburg MS 39401",
+    "addr:housenumber":"614",
+    "addr:postcode":"39401",
+    "addr:street":"W Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.295942,31.321821,-89.295942,31.321821",
     "geom:latitude":31.321821,
     "geom:longitude":-89.295942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"614 W Pine St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125154569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iYFfQbdRsaEvqVjodM0Hl_31.321821_-89.295942@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123165,
-    "wof:geomhash":"15669e4ba564b509ffedb68092c9a245",
+    "wof:geomhash":"1bfd5c6122db5758b62e9bb32f2982b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857150805,
-    "wof:lastmodified":1466636614,
+    "wof:lastmodified":1510695259,
     "wof:name":"St Paul Travelers",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

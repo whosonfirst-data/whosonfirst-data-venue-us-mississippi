@@ -2,14 +2,20 @@
   "id": 857187539,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Springridge Rd Clinton MS 39056",
+    "addr:housenumber":"505",
+    "addr:postcode":"39056",
+    "addr:street":"Springridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.325819,32.326097,-90.325819,32.326097",
     "geom:latitude":32.326097,
     "geom:longitude":-90.325819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 Springridge Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081407,
         85852515
     ],
+    "wof:brand_id":1125159857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gzCOdDUi4Mi3Z8604Eah5_32.326097_-90.325819@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123943,
-    "wof:geomhash":"31fa89d115c2e689ce5d7761ec5b1bfb",
+    "wof:geomhash":"fd26c5dc3f978be03b72bc1f5636a9c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857187539,
-    "wof:lastmodified":1466636968,
+    "wof:lastmodified":1510696723,
     "wof:name":"Family Dental Ctr",
     "wof:parent_id":85852515,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857089997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1632 Edgewood Blvd Hernando MS 38632",
+    "addr:housenumber":"1632",
+    "addr:postcode":"38632",
+    "addr:street":"Edgewood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.960546,34.808423,-89.960546,34.808423",
     "geom:latitude":34.808423,
     "geom:longitude":-89.960546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1632 Edgewood Blvd",
     "sg:city":"Hernando",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yKxTTNsyXefifbtF0JPam_34.808423_-89.960546@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121675,
-    "wof:geomhash":"3fb96017dfe3a6c503ff9e872ee2ebf4",
+    "wof:geomhash":"fc8f7a5ed3ff41f6055878d5aceb7848",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857089997,
-    "wof:lastmodified":1466635926,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

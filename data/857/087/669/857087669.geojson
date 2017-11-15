@@ -2,14 +2,20 @@
   "id": 857087669,
   "type": "Feature",
   "properties": {
+    "addr:full":"8300 Clamshell Ave Ocean Springs MS 39564",
+    "addr:housenumber":"8300",
+    "addr:postcode":"39564",
+    "addr:street":"Clamshell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.750041,30.36105,-88.750041,30.36105",
     "geom:latitude":30.36105,
     "geom:longitude":-88.750041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8300 Clamshell Ave",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SSQ9pnVetekhWPaf1PCau_30.361050_-88.750041@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121603,
-    "wof:geomhash":"8a040605473f347ce78feb8b6b81f7ff",
+    "wof:geomhash":"99c78150f88feb6155773bf6d911ad11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857087669,
-    "wof:lastmodified":1466635880,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

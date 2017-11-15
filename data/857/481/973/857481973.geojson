@@ -2,14 +2,20 @@
   "id": 857481973,
   "type": "Feature",
   "properties": {
+    "addr:full":"2129 Main St Madison MS 39110",
+    "addr:housenumber":"2129",
+    "addr:postcode":"39110",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.113659,32.461178,-90.113659,32.461178",
     "geom:latitude":32.461178,
     "geom:longitude":-90.113659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2129 Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085905,
         85821249
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TYbeEOTgrHF3TYizTEJQd_32.461178_-90.113659@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130407,
-    "wof:geomhash":"a67b0643a3e92013ef29ca2d94c39bff",
+    "wof:geomhash":"c7cde0aabb4e6afb83a4986642a8fe8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857481973,
-    "wof:lastmodified":1466641047,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85821249,
     "wof:placetype":"venue",

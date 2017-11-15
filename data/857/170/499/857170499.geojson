@@ -2,14 +2,20 @@
   "id": 857170499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"2301",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.326355,31.324703,-89.326355,31.324703",
     "geom:latitude":31.324703,
     "geom:longitude":-89.326355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SUrRQl5ltDwUvbvklktG1_31.324703_-89.326355@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123595,
-    "wof:geomhash":"73756c838ea76be1e54c0d1ececb89fe",
+    "wof:geomhash":"d9eea2cd1cabf37da283c3d5eb76a784",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857170499,
-    "wof:lastmodified":1466636766,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

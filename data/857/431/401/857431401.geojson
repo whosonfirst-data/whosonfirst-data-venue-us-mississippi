@@ -2,14 +2,20 @@
   "id": 857431401,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Briarwood Dr Jackson MS 39206",
+    "addr:housenumber":"411",
+    "addr:postcode":"39206",
+    "addr:street":"Briarwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.148877,32.380266,-90.148877,32.380266",
     "geom:latitude":32.380266,
     "geom:longitude":-90.148877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 Briarwood Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125157447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17xKeepgxKqRuPbJFpHjeF_32.380266_-90.148877@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129374,
-    "wof:geomhash":"a5875ed93dec3e421188525ba0b2b0c7",
+    "wof:geomhash":"1811fd7b6368b5f47e032219f927ac86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857431401,
-    "wof:lastmodified":1466640284,
+    "wof:lastmodified":1510697429,
     "wof:name":"Mental Health Assn",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

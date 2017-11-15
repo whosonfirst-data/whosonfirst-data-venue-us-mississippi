@@ -2,6 +2,10 @@
   "id": 857177787,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 S State St Jackson MS 39201",
+    "addr:housenumber":"630",
+    "addr:postcode":"39201",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857177787,
-    "wof:lastmodified":1466636891,
+    "wof:lastmodified":1472631233,
     "wof:name":"US Post Office",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

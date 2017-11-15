@@ -2,6 +2,10 @@
   "id": 857148953,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Hospital Rd Starkville MS 39759",
+    "addr:housenumber":"501",
+    "addr:postcode":"39759",
+    "addr:street":"Hospital Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857148953,
-    "wof:lastmodified":1466636564,
+    "wof:lastmodified":1472631218,
     "wof:name":"Family Clinic",
     "wof:parent_id":85814517,
     "wof:placetype":"venue",

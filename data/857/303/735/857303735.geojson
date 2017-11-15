@@ -2,14 +2,20 @@
   "id": 857303735,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Mincheck Rd Ocean Springs MS 39564",
+    "addr:housenumber":"303",
+    "addr:postcode":"39564",
+    "addr:street":"Mincheck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.804648,30.402584,-88.804648,30.402584",
     "geom:latitude":30.402584,
     "geom:longitude":-88.804648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 Mincheck Rd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R26F5EInqp4CQPWAuKJkZ_30.402584_-88.804648@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126491,
-    "wof:geomhash":"60d3d723627f9d945fcb1a0326e0fff0",
+    "wof:geomhash":"11ef5b2f5b305e4264aae26bd4fe21c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857303735,
-    "wof:lastmodified":1466638590,
+    "wof:lastmodified":1510712362,
     "wof:name":"Bankers Life",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857315369,
   "type": "Feature",
   "properties": {
+    "addr:full":"2575 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2575",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.985066,30.400991,-88.985066,30.400991",
     "geom:latitude":30.400991,
     "geom:longitude":-88.985066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2575 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125152195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zujd8NawNqGz17MBCqUcD_30.400991_-88.985066@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126729,
-    "wof:geomhash":"c7a788f2793eeffb85abaa97ea29f390",
+    "wof:geomhash":"075c438c0514431f161897fe25681ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857315369,
-    "wof:lastmodified":1466638699,
+    "wof:lastmodified":1510697275,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

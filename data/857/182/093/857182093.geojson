@@ -2,14 +2,20 @@
   "id": 857182093,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Hwy 49 S Jackson MS 39218",
+    "addr:housenumber":"454",
+    "addr:postcode":"39218",
+    "addr:street":"Hwy 49 S Jackson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.136727,32.183306,-90.136727,32.183306",
     "geom:latitude":32.183306,
     "geom:longitude":-90.136727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"454 Hwy 49 S",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125158411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mXEV572t97131W0Gkqds0_32.183306_-90.136727@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123838,
-    "wof:geomhash":"c312ffb416f816efbed90691e01176c1",
+    "wof:geomhash":"ebae7a5ad749aa7c79003afb06973351",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857182093,
-    "wof:lastmodified":1466636857,
+    "wof:lastmodified":1510697117,
     "wof:name":"Thermo King",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

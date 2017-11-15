@@ -2,14 +2,20 @@
   "id": 857245467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 Lelia Dr Jackson MS 39216",
+    "addr:housenumber":"1430",
+    "addr:postcode":"39216",
+    "addr:street":"Lelia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.148831,32.333044,-90.148831,32.333044",
     "geom:latitude":32.333044,
     "geom:longitude":-90.148831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1430 Lelia Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85858753
     ],
+    "wof:brand_id":420575619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yBnebLrLITSYT1xDqLlWv_32.333044_-90.148831@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125149,
-    "wof:geomhash":"4cf2592fa29ea6f2861edca2014f6368",
+    "wof:geomhash":"3319ebb64a17752d63f7a70ebcebf294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857245467,
-    "wof:lastmodified":1466637675,
+    "wof:lastmodified":1510602378,
     "wof:name":"Motorola",
     "wof:parent_id":85858753,
     "wof:placetype":"venue",

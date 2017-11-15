@@ -2,14 +2,20 @@
   "id": 857259581,
   "type": "Feature",
   "properties": {
+    "addr:full":"921 Sawmill Ln NE Brookhaven MS 39601",
+    "addr:housenumber":"921",
+    "addr:postcode":"39601",
+    "addr:street":"Sawmill Ln Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.425612,31.59095,-90.425612,31.59095",
     "geom:latitude":31.59095,
     "geom:longitude":-90.425612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"921 Sawmill Ln NE",
     "sg:city":"Brookhaven",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084871,
         85841011
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WIDDXjSeUQTzH1WQiMpoT_31.590950_-90.425612@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125483,
-    "wof:geomhash":"77c159635517e732cadc5fb748a6bd47",
+    "wof:geomhash":"f2d9f7e706b0e3252ffa43b50aa297fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857259581,
-    "wof:lastmodified":1466637954,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":85841011,
     "wof:placetype":"venue",

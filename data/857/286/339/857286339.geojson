@@ -2,14 +2,20 @@
   "id": 857286339,
   "type": "Feature",
   "properties": {
+    "addr:full":"13900 Wilfred Seymour Rd Ocean Springs MS 39565",
+    "addr:housenumber":"13900",
+    "addr:postcode":"39565",
+    "addr:street":"Wilfred Seymour Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.843028,30.457482,-88.843028,30.457482",
     "geom:latitude":30.457482,
     "geom:longitude":-88.843028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13900 Wilfred Seymour Rd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125157817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MgdZCZAoXcfPowZlRgEbd_30.457482_-88.843028@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126052,
-    "wof:geomhash":"7c52be91c77efd0c4b4fbe70479ef87f",
+    "wof:geomhash":"46224988be3157a8afb367aa93796ea1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857286339,
-    "wof:lastmodified":1466638324,
+    "wof:lastmodified":1510694200,
     "wof:name":"Country Suites By Carlson",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

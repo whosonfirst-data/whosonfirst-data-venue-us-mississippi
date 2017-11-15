@@ -2,14 +2,20 @@
   "id": 857456149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2699 Bienville Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"2699",
+    "addr:postcode":"39564",
+    "addr:street":"Bienville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.797717,30.415232,-88.797717,30.415232",
     "geom:latitude":30.415232,
     "geom:longitude":-88.797717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2699 Bienville Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X15LYFr3pYikgmYvZiYAk_30.415232_-88.797717@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129875,
-    "wof:geomhash":"f5b5467f624c18f64d4e177bd6d7ac55",
+    "wof:geomhash":"2d52b2fb03baa9f1e7720ca3245b232a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857456149,
-    "wof:lastmodified":1466640571,
+    "wof:lastmodified":1510694224,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857232359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1545 Cliff Gookin Blvd Tupelo MS 38801",
+    "addr:housenumber":"1545",
+    "addr:postcode":"38801",
+    "addr:street":"Cliff Gookin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.761473,34.227283,-88.761473,34.227283",
     "geom:latitude":34.227283,
     "geom:longitude":-88.761473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1545 Cliff Gookin Blvd",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083171,
         85852479
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DGJjNVB2hMj09lY0DBDcc_34.227283_-88.761473@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124849,
-    "wof:geomhash":"a327d46e222b5e2f434647d7cbaffd27",
+    "wof:geomhash":"0efc7c9d74f0c57f093ff1342fae68f5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857232359,
-    "wof:lastmodified":1466637465,
+    "wof:lastmodified":1510613179,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

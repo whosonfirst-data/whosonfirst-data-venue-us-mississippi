@@ -2,14 +2,20 @@
   "id": 857397957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Wholesale Row Jackson MS 39201",
+    "addr:housenumber":"1010",
+    "addr:postcode":"39201",
+    "addr:street":"Wholesale Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.190884,32.289207,-90.190884,32.289207",
     "geom:latitude":32.289207,
     "geom:longitude":-90.190884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 Wholesale Row",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081407,
         85878407
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qQU1nMb2Zxcprph4lJAcU_32.289207_-90.190884@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128587,
-    "wof:geomhash":"b4a1da9993d21784e0e067570a82716b",
+    "wof:geomhash":"dd33b7cd7f10e4a22867e98315d090ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857397957,
-    "wof:lastmodified":1466639944,
+    "wof:lastmodified":1510697574,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85878407,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857438971,
   "type": "Feature",
   "properties": {
+    "addr:full":"2311 Fulton Ave Pascagoula MS 39567",
+    "addr:housenumber":"2311",
+    "addr:postcode":"39567",
+    "addr:street":"Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.540342,30.363213,-88.540342,30.363213",
     "geom:latitude":30.363213,
     "geom:longitude":-88.540342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2311 Fulton Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125155825,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j5GjBQCrAK8Zd7x5APUoS_30.363213_-88.540342@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129549,
-    "wof:geomhash":"698bc89090bad3ef447dbad958699a1a",
+    "wof:geomhash":"53740a2acf0fae7ec21837f1b7bbc7c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857438971,
-    "wof:lastmodified":1466640479,
+    "wof:lastmodified":1510699020,
     "wof:name":"Pentecostal Holiness Church",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857328259,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Co Rd 1119 Saltillo MS 38866",
+    "addr:housenumber":"146;1119",
+    "addr:postcode":"38866",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857328259,
-    "wof:lastmodified":1466638866,
+    "wof:lastmodified":1472631379,
     "wof:name":"Estes Building & Remodeling",
     "wof:parent_id":85838449,
     "wof:placetype":"venue",

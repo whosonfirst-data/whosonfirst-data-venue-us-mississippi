@@ -2,14 +2,20 @@
   "id": 857287679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 Canton Mart Rd Jackson MS 39211",
+    "addr:housenumber":"1451",
+    "addr:postcode":"39211",
+    "addr:street":"Canton Mart Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.147462,32.366638,-90.147462,32.366638",
     "geom:latitude":32.366638,
     "geom:longitude":-90.147462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1451 Canton Mart Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4diJte0XJjZ559UKk9kKUT_32.366638_-90.147462@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126078,
-    "wof:geomhash":"482f9b7506fb0f731219adc7a109a212",
+    "wof:geomhash":"0720f636756be633fe89da9eba6b813e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857287679,
-    "wof:lastmodified":1466638373,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

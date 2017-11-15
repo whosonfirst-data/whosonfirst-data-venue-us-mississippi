@@ -2,14 +2,20 @@
   "id": 857437163,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Main St Biloxi MS 39530",
+    "addr:housenumber":"255",
+    "addr:postcode":"39530",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.885801,30.403033,-88.885801,30.403033",
     "geom:latitude":30.403033,
     "geom:longitude":-88.885801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"255 Main St",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125152799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KBsk177iuYgXdTqSkDuhR_30.403033_-88.885801@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129513,
-    "wof:geomhash":"a4fb5c387fbfaa5da7998632730778fc",
+    "wof:geomhash":"2a7d8903de367d387956381b0f88d4c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857437163,
-    "wof:lastmodified":1466640328,
+    "wof:lastmodified":1510697600,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

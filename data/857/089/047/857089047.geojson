@@ -2,14 +2,20 @@
   "id": 857089047,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 Dogwood Pl Flowood MS 39232",
+    "addr:housenumber":"277",
+    "addr:postcode":"39232",
+    "addr:street":"Dogwood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050671,32.336349,-90.050671,32.336349",
     "geom:latitude":32.336349,
     "geom:longitude":-90.050671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"277 Dogwood Pl",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084869,
         85814785
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cJGDV45EYyjIASOluAD0V_32.336349_-90.050671@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121644,
-    "wof:geomhash":"09fec7381bb7c89ae3fabd611f0d3933",
+    "wof:geomhash":"5041ce5010889a314241f3523fdb22dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857089047,
-    "wof:lastmodified":1466635784,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85814785,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857229919,
   "type": "Feature",
   "properties": {
+    "addr:full":"10638 Antioch Rd Lauderdale MS 39335",
+    "addr:housenumber":"10638",
+    "addr:postcode":"39335",
+    "addr:street":"Antioch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.641482,32.553274,-88.641482,32.553274",
     "geom:latitude":32.553274,
     "geom:longitude":-88.641482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10638 Antioch Rd",
     "sg:city":"Lauderdale",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420575777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UGLHNm7mO5vLlN07HTzFq_32.553274_-88.641482@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124806,
-    "wof:geomhash":"139c6d35245aa7f06f683e8633d18fd9",
+    "wof:geomhash":"752edb6326b578b9c362aaf4f09add79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857229919,
-    "wof:lastmodified":1466637538,
+    "wof:lastmodified":1510602622,
     "wof:name":"Antioch Baptist Church",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

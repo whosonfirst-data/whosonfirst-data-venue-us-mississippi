@@ -2,14 +2,20 @@
   "id": 857422757,
   "type": "Feature",
   "properties": {
+    "addr:full":"6645 US Hwy 98 Hattiesburg MS 39402",
+    "addr:housenumber":"6645",
+    "addr:postcode":"39402",
+    "addr:street":"Us Hwy 98",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.427777,31.316944,-89.427777,31.316944",
     "geom:latitude":31.316944,
     "geom:longitude":-89.427777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6645 US Hwy 98",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85829187,
         102083775
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48afMNpyK5YI4AE0lUHcLK_31.316944_-89.427777@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129163,
-    "wof:geomhash":"8d0b58b073afb6f5549b195ad6cc37d1",
+    "wof:geomhash":"0f16c66a4a6f5e6ec44fb2bc47408510",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857422757,
-    "wof:lastmodified":1466640203,
+    "wof:lastmodified":1510604329,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85829187,
     "wof:placetype":"venue",

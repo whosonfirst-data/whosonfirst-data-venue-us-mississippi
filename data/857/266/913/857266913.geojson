@@ -2,14 +2,20 @@
   "id": 857266913,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 A St Meridian MS 39301",
+    "addr:housenumber":"711",
+    "addr:postcode":"39301",
+    "addr:street":"A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684902,32.368748,-88.684902,32.368748",
     "geom:latitude":32.368748,
     "geom:longitude":-88.684902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 A St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HtORpNqG4z2pecfzYkCLK_32.368748_-88.684902@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125628,
-    "wof:geomhash":"f8c4923a6e57173572ec754b36319ddd",
+    "wof:geomhash":"84f3bd85c4cd3a08ffe5facdcebe530a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857266913,
-    "wof:lastmodified":1466638086,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857411093,
   "type": "Feature",
   "properties": {
+    "addr:full":"9174 Lacoste Ave Gulfport MS 39503",
+    "addr:housenumber":"9174",
+    "addr:postcode":"39503",
+    "addr:street":"Lacoste Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.090583,30.417898,-89.090583,30.417898",
     "geom:latitude":30.417898,
     "geom:longitude":-89.090583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9174 Lacoste Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hIyMdSSaXTvBGjeX6FfDN_30.417898_-89.090583@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128877,
-    "wof:geomhash":"26043b8d99c266af9133378152ef1e26",
+    "wof:geomhash":"1ffed75db12dcd1f2a65b35a4efdb196",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857411093,
-    "wof:lastmodified":1466639994,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

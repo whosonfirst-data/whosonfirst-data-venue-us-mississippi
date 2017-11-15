@@ -2,14 +2,20 @@
   "id": 857406703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1319 23rd Ave Meridian MS 39301",
+    "addr:housenumber":"1319",
+    "addr:postcode":"39301",
+    "addr:street":"23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.70156,32.370594,-88.70156,32.370594",
     "geom:latitude":32.370594,
     "geom:longitude":-88.70156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1319 23rd Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125157447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eJFWTdVwjWRJWjcdWjDpp_32.370594_-88.701560@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128764,
-    "wof:geomhash":"c5aa814cab68c128faab5cc74a3ee533",
+    "wof:geomhash":"537794fa31c7411f8c2cc6356c373b9f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857406703,
-    "wof:lastmodified":1466640016,
+    "wof:lastmodified":1510697429,
     "wof:name":"Mental Health Assn",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

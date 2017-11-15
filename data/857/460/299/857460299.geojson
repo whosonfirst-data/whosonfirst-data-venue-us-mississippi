@@ -2,14 +2,20 @@
   "id": 857460299,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Hwy 12 E Starkville MS 39759",
+    "addr:housenumber":"305",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.805651,33.454501,-88.805651,33.454501",
     "geom:latitude":33.454501,
     "geom:longitude":-88.805651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 Hwy 12 E",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083159,
         85823781
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vwU9AUXgHBGRbXIS2GG65_33.454501_-88.805651@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129955,
-    "wof:geomhash":"d882e7d4c9d5acca3d813f8b06e857ae",
+    "wof:geomhash":"1c3ae89de00eb753edeb169c7568d37a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857460299,
-    "wof:lastmodified":1466640641,
+    "wof:lastmodified":1510699356,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85823781,
     "wof:placetype":"venue",

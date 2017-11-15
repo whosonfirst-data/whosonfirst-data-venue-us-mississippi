@@ -2,14 +2,20 @@
   "id": 857091885,
   "type": "Feature",
   "properties": {
+    "addr:full":"6659 Hwy 305 N Olive Branch MS 38654",
+    "addr:housenumber":"6659",
+    "addr:postcode":"38654",
+    "addr:street":"Hwy 305 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.830486,34.956339,-89.830486,34.956339",
     "geom:latitude":34.956339,
     "geom:longitude":-89.830486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6659 Hwy 305 N",
     "sg:city":"Olive Branch",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XTc3EixB9C6tcFl0Q4X1z_34.956339_-89.830486@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121730,
-    "wof:geomhash":"79dd48a0ad9c950d3e02a8ee24b9a6c8",
+    "wof:geomhash":"6b8faf0777ee512a05c5c6efc0b45821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857091885,
-    "wof:lastmodified":1466636030,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857247353,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Industrial Dr Jackson MS 39209",
+    "addr:housenumber":"100",
+    "addr:postcode":"39209",
+    "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857247353,
-    "wof:lastmodified":1466637725,
+    "wof:lastmodified":1472631287,
     "wof:name":"Southwest Airlines Co",
     "wof:parent_id":85814629,
     "wof:placetype":"venue",

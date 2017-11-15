@@ -2,14 +2,20 @@
   "id": 857473937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 Monroe St Vicksburg MS 39180",
+    "addr:housenumber":"1625",
+    "addr:postcode":"39180",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.880314,32.346136,-90.880314,32.346136",
     "geom:latitude":32.346136,
     "geom:longitude":-90.880314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1625 Monroe St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I7vjgyyQIOzKiRak4XhAd_32.346136_-90.880314@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130254,
-    "wof:geomhash":"b0bedcd290ed62bf9b56897a23507c92",
+    "wof:geomhash":"f675b4dc813752e1169461a375fb2285",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857473937,
-    "wof:lastmodified":1466640920,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

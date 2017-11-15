@@ -2,6 +2,10 @@
   "id": 857410453,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Dr 321 Tupelo MS 38801",
+    "addr:housenumber":"130",
+    "addr:postcode":"321;38801",
+    "addr:street":"Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857410453,
-    "wof:lastmodified":1466640030,
+    "wof:lastmodified":1472631489,
     "wof:name":"McFarling Technologies",
     "wof:parent_id":85830115,
     "wof:placetype":"venue",

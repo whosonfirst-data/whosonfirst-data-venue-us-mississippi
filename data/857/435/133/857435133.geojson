@@ -2,14 +2,20 @@
   "id": 857435133,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 S Meridian St Aberdeen MS 39730",
+    "addr:housenumber":"723",
+    "addr:postcode":"39730",
+    "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.544039,33.816679,-88.544039,33.816679",
     "geom:latitude":33.816679,
     "geom:longitude":-88.544039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"723 S Meridian St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083163,
         85852769
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SoCqc1CMGgBfAzq4uBdZD_33.816679_-88.544039@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129469,
-    "wof:geomhash":"3791ccb6cd4333877c8d18bcbdb14ff3",
+    "wof:geomhash":"f0dc2235ca346625936622c84062ef85",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857435133,
-    "wof:lastmodified":1466640310,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85852769,
     "wof:placetype":"venue",

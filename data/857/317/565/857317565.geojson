@@ -2,14 +2,20 @@
   "id": 857317565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1835 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"1835",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.31671,31.324767,-89.31671,31.324767",
     "geom:latitude":31.324767,
     "geom:longitude":-89.31671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1835 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14xYl121aAObL6Sir7CWs6_31.324767_-89.316710@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126784,
-    "wof:geomhash":"798f96392b859cd4d322d2017e297990",
+    "wof:geomhash":"a6342000b6ed860b3f88166397c20e28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857317565,
-    "wof:lastmodified":1466638768,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

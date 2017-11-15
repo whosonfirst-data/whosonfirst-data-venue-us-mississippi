@@ -2,14 +2,20 @@
   "id": 857168465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 23rd Ave Meridian MS 39301",
+    "addr:housenumber":"1015",
+    "addr:postcode":"39301",
+    "addr:street":"23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.701576,32.367624,-88.701576,32.367624",
     "geom:latitude":32.367624,
     "geom:longitude":-88.701576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1015 23rd Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CSaCQOFnLYAGkdLMNHO5G_32.367624_-88.701576@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123546,
-    "wof:geomhash":"8c2dcd500c06fc43dfc965e53aea8815",
+    "wof:geomhash":"6ccbcf613c481150664655a59495ba36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857168465,
-    "wof:lastmodified":1466636773,
+    "wof:lastmodified":1510696671,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

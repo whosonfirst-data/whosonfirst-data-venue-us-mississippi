@@ -2,6 +2,10 @@
   "id": 857293955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5000;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857293955,
-    "wof:lastmodified":1466638492,
+    "wof:lastmodified":1472631355,
     "wof:name":"House Traders Inc",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

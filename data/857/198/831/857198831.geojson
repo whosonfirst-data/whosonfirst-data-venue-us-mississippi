@@ -2,14 +2,20 @@
   "id": 857198831,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Lafayette Pl Gulfport MS 39507",
+    "addr:housenumber":"15",
+    "addr:postcode":"39507",
+    "addr:street":"Lafayette Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.016645,30.396658,-89.016645,30.396658",
     "geom:latitude":30.396658,
     "geom:longitude":-89.016645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Lafayette Pl",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85823795
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ASkJgZTxMjvqcg0tns9tL_30.396658_-89.016645@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124154,
-    "wof:geomhash":"aa2d3e97c9fe6abc12b58b6e908d9dda",
+    "wof:geomhash":"5a15c800a1eb28366761b84dd6d5faad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857198831,
-    "wof:lastmodified":1466637131,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85823795,
     "wof:placetype":"venue",

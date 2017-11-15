@@ -2,14 +2,20 @@
   "id": 857339709,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Foley St Jackson MS 39202",
+    "addr:housenumber":"811",
+    "addr:postcode":"39202",
+    "addr:street":"Foley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.1665,32.307032,-90.1665,32.307032",
     "geom:latitude":32.307032,
     "geom:longitude":-90.1665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"811 Foley St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081407,
         85878389
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vLwVlxGm7bd5d0XoY42kI_32.307032_-90.166500@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127267,
-    "wof:geomhash":"0e1fd015d9e5251524852e1c1d27dbda",
+    "wof:geomhash":"ba7d33a7794049a2b59a0c24328e5571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":857339709,
-    "wof:lastmodified":1466639087,
+    "wof:lastmodified":1510694072,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857376307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 US Hwy 61 Vicksburg MS 39183",
+    "addr:housenumber":"1240",
+    "addr:postcode":"39183",
+    "addr:street":"Us Hwy 61",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.828114,32.361878,-90.828114,32.361878",
     "geom:latitude":32.361878,
     "geom:longitude":-90.828114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1240 US Hwy 61",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dmSF9fI9QNZS23eoDPG7h_32.361878_-90.828114@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128045,
-    "wof:geomhash":"0d0e3b90924034678d9d9327d07f8a42",
+    "wof:geomhash":"abc9cf8c56949d9bf26091ddddc994a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857376307,
-    "wof:lastmodified":1466639574,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

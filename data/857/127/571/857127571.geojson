@@ -2,14 +2,20 @@
   "id": 857127571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 Hwy 80 E Pearl MS 39208",
+    "addr:housenumber":"2250",
+    "addr:postcode":"39208",
+    "addr:street":"Hwy 80 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.1371,32.279764,-90.1371,32.279764",
     "geom:latitude":32.279764,
     "geom:longitude":-90.1371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2250 Hwy 80 E",
     "sg:city":"Pearl",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084869,
         85833739
     ],
+    "wof:brand_id":1125156569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7InaasETSCFALWstDBazUc_32.279764_-90.137100@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122619,
-    "wof:geomhash":"784f359059161549f6e07148da4c961a",
+    "wof:geomhash":"1589b0abc6efd9e1f7bd3b8ea5ce4140",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857127571,
-    "wof:lastmodified":1466636378,
+    "wof:lastmodified":1510695193,
     "wof:name":"Fleetwood Homes",
     "wof:parent_id":85833739,
     "wof:placetype":"venue",

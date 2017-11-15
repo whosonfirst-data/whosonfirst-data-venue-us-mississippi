@@ -2,6 +2,10 @@
   "id": 857130015,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 Co Rd 340 Taylor MS 38673",
+    "addr:housenumber":"183;340",
+    "addr:postcode":"38673",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857130015,
-    "wof:lastmodified":1466636309,
+    "wof:lastmodified":1472631179,
     "wof:name":"Bishop Art Gallery",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

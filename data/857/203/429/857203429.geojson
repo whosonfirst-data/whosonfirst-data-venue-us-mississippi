@@ -2,6 +2,10 @@
   "id": 857203429,
   "type": "Feature",
   "properties": {
+    "addr:full":"388 Co Rd 520 Shannon MS 38868",
+    "addr:housenumber":"388;520",
+    "addr:postcode":"38868",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857203429,
-    "wof:lastmodified":1466637142,
+    "wof:lastmodified":1472631246,
     "wof:name":"Kel-Tech Inc Security Svc",
     "wof:parent_id":85830115,
     "wof:placetype":"venue",

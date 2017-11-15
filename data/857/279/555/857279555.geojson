@@ -2,14 +2,20 @@
   "id": 857279555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 5th Ave Meridian MS 39301",
+    "addr:housenumber":"1800",
+    "addr:postcode":"39301",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.683135,32.376809,-88.683135,32.376809",
     "geom:latitude":32.376809,
     "geom:longitude":-88.683135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 5th Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YBkl0ywtcaT50xUAlonYe_32.376809_-88.683135@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125911,
-    "wof:geomhash":"30ec84b564c77ab7a6ae56963a375e68",
+    "wof:geomhash":"5c82c1f04eee3830a81aff47a2b8dd28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857279555,
-    "wof:lastmodified":1466638202,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

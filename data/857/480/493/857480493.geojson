@@ -2,14 +2,20 @@
   "id": 857480493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2580 Jackson Ave W Oxford MS 38655",
+    "addr:housenumber":"2580",
+    "addr:postcode":"38655",
+    "addr:street":"Jackson Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.568557,34.361779,-89.568557,34.361779",
     "geom:latitude":34.361779,
     "geom:longitude":-89.568557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2580 Jackson Ave W",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083165,
         85858823
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12KXQYooW63bwbWFWWEjxa_34.361779_-89.568557@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130378,
-    "wof:geomhash":"3da2924ceef8c45f3343d1439db2c477",
+    "wof:geomhash":"93b8f45c8cc8117aa351f17ac055c5e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857480493,
-    "wof:lastmodified":1466640970,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857395023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2130",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.962952,30.402627,-88.962952,30.402627",
     "geom:latitude":30.402627,
     "geom:longitude":-88.962952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2130 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125154319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YiNO6ZPc78Bm8Bn1xWNKU_30.402627_-88.962952@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128527,
-    "wof:geomhash":"becef181df2af0fd176cf625609a51e5",
+    "wof:geomhash":"00e862b8fa8e1c8d9211b3559c50f4c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857395023,
-    "wof:lastmodified":1466639789,
+    "wof:lastmodified":1510695277,
     "wof:name":"Humana",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

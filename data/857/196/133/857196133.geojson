@@ -2,14 +2,20 @@
   "id": 857196133,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Goodman Rd E Southaven MS 38671",
+    "addr:housenumber":"775",
+    "addr:postcode":"38671",
+    "addr:street":"Goodman Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.972486,34.962558,-89.972486,34.962558",
     "geom:latitude":34.962558,
     "geom:longitude":-89.972486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"775 Goodman Rd E",
     "sg:city":"Southaven",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085895,
         85842413
     ],
+    "wof:brand_id":1125152101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2meUM066CKf5ZNoYtR9zML_34.962558_-89.972486@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124103,
-    "wof:geomhash":"16c9b504d1da144c4e7c7223c278d32b",
+    "wof:geomhash":"108f81182dec866b0cb69d2b8c3323d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857196133,
-    "wof:lastmodified":1466636994,
+    "wof:lastmodified":1510694962,
     "wof:name":"New China Buffet",
     "wof:parent_id":85842413,
     "wof:placetype":"venue",

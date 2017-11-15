@@ -2,14 +2,20 @@
   "id": 857482359,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Clay St Vicksburg MS 39183",
+    "addr:housenumber":"4200",
+    "addr:postcode":"39183",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.834899,32.344023,-90.834899,32.344023",
     "geom:latitude":32.344023,
     "geom:longitude":-90.834899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 Clay St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083779,
         85829579
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a1pK56loODwzWwCOdNQkB_32.344023_-90.834899@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130416,
-    "wof:geomhash":"7be2c729daeccaefdf7671dfd1487a35",
+    "wof:geomhash":"fe140684dedbe82078854995707388ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857482359,
-    "wof:lastmodified":1466640973,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85829579,
     "wof:placetype":"venue",

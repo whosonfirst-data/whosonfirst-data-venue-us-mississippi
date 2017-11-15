@@ -2,14 +2,20 @@
   "id": 857189849,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Oakwood Dr Vicksburg MS 39180",
+    "addr:housenumber":"502",
+    "addr:postcode":"39180",
+    "addr:street":"Oakwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.83651,32.322743,-90.83651,32.322743",
     "geom:latitude":32.322743,
     "geom:longitude":-90.83651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Oakwood Dr",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083779,
         85829579
     ],
+    "wof:brand_id":1125151197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Du4Z2f7xpUgkhd86lrWUp_32.322743_-90.836510@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123987,
-    "wof:geomhash":"9e143fe812a384f722b519e295e81fbf",
+    "wof:geomhash":"218adf9b1df9ccc940fc152bdfda3116",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857189849,
-    "wof:lastmodified":1466637010,
+    "wof:lastmodified":1510697358,
     "wof:name":"Saic",
     "wof:parent_id":85829579,
     "wof:placetype":"venue",

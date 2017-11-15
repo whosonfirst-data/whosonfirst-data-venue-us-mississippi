@@ -2,14 +2,20 @@
   "id": 857215931,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 E Northside Dr Clinton MS 39056",
+    "addr:housenumber":"821",
+    "addr:postcode":"39056",
+    "addr:street":"E Northside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.316644,32.34894,-90.316644,32.34894",
     "geom:latitude":32.34894,
     "geom:longitude":-90.316644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"821 E Northside Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85828141
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TkUPQHcFzfBPxYVgf9bcL_32.348940_-90.316644@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124531,
-    "wof:geomhash":"2ee8e40f27383bdc938be209418b69d8",
+    "wof:geomhash":"66ce8633b7164ef977a1b4ce520dc887",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857215931,
-    "wof:lastmodified":1466637343,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85828141,
     "wof:placetype":"venue",

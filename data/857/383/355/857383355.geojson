@@ -2,14 +2,20 @@
   "id": 857383355,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 Corinth Rd Purvis MS 39475",
+    "addr:housenumber":"712",
+    "addr:postcode":"39475",
+    "addr:street":"Corinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.466917,31.117153,-89.466917,31.117153",
     "geom:latitude":31.117153,
     "geom:longitude":-89.466917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"712 Corinth Rd",
     "sg:city":"Purvis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838663,
         102083775
     ],
+    "wof:brand_id":1125159217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16qWaqo5ZXIH781311Jy8C_31.117153_-89.466917@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128222,
-    "wof:geomhash":"e0a7dac84746e5bb37ad08b2a55f9140",
+    "wof:geomhash":"b3b950f1e8c5062ef56433a2a0d34e61",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857383355,
-    "wof:lastmodified":1466639663,
+    "wof:lastmodified":1510698764,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":85838663,
     "wof:placetype":"venue",

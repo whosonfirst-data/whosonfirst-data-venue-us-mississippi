@@ -2,14 +2,20 @@
   "id": 857288887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 W L Runnels Ind Dr Hattiesburg MS 39401",
+    "addr:housenumber":"1",
+    "addr:postcode":"39401",
+    "addr:street":"W L Runnels Ind Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.265625,31.268787,-89.265625,31.268787",
     "geom:latitude":31.268787,
     "geom:longitude":-89.265625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 W L Runnels Ind Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125156599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NTT9TjWr3dI3eNUkc1AcG_31.268787_-89.265625@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126108,
-    "wof:geomhash":"ad097c220d4002ddd5b9ddaf9bd533d2",
+    "wof:geomhash":"338f0acbf0d645d99b25ff6742bdd915",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857288887,
-    "wof:lastmodified":1466638441,
+    "wof:lastmodified":1510694627,
     "wof:name":"Kimberly-Clark",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

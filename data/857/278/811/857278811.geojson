@@ -2,6 +2,10 @@
   "id": 857278811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5111 I- 55 N Jackson MS 39206",
+    "addr:housenumber":"5111;55 n",
+    "addr:postcode":"39206",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857278811,
-    "wof:lastmodified":1466638236,
+    "wof:lastmodified":1472631332,
     "wof:name":"Storage Center",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857207375,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Co Rd 172 Oxford MS 38655",
+    "addr:housenumber":"36;172",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857207375,
-    "wof:lastmodified":1466637156,
+    "wof:lastmodified":1472631250,
     "wof:name":"John Z Dollarhie General Contr",
     "wof:parent_id":85868907,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857090773,
   "type": "Feature",
   "properties": {
+    "addr:full":"3959 Clay St Vicksburg MS 39183",
+    "addr:housenumber":"3959",
+    "addr:postcode":"39183",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.836873,32.343921,-90.836873,32.343921",
     "geom:latitude":32.343921,
     "geom:longitude":-90.836873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3959 Clay St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083779,
         85829579
     ],
+    "wof:brand_id":420574085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_674MGa00JVZ2FhlAzY2ZKN_32.343921_-90.836873@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121707,
-    "wof:geomhash":"514bdf8ff8e9b0e02e081c6ad5eda3e4",
+    "wof:geomhash":"287c9fbc58e2432f912550dc55a22985",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857090773,
-    "wof:lastmodified":1466635992,
+    "wof:lastmodified":1510604034,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85829579,
     "wof:placetype":"venue",

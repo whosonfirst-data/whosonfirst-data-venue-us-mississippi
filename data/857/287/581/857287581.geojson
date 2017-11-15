@@ -2,14 +2,20 @@
   "id": 857287581,
   "type": "Feature",
   "properties": {
+    "addr:full":"4943 Glaude St Moss Point MS 39563",
+    "addr:housenumber":"4943",
+    "addr:postcode":"39563",
+    "addr:street":"Glaude St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.526904,30.392031,-88.526904,30.392031",
     "geom:latitude":30.392031,
     "geom:longitude":-88.526904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4943 Glaude St",
     "sg:city":"Moss Point",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125152057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gXKninjbfnnqGId6waNX3_30.392031_-88.526904@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126076,
-    "wof:geomhash":"603e2a153ac0e8d5c93b7411826bb492",
+    "wof:geomhash":"1ea115a16866d8a1a69ab57fbe9968dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857287581,
-    "wof:lastmodified":1466638356,
+    "wof:lastmodified":1510697074,
     "wof:name":"Morning Star Baptist Church",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

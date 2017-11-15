@@ -2,14 +2,20 @@
   "id": 857111105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 US Hwy 51 Madison MS 39110",
+    "addr:housenumber":"1028",
+    "addr:postcode":"39110",
+    "addr:street":"Us Hwy 51",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109203,32.465488,-90.109203,32.465488",
     "geom:latitude":32.465488,
     "geom:longitude":-90.109203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1028 US Hwy 51",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085905,
         85821249
     ],
+    "wof:brand_id":1125155255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hk59CrLZ7K8x0HPrBMURo_32.465488_-90.109203@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122209,
-    "wof:geomhash":"00022997f22a36175f3488321ed9a385",
+    "wof:geomhash":"1e4691cbe8c294e96ccfa554fd78b596",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857111105,
-    "wof:lastmodified":1466636074,
+    "wof:lastmodified":1510695083,
     "wof:name":"Hong Kong Buffet",
     "wof:parent_id":85821249,
     "wof:placetype":"venue",

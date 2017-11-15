@@ -2,14 +2,20 @@
   "id": 857296551,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 W 5th Ave Petal MS 39465",
+    "addr:housenumber":"216",
+    "addr:postcode":"39465",
+    "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.26983,31.343069,-89.26983,31.343069",
     "geom:latitude":31.343069,
     "geom:longitude":-89.26983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 W 5th Ave",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DGnSBROjgdp5WRCxNid2W_31.343069_-89.269830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126336,
-    "wof:geomhash":"1c847af96c2d8869f7ac97f4f870a433",
+    "wof:geomhash":"a8707f75c246cb51320aa8e8b6ea520d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857296551,
-    "wof:lastmodified":1466638504,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857151337,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 Market St Pascagoula MS 39567",
+    "addr:housenumber":"2902",
+    "addr:postcode":"39567",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54844,30.362496,-88.54844,30.362496",
     "geom:latitude":30.362496,
     "geom:longitude":-88.54844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2902 Market St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CYK49xGeXb1x7zoagoSPZ_30.362496_-88.548440@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123174,
-    "wof:geomhash":"1fc666ae208eba362a13dc7dea47aa3d",
+    "wof:geomhash":"11887df2335cd157322c4c38e836c309",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857151337,
-    "wof:lastmodified":1466636586,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

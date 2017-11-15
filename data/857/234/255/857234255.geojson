@@ -2,6 +2,10 @@
   "id": 857234255,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Co Rd 1188 Tupelo MS 38801",
+    "addr:housenumber":"118;1188",
+    "addr:postcode":"38801",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857234255,
-    "wof:lastmodified":1466637483,
+    "wof:lastmodified":1472631272,
     "wof:name":"Marias Cutting Edge",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

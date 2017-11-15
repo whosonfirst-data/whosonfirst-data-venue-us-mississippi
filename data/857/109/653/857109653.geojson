@@ -2,14 +2,20 @@
   "id": 857109653,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 E Pearl St Jackson MS 39201",
+    "addr:housenumber":"209",
+    "addr:postcode":"39201",
+    "addr:street":"E Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184506,32.298623,-90.184506,32.298623",
     "geom:latitude":32.298623,
     "geom:longitude":-90.184506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 E Pearl St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878403
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tdBRhsN2BBoE22e90IA39_32.298623_-90.184506@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122149,
-    "wof:geomhash":"3654cb6d406e2adcf378e4c03c323e9d",
+    "wof:geomhash":"552e3d97c64d6f0650305ff2f8f2280f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857109653,
-    "wof:lastmodified":1466636154,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

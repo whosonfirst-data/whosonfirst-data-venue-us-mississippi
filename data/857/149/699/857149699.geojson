@@ -2,6 +2,10 @@
   "id": 857149699,
   "type": "Feature",
   "properties": {
+    "addr:full":"14582 Jim Byrd Rd Biloxi MS 39532",
+    "addr:housenumber":"14582",
+    "addr:postcode":"39532",
+    "addr:street":"Jim Byrd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857149699,
-    "wof:lastmodified":1466636572,
+    "wof:lastmodified":1472631210,
     "wof:name":"PDN Limousine Svc",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857126771,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Mississippi St Jackson MS 39201",
+    "addr:housenumber":"321",
+    "addr:postcode":"39201",
+    "addr:street":"Mississippi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857126771,
-    "wof:lastmodified":1466636353,
+    "wof:lastmodified":1472631193,
     "wof:name":"Mississippi United Methodist",
     "wof:parent_id":85878401,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857422947,
   "type": "Feature",
   "properties": {
+    "addr:full":"5586 Fisher Ferry Rd Vicksburg MS 39180",
+    "addr:housenumber":"5586",
+    "addr:postcode":"39180",
+    "addr:street":"Fisher Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.843261,32.235341,-90.843261,32.235341",
     "geom:latitude":32.235341,
     "geom:longitude":-90.843261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5586 Fisher Ferry Rd",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850283,
         102083779
     ],
+    "wof:brand_id":1125157233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b6q3JmtvTpH9kHslx5ch5_32.235341_-90.843261@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129167,
-    "wof:geomhash":"db195054fd8d1c15dd9ae1d203093a39",
+    "wof:geomhash":"3a7817e18e40c1de6571ee3b89bf4e5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857422947,
-    "wof:lastmodified":1466640240,
+    "wof:lastmodified":1510698642,
     "wof:name":"Pinnacle Towers Inc",
     "wof:parent_id":85850283,
     "wof:placetype":"venue",

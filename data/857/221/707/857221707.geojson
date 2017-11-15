@@ -2,14 +2,20 @@
   "id": 857221707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2655 Traceland Dr Tupelo MS 38801",
+    "addr:housenumber":"2655",
+    "addr:postcode":"38801",
+    "addr:street":"Traceland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.748633,34.253587,-88.748633,34.253587",
     "geom:latitude":34.253587,
     "geom:longitude":-88.748633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2655 Traceland Dr",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85852479
     ],
+    "wof:brand_id":1125151077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gHKOikK9wDcoS8HAuTady_34.253587_-88.748633@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124650,
-    "wof:geomhash":"592911912dbf4ae2146ab8a1221e28b1",
+    "wof:geomhash":"cdf58a259c68d4aef10a190f62ec5d5e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857221707,
-    "wof:lastmodified":1466637351,
+    "wof:lastmodified":1510696089,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

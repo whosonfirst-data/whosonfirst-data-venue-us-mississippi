@@ -2,14 +2,20 @@
   "id": 857268537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3803 Old Mobile Ave Pascagoula MS 39581",
+    "addr:housenumber":"3803",
+    "addr:postcode":"39581",
+    "addr:street":"Old Mobile Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.522007,30.369464,-88.522007,30.369464",
     "geom:latitude":30.369464,
     "geom:longitude":-88.522007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3803 Old Mobile Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rQAtt7ZmwxGthr4PBdspH_30.369464_-88.522007@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125658,
-    "wof:geomhash":"1b1f68e017a3a194b68844e9ffdd4a78",
+    "wof:geomhash":"c27ba623e7339d1969034058a6bee2b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857268537,
-    "wof:lastmodified":1466638027,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

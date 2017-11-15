@@ -2,14 +2,20 @@
   "id": 857076329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 S Meridian St Aberdeen MS 39730",
+    "addr:housenumber":"1030",
+    "addr:postcode":"39730",
+    "addr:street":"S Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.544079,33.810598,-88.544079,33.810598",
     "geom:latitude":33.810598,
     "geom:longitude":-88.544079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 S Meridian St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083163,
         85852769
     ],
+    "wof:brand_id":1125150721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iTgsLLHtkSVIRk2wuaMfz_33.810598_-88.544079@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121316,
-    "wof:geomhash":"fc4c56ef4b0d4b0f057843ebcbf7b74b",
+    "wof:geomhash":"da2578b43171c64b62d9236e5c7852bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857076329,
-    "wof:lastmodified":1466641080,
+    "wof:lastmodified":1510695863,
     "wof:name":"Southside Baptist Church",
     "wof:parent_id":85852769,
     "wof:placetype":"venue",

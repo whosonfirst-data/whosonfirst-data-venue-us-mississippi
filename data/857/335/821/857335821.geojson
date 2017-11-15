@@ -2,6 +2,10 @@
   "id": 857335821,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Houston Ave Jackson MS 39209",
+    "addr:housenumber":"308",
+    "addr:postcode":"39209",
+    "addr:street":"Houston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857335821,
-    "wof:lastmodified":1466639098,
+    "wof:lastmodified":1472631406,
     "wof:name":"Data Processing Assoc",
     "wof:parent_id":85814629,
     "wof:placetype":"venue",

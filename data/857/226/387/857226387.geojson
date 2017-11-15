@@ -2,14 +2,20 @@
   "id": 857226387,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Village Dr Madison MS 39110",
+    "addr:housenumber":"116",
+    "addr:postcode":"39110",
+    "addr:street":"Village Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.083403,32.440268,-90.083403,32.440268",
     "geom:latitude":32.440268,
     "geom:longitude":-90.083403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Village Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085905,
         85852001
     ],
+    "wof:brand_id":1125154865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i5bzkA9VtB1wc9o91PHzr_32.440268_-90.083403@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124736,
-    "wof:geomhash":"25e9ceaf29668f528e57d7d702eb2c67",
+    "wof:geomhash":"673ad3d9dd62ee423e2a9aee733c3e80",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857226387,
-    "wof:lastmodified":1466637408,
+    "wof:lastmodified":1510695972,
     "wof:name":"Cigna",
     "wof:parent_id":85852001,
     "wof:placetype":"venue",

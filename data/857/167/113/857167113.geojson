@@ -2,14 +2,20 @@
   "id": 857167113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1090 Bonita Dr Meridian MS 39301",
+    "addr:housenumber":"1090",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.638599,32.367777,-88.638599,32.367777",
     "geom:latitude":32.367777,
     "geom:longitude":-88.638599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1090 Bonita Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125151963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d7Ju8nHsov1ukLys3rAa6_32.367777_-88.638599@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123513,
-    "wof:geomhash":"caee9402f7825f7b3f942f73f0abb126",
+    "wof:geomhash":"6383637371f7d72e85f2af1a324da8ff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857167113,
-    "wof:lastmodified":1466636709,
+    "wof:lastmodified":1510613284,
     "wof:name":"Suncoast Motion Picture Co",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

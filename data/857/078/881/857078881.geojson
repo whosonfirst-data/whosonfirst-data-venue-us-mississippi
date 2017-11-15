@@ -2,14 +2,20 @@
   "id": 857078881,
   "type": "Feature",
   "properties": {
+    "addr:full":"2223 Hwy 39 N Meridian MS 39301",
+    "addr:housenumber":"2223",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 39 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.682436,32.381166,-88.682436,32.381166",
     "geom:latitude":32.381166,
     "geom:longitude":-88.682436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2223 Hwy 39 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37IXT4gbcs4V4DsvheVyMj_32.381166_-88.682436@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121377,
-    "wof:geomhash":"1237c67a5ad044137d39fac013e63400",
+    "wof:geomhash":"460192b78e5114d45978c8eb7898d8ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857078881,
-    "wof:lastmodified":1466635885,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857367953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1481 Lake Lowndes Rd Columbus MS 39702",
+    "addr:housenumber":"1481",
+    "addr:postcode":"39702",
+    "addr:street":"Lake Lowndes Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.335474,33.441071,-88.335474,33.441071",
     "geom:latitude":33.441071,
     "geom:longitude":-88.335474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1481 Lake Lowndes Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081023,
         85810039
     ],
+    "wof:brand_id":1125158743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G5cLfay6vegbCDYtrPkQC_33.441071_-88.335474@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127862,
-    "wof:geomhash":"122275e5c684979a4fbbb5018412ed1b",
+    "wof:geomhash":"0bf2f246b354831e714975ef33a5e351",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857367953,
-    "wof:lastmodified":1466639539,
+    "wof:lastmodified":1510697765,
     "wof:name":"Crown Castle USA",
     "wof:parent_id":85810039,
     "wof:placetype":"venue",

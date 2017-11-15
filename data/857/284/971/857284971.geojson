@@ -2,14 +2,20 @@
   "id": 857284971,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Bluecutt Rd Columbus MS 39705",
+    "addr:housenumber":"3600",
+    "addr:postcode":"39705",
+    "addr:street":"Bluecutt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.416616,33.517075,-88.416616,33.517075",
     "geom:latitude":33.517075,
     "geom:longitude":-88.416616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 Bluecutt Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qRxFZSpG4ak4kxMhdak0L_33.517075_-88.416616@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126021,
-    "wof:geomhash":"5e35d8e9ff0bd807464f4a71dc80a989",
+    "wof:geomhash":"02a038b30d14cb23058301e718d5f330",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857284971,
-    "wof:lastmodified":1466638401,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

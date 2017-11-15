@@ -2,6 +2,10 @@
   "id": 857190427,
   "type": "Feature",
   "properties": {
+    "addr:full":"156 Co Rd 521 Saltillo MS 38866",
+    "addr:housenumber":"156;521",
+    "addr:postcode":"38866",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857190427,
-    "wof:lastmodified":1466637005,
+    "wof:lastmodified":1472631235,
     "wof:name":"Greenthumb Lawn Svc",
     "wof:parent_id":85810531,
     "wof:placetype":"venue",

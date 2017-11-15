@@ -2,6 +2,10 @@
   "id": 857227737,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5050;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857227737,
-    "wof:lastmodified":1466637462,
+    "wof:lastmodified":1472631275,
     "wof:name":"Shapes",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

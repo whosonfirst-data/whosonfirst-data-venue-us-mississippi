@@ -2,14 +2,20 @@
   "id": 857165363,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 Florida Ave Clarksdale MS 38614",
+    "addr:housenumber":"835",
+    "addr:postcode":"38614",
+    "addr:street":"Florida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.558899,34.19497,-90.558899,34.19497",
     "geom:latitude":34.19497,
     "geom:longitude":-90.558899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"835 Florida Ave",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080633,
         85836181
     ],
+    "wof:brand_id":1125155937,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wZ7gAi4DA9pJw9fTTt8bH_34.194970_-90.558899@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123472,
-    "wof:geomhash":"9940c841020f0aa40b181d5213c63e55",
+    "wof:geomhash":"49c0746dde7e249d313a2293f3e31fec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857165363,
-    "wof:lastmodified":1466636730,
+    "wof:lastmodified":1510697225,
     "wof:name":"Jerusalem Baptist Church",
     "wof:parent_id":85836181,
     "wof:placetype":"venue",

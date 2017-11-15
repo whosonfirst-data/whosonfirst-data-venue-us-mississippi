@@ -2,14 +2,20 @@
   "id": 857314639,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 E Beach Blvd Long Beach MS 39560",
+    "addr:housenumber":"612",
+    "addr:postcode":"39560",
+    "addr:street":"E Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.1365,30.350404,-89.1365,30.350404",
     "geom:latitude":30.350404,
     "geom:longitude":-89.1365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"612 E Beach Blvd",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dJDEn2Qj4gGV20jLigdSM_30.350404_-89.136500@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126716,
-    "wof:geomhash":"bf5f926955927c038747a1f3c841670a",
+    "wof:geomhash":"8c558162eb3f5ae673b83654c3b9a90a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857314639,
-    "wof:lastmodified":1466638744,
+    "wof:lastmodified":1510714909,
     "wof:name":"Economy Inn",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

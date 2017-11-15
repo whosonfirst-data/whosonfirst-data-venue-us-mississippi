@@ -2,14 +2,20 @@
   "id": 857343929,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Scarbrough St Jackson MS 39218",
+    "addr:housenumber":"115",
+    "addr:postcode":"39218",
+    "addr:street":"Scarbrough St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.152649,32.214075,-90.152649,32.214075",
     "geom:latitude":32.214075,
     "geom:longitude":-90.152649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Scarbrough St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084869,
         85842145
     ],
+    "wof:brand_id":1125153899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IhVDGRJK94auvRPEDf19q_32.214075_-90.152649@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127351,
-    "wof:geomhash":"ab3f37fa9ff77ebbd67664d4457dd95c",
+    "wof:geomhash":"538e16d0b855eb39e312cca92f5182cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857343929,
-    "wof:lastmodified":1466639178,
+    "wof:lastmodified":1510698864,
     "wof:name":"Shell Oil Products U S",
     "wof:parent_id":85842145,
     "wof:placetype":"venue",

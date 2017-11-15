@@ -2,6 +2,10 @@
   "id": 857130477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Robert Dr Jackson MS 39211",
+    "addr:housenumber":"1540",
+    "addr:postcode":"39211",
+    "addr:street":"Robert Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857130477,
-    "wof:lastmodified":1466636372,
+    "wof:lastmodified":1472631189,
     "wof:name":"Waterloo Co",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

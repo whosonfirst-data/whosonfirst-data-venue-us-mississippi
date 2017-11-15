@@ -2,14 +2,20 @@
   "id": 857279351,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 Pierce Rd Florence MS 39073",
+    "addr:housenumber":"329",
+    "addr:postcode":"39073",
+    "addr:street":"Pierce Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.196805,32.124429,-90.196805,32.124429",
     "geom:latitude":32.124429,
     "geom:longitude":-90.196805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"329 Pierce Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YZeejgz5tblRfMFMbHn9W_32.124429_-90.196805@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125906,
-    "wof:geomhash":"1f22f523d8ca6b75d8221b259d47f275",
+    "wof:geomhash":"f47e41ac2e39dbd909b3dad12cbebc45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857279351,
-    "wof:lastmodified":1466638167,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

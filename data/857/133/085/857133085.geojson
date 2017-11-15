@@ -2,14 +2,20 @@
   "id": 857133085,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Drake Ave Aberdeen MS 39730",
+    "addr:housenumber":"105",
+    "addr:postcode":"39730",
+    "addr:street":"Drake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.559101,33.826048,-88.559101,33.826048",
     "geom:latitude":33.826048,
     "geom:longitude":-88.559101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Drake Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083163,
         85825473
     ],
+    "wof:brand_id":1125153127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RN5ZtHBVhovSZBf6jgnDn_33.826048_-88.559101@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122742,
-    "wof:geomhash":"4836e651e0dbd3248d554b51cc577a8e",
+    "wof:geomhash":"54c8da032ff532e21d329c8f9e24f163",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857133085,
-    "wof:lastmodified":1466636336,
+    "wof:lastmodified":1510699543,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":85825473,
     "wof:placetype":"venue",

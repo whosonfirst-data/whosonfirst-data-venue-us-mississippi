@@ -2,14 +2,20 @@
   "id": 857443911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1969 Market St Pascagoula MS 39567",
+    "addr:housenumber":"1969",
+    "addr:postcode":"39567",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.54857,30.358103,-88.54857,30.358103",
     "geom:latitude":30.358103,
     "geom:longitude":-88.54857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1969 Market St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MI6IjzQdq113zBpp91gHL_30.358103_-88.548570@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129638,
-    "wof:geomhash":"c02d5082f90191aae2d96f362f67357e",
+    "wof:geomhash":"f8634e974b7f5653fe5af5e423e4f7b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857443911,
-    "wof:lastmodified":1466640525,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

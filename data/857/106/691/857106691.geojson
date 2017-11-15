@@ -2,14 +2,20 @@
   "id": 857106691,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 Hwy 45 N West Point MS 39773",
+    "addr:housenumber":"1425",
+    "addr:postcode":"39773",
+    "addr:street":"Hwy 45 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.659446,33.631689,-88.659446,33.631689",
     "geom:latitude":33.631689,
     "geom:longitude":-88.659446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 Hwy 45 N",
     "sg:city":"West Point",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082439,
         85838287
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KOm7e7KhMjfuiogdJhtdQ_33.631689_-88.659446@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122064,
-    "wof:geomhash":"3c4cf21e0bdcc26ec040049a9d6fbfb7",
+    "wof:geomhash":"da5cc70c51219233dcdaf2e565d10fde",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857106691,
-    "wof:lastmodified":1466636142,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85838287,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857206987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 S West St Jackson MS 39201",
+    "addr:housenumber":"1510",
+    "addr:postcode":"39201",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.18897,32.281784,-90.18897,32.281784",
     "geom:latitude":32.281784,
     "geom:longitude":-90.18897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1510 S West St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878391
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W9dxyKPUEnM0V95ksNQ7V_32.281784_-90.188970@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124331,
-    "wof:geomhash":"121a2b8c44ec38ef23a16d864a988e41",
+    "wof:geomhash":"9cb8df3be36edfa9167b6ea44a77e4b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857206987,
-    "wof:lastmodified":1466637229,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857308889,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 Co Rd 101 Oxford MS 38655",
+    "addr:housenumber":"328;101",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857308889,
-    "wof:lastmodified":1466638734,
+    "wof:lastmodified":1472631370,
     "wof:name":"Lloyd G Oliphant & Sons Paint",
     "wof:parent_id":85868907,
     "wof:placetype":"venue",

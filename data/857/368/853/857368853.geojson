@@ -2,14 +2,20 @@
   "id": 857368853,
   "type": "Feature",
   "properties": {
+    "addr:full":"6005 Washington Ave Ocean Springs MS 39564",
+    "addr:housenumber":"6005",
+    "addr:postcode":"39564",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.82923,30.429608,-88.82923,30.429608",
     "geom:latitude":30.429608,
     "geom:longitude":-88.82923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6005 Washington Ave",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125154447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_089BudSjZuL3z9T4qG5AGV_30.429608_-88.829230@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127880,
-    "wof:geomhash":"f7d4352e2a5fa61aa2548d0d66b95048",
+    "wof:geomhash":"1cce598add488477598795dc657ee574",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857368853,
-    "wof:lastmodified":1466639570,
+    "wof:lastmodified":1510694785,
     "wof:name":"Lockheed Martin Corp",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857270081,
   "type": "Feature",
   "properties": {
+    "addr:full":"658 S Jefferson St Jackson MS 39201",
+    "addr:housenumber":"658",
+    "addr:postcode":"39201",
+    "addr:street":"S Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857270081,
-    "wof:lastmodified":1466637995,
+    "wof:lastmodified":1472631309,
     "wof:name":"Jackson City Testing Lab",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

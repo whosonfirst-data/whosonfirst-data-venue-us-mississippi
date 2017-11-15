@@ -2,14 +2,20 @@
   "id": 857227349,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Brooks St Pelahatchie MS 39145",
+    "addr:housenumber":"102",
+    "addr:postcode":"39145",
+    "addr:street":"Brooks St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.799173,32.314548,-89.799173,32.314548",
     "geom:latitude":32.314548,
     "geom:longitude":-89.799173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Brooks St",
     "sg:city":"Pelahatchie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TX7t1iX8YaLR74tYRh2TR_32.314548_-89.799173@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124756,
-    "wof:geomhash":"d62951f2b86cf34ff7c850342c594461",
+    "wof:geomhash":"14bfe85ca3381dab4d80a787233f5714",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857227349,
-    "wof:lastmodified":1466637416,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857376221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2554 Robinson St Jackson MS 39209",
+    "addr:housenumber":"2554",
+    "addr:postcode":"39209",
+    "addr:street":"Robinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.228322,32.30549,-90.228322,32.30549",
     "geom:latitude":32.30549,
     "geom:longitude":-90.228322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2554 Robinson St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85814629
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EsMJo0WGHcW8c4t9CrXkb_32.305490_-90.228322@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128040,
-    "wof:geomhash":"25339da30a53dbfd47b6eed2f6f69b18",
+    "wof:geomhash":"6322434f982ff3da3b8af2cc9f870b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857376221,
-    "wof:lastmodified":1466639559,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85814629,
     "wof:placetype":"venue",

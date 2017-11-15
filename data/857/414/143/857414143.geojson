@@ -2,14 +2,20 @@
   "id": 857414143,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 5th St West Point MS 39773",
+    "addr:housenumber":"330",
+    "addr:postcode":"39773",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.644041,33.610689,-88.644041,33.610689",
     "geom:latitude":33.610689,
     "geom:longitude":-88.644041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 5th St",
     "sg:city":"West Point",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082439,
         85838287
     ],
+    "wof:brand_id":1125155849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RvyllnFP8AZ4S3YxyMzlI_33.610689_-88.644041@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128946,
-    "wof:geomhash":"fb85f3d4e4ebba8943bdd646fcc4b7e4",
+    "wof:geomhash":"524274266e4eab597f6ffcb438580b89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857414143,
-    "wof:lastmodified":1466640029,
+    "wof:lastmodified":1510697489,
     "wof:name":"St Paul United Methodist Chr",
     "wof:parent_id":85838287,
     "wof:placetype":"venue",

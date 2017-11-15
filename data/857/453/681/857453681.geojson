@@ -2,14 +2,20 @@
   "id": 857453681,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Hwy 11 and 80 Meridian MS 39301",
+    "addr:housenumber":"124;80",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 11 And;Meridian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.672907,32.369566,-88.672907,32.369566",
     "geom:latitude":32.369566,
     "geom:longitude":-88.672907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Hwy 11 and 80",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ozickwcHBP8S5Cw9zsH65_32.369566_-88.672907@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129832,
-    "wof:geomhash":"acd3ac6bdcca397e01d0f2e2ca4dc48e",
+    "wof:geomhash":"e3e98bf9f2e87c0787b2a9971d47207b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857453681,
-    "wof:lastmodified":1466640685,
+    "wof:lastmodified":1510603288,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

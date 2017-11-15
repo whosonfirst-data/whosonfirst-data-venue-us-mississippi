@@ -2,14 +2,20 @@
   "id": 857190669,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 W Broadway St Yazoo City MS 39194",
+    "addr:housenumber":"204",
+    "addr:postcode":"39194",
+    "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.415454,32.84805,-90.415454,32.84805",
     "geom:latitude":32.84805,
     "geom:longitude":-90.415454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 W Broadway St",
     "sg:city":"Yazoo City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086661,
         85827605
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qJa5jKXERMw4OakfEGHlU_32.848050_-90.415454@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124000,
-    "wof:geomhash":"7c1f910bbca21cd81faa2ce2d35ac7b5",
+    "wof:geomhash":"924176ba50f26d47a1535e74d0e75c50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857190669,
-    "wof:lastmodified":1466637036,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85827605,
     "wof:placetype":"venue",

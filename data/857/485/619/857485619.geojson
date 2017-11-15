@@ -2,14 +2,20 @@
   "id": 857485619,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 University Ave Oxford MS 38655",
+    "addr:housenumber":"1515",
+    "addr:postcode":"38655",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.516214,34.363634,-89.516214,34.363634",
     "geom:latitude":34.363634,
     "geom:longitude":-89.516214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 University Ave",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102083165,
         85852013
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pOPgXGb4cmNx5JLYYIGkA_34.363633_-89.515712@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130478,
-    "wof:geomhash":"e48fc869e95b13f746ad528291f2361f",
+    "wof:geomhash":"82dd27c619b1be86caad4f7d34a4b96a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":857485619,
-    "wof:lastmodified":1466641023,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85852013,
     "wof:placetype":"venue",

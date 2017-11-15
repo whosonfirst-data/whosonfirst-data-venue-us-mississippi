@@ -2,14 +2,20 @@
   "id": 857253679,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 S Pearson Rd Pearl MS 39208",
+    "addr:housenumber":"246",
+    "addr:postcode":"39208",
+    "addr:street":"S Pearson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.135491,32.270276,-90.135491,32.270276",
     "geom:latitude":32.270276,
     "geom:longitude":-90.135491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"246 S Pearson Rd",
     "sg:city":"Pearl",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084869,
         85833739
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ryubN0OxyVQe8BE1VIE0O_32.270276_-90.135491@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125340,
-    "wof:geomhash":"f226d8b932a93d945e5bdf8f16b0a484",
+    "wof:geomhash":"c74051a18f87f0fa8f0b41efe28a9fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857253679,
-    "wof:lastmodified":1466637872,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85833739,
     "wof:placetype":"venue",

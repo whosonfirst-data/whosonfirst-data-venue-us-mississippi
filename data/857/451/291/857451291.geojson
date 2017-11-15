@@ -2,14 +2,20 @@
   "id": 857451291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1440 Canton Mart Rd Jackson MS 39211",
+    "addr:housenumber":"1440",
+    "addr:postcode":"39211",
+    "addr:street":"Canton Mart Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.147148,32.36679,-90.147148,32.36679",
     "geom:latitude":32.36679,
     "geom:longitude":-90.147148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1440 Canton Mart Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AEjrxOM5p0lvukXdvZZbn_32.366790_-90.147148@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129788,
-    "wof:geomhash":"df79b38d9aba3f4f8d759db742e38d1b",
+    "wof:geomhash":"8993f20afa2c9e34afd7b652d1cdab59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857451291,
-    "wof:lastmodified":1466640526,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

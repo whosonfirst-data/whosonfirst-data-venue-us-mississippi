@@ -2,14 +2,20 @@
   "id": 857347849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Lincoln Rd Hattiesburg MS 39402",
+    "addr:housenumber":"2007",
+    "addr:postcode":"39402",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.322938,31.304169,-89.322938,31.304169",
     "geom:latitude":31.304169,
     "geom:longitude":-89.322938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2007 Lincoln Rd",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H1aoNQqsUOFrWFqRF9RId_31.304169_-89.322938@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127438,
-    "wof:geomhash":"6321dc06b63d466d3613ed6078c84352",
+    "wof:geomhash":"9ab4bd6b9ca9c93844978d750e57b5f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857347849,
-    "wof:lastmodified":1466639250,
+    "wof:lastmodified":1510694224,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857484499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Beach Blvd Biloxi MS 39531",
+    "addr:housenumber":"2600",
+    "addr:postcode":"39531",
+    "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.991588,30.389241,-88.991588,30.389241",
     "geom:latitude":30.389241,
     "geom:longitude":-88.991588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 Beach Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I7crX4zPLFWx1pDFJGaEt_30.389241_-88.991588@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130454,
-    "wof:geomhash":"cde7dd227e82cef4d560d73a2e3a3ca0",
+    "wof:geomhash":"8e6e2d132ae89182fa0c6fd82799924e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857484499,
-    "wof:lastmodified":1466640992,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

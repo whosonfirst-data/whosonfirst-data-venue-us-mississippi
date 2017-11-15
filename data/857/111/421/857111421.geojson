@@ -2,14 +2,20 @@
   "id": 857111421,
   "type": "Feature",
   "properties": {
+    "addr:full":"2031 Hwy 45 N Columbus MS 39705",
+    "addr:housenumber":"2031",
+    "addr:postcode":"39705",
+    "addr:street":"Hwy 45 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.43705,33.530444,-88.43705,33.530444",
     "geom:latitude":33.530444,
     "geom:longitude":-88.43705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2031 Hwy 45 N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125158285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HvJyz4bnQiIsTJRdEZ0xX_33.530444_-88.437050@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122220,
-    "wof:geomhash":"d4444151ce36c0d1ed6a7bc64528c2df",
+    "wof:geomhash":"464a1d66b14de0f3f11d80704c25bfc7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857111421,
-    "wof:lastmodified":1466636124,
+    "wof:lastmodified":1510695159,
     "wof:name":"Estee Lauder",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

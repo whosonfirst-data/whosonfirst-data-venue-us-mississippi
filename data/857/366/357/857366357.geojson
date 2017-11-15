@@ -2,6 +2,10 @@
   "id": 857366357,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Hospital Rd Starkville MS 39759",
+    "addr:housenumber":"300",
+    "addr:postcode":"39759",
+    "addr:street":"Hospital Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857366357,
-    "wof:lastmodified":1466639415,
+    "wof:lastmodified":1472631432,
     "wof:name":"Stewart Ear Nose & Throat Ctr",
     "wof:parent_id":85814517,
     "wof:placetype":"venue",

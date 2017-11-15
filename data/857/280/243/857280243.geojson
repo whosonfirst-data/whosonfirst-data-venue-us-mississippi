@@ -2,14 +2,20 @@
   "id": 857280243,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Commerce Dr Brandon MS 39042",
+    "addr:housenumber":"214",
+    "addr:postcode":"39042",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.026969,32.281816,-90.026969,32.281816",
     "geom:latitude":32.281816,
     "geom:longitude":-90.026969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"214 Commerce Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mh6Weq920D3U4VxKwM2AW_32.281816_-90.026969@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125925,
-    "wof:geomhash":"d69afd44b4075b1228d72a960cac8ae2",
+    "wof:geomhash":"add58298ec4ba1b267dc5d2e315a2541",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857280243,
-    "wof:lastmodified":1466638151,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

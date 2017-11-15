@@ -2,9 +2,14 @@
   "id": 403974025,
   "type": "Feature",
   "properties": {
+    "addr:full":"5134 Millbranch Rd Memphis TN 38116",
+    "addr:housenumber":"5134",
+    "addr:postcode":"38116",
+    "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007555,35.009786,-90.007555,35.009786",
     "geom:latitude":35.009786,
     "geom:longitude":-90.007555,
@@ -25,10 +30,11 @@
     "sg:province":"TN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688579,
+        85688701,
+        102191575,
         85633793,
-        85969781,
-        102085895,
+        101722645,
+        102087213,
         85847303
     ],
     "wof:breaches":[],
@@ -39,17 +45,17 @@
     "wof:geomhash":"b6c920902b6c4dcf4d630086b79c78ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085895,
-            "locality_id":85969781,
+            "county_id":102087213,
+            "locality_id":101722645,
             "neighbourhood_id":85847303,
-            "region_id":85688579,
+            "region_id":85688701,
             "venue_id":403974025
         }
     ],
     "wof:id":403974025,
-    "wof:lastmodified":1466641058,
+    "wof:lastmodified":1491930857,
     "wof:name":"Upscale",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857120367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3141 Denny Ave Pascagoula MS 39581",
+    "addr:housenumber":"3141",
+    "addr:postcode":"39581",
+    "addr:street":"Denny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.529603,30.376604,-88.529603,30.376604",
     "geom:latitude":30.376604,
     "geom:longitude":-88.529603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3141 Denny Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125154409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cO5JphPoKkgM4C7CpCnhW_30.376604_-88.529603@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122457,
-    "wof:geomhash":"0654cd7d6dd04a21d6c031a1c430c113",
+    "wof:geomhash":"845fbc61fc33e9873f78f699ce95c0ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857120367,
-    "wof:lastmodified":1466636234,
+    "wof:lastmodified":1510697806,
     "wof:name":"China Garden Restaurant",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

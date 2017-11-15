@@ -2,14 +2,20 @@
   "id": 857422603,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Highland St New Albany MS 38652",
+    "addr:housenumber":"115",
+    "addr:postcode":"38652",
+    "addr:street":"Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.007383,34.494198,-89.007383,34.494198",
     "geom:latitude":34.494198,
     "geom:longitude":-89.007383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Highland St",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081017,
         85821919
     ],
+    "wof:brand_id":1125150857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w8q4kAYJGC77lnQKZFl1d_34.494198_-89.007383@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129161,
-    "wof:geomhash":"2853c4449f89f5b1e02089d704ba66d6",
+    "wof:geomhash":"3f7aac3d548323df7a399539cb9774f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857422603,
-    "wof:lastmodified":1466640174,
+    "wof:lastmodified":1510694215,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

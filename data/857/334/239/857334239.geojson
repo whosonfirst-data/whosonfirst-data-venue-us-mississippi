@@ -2,14 +2,20 @@
   "id": 857334239,
   "type": "Feature",
   "properties": {
+    "addr:full":"2945 Old Canton Rd Jackson MS 39216",
+    "addr:housenumber":"2945",
+    "addr:postcode":"39216",
+    "addr:street":"Old Canton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.174246,32.334841,-90.174246,32.334841",
     "geom:latitude":32.334841,
     "geom:longitude":-90.174246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2945 Old Canton Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081407,
         85878395
     ],
+    "wof:brand_id":1125157681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3flTI8EN6JIzH8xengC7eN_32.334841_-90.174246@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127152,
-    "wof:geomhash":"235c473135bfc7810a8b3e8c30cffc11",
+    "wof:geomhash":"5319ff4c506b8f3412b937f9d1868b02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857334239,
-    "wof:lastmodified":1466638976,
+    "wof:lastmodified":1510699515,
     "wof:name":"Nail Gallery",
     "wof:parent_id":85878395,
     "wof:placetype":"venue",

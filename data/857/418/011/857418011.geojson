@@ -2,14 +2,20 @@
   "id": 857418011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1040 Bonita Dr Meridian MS 39301",
+    "addr:housenumber":"1040",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.640441,32.369262,-88.640441,32.369262",
     "geom:latitude":32.369262,
     "geom:longitude":-88.640441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1040 Bonita Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125156147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qhzkTMYxuwLJN3fgBg4qY_32.369262_-88.640441@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129059,
-    "wof:geomhash":"7e3dcebfc5b12fb7c57b7a11a29f49d9",
+    "wof:geomhash":"056066f1f87aaf2871710f587ce9af93",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857418011,
-    "wof:lastmodified":1466640073,
+    "wof:lastmodified":1510694174,
     "wof:name":"Time Out",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

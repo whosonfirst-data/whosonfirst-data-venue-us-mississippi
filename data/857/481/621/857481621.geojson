@@ -2,14 +2,20 @@
   "id": 857481621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1374 W Government St Brandon MS 39042",
+    "addr:housenumber":"1374",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.014745,32.283826,-90.014745,32.283826",
     "geom:latitude":32.283826,
     "geom:longitude":-90.014745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1374 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125151799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KtVHxPRng4KVN2YAXO8Um_32.283826_-90.014745@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130399,
-    "wof:geomhash":"3dd25c34cb490a77f418d1cf062f4e99",
+    "wof:geomhash":"d19d016e1878cf59dfb7e522c032323b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857481621,
-    "wof:lastmodified":1466640991,
+    "wof:lastmodified":1510699966,
     "wof:name":"Sonny's Bar-B-Q",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

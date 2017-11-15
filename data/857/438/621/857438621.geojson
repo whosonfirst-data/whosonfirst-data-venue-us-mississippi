@@ -2,6 +2,10 @@
   "id": 857438621,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 I- 55 N Jackson MS 39206",
+    "addr:housenumber":"4711;55 n",
+    "addr:postcode":"39206",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857438621,
-    "wof:lastmodified":1466640439,
+    "wof:lastmodified":1472631507,
     "wof:name":"Horizon Community Church Inc",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

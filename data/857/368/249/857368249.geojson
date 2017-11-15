@@ -2,6 +2,10 @@
   "id": 857368249,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S President St Jackson MS 39201",
+    "addr:housenumber":"200",
+    "addr:postcode":"39201",
+    "addr:street":"S President St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857368249,
-    "wof:lastmodified":1466639462,
+    "wof:lastmodified":1472631435,
     "wof:name":"Jackson Water & Sewer Div",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

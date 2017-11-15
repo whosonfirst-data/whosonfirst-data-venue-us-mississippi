@@ -2,6 +2,10 @@
   "id": 857109751,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Co Rd 226 Nettleton MS 38858",
+    "addr:housenumber":"118;226",
+    "addr:postcode":"38858",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857109751,
-    "wof:lastmodified":1466636172,
+    "wof:lastmodified":1472631175,
     "wof:name":"Kent Contractors",
     "wof:parent_id":85847891,
     "wof:placetype":"venue",

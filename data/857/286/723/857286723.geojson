@@ -2,14 +2,20 @@
   "id": 857286723,
   "type": "Feature",
   "properties": {
+    "addr:full":"7450 US Hwy 49 Hattiesburg MS 39402",
+    "addr:housenumber":"7450",
+    "addr:postcode":"39402",
+    "addr:street":"Us Hwy 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.386309,31.398025,-89.386309,31.398025",
     "geom:latitude":31.398025,
     "geom:longitude":-89.386309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7450 US Hwy 49",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086673,
         85855649
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3abUxgRACNwaehzCmr9SOL_31.398025_-89.386309@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126058,
-    "wof:geomhash":"6be791cea475ebd4745a9a9931a6479c",
+    "wof:geomhash":"6643f241bff997b2f8833e78cdf78853",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857286723,
-    "wof:lastmodified":1466638392,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85855649,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857194675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 Judge Sekul Ave Biloxi MS 39530",
+    "addr:housenumber":"1114",
+    "addr:postcode":"39530",
+    "addr:street":"Judge Sekul Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.903453,30.400535,-88.903453,30.400535",
     "geom:latitude":30.400535,
     "geom:longitude":-88.903453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 Judge Sekul Ave",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nSuFZl8a8EL6N6uRFg3Hg_30.400535_-88.903453@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124074,
-    "wof:geomhash":"cf35fca711db3b952a90d7d5c83f49a0",
+    "wof:geomhash":"fbb7fbca5bd2ac6b34b33faa6252b389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857194675,
-    "wof:lastmodified":1466637085,
+    "wof:lastmodified":1510602946,
     "wof:name":"BellSouth",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857396595,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Woodstone Plaza Dr Hattiesburg MS 39402",
+    "addr:housenumber":"8",
+    "addr:postcode":"39402",
+    "addr:street":"Woodstone Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.421485,31.316714,-89.421485,31.316714",
     "geom:latitude":31.316714,
     "geom:longitude":-89.421485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Woodstone Plaza Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85829187,
         102083775
     ],
+    "wof:brand_id":1125158581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67kuZgVYgqddrz3AWPNuk5_31.316714_-89.421485@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128561,
-    "wof:geomhash":"f58a767fe811c23da72b34cc44caeaaf",
+    "wof:geomhash":"bbde820b9f664a619e5c237a99450bb4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857396595,
-    "wof:lastmodified":1466639906,
+    "wof:lastmodified":1510697461,
     "wof:name":"Moore Wallace North Amer Inc",
     "wof:parent_id":85829187,
     "wof:placetype":"venue",

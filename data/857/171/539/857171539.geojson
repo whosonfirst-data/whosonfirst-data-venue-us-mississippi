@@ -2,6 +2,10 @@
   "id": 857171539,
   "type": "Feature",
   "properties": {
+    "addr:full":"196 Co Rd 105 Oxford MS 38655",
+    "addr:housenumber":"196;105",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":857171539,
-    "wof:lastmodified":1466636786,
+    "wof:lastmodified":1472631224,
     "wof:name":"West Spring Hill Church",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

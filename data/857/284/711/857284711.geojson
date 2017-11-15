@@ -2,14 +2,20 @@
   "id": 857284711,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 First North St Vicksburg MS 39183",
+    "addr:housenumber":"900",
+    "addr:postcode":"39183",
+    "addr:street":"First North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.87293,32.35306,-90.87293,32.35306",
     "geom:latitude":32.35306,
     "geom:longitude":-90.87293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 First North St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125157255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vP7xvsBnuzh7inVF78s1o_32.353060_-90.872930@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126016,
-    "wof:geomhash":"94fd5ac425b1c816160e6bb5296226de",
+    "wof:geomhash":"1472b45415b74d6bc099c5588733a1aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857284711,
-    "wof:lastmodified":1466638356,
+    "wof:lastmodified":1510697179,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857084033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"1507",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.312749,31.324772,-89.312749,31.324772",
     "geom:latitude":31.324772,
     "geom:longitude":-89.312749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1507 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":1125152527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mpY3WNaQ95n88PIy6wQ51_31.324772_-89.312749@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121511,
-    "wof:geomhash":"d8f840183074cefb53ba2182d75336c4",
+    "wof:geomhash":"629969d9250b08451d10170a2050d8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857084033,
-    "wof:lastmodified":1466635783,
+    "wof:lastmodified":1510698919,
     "wof:name":"Federated Insurance Co",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

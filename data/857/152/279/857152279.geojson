@@ -2,14 +2,20 @@
   "id": 857152279,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Jeff Davis Ave Long Beach MS 39560",
+    "addr:housenumber":"501",
+    "addr:postcode":"39560",
+    "addr:street":"Jeff Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.148023,30.345053,-89.148023,30.345053",
     "geom:latitude":30.345053,
     "geom:longitude":-89.148023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Jeff Davis Ave",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48zbkrn4UoTBCxk8F8YA3N_30.345053_-89.148023@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123191,
-    "wof:geomhash":"9313829679a3ca5064a22e7079c86ace",
+    "wof:geomhash":"ac0381f81299a3699718e3b23fc01e77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857152279,
-    "wof:lastmodified":1466636583,
+    "wof:lastmodified":1510695930,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

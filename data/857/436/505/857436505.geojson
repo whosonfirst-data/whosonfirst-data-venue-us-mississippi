@@ -2,14 +2,20 @@
   "id": 857436505,
   "type": "Feature",
   "properties": {
+    "addr:full":"452 Courthouse Rd Gulfport MS 39507",
+    "addr:housenumber":"452",
+    "addr:postcode":"39507",
+    "addr:street":"Courthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.044106,30.388425,-89.044106,30.388425",
     "geom:latitude":30.388425,
     "geom:longitude":-89.044106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"452 Courthouse Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dVmjQR9MseEWdqKuXxfmq_30.388425_-89.044106@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129501,
-    "wof:geomhash":"aeb911aa0a7539bdf6c9bfa264c3b5e3",
+    "wof:geomhash":"2419a917ea7fe5acde27ffeeceacd253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857436505,
-    "wof:lastmodified":1466640389,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

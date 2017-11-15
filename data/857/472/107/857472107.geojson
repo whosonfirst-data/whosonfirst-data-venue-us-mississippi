@@ -2,6 +2,10 @@
   "id": 857472107,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Main St Petal MS 39465",
+    "addr:housenumber":"100",
+    "addr:postcode":"39465",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857472107,
-    "wof:lastmodified":1466640795,
+    "wof:lastmodified":1472631528,
     "wof:name":"A & B Cycles",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857395317,
   "type": "Feature",
   "properties": {
+    "addr:full":"5250 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5250;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.146966,32.37831,-90.146966,32.37831",
     "geom:latitude":32.37831,
     "geom:longitude":-90.146966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5250 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rKBo1ngM8Ny4eyB6H1UCw_32.378310_-90.146966@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128532,
-    "wof:geomhash":"ab7cf8b06263270bfe05877d366da97a",
+    "wof:geomhash":"86b15b1aca08ec929c98eca98af0fa13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857395317,
-    "wof:lastmodified":1466639827,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857366839,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 River Bend Pl Flowood MS 39232",
+    "addr:housenumber":"9",
+    "addr:postcode":"39232",
+    "addr:street":"River Bend Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.125229,32.327207,-90.125229,32.327207",
     "geom:latitude":32.327207,
     "geom:longitude":-90.125229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 River Bend Pl",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084869,
         85855043
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jh2liQBadlw6MdUvFbRMA_32.327207_-90.125229@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127841,
-    "wof:geomhash":"740ee7ed5ef50c1898c929034bfd3a3d",
+    "wof:geomhash":"45bd85a5674be8c7eaf8c8fb9dd35f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857366839,
-    "wof:lastmodified":1466639504,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85855043,
     "wof:placetype":"venue",

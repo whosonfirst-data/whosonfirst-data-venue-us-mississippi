@@ -2,14 +2,20 @@
   "id": 857430605,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 Beach Blvd Biloxi MS 39530",
+    "addr:housenumber":"808",
+    "addr:postcode":"39530",
+    "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.889202,30.393315,-88.889202,30.393315",
     "geom:latitude":30.393315,
     "geom:longitude":-88.889202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 Beach Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47dasmmpbqZlhfVj7FGr3F_30.393315_-88.889202@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129357,
-    "wof:geomhash":"569e70193fc6674bf24f7d966e5a2de9",
+    "wof:geomhash":"b11fb6175c4b2770c4b4143ceede1e77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857430605,
-    "wof:lastmodified":1466640367,
+    "wof:lastmodified":1510694224,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

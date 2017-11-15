@@ -2,14 +2,20 @@
   "id": 857381903,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Co Rd 122 Oxford MS 38655",
+    "addr:housenumber":"26;122",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.520317,34.427134,-89.520317,34.427134",
     "geom:latitude":34.427134,
     "geom:longitude":-89.520317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Co Rd 122",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         85868907,
         102083165
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kkTIC3h7VeMCDU2DG5421_34.427134_-89.520317@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128177,
-    "wof:geomhash":"cfca0115a1f5c10d83834b3c3bd09827",
+    "wof:geomhash":"88888f167bcd7641662e471aa7e957a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857381903,
-    "wof:lastmodified":1466639762,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85868907,
     "wof:placetype":"venue",

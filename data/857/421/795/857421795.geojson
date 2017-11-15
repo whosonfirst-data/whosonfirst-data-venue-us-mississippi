@@ -2,14 +2,20 @@
   "id": 857421795,
   "type": "Feature",
   "properties": {
+    "addr:full":"353 Bus Station Dr Yazoo City MS 39194",
+    "addr:housenumber":"353",
+    "addr:postcode":"39194",
+    "addr:street":"Bus Station Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.38279,32.836349,-90.38279,32.836349",
     "geom:latitude":32.836349,
     "geom:longitude":-90.38279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"353 Bus Station Dr",
     "sg:city":"Yazoo City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086661,
         85827605
     ],
+    "wof:brand_id":1125155501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15YlA6SixPyIMDPjhEKAYK_32.836349_-90.382790@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129143,
-    "wof:geomhash":"a26b8e1b1ed29fbc1afed5a9e5d5f921",
+    "wof:geomhash":"12b3975ee317f2540221e3a83cae5d3f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857421795,
-    "wof:lastmodified":1466640215,
+    "wof:lastmodified":1510696758,
     "wof:name":"Hillcrest Baptist Church",
     "wof:parent_id":85827605,
     "wof:placetype":"venue",

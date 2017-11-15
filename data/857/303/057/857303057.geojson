@@ -2,6 +2,10 @@
   "id": 857303057,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 T Smith Rd Hattiesburg MS 39401",
+    "addr:housenumber":"122",
+    "addr:postcode":"39401",
+    "addr:street":"T Smith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857303057,
-    "wof:lastmodified":1466638469,
+    "wof:lastmodified":1472631348,
     "wof:name":"T Smith Livestock Sales",
     "wof:parent_id":85855649,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857115825,
   "type": "Feature",
   "properties": {
+    "addr:full":"744 S Pear Orchard Rd Ridgeland MS 39157",
+    "addr:housenumber":"744",
+    "addr:postcode":"39157",
+    "addr:street":"S Pear Orchard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123436,32.40293,-90.123436,32.40293",
     "geom:latitude":32.40293,
     "geom:longitude":-90.123436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"744 S Pear Orchard Rd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W9a5fv4QJj70bPwoOT670_32.402930_-90.123436@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122336,
-    "wof:geomhash":"219f5d290f0376670f1cea376da8a094",
+    "wof:geomhash":"4b7188499627dc320554b7599ba235ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857115825,
-    "wof:lastmodified":1466636255,
+    "wof:lastmodified":1510696671,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

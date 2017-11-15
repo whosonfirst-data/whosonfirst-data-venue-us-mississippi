@@ -2,14 +2,20 @@
   "id": 857371057,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W Government St Brandon MS 39042",
+    "addr:housenumber":"106",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993017,32.273727,-89.993017,32.273727",
     "geom:latitude":32.273727,
     "geom:longitude":-89.993017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pIzXgnANG5B2B9bjdDS8a_32.273727_-89.993017@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127926,
-    "wof:geomhash":"6c887cf0acb8d8d24898ab2e2b512c6d",
+    "wof:geomhash":"4c1db83c13bc58944e00653388d89465",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857371057,
-    "wof:lastmodified":1466639450,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

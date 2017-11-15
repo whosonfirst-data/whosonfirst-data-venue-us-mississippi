@@ -2,6 +2,10 @@
   "id": 857421245,
   "type": "Feature",
   "properties": {
+    "addr:full":"1561 Co Rd 14 Myrtle MS 38650",
+    "addr:housenumber":"1561;14",
+    "addr:postcode":"38650",
+    "addr:street":"Co Rd;Myrtle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857421245,
-    "wof:lastmodified":1466640121,
+    "wof:lastmodified":1472631481,
     "wof:name":"Old Oak Grove Baptist Church",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

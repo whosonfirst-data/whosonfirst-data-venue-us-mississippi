@@ -2,14 +2,20 @@
   "id": 857186617,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Bonita Dr Meridian MS 39301",
+    "addr:housenumber":"701",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.651917,32.37128,-88.651917,32.37128",
     "geom:latitude":32.37128,
     "geom:longitude":-88.651917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Bonita Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420574085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qLlndXpb2jSHXDdAFD0Y0_32.371280_-88.651917@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123926,
-    "wof:geomhash":"bbfecfda92dd9be11231c3c4de9c45e4",
+    "wof:geomhash":"4bf2110cfcbbc6ab0d6f9c8342fee06a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857186617,
-    "wof:lastmodified":1466636976,
+    "wof:lastmodified":1510604034,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857456579,
   "type": "Feature",
   "properties": {
+    "addr:full":"1530 Co Rd 86 New Albany MS 38652",
+    "addr:housenumber":"1530;86",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857456579,
-    "wof:lastmodified":1466640647,
+    "wof:lastmodified":1472631527,
     "wof:name":"Williamson Luddie",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

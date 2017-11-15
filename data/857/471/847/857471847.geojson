@@ -2,6 +2,10 @@
   "id": 857471847,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Hospital Dr Columbus MS 39705",
+    "addr:housenumber":"321",
+    "addr:postcode":"39705",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857471847,
-    "wof:lastmodified":1466640898,
+    "wof:lastmodified":1472631542,
     "wof:name":"Columbus Urology Group",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

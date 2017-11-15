@@ -2,14 +2,20 @@
   "id": 857254957,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Carl Dr Gulfport MS 39503",
+    "addr:housenumber":"5",
+    "addr:postcode":"39503",
+    "addr:street":"Carl Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.026063,30.415638,-89.026063,30.415638",
     "geom:latitude":30.415638,
     "geom:longitude":-89.026063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Carl Dr",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85823795
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45IJgL3ildiOkcHsLDhKL8_30.415638_-89.026063@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125375,
-    "wof:geomhash":"24017ee656476734e83c8a899aad12fc",
+    "wof:geomhash":"bd2dc8798ae54cad14b45f6fd2028a6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857254957,
-    "wof:lastmodified":1466637948,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85823795,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857307641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4555 Holly Dr Jackson MS 39206",
+    "addr:housenumber":"4555",
+    "addr:postcode":"39206",
+    "addr:street":"Holly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857307641,
-    "wof:lastmodified":1466638641,
+    "wof:lastmodified":1472631365,
     "wof:name":"Stratford Manor",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

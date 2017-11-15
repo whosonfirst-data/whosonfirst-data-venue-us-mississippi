@@ -2,14 +2,20 @@
   "id": 857131563,
   "type": "Feature",
   "properties": {
+    "addr:full":"4413 35th Ave Meridian MS 39305",
+    "addr:housenumber":"4413",
+    "addr:postcode":"39305",
+    "addr:street":"35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.712638,32.404734,-88.712638,32.404734",
     "geom:latitude":32.404734,
     "geom:longitude":-88.712638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4413 35th Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nqBoPSNAd00uCsFBsuEbv_32.404734_-88.712638@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122712,
-    "wof:geomhash":"a200f42a23776d5b648523b49f60c02e",
+    "wof:geomhash":"68ffdf4b892b6480a4103f81d4468540",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857131563,
-    "wof:lastmodified":1466636383,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

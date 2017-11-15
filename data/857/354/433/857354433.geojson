@@ -2,14 +2,20 @@
   "id": 857354433,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 W Central Ave Petal MS 39465",
+    "addr:housenumber":"143",
+    "addr:postcode":"39465",
+    "addr:street":"W Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.267235,31.346686,-89.267235,31.346686",
     "geom:latitude":31.346686,
     "geom:longitude":-89.267235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 W Central Ave",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aRMDtUh2sSoCHew1WGBNN_31.346686_-89.267235@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127583,
-    "wof:geomhash":"69e12086f67ada04dd3fe2695e3f7ab1",
+    "wof:geomhash":"29c13981053abb0d41419e1a3aa3e292",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857354433,
-    "wof:lastmodified":1466639244,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

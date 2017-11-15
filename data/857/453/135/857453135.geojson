@@ -2,14 +2,20 @@
   "id": 857453135,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 Halls Ferry Rd Vicksburg MS 39180",
+    "addr:housenumber":"3405",
+    "addr:postcode":"39180",
+    "addr:street":"Halls Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.876949,32.317003,-90.876949,32.317003",
     "geom:latitude":32.317003,
     "geom:longitude":-90.876949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3405 Halls Ferry Rd",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EattiN8vQxfL1AWwWqDEa_32.317003_-90.876949@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129818,
-    "wof:geomhash":"903619e518608cd2e494ef3b4dffdb1d",
+    "wof:geomhash":"156b74211eb92365468481a7a878c970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857453135,
-    "wof:lastmodified":1466640557,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

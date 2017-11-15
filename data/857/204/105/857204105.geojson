@@ -2,14 +2,20 @@
   "id": 857204105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Military Rd Columbus MS 39701",
+    "addr:housenumber":"2015",
+    "addr:postcode":"39701",
+    "addr:street":"Military Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.41577,33.516731,-88.41577,33.516731",
     "geom:latitude":33.516731,
     "geom:longitude":-88.41577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2015 Military Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":420574255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uL3cgZU6PtBzPccj7sYIn_33.516731_-88.415770@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124270,
-    "wof:geomhash":"3c19838c2f2301916f2fd2356cc1b15a",
+    "wof:geomhash":"86c1c2bad7362724caa174a0da5d564d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857204105,
-    "wof:lastmodified":1466637106,
+    "wof:lastmodified":1510604891,
     "wof:name":"Hampton Inn",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

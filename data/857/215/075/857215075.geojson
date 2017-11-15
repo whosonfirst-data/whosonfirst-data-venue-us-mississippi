@@ -2,14 +2,20 @@
   "id": 857215075,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 W Woodrow Wilson Ave Jackson MS 39213",
+    "addr:housenumber":"300",
+    "addr:postcode":"39213",
+    "addr:street":"W Woodrow Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.196637,32.326857,-90.196637,32.326857",
     "geom:latitude":32.326857,
     "geom:longitude":-90.196637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 W Woodrow Wilson Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878397
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68UT65lfn3Hq6Cc8A9QcUE_32.326857_-90.196637@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124515,
-    "wof:geomhash":"e95b8efbcc5572d4c9b70962841e9a34",
+    "wof:geomhash":"33710327a523b58919c4c1eefaf4c037",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857215075,
-    "wof:lastmodified":1466637215,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85878397,
     "wof:placetype":"venue",

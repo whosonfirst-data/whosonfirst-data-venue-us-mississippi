@@ -2,14 +2,20 @@
   "id": 857450429,
   "type": "Feature",
   "properties": {
+    "addr:full":"10130 Factory Shops Blvd Gulfport MS 39503",
+    "addr:housenumber":"10130",
+    "addr:postcode":"39503",
+    "addr:street":"Factory Shops Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.096599,30.427456,-89.096599,30.427456",
     "geom:latitude":30.427456,
     "geom:longitude":-89.096599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10130 Factory Shops Blvd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125150185,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eBTjTNx1iov40hKPeBf5y_30.427456_-89.096599@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129767,
-    "wof:geomhash":"5e195556d82201630efb428c1f10fb79",
+    "wof:geomhash":"fe616c1071ccbbad8631847009108acc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857450429,
-    "wof:lastmodified":1466640538,
+    "wof:lastmodified":1510697299,
     "wof:name":"Claire's Accessories",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857336151,
   "type": "Feature",
   "properties": {
+    "addr:full":"327 Hwy 12 W Starkville MS 39759",
+    "addr:housenumber":"327",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.82365,33.453854,-88.82365,33.453854",
     "geom:latitude":33.453854,
     "geom:longitude":-88.82365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"327 Hwy 12 W",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083159,
         85841087
     ],
+    "wof:brand_id":1125155923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VlWpyb5Z1nXw0mUUpskbq_33.453854_-88.823650@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127190,
-    "wof:geomhash":"a09b0882a0e2c3b59ee0f89669056e9f",
+    "wof:geomhash":"58a2e3b478dfde05cb35653af43f613c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857336151,
-    "wof:lastmodified":1466638987,
+    "wof:lastmodified":1510697679,
     "wof:name":"Factory Connection",
     "wof:parent_id":85841087,
     "wof:placetype":"venue",

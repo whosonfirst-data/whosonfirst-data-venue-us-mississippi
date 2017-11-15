@@ -2,14 +2,20 @@
   "id": 857484457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1894 Beach Blvd Biloxi MS 39531",
+    "addr:housenumber":"1894",
+    "addr:postcode":"39531",
+    "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.951191,30.393364,-88.951191,30.393364",
     "geom:latitude":30.393364,
     "geom:longitude":-88.951191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1894 Beach Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125152851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v6IxfaPXy90ZHr5lkozbr_30.393364_-88.951191@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130453,
-    "wof:geomhash":"dda3e597bf87c59c57f29f6aa4d6990c",
+    "wof:geomhash":"745805b3f4b980268d1b55e32277ba30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857484457,
-    "wof:lastmodified":1466640986,
+    "wof:lastmodified":1510613160,
     "wof:name":"Black Angus Steakhouse",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

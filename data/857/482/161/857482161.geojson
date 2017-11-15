@@ -2,14 +2,20 @@
   "id": 857482161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 E County Line Rd Ridgeland MS 39157",
+    "addr:housenumber":"2010",
+    "addr:postcode":"39157",
+    "addr:street":"E County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109355,32.399524,-90.109355,32.399524",
     "geom:latitude":32.399524,
     "geom:longitude":-90.109355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2010 E County Line Rd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085905,
         85853833
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L0GXJYG8cOhsYMGRsPVVV_32.399524_-90.109355@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130412,
-    "wof:geomhash":"c23528aa2ea1a733b00afc319d3944db",
+    "wof:geomhash":"aef06aa0ac1c139fe473891981bdb212",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857482161,
-    "wof:lastmodified":1466640946,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85853833,
     "wof:placetype":"venue",

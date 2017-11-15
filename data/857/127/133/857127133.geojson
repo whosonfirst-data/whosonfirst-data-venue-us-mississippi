@@ -2,14 +2,20 @@
   "id": 857127133,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 N State St Jackson MS 39206",
+    "addr:housenumber":"5100",
+    "addr:postcode":"39206",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.169203,32.367136,-90.169203,32.367136",
     "geom:latitude":32.367136,
     "geom:longitude":-90.169203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5100 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6te6ksdjkWJG3XjILaEiaE_32.367136_-90.169203@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122608,
-    "wof:geomhash":"4f9c06a2e73ca752fa3a21b77be9ecd8",
+    "wof:geomhash":"c3ff91509e5692c022fd8eea1b7ced2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857127133,
-    "wof:lastmodified":1466636303,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

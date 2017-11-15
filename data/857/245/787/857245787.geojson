@@ -2,14 +2,20 @@
   "id": 857245787,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 W Garrard Rd Starkville MS 39759",
+    "addr:housenumber":"104",
+    "addr:postcode":"39759",
+    "addr:street":"W Garrard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.815629,33.484011,-88.815629,33.484011",
     "geom:latitude":33.484011,
     "geom:longitude":-88.815629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 W Garrard Rd",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083159,
         85814517
     ],
+    "wof:brand_id":1125153473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uAnK863J0SHV13h5ZXXWs_33.484011_-88.815629@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125155,
-    "wof:geomhash":"c88f8ca5a303955fa07dcc9bab423178",
+    "wof:geomhash":"87564197643368bb239d7e23cc56f15a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857245787,
-    "wof:lastmodified":1466637735,
+    "wof:lastmodified":1510699665,
     "wof:name":"Renal Care Group",
     "wof:parent_id":85814517,
     "wof:placetype":"venue",

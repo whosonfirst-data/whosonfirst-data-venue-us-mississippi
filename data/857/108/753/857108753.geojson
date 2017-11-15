@@ -2,14 +2,20 @@
   "id": 857108753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3711 Avon Ave Moss Point MS 39563",
+    "addr:housenumber":"3711",
+    "addr:postcode":"39563",
+    "addr:street":"Avon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.547883,30.451285,-88.547883,30.451285",
     "geom:latitude":30.451285,
     "geom:longitude":-88.547883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3711 Avon Ave",
     "sg:city":"Moss Point",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125157233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w4REL864LehCW1T6hI9BQ_30.451285_-88.547883@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122111,
-    "wof:geomhash":"ce25087d090d39839b032aeeb8689390",
+    "wof:geomhash":"70e96e25fc644ca3793fc099c000a676",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857108753,
-    "wof:lastmodified":1466636154,
+    "wof:lastmodified":1510698643,
     "wof:name":"Pinnacle Towers Inc",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

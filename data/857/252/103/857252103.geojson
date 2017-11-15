@@ -2,14 +2,20 @@
   "id": 857252103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 Jackson Ave Yazoo City MS 39194",
+    "addr:housenumber":"1304",
+    "addr:postcode":"39194",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.398543,32.864152,-90.398543,32.864152",
     "geom:latitude":32.864152,
     "geom:longitude":-90.398543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1304 Jackson Ave",
     "sg:city":"Yazoo City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086661,
         85827605
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jnb0dyZ5r7PFcuxeGgVtm_32.864152_-90.398543@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125294,
-    "wof:geomhash":"8c96bd98b6d8801e0342e798b4b369bc",
+    "wof:geomhash":"7961f8404ec85ccc08611f193b22a28e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857252103,
-    "wof:lastmodified":1466637754,
+    "wof:lastmodified":1510695773,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85827605,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 102604605,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Co Rd 16 Belmont AL 38827",
+    "addr:housenumber":"701;16",
+    "addr:postcode":"38827",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":102604605,
-    "wof:lastmodified":1466635777,
+    "wof:lastmodified":1472631138,
     "wof:name":"C R 16 Farms Inc",
     "wof:parent_id":85688579,
     "wof:placetype":"venue",

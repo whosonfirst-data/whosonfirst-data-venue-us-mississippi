@@ -2,14 +2,20 @@
   "id": 857253127,
   "type": "Feature",
   "properties": {
+    "addr:full":"6747 Davidson Rd Olive Branch MS 38654",
+    "addr:housenumber":"6747",
+    "addr:postcode":"38654",
+    "addr:street":"Davidson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.883734,34.958778,-89.883734,34.958778",
     "geom:latitude":34.958778,
     "geom:longitude":-89.883734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6747 Davidson Rd",
     "sg:city":"Olive Branch",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125154457,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rAFhotbMieNq6EB3JvPQK_34.958778_-89.883734@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125324,
-    "wof:geomhash":"99c0b334f5c11301e54281be638ba7c7",
+    "wof:geomhash":"e29c45437cfa2fc60adb4f0bab17dfb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857253127,
-    "wof:lastmodified":1466637769,
+    "wof:lastmodified":1510695919,
     "wof:name":"New Jerusalem Baptist Church",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

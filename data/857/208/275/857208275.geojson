@@ -2,14 +2,20 @@
   "id": 857208275,
   "type": "Feature",
   "properties": {
+    "addr:full":"5006 Old Canton Rd Jackson MS 39211",
+    "addr:housenumber":"5006",
+    "addr:postcode":"39211",
+    "addr:street":"Old Canton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.14073,32.366659,-90.14073,32.366659",
     "geom:latitude":32.366659,
     "geom:longitude":-90.14073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5006 Old Canton Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05fg7DcinafVjfH09FKDI9_32.366659_-90.140730@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124356,
-    "wof:geomhash":"ceaeb28e5d4c11322e697e91995b9a32",
+    "wof:geomhash":"7a7b2217bf00c061f40026a07cc37eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857208275,
-    "wof:lastmodified":1466637144,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

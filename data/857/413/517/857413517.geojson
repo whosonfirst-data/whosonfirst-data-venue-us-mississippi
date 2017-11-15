@@ -2,14 +2,20 @@
   "id": 857413517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Washington St Vicksburg MS 39180",
+    "addr:housenumber":"1301",
+    "addr:postcode":"39180",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.88212,32.35011,-90.88212,32.35011",
     "geom:latitude":32.35011,
     "geom:longitude":-90.88212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 Washington St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5V5gPq8i5rdqzK4abFRsNV_32.350110_-90.882120@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128934,
-    "wof:geomhash":"d48e2f813c53b86ee98536fdfa16633e",
+    "wof:geomhash":"664e0718963581a7c65a899c7bf21155",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857413517,
-    "wof:lastmodified":1466640081,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

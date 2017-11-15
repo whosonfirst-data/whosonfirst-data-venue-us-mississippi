@@ -2,14 +2,20 @@
   "id": 857247125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 W 7th St Hattiesburg MS 39401",
+    "addr:housenumber":"2502",
+    "addr:postcode":"39401",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.328766,31.335609,-89.328766,31.335609",
     "geom:latitude":31.335609,
     "geom:longitude":-89.328766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2502 W 7th St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086673,
         85848011
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Po4cWioBNVgD99TclJaTg_31.335609_-89.328766@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125179,
-    "wof:geomhash":"a638ebccc40a502f489d8cfdd12e0392",
+    "wof:geomhash":"6176f483789cb1a0756a3d8b62d59014",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857247125,
-    "wof:lastmodified":1466637662,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85848011,
     "wof:placetype":"venue",

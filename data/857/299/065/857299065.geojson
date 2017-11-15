@@ -2,14 +2,20 @@
   "id": 857299065,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Braswell Rd Hattiesburg MS 39401",
+    "addr:housenumber":"23",
+    "addr:postcode":"39401",
+    "addr:street":"Braswell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.333345,31.375283,-89.333345,31.375283",
     "geom:latitude":31.375283,
     "geom:longitude":-89.333345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23 Braswell Rd",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086673,
         85855649
     ],
+    "wof:brand_id":1125154735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fRaeYnwTNWnR2Il26ZgMc_31.375283_-89.333345@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126388,
-    "wof:geomhash":"1df468b002027d353d9cdb5af29e0fce",
+    "wof:geomhash":"e329ac4fe0d936154608c98b914b494f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857299065,
-    "wof:lastmodified":1466638452,
+    "wof:lastmodified":1510695211,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":85855649,
     "wof:placetype":"venue",

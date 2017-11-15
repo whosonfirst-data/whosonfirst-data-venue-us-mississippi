@@ -2,14 +2,20 @@
   "id": 857159295,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Office Park Dr Brandon MS 39042",
+    "addr:housenumber":"101",
+    "addr:postcode":"39042",
+    "addr:street":"Office Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028,32.281779,-90.028,32.281779",
     "geom:latitude":32.281779,
     "geom:longitude":-90.028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Office Park Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QwXE5sTMmnMZvP1QpmjhM_32.281779_-90.028000@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123331,
-    "wof:geomhash":"e032703ae3bb6f4e7d06c1ace1b67e4f",
+    "wof:geomhash":"e2236a00f476899a125c0fbab4ea4438",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857159295,
-    "wof:lastmodified":1466636626,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

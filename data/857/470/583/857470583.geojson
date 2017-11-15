@@ -2,14 +2,20 @@
   "id": 857470583,
   "type": "Feature",
   "properties": {
+    "addr:full":"5360 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5360;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.147471,32.376111,-90.147471,32.376111",
     "geom:latitude":32.376111,
     "geom:longitude":-90.147471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5360 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ond82FMdsFJMJic1trcq3_32.376111_-90.147471@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130182,
-    "wof:geomhash":"06804b51c8210274602bf53fd6453952",
+    "wof:geomhash":"0ce95eceecaa1cc03a7df57fb1120bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857470583,
-    "wof:lastmodified":1466640839,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

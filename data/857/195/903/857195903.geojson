@@ -2,14 +2,20 @@
   "id": 857195903,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 Hwy 12 W Starkville MS 39759",
+    "addr:housenumber":"818",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.838045,33.449585,-88.838045,33.449585",
     "geom:latitude":33.449585,
     "geom:longitude":-88.838045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"818 Hwy 12 W",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083159,
         85822859
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TDDF8WsHJ7dWlKqAc0wUT_33.449585_-88.838045@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124098,
-    "wof:geomhash":"70f339aa47379d804f3c6cb5adacbb57",
+    "wof:geomhash":"22179e92d2b0bac4d3aa7bc6c672f8c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857195903,
-    "wof:lastmodified":1466637095,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85822859,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857138395,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 N Hills St Meridian MS 39305",
+    "addr:housenumber":"2340",
+    "addr:postcode":"39305",
+    "addr:street":"N Hills St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.699175,32.409424,-88.699175,32.409424",
     "geom:latitude":32.409424,
     "geom:longitude":-88.699175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2340 N Hills St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125153631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gPUM4xFVUMeNgSMBTdxhf_32.409424_-88.699175@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122857,
-    "wof:geomhash":"bca9415c5b4fc549ababd5c5a823cca3",
+    "wof:geomhash":"44d0879edf85a8f9ecd7ecaa1d34918e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857138395,
-    "wof:lastmodified":1466636442,
+    "wof:lastmodified":1510695778,
     "wof:name":"Metropolitan Insurance",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

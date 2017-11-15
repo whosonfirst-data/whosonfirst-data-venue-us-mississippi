@@ -2,14 +2,20 @@
   "id": 857363561,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 W Main St West Point MS 39773",
+    "addr:housenumber":"411",
+    "addr:postcode":"39773",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.655453,33.607185,-88.655453,33.607185",
     "geom:latitude":33.607185,
     "geom:longitude":-88.655453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 W Main St",
     "sg:city":"West Point",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082439,
         85838287
     ],
+    "wof:brand_id":1125155923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3echt8cWTqDpwZ5Brg5Ubs_33.607185_-88.655453@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127776,
-    "wof:geomhash":"a501c390bbb30d71bf7e3391c5066776",
+    "wof:geomhash":"63c87f2744307c0855525782cd62c0fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857363561,
-    "wof:lastmodified":1466639413,
+    "wof:lastmodified":1510697679,
     "wof:name":"Factory Connection",
     "wof:parent_id":85838287,
     "wof:placetype":"venue",

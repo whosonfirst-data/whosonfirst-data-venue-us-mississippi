@@ -2,14 +2,20 @@
   "id": 857283619,
   "type": "Feature",
   "properties": {
+    "addr:full":"15309 Lemoyne Blvd Biloxi MS 39532",
+    "addr:housenumber":"15309",
+    "addr:postcode":"39532",
+    "addr:street":"Lemoyne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.864297,30.442984,-88.864297,30.442984",
     "geom:latitude":30.442984,
     "geom:longitude":-88.864297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15309 Lemoyne Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JVDkEBJEqaAIeuGx1qOdv_30.442984_-88.864297@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125992,
-    "wof:geomhash":"b5f216ffb1df1798c8ac4332e0405dae",
+    "wof:geomhash":"f939c53fb5cd4376d3eaa5f20207e3cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857283619,
-    "wof:lastmodified":1466638290,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

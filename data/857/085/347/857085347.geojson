@@ -2,14 +2,20 @@
   "id": 857085347,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 E 12th St Yazoo City MS 39194",
+    "addr:housenumber":"630",
+    "addr:postcode":"39194",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.399343,32.861617,-90.399343,32.861617",
     "geom:latitude":32.861617,
     "geom:longitude":-90.399343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"630 E 12th St",
     "sg:city":"Yazoo City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086661,
         85827605
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NwwkJg5b0p6J3F1K0XoWI_32.861617_-90.399343@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121540,
-    "wof:geomhash":"607dcc90b2bc22fd5ed722f6365cee74",
+    "wof:geomhash":"981dc926f1e5098692594f0e40f01e40",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857085347,
-    "wof:lastmodified":1466635831,
+    "wof:lastmodified":1510612914,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":85827605,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857279797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2129 Canty St Pascagoula MS 39567",
+    "addr:housenumber":"2129",
+    "addr:postcode":"39567",
+    "addr:street":"Canty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.560081,30.357318,-88.560081,30.357318",
     "geom:latitude":30.357318,
     "geom:longitude":-88.560081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2129 Canty St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125157645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_012yvHmHXZ66o2ckpr283x_30.357318_-88.560081@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125916,
-    "wof:geomhash":"0a304b242cb80d06bec56f6ce6d5387f",
+    "wof:geomhash":"b3923f7ad40580584bd74bb44a9e2ce8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857279797,
-    "wof:lastmodified":1466638245,
+    "wof:lastmodified":1510613444,
     "wof:name":"International Association-Mach",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

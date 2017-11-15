@@ -2,14 +2,20 @@
   "id": 857318199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 22nd Ave Meridian MS 39301",
+    "addr:housenumber":"1205",
+    "addr:postcode":"39301",
+    "addr:street":"22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.700529,32.369805,-88.700529,32.369805",
     "geom:latitude":32.369805,
     "geom:longitude":-88.700529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 22nd Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420574961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ArSw3m2OwTbr83GBTIYL9_32.369805_-88.700529@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126816,
-    "wof:geomhash":"65c835f1a0bfbb7b6cee050952ec7ed0",
+    "wof:geomhash":"ece6a97adfca98501cd58e074ec90ca9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857318199,
-    "wof:lastmodified":1466638705,
+    "wof:lastmodified":1510604135,
     "wof:name":"Smith Barney",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

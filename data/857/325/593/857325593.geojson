@@ -2,14 +2,20 @@
   "id": 857325593,
   "type": "Feature",
   "properties": {
+    "addr:full":"573 Courthouse Rd Gulfport MS 39507",
+    "addr:housenumber":"573",
+    "addr:postcode":"39507",
+    "addr:street":"Courthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.044306,30.390334,-89.044306,30.390334",
     "geom:latitude":30.390334,
     "geom:longitude":-89.044306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"573 Courthouse Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fZqdp1JOGHlxyzm8CWQ8M_30.390334_-89.044306@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126962,
-    "wof:geomhash":"efeccf6a81ef846cfda11b56b86e400e",
+    "wof:geomhash":"a9b7ec6f3669d1a066118fc617a9628e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857325593,
-    "wof:lastmodified":1466638892,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

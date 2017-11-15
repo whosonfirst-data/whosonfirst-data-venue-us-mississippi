@@ -2,14 +2,20 @@
   "id": 857421741,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Yazoo Ave Clarksdale MS 38614",
+    "addr:housenumber":"301",
+    "addr:postcode":"38614",
+    "addr:street":"Yazoo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.573366,34.201513,-90.573366,34.201513",
     "geom:latitude":34.201513,
     "geom:longitude":-90.573366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Yazoo Ave",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080633,
         85845093
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CngE1PVbquJNVHLvNJvkn_34.201513_-90.573366@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129141,
-    "wof:geomhash":"13eb7ae02fb8c7ee9af5247911e77f8a",
+    "wof:geomhash":"1d8ae5944863c30add7f66487130e5db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857421741,
-    "wof:lastmodified":1466640195,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

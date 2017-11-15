@@ -2,14 +2,20 @@
   "id": 857132461,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Broadway Dr Hattiesburg MS 39401",
+    "addr:housenumber":"323",
+    "addr:postcode":"39401",
+    "addr:street":"Broadway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.30476,31.316342,-89.30476,31.316342",
     "geom:latitude":31.316342,
     "geom:longitude":-89.30476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"323 Broadway Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BsQW78gRGvJzqLOYGPqIR_31.316342_-89.304760@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122727,
-    "wof:geomhash":"cdab5eb5d65a730057bc5df2cf48994e",
+    "wof:geomhash":"208044b2b0920ba392953a64a3437f6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857132461,
-    "wof:lastmodified":1466636374,
+    "wof:lastmodified":1510694069,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

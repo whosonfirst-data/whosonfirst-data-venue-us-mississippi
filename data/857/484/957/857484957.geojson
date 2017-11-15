@@ -2,14 +2,20 @@
   "id": 857484957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Bienville Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"1614",
+    "addr:postcode":"39564",
+    "addr:street":"Bienville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.816664,30.416142,-88.816664,30.416142",
     "geom:latitude":30.416142,
     "geom:longitude":-88.816664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1614 Bienville Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125153957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Xn869IK8PTkDk5LnoFZsu_30.416142_-88.816664@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130467,
-    "wof:geomhash":"8792801f05e58a07ca3c53b70eb995f2",
+    "wof:geomhash":"29ee56ce89e1e030375cb004fbcbb1df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857484957,
-    "wof:lastmodified":1466641034,
+    "wof:lastmodified":1510700008,
     "wof:name":"Figaro's Pizza",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

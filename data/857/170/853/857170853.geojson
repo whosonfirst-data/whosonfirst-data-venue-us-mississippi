@@ -2,14 +2,20 @@
   "id": 857170853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 N West St Jackson MS 39202",
+    "addr:housenumber":"1009",
+    "addr:postcode":"39202",
+    "addr:street":"N West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.181843,32.312163,-90.181843,32.312163",
     "geom:latitude":32.312163,
     "geom:longitude":-90.181843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1009 N West St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878389
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RcG3KOFGaaY8UDNsvOn4w_32.312163_-90.181843@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123604,
-    "wof:geomhash":"5f836e5ad9f92f55f5a42f099ef9bf56",
+    "wof:geomhash":"3ade4c51ba9c335c758cb23791895bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857170853,
-    "wof:lastmodified":1466636828,
+    "wof:lastmodified":1510697304,
     "wof:name":"Quik Cash",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",

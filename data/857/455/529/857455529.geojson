@@ -2,14 +2,20 @@
   "id": 857455529,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Peachtree St Jackson MS 39202",
+    "addr:housenumber":"1500",
+    "addr:postcode":"39202",
+    "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.170953,32.317869,-90.170953,32.317869",
     "geom:latitude":32.317869,
     "geom:longitude":-90.170953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Peachtree St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878389
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QafXcWOBLLtvbeUuRfau9_32.317869_-90.170953@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129864,
-    "wof:geomhash":"b9eb25fc2284c7528b067fe80ceedb49",
+    "wof:geomhash":"ff2be35fd64d7b0b143f90dc4d5b513d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857455529,
-    "wof:lastmodified":1466640619,
+    "wof:lastmodified":1510694572,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",

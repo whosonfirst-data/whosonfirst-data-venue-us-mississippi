@@ -2,6 +2,10 @@
   "id": 857462591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1006 Co Rd 811 Saltillo MS 38866",
+    "addr:housenumber":"1006;811",
+    "addr:postcode":"38866",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857462591,
-    "wof:lastmodified":1466640717,
+    "wof:lastmodified":1472631526,
     "wof:name":"Farmers SOS Movement",
     "wof:parent_id":85838449,
     "wof:placetype":"venue",

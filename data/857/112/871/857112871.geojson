@@ -2,14 +2,20 @@
   "id": 857112871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1311 Hwy 25 S Starkville MS 39759",
+    "addr:housenumber":"1311",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 25 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.82531,33.434336,-88.82531,33.434336",
     "geom:latitude":33.434336,
     "geom:longitude":-88.82531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1311 Hwy 25 S",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083159,
         85858519
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wNPkxWe8jAs6iAwq7Tk9z_33.434336_-88.825310@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122252,
-    "wof:geomhash":"4f7c3d4ff3553ba0e2f0e9d1872b04e7",
+    "wof:geomhash":"2dfd37fea78b8f5c340769b93f4dd50d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857112871,
-    "wof:lastmodified":1466636194,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85858519,
     "wof:placetype":"venue",

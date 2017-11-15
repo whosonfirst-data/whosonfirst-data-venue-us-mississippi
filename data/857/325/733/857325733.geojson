@@ -2,14 +2,20 @@
   "id": 857325733,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 S Main St Petal MS 39465",
+    "addr:housenumber":"705",
+    "addr:postcode":"39465",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.262806,31.335756,-89.262806,31.335756",
     "geom:latitude":31.335756,
     "geom:longitude":-89.262806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"705 S Main St",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":420574623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41hSyaXvg1KzBL8Ki6Ttbt_31.335756_-89.262806@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126964,
-    "wof:geomhash":"d9d4e39581f95b1765900e7225333004",
+    "wof:geomhash":"443a7fbeed46a9afe3a3839c9eddd11e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857325733,
-    "wof:lastmodified":1466638914,
+    "wof:lastmodified":1510604004,
     "wof:name":"Alfa Insurance Corp",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

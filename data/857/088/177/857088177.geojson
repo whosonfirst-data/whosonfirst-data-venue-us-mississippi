@@ -2,14 +2,20 @@
   "id": 857088177,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Bonita Dr Meridian MS 39301",
+    "addr:housenumber":"518",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.664071,32.368613,-88.664071,32.368613",
     "geom:latitude":32.368613,
     "geom:longitude":-88.664071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 Bonita Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tyToktcvr4a1lE2SxN0Sk_32.368613_-88.664071@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121617,
-    "wof:geomhash":"30acb35c7ee20a3fc5c1bec47cf3b000",
+    "wof:geomhash":"633d00c161a2f242ee1a8ac7ea71bc94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857088177,
-    "wof:lastmodified":1466635806,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

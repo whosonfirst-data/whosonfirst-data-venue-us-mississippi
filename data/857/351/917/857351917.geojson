@@ -2,14 +2,20 @@
   "id": 857351917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Roebuck Dr Meridian MS 39301",
+    "addr:housenumber":"1401",
+    "addr:postcode":"39301",
+    "addr:street":"Roebuck Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.686826,32.33501,-88.686826,32.33501",
     "geom:latitude":32.33501,
     "geom:longitude":-88.686826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Roebuck Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420575523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18x1ZHuvcI6khWx9NFsuMM_32.335010_-88.686826@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127526,
-    "wof:geomhash":"b1645419267e5c435fbbe52b8c584c69",
+    "wof:geomhash":"19d1c7415da4b095afbd8736352cfe0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857351917,
-    "wof:lastmodified":1466639259,
+    "wof:lastmodified":1510602773,
     "wof:name":"Quality Inn",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

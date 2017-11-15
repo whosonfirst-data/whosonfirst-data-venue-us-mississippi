@@ -2,14 +2,20 @@
   "id": 857180001,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Mac Arthur Ave Biloxi MS 39531",
+    "addr:housenumber":"336",
+    "addr:postcode":"39531",
+    "addr:street":"Mac Arthur Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.982857,30.402834,-88.982857,30.402834",
     "geom:latitude":30.402834,
     "geom:longitude":-88.982857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"336 Mac Arthur Ave",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L2MiXhpljBwTOUYhmPgpB_30.402834_-88.982857@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123795,
-    "wof:geomhash":"8182787c73d6d60788306880d6f1d436",
+    "wof:geomhash":"46e26f3d44b2b3cef0af0f7505b5b920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857180001,
-    "wof:lastmodified":1466641110,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

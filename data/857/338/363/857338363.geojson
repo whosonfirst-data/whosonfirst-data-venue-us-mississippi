@@ -2,14 +2,20 @@
   "id": 857338363,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Commerce Plz Clarksdale MS 38614",
+    "addr:housenumber":"909",
+    "addr:postcode":"38614",
+    "addr:street":"Commerce Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.589367,34.186158,-90.589367,34.186158",
     "geom:latitude":34.186158,
     "geom:longitude":-90.589367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Commerce Plz",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080633,
         85845093
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gxjQREO8ttQYWBvkEiZxA_34.186158_-90.589367@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127239,
-    "wof:geomhash":"a411c3e64b92ae45b9c755f4b6cd3d0b",
+    "wof:geomhash":"9f2acf5693669b008af0465c2b74df29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857338363,
-    "wof:lastmodified":1466639031,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

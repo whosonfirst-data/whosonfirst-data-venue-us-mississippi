@@ -2,14 +2,20 @@
   "id": 857484491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2729 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2729",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.995287,30.400024,-88.995287,30.400024",
     "geom:latitude":30.400024,
     "geom:longitude":-88.995287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2729 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125157721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SklwUUCJZzLWRmqhQ6VEo_30.400024_-88.995287@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130454,
-    "wof:geomhash":"3a86fa173eae433bee0b849f73f72c5d",
+    "wof:geomhash":"f9c560f0e288b833b961433caf6662cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857484491,
-    "wof:lastmodified":1466640990,
+    "wof:lastmodified":1510699454,
     "wof:name":"Steak-Out",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

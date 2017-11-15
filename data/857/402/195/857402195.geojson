@@ -2,6 +2,10 @@
   "id": 857402195,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Towne Center Blvd Ridgeland MS 39157",
+    "addr:housenumber":"456",
+    "addr:postcode":"39157",
+    "addr:street":"Towne Center Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857402195,
-    "wof:lastmodified":1466639887,
+    "wof:lastmodified":1472631467,
     "wof:name":"Ridgeland Fire Chief",
     "wof:parent_id":85853833,
     "wof:placetype":"venue",

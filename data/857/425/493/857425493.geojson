@@ -2,14 +2,20 @@
   "id": 857425493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2306 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2306",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.971413,30.402503,-88.971413,30.402503",
     "geom:latitude":30.402503,
     "geom:longitude":-88.971413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2306 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09edlqwanLKtBEJaVRIprp_30.402503_-88.971413@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129238,
-    "wof:geomhash":"38c1cf80a10a4d2d5458a97bd73ec29d",
+    "wof:geomhash":"af260df59f7137a2c7b56042091b3ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857425493,
-    "wof:lastmodified":1466640210,
+    "wof:lastmodified":1510694939,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

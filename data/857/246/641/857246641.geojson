@@ -2,14 +2,20 @@
   "id": 857246641,
   "type": "Feature",
   "properties": {
+    "addr:full":"3507 Pine St Pascagoula MS 39567",
+    "addr:housenumber":"3507",
+    "addr:postcode":"39567",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.555965,30.369465,-88.555965,30.369465",
     "geom:latitude":30.369465,
     "geom:longitude":-88.555965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3507 Pine St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PxTUK0XDV4n96viIK37ob_30.369465_-88.555965@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125170,
-    "wof:geomhash":"3766ec195039a63189ba6a0206028fb7",
+    "wof:geomhash":"c36cfab8285d0994ca64e98ab339c574",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857246641,
-    "wof:lastmodified":1466637756,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

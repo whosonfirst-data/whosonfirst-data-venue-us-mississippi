@@ -2,14 +2,20 @@
   "id": 857445149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 24th Ave Meridian MS 39301",
+    "addr:housenumber":"2000",
+    "addr:postcode":"39301",
+    "addr:street":"24Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.702694,32.379205,-88.702694,32.379205",
     "geom:latitude":32.379205,
     "geom:longitude":-88.702694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 24th Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FOe8MqqnHEkRjbaMpjWRI_32.379205_-88.702694@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129661,
-    "wof:geomhash":"6a8cf600c85957a90a37a8ac39ce8364",
+    "wof:geomhash":"18b6a20960c154d6c4324af68a9236e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857445149,
-    "wof:lastmodified":1466640449,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

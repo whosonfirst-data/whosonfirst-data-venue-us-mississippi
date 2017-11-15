@@ -2,14 +2,20 @@
   "id": 857427335,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 W Government St Brandon MS 39042",
+    "addr:housenumber":"1700",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.008072,32.282758,-90.008072,32.282758",
     "geom:latitude":32.282758,
     "geom:longitude":-90.008072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VBnEKQSzM50vtNI1j5lkp_32.282758_-90.008072@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129284,
-    "wof:geomhash":"7b39b685090673dbfc7ffbcef43f23a0",
+    "wof:geomhash":"77a6d6213cbd315bbb33a7693f6b6acd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857427335,
-    "wof:lastmodified":1466640242,
+    "wof:lastmodified":1510695894,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

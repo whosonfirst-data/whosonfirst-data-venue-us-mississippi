@@ -2,14 +2,20 @@
   "id": 857335171,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Strange Rd Starkville MS 39759",
+    "addr:housenumber":"106",
+    "addr:postcode":"39759",
+    "addr:street":"Strange Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.820423,33.473756,-88.820423,33.473756",
     "geom:latitude":33.473756,
     "geom:longitude":-88.820423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Strange Rd",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083159,
         85814517
     ],
+    "wof:brand_id":420574809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FgmAh6cPCxtnSdu531oUm_33.473756_-88.820423@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127172,
-    "wof:geomhash":"17c5e86f3490e855d5a54d9db7bedf3a",
+    "wof:geomhash":"ae8e25a3dd566059302bd4ea5d56a077",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857335171,
-    "wof:lastmodified":1466638989,
+    "wof:lastmodified":1510604465,
     "wof:name":"Hanger Prosthetics & Orthotics",
     "wof:parent_id":85814517,
     "wof:placetype":"venue",

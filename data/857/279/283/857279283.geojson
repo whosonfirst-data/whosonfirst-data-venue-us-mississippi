@@ -2,6 +2,10 @@
   "id": 857279283,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Co Rd 1463 Nettleton MS 38858",
+    "addr:housenumber":"600",
+    "addr:postcode":"1463;38858",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857279283,
-    "wof:lastmodified":1466638154,
+    "wof:lastmodified":1472631321,
     "wof:name":"Duckworth Construction",
     "wof:parent_id":85847891,
     "wof:placetype":"venue",

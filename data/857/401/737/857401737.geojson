@@ -2,14 +2,20 @@
   "id": 857401737,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Desoto Ave Clarksdale MS 38614",
+    "addr:housenumber":"425",
+    "addr:postcode":"38614",
+    "addr:street":"Desoto Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.567014,34.199945,-90.567014,34.199945",
     "geom:latitude":34.199945,
     "geom:longitude":-90.567014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 Desoto Ave",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102080633,
         85845093
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s5yi2xeTXIj2lJRuXfgNr_34.199945_-90.567014@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128662,
-    "wof:geomhash":"6ad388317106957bd3c57290d7ec496c",
+    "wof:geomhash":"6ee2d4ff401919762050266b647745c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857401737,
-    "wof:lastmodified":1466639982,
+    "wof:lastmodified":1510697331,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

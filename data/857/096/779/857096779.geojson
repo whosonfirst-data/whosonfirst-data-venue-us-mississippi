@@ -2,14 +2,20 @@
   "id": 857096779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3724 Davis Ave Moss Point MS 39563",
+    "addr:housenumber":"3724",
+    "addr:postcode":"39563",
+    "addr:street":"Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.547918,30.411777,-88.547918,30.411777",
     "geom:latitude":30.411777,
     "geom:longitude":-88.547918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3724 Davis Ave",
     "sg:city":"Moss Point",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125155849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EVAzTeQPuPYhzPHKxBCKH_30.411777_-88.547918@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121829,
-    "wof:geomhash":"4022cb9a8311769a36caf001a1faaf6a",
+    "wof:geomhash":"354095869ec8e082a75676cb45922706",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857096779,
-    "wof:lastmodified":1466636027,
+    "wof:lastmodified":1510697489,
     "wof:name":"St Paul United Methodist Chr",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

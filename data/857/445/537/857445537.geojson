@@ -2,6 +2,10 @@
   "id": 857445537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 Co Rd 65 New Albany MS 38652",
+    "addr:housenumber":"1009;65",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857445537,
-    "wof:lastmodified":1466640503,
+    "wof:lastmodified":1472631512,
     "wof:name":"Martin Investments LLC",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

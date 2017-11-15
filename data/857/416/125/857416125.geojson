@@ -2,14 +2,20 @@
   "id": 857416125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1090 Bluff Lake Rd Starkville MS 39759",
+    "addr:housenumber":"1090",
+    "addr:postcode":"39759",
+    "addr:street":"Bluff Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.766703,33.301139,-88.766703,33.301139",
     "geom:latitude":33.301139,
     "geom:longitude":-88.766703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1090 Bluff Lake Rd",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083159,
         85822925
     ],
+    "wof:brand_id":1125156621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LOLjBeY8uol9rFxlho1k6_33.301139_-88.766703@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129015,
-    "wof:geomhash":"51be429df2ecb1e59180a77ec85b4707",
+    "wof:geomhash":"c5b5a2850d10d56972089d1b4be69cef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857416125,
-    "wof:lastmodified":1466640077,
+    "wof:lastmodified":1510698498,
     "wof:name":"Pine Grove Baptist Church",
     "wof:parent_id":85822925,
     "wof:placetype":"venue",

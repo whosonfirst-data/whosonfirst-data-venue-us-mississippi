@@ -2,14 +2,20 @@
   "id": 857334801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1383 Pleasant Hill Rd Columbus MS 39702",
+    "addr:housenumber":"1383",
+    "addr:postcode":"39702",
+    "addr:street":"Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.294136,33.522176,-88.294136,33.522176",
     "geom:latitude":33.522176,
     "geom:longitude":-88.294136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1383 Pleasant Hill Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081023,
         85810039
     ],
+    "wof:brand_id":1125151189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mpccnagmiTNB3pMDwQSEZ_33.522176_-88.294136@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127163,
-    "wof:geomhash":"9b328a4f46ccfb1c8e528299f662a3aa",
+    "wof:geomhash":"efd42f54d5a357e6330a5442bf604585",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857334801,
-    "wof:lastmodified":1466639074,
+    "wof:lastmodified":1510697194,
     "wof:name":"Pleasant Hill Baptist Church",
     "wof:parent_id":85810039,
     "wof:placetype":"venue",

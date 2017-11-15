@@ -2,6 +2,10 @@
   "id": 857382545,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Mason Blvd Jackson MS 39212",
+    "addr:housenumber":"321",
+    "addr:postcode":"39212",
+    "addr:street":"Mason Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857382545,
-    "wof:lastmodified":1466639681,
+    "wof:lastmodified":1472631457,
     "wof:name":"J A Service",
     "wof:parent_id":85830085,
     "wof:placetype":"venue",

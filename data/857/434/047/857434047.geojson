@@ -2,14 +2,20 @@
   "id": 857434047,
   "type": "Feature",
   "properties": {
+    "addr:full":"4116 Washington St Vicksburg MS 39180",
+    "addr:housenumber":"4116",
+    "addr:postcode":"39180",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.897799,32.31655,-90.897799,32.31655",
     "geom:latitude":32.31655,
     "geom:longitude":-90.897799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4116 Washington St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083779,
         85851213
     ],
+    "wof:brand_id":1125159567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CNQzblydLMo6PSp3utWEB_32.316550_-90.897799@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129448,
-    "wof:geomhash":"6d753615bba8b7c8b4e4dd2cf6b101b0",
+    "wof:geomhash":"2f06c7b264715cfcdc8ab786684adc62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857434047,
-    "wof:lastmodified":1466640258,
+    "wof:lastmodified":1510695760,
     "wof:name":"Guide One Insurance",
     "wof:parent_id":85851213,
     "wof:placetype":"venue",

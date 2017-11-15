@@ -2,6 +2,10 @@
   "id": 857305545,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Jeff Davis Ave Long Beach MS 39560",
+    "addr:housenumber":"125",
+    "addr:postcode":"39560",
+    "addr:street":"Jeff Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857305545,
-    "wof:lastmodified":1466638580,
+    "wof:lastmodified":1472631362,
     "wof:name":"Ace Hardware",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

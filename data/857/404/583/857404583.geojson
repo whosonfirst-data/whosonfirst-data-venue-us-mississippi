@@ -2,14 +2,20 @@
   "id": 857404583,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 Sundown Trl Jackson MS 39212",
+    "addr:housenumber":"261",
+    "addr:postcode":"39212",
+    "addr:street":"Sundown Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.31578,32.257336,-90.31578,32.257336",
     "geom:latitude":32.257336,
     "geom:longitude":-90.31578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"261 Sundown Trl",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081407,
         85852515
     ],
+    "wof:brand_id":1125151013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m1smDAYatWJP0bVw5w16C_32.257336_-90.315780@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128720,
-    "wof:geomhash":"c50c25fc192904a8c36e57a6603d7c04",
+    "wof:geomhash":"de38b6aff1b555b2f4fd4af74844ebf5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857404583,
-    "wof:lastmodified":1466640013,
+    "wof:lastmodified":1510693724,
     "wof:name":"Manchu Wok",
     "wof:parent_id":85852515,
     "wof:placetype":"venue",

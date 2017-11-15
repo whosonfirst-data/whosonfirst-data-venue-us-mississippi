@@ -2,14 +2,20 @@
   "id": 857314527,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 Washington St Vicksburg MS 39180",
+    "addr:housenumber":"1318",
+    "addr:postcode":"39180",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.88223,32.349935,-90.88223,32.349935",
     "geom:latitude":32.349935,
     "geom:longitude":-90.88223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1318 Washington St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125152805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x7m6FdhmWTGyU4wJLGjSP_32.349935_-90.882230@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126713,
-    "wof:geomhash":"0607266d5fef6054f4fc786eff990e53",
+    "wof:geomhash":"d4ce4159d045c8aee342feb8ce8d9e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857314527,
-    "wof:lastmodified":1466638725,
+    "wof:lastmodified":1510710961,
     "wof:name":"Paper Plus",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

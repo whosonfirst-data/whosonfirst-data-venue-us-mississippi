@@ -2,6 +2,10 @@
   "id": 857467247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Phillips Ln Pearl MS 39208",
+    "addr:housenumber":"1234",
+    "addr:postcode":"39208",
+    "addr:street":"Phillips Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857467247,
-    "wof:lastmodified":1466640763,
+    "wof:lastmodified":1472631527,
     "wof:name":"Hampton Inn",
     "wof:parent_id":85833739,
     "wof:placetype":"venue",

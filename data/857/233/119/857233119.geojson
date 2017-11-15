@@ -2,14 +2,20 @@
   "id": 857233119,
   "type": "Feature",
   "properties": {
+    "addr:full":"494 Hwy 45 S Columbus MS 39701",
+    "addr:housenumber":"494",
+    "addr:postcode":"39701",
+    "addr:street":"Hwy 45 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.489382,33.477023,-88.489382,33.477023",
     "geom:latitude":33.477023,
     "geom:longitude":-88.489382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"494 Hwy 45 S",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125159015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RR2dDpTKcYvHEiK4NJ0mQ_33.477023_-88.489382@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124863,
-    "wof:geomhash":"7a6c1ec4d4eabf5023f504a12ae544be",
+    "wof:geomhash":"0c4db081008743078c345b4f4b3c6513",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857233119,
-    "wof:lastmodified":1466637429,
+    "wof:lastmodified":1510696103,
     "wof:name":"Hope Community Church",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

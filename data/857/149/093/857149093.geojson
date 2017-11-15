@@ -2,14 +2,20 @@
   "id": 857149093,
   "type": "Feature",
   "properties": {
+    "addr:full":"876 US Hwy 61 Vicksburg MS 39183",
+    "addr:housenumber":"876",
+    "addr:postcode":"39183",
+    "addr:street":"Us Hwy 61",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.828568,32.355679,-90.828568,32.355679",
     "geom:latitude":32.355679,
     "geom:longitude":-90.828568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"876 US Hwy 61",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lPf0NzpJmCQVPbqaPZsJy_32.355679_-90.828568@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123125,
-    "wof:geomhash":"91748b203309fe236a36233b0f646ce5",
+    "wof:geomhash":"b1ab9fe47fb1698ccd18bb24adf430df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857149093,
-    "wof:lastmodified":1466636498,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857191819,
   "type": "Feature",
   "properties": {
+    "addr:full":"3877 N Gloster St Tupelo MS 38804",
+    "addr:housenumber":"3877",
+    "addr:postcode":"38804",
+    "addr:street":"N Gloster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.706945,34.312396,-88.706945,34.312396",
     "geom:latitude":34.312396,
     "geom:longitude":-88.706945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3877 N Gloster St",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083171,
         85810531
     ],
+    "wof:brand_id":1125152101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GKkCqTt2pZtchncaJq9Pw_34.312396_-88.706945@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124022,
-    "wof:geomhash":"da147e953051c5629c12f40fb5fdcac4",
+    "wof:geomhash":"07ffd716d38ffd0ea44ea6122825eeec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857191819,
-    "wof:lastmodified":1466637060,
+    "wof:lastmodified":1510694961,
     "wof:name":"New China Buffet",
     "wof:parent_id":85810531,
     "wof:placetype":"venue",

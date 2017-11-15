@@ -2,14 +2,20 @@
   "id": 857343085,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 E Beach Blvd Gulfport MS 39507",
+    "addr:housenumber":"50",
+    "addr:postcode":"39507",
+    "addr:street":"E Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.045403,30.378242,-89.045403,30.378242",
     "geom:latitude":30.378242,
     "geom:longitude":-89.045403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 E Beach Blvd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wPHJKh3Fu65DuR2F0S9Hk_30.378242_-89.045403@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127336,
-    "wof:geomhash":"83ffdba9e482e04f8f8329ffd05c1503",
+    "wof:geomhash":"f42121427d840eef1536556596a9df4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857343085,
-    "wof:lastmodified":1466639031,
+    "wof:lastmodified":1510602713,
     "wof:name":"Economy Inn",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

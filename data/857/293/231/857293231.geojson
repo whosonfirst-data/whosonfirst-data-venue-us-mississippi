@@ -2,14 +2,20 @@
   "id": 857293231,
   "type": "Feature",
   "properties": {
+    "addr:full":"827 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"827",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.303961,31.324809,-89.303961,31.324809",
     "geom:latitude":31.324809,
     "geom:longitude":-89.303961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"827 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125159475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ts7ZFIxqzo6cQylsROsXs_31.324809_-89.303961@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126226,
-    "wof:geomhash":"58689b633f2c211ae9f92b7e21da5454",
+    "wof:geomhash":"6a27ab2f0709a8ae2ca0413395474499",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857293231,
-    "wof:lastmodified":1466638353,
+    "wof:lastmodified":1510698857,
     "wof:name":"Beauty Mart",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

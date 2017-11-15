@@ -2,14 +2,20 @@
   "id": 857244121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Hwy 11 S Meridian MS 39307",
+    "addr:housenumber":"1600",
+    "addr:postcode":"39307",
+    "addr:street":"Hwy 11 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.749281,32.324894,-88.749281,32.324894",
     "geom:latitude":32.324894,
     "geom:longitude":-88.749281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 Hwy 11 S",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SrHhdpu4P7Xz3RZlBC3mY_32.324894_-88.749281@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125113,
-    "wof:geomhash":"420c022239d648420cf8f138e2dc0280",
+    "wof:geomhash":"80fd36ce00834f6e7a7a63c2d939c92d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857244121,
-    "wof:lastmodified":1466637600,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

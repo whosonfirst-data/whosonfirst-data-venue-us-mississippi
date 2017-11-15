@@ -2,14 +2,20 @@
   "id": 857388985,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Co Rd 59 New Albany MS 38652",
+    "addr:housenumber":"1015;59",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.08992,34.483752,-89.08992,34.483752",
     "geom:latitude":34.483752,
     "geom:longitude":-89.08992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1015 Co Rd 59",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081017,
         85821919
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JSmGB92NX8Hk0lnOtDdDD_34.483752_-89.089920@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128407,
-    "wof:geomhash":"103debcee701dcb87c352a82b871eee4",
+    "wof:geomhash":"2999962d01c4e1a07e0650e5280add80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857388985,
-    "wof:lastmodified":1466639839,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

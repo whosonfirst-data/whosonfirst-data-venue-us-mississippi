@@ -2,6 +2,10 @@
   "id": 857096801,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 S West St Jackson MS 39201",
+    "addr:housenumber":"613",
+    "addr:postcode":"west;39201",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":857096801,
-    "wof:lastmodified":1466636030,
+    "wof:lastmodified":1472631161,
     "wof:name":"Mississippi Public Employee Cu",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

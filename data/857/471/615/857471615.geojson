@@ -2,14 +2,20 @@
   "id": 857471615,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Broadway Dr Hattiesburg MS 39401",
+    "addr:housenumber":"212",
+    "addr:postcode":"39401",
+    "addr:street":"Broadway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.302759,31.316792,-89.302759,31.316792",
     "geom:latitude":31.316792,
     "geom:longitude":-89.302759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 Broadway Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N30mWPwEqG51l6fXbdy4b_31.316792_-89.302759@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130208,
-    "wof:geomhash":"c7ae6ef980d66fc7cd2e5af2f1d1d4ea",
+    "wof:geomhash":"90a7ba91868624dc2bb64e0635b9b0a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857471615,
-    "wof:lastmodified":1466640866,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

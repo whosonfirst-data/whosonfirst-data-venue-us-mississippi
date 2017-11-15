@@ -2,14 +2,20 @@
   "id": 857366621,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 E Pearl St Jackson MS 39201",
+    "addr:housenumber":"277",
+    "addr:postcode":"39201",
+    "addr:street":"E Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.185697,32.298814,-90.185697,32.298814",
     "geom:latitude":32.298814,
     "geom:longitude":-90.185697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"277 E Pearl St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85878403
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WaJhZR8eAotQYP7dnft5s_32.298814_-90.185697@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127837,
-    "wof:geomhash":"a09999e915a05a44853c865ebc3d41c9",
+    "wof:geomhash":"118073effdbafab98068a5b70b364137",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857366621,
-    "wof:lastmodified":1466639466,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

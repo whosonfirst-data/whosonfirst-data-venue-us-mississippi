@@ -2,6 +2,10 @@
   "id": 857140095,
   "type": "Feature",
   "properties": {
+    "addr:full":"2331 Martin Luther King Jr Dr Jackson MS 39213",
+    "addr:housenumber":"2331",
+    "addr:postcode":"39213",
+    "addr:street":"Martin Luther King Jr Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857140095,
-    "wof:lastmodified":1466636445,
+    "wof:lastmodified":1472631185,
     "wof:name":"M W King Hiram Grnd Ldg Tmpl",
     "wof:parent_id":85814629,
     "wof:placetype":"venue",

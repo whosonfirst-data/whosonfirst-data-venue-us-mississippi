@@ -2,14 +2,20 @@
   "id": 857194845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2198 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2198",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.965305,30.402616,-88.965305,30.402616",
     "geom:latitude":30.402616,
     "geom:longitude":-88.965305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2198 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6O0PEW8LSZgU7VcOtbCsdL_30.402616_-88.965305@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124077,
-    "wof:geomhash":"d77a4e68d5c131a661fdedc346265df1",
+    "wof:geomhash":"cb09d6009eee4016b0120527ebb61e99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857194845,
-    "wof:lastmodified":1466637107,
+    "wof:lastmodified":1510697772,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

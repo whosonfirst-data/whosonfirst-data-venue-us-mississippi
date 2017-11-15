@@ -2,14 +2,20 @@
   "id": 857289977,
   "type": "Feature",
   "properties": {
+    "addr:full":"6007 Castle Rd Vicksburg MS 39180",
+    "addr:housenumber":"6007",
+    "addr:postcode":"39180",
+    "addr:street":"Castle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.837443,32.240959,-90.837443,32.240959",
     "geom:latitude":32.240959,
     "geom:longitude":-90.837443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6007 Castle Rd",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85850283,
         102083779
     ],
+    "wof:brand_id":1125157561,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fxmA4G0r3PubsOSyRekwt_32.240959_-90.837443@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126149,
-    "wof:geomhash":"2d4101cdd768a9d52368a9dea4805767",
+    "wof:geomhash":"107a4ab6519f49a78186cc7040221ded",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857289977,
-    "wof:lastmodified":1466638424,
+    "wof:lastmodified":1510699303,
     "wof:name":"Bellsouth",
     "wof:parent_id":85850283,
     "wof:placetype":"venue",

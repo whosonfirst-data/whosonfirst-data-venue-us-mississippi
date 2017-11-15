@@ -2,14 +2,20 @@
   "id": 857483227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1161 Bonita Lakes Cir Meridian MS 39301",
+    "addr:housenumber":"1161",
+    "addr:postcode":"39301",
+    "addr:street":"Bonita Lakes Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.668544,32.359732,-88.668544,32.359732",
     "geom:latitude":32.359732,
     "geom:longitude":-88.668544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1161 Bonita Lakes Cir",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125158299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NJBbuVmPMHx1HnqayIcQy_32.359732_-88.668544@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130432,
-    "wof:geomhash":"e95bfdf522e6ba84acf0d885ff17cbed",
+    "wof:geomhash":"6eb9e6422e0e17438b64bf8b5798461c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857483227,
-    "wof:lastmodified":1466640950,
+    "wof:lastmodified":1510695815,
     "wof:name":"Garfield's Restaurant & Pub",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

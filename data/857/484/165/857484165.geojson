@@ -2,14 +2,20 @@
   "id": 857484165,
   "type": "Feature",
   "properties": {
+    "addr:full":"15140 Creosote Rd Gulfport MS 39503",
+    "addr:housenumber":"15140",
+    "addr:postcode":"39503",
+    "addr:street":"Creosote Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.090366,30.427575,-89.090366,30.427575",
     "geom:latitude":30.427575,
     "geom:longitude":-89.090366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15140 Creosote Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61dmMo43SASJa6TuH9OnaP_30.427575_-89.090366@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130448,
-    "wof:geomhash":"b5c6259413701d63955dcd7a6ad17795",
+    "wof:geomhash":"fe0565e5e863f7dbef22c1b00f92cebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857484165,
-    "wof:lastmodified":1466640945,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

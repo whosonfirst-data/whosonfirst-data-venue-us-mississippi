@@ -2,14 +2,20 @@
   "id": 857146123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4527 N State St Jackson MS 39206",
+    "addr:housenumber":"4527",
+    "addr:postcode":"39206",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.174559,32.354486,-90.174559,32.354486",
     "geom:latitude":32.354486,
     "geom:longitude":-90.174559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4527 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85858753
     ],
+    "wof:brand_id":1125158111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tYv5TItzzVuvEfPn5SF0L_32.354486_-90.174559@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123062,
-    "wof:geomhash":"3040ebb5fc8addd91ad08c5e68541785",
+    "wof:geomhash":"aae086d224e2c3638ea696eef28fb211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857146123,
-    "wof:lastmodified":1466636479,
+    "wof:lastmodified":1510696727,
     "wof:name":"ICI Dulux Paint Centers",
     "wof:parent_id":85858753,
     "wof:placetype":"venue",

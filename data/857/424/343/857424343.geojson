@@ -2,14 +2,20 @@
   "id": 857424343,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Macedonia Rd Petal MS 39465",
+    "addr:housenumber":"609",
+    "addr:postcode":"39465",
+    "addr:street":"Macedonia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.172403,31.391286,-89.172403,31.391286",
     "geom:latitude":31.391286,
     "geom:longitude":-89.172403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"609 Macedonia Rd",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":420575803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EPcX53bsJChZpwlcvX4fi_31.391286_-89.172403@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129207,
-    "wof:geomhash":"febe178f6b7e53e5f1db56965a6ddf50",
+    "wof:geomhash":"00e974a2facb3442116443b1e6530067",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857424343,
-    "wof:lastmodified":1466640157,
+    "wof:lastmodified":1510602946,
     "wof:name":"Macedonia Baptist Church",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

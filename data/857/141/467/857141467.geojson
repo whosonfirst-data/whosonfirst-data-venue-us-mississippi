@@ -2,14 +2,20 @@
   "id": 857141467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Briar Ridge Rd Tupelo MS 38804",
+    "addr:housenumber":"1901",
+    "addr:postcode":"38804",
+    "addr:street":"Briar Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.675344,34.242654,-88.675344,34.242654",
     "geom:latitude":34.242654,
     "geom:longitude":-88.675344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Briar Ridge Rd",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85847891
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G5yLHSzaVZEJFrcsNa22a_34.242654_-88.675344@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122929,
-    "wof:geomhash":"21e090c6321d4a5cb42fd0d3d3790062",
+    "wof:geomhash":"d4bafc7c718e81d398fcf687e3a6b341",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857141467,
-    "wof:lastmodified":1466636493,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85847891,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857270955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 Co Rd 326 New Albany MS 38652",
+    "addr:housenumber":"1014;326",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857270955,
-    "wof:lastmodified":1466638132,
+    "wof:lastmodified":1472631324,
     "wof:name":"Church Of Acts",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

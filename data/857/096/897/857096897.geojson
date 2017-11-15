@@ -2,14 +2,20 @@
   "id": 857096897,
   "type": "Feature",
   "properties": {
+    "addr:full":"15441 Orange Grove Rd Gulfport MS 39503",
+    "addr:housenumber":"15441",
+    "addr:postcode":"39503",
+    "addr:street":"Orange Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.100847,30.452852,-89.100847,30.452852",
     "geom:latitude":30.452852,
     "geom:longitude":-89.100847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15441 Orange Grove Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838583,
         85868905
     ],
+    "wof:brand_id":1125156335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OZppEHUFcCqCuvQBzT68i_30.452852_-89.100847@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121830,
-    "wof:geomhash":"8e012b79656df6354b274df0d722e2a0",
+    "wof:geomhash":"9361e3046bb0c5cec0a1ed3db61ac08f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":857096897,
-    "wof:lastmodified":1466636043,
+    "wof:lastmodified":1510697029,
     "wof:name":"Affordable Dentures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857368589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Co Rd 127 New Albany MS 38652",
+    "addr:housenumber":"1415;127",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857368589,
-    "wof:lastmodified":1466639521,
+    "wof:lastmodified":1472631440,
     "wof:name":"Bryan Foods",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

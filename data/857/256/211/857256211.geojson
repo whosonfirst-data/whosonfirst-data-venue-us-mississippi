@@ -2,14 +2,20 @@
   "id": 857256211,
   "type": "Feature",
   "properties": {
+    "addr:full":"3869 N Gloster St Tupelo MS 38804",
+    "addr:housenumber":"3869",
+    "addr:postcode":"38804",
+    "addr:street":"N Gloster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.706928,34.312553,-88.706928,34.312553",
     "geom:latitude":34.312553,
     "geom:longitude":-88.706928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3869 N Gloster St",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083171,
         85810531
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nKvKotaQRvS4wF8xv0jkh_34.312553_-88.706928@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125410,
-    "wof:geomhash":"6d31ac34d39557e1dbedea41168c15e9",
+    "wof:geomhash":"d38a60db8d2b8f50b04b9ac4c1915390",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857256211,
-    "wof:lastmodified":1466637790,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85810531,
     "wof:placetype":"venue",

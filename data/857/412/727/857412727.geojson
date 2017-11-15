@@ -2,14 +2,20 @@
   "id": 857412727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1595 W Government St Brandon MS 39042",
+    "addr:housenumber":"1595",
+    "addr:postcode":"39042",
+    "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.003398,32.280117,-90.003398,32.280117",
     "geom:latitude":32.280117,
     "geom:longitude":-90.003398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1595 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LoOVcrgXTAsRYq1oQRl2f_32.280117_-90.003398@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128917,
-    "wof:geomhash":"c0491375a7e4df25a2a32eac1cebea1a",
+    "wof:geomhash":"d8ba8791da835757b4dd936cffa8e75a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857412727,
-    "wof:lastmodified":1466640084,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

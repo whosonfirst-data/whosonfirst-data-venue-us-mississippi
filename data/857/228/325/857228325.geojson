@@ -2,14 +2,20 @@
   "id": 857228325,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 42nd Ct Meridian MS 39307",
+    "addr:housenumber":"5700",
+    "addr:postcode":"39307",
+    "addr:street":"42Nd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.737179,32.403006,-88.737179,32.403006",
     "geom:latitude":32.403006,
     "geom:longitude":-88.737179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 42nd Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125153173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_165lHzlf0Bk7QC7mWP9Mxg_32.403006_-88.737179@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124777,
-    "wof:geomhash":"ac1bea1a101a22c59859f56c9ed95d10",
+    "wof:geomhash":"bfec760091ef89bf0b51c0011ab202cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857228325,
-    "wof:lastmodified":1466641112,
+    "wof:lastmodified":1510699295,
     "wof:name":"Rainbow International",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

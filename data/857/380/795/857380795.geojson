@@ -2,6 +2,10 @@
   "id": 857380795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1522 State Rd 30 W Myrtle MS 38650",
+    "addr:housenumber":"1522;30",
+    "addr:postcode":"38650",
+    "addr:street":"State Rd;W Myrtle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857380795,
-    "wof:lastmodified":1466639733,
+    "wof:lastmodified":1472631457,
     "wof:name":"Enterprises Baptist Church",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

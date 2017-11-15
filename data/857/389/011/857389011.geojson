@@ -2,14 +2,20 @@
   "id": 857389011,
   "type": "Feature",
   "properties": {
+    "addr:full":"10650 Factory Shops Blvd Gulfport MS 39503",
+    "addr:housenumber":"10650",
+    "addr:postcode":"39503",
+    "addr:street":"Factory Shops Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.09883,30.427262,-89.09883,30.427262",
     "geom:latitude":30.427262,
     "geom:longitude":-89.09883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10650 Factory Shops Blvd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125151971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IQCF6Jxs9lLbEq8mz9Q2H_30.427262_-89.098830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128408,
-    "wof:geomhash":"cd4f5590704d77d4c983f833dafc9db0",
+    "wof:geomhash":"5270c3a0e2a288a9147018175467e5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857389011,
-    "wof:lastmodified":1466639692,
+    "wof:lastmodified":1510695912,
     "wof:name":"Big Dog Sportswear",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

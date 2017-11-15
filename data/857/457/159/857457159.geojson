@@ -2,14 +2,20 @@
   "id": 857457159,
   "type": "Feature",
   "properties": {
+    "addr:full":"689 Ford Ave Guntown MS 38849",
+    "addr:housenumber":"689",
+    "addr:postcode":"38849",
+    "addr:street":"Ford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.659381,34.446827,-88.659381,34.446827",
     "geom:latitude":34.446827,
     "geom:longitude":-88.659381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"689 Ford Ave",
     "sg:city":"Guntown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85810531
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fkeuUrKrCEowZ3cx8GLIH_34.446827_-88.659381@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129893,
-    "wof:geomhash":"c07e75e3707209513565d24ab16a4139",
+    "wof:geomhash":"398ba0655e2b13c9190f8cb8efa7607e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857457159,
-    "wof:lastmodified":1466640576,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85810531,
     "wof:placetype":"venue",

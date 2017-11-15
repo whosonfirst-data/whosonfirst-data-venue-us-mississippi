@@ -2,14 +2,20 @@
   "id": 857248985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 N State St Jackson MS 39216",
+    "addr:housenumber":"2701",
+    "addr:postcode":"39216",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.175649,32.332406,-90.175649,32.332406",
     "geom:latitude":32.332406,
     "geom:longitude":-90.175649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2701 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878395
     ],
+    "wof:brand_id":1125150095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TnjGHlMd9b65L7L66LPbB_32.332406_-90.175649@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125222,
-    "wof:geomhash":"3bbc4c951a4593b8f6406c9e6301d0d9",
+    "wof:geomhash":"2089a2c0c4497154959de8bc7a77d5fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857248985,
-    "wof:lastmodified":1466637867,
+    "wof:lastmodified":1510695710,
     "wof:name":"Sir Speedy",
     "wof:parent_id":85878395,
     "wof:placetype":"venue",

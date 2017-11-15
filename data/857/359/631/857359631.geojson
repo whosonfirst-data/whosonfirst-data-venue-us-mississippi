@@ -2,14 +2,20 @@
   "id": 857359631,
   "type": "Feature",
   "properties": {
+    "addr:full":"10541 Diberville Blvd Diberville MS 39540",
+    "addr:housenumber":"10541",
+    "addr:postcode":"39540",
+    "addr:street":"Diberville Blvd Diberville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.89739,30.440132,-88.89739,30.440132",
     "geom:latitude":30.440132,
     "geom:longitude":-88.89739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10541 Diberville Blvd",
     "sg:city":"Diberville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125157789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IiVywePWxGOgLe0hyl2fh_30.440132_-88.897390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127690,
-    "wof:geomhash":"8fe82c2420ce8b4c6c0e3b4b43678d0c",
+    "wof:geomhash":"74f1cde6a8c1ab3199359fae436ec6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857359631,
-    "wof:lastmodified":1466639376,
+    "wof:lastmodified":1510697453,
     "wof:name":"Burke's Outlet",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

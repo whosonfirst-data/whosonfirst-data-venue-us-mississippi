@@ -2,14 +2,20 @@
   "id": 857192035,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 28th Ave Meridian MS 39301",
+    "addr:housenumber":"2014",
+    "addr:postcode":"39301",
+    "addr:street":"28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.706451,32.379054,-88.706451,32.379054",
     "geom:latitude":32.379054,
     "geom:longitude":-88.706451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2014 28th Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125158701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BEWiLRB1khbgvACs6eEoT_32.379054_-88.706451@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124025,
-    "wof:geomhash":"75adcb04f913dbecbc2bfa4583877091",
+    "wof:geomhash":"2c3b3e89c9af90fdfb1316aca850ff25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857192035,
-    "wof:lastmodified":1466636964,
+    "wof:lastmodified":1510613309,
     "wof:name":"Amalgamated Transit Union",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

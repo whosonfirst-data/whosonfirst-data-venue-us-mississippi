@@ -2,6 +2,10 @@
   "id": 857210449,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 S West St Jackson MS 39201",
+    "addr:housenumber":"745",
+    "addr:postcode":"west;39201",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857210449,
-    "wof:lastmodified":1466637207,
+    "wof:lastmodified":1472631252,
     "wof:name":"C & G Lease Sales LLC",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

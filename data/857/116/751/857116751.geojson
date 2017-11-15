@@ -2,14 +2,20 @@
   "id": 857116751,
   "type": "Feature",
   "properties": {
+    "addr:full":"3652 14th St Pascagoula MS 39567",
+    "addr:housenumber":"3652",
+    "addr:postcode":"39567",
+    "addr:street":"14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.539074,30.372482,-88.539074,30.372482",
     "geom:latitude":30.372482,
     "geom:longitude":-88.539074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3652 14th St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125155221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55FOJyQnxk9GYJmlBiFPWA_30.372482_-88.539074@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122372,
-    "wof:geomhash":"fd9dd1e0aa09927f0e3199fe36f12b9e",
+    "wof:geomhash":"84fad4794f96f69567d231b7d8ca42f5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857116751,
-    "wof:lastmodified":1466636267,
+    "wof:lastmodified":1510697564,
     "wof:name":"Auto Trim Design",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

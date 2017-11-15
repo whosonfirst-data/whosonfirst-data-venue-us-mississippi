@@ -2,14 +2,20 @@
   "id": 857483555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5317 U S Highway 49 Hattiesburg MS 39401",
+    "addr:housenumber":"5317",
+    "addr:postcode":"39401",
+    "addr:street":"U S Highway 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.290763,31.27802,-89.290763,31.27802",
     "geom:latitude":31.27802,
     "geom:longitude":-89.290763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5317 U S Highway 49",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086673,
         85844401
     ],
+    "wof:brand_id":420575727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eUclogwdn8kG4RJewMEYB_31.278020_-89.290763@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130437,
-    "wof:geomhash":"27fca432eec246636f011e99e16f80e3",
+    "wof:geomhash":"4cfd645204fe9d58d43db19b910b787a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857483555,
-    "wof:lastmodified":1466640993,
+    "wof:lastmodified":1510615168,
     "wof:name":"Pizza Inn",
     "wof:parent_id":85844401,
     "wof:placetype":"venue",

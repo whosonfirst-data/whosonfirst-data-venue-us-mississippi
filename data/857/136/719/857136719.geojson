@@ -2,14 +2,20 @@
   "id": 857136719,
   "type": "Feature",
   "properties": {
+    "addr:full":"4525 I- 55 N Jackson MS 39206",
+    "addr:housenumber":"4525;55 n",
+    "addr:postcode":"39206",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.152956,32.353384,-90.152956,32.353384",
     "geom:latitude":32.353384,
     "geom:longitude":-90.152956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4525 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125154603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sUlA3XgyhHDhmKPlLgMkS_32.353384_-90.152956@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122824,
-    "wof:geomhash":"7bcdd8172119e7e6104f458128febc87",
+    "wof:geomhash":"033888e648ab51dac86efcb38bfbc271",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857136719,
-    "wof:lastmodified":1466636436,
+    "wof:lastmodified":1510694003,
     "wof:name":"Bennigans",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

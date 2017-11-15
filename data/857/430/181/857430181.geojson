@@ -2,14 +2,20 @@
   "id": 857430181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1119 Main St Vicksburg MS 39183",
+    "addr:housenumber":"1119",
+    "addr:postcode":"39183",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.876498,32.353584,-90.876498,32.353584",
     "geom:latitude":32.353584,
     "geom:longitude":-90.876498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1119 Main St",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083779,
         85850453
     ],
+    "wof:brand_id":1125150541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H8C8vGhIm2kXsNYcPq4ln_32.353584_-90.876498@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129348,
-    "wof:geomhash":"c12a664c0a95d1d7807a8a25f547a854",
+    "wof:geomhash":"dab7a855036690f1a65caaa9037bb32f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857430181,
-    "wof:lastmodified":1466640269,
+    "wof:lastmodified":1510695852,
     "wof:name":"Christ Episcopal Church",
     "wof:parent_id":85850453,
     "wof:placetype":"venue",

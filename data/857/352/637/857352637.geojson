@@ -2,14 +2,20 @@
   "id": 857352637,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 Bienville Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"3002",
+    "addr:postcode":"39564",
+    "addr:street":"Bienville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.785595,30.412847,-88.785595,30.412847",
     "geom:latitude":30.412847,
     "geom:longitude":-88.785595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3002 Bienville Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0whPsZ1LNKYLIViKwuy9ci_30.412847_-88.785595@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127543,
-    "wof:geomhash":"0e89e39c7ebdfceba8e420a0f21a9393",
+    "wof:geomhash":"8ad5bf6a66c84f56c0ec21486ef39fd4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857352637,
-    "wof:lastmodified":1466639273,
+    "wof:lastmodified":1510602526,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

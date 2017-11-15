@@ -2,6 +2,10 @@
   "id": 857140987,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Smith Robinson St Jackson MS 39213",
+    "addr:housenumber":"3030",
+    "addr:postcode":"39213",
+    "addr:street":"Smith Robinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857140987,
-    "wof:lastmodified":1466636557,
+    "wof:lastmodified":1472631199,
     "wof:name":"Johnson's Auto Repair",
     "wof:parent_id":85878397,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857304655,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Dr 61 Shannon MS 38860",
+    "addr:housenumber":"124;61",
+    "addr:postcode":"38860",
+    "addr:street":"Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857304655,
-    "wof:lastmodified":1466638580,
+    "wof:lastmodified":1472631360,
     "wof:name":"Dean Perrin",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

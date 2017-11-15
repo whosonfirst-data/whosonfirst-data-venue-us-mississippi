@@ -2,14 +2,20 @@
   "id": 857209985,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Hwy 12 E Starkville MS 39759",
+    "addr:housenumber":"400",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.800482,33.455895,-88.800482,33.455895",
     "geom:latitude":33.455895,
     "geom:longitude":-88.800482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Hwy 12 E",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083159,
         85836327
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44yx725OCVnd5KuokFsU3n_33.455895_-88.800482@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124390,
-    "wof:geomhash":"e21d8c7288139d2dc7d66674616db23e",
+    "wof:geomhash":"ba3fb726b8d274207f4b93d209ecff89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857209985,
-    "wof:lastmodified":1466637240,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85836327,
     "wof:placetype":"venue",

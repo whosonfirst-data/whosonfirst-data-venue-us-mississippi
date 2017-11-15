@@ -2,14 +2,20 @@
   "id": 857388923,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 14th St Pascagoula MS 39567",
+    "addr:housenumber":"4100",
+    "addr:postcode":"39567",
+    "addr:street":"14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.539687,30.376856,-88.539687,30.376856",
     "geom:latitude":30.376856,
     "geom:longitude":-88.539687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 14th St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EnfEJpwrw2ftC9MSgDCe5_30.376856_-88.539687@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128406,
-    "wof:geomhash":"5b480183dfa971504470b21a998ad184",
+    "wof:geomhash":"b6396fc3215a854d64ff5dd4869a2125",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857388923,
-    "wof:lastmodified":1466639831,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

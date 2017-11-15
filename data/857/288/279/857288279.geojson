@@ -2,14 +2,20 @@
   "id": 857288279,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Wilkins-Wise Rd Columbus MS 39705",
+    "addr:housenumber":"400",
+    "addr:postcode":"39705",
+    "addr:street":"Wilkins-Wise Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.443425,33.524968,-88.443425,33.524968",
     "geom:latitude":33.524968,
     "geom:longitude":-88.443425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Wilkins-Wise Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vq1NyCJjst53or9tqoCwp_33.524968_-88.443425@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126089,
-    "wof:geomhash":"ee79d543eb8586158a5d11d16a4b2f67",
+    "wof:geomhash":"ac2b05c062bf093b6eed0bcbe0204ec5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857288279,
-    "wof:lastmodified":1466638316,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857231381,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 30th Ave Gulfport MS 39501",
+    "addr:housenumber":"1209",
+    "addr:postcode":"39501",
+    "addr:street":"30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.097794,30.366931,-89.097794,30.366931",
     "geom:latitude":30.366931,
     "geom:longitude":-89.097794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1209 30th Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125157721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mXoRdJUO9I76uPaxBErEa_30.366931_-89.097794@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124831,
-    "wof:geomhash":"d6333d21cb2f7e92e15fdebc5c207f9c",
+    "wof:geomhash":"92223db634330948daaea96040354be4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857231381,
-    "wof:lastmodified":1466637463,
+    "wof:lastmodified":1510699454,
     "wof:name":"Steak-Out",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

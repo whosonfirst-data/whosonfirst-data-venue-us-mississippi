@@ -2,14 +2,20 @@
   "id": 857174761,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Hwy 12 E Starkville MS 39759",
+    "addr:housenumber":"411",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 12 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.800736,33.455781,-88.800736,33.455781",
     "geom:latitude":33.455781,
     "geom:longitude":-88.800736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 Hwy 12 E",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083159,
         85836327
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3koBFyLF5ZEQlK7kA2g2W8_33.455781_-88.800736@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123688,
-    "wof:geomhash":"9472d24d2c50594b1029dc46df1e2ffb",
+    "wof:geomhash":"a7e239b920ee6dae84544dcfd477580e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857174761,
-    "wof:lastmodified":1466636875,
+    "wof:lastmodified":1510602388,
     "wof:name":"Hardee's",
     "wof:parent_id":85836327,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857464459,
   "type": "Feature",
   "properties": {
+    "addr:full":"12272 Intraplex Pkwy Gulfport MS 39503",
+    "addr:housenumber":"12272",
+    "addr:postcode":"39503",
+    "addr:street":"Intraplex Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.043019,30.441686,-89.043019,30.441686",
     "geom:latitude":30.441686,
     "geom:longitude":-89.043019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12272 Intraplex Pkwy",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85823795
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V3cTgPhhmHEqL4zyqDGIv_30.441686_-89.043019@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130049,
-    "wof:geomhash":"43a39fa77949a290d08bd6cb1de9daba",
+    "wof:geomhash":"db5ac67560ab5f9a2c026ecaa0cb8b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857464459,
-    "wof:lastmodified":1466640761,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85823795,
     "wof:placetype":"venue",

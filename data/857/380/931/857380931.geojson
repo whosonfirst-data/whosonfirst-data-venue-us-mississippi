@@ -2,6 +2,10 @@
   "id": 857380931,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Brandy Run Rd Brandon MS 39047",
+    "addr:housenumber":"123",
+    "addr:postcode":"39047",
+    "addr:street":"Brandy Run Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857380931,
-    "wof:lastmodified":1466639764,
+    "wof:lastmodified":1472631462,
     "wof:name":"Roof Maintenance",
     "wof:parent_id":85807457,
     "wof:placetype":"venue",

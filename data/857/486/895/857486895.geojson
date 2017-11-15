@@ -2,6 +2,10 @@
   "id": 857486895,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 W 2nd St Apt 121 Clarksdale MS 38614",
+    "addr:housenumber":"125;121",
+    "addr:postcode":"38614",
+    "addr:street":"W 2Nd St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857486895,
-    "wof:lastmodified":1466641134,
+    "wof:lastmodified":1472631552,
     "wof:name":"Siding By Thomasson",
     "wof:parent_id":85845093,
     "wof:placetype":"venue",

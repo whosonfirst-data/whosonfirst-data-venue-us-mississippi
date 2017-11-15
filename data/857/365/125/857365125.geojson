@@ -2,14 +2,20 @@
   "id": 857365125,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Huckleberry Dr Hattiesburg MS 39402",
+    "addr:housenumber":"11",
+    "addr:postcode":"39402",
+    "addr:street":"Huckleberry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.436953,31.269967,-89.436953,31.269967",
     "geom:latitude":31.269967,
     "geom:longitude":-89.436953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11 Huckleberry Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838663,
         102083775
     ],
+    "wof:brand_id":1125151773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71ankIeut0GU9wXHwirBhA_31.269967_-89.436953@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127807,
-    "wof:geomhash":"6ea16e178bd0a8e1e35061c451a7ecb1",
+    "wof:geomhash":"9fdc5ab112bfedca5531c60b96756ef5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857365125,
-    "wof:lastmodified":1466639343,
+    "wof:lastmodified":1510696077,
     "wof:name":"Custom Creations",
     "wof:parent_id":85838663,
     "wof:placetype":"venue",

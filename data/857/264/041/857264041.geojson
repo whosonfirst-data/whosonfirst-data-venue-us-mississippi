@@ -2,14 +2,20 @@
   "id": 857264041,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Port Cir Vicksburg MS 39183",
+    "addr:housenumber":"600",
+    "addr:postcode":"39183",
+    "addr:street":"Port Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.661139,32.36513,-90.661139,32.36513",
     "geom:latitude":32.36513,
     "geom:longitude":-90.661139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Port Cir",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083779,
         85829579
     ],
+    "wof:brand_id":1125153565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uriVCwUQFssV4vaaIxLSX_32.365130_-90.661139@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125574,
-    "wof:geomhash":"1096118ba2691d138f884f560aceeb7b",
+    "wof:geomhash":"802e977f1c2a1be33b1887c2f282be82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857264041,
-    "wof:lastmodified":1466637903,
+    "wof:lastmodified":1510693203,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85829579,
     "wof:placetype":"venue",

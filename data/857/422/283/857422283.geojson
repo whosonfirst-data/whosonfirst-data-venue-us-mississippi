@@ -2,14 +2,20 @@
   "id": 857422283,
   "type": "Feature",
   "properties": {
+    "addr:full":"5354 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5354;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.147445,32.376231,-90.147445,32.376231",
     "geom:latitude":32.376231,
     "geom:longitude":-90.147445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5354 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125152471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iPc1as3UH18zFGMzEUUGV_32.376231_-90.147445@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129155,
-    "wof:geomhash":"6f09d7741cf4e588d3271485db67f54f",
+    "wof:geomhash":"7b9ba8be8e5640857c25a82488d88948",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857422283,
-    "wof:lastmodified":1466640130,
+    "wof:lastmodified":1510696664,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

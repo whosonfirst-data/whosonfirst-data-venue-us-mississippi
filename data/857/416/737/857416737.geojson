@@ -2,14 +2,20 @@
   "id": 857416737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 N State St Jackson MS 39216",
+    "addr:housenumber":"2715",
+    "addr:postcode":"39216",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.175456,32.33214,-90.175456,32.33214",
     "geom:latitude":32.33214,
     "geom:longitude":-90.175456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2715 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878395
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iiniAb4JoTbJpuUIUaj4S_32.332140_-90.175456@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129028,
-    "wof:geomhash":"e85cf52208c6410dd0c82ad04ea96d7d",
+    "wof:geomhash":"67fb6d54839a982139a7c1e3b1af1312",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857416737,
-    "wof:lastmodified":1466640194,
+    "wof:lastmodified":1510697772,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85878395,
     "wof:placetype":"venue",

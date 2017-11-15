@@ -2,14 +2,20 @@
   "id": 857402237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 E Pass Rd Gulfport MS 39507",
+    "addr:housenumber":"1740",
+    "addr:postcode":"39507",
+    "addr:street":"E Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.019123,30.400469,-89.019123,30.400469",
     "geom:latitude":30.400469,
     "geom:longitude":-89.019123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1740 E Pass Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85823795
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IjnMH6blouakXTIb8I03Q_30.400469_-89.019123@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128671,
-    "wof:geomhash":"fdec62f48f1483b2f34bd12f9ea8e55c",
+    "wof:geomhash":"ff1e601ef9da8887da07512dd45f81f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857402237,
-    "wof:lastmodified":1466639893,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":85823795,
     "wof:placetype":"venue",

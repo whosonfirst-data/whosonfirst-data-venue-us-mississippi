@@ -2,14 +2,20 @@
   "id": 857366329,
   "type": "Feature",
   "properties": {
+    "addr:full":"381 Medical Dr Jackson MS 39216",
+    "addr:housenumber":"381",
+    "addr:postcode":"39216",
+    "addr:street":"Medical Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.166212,32.335665,-90.166212,32.335665",
     "geom:latitude":32.335665,
     "geom:longitude":-90.166212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"381 Medical Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081407,
         85878395
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l5Mgoj1DX179gchK1G51I_32.335665_-90.166212@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127831,
-    "wof:geomhash":"64fc08e2e422e20adc109933d5ee2dc5",
+    "wof:geomhash":"853fa2c518c88385c2068456cdc8e579",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857366329,
-    "wof:lastmodified":1466639405,
+    "wof:lastmodified":1510613251,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":85878395,
     "wof:placetype":"venue",

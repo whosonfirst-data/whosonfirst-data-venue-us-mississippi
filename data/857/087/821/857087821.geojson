@@ -2,14 +2,20 @@
   "id": 857087821,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 E Amite St Jackson MS 39201",
+    "addr:housenumber":"225",
+    "addr:postcode":"39201",
+    "addr:street":"E Amite St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.18439,32.300868,-90.18439,32.300868",
     "geom:latitude":32.300868,
     "geom:longitude":-90.18439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 E Amite St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878403
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BhoiJCRVB5h77W0L4zlE0_32.300868_-90.184390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121608,
-    "wof:geomhash":"6eb605a6b0e5a966f5f0302f699bc2f1",
+    "wof:geomhash":"1c5cfc3823d2e46185f73ae8e46b899f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857087821,
-    "wof:lastmodified":1466635900,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

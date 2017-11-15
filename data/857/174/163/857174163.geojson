@@ -2,14 +2,20 @@
   "id": 857174163,
   "type": "Feature",
   "properties": {
+    "addr:full":"3081 Hwy 49 S Florence MS 39073",
+    "addr:housenumber":"3081",
+    "addr:postcode":"39073",
+    "addr:street":"Hwy 49 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.068274,32.118474,-90.068274,32.118474",
     "geom:latitude":32.118474,
     "geom:longitude":-90.068274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3081 Hwy 49 S",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZHMapDRJshazKrdpaEDl3_32.118474_-90.068274@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123678,
-    "wof:geomhash":"86281481517ec1a150694fd4550d73d9",
+    "wof:geomhash":"d90a96f7d64784e8264c17d8590b09e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857174163,
-    "wof:lastmodified":1466636795,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

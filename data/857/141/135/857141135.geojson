@@ -2,14 +2,20 @@
   "id": 857141135,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Oakmont Trl Ridgeland MS 39157",
+    "addr:housenumber":"310",
+    "addr:postcode":"39157",
+    "addr:street":"Oakmont Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.158635,32.420204,-90.158635,32.420204",
     "geom:latitude":32.420204,
     "geom:longitude":-90.158635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Oakmont Trl",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":1125154347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U7Cn5E2uWfstutsieLRTE_32.420204_-90.158635@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122917,
-    "wof:geomhash":"140144ccd1bf2af2610db2671cdcdc4f",
+    "wof:geomhash":"8384bb3f667aa9c8ca33121a86d27c31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857141135,
-    "wof:lastmodified":1466636453,
+    "wof:lastmodified":1510698937,
     "wof:name":"Owens Corning",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

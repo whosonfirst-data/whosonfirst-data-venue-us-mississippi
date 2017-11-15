@@ -2,14 +2,20 @@
   "id": 857170799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1855 Lakeland Dr Jackson MS 39216",
+    "addr:housenumber":"1855",
+    "addr:postcode":"39216",
+    "addr:street":"Lakeland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.139017,32.333867,-90.139017,32.333867",
     "geom:latitude":32.333867,
     "geom:longitude":-90.139017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1855 Lakeland Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85817083,
         85858753
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qwFJupHN4Fk2Dfhwvr44g_32.333867_-90.139017@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123602,
-    "wof:geomhash":"7bad9b63aa0cfc1d709d74d256588977",
+    "wof:geomhash":"5808016d995220414611c5ca98ddf7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":857170799,
-    "wof:lastmodified":1466636819,
+    "wof:lastmodified":1510695073,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

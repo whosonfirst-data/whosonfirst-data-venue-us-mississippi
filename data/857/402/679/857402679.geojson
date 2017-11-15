@@ -2,6 +2,10 @@
   "id": 857402679,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Co Rd 1350 Tupelo MS 38801",
+    "addr:housenumber":"135;1350",
+    "addr:postcode":"38801",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857402679,
-    "wof:lastmodified":1466639955,
+    "wof:lastmodified":1472631471,
     "wof:name":"Julio's Tire Svc",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

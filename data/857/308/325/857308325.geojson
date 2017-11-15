@@ -2,6 +2,10 @@
   "id": 857308325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1458 Co Rd 81 New Albany MS 38652",
+    "addr:housenumber":"1458;81",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857308325,
-    "wof:lastmodified":1466638637,
+    "wof:lastmodified":1472631361,
     "wof:name":"Bob's Upholstery",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

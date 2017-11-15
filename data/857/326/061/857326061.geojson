@@ -2,14 +2,20 @@
   "id": 857326061,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 23rd Ave Meridian MS 39301",
+    "addr:housenumber":"701",
+    "addr:postcode":"39301",
+    "addr:street":"23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.701479,32.365068,-88.701479,32.365068",
     "geom:latitude":32.365068,
     "geom:longitude":-88.701479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 23rd Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45GzTYao4wmSCQQKANc4lR_32.365068_-88.701479@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126970,
-    "wof:geomhash":"c0e0f1f1dfe67459dcc7be4d086cb484",
+    "wof:geomhash":"283b2ddd83ff387396a66cd02c9ff001",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857326061,
-    "wof:lastmodified":1466638803,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857164179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 Canty St Pascagoula MS 39567",
+    "addr:housenumber":"2211",
+    "addr:postcode":"39567",
+    "addr:street":"Canty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.559722,30.358515,-88.559722,30.358515",
     "geom:latitude":30.358515,
     "geom:longitude":-88.559722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2211 Canty St",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125159665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gnSjlA2u8rZfXJbo7ARMw_30.358515_-88.559722@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123449,
-    "wof:geomhash":"3c9835fb58b700dd89ae99660fe897d3",
+    "wof:geomhash":"ce11173a6c460e487437df4af42f549c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857164179,
-    "wof:lastmodified":1466636697,
+    "wof:lastmodified":1510694924,
     "wof:name":"Riverside Baptist Church",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

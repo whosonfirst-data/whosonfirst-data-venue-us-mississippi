@@ -2,14 +2,20 @@
   "id": 857214497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 New Hope Rd Columbus MS 39702",
+    "addr:housenumber":"3610",
+    "addr:postcode":"39702",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.327233,33.447778,-88.327233,33.447778",
     "geom:latitude":33.447778,
     "geom:longitude":-88.327233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3610 New Hope Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081023,
         85810039
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LNvC85OMQc77tTn9PD192_33.447778_-88.327233@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124500,
-    "wof:geomhash":"fc4de18d25ff7afce018117785d3a85b",
+    "wof:geomhash":"1b6f1537d5eba0ebb35012ac6ca9b95c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857214497,
-    "wof:lastmodified":1466637255,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85810039,
     "wof:placetype":"venue",

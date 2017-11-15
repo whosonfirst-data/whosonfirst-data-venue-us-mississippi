@@ -2,14 +2,20 @@
   "id": 857480479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1921 University Ave Oxford MS 38655",
+    "addr:housenumber":"1921",
+    "addr:postcode":"38655",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.509184,34.362608,-89.509184,34.362608",
     "geom:latitude":34.362608,
     "geom:longitude":-89.509184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1921 University Ave",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083165,
         85852013
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1189NX8XWFFfUhr7R7e5FC_34.362608_-89.509184@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130378,
-    "wof:geomhash":"c167cd175382dfe79e0469e46c51abf1",
+    "wof:geomhash":"0ba2c83b74fdffb329076e39c01f0922",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857480479,
-    "wof:lastmodified":1466640969,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85852013,
     "wof:placetype":"venue",

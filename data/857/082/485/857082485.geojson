@@ -2,6 +2,10 @@
   "id": 857082485,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Heritage Dr Oxford MS 38655",
+    "addr:housenumber":"123",
+    "addr:postcode":"38655",
+    "addr:street":"Heritage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857082485,
-    "wof:lastmodified":1466635841,
+    "wof:lastmodified":1472631144,
     "wof:name":"Unicel",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

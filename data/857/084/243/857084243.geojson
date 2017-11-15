@@ -2,14 +2,20 @@
   "id": 857084243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1056 Beach Blvd Biloxi MS 39530",
+    "addr:housenumber":"1056",
+    "addr:postcode":"39530",
+    "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.901349,30.394588,-88.901349,30.394588",
     "geom:latitude":30.394588,
     "geom:longitude":-88.901349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1056 Beach Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QuCkKgKkFMWZemHu3eW1S_30.394588_-88.901349@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121515,
-    "wof:geomhash":"83d0d9f42e36c31ec154f825f261d6f8",
+    "wof:geomhash":"28708ad2e97aa135f8618da4c13c3cbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857084243,
-    "wof:lastmodified":1466635818,
+    "wof:lastmodified":1510602936,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

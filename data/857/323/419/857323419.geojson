@@ -2,14 +2,20 @@
   "id": 857323419,
   "type": "Feature",
   "properties": {
+    "addr:full":"14441 Church St Gulfport MS 39503",
+    "addr:housenumber":"14441",
+    "addr:postcode":"39503",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.114463,30.497757,-89.114463,30.497757",
     "geom:latitude":30.497757,
     "geom:longitude":-89.114463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14441 Church St",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85831733
     ],
+    "wof:brand_id":1125153059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NKoUt6gsoUBQJ8J1w3B6D_30.497757_-89.114463@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126919,
-    "wof:geomhash":"d6f929316e2d61b14bbd776ba53aa5c7",
+    "wof:geomhash":"47e6e598a4f2417b614daa81ae41e3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857323419,
-    "wof:lastmodified":1466638850,
+    "wof:lastmodified":1510700002,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85831733,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857101839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Debra Dr Gulfport MS 39503",
+    "addr:housenumber":"1013",
+    "addr:postcode":"39503",
+    "addr:street":"Debra Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.07608,30.45499,-89.07608,30.45499",
     "geom:latitude":30.45499,
     "geom:longitude":-89.07608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Debra Dr",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vWLrflBZ5UlEHa8nCZP1z_30.454990_-89.076080@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121958,
-    "wof:geomhash":"a9ead96722e41e8622a7f295ce09c2cc",
+    "wof:geomhash":"113691411dd35e61764d1c9c2dbbc0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857101839,
-    "wof:lastmodified":1466636049,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

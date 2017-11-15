@@ -2,14 +2,20 @@
   "id": 857469883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4303 8th St Meridian MS 39307",
+    "addr:housenumber":"4303",
+    "addr:postcode":"39307",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.720667,32.364604,-88.720667,32.364604",
     "geom:latitude":32.364604,
     "geom:longitude":-88.720667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4303 8th St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SSP7ewP0rqqRGlb6Pqur2_32.364604_-88.720667@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130169,
-    "wof:geomhash":"43e6d3f916681d51c2df0431a7c19773",
+    "wof:geomhash":"115756f3f9d8867bac729a9e1cd7941d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857469883,
-    "wof:lastmodified":1466640904,
+    "wof:lastmodified":1510602487,
     "wof:name":"Fred's Store",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

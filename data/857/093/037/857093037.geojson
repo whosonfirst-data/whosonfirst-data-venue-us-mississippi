@@ -2,14 +2,20 @@
   "id": 857093037,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 Monroe St Jackson MS 39202",
+    "addr:housenumber":"614",
+    "addr:postcode":"39202",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.171523,32.303972,-90.171523,32.303972",
     "geom:latitude":32.303972,
     "geom:longitude":-90.171523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"614 Monroe St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878391
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2suEGdQ3Wma5ScheklfMX5_32.303972_-90.171523@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121752,
-    "wof:geomhash":"3d68385f19935fac1a370000b601e00f",
+    "wof:geomhash":"50c324fea720e20b64c85bacecb08119",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857093037,
-    "wof:lastmodified":1466635927,
+    "wof:lastmodified":1510694888,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

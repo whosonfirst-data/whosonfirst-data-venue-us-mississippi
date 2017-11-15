@@ -2,14 +2,20 @@
   "id": 857365417,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Twin Oaks Dr Madison MS 39110",
+    "addr:housenumber":"93",
+    "addr:postcode":"39110",
+    "addr:street":"Twin Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115661,32.447724,-90.115661,32.447724",
     "geom:latitude":32.447724,
     "geom:longitude":-90.115661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"93 Twin Oaks Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085905,
         85821249
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FSYzrY1ZSbw5FPyEbJF20_32.447724_-90.115661@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127814,
-    "wof:geomhash":"16321485b36a3e30bf7b47df8ce66ba3",
+    "wof:geomhash":"9bd4f55e1b179c209893fb28fcc56747",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857365417,
-    "wof:lastmodified":1466639394,
+    "wof:lastmodified":1510693929,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85821249,
     "wof:placetype":"venue",

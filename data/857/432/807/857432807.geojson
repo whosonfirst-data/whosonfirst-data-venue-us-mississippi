@@ -2,14 +2,20 @@
   "id": 857432807,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 Hwy 19 N Meridian MS 39307",
+    "addr:housenumber":"422",
+    "addr:postcode":"39307",
+    "addr:street":"Hwy 19 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.729361,32.359436,-88.729361,32.359436",
     "geom:latitude":32.359436,
     "geom:longitude":-88.729361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"422 Hwy 19 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Ivw1OKSyPWw9oF97IFR0_32.359436_-88.729361@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129422,
-    "wof:geomhash":"4dce90ff7a300df87b8c8e8fe79c6b0c",
+    "wof:geomhash":"91a446dc7158b3395b3e36794212158f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857432807,
-    "wof:lastmodified":1466640382,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857385623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Bienville Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"1209",
+    "addr:postcode":"39564",
+    "addr:street":"Bienville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.820559,30.416273,-88.820559,30.416273",
     "geom:latitude":30.416273,
     "geom:longitude":-88.820559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1209 Bienville Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125152337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VHpwT6UoN0j17qGk9q7kM_30.416273_-88.820559@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128309,
-    "wof:geomhash":"65d3043a670f842bc0ef8e60e5e09a22",
+    "wof:geomhash":"bf9877785fda382d7116dea54fa3e505",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857385623,
-    "wof:lastmodified":1466639777,
+    "wof:lastmodified":1510693921,
     "wof:name":"Express Check Advance",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

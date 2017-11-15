@@ -2,14 +2,20 @@
   "id": 857078743,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Rd 660 Plantersville MS 38862",
+    "addr:housenumber":"155",
+    "addr:postcode":"38862",
+    "addr:street":"Rd 660",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.653546,34.170163,-88.653546,34.170163",
     "geom:latitude":34.170163,
     "geom:longitude":-88.653546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Rd 660",
     "sg:city":"Plantersville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083171,
         85847891
     ],
+    "wof:brand_id":420574481,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vkQ2lW3y32yAbJB1t91Hz_34.170163_-88.653546@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121370,
-    "wof:geomhash":"84f2a95730f568a7430a53e3b622511e",
+    "wof:geomhash":"b0bd183826ade3f04110a9c7e22ace8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857078743,
-    "wof:lastmodified":1466635866,
+    "wof:lastmodified":1510604201,
     "wof:name":"Met Life",
     "wof:parent_id":85847891,
     "wof:placetype":"venue",

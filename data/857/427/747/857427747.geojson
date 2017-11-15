@@ -2,14 +2,20 @@
   "id": 857427747,
   "type": "Feature",
   "properties": {
+    "addr:full":"7430 Goodman Rd Olive Branch MS 38654",
+    "addr:housenumber":"7430",
+    "addr:postcode":"38654",
+    "addr:street":"Goodman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.856547,34.962274,-89.856547,34.962274",
     "geom:latitude":34.962274,
     "geom:longitude":-89.856547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7430 Goodman Rd",
     "sg:city":"Olive Branch",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D6lcUNJ4MhBxwZ467avwa_34.962274_-89.856547@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129293,
-    "wof:geomhash":"81326e5ee9e647bc1c7b31bb4289d43a",
+    "wof:geomhash":"2a28c635568e52d55c0c83aac957780e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857427747,
-    "wof:lastmodified":1466640310,
+    "wof:lastmodified":1510693878,
     "wof:name":"First Tennessee",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

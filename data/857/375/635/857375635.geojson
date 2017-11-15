@@ -2,14 +2,20 @@
   "id": 857375635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 26th Ave Gulfport MS 39501",
+    "addr:housenumber":"1811",
+    "addr:postcode":"39501",
+    "addr:street":"26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.094047,30.373327,-89.094047,30.373327",
     "geom:latitude":30.373327,
     "geom:longitude":-89.094047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1811 26th Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mUoMT7qzXSuv186IMoCvl_30.373327_-89.094047@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128025,
-    "wof:geomhash":"39b91568f4298e6c9a82025b9f1d68da",
+    "wof:geomhash":"5ac5a37409016beb50c461870a086f02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857375635,
-    "wof:lastmodified":1466639603,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857310531,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 Poplar Springs Dr Meridian MS 39305",
+    "addr:housenumber":"4921",
+    "addr:postcode":"39305",
+    "addr:street":"Poplar Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.70079,32.410555,-88.70079,32.410555",
     "geom:latitude":32.410555,
     "geom:longitude":-88.70079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4921 Poplar Springs Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20G5F8LaSNFWbAW96bPFUD_32.410555_-88.700790@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126632,
-    "wof:geomhash":"97d3fe910e55b3ac5680dd4fb4dab300",
+    "wof:geomhash":"e6a6d8764ddb5acd70f2497441e57ef6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857310531,
-    "wof:lastmodified":1466638722,
+    "wof:lastmodified":1510698661,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

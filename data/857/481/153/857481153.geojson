@@ -2,14 +2,20 @@
   "id": 857481153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Barnes Crossing Rd Tupelo MS 38804",
+    "addr:housenumber":"1001",
+    "addr:postcode":"38804",
+    "addr:street":"Barnes Crossing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.693173,34.315558,-88.693173,34.315558",
     "geom:latitude":34.315558,
     "geom:longitude":-88.693173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Barnes Crossing Rd",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85838449,
         102083171
     ],
+    "wof:brand_id":1125150491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33SGMGzE8LAH3azyI3cBwi_34.315558_-88.693173@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130391,
-    "wof:geomhash":"69137946a49f731ee4952373a78606a1",
+    "wof:geomhash":"68b612eade5013e2ec4c9bdd4ec952a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857481153,
-    "wof:lastmodified":1466640923,
+    "wof:lastmodified":1510697199,
     "wof:name":"Great American Cookies",
     "wof:parent_id":85838449,
     "wof:placetype":"venue",

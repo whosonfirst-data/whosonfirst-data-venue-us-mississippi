@@ -2,14 +2,20 @@
   "id": 857303673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1207 Deeb St Jackson MS 39208",
+    "addr:housenumber":"1207",
+    "addr:postcode":"39208",
+    "addr:street":"Deeb St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123124,32.241548,-90.123124,32.241548",
     "geom:latitude":32.241548,
     "geom:longitude":-90.123124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1207 Deeb St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125151193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gQEJ1CUdd0PUXjE9z7LVX_32.241548_-90.123124@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126490,
-    "wof:geomhash":"cc5c73624f001c9263490f37572c0c0f",
+    "wof:geomhash":"ddd577882810e8544984238e161625ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857303673,
-    "wof:lastmodified":1466638578,
+    "wof:lastmodified":1510697361,
     "wof:name":"Providence Baptist Church",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

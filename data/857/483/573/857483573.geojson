@@ -2,14 +2,20 @@
   "id": 857483573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Hardy St Hattiesburg MS 39401",
+    "addr:housenumber":"2300",
+    "addr:postcode":"39401",
+    "addr:street":"Hardy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.324833,31.324684,-89.324833,31.324684",
     "geom:latitude":31.324684,
     "geom:longitude":-89.324833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Hardy St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YDO59ZvolzKO9QpevaDMH_31.324684_-89.324833@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130438,
-    "wof:geomhash":"7366ddd5df19693170c3a043375f7166",
+    "wof:geomhash":"70358a74cdf80a55fb9abebaf6e2c8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857483573,
-    "wof:lastmodified":1466640995,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

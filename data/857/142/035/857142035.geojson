@@ -2,14 +2,20 @@
   "id": 857142035,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Springridge Rd Jackson MS 39209",
+    "addr:housenumber":"1215",
+    "addr:postcode":"39209",
+    "addr:street":"Springridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.327075,32.30217,-90.327075,32.30217",
     "geom:latitude":32.30217,
     "geom:longitude":-90.327075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 Springridge Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081407,
         85852515
     ],
+    "wof:brand_id":1125154963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58bf7g3uunywDhPYIEz3R6_32.302170_-90.327075@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122942,
-    "wof:geomhash":"2a12659d1354eb9ed202c16b77f0d681",
+    "wof:geomhash":"93110cf93fd19f8713f715f4c37fbccd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857142035,
-    "wof:lastmodified":1466636442,
+    "wof:lastmodified":1510695243,
     "wof:name":"American Leak Detection",
     "wof:parent_id":85852515,
     "wof:placetype":"venue",

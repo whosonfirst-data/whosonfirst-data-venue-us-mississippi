@@ -2,6 +2,10 @@
   "id": 857179937,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Ridge Dr Flowood MS 39216",
+    "addr:housenumber":"123",
+    "addr:postcode":"39216",
+    "addr:street":"Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857179937,
-    "wof:lastmodified":1466636942,
+    "wof:lastmodified":1472631236,
     "wof:name":"Edwards Electric Job 61432",
     "wof:parent_id":85858753,
     "wof:placetype":"venue",

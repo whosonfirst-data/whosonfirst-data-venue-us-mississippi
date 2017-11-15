@@ -2,14 +2,20 @@
   "id": 857166467,
   "type": "Feature",
   "properties": {
+    "addr:full":"10335 Diberville Blvd Biloxi MS 39540",
+    "addr:housenumber":"",
+    "addr:postcode":"10335;39540",
+    "addr:street":"Diberville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.892872,30.436585,-88.892872,30.436585",
     "geom:latitude":30.436585,
     "geom:longitude":-88.892872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10335 Diberville Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a6FQFWUUfI8VlFaK6Z0rD_30.436585_-88.892872@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123495,
-    "wof:geomhash":"c46ee7ffd83b32a5974dbabac34d9b13",
+    "wof:geomhash":"f26253f95cd4df322b951491f45395ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857166467,
-    "wof:lastmodified":1466636749,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

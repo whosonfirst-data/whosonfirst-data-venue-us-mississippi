@@ -2,14 +2,20 @@
   "id": 857360939,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Jeff Davis Ave Long Beach MS 39560",
+    "addr:housenumber":"101",
+    "addr:postcode":"39560",
+    "addr:street":"Jeff Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.150719,30.349432,-89.150719,30.349432",
     "geom:latitude":30.349432,
     "geom:longitude":-89.150719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Jeff Davis Ave",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wc0A8a0y3GeaaRSSeCDoP_30.349432_-89.150719@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127721,
-    "wof:geomhash":"1a2326caa3eee37b39749e55225b692d",
+    "wof:geomhash":"3854fb93262f79ec078ef3b8d1fffb53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857360939,
-    "wof:lastmodified":1466639441,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857265807,
   "type": "Feature",
   "properties": {
+    "addr:full":"7427 Goodman Rd Olive Branch MS 38654",
+    "addr:housenumber":"7427",
+    "addr:postcode":"38654",
+    "addr:street":"Goodman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.856492,34.962124,-89.856492,34.962124",
     "geom:latitude":34.962124,
     "geom:longitude":-89.856492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7427 Goodman Rd",
     "sg:city":"Olive Branch",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sAvptRvKEOGxZos9fe4Ir_34.962124_-89.856492@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125607,
-    "wof:geomhash":"b2f05a7d0d65b5d6c6a0cd2c3d00fedc",
+    "wof:geomhash":"a4d0c4ac1c9a8b746b1a329d9b2cd1fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857265807,
-    "wof:lastmodified":1466638051,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857330045,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Co Rd 1810 Tupelo MS 38866",
+    "addr:housenumber":"123",
+    "addr:postcode":"38866",
+    "addr:street":"Co Rd 1810",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857330045,
-    "wof:lastmodified":1466638846,
+    "wof:lastmodified":1472631371,
     "wof:name":"Monogram Magic",
     "wof:parent_id":85810531,
     "wof:placetype":"venue",

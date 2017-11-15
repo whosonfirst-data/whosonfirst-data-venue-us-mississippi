@@ -2,14 +2,20 @@
   "id": 857218573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2507 Hwy 39 N Meridian MS 39301",
+    "addr:housenumber":"2507",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 39 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684163,32.383069,-88.684163,32.383069",
     "geom:latitude":32.383069,
     "geom:longitude":-88.684163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2507 Hwy 39 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VpX9YJBogDvwO9Pj5Zv2z_32.383069_-88.684163@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124588,
-    "wof:geomhash":"e47dfff0d380c7b6f1ee07c4496d6dd2",
+    "wof:geomhash":"cfd1c30f009ccde003dc9d4f77dbb405",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857218573,
-    "wof:lastmodified":1466637296,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

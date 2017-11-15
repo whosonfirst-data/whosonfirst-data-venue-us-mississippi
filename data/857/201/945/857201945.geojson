@@ -2,14 +2,20 @@
   "id": 857201945,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Interstate Dr Richland MS 39218",
+    "addr:housenumber":"125",
+    "addr:postcode":"39218",
+    "addr:street":"Interstate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.158687,32.253244,-90.158687,32.253244",
     "geom:latitude":32.253244,
     "geom:longitude":-90.158687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Interstate Dr",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084869,
         85822509
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17my4ktIEQzxRohaxPTL7G_32.253244_-90.158687@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124212,
-    "wof:geomhash":"87e02a2cb755c0fdf155614f8be788d3",
+    "wof:geomhash":"287e79cdbfd6929c32f6e2df4f5d3d32",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857201945,
-    "wof:lastmodified":1466637157,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85822509,
     "wof:placetype":"venue",

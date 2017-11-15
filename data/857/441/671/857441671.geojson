@@ -2,14 +2,20 @@
   "id": 857441671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 Hwy 19 N Meridian MS 39307",
+    "addr:housenumber":"1920",
+    "addr:postcode":"39307",
+    "addr:street":"Hwy 19 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.742739,32.373702,-88.742739,32.373702",
     "geom:latitude":32.373702,
     "geom:longitude":-88.742739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1920 Hwy 19 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FmP8Y8v1iD19z2lQoWy1I_32.373702_-88.742739@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129599,
-    "wof:geomhash":"f43989f1ad41701ce2969f3aa68ab7af",
+    "wof:geomhash":"6af9799c186fefbd0bb31cc74e8701f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857441671,
-    "wof:lastmodified":1466640506,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

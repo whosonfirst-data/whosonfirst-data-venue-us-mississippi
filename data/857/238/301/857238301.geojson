@@ -2,14 +2,20 @@
   "id": 857238301,
   "type": "Feature",
   "properties": {
+    "addr:full":"4950 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"4950;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.149517,32.365695,-90.149517,32.365695",
     "geom:latitude":32.365695,
     "geom:longitude":-90.149517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4950 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39RlvjHMMoVWmOHfdYR1nr_32.365695_-90.149517@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124970,
-    "wof:geomhash":"edf6d101257cf859af158962dfffa311",
+    "wof:geomhash":"ad886cf7de54e04dcc89385944bfe3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857238301,
-    "wof:lastmodified":1466637561,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

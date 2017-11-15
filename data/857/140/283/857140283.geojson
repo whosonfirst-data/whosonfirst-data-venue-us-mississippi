@@ -2,6 +2,10 @@
   "id": 857140283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Co Rd 53 Myrtle MS 38650",
+    "addr:housenumber":"1013;53",
+    "addr:postcode":"38650",
+    "addr:street":"Co Rd;Myrtle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857140283,
-    "wof:lastmodified":1466636469,
+    "wof:lastmodified":1472631191,
     "wof:name":"Kizer Contractors Inc",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

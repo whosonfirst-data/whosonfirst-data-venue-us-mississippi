@@ -2,14 +2,20 @@
   "id": 857146597,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Crystal Plz New Albany MS 38652",
+    "addr:housenumber":"120",
+    "addr:postcode":"38652",
+    "addr:street":"Crystal Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.032055,34.49483,-89.032055,34.49483",
     "geom:latitude":34.49483,
     "geom:longitude":-89.032055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Crystal Plz",
     "sg:city":"New Albany",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081017,
         85821919
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QFjYDddhdCzg66UNnAdx0_34.494830_-89.032055@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123071,
-    "wof:geomhash":"c214b1951e3b4f7ba62b9871da372929",
+    "wof:geomhash":"1494f1f51e16312850a63024ad2ab9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857146597,
-    "wof:lastmodified":1466636539,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

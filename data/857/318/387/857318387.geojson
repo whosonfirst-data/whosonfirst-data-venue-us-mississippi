@@ -2,14 +2,20 @@
   "id": 857318387,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 N Hills St Meridian MS 39305",
+    "addr:housenumber":"720",
+    "addr:postcode":"39305",
+    "addr:street":"N Hills St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.685319,32.413811,-88.685319,32.413811",
     "geom:latitude":32.413811,
     "geom:longitude":-88.685319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 N Hills St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125152647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TMEehuTIVT9sNXQy4JQMy_32.413811_-88.685319@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126818,
-    "wof:geomhash":"a9f92910b7b48a7335597533147a383c",
+    "wof:geomhash":"d5257ae74355ac0b6389fa6b85ab4267",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857318387,
-    "wof:lastmodified":1466638740,
+    "wof:lastmodified":1510699629,
     "wof:name":"Continental Airlines",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

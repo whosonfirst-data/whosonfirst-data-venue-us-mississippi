@@ -2,14 +2,20 @@
   "id": 857203903,
   "type": "Feature",
   "properties": {
+    "addr:full":"3310 Old Mobile Ave Pascagoula MS 39581",
+    "addr:housenumber":"3310",
+    "addr:postcode":"39581",
+    "addr:street":"Old Mobile Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.526569,30.368384,-88.526569,30.368384",
     "geom:latitude":30.368384,
     "geom:longitude":-88.526569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3310 Old Mobile Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125154903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47uR8X2KnWXaKhjbsWXt9Z_30.368384_-88.526569@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124266,
-    "wof:geomhash":"37307cd19a5fe71c2d465728d18ada1c",
+    "wof:geomhash":"3478a4f19ce3b72427e1d67549bdc44a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857203903,
-    "wof:lastmodified":1466637193,
+    "wof:lastmodified":1510697536,
     "wof:name":"Massachusetts Mutual-Blue Chip",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

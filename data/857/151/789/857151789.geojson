@@ -2,6 +2,10 @@
   "id": 857151789,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Belk Blvd Oxford MS 38655",
+    "addr:housenumber":"1314",
+    "addr:postcode":"38655",
+    "addr:street":"Belk Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857151789,
-    "wof:lastmodified":1466636646,
+    "wof:lastmodified":1472631216,
     "wof:name":"Oxford Eye Surgery Center",
     "wof:parent_id":85852013,
     "wof:placetype":"venue",

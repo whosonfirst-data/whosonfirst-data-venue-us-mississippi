@@ -2,14 +2,20 @@
   "id": 857454961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 W Pine St Hattiesburg MS 39401",
+    "addr:housenumber":"1402",
+    "addr:postcode":"39401",
+    "addr:street":"W Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.306985,31.312075,-89.306985,31.312075",
     "geom:latitude":31.312075,
     "geom:longitude":-89.306985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1402 W Pine St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IEgdh6zkaYRy9iqRh9osd_31.312075_-89.306985@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129855,
-    "wof:geomhash":"c6368798127e139f3e6951f6e74ffab7",
+    "wof:geomhash":"d72ce10b0a3baba71d518599b99afd64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857454961,
-    "wof:lastmodified":1466640690,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

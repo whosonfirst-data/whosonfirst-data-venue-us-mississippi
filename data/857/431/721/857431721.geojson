@@ -2,14 +2,20 @@
   "id": 857431721,
   "type": "Feature",
   "properties": {
+    "addr:full":"1121 Hwy 82 E Starkville MS 39759",
+    "addr:housenumber":"1121",
+    "addr:postcode":"39759",
+    "addr:street":"Hwy 82 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.773341,33.469316,-88.773341,33.469316",
     "geom:latitude":33.469316,
     "geom:longitude":-88.773341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1121 Hwy 82 E",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85812519,
         102083159
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CctWMIrBipv6pJzI8ganr_33.469316_-88.773341@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129381,
-    "wof:geomhash":"ef3596edae63e9269831d84174e09162",
+    "wof:geomhash":"5534a955a9e2cccbebda733728294dda",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857431721,
-    "wof:lastmodified":1466640365,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85812519,
     "wof:placetype":"venue",

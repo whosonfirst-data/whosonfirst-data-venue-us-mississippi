@@ -2,14 +2,20 @@
   "id": 857409961,
   "type": "Feature",
   "properties": {
+    "addr:full":"9475 US Hwy 49 Gulfport MS 39503",
+    "addr:housenumber":"9475",
+    "addr:postcode":"39503",
+    "addr:street":"Us Hwy 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.092622,30.426066,-89.092622,30.426066",
     "geom:latitude":30.426066,
     "geom:longitude":-89.092622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9475 US Hwy 49",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":420574153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72k4vN65rEVWkQ4lYOHOZN_30.426066_-89.092622@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128831,
-    "wof:geomhash":"c438b7346f128209f167757c2cf00979",
+    "wof:geomhash":"39e1aff202b75f2a4846f8b746bd3432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857409961,
-    "wof:lastmodified":1466640067,
+    "wof:lastmodified":1510603951,
     "wof:name":"Best Western Inn",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

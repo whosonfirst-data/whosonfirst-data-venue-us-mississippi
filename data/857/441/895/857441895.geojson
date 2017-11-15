@@ -2,14 +2,20 @@
   "id": 857441895,
   "type": "Feature",
   "properties": {
+    "addr:full":"2016 Hwy 45 N Meridian MS 39301",
+    "addr:housenumber":"2016",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 45 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.680191,32.378487,-88.680191,32.378487",
     "geom:latitude":32.378487,
     "geom:longitude":-88.680191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2016 Hwy 45 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B3bhDCaYprZkvAjNa9QYg_32.378487_-88.680191@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129603,
-    "wof:geomhash":"3fb592258d1abf771a9505780775a538",
+    "wof:geomhash":"0109717c0ad5e544cf94644e3d7b1ec1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857441895,
-    "wof:lastmodified":1466640537,
+    "wof:lastmodified":1510607562,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

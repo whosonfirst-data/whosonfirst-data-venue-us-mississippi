@@ -2,14 +2,20 @@
   "id": 857163749,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 E Capitol St Jackson MS 39201",
+    "addr:housenumber":"234",
+    "addr:postcode":"39201",
+    "addr:street":"E Capitol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184694,32.299944,-90.184694,32.299944",
     "geom:latitude":32.299944,
     "geom:longitude":-90.184694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"234 E Capitol St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878403
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cZarvBPfh5YiB4QiwJBZR_32.299944_-90.184694@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123438,
-    "wof:geomhash":"eb6ae0527dc417f3295113cd1e780ae7",
+    "wof:geomhash":"74f5df96d230c9a050897db594e5c3e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857163749,
-    "wof:lastmodified":1466636758,
+    "wof:lastmodified":1510693942,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857334041,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Chambliss Dr Hattiesburg MS 39401",
+    "addr:housenumber":"123",
+    "addr:postcode":"39401",
+    "addr:street":"Chambliss Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857334041,
-    "wof:lastmodified":1466638942,
+    "wof:lastmodified":1472631383,
     "wof:name":"Right To Succeed",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

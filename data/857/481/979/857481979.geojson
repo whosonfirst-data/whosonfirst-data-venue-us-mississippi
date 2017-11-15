@@ -2,6 +2,10 @@
   "id": 857481979,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Grandview Dr Madison MS 39110",
+    "addr:housenumber":"123",
+    "addr:postcode":"39110",
+    "addr:street":"Grandview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":857481979,
-    "wof:lastmodified":1466641048,
+    "wof:lastmodified":1472631551,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

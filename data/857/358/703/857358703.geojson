@@ -2,14 +2,20 @@
   "id": 857358703,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 26th Ave S Meridian MS 39301",
+    "addr:housenumber":"100",
+    "addr:postcode":"39301",
+    "addr:street":"26Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.700716,32.359175,-88.700716,32.359175",
     "geom:latitude":32.359175,
     "geom:longitude":-88.700716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 26th Ave S",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qw6ZNsgXqXRZ6VSRQcy1a_32.359175_-88.700716@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127673,
-    "wof:geomhash":"33d862e4306f6636e598415a57cbd2e1",
+    "wof:geomhash":"43b082c1a32d6ee0e95e92f198e3d988",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857358703,
-    "wof:lastmodified":1466639384,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

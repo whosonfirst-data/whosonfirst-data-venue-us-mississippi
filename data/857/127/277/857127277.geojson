@@ -2,14 +2,20 @@
   "id": 857127277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1918 Military Rd Columbus MS 39701",
+    "addr:housenumber":"1918",
+    "addr:postcode":"39701",
+    "addr:street":"Military Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.416528,33.51605,-88.416528,33.51605",
     "geom:latitude":33.51605,
     "geom:longitude":-88.416528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1918 Military Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25CmsQWKTCKlkTBL42t7yR_33.516050_-88.416528@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122612,
-    "wof:geomhash":"3864f702f8fcc3625b269b507674d216",
+    "wof:geomhash":"f04f7501abfd2117c0c655d59081b57f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857127277,
-    "wof:lastmodified":1466636327,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

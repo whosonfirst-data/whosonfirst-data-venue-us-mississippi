@@ -2,14 +2,20 @@
   "id": 857089087,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Old Rawls Springs Rd Hattiesburg MS 39402",
+    "addr:housenumber":"70",
+    "addr:postcode":"39402",
+    "addr:street":"Old Rawls Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.363931,31.372877,-89.363931,31.372877",
     "geom:latitude":31.372877,
     "geom:longitude":-89.363931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 Old Rawls Springs Rd",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85855649
     ],
+    "wof:brand_id":1125159647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wkBvUAIEHYeIKuHM7DZ1B_31.372877_-89.363931@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121645,
-    "wof:geomhash":"7d5198e91af98e25e6a7de4bb101ce68",
+    "wof:geomhash":"e2adc83ee70da031cc490a99772ce2c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857089087,
-    "wof:lastmodified":1466635791,
+    "wof:lastmodified":1510694691,
     "wof:name":"Pepsi-Cola Co",
     "wof:parent_id":85855649,
     "wof:placetype":"venue",

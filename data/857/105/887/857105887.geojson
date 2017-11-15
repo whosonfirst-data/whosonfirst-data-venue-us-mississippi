@@ -2,6 +2,10 @@
   "id": 857105887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1037 Co Rd 64 N New Albany MS 38652",
+    "addr:housenumber":"1037;64",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd;N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857105887,
-    "wof:lastmodified":1466636172,
+    "wof:lastmodified":1472631165,
     "wof:name":"Cary Cobb Vinyl Siding",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

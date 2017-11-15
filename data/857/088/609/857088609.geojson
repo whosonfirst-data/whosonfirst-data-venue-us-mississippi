@@ -2,14 +2,20 @@
   "id": 857088609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 14th St Meridian MS 39301",
+    "addr:housenumber":"1500",
+    "addr:postcode":"39301",
+    "addr:street":"14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.694456,32.37059,-88.694456,32.37059",
     "geom:latitude":32.37059,
     "geom:longitude":-88.694456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 14th St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125153809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fSk0W90W7MPGtlb2XgWtT_32.370590_-88.694456@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121630,
-    "wof:geomhash":"12d0c45ec626462489a184c60242afb0",
+    "wof:geomhash":"3035a7b6c4635d5fcd6acfaf4349ed8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857088609,
-    "wof:lastmodified":1466635871,
+    "wof:lastmodified":1510695263,
     "wof:name":"Rotech",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

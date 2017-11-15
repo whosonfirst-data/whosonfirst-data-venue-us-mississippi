@@ -2,14 +2,20 @@
   "id": 857284403,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 Taylor St Jackson MS 39216",
+    "addr:housenumber":"138",
+    "addr:postcode":"39216",
+    "addr:street":"Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.183102,32.332948,-90.183102,32.332948",
     "geom:latitude":32.332948,
     "geom:longitude":-90.183102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"138 Taylor St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081407,
         85878397
     ],
+    "wof:brand_id":1125150465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R1ry6AGSy1mBsDP0Txm9Z_32.332948_-90.183102@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126008,
-    "wof:geomhash":"a74cc1e2bfbd22eaea28208240a87ddb",
+    "wof:geomhash":"73d27416b55c1235fb87dacb60a27c96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857284403,
-    "wof:lastmodified":1466638307,
+    "wof:lastmodified":1510694143,
     "wof:name":"Pre-Paid Legal Svc Inc",
     "wof:parent_id":85878397,
     "wof:placetype":"venue",

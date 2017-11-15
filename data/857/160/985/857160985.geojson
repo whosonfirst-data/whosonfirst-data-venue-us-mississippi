@@ -2,14 +2,20 @@
   "id": 857160985,
   "type": "Feature",
   "properties": {
+    "addr:full":"292 Eisenhower Dr Biloxi MS 39531",
+    "addr:housenumber":"292",
+    "addr:postcode":"39531",
+    "addr:street":"Eisenhower Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.993454,30.399826,-88.993454,30.399826",
     "geom:latitude":30.399826,
     "geom:longitude":-88.993454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"292 Eisenhower Dr",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DzQfHJyAnsGCfWHtj7TUY_30.399826_-88.993454@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123367,
-    "wof:geomhash":"742a6437e06c5ddce393d43b3e90f780",
+    "wof:geomhash":"0c424a844d872ae3e6aca87b7ac7b1db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857160985,
-    "wof:lastmodified":1466636719,
+    "wof:lastmodified":1510602998,
     "wof:name":"Hancock Fabrics",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857422815,
   "type": "Feature",
   "properties": {
+    "addr:full":"5380 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5380;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857422815,
-    "wof:lastmodified":1466640212,
+    "wof:lastmodified":1472631505,
     "wof:name":"CenturyTel",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

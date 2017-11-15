@@ -2,14 +2,20 @@
   "id": 857121203,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 US Hwy 51 Jackson MS 39201",
+    "addr:housenumber":"224",
+    "addr:postcode":"39201",
+    "addr:street":"Us Hwy 51",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.180751,32.297373,-90.180751,32.297373",
     "geom:latitude":32.297373,
     "geom:longitude":-90.180751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"224 US Hwy 51",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081407,
         85878391
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y1pIQx0LTgTsVjPtSDOc5_32.297373_-90.180751@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122476,
-    "wof:geomhash":"01ed9c29963d11e83011765b7ca88a36",
+    "wof:geomhash":"cb8981957a1548979e9af8c46d7832ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857121203,
-    "wof:lastmodified":1466636219,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

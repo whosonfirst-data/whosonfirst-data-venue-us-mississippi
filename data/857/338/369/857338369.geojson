@@ -2,14 +2,20 @@
   "id": 857338369,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Birch Island Dr Nesbit MS 38651",
+    "addr:housenumber":"2601",
+    "addr:postcode":"38651",
+    "addr:street":"Birch Island Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.907092,34.897904,-89.907092,34.897904",
     "geom:latitude":34.897904,
     "geom:longitude":-89.907092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 Birch Island Dr",
     "sg:city":"Nesbit",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085895,
         85833095
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IH0z8liQaN5noOFDFMYVg_34.897904_-89.907092@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127239,
-    "wof:geomhash":"5e83def8c83440246767713c67a1cad5",
+    "wof:geomhash":"4bef6e2c6c59bf6efa54a46cbc4cd029",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857338369,
-    "wof:lastmodified":1466639032,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",

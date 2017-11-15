@@ -2,14 +2,20 @@
   "id": 857349785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 22nd Ave Meridian MS 39301",
+    "addr:housenumber":"1312",
+    "addr:postcode":"39301",
+    "addr:street":"22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.700523,32.370676,-88.700523,32.370676",
     "geom:latitude":32.370676,
     "geom:longitude":-88.700523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1312 22nd Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37e52l3USBDK0isseqpMHW_32.370676_-88.700523@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127481,
-    "wof:geomhash":"0ad4fbe0cdb55c4775ce2d0893da4f54",
+    "wof:geomhash":"001753c60796ae024966a5ff5e8bfda0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857349785,
-    "wof:lastmodified":1466639272,
+    "wof:lastmodified":1510697771,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

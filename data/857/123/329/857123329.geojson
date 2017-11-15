@@ -2,14 +2,20 @@
   "id": 857123329,
   "type": "Feature",
   "properties": {
+    "addr:full":"6352 Ridgewood Court Dr Jackson MS 39211",
+    "addr:housenumber":"6352",
+    "addr:postcode":"39211",
+    "addr:street":"Ridgewood Court Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.139162,32.398434,-90.139162,32.398434",
     "geom:latitude":32.398434,
     "geom:longitude":-90.139162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6352 Ridgewood Court Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85822959
     ],
+    "wof:brand_id":1125151697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_312RiLf01BtiQRY6sBZVvC_32.398434_-90.139162@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122536,
-    "wof:geomhash":"ea477e7f4def67d2948564e62973dcbd",
+    "wof:geomhash":"4b3a498df2aec6cec6230be38b8e0b51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857123329,
-    "wof:lastmodified":1466636249,
+    "wof:lastmodified":1510693897,
     "wof:name":"On The Border",
     "wof:parent_id":85822959,
     "wof:placetype":"venue",

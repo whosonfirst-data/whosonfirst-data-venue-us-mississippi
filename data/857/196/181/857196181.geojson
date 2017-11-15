@@ -2,14 +2,20 @@
   "id": 857196181,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 Beaver Creek Dr Ridgeland MS 39157",
+    "addr:housenumber":"313",
+    "addr:postcode":"39157",
+    "addr:street":"Beaver Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118222,32.437311,-90.118222,32.437311",
     "geom:latitude":32.437311,
     "geom:longitude":-90.118222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"313 Beaver Creek Dr",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":1125152785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uMffGidfeWMm4Z5gmyDsc_32.437311_-90.118222@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124103,
-    "wof:geomhash":"b0a2759ea69e622fc107db7b20dc2bcb",
+    "wof:geomhash":"b21b4413519e5df0c501fc334d429751",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857196181,
-    "wof:lastmodified":1466637000,
+    "wof:lastmodified":1510697423,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

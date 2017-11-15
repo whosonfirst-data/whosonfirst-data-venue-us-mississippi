@@ -2,6 +2,10 @@
   "id": 857117193,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Heritage Dr Oxford MS 38655",
+    "addr:housenumber":"123",
+    "addr:postcode":"38655",
+    "addr:street":"Heritage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857117193,
-    "wof:lastmodified":1466636207,
+    "wof:lastmodified":1472631169,
     "wof:name":"RCC Holdings Inc",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857490605,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E Ford St Ste D Ridgeland MS 39157",
+    "addr:housenumber":"123",
+    "addr:postcode":"39157",
+    "addr:street":"E Ford St Ste D Ridgeland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":857490605,
-    "wof:lastmodified":1466641137,
+    "wof:lastmodified":1472631556,
     "wof:name":"Mike's Auto Parts",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

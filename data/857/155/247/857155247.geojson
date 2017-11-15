@@ -2,6 +2,10 @@
   "id": 857155247,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Co Rd 198 Oxford MS 38655",
+    "addr:housenumber":"36;198",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857155247,
-    "wof:lastmodified":1466636602,
+    "wof:lastmodified":1472631203,
     "wof:name":"L-Cub Scientific Inc",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

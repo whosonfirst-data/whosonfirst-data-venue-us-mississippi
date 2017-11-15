@@ -2,14 +2,20 @@
   "id": 857427875,
   "type": "Feature",
   "properties": {
+    "addr:full":"6222 Old Canton Rd Jackson MS 39211",
+    "addr:housenumber":"6222",
+    "addr:postcode":"39211",
+    "addr:street":"Old Canton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.112715,32.391169,-90.112715,32.391169",
     "geom:latitude":32.391169,
     "geom:longitude":-90.112715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6222 Old Canton Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081407,
         85845725
     ],
+    "wof:brand_id":1125154033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sanbK3jY9MNA8yY2v8ouF_32.391169_-90.112715@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129295,
-    "wof:geomhash":"e35b3f27f1ccba4ea3b8e47d9b10feaf",
+    "wof:geomhash":"d15e92022df2c6f30fe76f5df55c0291",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857427875,
-    "wof:lastmodified":1466640334,
+    "wof:lastmodified":1510696082,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":85845725,
     "wof:placetype":"venue",

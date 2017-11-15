@@ -2,14 +2,20 @@
   "id": 857161555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 N State St Clarksdale MS 38614",
+    "addr:housenumber":"1600",
+    "addr:postcode":"38614",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.555644,34.197286,-90.555644,34.197286",
     "geom:latitude":34.197286,
     "geom:longitude":-90.555644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 N State St",
     "sg:city":"Clarksdale",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080633,
         85836181
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73SPpnTzkTnLeaH15XHGAO_34.197286_-90.555644@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123393,
-    "wof:geomhash":"bd5020ff6054289721b5cab3601890c2",
+    "wof:geomhash":"3263e3f5f790bde546030e66cd5a91d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857161555,
-    "wof:lastmodified":1466636672,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85836181,
     "wof:placetype":"venue",

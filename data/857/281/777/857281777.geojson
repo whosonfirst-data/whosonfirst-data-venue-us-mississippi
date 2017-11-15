@@ -2,14 +2,20 @@
   "id": 857281777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3906 Hwy 373 Columbus MS 39705",
+    "addr:housenumber":"3906",
+    "addr:postcode":"39705",
+    "addr:street":"Hwy 373",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.459342,33.660392,-88.459342,33.660392",
     "geom:latitude":33.660392,
     "geom:longitude":-88.459342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3906 Hwy 373",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":1125159905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UWcfIWDPOyQsO30DQxzpV_33.660392_-88.459342@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125958,
-    "wof:geomhash":"50179457235338106e93efe07a47d443",
+    "wof:geomhash":"59cd1c8cfb63ea763f8fffa45e22c2f3",
     "wof:hierarchy":[
         {
             "campus_id":102526311,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857281777,
-    "wof:lastmodified":1466638270,
+    "wof:lastmodified":1510613334,
     "wof:name":"Joe's Place",
     "wof:parent_id":102526311,
     "wof:placetype":"venue",

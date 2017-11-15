@@ -2,14 +2,20 @@
   "id": 857288533,
   "type": "Feature",
   "properties": {
+    "addr:full":"6923 Old Canton Rd Ridgeland MS 39158",
+    "addr:housenumber":"6923",
+    "addr:postcode":"39158",
+    "addr:street":"Old Canton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.106409,32.414866,-90.106409,32.414866",
     "geom:latitude":32.414866,
     "geom:longitude":-90.106409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6923 Old Canton Rd",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085905,
         85821249
     ],
+    "wof:brand_id":1125155409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jbHyaKqAku0nhldKKK20t_32.414866_-90.106409@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126097,
-    "wof:geomhash":"b555e2e6ca3668e402b263deb5055849",
+    "wof:geomhash":"b890957d9702b12fa87ae1d87b73c102",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857288533,
-    "wof:lastmodified":1466638360,
+    "wof:lastmodified":1510695076,
     "wof:name":"Palm Beach Tan",
     "wof:parent_id":85821249,
     "wof:placetype":"venue",

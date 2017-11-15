@@ -2,14 +2,20 @@
   "id": 857475215,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Old Richton Rd Petal MS 39465",
+    "addr:housenumber":"720",
+    "addr:postcode":"39465",
+    "addr:street":"Old Richton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.248833,31.356487,-89.248833,31.356487",
     "geom:latitude":31.356487,
     "geom:longitude":-89.248833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 Old Richton Rd",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gTCSCffhFJGw4xJIGimib_31.356487_-89.248833@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130283,
-    "wof:geomhash":"1d6348cf3334e5c9acfb4746b914b711",
+    "wof:geomhash":"ae48e14c55ca856b515c498ec8716932",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857475215,
-    "wof:lastmodified":1466640853,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

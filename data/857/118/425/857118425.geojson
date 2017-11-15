@@ -2,14 +2,20 @@
   "id": 857118425,
   "type": "Feature",
   "properties": {
+    "addr:full":"3140 52nd St Meridian MS 39305",
+    "addr:housenumber":"3140",
+    "addr:postcode":"39305",
+    "addr:street":"52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.710304,32.413841,-88.710304,32.413841",
     "geom:latitude":32.413841,
     "geom:longitude":-88.710304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3140 52nd St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kJySOOg1Q8EIYEGHY9rdd_32.413841_-88.710304@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122419,
-    "wof:geomhash":"b3c73429fc4021ffd7744ce65af924df",
+    "wof:geomhash":"2f3dc7e6eaf1f92d6491e97b7776cb6c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857118425,
-    "wof:lastmodified":1466636237,
+    "wof:lastmodified":1510602388,
     "wof:name":"Hardee's",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857285873,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"4500;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857285873,
-    "wof:lastmodified":1466638431,
+    "wof:lastmodified":1472631348,
     "wof:name":"Olde Tyme Commissary-Jackson",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

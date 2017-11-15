@@ -2,14 +2,20 @@
   "id": 857170491,
   "type": "Feature",
   "properties": {
+    "addr:full":"10510 US Hwy 49 Gulfport MS 39503",
+    "addr:housenumber":"10510",
+    "addr:postcode":"39503",
+    "addr:street":"Us Hwy 49",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.097557,30.439932,-89.097557,30.439932",
     "geom:latitude":30.439932,
     "geom:longitude":-89.097557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10510 US Hwy 49",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vrhkuw8ZoCVBJVsnTJekK_30.439932_-89.097557@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123595,
-    "wof:geomhash":"99ecb1dd4893aebbfa77cf0eafef26da",
+    "wof:geomhash":"0471aad9de72f6217deab43e4de85f28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857170491,
-    "wof:lastmodified":1466636765,
+    "wof:lastmodified":1510694749,
     "wof:name":"O'Charley's",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

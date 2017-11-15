@@ -2,6 +2,10 @@
   "id": 857095223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 Co Rd 278 Blue Springs MS 38828",
+    "addr:housenumber":"1740;278",
+    "addr:postcode":"38828",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857095223,
-    "wof:lastmodified":1466635952,
+    "wof:lastmodified":1472631151,
     "wof:name":"Blue Springs Auto Sales",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

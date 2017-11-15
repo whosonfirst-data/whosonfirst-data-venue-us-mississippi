@@ -2,14 +2,20 @@
   "id": 857357413,
   "type": "Feature",
   "properties": {
+    "addr:full":"164 Harris Dr Columbus MS 39705",
+    "addr:housenumber":"164",
+    "addr:postcode":"39705",
+    "addr:street":"Harris Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.43379,33.5806,-88.43379,33.5806",
     "geom:latitude":33.5806,
     "geom:longitude":-88.43379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"164 Harris Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081023,
         85822905
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q00LiXvWHmwCDkIGO8RNk_33.580600_-88.433790@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127642,
-    "wof:geomhash":"05b037c459e2acffd9f7b544df527c21",
+    "wof:geomhash":"d178826f8eb96b3517bade0517bf0a94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857357413,
-    "wof:lastmodified":1466639314,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",

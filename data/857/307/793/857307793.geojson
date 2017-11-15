@@ -2,14 +2,20 @@
   "id": 857307793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Broadway Dr Hattiesburg MS 39401",
+    "addr:housenumber":"1000",
+    "addr:postcode":"39401",
+    "addr:street":"Broadway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.312393,31.310856,-89.312393,31.310856",
     "geom:latitude":31.310856,
     "geom:longitude":-89.312393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Broadway Dr",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086673,
         85857239
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r8CfDwusaLJtnsytwdVjY_31.310856_-89.312393@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126573,
-    "wof:geomhash":"d58d840ac1089fb08b95caf2c85c46c6",
+    "wof:geomhash":"f387ebc39dd93a99a507f05900f7f9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857307793,
-    "wof:lastmodified":1466638669,
+    "wof:lastmodified":1510602488,
     "wof:name":"Fred's Store",
     "wof:parent_id":85857239,
     "wof:placetype":"venue",

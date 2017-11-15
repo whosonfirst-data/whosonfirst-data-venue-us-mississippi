@@ -2,14 +2,20 @@
   "id": 857101291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2740 Crawford Rd Crawford MS 39743",
+    "addr:housenumber":"2740",
+    "addr:postcode":"39743",
+    "addr:street":"Crawford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684079,33.352682,-88.684079,33.352682",
     "geom:latitude":33.352682,
     "geom:longitude":-88.684079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2740 Crawford Rd",
     "sg:city":"Crawford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083159,
         85822925
     ],
+    "wof:brand_id":1125155795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vLV2kyZ0eXjnHl1iIXgSd_33.352682_-88.684079@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464121946,
-    "wof:geomhash":"654571ba4d4483094395ebadefa971c5",
+    "wof:geomhash":"e35de1b9d0bd6bfd21a536bcb13d5c92",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857101291,
-    "wof:lastmodified":1466635977,
+    "wof:lastmodified":1510697086,
     "wof:name":"Marine Corps League",
     "wof:parent_id":85822925,
     "wof:placetype":"venue",

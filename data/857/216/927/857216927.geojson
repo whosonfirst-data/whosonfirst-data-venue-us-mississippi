@@ -2,14 +2,20 @@
   "id": 857216927,
   "type": "Feature",
   "properties": {
+    "addr:full":"533 Courthouse Rd Gulfport MS 39507",
+    "addr:housenumber":"533",
+    "addr:postcode":"39507",
+    "addr:street":"Courthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.044261,30.388623,-89.044261,30.388623",
     "geom:latitude":30.388623,
     "geom:longitude":-89.044261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"533 Courthouse Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hP2pvCu6ekvpajJcm3bwu_30.388623_-89.044261@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124549,
-    "wof:geomhash":"9a8650b8bfeac9ad6bbbe5f9ea2d76cd",
+    "wof:geomhash":"20fa87c3d339e5f7ba34411960020fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857216927,
-    "wof:lastmodified":1466637360,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

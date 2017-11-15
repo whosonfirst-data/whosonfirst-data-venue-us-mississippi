@@ -2,14 +2,20 @@
   "id": 857415617,
   "type": "Feature",
   "properties": {
+    "addr:full":"918 45th Ave Meridian MS 39307",
+    "addr:housenumber":"918",
+    "addr:postcode":"39307",
+    "addr:street":"45Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.722953,32.366826,-88.722953,32.366826",
     "geom:latitude":32.366826,
     "geom:longitude":-88.722953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"918 45th Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59jfghrJpCckpy7mA5CNFm_32.366826_-88.722953@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128991,
-    "wof:geomhash":"4a837b6502c9c29d85b619684b3fd6b1",
+    "wof:geomhash":"9067d7bac22300e85829964243dcdf98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857415617,
-    "wof:lastmodified":1466640106,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",

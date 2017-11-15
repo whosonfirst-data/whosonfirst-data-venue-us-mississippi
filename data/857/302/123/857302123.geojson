@@ -2,14 +2,20 @@
   "id": 857302123,
   "type": "Feature",
   "properties": {
+    "addr:full":"14165 Dedeaux Rd Gulfport MS 39503",
+    "addr:housenumber":"14165",
+    "addr:postcode":"39503",
+    "addr:street":"Dedeaux Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.074458,30.449401,-89.074458,30.449401",
     "geom:latitude":30.449401,
     "geom:longitude":-89.074458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14165 Dedeaux Rd",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85868905
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XGb1uM7BFNno8Uw2xUNSc_30.449401_-89.074458@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126458,
-    "wof:geomhash":"be6d280b839c30876487bcfd1f373f5a",
+    "wof:geomhash":"f281b90f2f935bef88f29aa78da4eeca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857302123,
-    "wof:lastmodified":1466638475,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85868905,
     "wof:placetype":"venue",

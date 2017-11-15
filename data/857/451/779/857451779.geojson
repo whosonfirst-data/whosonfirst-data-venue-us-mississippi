@@ -2,14 +2,20 @@
   "id": 857451779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1634 W 7th St Hattiesburg MS 39401",
+    "addr:housenumber":"1634",
+    "addr:postcode":"39401",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.321938,31.335616,-89.321938,31.335616",
     "geom:latitude":31.335616,
     "geom:longitude":-89.321938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1634 W 7th St",
     "sg:city":"Hattiesburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85848011
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aTq2l5B6jgw1BJL5G0STs_31.335616_-89.321938@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129796,
-    "wof:geomhash":"2d3fadc313d1e971fed6a6d2efdd2273",
+    "wof:geomhash":"9b86eb3a9b14b67fb851dd0e19691e1b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857451779,
-    "wof:lastmodified":1466640594,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85848011,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857200917,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Enterprise Dr Madison MS 39110",
+    "addr:housenumber":"143",
+    "addr:postcode":"39110",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857200917,
-    "wof:lastmodified":1466637150,
+    "wof:lastmodified":1472631256,
     "wof:name":"Southeastern Automatic",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

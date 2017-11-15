@@ -2,14 +2,20 @@
   "id": 857138815,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Dogwood Pl Flowood MS 39232",
+    "addr:housenumber":"106",
+    "addr:postcode":"39232",
+    "addr:street":"Dogwood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053726,32.340293,-90.053726,32.340293",
     "geom:latitude":32.340293,
     "geom:longitude":-90.053726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Dogwood Pl",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084869,
         85831643
     ],
+    "wof:brand_id":420575533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HN5tOuGRPREYOvW4UR16X_32.340293_-90.053726@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122866,
-    "wof:geomhash":"610f609c9100a11377e44759c0e5e627",
+    "wof:geomhash":"3f87445bcfcaadca2e04588fae221d9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857138815,
-    "wof:lastmodified":1466636507,
+    "wof:lastmodified":1510602513,
     "wof:name":"Bombay Co",
     "wof:parent_id":85831643,
     "wof:placetype":"venue",

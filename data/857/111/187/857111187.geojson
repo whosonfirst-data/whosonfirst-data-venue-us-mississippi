@@ -2,14 +2,20 @@
   "id": 857111187,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Heslip St Pelahatchie MS 39145",
+    "addr:housenumber":"508",
+    "addr:postcode":"39145",
+    "addr:street":"Heslip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.793147,32.309418,-89.793147,32.309418",
     "geom:latitude":32.309418,
     "geom:longitude":-89.793147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 Heslip St",
     "sg:city":"Pelahatchie",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z2zkL3EHqOGn5hB8CVggz_32.309418_-89.793147@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122212,
-    "wof:geomhash":"4a1ed0650ed0849c34db2cc086b98a7a",
+    "wof:geomhash":"93826f684881ed46eda0779384b56441",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857111187,
-    "wof:lastmodified":1466636086,
+    "wof:lastmodified":1510695772,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

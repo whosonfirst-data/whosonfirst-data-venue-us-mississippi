@@ -2,6 +2,10 @@
   "id": 857189719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1169 Co Rd 101 New Albany MS 38652",
+    "addr:housenumber":"1169;101",
+    "addr:postcode":"38652",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857189719,
-    "wof:lastmodified":1466636994,
+    "wof:lastmodified":1472631233,
     "wof:name":"Jolly Meter Service",
     "wof:parent_id":85821919,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857209015,
   "type": "Feature",
   "properties": {
+    "addr:full":"2499 Old Spanish Trl Gautier MS 39553",
+    "addr:housenumber":"2499",
+    "addr:postcode":"39553",
+    "addr:street":"Old Spanish Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.648319,30.388171,-88.648319,30.388171",
     "geom:latitude":30.388171,
     "geom:longitude":-88.648319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2499 Old Spanish Trl",
     "sg:city":"Gautier",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sjodTeladYHDpdk8zW6t4_30.388171_-88.648319@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124370,
-    "wof:geomhash":"c79429f6835d5cc80b8f4577662c013a",
+    "wof:geomhash":"9b8fa43e4151244ecfaf5c27facf4b57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857209015,
-    "wof:lastmodified":1466637128,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

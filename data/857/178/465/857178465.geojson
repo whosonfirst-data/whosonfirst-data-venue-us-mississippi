@@ -2,6 +2,10 @@
   "id": 857178465,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 S West St Jackson MS 39201",
+    "addr:housenumber":"412",
+    "addr:postcode":"west;39201",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":857178465,
-    "wof:lastmodified":1466636860,
+    "wof:lastmodified":1472631224,
     "wof:name":"Transportation Geotechnical",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

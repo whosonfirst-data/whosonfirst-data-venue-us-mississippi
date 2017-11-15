@@ -2,14 +2,20 @@
   "id": 857115595,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 Water St Biloxi MS 39530",
+    "addr:housenumber":"717",
+    "addr:postcode":"39530",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.886106,30.394565,-88.886106,30.394565",
     "geom:latitude":30.394565,
     "geom:longitude":-88.886106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"717 Water St",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SInHWp51MSywzTydrByZj_30.394565_-88.886106@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122327,
-    "wof:geomhash":"ee954291b9648d5eba3c78235ff58b93",
+    "wof:geomhash":"72533db23385438b9a9580e3dfa86e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857115595,
-    "wof:lastmodified":1466636226,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

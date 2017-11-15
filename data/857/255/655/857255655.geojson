@@ -2,14 +2,20 @@
   "id": 857255655,
   "type": "Feature",
   "properties": {
+    "addr:full":"3545 Lakeland Dr Flowood MS 39232",
+    "addr:housenumber":"3545",
+    "addr:postcode":"39232",
+    "addr:street":"Lakeland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.08144,32.339145,-90.08144,32.339145",
     "geom:latitude":32.339145,
     "geom:longitude":-90.08144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3545 Lakeland Dr",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084869,
         85831643
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N2bmRJ6Fej3NInvxCNEzt_32.339145_-90.081440@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125389,
-    "wof:geomhash":"1d92ece754e4d12857f79d642ea5f522",
+    "wof:geomhash":"b2440206284307f250f5b7e626b672a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857255655,
-    "wof:lastmodified":1466637876,
+    "wof:lastmodified":1510604329,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85831643,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857172457,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Rue Magnolia Biloxi MS 39530",
+    "addr:housenumber":"125",
+    "addr:postcode":"39530",
+    "addr:street":"Rue Magnolia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.889028,30.395217,-88.889028,30.395217",
     "geom:latitude":30.395217,
     "geom:longitude":-88.889028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Rue Magnolia",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125159289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bReFdTGfJZBPkFCDJfhYn_30.395217_-88.889028@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123636,
-    "wof:geomhash":"07f41c6ce6306682d4b4c812c1a6bd52",
+    "wof:geomhash":"e1da22608d789bbb375890ad7831ae12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857172457,
-    "wof:lastmodified":1466636780,
+    "wof:lastmodified":1510696632,
     "wof:name":"Lawyers Title",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

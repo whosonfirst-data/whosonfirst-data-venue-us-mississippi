@@ -2,14 +2,20 @@
   "id": 857245651,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 Westside Dr Tupelo MS 38801",
+    "addr:housenumber":"4020",
+    "addr:postcode":"38801",
+    "addr:street":"Westside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.773036,34.250794,-88.773036,34.250794",
     "geom:latitude":34.250794,
     "geom:longitude":-88.773036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4020 Westside Dr",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083171,
         85852479
     ],
+    "wof:brand_id":1125159193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wjNhOHVNsTEOuBB5Z6RJ0_34.250794_-88.773036@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125152,
-    "wof:geomhash":"9e0f66d6572cf79ef8270f8283616b54",
+    "wof:geomhash":"44d0437b9779ffd4b86cc8ca0a94f94a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857245651,
-    "wof:lastmodified":1466637708,
+    "wof:lastmodified":1510694591,
     "wof:name":"Checkmate",
     "wof:parent_id":85852479,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 857265271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 John Cove Oxford MS 38655",
+    "addr:housenumber":"2001",
+    "addr:postcode":"38655",
+    "addr:street":"John Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857265271,
-    "wof:lastmodified":1466637954,
+    "wof:lastmodified":1472631307,
     "wof:name":"One Anderson Place",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

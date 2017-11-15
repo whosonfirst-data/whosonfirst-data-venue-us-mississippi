@@ -2,14 +2,20 @@
   "id": 857122889,
   "type": "Feature",
   "properties": {
+    "addr:full":"547 Sunrise Rd Petal MS 39465",
+    "addr:housenumber":"547",
+    "addr:postcode":"39465",
+    "addr:street":"Sunrise Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.192079,31.321766,-89.192079,31.321766",
     "geom:latitude":31.321766,
     "geom:longitude":-89.192079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"547 Sunrise Rd",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125153613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aGPPmoWOY1frGlHEq7eaU_31.321766_-89.192079@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122527,
-    "wof:geomhash":"d88b350580953b2a931b23649859e768",
+    "wof:geomhash":"7e17ed251886cb94c5dc5b3f110a9f80",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857122889,
-    "wof:lastmodified":1466636310,
+    "wof:lastmodified":1510697971,
     "wof:name":"International Brotherhood",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

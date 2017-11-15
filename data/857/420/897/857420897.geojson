@@ -2,14 +2,20 @@
   "id": 857420897,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Sunline Dr Brandon MS 39042",
+    "addr:housenumber":"53",
+    "addr:postcode":"39042",
+    "addr:street":"Sunline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.01711,32.291371,-90.01711,32.291371",
     "geom:latitude":32.291371,
     "geom:longitude":-90.01711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53 Sunline Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084869,
         85853479
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XLqV5mKJXqrV3ahFV6ZkF_32.291371_-90.017110@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129126,
-    "wof:geomhash":"d7a248e6e0a2eae5d1736d8ac92f40fa",
+    "wof:geomhash":"4973eddb7c7581492b42d34d3672761a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857420897,
-    "wof:lastmodified":1466640209,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",

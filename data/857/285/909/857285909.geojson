@@ -2,14 +2,20 @@
   "id": 857285909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2804 Old Mobile Ave Pascagoula MS 39567",
+    "addr:housenumber":"2804",
+    "addr:postcode":"39567",
+    "addr:street":"Old Mobile Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.533422,30.368395,-88.533422,30.368395",
     "geom:latitude":30.368395,
     "geom:longitude":-88.533422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2804 Old Mobile Ave",
     "sg:city":"Pascagoula",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083161,
         85816787
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vLrNZA0db6T6achNHfbFw_30.368395_-88.533422@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126043,
-    "wof:geomhash":"989b61f0711746b21b8bd554f2bd8bc1",
+    "wof:geomhash":"ae8af4b208b38fbea2512b5f31cb114b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857285909,
-    "wof:lastmodified":1466638437,
+    "wof:lastmodified":1510693755,
     "wof:name":"Video Plus",
     "wof:parent_id":85816787,
     "wof:placetype":"venue",

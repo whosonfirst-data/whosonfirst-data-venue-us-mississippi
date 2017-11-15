@@ -2,6 +2,10 @@
   "id": 857318269,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 North St Jackson MS 39202",
+    "addr:housenumber":"666",
+    "addr:postcode":"39202",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857318269,
-    "wof:lastmodified":1466638718,
+    "wof:lastmodified":1472631370,
     "wof:name":"US Federal Highway Adm",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",

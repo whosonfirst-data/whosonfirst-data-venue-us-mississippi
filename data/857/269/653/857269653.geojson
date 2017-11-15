@@ -2,14 +2,20 @@
   "id": 857269653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1331 Hwy 42 Petal MS 39465",
+    "addr:housenumber":"1331",
+    "addr:postcode":"39465",
+    "addr:street":"Hwy 42",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.192382,31.35061,-89.192382,31.35061",
     "geom:latitude":31.35061,
     "geom:longitude":-89.192382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1331 Hwy 42",
     "sg:city":"Petal",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086673,
         85858833
     ],
+    "wof:brand_id":1125152997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60ZudzN1Nd5UPbS61YG5qT_31.350610_-89.192382@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125679,
-    "wof:geomhash":"caae2837654c0b16591ae1a05d198500",
+    "wof:geomhash":"af838daf6dd630bd03469416adfc3273",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857269653,
-    "wof:lastmodified":1466638070,
+    "wof:lastmodified":1510695007,
     "wof:name":"Asbury United Methodist Church",
     "wof:parent_id":85858833,
     "wof:placetype":"venue",

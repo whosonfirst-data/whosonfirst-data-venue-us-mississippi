@@ -2,14 +2,20 @@
   "id": 857315725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 Hwy 39 N Meridian MS 39301",
+    "addr:housenumber":"1821",
+    "addr:postcode":"39301",
+    "addr:street":"Hwy 39 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.681314,32.37656,-88.681314,32.37656",
     "geom:latitude":32.37656,
     "geom:longitude":-88.681314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1821 Hwy 39 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085897,
         85806651
     ],
+    "wof:brand_id":1125154937,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0btCvxSNfUwRiGbWrVbMup_32.376560_-88.681314@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126736,
-    "wof:geomhash":"e261192df9a2cd453ba7ae5c44d9080c",
+    "wof:geomhash":"af4d4d165ff28edb9c0876f1e1aa4058",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857315725,
-    "wof:lastmodified":1466638759,
+    "wof:lastmodified":1510613312,
     "wof:name":"United Healthcare",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",

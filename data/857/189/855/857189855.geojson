@@ -2,14 +2,20 @@
   "id": 857189855,
   "type": "Feature",
   "properties": {
+    "addr:full":"5454 I- 55 N Jackson MS 39211",
+    "addr:housenumber":"5454;55 n",
+    "addr:postcode":"39211",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.147909,32.374237,-90.147909,32.374237",
     "geom:latitude":32.374237,
     "geom:longitude":-90.147909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5454 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KbhpzCC7rWe8c6mO2VeNn_32.374237_-90.147909@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123988,
-    "wof:geomhash":"c86cdd7ec9bec9615c7134667919c751",
+    "wof:geomhash":"1dfd9158fb98921cb6d4df23027532ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857189855,
-    "wof:lastmodified":1466637011,
+    "wof:lastmodified":1510695861,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

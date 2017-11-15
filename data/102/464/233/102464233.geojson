@@ -2,14 +2,20 @@
   "id": 102464233,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 2nd St Belmont AL 38827",
+    "addr:housenumber":"314",
+    "addr:postcode":"38827",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.207067,34.503561,-88.207067,34.503561",
     "geom:latitude":34.503561,
     "geom:longitude":-88.207067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 2nd St",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85688579,
         102081021
     ],
+    "wof:brand_id":1125151733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wQVv4uNmhsYPWGH4b5S79_34.503561_-88.207067@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"06c534eb5639d89392b30f5cd85c2712",
+    "wof:geomhash":"3709ccf8df5eed7a8ffd407e75089a3e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102464233,
-    "wof:lastmodified":1466635777,
+    "wof:lastmodified":1510698807,
     "wof:name":"Head To Toe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

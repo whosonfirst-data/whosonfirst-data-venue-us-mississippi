@@ -2,14 +2,20 @@
   "id": 857357773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2369 Pass Rd Biloxi MS 39531",
+    "addr:housenumber":"2369",
+    "addr:postcode":"39531",
+    "addr:street":"Pass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.975467,30.401819,-88.975467,30.401819",
     "geom:latitude":30.401819,
     "geom:longitude":-88.975467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2369 Pass Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KF3iPP83mdS3FCPJz4jgb_30.401819_-88.975467@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464127653,
-    "wof:geomhash":"1f80a6bd3b94c25102f60932d1e9345d",
+    "wof:geomhash":"37860de131a915da0684c69a435986a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857357773,
-    "wof:lastmodified":1466639402,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857317679,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Springridge Rd Clinton MS 39056",
+    "addr:housenumber":"406",
+    "addr:postcode":"39056",
+    "addr:street":"Springridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.327138,32.333131,-90.327138,32.333131",
     "geom:latitude":32.333131,
     "geom:longitude":-90.327138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"406 Springridge Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85808715
     ],
+    "wof:brand_id":1125152013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PwTF9sNcl2ILw3YGwCsCa_32.333131_-90.327138@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126788,
-    "wof:geomhash":"0216e922b05f556da539a6dec5a06ede",
+    "wof:geomhash":"44666b65c7f2483081c8a565efe22983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857317679,
-    "wof:lastmodified":1466638787,
+    "wof:lastmodified":1510698660,
     "wof:name":"Trustmark National Bank",
     "wof:parent_id":85808715,
     "wof:placetype":"venue",

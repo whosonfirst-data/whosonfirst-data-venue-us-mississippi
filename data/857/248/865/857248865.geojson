@@ -2,14 +2,20 @@
   "id": 857248865,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Church Ave Gulfport MS 39507",
+    "addr:housenumber":"123",
+    "addr:postcode":"39507",
+    "addr:street":"Church Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.040354,30.38032,-89.040354,30.38032",
     "geom:latitude":30.38032,
     "geom:longitude":-89.040354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Church Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087223,
         85834655
     ],
+    "wof:brand_id":1125155847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29ixsgMX9t4S2g4m56eLwn_30.380320_-89.040354@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125220,
-    "wof:geomhash":"432690da76b79fccedb782102b045c7d",
+    "wof:geomhash":"2166d338f4431fc5ad080e015b37fba9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857248865,
-    "wof:lastmodified":1466637845,
+    "wof:lastmodified":1510697486,
     "wof:name":"St Mark's Episcopal Church",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",

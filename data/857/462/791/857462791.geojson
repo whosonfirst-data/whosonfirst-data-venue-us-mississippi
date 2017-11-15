@@ -2,14 +2,20 @@
   "id": 857462791,
   "type": "Feature",
   "properties": {
+    "addr:full":"13601 Goffville Rd Ocean Springs MS 39564",
+    "addr:housenumber":"13601",
+    "addr:postcode":"39564",
+    "addr:street":"Goffville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.837451,30.447374,-88.837451,30.447374",
     "geom:latitude":30.447374,
     "geom:longitude":-88.837451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13601 Goffville Rd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cjpv3bh2VVpDv1TKrulZZ_30.447374_-88.837451@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464130005,
-    "wof:geomhash":"e20a51c5762f598becacf54977ee0448",
+    "wof:geomhash":"fd10ffc6cdf9189fe8e0b9fd776880b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857462791,
-    "wof:lastmodified":1466640735,
+    "wof:lastmodified":1510699762,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

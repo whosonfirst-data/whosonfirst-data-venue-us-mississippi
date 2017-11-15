@@ -2,14 +2,20 @@
   "id": 857482991,
   "type": "Feature",
   "properties": {
+    "addr:full":"264 Dogwood Blvd Flowood MS 39232",
+    "addr:housenumber":"264",
+    "addr:postcode":"39232",
+    "addr:street":"Dogwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062976,32.338733,-90.062976,32.338733",
     "geom:latitude":32.338733,
     "geom:longitude":-90.062976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"264 Dogwood Blvd",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084869,
         85814785
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FRVdiTZZ1CY5fsCXg3o6B_32.338733_-90.062976@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130428,
-    "wof:geomhash":"65373b92c7e7442d185d6b809c3e6826",
+    "wof:geomhash":"065ba852b3987e737bea3bd584198815",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857482991,
-    "wof:lastmodified":1466641131,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85814785,
     "wof:placetype":"venue",

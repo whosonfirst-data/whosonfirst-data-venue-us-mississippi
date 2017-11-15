@@ -2,6 +2,10 @@
   "id": 857340219,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Co Rd 149 Oxford MS 38655",
+    "addr:housenumber":"34;149",
+    "addr:postcode":"38655",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857340219,
-    "wof:lastmodified":1466639019,
+    "wof:lastmodified":1472631394,
     "wof:name":"Cypress Grove MB Church",
     "wof:parent_id":85858823,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857428861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3680 Sangani Blvd Diberville MS 39532",
+    "addr:housenumber":"3680",
+    "addr:postcode":"39532",
+    "addr:street":"Sangani Blvd Diberville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.898828,30.457886,-88.898828,30.457886",
     "geom:latitude":30.457886,
     "geom:longitude":-88.898828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3680 Sangani Blvd",
     "sg:city":"Diberville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087223,
         85805117
     ],
+    "wof:brand_id":1125154003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x7df8T4nIYtp5Ht9ucfdd_30.457886_-88.898828@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129314,
-    "wof:geomhash":"a74a5965207426234ffee2ef32290f80",
+    "wof:geomhash":"84b8dc2dc7299aefe97f87fd673ef615",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857428861,
-    "wof:lastmodified":1466640373,
+    "wof:lastmodified":1510695152,
     "wof:name":"Star Cleaners",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",

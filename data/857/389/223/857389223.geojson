@@ -2,14 +2,20 @@
   "id": 857389223,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Hwy 6 N Amory MS 38821",
+    "addr:housenumber":"105",
+    "addr:postcode":"38821",
+    "addr:street":"Hwy 6 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.49366,33.994492,-88.49366,33.994492",
     "geom:latitude":33.994492,
     "geom:longitude":-88.49366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Hwy 6 N",
     "sg:city":"Amory",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083163,
         85811897
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28JKl3i1k8TxXcPCdlcZXi_33.994492_-88.493660@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464128414,
-    "wof:geomhash":"61cc89b9a09b97ad73375ccae2c3b020",
+    "wof:geomhash":"505fce9da629643f6b32783dac8402d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857389223,
-    "wof:lastmodified":1466639704,
+    "wof:lastmodified":1510619441,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85811897,
     "wof:placetype":"venue",

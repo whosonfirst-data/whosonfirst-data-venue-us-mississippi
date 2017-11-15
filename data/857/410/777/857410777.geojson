@@ -2,6 +2,10 @@
   "id": 857410777,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S West St Jackson MS 39201",
+    "addr:housenumber":"401",
+    "addr:postcode":"39201",
+    "addr:street":"S;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857410777,
-    "wof:lastmodified":1466640066,
+    "wof:lastmodified":1472631498,
     "wof:name":"Appeals Board",
     "wof:parent_id":85878391,
     "wof:placetype":"venue",

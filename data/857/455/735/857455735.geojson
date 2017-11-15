@@ -2,14 +2,20 @@
   "id": 857455735,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Briarwood Dr Jackson MS 39206",
+    "addr:housenumber":"409",
+    "addr:postcode":"39206",
+    "addr:street":"Briarwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.148819,32.380268,-90.148819,32.380268",
     "geom:latitude":32.380268,
     "geom:longitude":-90.148819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"409 Briarwood Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081407,
         85825187
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S2bXtFIF9Un3V7BTorbMy_32.380268_-90.148819@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464129868,
-    "wof:geomhash":"6ffb04a2c773ca7a8116865f1230db52",
+    "wof:geomhash":"87b39dec1fc4fd865f637d33a5d627c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857455735,
-    "wof:lastmodified":1466640658,
+    "wof:lastmodified":1510602072,
     "wof:name":"Staffmark",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",

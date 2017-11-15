@@ -2,14 +2,20 @@
   "id": 857481971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1888 Main St Madison MS 39110",
+    "addr:housenumber":"1888",
+    "addr:postcode":"39110",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132618,32.46968,-90.132618,32.46968",
     "geom:latitude":32.46968,
     "geom:longitude":-90.132618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1888 Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085905,
         85850859
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LhFwHtEV5VUeru9R1KO80_32.469680_-90.132618@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464130407,
-    "wof:geomhash":"c0355dbee00ebd618daa648caf5b9727",
+    "wof:geomhash":"598052da60757eb5b4c6cecb2ea9df53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857481971,
-    "wof:lastmodified":1466641127,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",

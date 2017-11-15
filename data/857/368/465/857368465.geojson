@@ -2,6 +2,10 @@
   "id": 857368465,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S President St Jackson MS 39201",
+    "addr:housenumber":"200",
+    "addr:postcode":"39201",
+    "addr:street":"S President St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857368465,
-    "wof:lastmodified":1466639503,
+    "wof:lastmodified":1472631437,
     "wof:name":"Jackson Traffic Engineering",
     "wof:parent_id":85878403,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857269047,
   "type": "Feature",
   "properties": {
+    "addr:full":"13013 Cambridge Blvd Ocean Springs MS 39564",
+    "addr:housenumber":"13013",
+    "addr:postcode":"39564",
+    "addr:street":"Cambridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.827452,30.432005,-88.827452,30.432005",
     "geom:latitude":30.432005,
     "geom:longitude":-88.827452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13013 Cambridge Blvd",
     "sg:city":"Ocean Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083161,
         85847223
     ],
+    "wof:brand_id":1125157699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZKcjoOIseLrF0vFaOVS5e_30.432005_-88.827452@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125667,
-    "wof:geomhash":"e43bbdd514bcf0fe03b46ca101e8c6cd",
+    "wof:geomhash":"6ae7f6108ec0c961d26310664bc2e7d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857269047,
-    "wof:lastmodified":1466637962,
+    "wof:lastmodified":1510694902,
     "wof:name":"Physicians Mutual Insurance Co",
     "wof:parent_id":85847223,
     "wof:placetype":"venue",

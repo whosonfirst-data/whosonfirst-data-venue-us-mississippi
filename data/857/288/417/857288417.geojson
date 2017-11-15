@@ -2,14 +2,20 @@
   "id": 857288417,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Hwy 19 N Meridian MS 39307",
+    "addr:housenumber":"1900",
+    "addr:postcode":"39307",
+    "addr:street":"Hwy 19 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.74302,32.374093,-88.74302,32.374093",
     "geom:latitude":32.374093,
     "geom:longitude":-88.74302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 Hwy 19 N",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085897,
         85847207
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7At16BsYWYQ0uO0g8CKSsu_32.374093_-88.743020@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464126092,
-    "wof:geomhash":"8b01fd6cded86660edaeb8fcfeca0b5b",
+    "wof:geomhash":"b7adc0e243e260ee55da4af986c03f39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857288417,
-    "wof:lastmodified":1466638339,
+    "wof:lastmodified":1510700057,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85847207,
     "wof:placetype":"venue",
