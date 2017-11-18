@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.148431,32.375288,-90.148431,32.375288",
     "geom:latitude":32.375288,
     "geom:longitude":-90.148431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5397 I 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464130610,
-    "wof:geomhash":"05c73e445f64b0f01ba66cef64587e18",
+    "wof:geomhash":"fe21dffb31258f6852c8d0c4e4feee3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":857490721,
-    "wof:lastmodified":1472631556,
+    "wof:lastmodified":1510943444,
     "wof:name":"Higginbotham Automobiles, L.L.C.",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857402311
+    ],
     "wof:tags":[
         "new",
         "car"

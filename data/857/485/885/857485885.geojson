@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.107803,32.402878,-90.107803,32.402878",
     "geom:latitude":32.402878,
     "geom:longitude":-90.107803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6600 Old Canton Rd ",
     "sg:city":"Ridgeland",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464130483,
-    "wof:geomhash":"c41460773c932c8776e9a3180c42bfae",
+    "wof:geomhash":"52fdea0c939793dc47d1db67e86f4674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":857485885,
-    "wof:lastmodified":1472631552,
+    "wof:lastmodified":1510943306,
     "wof:name":"Sal & Phil's Po-Boy-Seafood",
     "wof:parent_id":85853833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857490567
+    ],
     "wof:tags":[]
 },
   "bbox": [

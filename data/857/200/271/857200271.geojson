@@ -7,13 +7,16 @@
     "addr:postcode":"38125",
     "addr:street":"Players Club Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.790829,35.062982,-89.790829,35.062982",
     "geom:latitude":35.062982,
     "geom:longitude":-89.790829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3238 Players Club Cir",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464124180,
-    "wof:geomhash":"2d1829d6b520188812f57885786db1b2",
+    "wof:geomhash":"6c855e9743cbf1fb80b6a552597143e9",
     "wof:hierarchy":[],
     "wof:id":857200271,
-    "wof:lastmodified":1472631244,
+    "wof:lastmodified":1510941375,
     "wof:name":"East End Grill MGT Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806895357
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

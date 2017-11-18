@@ -7,13 +7,16 @@
     "addr:postcode":"38632",
     "addr:street":"Mcingvale Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971986,34.827265,-89.971986,34.827265",
     "geom:latitude":34.827265,
     "geom:longitude":-89.971986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2334 McIngvale Rd",
     "sg:city":"Hernando",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464129622,
-    "wof:geomhash":"1e65f1ed47ce0d6b0adb81b55ceca6b4",
+    "wof:geomhash":"a188b493b1178bd29123f6bddfd15323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":857442997,
-    "wof:lastmodified":1472631512,
+    "wof:lastmodified":1510942062,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85833095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857487597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

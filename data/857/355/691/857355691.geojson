@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.819279,33.440861,-88.819279,33.440861",
     "geom:latitude":33.440861,
     "geom:longitude":-88.819279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 Academy Rd",
     "sg:city":"Starkville",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464127609,
-    "wof:geomhash":"7dcb7e5e9d3f16f8bac11aafa85119a0",
+    "wof:geomhash":"a40842b8ecb76f24dbaf91105509ef2c",
     "wof:hierarchy":[],
     "wof:id":857355691,
-    "wof:lastmodified":1472631425,
+    "wof:lastmodified":1510942842,
     "wof:name":"Oby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857363241
+    ],
     "wof:tags":[
         "banquet",
         "rooms"
