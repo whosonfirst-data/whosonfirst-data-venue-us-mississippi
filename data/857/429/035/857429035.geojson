@@ -14,6 +14,7 @@
     "geom:longitude":-90.149014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1220 E Northside Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464129318,
-    "wof:geomhash":"dd74cb6e4cd0292174f3bbadd8544a87",
+    "wof:geomhash":"4761078601a3a210cd49b8f0fb64fc18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":857429035,
-    "wof:lastmodified":1472631480,
+    "wof:lastmodified":1534189805,
     "wof:name":"Nandy's Candy",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857432773
+    ],
     "wof:tags":[
         "confectionery",
         "candy"

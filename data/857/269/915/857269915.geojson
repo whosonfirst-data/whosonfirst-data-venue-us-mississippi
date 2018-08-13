@@ -14,6 +14,7 @@
     "geom:longitude":-90.172088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"764 Lakeland Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464125683,
-    "wof:geomhash":"5cb1e3150c6af8e1d7d8d999fd5a69a0",
+    "wof:geomhash":"79b13188445bc474fb090357680e2d88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857269915,
-    "wof:lastmodified":1472631327,
+    "wof:lastmodified":1534189805,
     "wof:name":"Cabell Eye Clinic",
     "wof:parent_id":85878395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857195779
+    ],
     "wof:tags":[
         "clinic"
     ]

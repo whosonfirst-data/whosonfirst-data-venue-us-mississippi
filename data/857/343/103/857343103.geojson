@@ -14,6 +14,7 @@
     "geom:longitude":-88.433204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1404 Old Aberdeen Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464127337,
-    "wof:geomhash":"91a0ac439d0b88314d079e2843fc787b",
+    "wof:geomhash":"8d5818428795c36030053eefa56b14b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":857343103,
-    "wof:lastmodified":1472631396,
+    "wof:lastmodified":1534189805,
     "wof:name":"Kirklands Inc",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857256747
+    ],
     "wof:tags":[]
 },
   "bbox": [

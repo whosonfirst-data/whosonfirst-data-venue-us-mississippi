@@ -7,6 +7,7 @@
     "addr:postcode":"39042",
     "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.001983,32.279207,-90.001983,32.279207",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.001983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1374 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464130068,
-    "wof:geomhash":"330e4cc61a7e8e0202c890adc8cd990b",
+    "wof:geomhash":"6ae61d94ca149d9c72ea2105bb29ba5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857465105,
-    "wof:lastmodified":1472631523,
+    "wof:lastmodified":1534189806,
     "wof:name":"Sonny's Real Pit Bar-B-Q",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857481621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue",

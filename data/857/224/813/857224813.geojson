@@ -14,6 +14,7 @@
     "geom:longitude":-90.189315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 W Capitol St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464124709,
-    "wof:geomhash":"12803ebcd4c5cc9c15ea73dceb4f0a12",
+    "wof:geomhash":"8735d000f43447d40303a8bd3dc9718b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857224813,
-    "wof:lastmodified":1472631268,
+    "wof:lastmodified":1534189805,
     "wof:name":"Treasury Employees Federal CU",
     "wof:parent_id":85878407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857250659
+    ],
     "wof:tags":[]
 },
   "bbox": [

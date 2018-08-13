@@ -7,6 +7,7 @@
     "addr:postcode":"39110",
     "addr:street":"Cedar Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.233097,32.527647,-90.233097,32.527647",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.233097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"588 Cedar Hill Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464122418,
-    "wof:geomhash":"6ea81cfb456ba295602761a2a056e8c9",
+    "wof:geomhash":"f0ef3f50f09fe25a73bfdc46ac572218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857118359,
-    "wof:lastmodified":1472631176,
+    "wof:lastmodified":1534189805,
     "wof:name":"Marilyn Garbacz Real Estate",
     "wof:parent_id":85850859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857268665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

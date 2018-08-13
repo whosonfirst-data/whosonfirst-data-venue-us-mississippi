@@ -7,6 +7,7 @@
     "addr:postcode":"39232",
     "addr:street":"Lakeland Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.08144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3545 Lakeland Dr",
     "sg:city":"Flowood",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":857255655,
-    "wof:lastmodified":1510604329,
+    "wof:lastmodified":1534189806,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85831643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857491007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-88.933904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920 Cedar Lake Rd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464122084,
-    "wof:geomhash":"71874d6421db32ee3723519892afaafd",
+    "wof:geomhash":"98511531d15c36370d00c8e46423b83b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857107841,
-    "wof:lastmodified":1472631168,
+    "wof:lastmodified":1534189804,
     "wof:name":"Bally Gaming Inc",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857092217
+    ],
     "wof:tags":[
         "mfg"
     ]

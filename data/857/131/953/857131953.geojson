@@ -7,6 +7,7 @@
     "addr:postcode":"38851",
     "addr:street":"N Jackson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.00185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"682 N Jackson St",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"70695ccb53cfa9d24738cb4595638467",
     "wof:hierarchy":[],
     "wof:id":857131953,
-    "wof:lastmodified":1511324434,
+    "wof:lastmodified":1534189806,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857481339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,6 +7,7 @@
     "addr:postcode":"39202",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.17804,32.313226,-90.17804,32.313226",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.17804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1190 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464123663,
-    "wof:geomhash":"f1ac599cec8e1a7d3ad2a65cb155e173",
+    "wof:geomhash":"6d920340e7cab198727f4d2c4c385e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857173389,
-    "wof:lastmodified":1472631223,
+    "wof:lastmodified":1534189805,
     "wof:name":"Nutrition Center",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857391311
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"39211",
     "addr:street":"I",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.150865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4800 I- 55 N",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":857224267,
-    "wof:lastmodified":1511319238,
+    "wof:lastmodified":1534189805,
     "wof:name":"Community Bank",
     "wof:parent_id":85825187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857465429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

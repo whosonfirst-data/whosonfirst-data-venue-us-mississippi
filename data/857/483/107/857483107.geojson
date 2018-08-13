@@ -7,6 +7,7 @@
     "addr:postcode":"39272",
     "addr:street":"I;S Byram",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.252596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5579 I 55 S",
     "sg:city":"Byram",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"37499592db66831e2e03ca3152232a80",
     "wof:hierarchy":[],
     "wof:id":857483107,
-    "wof:lastmodified":1510876459,
+    "wof:lastmodified":1534189806,
     "wof:name":"Captain D's Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857491053
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

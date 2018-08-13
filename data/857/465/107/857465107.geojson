@@ -7,6 +7,7 @@
     "addr:postcode":"39705",
     "addr:street":"Hwy 45 N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.437417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2215 Hwy 45 N",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":857465107,
-    "wof:lastmodified":1511321168,
+    "wof:lastmodified":1534189806,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85822905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857485361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

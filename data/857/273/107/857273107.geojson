@@ -7,6 +7,7 @@
     "addr:postcode":"39202",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.178231,32.31351,-90.178231,32.31351",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.178231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1151 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464125747,
-    "wof:geomhash":"a6287159e25ef3309ef8bccabbd9e7ea",
+    "wof:geomhash":"486f16e133cb26008ba118f8e82a7dea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857273107,
-    "wof:lastmodified":1472631313,
+    "wof:lastmodified":1534189805,
     "wof:name":"Centex Cncord Property MGT LLC",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857387671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

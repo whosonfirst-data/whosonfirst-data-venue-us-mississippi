@@ -2,18 +2,24 @@
   "id": 857272607,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 Hillcrest Dr Laurel MS 39440",
+    "addr:city":"Laurel",
+    "addr:full":"920 Hillcrest Dr Laurel, Ms 39440-4726",
+    "addr:house_number":"920",
     "addr:housenumber":"920",
-    "addr:postcode":"39440",
+    "addr:phone":"+1 601-428-4008",
+    "addr:postcode":"39440-4726",
+    "addr:road":"Hillcrest Dr",
+    "addr:state":"MS",
     "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.163855,31.673318,-89.163855,31.673318",
-    "geom:latitude":31.673318,
-    "geom:longitude":-89.163855,
+    "geom:bbox":"-89.16385,31.67135,-89.16385,31.67135",
+    "geom:latitude":31.67135,
+    "geom:longitude":-89.16385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"920 Hillcrest Dr",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 601 428 4008",
     "sg:postcode":"39440",
     "sg:province":"MS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800221,
         "sg:id":"SG_0gIHgFhozxODNmBTiwgbUH_31.673318_-89.163855@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464125736,
-    "wof:geomhash":"c5fbf6c80109dd7a16ff967481e08e0b",
+    "wof:geomhash":"9df73fc215bac2fb7c2d3ed308d07449",
     "wof:hierarchy":[],
     "wof:id":857272607,
-    "wof:lastmodified":1472631325,
-    "wof:name":"Veterans Memorial Museum Inc",
+    "wof:lastmodified":1534189805,
+    "wof:name":"Veterans Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.163855,
-    31.673318,
-    -89.163855,
-    31.673318
+    -89.16385,
+    31.67135,
+    -89.16385,
+    31.67135
 ],
-  "geometry": {"coordinates":[-89.163855,31.673318],"type":"Point"}
+  "geometry": {"coordinates":[-89.16385,31.67135],"type":"Point"}
 }

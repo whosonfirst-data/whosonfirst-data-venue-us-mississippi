@@ -14,6 +14,7 @@
     "geom:longitude":-90.178231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1151 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464128373,
-    "wof:geomhash":"a6287159e25ef3309ef8bccabbd9e7ea",
+    "wof:geomhash":"486f16e133cb26008ba118f8e82a7dea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857387671,
-    "wof:lastmodified":1472631460,
+    "wof:lastmodified":1534189805,
     "wof:name":"Centex Concord Property Mgmt",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857273107
+    ],
     "wof:tags":[
         "management"
     ]

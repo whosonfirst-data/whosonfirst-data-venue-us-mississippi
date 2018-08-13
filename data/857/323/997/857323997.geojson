@@ -7,6 +7,7 @@
     "addr:postcode":"39042",
     "addr:street":"W Government St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.003394,32.280113,-90.003394,32.280113",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.003394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1580 W Government St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464126931,
-    "wof:geomhash":"30195675d30301b888523e22343ddd59",
+    "wof:geomhash":"1e4e0417b97aa3a0dd53d29b01a563d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857323997,
-    "wof:lastmodified":1472631391,
+    "wof:lastmodified":1534189806,
     "wof:name":"Dragon Palace III",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857481645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

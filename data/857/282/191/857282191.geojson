@@ -14,6 +14,7 @@
     "geom:longitude":-90.226236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2310 Hwy 80 W",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464125966,
-    "wof:geomhash":"55419d4236ce4b48ce6e860ad205b014",
+    "wof:geomhash":"fc160813faa7e88ed030b80ce6ba5638",
     "wof:hierarchy":[],
     "wof:id":857282191,
-    "wof:lastmodified":1472631321,
+    "wof:lastmodified":1534189805,
     "wof:name":"U-Rental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857120749
+    ],
     "wof:tags":[
         "renting",
         "automobile"

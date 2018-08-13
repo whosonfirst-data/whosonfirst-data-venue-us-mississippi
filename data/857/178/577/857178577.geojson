@@ -14,6 +14,7 @@
     "geom:longitude":-90.178106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1225 N State St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464123764,
-    "wof:geomhash":"899a594e356c6c45b5de62f885806dfa",
+    "wof:geomhash":"60a1eb5a37aa1c176ecc7760618fd94b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857178577,
-    "wof:lastmodified":1472631228,
+    "wof:lastmodified":1534189804,
     "wof:name":"Sleep Disorders Center Miss",
     "wof:parent_id":85878389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857127943
+    ],
     "wof:tags":[
         "medical"
     ]

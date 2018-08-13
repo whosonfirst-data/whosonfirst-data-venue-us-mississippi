@@ -2,18 +2,24 @@
   "id": 857125435,
   "type": "Feature",
   "properties": {
-    "addr:full":"360 Beach Blvd Biloxi MS 39530",
+    "addr:city":"Biloxi",
+    "addr:full":"360 Beach Blvd Biloxi, Ms 39530-4503",
+    "addr:house_number":"360",
     "addr:housenumber":"360",
-    "addr:postcode":"39530",
+    "addr:phone":"+1 228-435-6293",
+    "addr:postcode":"39530-4503",
+    "addr:road":"Beach Blvd",
+    "addr:state":"MS",
     "addr:street":"Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.870006,30.392482,-88.870006,30.392482",
-    "geom:latitude":30.392482,
-    "geom:longitude":-88.870006,
+    "geom:bbox":"-88.86992,30.39294,-88.86992,30.39294",
+    "geom:latitude":30.39294,
+    "geom:longitude":-88.86992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"360 Beach Blvd",
     "sg:city":"Biloxi",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "tour",
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529835,
+        102532935
+    ],
     "wof:belongsto":[
         85688579,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800197,
         "sg:id":"SG_5O74TZP10xzJwnDHJCLglb_30.392482_-88.870006@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464122577,
-    "wof:geomhash":"3ba31dbdadead0e13f15dc355d9ef85b",
+    "wof:geomhash":"d713b81b5db1f00376f0fdcb83b32b48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +76,8 @@
         }
     ],
     "wof:id":857125435,
-    "wof:lastmodified":1472631178,
-    "wof:name":"Tullis Toledano Manor",
+    "wof:lastmodified":1534189804,
+    "wof:name":"Tullis-Toledano Manor",
     "wof:parent_id":85805117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -88.870006,
-    30.392482,
-    -88.870006,
-    30.392482
+    -88.86992,
+    30.39294,
+    -88.86992,
+    30.39294
 ],
-  "geometry": {"coordinates":[-88.870006,30.392482],"type":"Point"}
+  "geometry": {"coordinates":[-88.86991999999999,30.39294],"type":"Point"}
 }

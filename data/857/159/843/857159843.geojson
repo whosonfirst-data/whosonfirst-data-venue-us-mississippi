@@ -2,18 +2,24 @@
   "id": 857159843,
   "type": "Feature",
   "properties": {
-    "addr:full":"1419 27th Ave Gulfport MS 39501",
+    "addr:city":"Gulfport",
+    "addr:full":"1419 27 Th Avenue Gulfport, Ms 39501",
+    "addr:house_number":"1419",
     "addr:housenumber":"1419",
+    "addr:phone":"+1 228-868-5849",
     "addr:postcode":"39501",
+    "addr:road":"27 Th Avenue",
+    "addr:state":"MS",
     "addr:street":"27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.094873,30.36883,-89.094873,30.36883",
-    "geom:latitude":30.36883,
-    "geom:longitude":-89.094873,
+    "geom:bbox":"-89.09509,30.36854,-89.09509,30.36854",
+    "geom:latitude":30.36854,
+    "geom:longitude":-89.09509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1419 27th Ave",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 228 868 5849",
     "sg:postcode":"39501",
     "sg:province":"MS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529835,
+        102532935
+    ],
     "wof:belongsto":[
         85688579,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800046,
         "sg:id":"SG_4pVWjRCWVyy3Y6Ov11Ae2M_30.368830_-89.094873@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123342,
-    "wof:geomhash":"3b25c6a02153466cb5cbb6970ff7ca18",
+    "wof:geomhash":"8c22c6decf54a2770b57849d8e792366",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":857159843,
-    "wof:lastmodified":1472631214,
+    "wof:lastmodified":1534189806,
     "wof:name":"Gulfport Centennial Museum",
     "wof:parent_id":85834655,
     "wof:placetype":"venue",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.094873,
-    30.36883,
-    -89.094873,
-    30.36883
+    -89.09509,
+    30.36854,
+    -89.09509,
+    30.36854
 ],
-  "geometry": {"coordinates":[-89.09487300000001,30.36883],"type":"Point"}
+  "geometry": {"coordinates":[-89.09509,30.36854],"type":"Point"}
 }

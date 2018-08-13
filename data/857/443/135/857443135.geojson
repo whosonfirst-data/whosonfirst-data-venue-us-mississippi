@@ -14,6 +14,7 @@
     "geom:longitude":-90.88541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3505 Pemberton Square Blvd",
     "sg:city":"Vicksburg",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464129624,
-    "wof:geomhash":"29af5fa27c125e8057104f3860195c1d",
+    "wof:geomhash":"c1bf4e40c220591c2fd294a3ddb97c78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857443135,
-    "wof:lastmodified":1472631490,
+    "wof:lastmodified":1534189805,
     "wof:name":"Jordan's Boutique",
     "wof:parent_id":85851213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857351677
+    ],
     "wof:tags":[]
 },
   "bbox": [

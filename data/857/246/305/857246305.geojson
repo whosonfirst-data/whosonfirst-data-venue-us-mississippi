@@ -14,6 +14,7 @@
     "geom:longitude":-90.143118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1675 Lakeland Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464125164,
-    "wof:geomhash":"1fe66ce7c089bfbf8f65301ffd5a7fe6",
+    "wof:geomhash":"92742b51e799e633bba41697d9c2138c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":857246305,
-    "wof:lastmodified":1472631287,
+    "wof:lastmodified":1534189805,
     "wof:name":"First Bank Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857192075
+    ],
     "wof:tags":[
         "national",
         "commercial"

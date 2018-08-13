@@ -2,18 +2,24 @@
   "id": 857234815,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 Water Ave Philadelphia MS 39350",
+    "addr:city":"Philadelphia",
+    "addr:full":"303 Water Ave S Philadelphia, Ms 39350",
+    "addr:house_number":"303",
     "addr:housenumber":"303",
+    "addr:phone":"+1 601-656-1284",
     "addr:postcode":"39350",
+    "addr:road":"Water Ave S",
+    "addr:state":"MS",
     "addr:street":"Water Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.114632,32.77022,-89.114632,32.77022",
-    "geom:latitude":32.77022,
-    "geom:longitude":-89.114632,
+    "geom:bbox":"-89.11459,32.76761,-89.11459,32.76761",
+    "geom:latitude":32.76761,
+    "geom:longitude":-89.11459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"303 Water Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800012,
         "sg:id":"SG_6si63hN17TO78F3A61ynPv_32.770220_-89.114632@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124898,
-    "wof:geomhash":"d98eb8b2cde8d34d69f5a82c23015881",
+    "wof:geomhash":"a165d964a61dab42d3db095a812e6fd7",
     "wof:hierarchy":[],
     "wof:id":857234815,
-    "wof:lastmodified":1472631280,
-    "wof:name":"Neshoba Cnty Phildlphia Histrc",
+    "wof:lastmodified":1534189806,
+    "wof:name":"Philadelphia Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -89.114632,
-    32.77022,
-    -89.114632,
-    32.77022
+    -89.11459,
+    32.76761,
+    -89.11459,
+    32.76761
 ],
-  "geometry": {"coordinates":[-89.114632,32.77022],"type":"Point"}
+  "geometry": {"coordinates":[-89.11459000000001,32.76761],"type":"Point"}
 }

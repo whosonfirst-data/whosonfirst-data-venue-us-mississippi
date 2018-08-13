@@ -2,18 +2,23 @@
   "id": 857186547,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 N Siddall St Ripley MS 38663",
+    "addr:city":"Ripley",
+    "addr:full":"106 N Siddall St Ripley, Ms 38663-2036",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
-    "addr:postcode":"38663",
+    "addr:postcode":"38663-2036",
+    "addr:road":"N Siddall St",
+    "addr:state":"MS",
     "addr:street":"N Siddall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.94739,34.730971,-88.94739,34.730971",
-    "geom:latitude":34.730971,
-    "geom:longitude":-88.94739,
+    "geom:bbox":"-88.94737,34.73101,-88.94737,34.73101",
+    "geom:latitude":34.73101,
+    "geom:longitude":-88.94737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 N Siddall St",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -27,19 +32,21 @@
     "sg:phone":"+1 662 512 0099",
     "sg:postcode":"38663",
     "sg:province":"MS",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800053,
         "sg:id":"SG_3Z0AeoEptqoovQHooVxYK3_34.730971_-88.947390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464123924,
-    "wof:geomhash":"31340738887875c1dc6d2864a960d3f9",
+    "wof:geomhash":"8675ed61f5f7caa44054af8dcedeb6e8",
     "wof:hierarchy":[],
     "wof:id":857186547,
-    "wof:lastmodified":1472631234,
-    "wof:name":"Tippah County Historical",
+    "wof:lastmodified":1534189804,
+    "wof:name":"Tippah County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
@@ -48,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.94739,
-    34.730971,
-    -88.94739,
-    34.730971
+    -88.94737,
+    34.73101,
+    -88.94737,
+    34.73101
 ],
-  "geometry": {"coordinates":[-88.94739,34.730971],"type":"Point"}
+  "geometry": {"coordinates":[-88.94737000000001,34.73101],"type":"Point"}
 }

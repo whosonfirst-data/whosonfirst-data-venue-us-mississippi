@@ -14,6 +14,7 @@
     "geom:longitude":-90.185492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"239 N Lamar St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464126524,
-    "wof:geomhash":"edc9d2d8d5e99a034f45eae33d47bee7",
+    "wof:geomhash":"fc349ccbf3c355c43f823e1cab2a7607",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857305263,
-    "wof:lastmodified":1472631352,
+    "wof:lastmodified":1534189805,
     "wof:name":"Arts Commission",
     "wof:parent_id":85878401,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857147881
+    ],
     "wof:tags":[]
 },
   "bbox": [

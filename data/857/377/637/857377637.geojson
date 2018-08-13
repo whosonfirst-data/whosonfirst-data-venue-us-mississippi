@@ -14,6 +14,7 @@
     "geom:longitude":-90.141577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5903 Ridgewood Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464128069,
-    "wof:geomhash":"923896ff5f69448a51f72322025116f6",
+    "wof:geomhash":"7b87904cc5f27a538dd6a857a51c9714",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":857377637,
-    "wof:lastmodified":1472631452,
+    "wof:lastmodified":1534189805,
     "wof:name":"Heart Associates-Central Ms",
     "wof:parent_id":85822959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857330715
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

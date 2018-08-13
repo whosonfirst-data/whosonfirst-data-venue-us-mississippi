@@ -7,6 +7,7 @@
     "addr:postcode":"38852",
     "addr:street":"Battleground Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.201865,34.805621,-88.201865,34.805621",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.201865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1008 Battleground Dr",
     "sg:city":"Iuka",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464122844,
-    "wof:geomhash":"6f9bbf17758744dde733bf9e77784324",
+    "wof:geomhash":"2c519fa3d132a1269a7e60ed3a7b4805",
     "wof:hierarchy":[],
     "wof:id":857137727,
-    "wof:lastmodified":1472631189,
+    "wof:lastmodified":1534189805,
     "wof:name":"Board of Supervis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857238505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "policy"

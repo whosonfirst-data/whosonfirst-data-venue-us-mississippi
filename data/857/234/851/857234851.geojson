@@ -2,18 +2,24 @@
   "id": 857234851,
   "type": "Feature",
   "properties": {
-    "addr:full":"1109 Meigg St Corinth MS 38834",
+    "addr:city":"Corinth",
+    "addr:full":"1109 Meigg St Corinth, Ms 38834-6121",
+    "addr:house_number":"1109",
     "addr:housenumber":"1109",
-    "addr:postcode":"38834",
+    "addr:phone":"+1 662-665-8500",
+    "addr:postcode":"38834-6121",
+    "addr:road":"Meigg St",
+    "addr:state":"MS",
     "addr:street":"Meigg St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.515326,34.928509,-88.515326,34.928509",
-    "geom:latitude":34.928509,
-    "geom:longitude":-88.515326,
+    "geom:bbox":"-88.51457,34.92833,-88.51457,34.92833",
+    "geom:latitude":34.92833,
+    "geom:longitude":-88.51457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1109 Meigg St",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530603
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402800064,
         "sg:id":"SG_7YuqkNFJxXO05VK5zQtoNQ_34.928509_-88.515326@1294163950"
     },
     "wof:country":"US",
     "wof:created":1464124899,
-    "wof:geomhash":"f7229ad84f8aa282453d9c01162af9cb",
+    "wof:geomhash":"929b8a6c9e6fe411d672e082032ab7e3",
     "wof:hierarchy":[],
     "wof:id":857234851,
-    "wof:lastmodified":1472631280,
-    "wof:name":"Black History Museum Corint",
+    "wof:lastmodified":1534189805,
+    "wof:name":"Black History Museum Corinth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -88.515326,
-    34.928509,
-    -88.515326,
-    34.928509
+    -88.51457,
+    34.92833,
+    -88.51457,
+    34.92833
 ],
-  "geometry": {"coordinates":[-88.515326,34.928509],"type":"Point"}
+  "geometry": {"coordinates":[-88.51457000000001,34.92833],"type":"Point"}
 }

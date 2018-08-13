@@ -14,6 +14,7 @@
     "geom:longitude":-90.160007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 Lakeland Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464129444,
-    "wof:geomhash":"b13ac82bae62a5f08f4c52c2f5bea59d",
+    "wof:geomhash":"4e1d1d02e970f29e27740cd35ee3452d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":857433829,
-    "wof:lastmodified":1472631503,
+    "wof:lastmodified":1534189805,
     "wof:name":"Craftsmen's Guild-Mississippi",
     "wof:parent_id":85858753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ms",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857394391
+    ],
     "wof:tags":[
         "craft",
         "gallery",
